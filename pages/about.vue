@@ -9,7 +9,7 @@ const TeamImg3 = "https://source.unsplash.com/ZHvM3XIOHoE";
 
 const team = [
   {
-    name: "Janette Lynch",
+    name: "Giovanna Lince",
     title: "Senior Director",
     avatar: {
       src: TeamImg1,
@@ -18,8 +18,8 @@ const team = [
     },
   },
   {
-    name: "Marcell Ziemann",
-    title: "Principal Strategist",
+    name: "Marcello Ziemano",
+    title: "Principale Stratega",
     avatar: {
       src: TeamImg2,
       width: 580,
@@ -27,7 +27,7 @@ const team = [
     },
   },
   {
-    name: "Robert Palmer",
+    name: "Roberto Palmieri",
     title: "Marketing Engineer",
     avatar: {
       src: TeamImg3,
@@ -41,18 +41,19 @@ const team = [
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>About</template>
-      <template v-slot:desc>We are a small passionate team.</template>
+      <template v-slot:title>Chi siamo</template>
+      <template v-slot:desc>Un team di appassionati.</template>
     </LandingSectionhead>
 
     <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
       <h2 class="font-bold text-3xl text-gray-800">
-        Empowering the world with Nuxt.
+        BIN Bitcoin Italia Network.
       </h2>
       <p class="text-lg leading-relaxed text-slate-500">
-        We're a multi-cultural team from around the world! We come from diverse
-        backgrounds, bringing different personalities, experiences and skills to
-        the job. This is what makes our team so special.
+        Siamo un team multiculturale europeo 
+        proveniente da diverse parti d'Italia,
+        Arriviamo da contesti diversi, portando personalità, esperienze e competenze uniche nel nostro lavoro.
+        È questo che rende il nostro team così speciale.
       </p>
     </div>
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
