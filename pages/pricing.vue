@@ -24,10 +24,10 @@ const pricing = [
   {
     name: "Startup",
     price: {
-      monthly: "$19",
-      annual: "$16",
-      discount: "10%",
-      original: "$24",
+      monthly: "FREE",
+      annual: "FREE",
+      discount: "FREE",
+      original: "FREE",
     },
     popular: true,
     features: [
