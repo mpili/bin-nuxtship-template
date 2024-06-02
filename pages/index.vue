@@ -1,4 +1,5 @@
 <script setup>
+import '~/assets/css/test.css'
 definePageMeta({
   layout: "landing",
 });
@@ -12,3 +13,7 @@ definePageMeta({
     <LandingCta></LandingCta>
   </LandingContainer>
 </template>
+
+<style>
+@import url("~/assets/css/second.css");
+</style>
