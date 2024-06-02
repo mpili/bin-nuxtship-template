@@ -26,7 +26,7 @@ const open = ref(false);
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="text-lg"
-          ><span class="font-bold text-slate-800">Bitcoin</span
+          ><span class="font-bold text-orange-800">Bitcoin</span
           ><span class="text-slate-500"> Italia </span
           ><span class="text-slate-400"> Network</span>
         </a>
