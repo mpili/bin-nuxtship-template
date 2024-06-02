@@ -1,3 +1,8 @@
-.text-white {
+.text-slate-800 {
+    color: #ef7000;
+}
+
+.text-orange {
+    --tw-text-opacity: 1;
     color: #ef7000;
 }
