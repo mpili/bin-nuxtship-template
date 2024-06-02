@@ -15,5 +15,5 @@ definePageMeta({
 </template>
 
 <style>
-@import url("~/assets/css/second.css");
+@import url("~/assets/css/test.css");
 </style>
