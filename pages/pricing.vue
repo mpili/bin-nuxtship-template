@@ -45,7 +45,7 @@ const pricing = [
   },
   {
     name: "Enterprise",
-    price: "Custom",
+    price: "COSTA TROPPO",
     popular: false,
     features: [
       "All Pro Features",
