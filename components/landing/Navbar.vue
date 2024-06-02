@@ -5,15 +5,15 @@ const menuitems = [
     path: "#",
   },
   {
-    title: "Pricing",
+    title: "Mappa",
     path: "/pricing",
   },
   {
-    title: "About",
+    title: "Chi siamo",
     path: "/about",
   },
   {
-    title: "Contact",
+    title: "Contattaci",
     path: "/contact",
   },
 ];
@@ -26,8 +26,9 @@ const open = ref(false);
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="text-lg"
-          ><span class="font-bold text-slate-800">Nuxt</span
-          ><span class="text-slate-500">ship</span>
+          ><span class="font-bold text-slate-800">Bitcoin</span
+          ><span class="text-slate-500"> Italia </span
+          ><span class="text-slate-400"> Network</span>
         </a>
         <div class="block lg:hidden">
           <button @click="open = !open" class="text-gray-800">
@@ -69,15 +70,15 @@ const open = ref(false);
         </ul>
         <div class="lg:hidden flex items-center mt-3 gap-4">
           <LandingLink href="#" styleName="muted" block size="md"
-            >Log in</LandingLink
+            >Accedi</LandingLink
           >
-          <LandingLink href="#" size="md" block>Sign up</LandingLink>
+          <LandingLink href="#" size="md" block>Registrati</LandingLink>
         </div>
       </nav>
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a href="#">Log in</a>
-          <LandingLink href="#" size="md">Sign up</LandingLink>
+          <a href="#">Accedi</a>
+          <LandingLink href="#" size="md">Registrati</LandingLink>
         </div>
       </div>
     </header>

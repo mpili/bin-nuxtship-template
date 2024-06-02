@@ -1,39 +1,39 @@
 <script setup>
 const features = [
   {
-    title: "Bring Your Own Framework",
+    title: "Comunità",
     description:
-      "Build your site using Vue, web components, or just plain ol' HTML + JavaScript.",
+      "Costituite da appassionati, professionisti e innovatori che condividono la passione per Bitcoin e lavorano insieme per promuoverne conoscenza e adozione sul territorio.",
     icon: "bx:bxs-briefcase",
   },
   {
-    title: "100% Static HTML, No JS",
+    title: "Dove usare Bitcoin",
     description:
-      "Nuxt renders your entire page to static HTML, removing all JavaScript from your final build by default.",
+      "Scopri luoghi e servizi in Italia che accettano Bitcoin, permettendoti di vivere l'esperienza dell'economia digitale decentralizzata.",
     icon: "bx:bxs-window-alt",
   },
   {
-    title: "On-Demand Components",
+    title: "Formazione",
     description:
-      "Need some JS? Nuxt can automatically hydrate interactive components when they become visible on the page.  ",
+      "Questa sezione è pensata per offrirti metterti in condizioni di diventare un utente esperto e sicuro nel mondo di Bitcoin.",
     icon: "bx:bxs-data",
   },
   {
-    title: "Broad Integration",
+    title: "Documentazione",
     description:
-      "Nuxt supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
+      "Dedicata a fornire le basi essenziali per i nuovi bitcoiner e contenuti avanzati per i più esperti. Qui troverai risorse utili e informazioni fondamentali.",
     icon: "bx:bxs-bot",
   },
   {
-    title: "SEO Enabled",
+    title: "Eventi, meetup, conferenze",
     description:
-      "Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication. It just works!",
+      "Calendari dei meet-up Bitcoin, delle Conferenze Bitcoin in Italia, Eventi organizzati da associazioni e/o scuole, Comuni e istituzioni che accettano Bitcoin",
     icon: "bx:bxs-file-find",
   },
   {
-    title: "Community",
+    title: "Sviluppo",
     description:
-      "Nuxt is an open source project powered by hundreds of contributors making thousands of individual contributions.",
+      "Sviluppiamo soluzioni su misura per i nostri clienti grazie al contributo di un team dedicato di esperti.",
     icon: "bx:bxs-user",
   },
 ];
@@ -42,11 +42,11 @@ const features = [
 <template>
   <div class="mt-16 md:mt-0">
     <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-      Everything you need to start a website
+      Uniamo le realtà Bitcoin Italiane 
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Nuxt comes batteries included. It takes the best parts of state-of-the-art
-      tools and adds its own innovations.
+      La nostra missione è creare un punto d'incontro per appassionati, esperti e aziende, 
+      favorendo lo scambio di idee, progetti e collaborazioni.
     </p>
   </div>
 

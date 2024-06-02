@@ -66,9 +66,9 @@ const pricing = [
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>Pricing</template>
+      <template v-slot:title>Prezzi</template>
       <template v-slot:desc
-        >Simple & Predictable pricing. No Surprises.</template
+        >Prezzi semplici e prevedibili. Senza sorprese.</template
       >
     </LandingSectionhead>
 
