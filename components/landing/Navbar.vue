@@ -1,11 +1,11 @@
 <script setup>
 const menuitems = [
   {
-    title: "Features",
-    path: "#",
+    title: "Community",
+    path: "/communitiesmap",
   },
   {
-    title: "Mappa",
+    title: "Prezzi",
     path: "/pricing",
   },
   {
