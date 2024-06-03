@@ -6,5 +6,6 @@ definePageMeta({
 
 <template>
 	<LandingContainer>
+		<LandingIframapas></LandingIframapas>
 	</LandingContainer>
 </template>
