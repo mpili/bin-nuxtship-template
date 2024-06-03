@@ -1,11 +1,13 @@
 <script setup>
+// import { useImage } from 'nuxt/image'
+
 definePageMeta({
   layout: "landing",
 });
 
-const TeamImg1 = "/_nuxt/assets/img/alessandro.jpg";
-const TeamImg2 = "/_nuxt/assets/img/carlo.jpg";
-const TeamImg3 = "/_nuxt/assets/img/max.jpg";
+const TeamImg1 = "/img/alessandro.jpg";
+const TeamImg2 = "/img/carlo.jpg";
+const TeamImg3 = "/img/max.jpg";
 
 const team = [
   {
@@ -52,7 +54,7 @@ const team = [
       <p class="text-lg leading-relaxed text-slate-500">
         Siamo un team multiculturale europeo 
         proveniente da diverse parti d'Italia,
-        Proveniamo da contesti diversi, portando personalità, esperienze e competenze uniche nel nostro lavoro.
+        da contesti diversi, con esperienze e competenze uniche nel nostro lavoro.
         È questo che rende il nostro team così speciale.
       </p>
     </div>
