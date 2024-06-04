@@ -5,16 +5,13 @@ definePageMeta({
   layout: "landing",
 });
 
-const TeamImg1 = "/img/alessandro.jpg";
-const TeamImg2 = "/img/carlo.jpg";
-const TeamImg3 = "/img/max.jpg";
 
 const team = [
   {
     name: "Alessandro",
     title: "Chief Disruption Officer",
     avatar: {
-      src: TeamImg1,
+      src: "/img/chisiamo/alessandro.png",
       width: 480,
       height: 560,
     },
@@ -23,7 +20,7 @@ const team = [
     name: "Carlo",
     title: "Chief Empathy Officer",
     avatar: {
-      src: TeamImg2,
+      src: "/img/chisiamo/carlo.png",
       width: 580,
       height: 580,
     },
@@ -32,7 +29,25 @@ const team = [
     name: "Max",
     title: "Marketing Engineer",
     avatar: {
-      src: TeamImg3,
+      src: "/img/chisiamo/max.png",
+      width: 580,
+      height: 580,
+    },
+  },
+  {
+    name: "Pietro",
+    title: "Networking Lead",
+    avatar: {
+      src: "/img/chisiamo/pietro.png",
+      width: 580,
+      height: 580,
+    },
+  },
+  {
+    name: "Mauro",
+    title: "Decentralization Architect",
+    avatar: {
+      src: "/img/chisiamo/mauro.png",
       width: 580,
       height: 580,
     },
