@@ -16,21 +16,21 @@ const features = [
   },
   {
     title: "Formazione",
-    url: "/",
+    url: "/formazione",
     description:
       "Questa sezione è pensata per offrirti metterti in condizioni di diventare un utente esperto e sicuro nel mondo di Bitcoin.",
     icon: "bx:bxs-data",
   },
   {
     title: "Documentazione",
-    url: "/",
+    url: "/documentazione",
     description:
       "Dedicata a fornire le basi essenziali per i nuovi bitcoiner e contenuti avanzati per i più esperti. Qui troverai risorse utili e informazioni fondamentali.",
     icon: "bx:bxs-bot",
   },
   {
     title: "Eventi, meetup, conferenze",
-    url: "/",
+    url: "/eventi",
     description:
       "Calendari dei meet-up Bitcoin, delle Conferenze Bitcoin in Italia, Eventi organizzati da associazioni e/o scuole, Comuni e istituzioni che accettano Bitcoin",
     icon: "bx:bxs-file-find",
