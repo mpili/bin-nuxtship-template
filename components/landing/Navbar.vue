@@ -9,8 +9,8 @@ const menuitems = [
     path: "/dove",
   },
   {
-    title: "Store",
-    path: "/store",
+    title: "Shop",
+    path: "/shop",
   },
   {
     title: "Documentazione",
@@ -22,7 +22,7 @@ const menuitems = [
   },
   {
     title: "Contattaci",
-    path: "/contact",
+    path: "/contattaci",
   },
 ];
 
