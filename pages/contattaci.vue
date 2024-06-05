@@ -5,11 +5,17 @@ definePageMeta({
 </script>
 
 <template>
-	<LandingContainer>
-		<LandingSectionhead>
-      <template v-slot:title>Comunità Bitcoin in Italia</template>
-      <template v-slot:desc>Le comunità locali italiane.</template>
-    </LandingSectionhead>
-		<LandingFormzoho></LandingFormzoho>
-	</LandingContainer>
+<LandingContainer>
+	<LandingSectionhead>
+		<template v-slot:title>Contattaci</template>
+		<template v-slot:desc>Scrivici: 
+		se hai domande, dubbi,
+		richieste di aggiornamento, 
+		di contatto, proposte,  o necessiti di assistenza, non esitare a contattarci.</template>
+	</LandingSectionhead>
+	<LandingFormzoho></LandingFormzoho>
+	<div>
+		<a href="/chisiamo">Chi siamo</a>
+	</div>
+</LandingContainer>
 </template>

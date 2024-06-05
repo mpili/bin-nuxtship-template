@@ -18,8 +18,8 @@ const calendari = [
 <template>
 	<LandingContainer>
 		<LandingSectionhead>
-			<template v-slot:title>Formazione</template>
-			<template v-slot:desc>I nostri corsi di formazione.</template>
+			<template v-slot:title>Eventi</template>
+			<template v-slot:desc>Il calendario Bitcoin.</template>
 		</LandingSectionhead>
 		<div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
 			<div class="mx-auto max-w-md">

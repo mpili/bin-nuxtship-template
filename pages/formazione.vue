@@ -11,10 +11,6 @@ const corsi = [
 		nome: "Corsi PlanB Network",
 		url: "https://planb.network/it/courses",
 	},
-	{
-		nome: "Bitcoin Holiday",
-		url: "https://bitcoin.holiday/",
-	},
 ];
 </script>
 

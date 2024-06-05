@@ -6,23 +6,33 @@ definePageMeta({
 const mappe = [
   {
     nome: "Coinmap it",
+	titololink: "coinmap.it",
     url: "https://coinmap.it/",
+	img: "/img/dove/coinmap_it1000x420.png",
   },
   {
 	  nome: "Coinmap org",
+	  titololink: "coinmap.org",
 	  url: "https://coinmap.org/view/",
+	  img: "/img/dove/coinmap-org1000x420.png",
 	},
 	{
 		nome: "BTC Map",
+		titololink: "btcmap.org",
 		url: "https://btcmap.org/map",
+		img: "/img/dove/btcmap_org1000x420.png",
 	},
 	{
 		nome: "Map Bitcoin.com",
+		titololink: "map.bitcoin.com",
 		url: "https://map.bitcoin.com/",
+		img: "/img/dove/map_bitcoin_com1000x420.png",
 	},
 	{
 	  nome: "Qui Bitcoin",
+	  titololink: "quibitcoin.it",
 	  url: "https://www.quibitcoin.it",
+	  img: "/img/dove/quibitcoin_it1000x420.png",
 	},
 ];
 </script>
@@ -31,29 +41,10 @@ const mappe = [
 	<LandingContainer>
 		<LandingSectionhead>
 			<template v-slot:title>Dove</template>
-			<template v-slot:desc>Attività che accettano Bitcoin.</template>
+			<template v-slot:desc>Le mappe delle attività Bitcoin sul territorio Italiano.</template>
 		</LandingSectionhead>
-		<div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
-			<div class="mx-auto max-w-md">
-
-				<ul class="space-y-4">
-					<li v-for="mappa of mappe" class="flex items-center">
-						<svg class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2" stroke-linecap="round" stroke-linejoin="round">
-							<circle cx="12" cy="12" r="11" />
-							<path d="m8 13 2.165 2.165a1 1 0 0 0 1.521-.126L16 9" fill="none" />
-						</svg>
-						<p class="ml-4">
-							<a
-							:href="mappa.url"
-							class="flex lg:px-3 py-2 text-gray-600 hover:text-gray-900"
-							target="_blank"
-							>
-							{{ mappa.nome }}
-							</a>
-						</p>
-				</li>
-				</ul>
-			</div>
+		<div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
+			<LandingDove v-for="item of mappe" :dove="item" />
 		</div>
 	</LandingContainer>
 </template>
