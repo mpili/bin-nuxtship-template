@@ -7,7 +7,7 @@
       Sia che tu sia alle prime armi, o che sia un esperto.
     </p>
     <div class="flex mt-5">
-      <LandingLink href="/contact" styleName="inverted">Inizia da qui</LandingLink>
+      <LandingLink href="/contattaci" styleName="inverted">Inizia da qui</LandingLink>
     </div>
   </div>
 </template>
