@@ -9,7 +9,7 @@ const menuitems = [
     path: "/dove",
   },
   {
-    title: "Shop",
+    title: "E-Shop",
     path: "/shop",
   },
   {
@@ -20,7 +20,7 @@ const menuitems = [
     title: "Chi siamo",
     path: "/chisiamo",
   },
-  {
+{
     title: "Contattaci",
     path: "/contattaci",
   },
