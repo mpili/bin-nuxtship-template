@@ -36,10 +36,10 @@ const features = [
     icon: "bx:bxs-file-find",
   },
   {
-    title: "Sviluppo",
-    url: "/",
+    title: "Business",
+    url: "/contattaci",
     description:
-      "Sviluppiamo soluzioni su misura per i nostri clienti grazie al contributo di un team dedicato di esperti.",
+      "Nuove iniziative per supportare la diffusione di Bitcoin in Italia. Partecipa ora al programma pilota e metti in vetrina la tua azienda.",
     icon: "bx:bxs-user",
   },
 ];
@@ -63,13 +63,12 @@ const features = [
       <div class="mt-1 bg-black rounded-full p-2 w-8 h-8 shrink-0">
         <Icon class="text-white" :name="item.icon" />
       </div>
-      <div><a :href=item.url>
-        <h3 class="font-semibold text-lg">{{ item.title }}</h3>
-        <p class="text-slate-500 mt-2 leading-relaxed">
-          {{ item.description }}
-        </p>
-      </a>
-      </div>
+        <LandingLink :href=item.url styleName="inverted">
+          <h3 class="font-semibold text-lg">{{ item.title }}</h3>
+          <p class="text-slate-500 mt-2 leading-relaxed text-left">
+            {{ item.description }}
+          </p>
+        </LandingLink>
     </div>
   </div>
 </template>

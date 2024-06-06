@@ -2,5 +2,14 @@
     "id": "aloha-finance-podcast",
     "nome": "Aloha Finance Podcast",
     "img": "/img/podcast/aloha-finance-podcast.jpg",
-    "url": "https://fountain.fm/show/3027567"
-};
+    "apps": [
+        {
+            "app": "fountain",
+            "url": "https://fountain.fm/show/3027567"
+        },
+        {
+            "app": "spotify",
+            "url": "https://open.spotify.com/show/59KqRmG87uNOebdamA5kU1?si=479cce72073b4c2b"
+        }
+    ]
+}

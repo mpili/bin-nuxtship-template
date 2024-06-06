@@ -19,10 +19,10 @@ var { pending, data } = useFetch(url_api, {
 
 <template>
   <LandingContainer>
-    <p> {{ $route.params.id }}</p>
-    <p> {{ id }}</p>
-    <p> {{ url_api }}</p>
-    <p> {{ data }}</p>
-    <!-- <LandingPodc :podc="data" /> -->
+    <!-- <p> {{ $route.params.id }}</p> -->
+    <!-- <p> {{ id }}</p> -->
+    <!-- <p> {{ url_api }}</p> -->
+    <!-- <p> {{ data }}</p> -->
+    <LandingPodcast :podc="data" />
   </LandingContainer>
 </template>
