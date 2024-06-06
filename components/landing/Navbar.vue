@@ -13,8 +13,8 @@ const menuitems = [
     path: "/shop",
   },
   {
-    title: "Documentazione",
-    path: "/documentazione",
+    title: "Formazione",
+    path: "/formazione",
   },
   {
     title: "Chi siamo",

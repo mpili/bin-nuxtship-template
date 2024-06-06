@@ -52,6 +52,16 @@ const team = [
       height: 580,
     },
   },
+
+  {
+    name: "TU!",
+    title: "unisciti a noi",
+    avatar: {
+      src: "/img/chisiamo/guyfawkes.png",
+      width: 580,
+      height: 580,
+    },
+  },
 ];
 </script>
 

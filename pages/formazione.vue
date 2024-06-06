@@ -5,9 +5,18 @@ definePageMeta({
 
 const corsi = [
 	{
+		nome: "Glossario Bitcoin",
+		url: "https://shrill-water-3846.on.fleek.co/",
+	},
+	{
+		nome: "Documenti",
+		url: "/documentazione",
+	},
+	{
 		nome: "Podcast Bitcoin in Italiano",
 		url: "/podcast",
-	},	{
+	},
+	{
 		nome: "Corsi PlanB Network",
 		url: "https://planb.network/it/courses",
 	},
@@ -18,7 +27,7 @@ const corsi = [
 	<LandingContainer>
 		<LandingSectionhead>
 			<template v-slot:title>Formazione</template>
-			<template v-slot:desc>I nostri corsi di formazione.</template>
+			<template v-slot:desc>Le nostre proposte per acquisire competenze.</template>
 		</LandingSectionhead>
 		<div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
 			<div class="mx-auto max-w-md">

@@ -4,10 +4,6 @@ definePageMeta({
 });
 const risorseDocumentazione = [
   {
-	nome: "Glossario Bitcoin",
-	url: "https://shrill-water-3846.on.fleek.co/",
-  },
-  {
 	nome: "Guide di Atlas 21",
 	url: "https://atlas21.com/it/learn-it/",
   },
