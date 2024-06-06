@@ -7,6 +7,7 @@ const podcasts = [
 	nome: "Bitcoin Italia Podcast",
 	url: "https://bitcoinitaliapodcast.it/podcast/stagione/6",
 	img: "/img/podcast/bitcoin_italia_podcast.jpg",
+	id: "bitcoin-italia-podcast",
   },
   {
 	nome: "Bitcoin Freedom",
