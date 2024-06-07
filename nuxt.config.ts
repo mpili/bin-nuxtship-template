@@ -13,7 +13,6 @@ export default defineNuxtConfig({
     '@nuxtjs/robots',
   ],
   robots: {
-    UserAgent: '*',
-    Disallow: '/'
+    configPath: 'config/robots.js',
   }
 });
