@@ -2,5 +2,35 @@
     "id": "il-priorato-del-bitcoin",
     "nome": "Il priorato del Bitcoin",
     "img": "/img/podcast/il-priorato-del-bitcoin.jpg",
-    "url": "https://fountain.fm/show/6kG6bfM30uTxB0VR7K3U"
-};
+    "apps": [
+        {
+            "app": "fountain",
+            "url": "https://fountain.fm/show/6kG6bfM30uTxB0VR7K3U"
+        },
+        {
+            "app": "spotify",
+            "url": "https://open.spotify.com/show/51jZKEaXaYKypCICVHkkZE"
+        },
+        {
+            "app": "apple",
+            "url": "https://podcasts.apple.com/it/podcast/il-priorato-del-bitcoin/id1668567418"
+        },
+        {
+            "app": "amazon",
+            "url": "https://music.amazon.it/podcasts/b1b27a88-c1c9-48de-a301-20f31d29c676/il-priorato-del-bitcoin"
+        },
+        {
+            "app": "google",
+            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZDVkNWIyMC9wb2RjYXN0L3Jzcw"
+        },
+        {
+            "app": "podchaser",
+            "url": "https://www.podchaser.com/podcasts/il-priorato-del-bitcoin-4927036"
+        },
+        {
+            "app": "podcast addict",
+            "url": "https://podcastaddict.com/podcast/il-priorato-del-bitcoin/4115328"
+        }
+    ],
+    "sito": "https://priorato.org/"
+}

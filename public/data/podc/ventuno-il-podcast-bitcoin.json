@@ -2,5 +2,27 @@
     "id": "ventuno-il-podcast-bitcoin",
     "nome": "Ventuno, il Podcast Bitcoin",
     "img": "/img/podcast/ventuno-il-podcast-bitcoin.jpg",
-    "url": "https://fountain.fm/show/6781320"
-};
+    "apps": [
+        {
+            "app": "fountain",
+            "url": "https://fountain.fm/show/6781320"
+        },
+        {
+            "app": "spotify",
+            "url": "https://open.spotify.com/show/3TG1XHlY0uX8HKrXdmTCMz"
+        },
+        {
+            "app": "podcast index",
+            "url": "https://podcastindex.org/podcast/6781320"
+        },
+        {
+            "app": "apple",
+            "url": "https://podcasts.apple.com/it/podcast/ventuno-il-podcast-bitcoin/id1736086691"
+        },
+        {
+            "app": "google",
+            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly92ZW50dW5vLnNwYWNlL2ZlZWQueG1s"
+        }
+    ],
+    "sito": "https://ventuno.space/podcast/"
+}

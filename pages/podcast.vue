@@ -6,48 +6,48 @@ const podcasts = [
   {
 	nome: "Bitcoin Italia Podcast",
 	url: "https://bitcoinitaliapodcast.it/podcast/stagione/6",
-	img: "/img/podcast/bitcoin_italia_podcast.jpg",
+	img: "/img/podcast/bitcoin-italia-podcast.jpg",
 	id: "bitcoin-italia-podcast",
   },
   {
 	nome: "Bitcoin Freedom",
 	url: "https://fountain.fm/show/GeOiZ3OrPLYBueqcRP7n",
-	img: "/img/podcast/bitcoin_freedom.jpg",
+	img: "/img/podcast/bitcoin-freedom.jpg",
   },
     {
 	nome: "Il priorato del Bitcoin",
 	url: "https://priorato.org/",
-	img: "/img/podcast/il_priorato_del_bitcoin.jpg",
+	img: "/img/podcast/il-priorato-del-bitcoin.jpg",
   },
   {
 	nome: "Arancione Podcast",
 	url: "https://fountain.fm/show/412K3pgOYcSg6kPdaVKt",
-	img: "/img/podcast/arancione_podcast.jpg",
+	img: "/img/podcast/arancione-podcast.jpg",
   },
 {
 	nome: "Bitcoin d’Asporto",
 	url: "https://fountain.fm/show/fvkvDKJntPAGaPSd49rB",
-	img: "/img/podcast/bitcoin_d_asporto.jpg",
+	img: "/img/podcast/bitcoin-d-asporto.jpg",
   },
   {
 	nome: "The Bitcoin Theory",
 	url: "https://open.spotify.com/show/0ag9gCPszHrvCShHkuKlHp",
-	img: "/img/podcast/the_bitcoin_theory.jpg",
+	img: "/img/podcast/the-bitcoin-theory.jpg",
   },
   {
 	nome: "Cultura Bitcoin",
 	url: "https://open.spotify.com/show/4WCmgP4KVYC4nmoqmqUY5D",
-	img: "/img/podcast/cultura_bitcoin.jpg",
+	img: "/img/podcast/cultura-bitcoin.jpg",
   },
   {
 	nome: "Sicurezza Bitcoin",
 	url: "https://fountain.fm/show/5HHVEWLX26FTlvpLr0s5",
-	img: "/img/podcast/sicurezza_bitcoin.jpg",
+	img: "/img/podcast/sicurezza-bitcoin.jpg",
   },
   {
 	nome: "Cripto -  Il Sole 24 Ore",
 	url: "https://podcast.ilsole24ore.com/serie/cripto-AEC88W9B",
-	img: "/img/podcast/cripto.jpg",
+	img: "/img/podcast/cripto-il-sole-24-ore.jpg",
   },
 ]
 </script>
