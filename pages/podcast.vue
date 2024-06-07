@@ -3,52 +3,79 @@ definePageMeta({
   layout: "landing",
 });
 const podcasts = [
-  {
-	nome: "Bitcoin Italia Podcast",
-	url: "https://bitcoinitaliapodcast.it/podcast/stagione/6",
-	img: "/img/podcast/bitcoin-italia-podcast.jpg",
-	id: "bitcoin-italia-podcast",
-  },
-  {
-	nome: "Bitcoin Freedom",
-	url: "https://fountain.fm/show/GeOiZ3OrPLYBueqcRP7n",
-	img: "/img/podcast/bitcoin-freedom.jpg",
-  },
-    {
-	nome: "Il priorato del Bitcoin",
-	url: "https://priorato.org/",
-	img: "/img/podcast/il-priorato-del-bitcoin.jpg",
-  },
-  {
-	nome: "Arancione Podcast",
-	url: "https://fountain.fm/show/412K3pgOYcSg6kPdaVKt",
-	img: "/img/podcast/arancione-podcast.jpg",
-  },
-{
-	nome: "Bitcoin d’Asporto",
-	url: "https://fountain.fm/show/fvkvDKJntPAGaPSd49rB",
-	img: "/img/podcast/bitcoin-d-asporto.jpg",
-  },
-  {
-	nome: "The Bitcoin Theory",
-	url: "https://open.spotify.com/show/0ag9gCPszHrvCShHkuKlHp",
-	img: "/img/podcast/the-bitcoin-theory.jpg",
-  },
-  {
-	nome: "Cultura Bitcoin",
-	url: "https://open.spotify.com/show/4WCmgP4KVYC4nmoqmqUY5D",
-	img: "/img/podcast/cultura-bitcoin.jpg",
-  },
-  {
-	nome: "Sicurezza Bitcoin",
-	url: "https://fountain.fm/show/5HHVEWLX26FTlvpLr0s5",
-	img: "/img/podcast/sicurezza-bitcoin.jpg",
-  },
-  {
-	nome: "Cripto -  Il Sole 24 Ore",
-	url: "https://podcast.ilsole24ore.com/serie/cripto-AEC88W9B",
-	img: "/img/podcast/cripto-il-sole-24-ore.jpg",
-  },
+	{
+		id: "bitcoin-italia-podcast",
+		nome: "Bitcoin Italia Podcast",
+		url: "/podc/bitcoin-italia-podcast",
+		img: "/img/podcast/bitcoin-italia-podcast.jpg",
+		id: "bitcoin-italia-podcast",
+	},
+	{
+		id: "bitcoin-freedom",
+		nome: "Bitcoin Freedom",
+		url: "/podc/bitcoin-freedom",
+		img: "/img/podcast/bitcoin-freedom.jpg",
+	},
+	{
+		id: "il-priorato-del-bitcoin",
+		nome: "Il priorato del Bitcoin",
+		url: "/podc/il-priorato-del-bitcoin",
+		img: "/img/podcast/il-priorato-del-bitcoin.jpg",
+	},
+	{
+		id: "arancione-podcast",
+		nome: "Arancione Podcast",
+		url: "/podc/arancione-podcast",
+		img: "/img/podcast/arancione-podcast.jpg",
+	},
+	{
+		id: "bitcoin-d-asporto",
+		nome: "Bitcoin d’Asporto",
+		url: "/podc/bitcoin-d-asporto",
+		img: "/img/podcast/bitcoin-d-asporto.jpg",
+	},
+	{
+		id: "the-bitcoin-theory",
+		nome: "The Bitcoin Theory",
+		url: "/podc/the-bitcoin-theory",
+		img: "/img/podcast/the-bitcoin-theory.jpg",
+	},
+	{
+		id: "cultura-bitcoin",
+		nome: "Cultura Bitcoin",
+		url: "/podc/cultura-bitcoin",
+		img: "/img/podcast/cultura-bitcoin.jpg",
+	},
+	{
+		id: "sicurezza-bitcoin",
+		nome: "Sicurezza Bitcoin",
+		url: "/podc/sicurezza-bitcoin",
+		img: "/img/podcast/sicurezza-bitcoin.jpg",
+	},
+	{
+		id: "cripto-il-sole-24-ore",
+		nome: "Cripto -  Il Sole 24 Ore",
+		url: "/podc/cripto-il-sole-24-ore",
+		img: "/img/podcast/cripto-il-sole-24-ore.jpg",
+	},
+	{
+		id: "aloha-finance-podcast",
+		nome: "Aloha Finance Podcast",
+		url: "/podc/aloha-finance-podcast",
+		img: "/img/podcast/aloha-finance-podcast.jpg",
+	},
+	{
+		id: "bcaucus",
+		nome: "Bcaucus",
+		url: "/podc/bcaucus",
+		img: "/img/podcast/bcaucus.jpg",
+	},
+	{
+		id: "bitcoin-cabana",
+		nome: "Bitcoin Cabana",
+		url: "/podc/bitcoin-cabana",
+		img: "/img/podcast/bitcoin-cabana.jpg",
+	},
 ]
 </script>
 

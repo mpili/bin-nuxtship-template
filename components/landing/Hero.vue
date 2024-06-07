@@ -24,8 +24,7 @@
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
-          href="/comunita"
-          target="_blank"
+          to="/comunita"
           rel="noopener"
           >Comunità</LandingLink
         >
@@ -33,8 +32,7 @@
           size="lg"
           styleName="outline"
           rel="noopener"
-          href="/dove"
-          target="_blank"
+          to="/dove"
           >Dove</LandingLink
         >
       </div>
