@@ -8,10 +8,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: [
-    'nuxt-icon',
-    '@nuxtjs/robots',
-  ],
+  modules: ['nuxt-icon', '@nuxtjs/robots', "nuxt3-leaflet"],
   robots: {
     configPath: 'config/robots.js',
   }
