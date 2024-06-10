@@ -7,6 +7,11 @@ const zoom = ref(6)
 </script>
 
 <template>
+	<LandingSectionhead>
+		<template v-slot:title>Comunità Bitcoin in Italia</template>
+		<template v-slot:desc>Le comunità di Bitcoiner sul territorio italiano.</template>
+	</LandingSectionhead>
+
 	<LMap
 	  style="height: 400px"
 	  :zoom="5"
