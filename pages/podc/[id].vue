@@ -1,28 +1,34 @@
 <script setup>
+
+const route = useRoute();
+const { id }  = route.params;
+const url_api  = `/data/podc/${id}.json`;
+
+/* This call is performed before hydration */
+// const { data } = await useFetch(url_api);
+
+/* This call will only be performed on the client */
+const { pending, data, error } = await useLazyFetch(url_api, {
+  lazy: true,
+  server: false
+});
+  
 definePageMeta({
   layout: "landing",
 });
-
-var { id }  = useRoute().params;
-var url_api  = `/data/podc/${id}.json`;
-
-/* This call is performed before hydration */
-var { data } = await useFetch(url_api);
-
-/* This call will only be performed on the client */
-// var { pending, data } = useFetch(url_api, {
-//   lazy: true,
-//   server: false
-// });
-
 </script>
 
 <template>
   <LandingContainer>
-    <!-- <p> {{ $route.params.id }}</p> -->
-    <!-- <p> {{ id }}</p> -->
-    <!-- <p> {{ url_api }}</p> -->
-    <!-- <p> {{ data }}</p> -->
-    <LandingPodcast :podc="data" />
+    <div v-if="pending">
+      Loading ...
+    </div>
+    <div v-else>
+      <!-- <p> {{ $route.params.id }}</p> -->
+      <!-- <p> {{ id }}</p> -->
+      <!-- <p> {{ url_api }}</p> -->
+      <!-- <p> {{ data }}</p> -->
+      <LandingPodcast :podc="data" />
+    </div>    
   </LandingContainer>
 </template>
