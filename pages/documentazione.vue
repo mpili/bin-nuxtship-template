@@ -17,7 +17,7 @@ const risorseDocumentazione = [
   },
   {
 	nome: "Raccolta documentazioni Mir Liponi",
-	url: "https://bitcoin24ore.com/category/guide/",
+	url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
   },
 ]
 </script>
