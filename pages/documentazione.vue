@@ -11,8 +11,12 @@ const risorseDocumentazione = [
 	nome: "Tutorial PlanB Network",
 	url: "https://planb.network/it/tutorials",
   },
-{
+  {
 	nome: "Guide di Bitcoin24ore",
+	url: "https://bitcoin24ore.com/category/guide/",
+  },
+  {
+	nome: "Raccolta documentazioni Mir Liponi",
 	url: "https://bitcoin24ore.com/category/guide/",
   },
 ]
