@@ -20,7 +20,7 @@ defineProps(["data"]);
 				layer-type="base"
 				name="OpenStreetMap"
 			/>
-			<LMarker :lat-lng="[data.lng, data.lat]"></LMarker>
+			<ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
 		</LMap>
 	</div>
 	<div class="pt-10 pb-8 container mx-auto px-8 py-8 border-2 rounded-lg shadow-xl sm:px-10">
