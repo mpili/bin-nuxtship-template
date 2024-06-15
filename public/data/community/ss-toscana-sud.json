@@ -7,5 +7,45 @@
     "telegram_weburl": "https://web.telegram.org/a/#-1001890322260",
     "telegram_app": "https://t.me/SatoshiSpritzToscanaSud",
     "telegram_members": 42.0,
-    "network": "satoshispritz"
+    "network": "satoshispritz",
+    "poi": [
+        {
+            "type": "node",
+            "id": 11778374552,
+            "lat": 43.3347606,
+            "lon": 11.3007766,
+            "timestamp": "2024-04-05T23:20:18Z",
+            "version": 10,
+            "changeset": 149635780,
+            "user": "LA_TARTARUGA",
+            "uid": 21263185,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "9",
+                "addr:postcode": "53100",
+                "addr:street": "Via Bernardino Perfetti",
+                "addr:unit": "14",
+                "check_date": "2024-04-01",
+                "contact:instagram": "https://www.instagram.com/bed_and_breakfast_siena",
+                "currency:XBT": "yes",
+                "email": "homelatartuca@gmail.com",
+                "guest_house": "apartment",
+                "image": "https://www.booking.com/hotel/it/la-tartuca.it.html",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "La_Tartuca-5G-F789EE",
+                "level": "4",
+                "name": "B&B LA TARTARUGA",
+                "not:name": "GIULIA",
+                "opening_hours": "24/7",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:notes": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393384845333",
+                "rooms": "5",
+                "tourism": "guest_house"
+            }
+        }
+    ]
 }
