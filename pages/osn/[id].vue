@@ -2,7 +2,7 @@
 
 const { id }  = useRoute().params;
 // const url_api  = `/data/community/${id}.json`;
-const url_api  = `http://overpass-api.de/api/interpreter?data=[out:json];node(id:${id});out meta;`;
+const url_api  = `https://overpass-api.de/api/interpreter?data=[out:json];node(id:${id});out meta;`;
 
 /* This call is performed before hydration */
 // var { data } = await useFetch(url_api);
