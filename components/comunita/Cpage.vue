@@ -44,4 +44,5 @@ defineProps(["data"]);
 			</div>
 		</div>
 	</div>
+	<ComunitaTablepois :data="data" />
 </template>

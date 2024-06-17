@@ -9,6 +9,10 @@ const corsi = [
 		url: "https://shrill-water-3846.on.fleek.co/",
 	},
 	{
+		nome: "Libri Bitcoin in Italiano da acquistare su Amazon",
+		url: "/libriamazon",
+	},
+	{
 		nome: "Documenti",
 		url: "/documentazione",
 	},
