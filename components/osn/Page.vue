@@ -35,6 +35,11 @@ defineProps(["data"]);
 				<span v-if="data.tags['addr:housenumber']">,  {{ data.tags['addr:housenumber'] }}</span>
 			</p>
 			<p>{{ data.tags['addr:postcode'] }} {{ data.tags['addr:city'] }}</p>
+			<p>
+				<a :href="'https://maps.google.com/maps?daddr=('+data.lat+','+data.lon+')'" target="_blank" class="text-blue-600">
+					ottieni le indicazioni di percorso
+				</a>
+			</p>
 		</div>
 	</div>
 	<OsnTag icona="clarity:mobile-line" etichetta="Cell" :testo="data.tags['contact:mobile']" />
