@@ -34,6 +34,12 @@ const mappe = [
 	  url: "https://www.quibitcoin.it",
 	  img: "/img/dove/quibitcoin_it1000x420.png",
 	},
+	{
+	  nome: "Aggiungi la tua attività",
+	  titololink: "Aggiungi la tua attività qui",
+	  url: "https://forms.zohopublic.eu/bitcoinitalianetwork/form/InserimentoAttivit/formperma/pF37EKjAUOJY4-Hw3dE3iyeC5Pr1lW9NqeME-gVGaww",
+	  img: "/img/dove/add-your-here1000x420.png",
+	},
 ];
 </script>
 
