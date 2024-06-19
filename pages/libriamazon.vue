@@ -22,6 +22,7 @@ definePageMeta({
 		<template v-slot:title>Libri su Bitcoin in Italiano</template>
 		<template v-slot:desc>Da acquistare su Amazon.it</template>
 	</LandingSectionhead>
+	<LibriAmazonbitcoin/>
 	<div v-if="pending">
       Loading ...
     </div>
