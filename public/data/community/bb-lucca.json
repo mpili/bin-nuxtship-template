@@ -341,6 +341,30 @@
         },
         {
             "type": "node",
+            "id": 10275645028,
+            "lat": 44.0236074,
+            "lon": 10.506139,
+            "timestamp": "2023-11-06T05:40:06Z",
+            "version": 3,
+            "changeset": 143676783,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
+            "tags": {
+                "amenity": "restaurant",
+                "check_date": "2022-12-20",
+                "check_date:currency:XBT": "2023-07-18",
+                "contact:facebook": "https://www.facebook.com/people/Pizzeria-da-MIKE/100063618574875/",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Mara Meo Maltagliata",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 339 577 6396",
+                "website": "https://www.marameo-lucca.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 10275711661,
             "lat": 43.832708,
             "lon": 10.6158035,

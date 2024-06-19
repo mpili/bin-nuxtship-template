@@ -35,9 +35,13 @@ defineProps(["data"]);
 				<span v-if="data.tags['addr:housenumber']">,  {{ data.tags['addr:housenumber'] }}</span>
 			</p>
 			<p>{{ data.tags['addr:postcode'] }} {{ data.tags['addr:city'] }}</p>
-			<p>
+			<p>google maps:
 				<a :href="'https://maps.google.com/maps?daddr=('+data.lat+','+data.lon+')'" target="_blank" class="text-blue-600">
-					ottieni le indicazioni di percorso
+					percorso 
+				</a>
+				 - 
+				<a :href="'https://maps.google.com/maps?z=12&t=m&q=loc:'+data.lat+'+'+data.lon" target="_blank" class="text-blue-600">
+					posizione
 				</a>
 			</p>
 		</div>
@@ -51,6 +55,7 @@ defineProps(["data"]);
 	<OsnTag icona="ph:lightning" etichetta="Pagamento con lightning" :testo="data.tags['payment:lightning']" />
 	<OsnTag icona="akar-icons:link-chain" etichetta="Pagamento on-chain" :testo="data.tags['payment:onchain']" />
 
+	<OsnTag icona="guidance:office-pod" etichetta="Office" :testo="data.tags.office" />
 	<OsnTag icona="material-symbols:shopping-cart-outline" etichetta="Shop" :testo="data.tags.shop" />
 	<OsnTag icona="material-symbols:fitness-center" etichetta="Leisure" :testo="data.tags.leisure" />
 	<OsnTag icona="material-symbols:travel" etichetta="Turismo" :testo="data.tags.tourism" />

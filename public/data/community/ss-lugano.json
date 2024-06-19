@@ -1171,6 +1171,30 @@
         },
         {
             "type": "node",
+            "id": 5611537167,
+            "lat": 45.8314524,
+            "lon": 9.0357271,
+            "timestamp": "2023-07-10T18:35:45Z",
+            "version": 6,
+            "changeset": 138349423,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Como",
+                "addr:housenumber": "331",
+                "addr:postcode": "22100",
+                "addr:street": "Via Bellinzona",
+                "amenity": "fast_food",
+                "check_date": "2023-07-10",
+                "cuisine": "piadina;romagnola",
+                "currency:XBT": "yes",
+                "name": "La Caveja",
+                "payment:revolut": "yes",
+                "phone": "+39 3738459173"
+            }
+        },
+        {
+            "type": "node",
             "id": 5669663534,
             "lat": 45.9981916,
             "lon": 8.94381,
@@ -1767,6 +1791,28 @@
         },
         {
             "type": "node",
+            "id": 10060273673,
+            "lat": 45.8192931,
+            "lon": 9.0613195,
+            "timestamp": "2023-07-07T18:12:38Z",
+            "version": 2,
+            "changeset": 138239463,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Como",
+                "addr:housenumber": "39",
+                "addr:postcode": "22100",
+                "addr:street": "Via Bellinzona",
+                "check_date": "2023-07-07",
+                "currency:XBT": "yes",
+                "name": "Ecotaurus - Noleggio Bagni chimici",
+                "shop": "trade",
+                "website": "https://www.ecotaurus.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 10082321372,
             "lat": 46.0044499,
             "lon": 8.9496458,
@@ -2201,6 +2247,33 @@
                 "shop": "water",
                 "survey:date": "2022-11-03",
                 "website": "https://naturalwater.ch/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155364926,
+            "lat": 45.8077179,
+            "lon": 9.0927771,
+            "timestamp": "2023-03-18T18:51:01Z",
+            "version": 3,
+            "changeset": 133834585,
+            "user": "perpetual nomad",
+            "uid": 17199501,
+            "tags": {
+                "addr:city": "Como",
+                "addr:housenumber": "23",
+                "addr:postcode": "22100",
+                "addr:street": "Via Luigi Dottesio",
+                "check_date:currency:XBT": "2023-03-18",
+                "currency:XBT": "yes",
+                "email": "amministrazione@lolacartolibreria.it",
+                "name": "Lola Cartolibreria",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 3403527381",
+                "shop": "stationery",
+                "website": "https://www.lolacartolibreria.it"
             }
         },
         {
@@ -2858,6 +2931,33 @@
                 "phone": "+41919702841",
                 "shop": "books",
                 "website": "https://lostralisco.ch/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10247809015,
+            "lat": 45.8100673,
+            "lon": 9.0841767,
+            "timestamp": "2023-02-09T10:57:50Z",
+            "version": 2,
+            "changeset": 132300790,
+            "user": "BSN21M",
+            "uid": 17441326,
+            "tags": {
+                "addr:city": "Como",
+                "addr:postcode": "22100",
+                "addr:street": "Via Indipendenza",
+                "check_date:currency:XBT": "2023-02-09",
+                "currency:XBT": "yes",
+                "email": "laborsettacomo@gmail.com",
+                "name": "La Borsetta",
+                "opening_hours": "Mo-Sa 10:00-14:00, 15:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39031261567",
+                "shop": "bag",
+                "website": "https://laborsettacomo.it/"
             }
         },
         {
@@ -4238,6 +4338,25 @@
         },
         {
             "type": "node",
+            "id": 10982819152,
+            "lat": 46.1922449,
+            "lon": 9.0231655,
+            "timestamp": "2024-01-17T10:49:40Z",
+            "version": 2,
+            "changeset": 146358330,
+            "user": "saunter",
+            "uid": 10396321,
+            "tags": {
+                "check_date:currency:XBT": "2024-01-17",
+                "currency:XBT": "yes",
+                "leisure": "fitness_centre",
+                "name": "Fast Fit Bellinzona",
+                "payment:lightning": "yes",
+                "payment:onchain": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 10982829401,
             "lat": 46.0053438,
             "lon": 8.9486576,
@@ -4673,6 +4792,25 @@
         },
         {
             "type": "node",
+            "id": 11263048444,
+            "lat": 46.1662274,
+            "lon": 8.7948469,
+            "timestamp": "2024-01-17T10:49:40Z",
+            "version": 2,
+            "changeset": 146358330,
+            "user": "saunter",
+            "uid": 10396321,
+            "tags": {
+                "check_date:currency:XBT": "2024-01-17",
+                "currency:XBT": "yes",
+                "name": "Z-Bike Locarno",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "shop": "bicycle"
+            }
+        },
+        {
+            "type": "node",
             "id": 11522524476,
             "lat": 45.967432,
             "lon": 8.9241912,
@@ -5084,6 +5222,66 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "no",
                 "website": "https://cyberconnect.ch/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11524498293,
+            "lat": 46.2062635,
+            "lon": 9.0384267,
+            "timestamp": "2024-01-17T10:49:40Z",
+            "version": 1,
+            "changeset": 146358330,
+            "user": "saunter",
+            "uid": 10396321,
+            "tags": {
+                "check_date:currency:XBT": "2024-01-16",
+                "currency:XBT": "yes",
+                "healthcare": "centre",
+                "name": "Health Park",
+                "payment:lightning": "yes",
+                "payment:onchain": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11524498294,
+            "lat": 46.1922411,
+            "lon": 9.0242778,
+            "timestamp": "2024-02-06T02:24:06Z",
+            "version": 2,
+            "changeset": 147115855,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
+            "tags": {
+                "amenity": "doctors",
+                "check_date:currency:XBT": "2024-01-16",
+                "currency:XBT": "yes",
+                "healthcare": "doctor",
+                "healthcare:speciality": "plastic_surgery",
+                "name": "Linea Sana",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "website": "https://www.lineasana.ch/centri-e-orari/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11524498295,
+            "lat": 46.1837818,
+            "lon": 9.0149608,
+            "timestamp": "2024-01-17T10:49:40Z",
+            "version": 1,
+            "changeset": 146358330,
+            "user": "saunter",
+            "uid": 10396321,
+            "tags": {
+                "amenity": "exhibition_centre",
+                "check_date:currency:XBT": "2024-01-16",
+                "currency:XBT": "yes",
+                "name": "Autobesso",
+                "payment:lightning": "yes",
+                "payment:onchain": "no"
             }
         },
         {
@@ -5841,6 +6039,30 @@
                 "name": "Union Change",
                 "phone": "+41916000440",
                 "website": "https://www.ufc.ch/points-de-vente/store/652/corner-services-lugano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11953274898,
+            "lat": 45.8069671,
+            "lon": 9.0877012,
+            "timestamp": "2024-06-07T19:44:18Z",
+            "version": 3,
+            "changeset": 152391085,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
+            "tags": {
+                "addr:city": "Como",
+                "addr:housenumber": "1",
+                "addr:postcode": "22100",
+                "addr:street": "Via Giuseppe Sirtori",
+                "currency:XBT": "yes",
+                "name": "La Vecchia Chioderia",
+                "opening_hours": "Tu-Th-Sa 8.00-13.00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "shop": "seafood"
             }
         }
     ]

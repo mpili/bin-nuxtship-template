@@ -550,9 +550,9 @@
             "id": 11971358829,
             "lat": 39.2413442,
             "lon": 9.202329,
-            "timestamp": "2024-06-11T06:38:29Z",
-            "version": 1,
-            "changeset": 152526303,
+            "timestamp": "2024-06-19T19:36:54Z",
+            "version": 2,
+            "changeset": 152912255,
             "user": "mauropili",
             "uid": 1496865,
             "tags": {
@@ -562,7 +562,8 @@
                 "addr:street": "Via Portogallo",
                 "amenity": "bar",
                 "currency:XBT": "yes",
-                "name": "Handy Capp Due"
+                "name": "Handy Capp Due",
+                "payment:lightning": "yes"
             }
         }
     ]

@@ -33,6 +33,33 @@
         },
         {
             "type": "node",
+            "id": 3196747047,
+            "lat": 44.558931,
+            "lon": 7.7093794,
+            "timestamp": "2023-03-16T21:52:01Z",
+            "version": 5,
+            "changeset": 133766692,
+            "user": "perpetual nomad",
+            "uid": 17199501,
+            "tags": {
+                "addr:city": "Fossano",
+                "addr:housenumber": "51",
+                "addr:postcode": "12045",
+                "addr:street": "Via Torino",
+                "addr:unit": "A",
+                "check_date": "2023-03-16",
+                "craft": "brewery",
+                "currency:XBT": "yes",
+                "name": "Birreria Moulin",
+                "note": "Birre artigianali, televisioni per partite, ottima cucina",
+                "opening_hours": "Tu-Sa 19:00-02:00; Su 19:00-01:00",
+                "payment:lightning": "yes",
+                "phone": "+39 0172 694327",
+                "website": "https://www.birreriamoulin.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3450446420,
             "lat": 44.4757521,
             "lon": 7.5079779,
@@ -73,6 +100,31 @@
                 "name": "La Grotta degli Elfi",
                 "name:it": "La Grotta",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10792267135,
+            "lat": 44.6029307,
+            "lon": 7.4732968,
+            "timestamp": "2023-08-04T07:22:38Z",
+            "version": 2,
+            "changeset": 139426733,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Verzuolo",
+                "addr:housenumber": "94",
+                "addr:postcode": "12039",
+                "addr:street": "Via al Castello",
+                "check_date": "2023-07-09",
+                "contact:facebook": "https://www.facebook.com/people/El-panat%C3%A8-dla-Vila/100054305930056/",
+                "currency:XBT": "yes",
+                "email": "elpanatedlavila@gmail.com",
+                "name": "El Panat\u00e8 Dla Vila",
+                "phone": "0175 85831",
+                "ref:vatin": "03552540043",
+                "shop": "bakery"
             }
         },
         {
