@@ -61,6 +61,34 @@
         },
         {
             "type": "node",
+            "id": 10748802636,
+            "lat": 44.3638834,
+            "lon": 8.2062393,
+            "timestamp": "2023-03-28T15:32:49Z",
+            "version": 3,
+            "changeset": 134225633,
+            "user": "MountainCitadel",
+            "uid": 17462838,
+            "tags": {
+                "addr:city": "Millesimo",
+                "addr:housenumber": "52",
+                "addr:postcode": "17017",
+                "addr:street": "Piazza Italia",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "email": "info@pantareicucina.it",
+                "name": "Pantarei Cucina",
+                "opening_hours": "Fr-We 12:00-14:30,19:30-22:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39019565968",
+                "survey:date": "2023-03-28"
+            }
+        },
+        {
+            "type": "node",
             "id": 11005606809,
             "lat": 44.4519155,
             "lon": 8.3824973,
@@ -84,6 +112,36 @@
                 "phone": "+39 333 2471926",
                 "shop": "cosmetics",
                 "website": "https://www.bagnisliguria.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11967062960,
+            "lat": 44.1475624,
+            "lon": 8.2788506,
+            "timestamp": "2024-06-09T16:52:25Z",
+            "version": 1,
+            "changeset": 152463713,
+            "user": "Ale_Mj",
+            "uid": 21640589,
+            "tags": {
+                "addr:city": "Pietra Ligure",
+                "addr:housenumber": "24",
+                "addr:postcode": "17027",
+                "addr:street": "Via Suor Maria Giuseppa Rossello",
+                "amenity": "dojo",
+                "currency:XBT": "yes",
+                "name": "Scuola Orientale Pietra Ligure",
+                "opening_hours": "24/7",
+                "payment:bancomat": "yes",
+                "payment:credit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:mastercard": "yes",
+                "payment:onchain": "yes",
+                "payment:visa": "yes",
+                "sport": "taijiquan;wing_chun;kung_fu;tai_chi",
+                "survey:date": "2024-06-09"
             }
         }
     ]

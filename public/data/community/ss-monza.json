@@ -355,6 +355,30 @@
         },
         {
             "type": "node",
+            "id": 4580735592,
+            "lat": 45.3975095,
+            "lon": 9.2611814,
+            "timestamp": "2023-11-17T22:16:26Z",
+            "version": 5,
+            "changeset": 144156837,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "San Giuliano Milanese",
+                "addr:country": "IT",
+                "addr:housenumber": "13a",
+                "addr:postcode": "20098",
+                "addr:street": "Via della Liberazione",
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "node",
             "id": 4708357239,
             "lat": 45.4903659,
             "lon": 9.2037822,
@@ -427,6 +451,30 @@
                 "phone": "+393756370904",
                 "shop": "beauty",
                 "website": "http://setabeauty.com/index.php"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5160943921,
+            "lat": 45.6324892,
+            "lon": 9.010672,
+            "timestamp": "2023-07-07T17:53:06Z",
+            "version": 4,
+            "changeset": 138238845,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Gerenzano",
+                "addr:housenumber": "74b",
+                "addr:postcode": "21040",
+                "addr:street": "Via Giovanni Pascoli",
+                "check_date": "2023-07-07",
+                "currency:XBT": "yes",
+                "description": "Azienda specializzata nel noleggio di bagni chimici per cantieri ed eventi.",
+                "name": "Ecotaurus noleggio bagni chimici",
+                "phone": "+39 800 593 261",
+                "shop": "equipment_rental",
+                "website": "https://www.ecotaurus.it/"
             }
         },
         {
@@ -717,6 +765,24 @@
                 "office": "private_investigator",
                 "phone": "+39 320 7413358",
                 "website": "https://www.investigatore-privato-milano.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6364602493,
+            "lat": 45.4088298,
+            "lon": 9.1142842,
+            "timestamp": "2023-10-26T11:26:06Z",
+            "version": 3,
+            "changeset": 143157819,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "craft": "carpenter",
+                "currency:XBT": "yes",
+                "name": "Falegnameria Artigianale Wood",
+                "survey:date": "2022-11-03",
+                "website": "https://www.woodmilano.it/"
             }
         },
         {
@@ -1074,6 +1140,30 @@
         },
         {
             "type": "node",
+            "id": 9817421643,
+            "lat": 45.3755213,
+            "lon": 9.1696247,
+            "timestamp": "2023-05-07T12:10:14Z",
+            "version": 5,
+            "changeset": 135808546,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Rozzano",
+                "addr:housenumber": "31",
+                "addr:postcode": "20089",
+                "addr:street": "Via Alessandro Manzoni",
+                "check_date:currency:XBT": "2023-05-07",
+                "currency:XBT": "yes",
+                "email": "info@cryptoagile.it",
+                "name": "CryptoAgile",
+                "office": "it",
+                "opening_hours": "Mo-Su 09:00-18:00",
+                "operator": "CryptoAgile"
+            }
+        },
+        {
+            "type": "node",
             "id": 9830606783,
             "lat": 45.4619866,
             "lon": 9.207853,
@@ -1146,6 +1236,32 @@
                 "office": "interior_design",
                 "phone": "+39 031791264",
                 "website": "https://www.cappellettiarchitetti.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10219441370,
+            "lat": 45.6662023,
+            "lon": 9.5620948,
+            "timestamp": "2023-11-17T22:16:34Z",
+            "version": 6,
+            "changeset": 144156841,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "Bonate Sotto",
+                "addr:housenumber": "2a",
+                "addr:postcode": "24040",
+                "addr:street": "Via Santa Giulia",
+                "check_date:currency:XBT": "2023-01-24",
+                "currency:XBT": "yes",
+                "healthcare": "physiotherapist",
+                "name": "Incorpomente",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 035 079 2224",
+                "website": "https://www.incorpomente.it/"
             }
         },
         {
@@ -1549,6 +1665,53 @@
         },
         {
             "type": "node",
+            "id": 11037926325,
+            "lat": 45.7899296,
+            "lon": 9.2028618,
+            "timestamp": "2023-07-10T19:17:21Z",
+            "version": 1,
+            "changeset": 138350853,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Albavilla",
+                "addr:housenumber": "2",
+                "addr:postcode": "22031",
+                "addr:street": "Via Don Carlo Belloni",
+                "addr:unit": "F",
+                "check_date": "2023-07-10",
+                "currency:XBT": "yes",
+                "description": "Servizi di ingegneria integrata, progettazione meccanica industriale, simulazione strutturale FEM,  simulazione fluidodinamica CFD, consulenza software e modellazione CAD",
+                "name": "CAEdevice",
+                "office": "it",
+                "phone": "+39 339 8355478",
+                "website": "https://www.caedevice.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132862397,
+            "lat": 45.4054054,
+            "lon": 9.1618884,
+            "timestamp": "2024-02-08T10:25:18Z",
+            "version": 2,
+            "changeset": 147210993,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Assago",
+                "addr:postcode": "20057",
+                "addr:street": "Viale Milanofiori",
+                "amenity": "bar",
+                "check_date": "2023-08-20",
+                "currency:XBT": "yes",
+                "description": "Caffetteria, pausa pranzo, aperitivi.",
+                "email": "geomcalboni93@proton.me",
+                "name": "ToastEat"
+            }
+        },
+        {
+            "type": "node",
             "id": 11232198302,
             "lat": 45.4729189,
             "lon": 9.2351923,
@@ -1596,6 +1759,32 @@
                 "cuisine": "kebab",
                 "currency:XBT": "yes",
                 "name": "Kebhouze - Marghera",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "website": "https://kebhouze.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11357929675,
+            "lat": 45.3920264,
+            "lon": 9.1763555,
+            "timestamp": "2023-12-16T03:07:55Z",
+            "version": 2,
+            "changeset": 145172036,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rozzano",
+                "addr:housenumber": "25",
+                "addr:postcode": "20089",
+                "addr:street": "Via Eugenio Curiel",
+                "amenity": "fast_food",
+                "check_date:currency:XBT": "2023-12-15",
+                "cuisine": "kebab",
+                "currency:XBT": "yes",
+                "name": "Kebhouze - cc Fiordaliso",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
@@ -1753,6 +1942,33 @@
         },
         {
             "type": "node",
+            "id": 11527450995,
+            "lat": 45.7784689,
+            "lon": 9.2322729,
+            "timestamp": "2024-01-23T00:39:32Z",
+            "version": 4,
+            "changeset": 146573874,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
+            "tags": {
+                "addr:city": "Monguzzo",
+                "addr:housenumber": "6",
+                "addr:postcode": "22040",
+                "addr:street": "via Sceria",
+                "amenity": "dentist",
+                "check_date": "2024-01-18",
+                "currency:XBT": "yes",
+                "email": "studio@rossiniodontoiatri.it",
+                "healthcare": "dentist",
+                "healthcare:speciality": "dentist",
+                "name": "Studio Rossini Odontoiatri",
+                "operator": "STUDIO ROSSINI ODONTOIATRI SRL",
+                "payment:onchain": "yes",
+                "website": "https://www.rossiniodontoiatri.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 11670308721,
             "lat": 45.4628908,
             "lon": 9.1870628,
@@ -1835,6 +2051,31 @@
                 "phone": "+39 33 3273 6528",
                 "tourism": "apartment",
                 "website": "https://zamperlinfrancesco.wixsite.com/cesco-s-home"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11892299300,
+            "lat": 45.7716909,
+            "lon": 9.1953209,
+            "timestamp": "2024-05-11T08:22:02Z",
+            "version": 2,
+            "changeset": 151174848,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Anzano del Parco",
+                "addr:housenumber": "16/B",
+                "addr:postcode": "22040",
+                "addr:street": "Via Diaz",
+                "check_date": "2024-05-11",
+                "craft": "plumber",
+                "currency:XBT": "yes",
+                "description": "Installazione impianti termoidraulici - risparmio energetico.",
+                "email": "info@ferrari-impianti.com",
+                "name": "Ferrari Impianti srl",
+                "phone": "+39 0314451519",
+                "website": "https://www.ferrari-impianti.com"
             }
         },
         {
@@ -1988,9 +2229,9 @@
             "id": 11937296236,
             "lat": 45.5874469,
             "lon": 9.0712247,
-            "timestamp": "2024-05-27T14:33:05Z",
-            "version": 1,
-            "changeset": 151902939,
+            "timestamp": "2024-06-15T02:19:24Z",
+            "version": 2,
+            "changeset": 152703546,
             "user": "Rockedf",
             "uid": 7522075,
             "tags": {
@@ -2016,7 +2257,7 @@
                 "currency:USDT": "yes",
                 "currency:XBT": "yes",
                 "indoor": "yes",
-                "name": "Bancomat Bitcoin ATM - Shitcoins.club",
+                "name": "Bitcoin ATM - Shitcoins.club",
                 "opening_hours": "24/7",
                 "operator": "Shitcoins.club",
                 "payment:cash": "yes",

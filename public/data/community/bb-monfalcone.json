@@ -172,6 +172,58 @@
         },
         {
             "type": "node",
+            "id": 7099334476,
+            "lat": 45.9025372,
+            "lon": 13.3112255,
+            "timestamp": "2024-02-02T09:25:44Z",
+            "version": 2,
+            "changeset": 146976917,
+            "user": "BitcoinMonfalcone",
+            "uid": 20605179,
+            "tags": {
+                "addr:city": "Palmanova",
+                "addr:housenumber": "34",
+                "addr:postcode": "33057",
+                "addr:street": "Contrada Villachiara",
+                "amenity": "restaurant",
+                "currency:XBT": "yes",
+                "name": "Il Melograno",
+                "payment:onchain": "yes",
+                "phone": "0432/920271",
+                "survey:date": "2024-02-02",
+                "website": "https://ilmelograno.online/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10681029863,
+            "lat": 45.6882287,
+            "lon": 13.7999153,
+            "timestamp": "2023-08-02T11:46:44Z",
+            "version": 2,
+            "changeset": 139343689,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:postcode": "34151",
+                "addr:street": "Via dell'Assenzio",
+                "check_date": "2023-02-20",
+                "contact:facebook": "https://www.facebook.com/portewestern/shop/",
+                "currency:XBT": "yes",
+                "description": "Sliding doors production and selling",
+                "email": "info@portewestern.it",
+                "name": "Portewestern.it (Trieste branch)",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+385989976290",
+                "shop": "doors",
+                "website": "https://www.portewestern.it"
+            }
+        },
+        {
+            "type": "node",
             "id": 10863660758,
             "lat": 45.8907668,
             "lon": 13.5032681,
@@ -247,6 +299,35 @@
                 "phone": "0481 413048",
                 "survey:date": "2023-11-01",
                 "website": "http://www.serivosrl.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11467342354,
+            "lat": 45.9018373,
+            "lon": 13.2483191,
+            "timestamp": "2023-12-30T00:24:29Z",
+            "version": 1,
+            "changeset": 145681346,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Gonars",
+                "addr:housenumber": "111",
+                "addr:postcode": "33050",
+                "addr:street": "Via Gorizia",
+                "addr:unit": "A",
+                "check_date": "2023-12-14",
+                "contact:email": "cottage.lenone@gmail.com",
+                "currency:XBT": "yes",
+                "guest_house": "guest_house",
+                "name": "Cottage \"Le None\"",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 38 8861 2544",
+                "tourism": "guest_house",
+                "website": "https://cottage-le-none.business.site/?utm_source=gmb&utm_medium=referral"
             }
         }
     ]

@@ -63,6 +63,33 @@
         },
         {
             "type": "node",
+            "id": 4756783299,
+            "lat": 44.8610971,
+            "lon": 10.0676522,
+            "timestamp": "2024-03-14T17:04:28Z",
+            "version": 2,
+            "changeset": 148652536,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "3",
+                "addr:postcode": "43036",
+                "addr:street": "Via Francesco Baracca",
+                "check_date": "2024-03-14",
+                "contact:facebook": "https://www.facebook.com/p/Dolcepasta-Cavallo-100064162410169/",
+                "currency:XBT": "yes",
+                "description": "Siamo un laboratorio/vendita di pasta fresca, dolci caserecci e piccola gastronomia.\nTutto esclusivamente di nostra produzione.",
+                "name": "DolcePasta Cavallo di Dioni Barbara",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 347 149 5268",
+                "shop": "pasta"
+            }
+        },
+        {
+            "type": "node",
             "id": 10801651077,
             "lat": 44.7897656,
             "lon": 10.3061159,
@@ -85,6 +112,34 @@
                 "healthcare:speciality": "osteopathy",
                 "name": "MyTrico Studio",
                 "website": "https://www.mytrico.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11384696081,
+            "lat": 44.7054455,
+            "lon": 10.6116509,
+            "timestamp": "2023-11-29T22:50:51Z",
+            "version": 1,
+            "changeset": 144606423,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Reggio nell'Emilia",
+                "addr:housenumber": "17/a",
+                "addr:postcode": "42124",
+                "addr:street": "Via Fratelli Cervi",
+                "amenity": "pub",
+                "check_date": "2023-11-29",
+                "contact:facebook": "https://www.facebook.com/ghigiuristopub/",
+                "cuisine": "burger;pinsa",
+                "currency:XBT": "yes",
+                "email": "graziano-valentina@hotmail.it",
+                "name": "Birreria Ghigiu Risto Pub",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0522 303884",
+                "website": "https://www.ghigiuristopub.it/"
             }
         },
         {

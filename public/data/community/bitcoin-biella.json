@@ -376,6 +376,33 @@
                 "phone": "+39 015 0992312",
                 "website": "https://myphotomania.com/"
             }
+        },
+        {
+            "type": "node",
+            "id": 11753095210,
+            "lat": 45.4609447,
+            "lon": 7.7709235,
+            "timestamp": "2024-03-22T15:04:29Z",
+            "version": 2,
+            "changeset": 149017925,
+            "user": "Giorgio Minguzzi",
+            "uid": 21232339,
+            "tags": {
+                "addr:city": "Alice Superiore, TO",
+                "addr:housenumber": "15",
+                "addr:postcode": "10010",
+                "addr:street": "Via Prov. Valchiusella",
+                "amenity": "dentist",
+                "currency:XBT": "yes",
+                "healthcare": "dentist",
+                "healthcare:speciality": "general",
+                "name": "Studio Dentistico Valchiusella",
+                "opening_hours": "By appointment only.",
+                "operator": "Piergiacomo Drappero",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-03-22"
+            }
         }
     ]
 }

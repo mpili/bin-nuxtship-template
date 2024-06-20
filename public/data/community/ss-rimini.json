@@ -119,6 +119,37 @@
         },
         {
             "type": "node",
+            "id": 2718191192,
+            "lat": 44.0290234,
+            "lon": 12.6232892,
+            "timestamp": "2024-06-18T07:27:56Z",
+            "version": 2,
+            "changeset": 152834032,
+            "user": "Aluminum0173",
+            "uid": 16035231,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "47924",
+                "addr:street": "Viale Brescia",
+                "contact:facebook": "HotelEliseoMiramare",
+                "contact:whatsapp": "+39 333 858 2258",
+                "currency:XBT": "yes",
+                "description": "E se volete fare un tuffo nel passato... il mare dista solo 150mt!",
+                "email": "eliseomiramare@gmail.com",
+                "name": "Hotel Eliseo",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 333 858 2258",
+                "survey:date": "2023-07-26",
+                "tourism": "hotel",
+                "website": "https://www.hoteleliseorimini.it"
+            }
+        },
+        {
+            "type": "node",
             "id": 2718195221,
             "lat": 44.0521444,
             "lon": 12.5591925,
@@ -195,33 +226,6 @@
                 "payment:onchain": "yes",
                 "phone": "0541347999",
                 "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11071736340,
-            "lat": 44.0290645,
-            "lon": 12.6232454,
-            "timestamp": "2023-07-27T18:29:12Z",
-            "version": 2,
-            "changeset": 139101655,
-            "user": "Bota87",
-            "uid": 19327867,
-            "tags": {
-                "addr:street": "Viale Brescia",
-                "contact:facebook": "HotelEliseoMiramare",
-                "contact:whatsapp": "+39 333 858 2258",
-                "currency:XBT": "yes",
-                "description": "E se volete fare un tuffo nel passato... il mare dista solo 150mt!",
-                "email": "eliseomiramare@gmail.com",
-                "name": "Hotel Eliseo",
-                "payment:lightning": "no",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "+39 333 858 2258",
-                "survey:date": "2023-07-26",
-                "tourism": "hotel",
-                "website": "https://www.hoteleliseorimini.it"
             }
         }
     ]

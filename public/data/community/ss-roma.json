@@ -64,6 +64,33 @@
         },
         {
             "type": "node",
+            "id": 2623137793,
+            "lat": 41.7464531,
+            "lon": 12.6503522,
+            "timestamp": "2024-03-09T20:38:52Z",
+            "version": 5,
+            "changeset": 148439365,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Castel Gandolfo",
+                "addr:housenumber": "22",
+                "addr:place": "Piazza della Libert\u00e0",
+                "addr:postcode": "00073",
+                "addr:unit": "23",
+                "amenity": "cafe",
+                "check_date": "2024-03-09",
+                "currency:XBT": "yes",
+                "name": "Bar Carosi",
+                "opening_hours": "Tu-Su 06:30-23:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 06 9320944"
+            }
+        },
+        {
+            "type": "node",
             "id": 2965292912,
             "lat": 41.9464893,
             "lon": 12.5215637,
@@ -1027,6 +1054,32 @@
         },
         {
             "type": "node",
+            "id": 11694127045,
+            "lat": 41.7300886,
+            "lon": 12.659825,
+            "timestamp": "2024-03-05T14:45:53Z",
+            "version": 2,
+            "changeset": 148254017,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Albano Laziale",
+                "addr:housenumber": "45",
+                "addr:postcode": "00041",
+                "addr:street": "Via Don Minzoni",
+                "amenity": "pub",
+                "check_date": "2024-03-05",
+                "contact:facebook": "https://www.facebook.com/people/Dooleys-Irish-Pub/100069111750997/",
+                "currency:XBT": "yes",
+                "name": "Dooley's Irish Pub",
+                "opening_hours": "Mo-Su 18:00-02:00",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "theme": "irish"
+            }
+        },
+        {
+            "type": "node",
             "id": 11709312168,
             "lat": 41.8968569,
             "lon": 12.4961975,
@@ -1050,6 +1103,32 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "website": "https://censuredclubroma.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11723361058,
+            "lat": 41.7309085,
+            "lon": 12.6587998,
+            "timestamp": "2024-05-02T13:11:05Z",
+            "version": 5,
+            "changeset": 150793763,
+            "user": "mnestico",
+            "uid": 20712493,
+            "tags": {
+                "addr:city": "Albano Laziale",
+                "addr:housenumber": "10",
+                "addr:postcode": "00041",
+                "addr:street": "Largo Leonardo Murialdo",
+                "check_date": "2024-05-02",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "name": "Barber Shop da Giallo",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "391 420 3984",
+                "shop": "hairdresser"
             }
         },
         {
