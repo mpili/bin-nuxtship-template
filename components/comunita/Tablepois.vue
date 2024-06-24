@@ -19,6 +19,9 @@ defineProps(["data"]);
 								<th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 text-xs uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
 									Indirizzo
 								</th>
+								<th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 text-xs uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+									Tipo
+								</th>
 							</tr>
 						</thead>
 
@@ -34,6 +37,9 @@ defineProps(["data"]);
 								</td>
 								<td class="border-t-0 px-6 align-center border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
 									{{ poi.tags['addr:street'] }}<span v-if="poi.tags['addr:housenumber']">,  {{ poi.tags['addr:housenumber'] }}</span>
+								</td>
+								<td class="border-t-0 px-6 align-center border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
+									<OsnTipovenue :tags="poi.tags"/>
 								</td>
 							</tr>
 						</tbody>

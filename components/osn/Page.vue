@@ -5,7 +5,7 @@ defineProps(["data"]);
 <template>
 	<LandingSectionhead>
       <template v-slot:title>{{ data.tags.name }}</template>
-      <template v-slot:desc>{{ data.tags['amenity'] }}</template>
+      <template v-slot:desc><OsnTipovenue :tags="data.tags"/></template>
     </LandingSectionhead>
 
 	<div class="py-8">
@@ -43,6 +43,10 @@ defineProps(["data"]);
 				<a :href="'https://maps.google.com/maps?z=12&t=m&q=loc:'+data.lat+'+'+data.lon" target="_blank" class="text-blue-600">
 					posizione
 				</a>
+				 - 
+				 <a :href="'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+data.lat+','+data.lon" target="_blank" class="text-blue-600">
+					street view
+				</a>
 			</p>
 		</div>
 	</div>
@@ -51,14 +55,13 @@ defineProps(["data"]);
 	<OsnTag icona="material-symbols:call" etichetta="Telefono" :testo="data.tags.phone" />
 	
 	<OsnTag icona="material-symbols-light:add-business-outline" etichetta="Servizio" :testo="data.tags.amenity" />
+	<OsnTag icona="material-symbols:fitness-center" etichetta="Leisure" :testo="data.tags.leisure" />
+	<OsnTag icona="material-symbols:shopping-cart-outline" etichetta="Shop" :testo="data.tags.shop" />
+	<OsnTag icona="material-symbols:travel" etichetta="Turismo" :testo="data.tags.tourism" />
+	<OsnTag icona="guidance:office-pod" etichetta="Office" :testo="data.tags.office" />
 	
 	<OsnTag icona="ph:lightning" etichetta="Pagamento con lightning" :testo="data.tags['payment:lightning']" />
 	<OsnTag icona="akar-icons:link-chain" etichetta="Pagamento on-chain" :testo="data.tags['payment:onchain']" />
-
-	<OsnTag icona="guidance:office-pod" etichetta="Office" :testo="data.tags.office" />
-	<OsnTag icona="material-symbols:shopping-cart-outline" etichetta="Shop" :testo="data.tags.shop" />
-	<OsnTag icona="material-symbols:fitness-center" etichetta="Leisure" :testo="data.tags.leisure" />
-	<OsnTag icona="material-symbols:travel" etichetta="Turismo" :testo="data.tags.tourism" />
 
 	<OsnTagwebsite :url="data.tags.website" />
 	<OsnTagwebsite :url="data.tags['contact:website']" />
