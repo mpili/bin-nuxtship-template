@@ -15,7 +15,7 @@ export default {
 			<Icon name="mdi:web" size="16" color="gray" />
 			<span class="text-gray-400 w-48">Sito web&nbsp;</span>
 			<span class="text-gray-800">{{ testo }}</span>
-			<a :href="url" target="_blank" class="text-blue-600 text-sm ">{{ url }}</a>
+			<a :href="url" target="_blank" class="text-blue-600 text-sm">{{ url }}</a>
 		</div>
 	</div>	
 </template>

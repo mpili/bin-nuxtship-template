@@ -17,24 +17,24 @@ definePageMeta({
 </script>
 
 <template>
-<LandingContainer>
-	<LandingSectionhead>
-		<template v-slot:title>Libri su Bitcoin in Italiano</template>
-		<template v-slot:desc>Da acquistare su Amazon.it</template>
-	</LandingSectionhead>
-	<LibriAmazonbitcoin/>
-	<div v-if="pending">
-      Loading ...
-    </div>
-    <div v-else>
-		<section class="grid min-h-screen p-8 place-items-center">
-			<div  class="container grid grid-cols-1 gap-8 my-auto lg:grid-cols-2">
-				<div v-for="item of data.titoli">
-					<LibriScheda :data="item" />
+	<LandingContainer>
+		<LandingSectionhead>
+			<template v-slot:title>Libri su Bitcoin in Italiano</template>
+			<template v-slot:desc>Da acquistare su Amazon.it</template>
+		</LandingSectionhead>
+		<LibriAmazonbitcoin/>
+		<div v-if="pending">
+			Loading ...
+		</div>
+		<div v-else>
+			<section class="grid min-h-screen p-8 place-items-center">
+				<div  class="container grid grid-cols-1 gap-8 my-auto lg:grid-cols-2">
+					<div v-for="item of data.titoli">
+						<LibriScheda :data="item" />
+					</div>
 				</div>
-			</div>
-		</section>
-	</div>
-	
-</LandingContainer>
+			</section>
+		</div>
+		
+	</LandingContainer>
 </template>
