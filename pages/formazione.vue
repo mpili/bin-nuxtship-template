@@ -17,6 +17,10 @@ const corsi = [
 		url: "/documentazione",
 	},
 	{
+		nome: "Wallet",
+		url: "/wallet",
+	},
+	{
 		nome: "Podcast Bitcoin in Italiano",
 		url: "/podcast",
 	},
