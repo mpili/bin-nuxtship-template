@@ -29,7 +29,7 @@ const team = [
     name: "Max",
     title: "Marketing Engineer",
     avatar: {
-      src: "/img/chisiamo/max.png",
+      src: "/img/chisiamo/max.jpg",
       width: 580,
       height: 580,
     },
