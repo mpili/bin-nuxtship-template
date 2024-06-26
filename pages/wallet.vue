@@ -103,13 +103,17 @@ const attributiWallet = [
 			<div class="pt-8">
 				<div v-for="item of data">
 					<div class="flex items-center gap-1">
-						<div class="w-48">{{ item.nome }}</div>
-						<Icon name="mdi:web" size="16" color="blue" />
+						<div class="w-48">
+							<NuxtLink :to="'/w/' + item.id" class="text-blue-600">
+								{{ item.nome }}
+							</NuxtLink>
+						</div>
+						<!-- <Icon name="mdi:web" size="16" color="blue" />
 						<span class="w-20">
 							<a :href="item['web site']" target="_blank" class="text-blue-600 text-sm">
 								web site
 							</a>
-						</span>
+						</span> -->
 						<WalletIcona  v-for="att of attributiWallet"
 							:campo="item[att.campo]"
 							:icona="att.icona"
@@ -121,11 +125,13 @@ const attributiWallet = [
 
 			<div>
 				<h2 class="text-2xl font-bold leading-7 sm:text-3xl sm:tracking-tight py-4 pt-8">Legenda</h2>
-				<div v-for="att of attributiWallet"  class="flex items-center gap-1">
-					<div class="flex items-center gap-4">
-						<Icon :name="att.icona" size="16" :color="att.colore" />
-						<span class="text-gray-800">{{ att.titolo }}</span>
-						<span class="text-gray-500">{{ att.descrizione }}</span>
+				<div class="divide-y divide-gray-300/50">
+					<div v-for="att of attributiWallet"  class="flex items-center gap-1 ">
+						<div class="flex items-center gap-4">
+							<Icon :name="att.icona" size="16" :color="att.colore" />
+							<span class="text-gray-800 w-36">{{ att.titolo }}</span>
+							<span class="text-gray-500">{{ att.descrizione }}</span>
+						</div>
 					</div>
 				</div>
 			</div>
