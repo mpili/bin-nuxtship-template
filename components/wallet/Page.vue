@@ -362,7 +362,38 @@ const attributiWallet = [
 		descrizione: "connessione ad un nodo specifico",
 	},
 ]
-
+const social = [
+	{
+		nome: "twitter",
+		icona: "mdi:twitter",
+		url: "https://x.com/",
+	},
+	{
+		nome: "telegram",
+		icona: "mdi:telegram",
+		url: "https://t.me/",
+	},
+	{
+		nome: "reddit",
+		icona: "teenyicons:reddit-outline",
+		url: "https://www.reddit.com/r/",
+	},
+	{
+		nome: "facebook",
+		icona: "ic:baseline-facebook",
+		url: "https://www.facebook.com/",
+	},
+	{
+		nome: "instagram",
+		icona: "ph:instagram-logo",
+		url: "https://www.instagram.com/",
+	},
+	{
+		nome: "linkedin",
+		icona: "mdi:linkedin",
+		url: "https://www.linkedin.com/",
+	},
+]
 </script>
 
 <template>
@@ -379,6 +410,14 @@ const attributiWallet = [
 					{{ data["web site"]}}
 				</a>
 			</span>
+		</div>
+		<div class="flex items-center justify-center select-none font-mono">
+			<div v-for="soc of social" class="grid grid-cols-4 gap-4">
+				<a v-if="data[soc['nome']]" :href="soc['url']+data[soc['nome']]" target="_blank" class="text-blue-600">
+					<Icon :name="soc['icona']" size="48" color="blue" />
+					{{ soc['nome'] }}
+				</a>
+			</div>
 		</div>
 		<table>
 			<WalletRowattr v-for="att of attributiWallet" :att="att" :data="data" />
