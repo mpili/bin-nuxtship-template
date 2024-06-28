@@ -35,35 +35,35 @@ const attributiWallet = [
 		icona: "material-symbols:android",
 		colore: "#A4C639",
 		titolo: "Android",
-		descrizione: "Disponibile l'app per cellulari Android",
+		descrizione: "App disponibile per cellulari Android",
 	},
 	{
 		campo: "iOS",
 		icona: "ic:baseline-apple",
 		colore: "black",
 		titolo: "iOS",
-		descrizione: "Disponibile l'app per iPhone e iPad",
+		descrizione: "App disponibile per iPhone e iPad",
 	},
 	{
 		campo: "Windows",
 		icona: "mdi:microsoft-windows",
 		colore: "#0078D4",
 		titolo: "Windows",
-		descrizione: "Disponibile l'app per Windows",
+		descrizione: "App disponibile per Windows",
 	},
 	{
 		campo: "MacOS",
 		icona: "iconoir:apple-imac-2021",
 		colore: "#00C6FF",
 		titolo: "MacOS",
-		descrizione: "Disponibile l'app per mac",
+		descrizione: "App disponibile per Mac",
 	},
 	{
 		campo: "Linux",
 		icona: "teenyicons:linux-alt-solid",
 		colore: "black",
 		titolo: "Linux",
-		descrizione: "Disponibile l'app per Linux",
+		descrizione: "App disponibile per Linux",
 	},
 	{
 		campo: "open source",
@@ -109,7 +109,7 @@ const attributiWallet = [
 		icona: "mdi:bitcoin",
 		colore: "black",
 		titolo: "testnet",
-		descrizione: "coin di test",
+		descrizione: "Gestisce i coin di test",
 		dizionario: "testnet"
 	},
 	{
@@ -361,12 +361,18 @@ const attributiWallet = [
 		titolo: "connessione nodo",
 		descrizione: "connessione ad un nodo specifico",
 	},
-]
+];
+
 const social = [
 	{
 		nome: "twitter",
 		icona: "mdi:twitter",
 		url: "https://x.com/",
+	},
+	{
+		nome: "nostr",
+		icona: "game-icons:ostrich",
+		url: "https://nostr.com/",
 	},
 	{
 		nome: "telegram",
@@ -389,11 +395,31 @@ const social = [
 		url: "https://www.instagram.com/",
 	},
 	{
+		nome: "discord",
+		icona: "ic:baseline-discord",
+		url: "https://discord.gg/",
+	},
+	{
 		nome: "linkedin",
 		icona: "mdi:linkedin",
 		url: "https://www.linkedin.com/",
 	},
-]
+];
+
+const scrutiny = [
+	{
+		device: "android",
+		icona: "material-symbols:android",
+	},
+	{
+		device: "iphone",
+		icona: "ic:baseline-apple",
+	},
+	{
+		device: "desktop",
+		icona: "material-symbols:desktop-windows-outline",
+	},
+];
 </script>
 
 <template>
@@ -411,21 +437,27 @@ const social = [
 				</a>
 			</span>
 		</div>
-		<div class="flex items-center justify-center select-none font-mono">
-			<div v-for="soc of social" class="grid grid-cols-4 gap-4">
-				<a v-if="data[soc['nome']]" :href="soc['url']+data[soc['nome']]" target="_blank" class="text-blue-600">
-					<Icon :name="soc['icona']" size="48" color="blue" />
-					{{ soc['nome'] }}
-				</a>
-			</div>
-		</div>
+
 		<table>
 			<WalletRowattr v-for="att of attributiWallet" :att="att" :data="data" />
 		</table>
-		<div>
-			<WalletWalletscrutiny device="desktop" :valore="data['walletscrutiny-desktop']" />
-			<WalletWalletscrutiny device="android" :valore="data['walletscrutiny-android']" />
-			<WalletWalletscrutiny device="iphone" :valore="data['walletscrutiny-iphone']" />
+
+		<div v-if="data['walletscrutiny-desktop'] || data['walletscrutiny-android'] || data['walletscrutiny-iphone']">
+			<div class="rounded-lg bg-gray-200 px-4 py-2">
+				<div class="flex items-center">
+					<Icon name="game-icons:sitting-dog" size="36" color="#1caaa2" />
+					<span class="text-cyan-600">WalletScrutiny</span>
+				</div>
+				<div class="flex flex-wrap gap-2">
+					<WalletScrutiny v-for="device of scrutiny" :device="device.device" :valore="data['walletscrutiny-'+device.device]" :icona="device.icona" />
+				</div>
+			</div>
 		</div>
-	</div>
+
+		<div class="flex flex-wrap">
+			<div v-for="soc of social">
+				<WalletSocial :social="soc['nome']" :icona="soc['icona']" :url="soc['url']" :account="data[soc['nome']]" />
+			</div>
+		</div>
+</div>
 </template>
