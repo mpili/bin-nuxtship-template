@@ -75,7 +75,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Coin Control",
-		icona: "mdi:bitcoin",
+		icona: "ph:hand-coins-thin",
 		colore: "black",
 		titolo: "coin control",
 		descrizione: "Selezione degli UTXO per la transazione",
@@ -83,7 +83,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Fee Control",
-		icona: "mdi:bitcoin",
+		icona: "bitcoin-icons:miner-filled",
 		colore: "black",
 		titolo: "fee control",
 		descrizione: "consente di impostare le fee",
@@ -106,7 +106,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Testnet",
-		icona: "mdi:bitcoin",
+		icona: "hugeicons:test-tube-01",
 		colore: "black",
 		titolo: "testnet",
 		descrizione: "Gestisce i coin di test",
@@ -170,7 +170,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "PSBT",
-		icona: "mdi:bitcoin",
+		icona: "tabler:transaction-bitcoin",
 		colore: "black",
 		titolo: "psbt",
 		descrizione: "Partially Signed Bitcoin Transaction",
@@ -178,7 +178,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Passphrase",
-		icona: "mdi:bitcoin",
+		icona: "material-symbols:passkey-outline",
 		colore: "black",
 		titolo: "passphrase",
 		descrizione: "frase opzionale aggiunta alla frase mnemonica",
@@ -443,7 +443,7 @@ const scrutiny = [
 		</table>
 
 		<div v-if="data['walletscrutiny-desktop'] || data['walletscrutiny-android'] || data['walletscrutiny-iphone']">
-			<div class="rounded-lg bg-gray-200 px-4 py-2">
+			<div class="rounded-lg bg-gray-200 px-4 py-2 my-4">
 				<div class="flex items-center">
 					<Icon name="game-icons:sitting-dog" size="36" color="#1caaa2" />
 					<span class="text-cyan-600">WalletScrutiny</span>

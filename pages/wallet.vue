@@ -84,9 +84,10 @@ const attributiWallet = [
 		icona: "mdi:github",
 		colore: "#181717",
 		titolo: "open source",
-		descrizione: "Sono disponibili i sorgenti del programma ",
+		descrizione: "Sono disponibili i sorgenti del programma",
 	},
-]
+];
+
 </script>
 
 <template>
@@ -108,23 +109,20 @@ const attributiWallet = [
 								{{ item.nome }}
 							</NuxtLink>
 						</div>
-						<!-- <Icon name="mdi:web" size="16" color="blue" />
-						<span class="w-20">
-							<a :href="item['web site']" target="_blank" class="text-blue-600 text-sm">
-								web site
-							</a>
-						</span> -->
-						<WalletIcona  v-for="att of attributiWallet"
+						<WalletIcona v-for="att of attributiWallet"
 							:campo="item[att.campo]"
 							:icona="att.icona"
 							:colore="att.colore"
 						/>
+
 					</div>
 				</div>
 			</div>
-
+			
 			<div>
-				<h2 class="text-2xl font-bold leading-7 sm:text-3xl sm:tracking-tight py-4 pt-8">Legenda</h2>
+				<h2 class="text-2xl font-bold leading-7 sm:text-3xl sm:tracking-tight py-4 pt-8">
+					Legenda
+				</h2>
 				<div class="divide-y divide-gray-300/50">
 					<div v-for="att of attributiWallet"  class="flex items-center gap-1 ">
 						<div class="flex items-center gap-4">
@@ -133,6 +131,7 @@ const attributiWallet = [
 							<span class="text-gray-500">{{ att.descrizione }}</span>
 						</div>
 					</div>
+
 				</div>
 			</div>
 		</div>
