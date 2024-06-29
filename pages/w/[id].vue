@@ -1,7 +1,7 @@
 <script setup>
 
 const { id }  = useRoute().params;
-const url_api  = `/data/community/${id}.json`;
+const url_api  = `/data/wallet/${id}.json`;
 
 /* This call is performed before hydration */
 // var { data } = await useFetch(url_api);
@@ -24,7 +24,7 @@ definePageMeta({
       Loading ...
     </div>
     <div v-else>
-      <ComunitaPage :data="data" />
+      <WalletPage :data="data" />
     </div>    
   </LandingContainer>
 </template>
