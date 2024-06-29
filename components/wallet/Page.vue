@@ -25,7 +25,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "lightning",
-		icona: "ph:lightning",
+		icona: "ph:lightning-fill",
 		colore: "orange",
 		titolo: "Lightning network",
 		descrizione: "Supporta transazioni su Lightning Network",
@@ -90,7 +90,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Bech32",
-		icona: "mdi:bitcoin",
+		icona: "ph:diamonds-four",
 		colore: "black",
 		titolo: "bech32",
 		descrizione: "indirizzi bc1",
@@ -114,7 +114,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Multisig",
-		icona: "mdi:bitcoin",
+		icona: "ph:signature-light",
 		colore: "black",
 		titolo: "multisig",
 		descrizione: "transazioni firmate con diverse chiavi",
@@ -122,7 +122,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Taproot",
-		icona: "mdi:bitcoin",
+		icona: "ph:carrot",
 		colore: "black",
 		titolo: "taproot",
 		descrizione: "transazioni con taproot",
@@ -130,7 +130,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "CoinJoin",
-		icona: "mdi:bitcoin",
+		icona: "tabler:arrows-join",
 		colore: "black",
 		titolo: "coinjoin",
 		descrizione: "transazioni anonime",
@@ -138,7 +138,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Payjoin P2EP",
-		icona: "mdi:bitcoin",
+		icona: "humbleicons:arrow-side-join-main",
 		colore: "black",
 		titolo: "p2ep",
 		descrizione: "Payjoin Pay-to-Endpoint",
@@ -154,7 +154,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "RBF",
-		icona: "mdi:bitcoin",
+		icona: "material-symbols:fast-forward",
 		colore: "black",
 		titolo: "rbf",
 		descrizione: "Replace-by-fee",
@@ -194,7 +194,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "BIP-39",
-		icona: "mdi:bitcoin",
+		icona: "game-icons:abstract-039",
 		colore: "black",
 		titolo: "bip39",
 		descrizione: "frase mnemonica",
@@ -202,7 +202,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "BIP-44",
-		icona: "mdi:bitcoin",
+		icona: "mdi:map-marker-path",
 		colore: "black",
 		titolo: "bip44",
 		descrizione: "Derivation Path standard per indirizzi P2PKH",
@@ -210,7 +210,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "BIP-47",
-		icona: "mdi:bitcoin",
+		icona: "hugeicons:recycle-03",
 		colore: "black",
 		titolo: "bip47",
 		descrizione: "codici di pagamento riutilizzabili",
@@ -218,7 +218,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "BIP-49",
-		icona: "mdi:bitcoin",
+		icona: "fluent:arrow-wrap-20-regular",
 		colore: "black",
 		titolo: "bip49",
 		descrizione: "derivation path standard per indirizzi Wrapped SegWit",
@@ -226,7 +226,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "BIP-85",
-		icona: "mdi:bitcoin",
+		icona: "carbon:smoke",
 		colore: "black",
 		titolo: "bip85",
 		descrizione: "Deterministic Entropy From BIP32 Keychains",
@@ -234,21 +234,21 @@ const attributiWallet = [
 	},
 	{
 		campo: "RAW tx",
-		icona: "mdi:bitcoin",
+		icona: "material-symbols:raw-on",
 		colore: "black",
 		titolo: "raw tx",
 		descrizione: "transazioni in formato RAW",
 	},
 	{
 		campo: "Signing Messages",
-		icona: "mdi:bitcoin",
+		icona: "ph:signature-thin",
 		colore: "black",
 		titolo: "sign message",
 		descrizione: "firma di messaggi con la chiave privata",
 	},
 	{
 		campo: "SPV",
-		icona: "mdi:bitcoin",
+		icona: "ph:currency-dollar-simple",
 		colore: "black",
 		titolo: "spv",
 		descrizione: "Simplified Payment Verification",
@@ -263,7 +263,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Connessione hardware",
-		icona: "mdi:bitcoin",
+		icona: "material-symbols:cable",
 		colore: "black",
 		titolo: "hw connection",
 		descrizione: "connessione a hardware wallet",
@@ -271,7 +271,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Miniscript",
-		icona: "mdi:bitcoin",
+		icona: "pixelarticons:script-text",
 		colore: "black",
 		titolo: "miniscript",
 		descrizione: "script bitcoin con sintassi miniscript",
@@ -295,7 +295,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Wumbo",
-		icona: "mdi:bitcoin",
+		icona: "material-symbols:body-fat",
 		colore: "black",
 		titolo: "wumbo channel",
 		descrizione: "canali Lightning wumbo",
@@ -311,7 +311,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "LNURL",
-		icona: "mdi:bitcoin",
+		icona: "bitcoin-icons:lightning-circle-filled",
 		colore: "black",
 		titolo: "lnurl",
 		descrizione: "indirizzi lightning tramite LNURL",
@@ -319,21 +319,21 @@ const attributiWallet = [
 	},
 	{
 		campo: "LNURL-p",
-		icona: "mdi:bitcoin",
+		icona: "lets-icons:lightning-ring",
 		colore: "black",
 		titolo: "LNURL-p",
 		descrizione: "LNURL Pay",
 	},
 	{
 		campo: "LNURL-w",
-		icona: "mdi:bitcoin",
+		icona: "fluent:arrow-forward-down-lightning-20-filled",
 		colore: "black",
 		titolo: "LNURL-w",
 		descrizione: "LNURL Withdraw",
 	},
 	{
 		campo: "Bolt12",
-		icona: "mdi:bitcoin",
+		icona: "solar:bolt-circle-bold",
 		colore: "black",
 		titolo: "bolt12",
 		descrizione: "offer lightning",
@@ -341,14 +341,14 @@ const attributiWallet = [
 	},
 	{
 		campo: "URI Scheme",
-		icona: "mdi:bitcoin",
+		icona: "streamline:web",
 		colore: "black",
 		titolo: "URI Scheme",
 		descrizione: "",
 	},
 	{
 		campo: "Submarine swap",
-		icona: "mdi:bitcoin",
+		icona: "material-symbols:scuba-diving",
 		colore: "black",
 		titolo: "Submarine Swap",
 		descrizione: "swap atomici on-chain off-chain",
@@ -356,7 +356,7 @@ const attributiWallet = [
 	},
 	{
 		campo: "Connessione nodo",
-		icona: "mdi:bitcoin",
+		icona: "bi:node-plus",
 		colore: "black",
 		titolo: "connessione nodo",
 		descrizione: "connessione ad un nodo specifico",
@@ -428,6 +428,9 @@ const scrutiny = [
 		<template v-slot:desc>bitcoin wallet</template>
 	</LandingSectionhead>
 	<div>
+		<div class="">
+			<img :src="'/img/wallet/'+data.id+'.png'" class="w-20 h-20" />
+		</div>
 		<div class="flex items-center gap-1 py-4">
 			<Icon name="mdi:web" size="16" color="blue" />
 			Sito: 
@@ -438,15 +441,15 @@ const scrutiny = [
 			</span>
 		</div>
 
-		<table>
+		<table class="">
 			<WalletRowattr v-for="att of attributiWallet" :att="att" :data="data" />
 		</table>
 
 		<div v-if="data['walletscrutiny-desktop'] || data['walletscrutiny-android'] || data['walletscrutiny-iphone']">
-			<div class="rounded-lg bg-gray-200 px-4 py-2 my-4">
+			<div class="rounded-lg bg-gray-100 px-4 py-2 my-4">
 				<div class="flex items-center">
 					<Icon name="game-icons:sitting-dog" size="36" color="#1caaa2" />
-					<span class="text-cyan-600">WalletScrutiny</span>
+					<span class="text-cyan-600 text-lg">WalletScrutiny</span>
 				</div>
 				<div class="flex flex-wrap gap-2">
 					<WalletScrutiny v-for="device of scrutiny" :device="device.device" :valore="data['walletscrutiny-'+device.device]" :icona="device.icona" />

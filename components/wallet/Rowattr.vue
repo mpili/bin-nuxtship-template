@@ -12,7 +12,7 @@ export default {
 </script>
 
 <template>
-	<tr v-if="data[att.campo]=='s'">
+	<tr v-if="data[att.campo]=='s'" class="border-b border-gray-200">
 		<td>
 			<Icon :name="att.icona" size="16" :color="att.colore" />
 		</td>

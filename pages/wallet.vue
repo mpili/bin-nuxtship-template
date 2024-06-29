@@ -86,6 +86,13 @@ const attributiWallet = [
 		titolo: "open source",
 		descrizione: "Sono disponibili i sorgenti del programma",
 	},
+	{
+		campo: "Coin Control",
+		icona: "ph:hand-coins-thin",
+		colore: "#181717",
+		titolo: "coin control",
+		descrizione: "Consente il controllo degli input della transazione",
+	},
 ];
 
 </script>

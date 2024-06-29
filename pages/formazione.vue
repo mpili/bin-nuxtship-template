@@ -5,6 +5,10 @@ definePageMeta({
 
 const corsi = [
 	{
+		nome: "Wallet",
+		url: "/wallet",
+	},
+	{
 		nome: "Glossario Bitcoin",
 		url: "https://shrill-water-3846.on.fleek.co/",
 	},
@@ -15,10 +19,6 @@ const corsi = [
 	{
 		nome: "Documenti",
 		url: "/documentazione",
-	},
-	{
-		nome: "Wallet",
-		url: "/wallet",
 	},
 	{
 		nome: "Podcast Bitcoin in Italiano",
