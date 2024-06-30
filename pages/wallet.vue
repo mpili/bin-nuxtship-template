@@ -100,8 +100,8 @@ const attributiWallet = [
 <template>
 	<LandingContainer>
 		<LandingSectionhead>
-			<template v-slot:title>Wallets</template>
-			<template v-slot:desc>I wallet per gestire i tuoi fondi.</template>
+			<template v-slot:title>Wallet</template>
+			<template v-slot:desc>Le applicazioni per gestire i tuoi fondi.</template>
 		</LandingSectionhead>
 
 		<div v-if="pending">
@@ -111,6 +111,7 @@ const attributiWallet = [
 			<div class="pt-8">
 				<div v-for="item of data">
 					<div class="flex items-center gap-1">
+						<img :src="'/img/wallet/'+item.id+'.png'" class="w-6 h-6" />
 						<div class="w-48">
 							<NuxtLink :to="'/w/' + item.id" class="text-blue-600">
 								{{ item.nome }}

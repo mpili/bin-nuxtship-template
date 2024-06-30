@@ -11,7 +11,7 @@ export default {
 
 <template>
     <nav
-      class="text-sm sm:text-base bg-white p-4 md:p-4 lg:p-6 rounded-md shadow-lg m-4"
+      class="text-sm sm:text-base bg-white p-2 rounded-md shadow-lg my-4"
     >
       <ol class="list-none p-0 inline-flex space-x-2">
         <li class="flex items-center">

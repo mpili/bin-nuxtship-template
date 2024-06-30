@@ -482,5 +482,5 @@ const scrutiny = [
 				<WalletSocial :social="soc['nome']" :icona="soc['icona']" :url="soc['url']" :account="data[soc['nome']]" />
 			</div>
 		</div>
-</div>
+	</div>
 </template>

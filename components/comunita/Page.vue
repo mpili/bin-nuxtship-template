@@ -1,12 +1,24 @@
 <script setup>
-defineProps(["data"]);
+const props = defineProps(["data"]);
+
+const breadcrumb = computed(() => [
+  {
+    label: "comunità",
+    path: "/comunita",
+  },
+  {
+    label: props.data.name,
+  },
+]);
+
 </script>
 
-<template class="py-8">
+<template>
 	<LandingSectionhead>
 		<template v-slot:title>{{ data.localita }}</template>
 		<template v-slot:desc>{{ data.name }}</template>
 	</LandingSectionhead>
+	<LandingBreadcrumb :voci="breadcrumb" />
 	<div class="py-8">
 		<LMap
 			style="height:250px"
