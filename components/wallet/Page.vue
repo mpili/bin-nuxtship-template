@@ -11,36 +11,8 @@ const breadcrumb = computed(() => [
   },
 ])
 
-const attributiWallet = [
+const attrDeviceWallet = [
 {
-		campo: "per iniziare",
-		icona: "bi:emoji-smile-fill",
-		colore: "#D9B600",
-		titolo: "Per iniziare",
-		descrizione: "Wallet adatto ai principanti",
-	},
-	{
-		campo: "selfcustodial",
-		icona: "material-symbols:key-rounded",
-		colore: "green",
-		titolo: "Self custodial",
-		descrizione: "L'utente ha il controllo delle proprie chiavi private",
-	},
-	{
-		campo: "custodial",
-		icona: "material-symbols:vpn-key-off",
-		colore: "red",
-		titolo: "Custodial",
-		descrizione: "Le chiavi private sono gestite dal fornitore, l'utente non ha controllo diretto dei propri fondi",
-	},
-	{
-		campo: "lightning",
-		icona: "ph:lightning-fill",
-		colore: "orange",
-		titolo: "Lightning network",
-		descrizione: "Supporta transazioni su Lightning Network",
-	},
-	{
 		campo: "Android",
 		icona: "material-symbols:android",
 		colore: "#A4C639",
@@ -81,6 +53,38 @@ const attributiWallet = [
 		colore: "gray",
 		titolo: "Browser extension",
 		descrizione: "App disponibile come estensione del Web browser",
+	},
+
+];
+
+const attributiWallet = [
+{
+		campo: "per iniziare",
+		icona: "bi:emoji-smile-fill",
+		colore: "#D9B600",
+		titolo: "Per iniziare",
+		descrizione: "Wallet adatto ai principanti",
+	},
+	{
+		campo: "selfcustodial",
+		icona: "material-symbols:key-rounded",
+		colore: "green",
+		titolo: "Self custodial",
+		descrizione: "L'utente ha il controllo delle proprie chiavi private",
+	},
+	{
+		campo: "custodial",
+		icona: "material-symbols:vpn-key-off",
+		colore: "red",
+		titolo: "Custodial",
+		descrizione: "Le chiavi private sono gestite dal fornitore, l'utente non ha controllo diretto dei propri fondi",
+	},
+	{
+		campo: "lightning",
+		icona: "ph:lightning-fill",
+		colore: "orange",
+		titolo: "Lightning network",
+		descrizione: "Supporta transazioni su Lightning Network",
 	},
 	{
 		campo: "open source",
@@ -461,9 +465,16 @@ const scrutiny = [
 			</span>
 		</div>
 
+		<h3 class="text-lg pt-4 pb-2 font-bold">Piattaforme</h3>
+		<table class="">
+			<WalletRowattr v-for="att of attrDeviceWallet" :att="att" :data="data" />
+		</table>
+
+		<h3 class="text-lg pt-4 pb-2 font-bold">Funzioni</h3>
 		<table class="">
 			<WalletRowattr v-for="att of attributiWallet" :att="att" :data="data" />
 		</table>
+
 
 		<div v-if="data['walletscrutiny-desktop'] || data['walletscrutiny-android'] || data['walletscrutiny-iphone']">
 			<div class="rounded-lg bg-gray-100 px-4 py-2 my-4">
