@@ -86,7 +86,7 @@ const podcasts = [
 			<template v-slot:desc>I podcast Bitcoin in Italia</template>
 		</LandingSectionhead>
 		<div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
-			<LandingPodc v-for="item of podcasts" :podc="item" />
+			<PodcastScheda v-for="item of podcasts" :podc="item" />
 		</div>
 	</LandingContainer>
 </template>

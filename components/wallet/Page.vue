@@ -50,7 +50,7 @@ const attributiWallet = [
 	{
 		campo: "iOS",
 		icona: "ic:baseline-apple",
-		colore: "black",
+		colore: "gray",
 		titolo: "iOS",
 		descrizione: "App disponibile per iPhone e iPad",
 	},
@@ -71,9 +71,16 @@ const attributiWallet = [
 	{
 		campo: "Linux",
 		icona: "teenyicons:linux-alt-solid",
-		colore: "black",
+		colore: "gray",
 		titolo: "Linux",
 		descrizione: "App disponibile per Linux",
+	},
+	{
+		campo: "Web browser",
+		icona: "mdi:web",
+		colore: "gray",
+		titolo: "Browser extension",
+		descrizione: "App disponibile come estensione del Web browser",
 	},
 	{
 		campo: "open source",
@@ -86,7 +93,7 @@ const attributiWallet = [
 	{
 		campo: "Coin Control",
 		icona: "ph:hand-coins-thin",
-		colore: "black",
+		colore: "gray",
 		titolo: "coin control",
 		descrizione: "Selezione degli UTXO per la transazione",
 		dizionario: "coin-selection"
@@ -94,14 +101,14 @@ const attributiWallet = [
 	{
 		campo: "Fee Control",
 		icona: "bitcoin-icons:miner-filled",
-		colore: "black",
+		colore: "gray",
 		titolo: "fee control",
 		descrizione: "consente di impostare le fee",
 	},
 	{
 		campo: "Bech32",
 		icona: "ph:diamonds-four",
-		colore: "black",
+		colore: "gray",
 		titolo: "bech32",
 		descrizione: "indirizzi bc1",
 		dizionario: "bech32"
@@ -109,7 +116,7 @@ const attributiWallet = [
 	{
 		campo: "Tor",
 		icona: "fluent-emoji-high-contrast:onion",
-		colore: "black",
+		colore: "purple",
 		titolo: "protocollo tor",
 		descrizione: "connessioni utilizzando la rete per la privacy tor",
 		dizionario: "tor"
@@ -117,7 +124,7 @@ const attributiWallet = [
 	{
 		campo: "Testnet",
 		icona: "hugeicons:test-tube-01",
-		colore: "black",
+		colore: "green",
 		titolo: "testnet",
 		descrizione: "Gestisce i coin di test",
 		dizionario: "testnet"
@@ -125,7 +132,7 @@ const attributiWallet = [
 	{
 		campo: "Multisig",
 		icona: "ph:signature-light",
-		colore: "black",
+		colore: "gray",
 		titolo: "multisig",
 		descrizione: "transazioni firmate con diverse chiavi",
 		dizionario: "multisig"
@@ -133,7 +140,7 @@ const attributiWallet = [
 	{
 		campo: "Taproot",
 		icona: "ph:carrot",
-		colore: "black",
+		colore: "orange",
 		titolo: "taproot",
 		descrizione: "transazioni con taproot",
 		dizionario: "taproot"
@@ -141,7 +148,7 @@ const attributiWallet = [
 	{
 		campo: "CoinJoin",
 		icona: "tabler:arrows-join",
-		colore: "black",
+		colore: "gray",
 		titolo: "coinjoin",
 		descrizione: "transazioni anonime",
 		dizionario: "coinjoin"
@@ -149,7 +156,7 @@ const attributiWallet = [
 	{
 		campo: "Payjoin P2EP",
 		icona: "humbleicons:arrow-side-join-main",
-		colore: "black",
+		colore: "gray",
 		titolo: "p2ep",
 		descrizione: "Payjoin Pay-to-Endpoint",
 		dizionario: "p2ep"
@@ -157,7 +164,7 @@ const attributiWallet = [
 	{
 		campo: "Batching",
 		icona: "carbon:batch-job",
-		colore: "black",
+		colore: "gray",
 		titolo: "batching",
 		descrizione: "combina più pagamenti in un'unica transazione",
 		dizionario: "batching"
@@ -165,7 +172,7 @@ const attributiWallet = [
 	{
 		campo: "RBF",
 		icona: "material-symbols:fast-forward",
-		colore: "black",
+		colore: "gray",
 		titolo: "rbf",
 		descrizione: "Replace-by-fee",
 		dizionario: "rbf"
@@ -173,7 +180,7 @@ const attributiWallet = [
 	{
 		campo: "CPFP",
 		icona: "typcn:flow-children",
-		colore: "black",
+		colore: "gray",
 		titolo: "cpfp",
 		descrizione: "Child pays for parent",
 		dizionario: "cpfp"
@@ -181,7 +188,7 @@ const attributiWallet = [
 	{
 		campo: "PSBT",
 		icona: "tabler:transaction-bitcoin",
-		colore: "black",
+		colore: "gray",
 		titolo: "psbt",
 		descrizione: "Partially Signed Bitcoin Transaction",
 		dizionario: "psbt"
@@ -189,7 +196,7 @@ const attributiWallet = [
 	{
 		campo: "Passphrase",
 		icona: "material-symbols:passkey-outline",
-		colore: "black",
+		colore: "gray",
 		titolo: "passphrase",
 		descrizione: "frase opzionale aggiunta alla frase mnemonica",
 		dizionario: "passphrase"
@@ -197,7 +204,7 @@ const attributiWallet = [
 	{
 		campo: "BIP-32",
 		icona: "tabler:hierarchy-3",
-		colore: "black",
+		colore: "gray",
 		titolo: "bip32",
 		descrizione: "Hierarchical Deterministic wallet",
 		dizionario: "bip-32-hd-wallet"
@@ -205,7 +212,7 @@ const attributiWallet = [
 	{
 		campo: "BIP-39",
 		icona: "game-icons:abstract-039",
-		colore: "black",
+		colore: "gray",
 		titolo: "bip39",
 		descrizione: "frase mnemonica",
 		dizionario: "bip-39-mnemonic-phrases"
@@ -213,7 +220,7 @@ const attributiWallet = [
 	{
 		campo: "BIP-44",
 		icona: "mdi:map-marker-path",
-		colore: "black",
+		colore: "gray",
 		titolo: "bip44",
 		descrizione: "Derivation Path standard per indirizzi P2PKH",
 		dizionario: "bip-44-derivation-paths-for-p2pkh"
@@ -221,7 +228,7 @@ const attributiWallet = [
 	{
 		campo: "BIP-47",
 		icona: "hugeicons:recycle-03",
-		colore: "black",
+		colore: "gray",
 		titolo: "bip47",
 		descrizione: "codici di pagamento riutilizzabili",
 		dizionario: "bip-47-reusable-payment-codes-for-hd-wallets"
@@ -229,7 +236,7 @@ const attributiWallet = [
 	{
 		campo: "BIP-49",
 		icona: "fluent:arrow-wrap-20-regular",
-		colore: "black",
+		colore: "gray",
 		titolo: "bip49",
 		descrizione: "derivation path standard per indirizzi Wrapped SegWit",
 		dizionario: "bip-49-derivation-paths-for-wrapped-segwit"
@@ -237,7 +244,7 @@ const attributiWallet = [
 	{
 		campo: "BIP-85",
 		icona: "carbon:smoke",
-		colore: "black",
+		colore: "gray",
 		titolo: "bip85",
 		descrizione: "Deterministic Entropy From BIP32 Keychains",
 		dizionario: "bip-85-deterministic-entropy-from-bip32-keychains"
@@ -245,21 +252,21 @@ const attributiWallet = [
 	{
 		campo: "RAW tx",
 		icona: "material-symbols:raw-on",
-		colore: "black",
+		colore: "gray",
 		titolo: "raw tx",
 		descrizione: "transazioni in formato RAW",
 	},
 	{
 		campo: "Signing Messages",
 		icona: "ph:signature-thin",
-		colore: "black",
+		colore: "gray",
 		titolo: "sign message",
 		descrizione: "firma di messaggi con la chiave privata",
 	},
 	{
 		campo: "SPV",
 		icona: "ph:currency-dollar-simple",
-		colore: "black",
+		colore: "gray",
 		titolo: "spv",
 		descrizione: "Simplified Payment Verification",
 		dizionario: "spv"
@@ -267,14 +274,14 @@ const attributiWallet = [
 	{
 		campo: "Connessione nodo",
 		icona: "ant-design:subnode-outlined",
-		colore: "black",
+		colore: "gray",
 		titolo: "connessione a nodo",
 		descrizione: "possibilità di specificare il nodo a cui connettersi",
 	},
 	{
 		campo: "Connessione hardware",
 		icona: "material-symbols:cable",
-		colore: "black",
+		colore: "gray",
 		titolo: "hw connection",
 		descrizione: "connessione a hardware wallet",
 		dizionario: "hwi"
@@ -282,7 +289,7 @@ const attributiWallet = [
 	{
 		campo: "Miniscript",
 		icona: "pixelarticons:script-text",
-		colore: "black",
+		colore: "gray",
 		titolo: "miniscript",
 		descrizione: "script bitcoin con sintassi miniscript",
 		dizionario: "miniscript"
@@ -290,7 +297,7 @@ const attributiWallet = [
 	{
 		campo: "Swap",
 		icona: "hugeicons:coins-swap",
-		colore: "black",
+		colore: "gray",
 		titolo: "swap",
 		descrizione: "coin swap",
 		dizionario: "coinswap"
@@ -298,7 +305,7 @@ const attributiWallet = [
 	{
 		campo: "AMP",
 		icona: "mdi:map-marker-path",
-		colore: "black",
+		colore: "gray",
 		titolo: "amp",
 		descrizione: "Atomic Multipath Payment",
 		dizionario: "amp"
@@ -306,7 +313,7 @@ const attributiWallet = [
 	{
 		campo: "Wumbo",
 		icona: "material-symbols:body-fat",
-		colore: "black",
+		colore: "gray",
 		titolo: "wumbo channel",
 		descrizione: "canali Lightning wumbo",
 		dizionario: "wumbo-channel"
@@ -314,7 +321,7 @@ const attributiWallet = [
 	{
 		campo: "Trampoline payments",
 		icona: "hugeicons:trampoline",
-		colore: "black",
+		colore: "gray",
 		titolo: "trampoline",
 		descrizione: "Trampoline payment su Lightning",
 		dizionario: "trampoline"
@@ -322,7 +329,7 @@ const attributiWallet = [
 	{
 		campo: "LNURL",
 		icona: "bitcoin-icons:lightning-circle-filled",
-		colore: "black",
+		colore: "gray",
 		titolo: "lnurl",
 		descrizione: "indirizzi lightning tramite LNURL",
 		dizionario: "lnurl"
@@ -330,21 +337,21 @@ const attributiWallet = [
 	{
 		campo: "LNURL-p",
 		icona: "lets-icons:lightning-ring",
-		colore: "black",
+		colore: "gray",
 		titolo: "LNURL-p",
 		descrizione: "LNURL Pay",
 	},
 	{
 		campo: "LNURL-w",
 		icona: "fluent:arrow-forward-down-lightning-20-filled",
-		colore: "black",
+		colore: "gray",
 		titolo: "LNURL-w",
 		descrizione: "LNURL Withdraw",
 	},
 	{
 		campo: "Bolt12",
 		icona: "solar:bolt-circle-bold",
-		colore: "black",
+		colore: "gray",
 		titolo: "bolt12",
 		descrizione: "offer lightning",
 		dizionario: "bolt12"
@@ -352,14 +359,14 @@ const attributiWallet = [
 	{
 		campo: "URI Scheme",
 		icona: "streamline:web",
-		colore: "black",
+		colore: "gray",
 		titolo: "URI Scheme",
 		descrizione: "",
 	},
 	{
 		campo: "Submarine swap",
 		icona: "material-symbols:scuba-diving",
-		colore: "black",
+		colore: "gray",
 		titolo: "Submarine Swap",
 		descrizione: "swap atomici on-chain off-chain",
 		dizionario: "submarine-swap"
@@ -367,7 +374,7 @@ const attributiWallet = [
 	{
 		campo: "Connessione nodo",
 		icona: "bi:node-plus",
-		colore: "black",
+		colore: "gray",
 		titolo: "connessione nodo",
 		descrizione: "connessione ad un nodo specifico",
 	},

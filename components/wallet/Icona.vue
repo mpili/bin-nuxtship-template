@@ -19,7 +19,7 @@ export default {
 
 <template>
 	<span class="w-4">
-		<Icon v-if="campo" :name="icona" size="16" :color="colore" />
+		<Icon v-if="campo=='s'" :name="icona" size="16" :color="colore" />
 		<Icon v-else :name="icona" size="16" color="#eee" />
 	</span>
 </template>

@@ -28,7 +28,7 @@ definePageMeta({
       <!-- <p> {{ id }}</p> -->
       <!-- <p> {{ url_api }}</p> -->
       <!-- <p> {{ data }}</p> -->
-      <LandingPodcast :podc="data" />
+      <PodcastPage :podc="data" />
     </div>    
   </LandingContainer>
 </template>
