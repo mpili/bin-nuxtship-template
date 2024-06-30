@@ -43,9 +43,18 @@ defineProps(["data"]);
       >
         <div class="flex divide-x divide-gray-300/50">
           <div class="p-4 text-gray-400">google maps</div>
-		  <OsnGmaplink :etichetta="'posizione'" :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat + '+' + data.lon" />
-		  <OsnGmaplink :etichetta="'streetview'" :url="'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' + data.lat + ',' + data.lon" />
-		  <OsnGmaplink :etichetta="'percorso'" :url="'https://maps.google.com/maps?daddr=(' + data.lat + ',' + data.lon + ')'"/>
+          <OsnGmaplink
+            :etichetta="'posizione'"
+            :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat + '+' + data.lon"
+          />
+          <OsnGmaplink
+            :etichetta="'streetview'"
+            :url="'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' + data.lat + ',' + data.lon"
+          />
+          <OsnGmaplink
+            :etichetta="'percorso'"
+            :url="'https://maps.google.com/maps?daddr=(' + data.lat + ',' + data.lon + ')'"
+          />
         </div>
       </div>
     </div>
