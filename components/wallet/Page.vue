@@ -1,5 +1,15 @@
 <script setup>
-defineProps(["data"]);
+const props = defineProps(["data"]);
+
+const breadcrumb = computed(() => [
+  {
+    label: "wallet",
+    path: "/wallet",
+  },
+  {
+    label: props.data.nome,
+  },
+])
 
 const attributiWallet = [
 {
@@ -424,9 +434,12 @@ const scrutiny = [
 
 <template>
 	<LandingSectionhead>
-		<template v-slot:title>{{ data.nome }}</template>
+		<template v-slot:title>
+			{{ data.nome }}
+		</template>
 		<template v-slot:desc>bitcoin wallet</template>
 	</LandingSectionhead>
+	<LandingBreadcrumb :voci="breadcrumb" />
 	<div>
 		<div class="">
 			<img :src="'/img/wallet/'+data.id+'.png'" class="w-20 h-20" />
