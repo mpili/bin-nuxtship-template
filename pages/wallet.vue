@@ -14,29 +14,13 @@ definePageMeta({
   layout: "landing",
 });
 
+// const selfcustodial = defineModel({ default: false });
+// const custodial = defineModel({ default: false });
+
+const selfcustodial = defineModel('selfcustodial', { default: false });
+const custodial = defineModel('custodial', { default: false });
+
 const attributiWallet = [
-  {
-    campo: "per iniziare",
-    icona: "bi:emoji-smile-fill",
-    colore: "#D9B600",
-    titolo: "Per iniziare",
-    descrizione: "Wallet adatto ai principanti",
-  },
-  {
-    campo: "selfcustodial",
-    icona: "material-symbols:key-rounded",
-    colore: "green",
-    titolo: "Self custodial",
-    descrizione: "L'utente ha il controllo delle proprie chiavi private",
-  },
-  {
-    campo: "custodial",
-    icona: "material-symbols:vpn-key-off",
-    colore: "red",
-    titolo: "Custodial",
-    descrizione:
-      "Le chiavi private sono gestite dal fornitore, l'utente non ha controllo diretto dei propri fondi",
-  },
   {
     campo: "lightning",
     icona: "ph:lightning-fill",
@@ -79,27 +63,54 @@ const attributiWallet = [
     titolo: "Linux",
     descrizione: "Disponibile l'app per Linux",
   },
+  // {
+  //   campo: "Web browser",
+  //   icona: "mdi:web",
+  //   colore: "blue",
+  //   titolo: "Browser extension",
+  //   descrizione: "App disponibile come estensione del Web browser",
+  // },
+  // {
+  //   campo: "per iniziare",
+  //   icona: "bi:emoji-smile-fill",
+  //   colore: "#D9B600",
+  //   titolo: "Per iniziare",
+  //   descrizione: "Wallet adatto ai principanti",
+  // },
+
+  // {
+  //   campo: "open source",
+  //   icona: "mdi:github",
+  //   colore: "#181717",
+  //   titolo: "open source",
+  //   descrizione: "Sono disponibili i sorgenti del programma",
+  // },
+
+];
+
+const attributiWalletOpz = [
   {
-    campo: "Web browser",
-    icona: "mdi:web",
-    colore: "blue",
-    titolo: "Browser extension",
-    descrizione: "App disponibile come estensione del Web browser",
+    campo: "selfcustodial",
+    icona: "material-symbols:key-rounded",
+    colore: "green",
+    titolo: "Self custodial",
+    descrizione: "L'utente ha il controllo delle proprie chiavi private",
   },
   {
-    campo: "open source",
-    icona: "mdi:github",
-    colore: "#181717",
-    titolo: "open source",
-    descrizione: "Sono disponibili i sorgenti del programma",
+    campo: "custodial",
+    icona: "material-symbols:vpn-key-off",
+    colore: "red",
+    titolo: "Custodial",
+    descrizione:
+      "Le chiavi private sono gestite dal fornitore, l'utente non ha controllo diretto dei propri fondi",
   },
-  {
-    campo: "Coin Control",
-    icona: "ph:hand-coins-thin",
-    colore: "#181717",
-    titolo: "coin control",
-    descrizione: "Consente il controllo degli input della transazione",
-  },
+  // {
+  //   campo: "Coin Control",
+  //   icona: "ph:hand-coins-thin",
+  //   colore: "#181717",
+  //   titolo: "coin control",
+  //   descrizione: "Consente il controllo degli input della transazione",
+  // },
 ];
 </script>
 
@@ -121,12 +132,33 @@ const attributiWallet = [
                 {{ item.nome }}
               </NuxtLink>
             </div>
-            <WalletIcona
-              v-for="att of attributiWallet"
-              :campo="item[att.campo]"
-              :icona="att.icona"
-              :colore="att.colore"
-            />
+            <div v-for="att of attributiWallet">
+              <WalletIcona
+                :campo="item[att.campo]"
+                :icona="att.icona"
+                :colore="att.colore"
+              />
+            </div>
+
+            <div>
+              <WalletIcona
+                v-if="selfcustodial"
+                :campo="item['selfcustodial']"
+                icona="material-symbols:key-rounded"
+                colore="green"
+              />
+            </div>
+
+            <div>
+              <WalletIcona
+                v-if="custodial"
+                :campo="item['custodial']"
+                icona="material-symbols:vpn-key-off"
+                colore="red"
+              />
+            </div>
+
+
           </div>
         </div>
       </div>
@@ -145,6 +177,33 @@ const attributiWallet = [
               <span class="text-gray-500">{{ att.descrizione }}</span>
             </div>
           </div>
+
+          <div class="flex items-center gap-1">
+            <div class="flex items-center gap-4">
+              <input
+                type="checkbox"
+                id="selfcustodial"
+                v-model="selfcustodial"
+              />
+              <Icon name="material-symbols:key-rounded" size="16" :color="green" />
+              <span class="text-gray-800 w-36">Self custodial</span>
+              <span class="text-gray-500">L'utente ha il controllo delle proprie chiavi private</span>
+            </div>
+          </div>
+
+          <div class="flex items-center gap-1">
+            <div class="flex items-center gap-4">
+              <input
+                type="checkbox"
+                id="custodial"
+                v-model="custodial"
+              />
+              <Icon name="material-symbols:vpn-key-off" size="16" :color="red" />
+              <span class="text-gray-800 w-36">Custodial</span>
+              <span class="text-gray-500">Le chiavi private sono gestite dal fornitore, l'utente non ha controllo diretto dei propri fondi</span>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
