@@ -24,11 +24,7 @@ definePageMeta({
       Loading ...
     </div>
     <div v-else>
-      <!-- <p> {{ $route.params.id }}</p> -->
-      <!-- <p> {{ id }}</p> -->
-      <!-- <p> {{ url_api }}</p> -->
-      <!-- <p> {{ data }}</p> -->
-      <LandingPodcast :podc="data" />
+      <PodcastPage :podc="data" />
     </div>    
   </LandingContainer>
 </template>

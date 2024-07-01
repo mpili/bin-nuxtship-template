@@ -5,8 +5,8 @@ definePageMeta({
 
 const corsi = [
 	{
-		nome: "Glossario Bitcoin",
-		url: "https://shrill-water-3846.on.fleek.co/",
+		nome: "Wallet",
+		url: "/wallet",
 	},
 	{
 		nome: "Libri Bitcoin in Italiano da acquistare su Amazon",
@@ -17,12 +17,12 @@ const corsi = [
 		url: "/documentazione",
 	},
 	{
-		nome: "Wallet",
-		url: "/wallet",
-	},
-	{
 		nome: "Podcast Bitcoin in Italiano",
 		url: "/podcast",
+	},
+	{
+		nome: "Glossario Bitcoin",
+		url: "https://shrill-water-3846.on.fleek.co/",
 	},
 	{
 		nome: "Corsi PlanB Network",

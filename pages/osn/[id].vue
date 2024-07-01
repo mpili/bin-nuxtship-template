@@ -26,7 +26,6 @@ definePageMeta({
     <div v-else>
       <div>
         <OsnPage :data="data.elements[0]" />
-        <!-- <p class="text-gray-300">{{data}}</p> -->
       </div>
     </div>    
   </LandingContainer>
