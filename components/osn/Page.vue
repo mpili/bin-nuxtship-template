@@ -80,6 +80,13 @@ defineProps(["data"]);
     etichetta="Servizio"
     :testo="data.tags.amenity"
   />
+  
+  <OsnTag
+    icona="icon-park-twotone:hot-pot"
+    etichetta="Cucina"
+    :testo="data.tags.cuisine"
+  />
+
   <OsnTag
     icona="material-symbols:fitness-center"
     etichetta="Leisure"
