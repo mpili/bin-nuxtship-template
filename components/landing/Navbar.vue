@@ -35,7 +35,7 @@ const open = ref(false);
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="text-lg"
           ><span class="bg-green-500">₿itcoin</span
-        >Italia<span class="font-bold bg-red-500">Network</span>
+        >Italia<span class="font-bold bg-red-600 text-white">Network</span>
         </a>
         <div class="block lg:hidden">
           <button @click="open = !open" class="text-gray-800">

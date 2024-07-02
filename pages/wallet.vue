@@ -147,10 +147,13 @@ const attributiWalletOpz = [
 
     <div v-if="pending">Loading ...</div>
     <div v-else>
-      <div class="pt-8">
-        <div v-for="item of data">
+      <div class="pt-6">
+        
+        <div v-for="item of data" class="h-10">
           <div class="flex items-center gap-1">
-            <img :src="'/img/wallet/' + item.id + '.png'" class="w-6 h-6" />
+            <div class="w-8">
+              <img :src="'/img/wallet/' + item.id + '.png'" class="w-6 h-6" />
+            </div>
             <div class="w-48">
               <NuxtLink :to="'/w/' + item.id" class="text-blue-600">
                 {{ item.nome }}
