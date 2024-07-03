@@ -14,7 +14,7 @@ export default {
 </script>
 
 <template>
-  <div class="p-4 text-blue-500">
+  <div class="px-4 pb-4 text-blue-500">
     <a :href="url" target="_blank" class="text-blue-600">
       {{ etichetta }}
     </a>

@@ -15,7 +15,7 @@
     <div>
       <h1 class="text-3xl lg:text-3xl xl:text-4xl font-bold lg:tracking-tight">
         <span class="bg-orange-500 text-white">&nbsp;₿</span
-        ><span class="bg-cyan-500 text-white">itcoin &nbsp;Italia &nbsp;Network&nbsp;</span>
+        ><span class="bg-blue-600 text-white">itcoin &nbsp;Italia &nbsp;Network&nbsp;</span>
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
         Benvenuti su
