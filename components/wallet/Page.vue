@@ -357,7 +357,7 @@ const attributiWallet = [
     icona: "solar:bolt-circle-bold",
     colore: "gray",
     titolo: "bolt12",
-    descrizione: "offer lightning",
+    descrizione: "lightning offer",
     dizionario: "bolt12",
   },
   {
