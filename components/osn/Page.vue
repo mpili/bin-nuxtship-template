@@ -40,7 +40,7 @@ defineProps(["data"]);
     </div>
 
       <div
-        class="relative inline-block bg-white mt-2 mb-4 shadow-xl ring-1 ring-gray-900/5 max-w-lg rounded-lg"
+        class="relative inline-block bg-white mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
       >
         <div class="pl-4 p-2 text-gray-400">google maps</div>
         <div class="flex divide-x divide-gray-300/50">
@@ -75,14 +75,25 @@ defineProps(["data"]);
     :testo="data.tags.phone"
   />
 
+  <OsnTagyesno
+    icona="ph:wheelchair-light"
+    etichetta="Sedie a rotelle"
+    :testo="data.tags.wheelchair"
+  />
   <OsnTag
     icona="material-symbols-light:add-business-outline"
     etichetta="Servizio"
     :testo="data.tags.amenity"
   />
+
+  <OsnTag
+    icona="fluent:food-20-regular"
+    etichetta="Cucina"
+    :testo="data.tags.cuisine"
+  />
   <OsnTag
     icona="material-symbols:fitness-center"
-    etichetta="Leisure"
+    etichetta="Tempo libero"
     :testo="data.tags.leisure"
   />
   <OsnTag
@@ -96,17 +107,32 @@ defineProps(["data"]);
     :testo="data.tags.tourism"
   />
   <OsnTag
+    icona="material-symbols-light:add-business-outline"
+    etichetta="guest_house"
+    :testo="data.tags['guest_house']"
+  />
+  <OsnTag
     icona="guidance:office-pod"
     etichetta="Office"
     :testo="data.tags.office"
   />
-
   <OsnTag
+    icona="guidance:office-pod"
+    etichetta="Conduttore"
+    :testo="data.tags.operator"
+  />
+
+  <OsnTagyesno
     icona="ph:lightning"
     etichetta="Pagamento con lightning"
     :testo="data.tags['payment:lightning']"
   />
-  <OsnTag
+  <OsnTagyesno
+    icona="ph:lightning"
+    etichetta="Lightning contactles"
+    :testo="data.tags['payment:lightning_contactless']"
+  />
+  <OsnTagyesno
     icona="akar-icons:link-chain"
     etichetta="Pagamento on-chain"
     :testo="data.tags['payment:onchain']"
@@ -145,6 +171,12 @@ defineProps(["data"]);
     etichetta="email"
     :testo="data.tags['contact:email']"
   />
+  <OsnTag
+    icona="material-symbols:nest-clock-farsight-analog-outline"
+    etichetta="orari apertura"
+    :testo="data.tags['opening_hours']"
+  />
+
   <OsnTag
     icona="material-symbols:event-available-outline"
     etichetta="Data di verifica"

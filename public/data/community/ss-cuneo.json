@@ -148,6 +148,29 @@
                 "name": "Bar Belvedere",
                 "payment:onchain": "yes"
             }
+        },
+        {
+            "type": "node",
+            "id": 12033521517,
+            "lat": 44.3965499,
+            "lon": 7.7444969,
+            "timestamp": "2024-07-04T13:56:20Z",
+            "version": 1,
+            "changeset": 153549610,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "addr:city": "Villanova Mondov\u00ec",
+                "addr:postcode": "12089",
+                "addr:street": "Via Case Molino di Pogliola",
+                "currency:XBT": "yes",
+                "name": "Bongiovanni Srl",
+                "nohousenumber": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0324 848425",
+                "shop": "food",
+                "website": "https://www.molinobongiovanni.com/"
+            }
         }
     ]
 }

@@ -2089,6 +2089,36 @@
                 "shop": "beauty",
                 "website": "https://www.centroesteticosegrate.com/"
             }
+        },
+        {
+            "type": "node",
+            "id": 12033308457,
+            "lat": 45.4569269,
+            "lon": 9.2156541,
+            "timestamp": "2024-07-04T12:01:51Z",
+            "version": 1,
+            "changeset": 153543490,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "72",
+                "addr:postcode": "20135",
+                "addr:street": "Via Friuli",
+                "check_date": "2024-07-04",
+                "contact:email": "animalfood24@ikmail.com",
+                "contact:facebook": "https://www.facebook.com/Animalfood-via-Friuli-137866686869402/",
+                "currency:XBT": "yes",
+                "name": "Animalfood",
+                "opening_hours": "Mo-Sa 09:30-13:00,15:30-19:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 02 8450 1760",
+                "phone:mobile": "+39 37 0122 2087",
+                "shop": "pet",
+                "website": "https://animal-food.it/"
+            }
         }
     ]
 }
