@@ -40,7 +40,7 @@ defineProps(["data"]);
     </div>
 
       <div
-        class="relative bg-white mt-2 mb-4 shadow-xl ring-1 ring-gray-900/5 max-w-lg rounded-lg"
+        class="relative inline-block bg-white mt-2 mb-4 shadow-xl ring-1 ring-gray-900/5 max-w-lg rounded-lg"
       >
         <div class="pl-4 p-2 text-gray-400">google maps</div>
         <div class="flex divide-x divide-gray-300/50">
