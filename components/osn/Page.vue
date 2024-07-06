@@ -30,6 +30,16 @@ defineProps(["data"]);
   <div>
     <h2>Indirizzo</h2>
     <div class="p-2">
+      <p v-if="data.tags['addr:place']">
+        <span>
+          {{ data.tags["addr:place"] }}<span v-if="data.tags['addr:housenumber']">, {{ data.tags["addr:housenumber"] }}</span>
+        </span>
+      </p>
+      <p v-if="data.tags['addr:district']">
+        <span>
+          {{ data.tags["addr:district"] }}
+        </span>
+      </p>
       <p>
         <span v-if="data.tags['addr:street']">
           {{ data.tags["addr:street"] }}<span v-if="data.tags['addr:housenumber']">, {{ data.tags["addr:housenumber"] }}</span>
@@ -37,6 +47,9 @@ defineProps(["data"]);
         <span v-else-if="data.tags['contact:street']">
           {{ data.tags["contact:street"] }}<span v-if="data.tags['contact:housenumber']">, {{ data.tags["contact:housenumber"] }}</span>
         </span>
+      </p>
+      <p v-if="data.tags['addr:suburb']">
+        {{ data.tags["addr:suburb"] }}
       </p>
       <p>
         <span v-if="data.tags['addr:postcode']">{{ data.tags["addr:postcode"] }}</span>
@@ -73,6 +86,11 @@ defineProps(["data"]);
     :testo="data.tags['contact:mobile']"
   />
   <OsnTag
+    icona="clarity:mobile-line"
+    etichetta="Cell"
+    :testo="data.tags['mobile']"
+  />
+  <OsnTag
     icona="ic:baseline-phone-iphone"
     etichetta="Cell"
     :testo="data.tags['phone:mobile']"
@@ -99,6 +117,11 @@ defineProps(["data"]);
     etichetta="Cucina"
     :testo="data.tags.cuisine"
   />
+  <OsnTagyesno
+    icona="ph:sun-bold"
+    etichetta="Posti all'aperto"
+    :testo="data.tags['outdoor_seating']"
+  />
   <OsnTag
     icona="material-symbols:fitness-center"
     etichetta="Tempo libero"
@@ -110,14 +133,36 @@ defineProps(["data"]);
     :testo="data.tags.shop"
   />
   <OsnTag
+    icona="tabler:brand-pagekit"
+    etichetta="Brand"
+    :testo="data.tags.brand"
+  />
+  <OsnTag
+    icona="icon-park-outline:clothes-crew-neck"
+    etichetta="Vestiti"
+    :testo="data.tags.clothes"
+  />
+  <OsnTag
     icona="material-symbols:travel"
     etichetta="Turismo"
     :testo="data.tags.tourism"
   />
+
+  <OsnTag
+    icona="ic:baseline-sports-handball"
+    etichetta="Sport"
+    :testo="data.tags.sport"
+  />
+
   <OsnTag
     icona="material-symbols-light:add-business-outline"
     etichetta="guest_house"
     :testo="data.tags['guest_house']"
+  />
+  <OsnTag
+    icona="game-icons:stone-crafting"
+    etichetta="Craft"
+    :testo="data.tags.craft"
   />
   <OsnTag
     icona="guidance:office-pod"
@@ -137,7 +182,7 @@ defineProps(["data"]);
   />
   <OsnTagyesno
     icona="ph:lightning"
-    etichetta="Lightning contactles"
+    etichetta="Lightning contactless"
     :testo="data.tags['payment:lightning_contactless']"
   />
   <OsnTagyesno
