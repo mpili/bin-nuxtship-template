@@ -170,6 +170,16 @@ defineProps(["data"]);
     :testo="data.tags.office"
   />
   <OsnTag
+    icona="material-symbols-light:health-and-safety-outline"
+    etichetta="Salute"
+    :testo="data.tags.healthcare"
+  />
+  <OsnTag
+    icona="fluent-emoji-high-contrast:health-worker"
+    etichetta="Specializzazione"
+    :testo="data.tags['healthcare:speciality']"
+  />
+  <OsnTag
     icona="guidance:office-pod"
     etichetta="Conduttore"
     :testo="data.tags.operator"
