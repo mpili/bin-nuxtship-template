@@ -253,7 +253,7 @@
         "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
     },
     "tag:amenity=dentist": {
-        "message": "Dentisti",
+        "message": "Dentista",
         "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
     },
     "tag:amenity=dive_centre": {
@@ -365,7 +365,7 @@
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
     },
     "tag:amenity=pharmacy": {
-        "message": "Farmacie",
+        "message": "Farmacia",
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
@@ -1097,7 +1097,7 @@
         "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=underwear": {
-        "message": "",
+        "message": "Intimo",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=unisexs": {
@@ -1205,11 +1205,11 @@
         "description": "Tag \"craft=boatbuilder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=boatbuilder"
     },
     "tag:craft=bookbinder": {
-        "message": "",
+        "message": "Rilegatore",
         "description": "Tag \"craft=bookbinder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bookbinder"
     },
     "tag:craft=brewery": {
-        "message": "Forno",
+        "message": "Birreria",
         "description": "Tag \"craft=brewery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=brewery"
     },
     "tag:craft=builder": {
@@ -1325,7 +1325,7 @@
         "description": "Tag \"craft=grinding_mill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=grinding_mill"
     },
     "tag:craft=handicraft": {
-        "message": "",
+        "message": "Artigianato",
         "description": "Tag \"craft=handicraft\". See https://wiki.openstreetmap.org/wiki/Tag:craft=handicraft"
     },
     "tag:craft=heating_engineer": {
@@ -1662,7 +1662,7 @@
         "description": "Tag \"cuisine=brazilian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=burger": {
-        "message": "",
+        "message": "Hamburger",
         "description": "Tag \"cuisine=burger\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cake": {
@@ -1690,7 +1690,7 @@
         "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chicken": {
-        "message": "",
+        "message": "Pollo",
         "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chimney_cake": {
@@ -1698,15 +1698,15 @@
         "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chinese": {
-        "message": "",
+        "message": "Cinese",
         "description": "Tag \"cuisine=chinese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee": {
-        "message": "",
+        "message": "Caffè",
         "description": "Tag \"cuisine=coffee\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee_shop": {
-        "message": "",
+        "message": "Coffee shop",
         "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cookie": {
@@ -1746,11 +1746,11 @@
         "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=empanada": {
-        "message": "",
+        "message": "Empanada",
         "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish": {
-        "message": "",
+        "message": "Pesce",
         "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish_and_chips": {
@@ -1758,7 +1758,7 @@
         "description": "Tag \"cuisine=fish_and_chips\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=french": {
-        "message": "",
+        "message": "Francese",
         "description": "Tag \"cuisine=french\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fried_food": {
@@ -1778,7 +1778,7 @@
         "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=german": {
-        "message": "",
+        "message": "Tedesca",
         "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gingerbread": {
@@ -1786,7 +1786,7 @@
         "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=greek": {
-        "message": "",
+        "message": "Greca",
         "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gyros": {
@@ -1822,11 +1822,11 @@
         "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=italian": {
-        "message": "",
+        "message": "Italiana",
         "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=japanese": {
-        "message": "",
+        "message": "Giapponese",
         "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=jewish": {
@@ -1838,11 +1838,11 @@
         "description": "Tag \"cuisine=juice\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kebab": {
-        "message": "",
+        "message": "Kebab",
         "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=korean": {
-        "message": "",
+        "message": "Coreana",
         "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kyo_ryouri": {
@@ -1922,7 +1922,7 @@
         "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pizza": {
-        "message": "",
+        "message": "Pizza",
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pogacha": {
@@ -2010,7 +2010,7 @@
         "description": "Tag \"cuisine=sub\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sushi": {
-        "message": "",
+        "message": "Sushi",
         "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tapas": {
@@ -2425,6 +2425,21 @@
         "message": "Permesso di accesso per veicoli commerciali leggeri",
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
+
+    "tag:guest_house": {
+        "message": "Pensione",
+        "description": "Key \"guest_house\". See https://wiki.openstreetmap.org/wiki/Key:guest_house"
+    },
+    "tag:guest_house=bed_and_breakfast": {
+        "message": "Bed & Breakfast",
+        "description": "Key \"guest_house=bed_and_breakfast\". See https://wiki.openstreetmap.org/wiki/Key:guest_house=bed_and_breakfast"
+    },
+
+    "tag:guest_house=agritourism": {
+        "message": "Agriturismo",
+        "description": "Key \"agritourism=bed_and_breakfast\". See https://wiki.openstreetmap.org/wiki/Key:guest_house=agritourism"
+    },
+
     "tag:healthcare=alternative": {
         "message": "Medicina alternativa",
         "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
@@ -2442,7 +2457,7 @@
         "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_bank"
     },
     "tag:healthcare=blood_donation": {
-        "message": "",
+        "message": "Donazione sangue",
         "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_donation"
     },
     "tag:healthcare=centre": {
@@ -2450,11 +2465,11 @@
         "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
     },
     "tag:healthcare=clinic": {
-        "message": "",
+        "message": "Clinica",
         "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
     },
     "tag:healthcare=dentist": {
-        "message": "Dentisti",
+        "message": "Dentista",
         "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
     },
     "tag:healthcare=dialysis": {
@@ -2462,7 +2477,7 @@
         "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
     },
     "tag:healthcare=doctor": {
-        "message": "",
+        "message": "Dottore",
         "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
     },
     "tag:healthcare=hospital": {
@@ -2477,9 +2492,9 @@
         "message": "",
         "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
     },
-    "tag:healthcare=nutrition_counseling": {
-        "message": "",
-        "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
+    "tag:healthcare=nutrition_counselling": {
+        "message": "Nutrizionista",
+        "description": "Tag \"healthcare=nutrition_counselling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counselling"
     },
     "tag:healthcare=occupational_therapist": {
         "message": "",
@@ -2490,7 +2505,7 @@
         "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
     },
     "tag:healthcare=pharmacy": {
-        "message": "",
+        "message": "Farmacia",
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
     },
     "tag:healthcare=physiotherapist": {
@@ -3230,7 +3245,7 @@
         "description": "Tag \"leisure=resort\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=resort"
     },
     "tag:leisure=sauna": {
-        "message": "Saune",
+        "message": "Sauna",
         "description": "Tag \"leisure=sauna\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sauna"
     },
     "tag:leisure=slipway": {
@@ -3244,6 +3259,10 @@
     "tag:leisure=sports_centre": {
         "message": "Centri sportivi",
         "description": "Tag \"leisure=sports_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_centre"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Palestra",
+        "description": "Tag \"leisure=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_hall"
     },
     "tag:leisure=stadium": {
         "message": "Stadi",
@@ -5002,7 +5021,7 @@
         "description": "Tag \"shop=cheese\". See https://wiki.openstreetmap.org/wiki/Tag:shop=cheese"
     },
     "tag:shop=chemist": {
-        "message": "",
+        "message": "Farmacia",
         "description": "Tag \"shop=chemist\". See https://wiki.openstreetmap.org/wiki/Tag:shop=chemist"
     },
     "tag:shop=chocolate": {
@@ -5162,11 +5181,11 @@
         "description": "Tag \"shop=greengrocer\". See https://wiki.openstreetmap.org/wiki/Tag:shop=greengrocer"
     },
     "tag:shop=grocery": {
-        "message": "Drogherie",
+        "message": "Drogheria",
         "description": "Tag \"shop=grocery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=grocery"
     },
     "tag:shop=hairdresser": {
-        "message": "Parrucchieri",
+        "message": "Parrucchiere",
         "description": "Tag \"shop=hairdresser\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hairdresser"
     },
     "tag:shop=hairdresser_supply": {
@@ -5174,7 +5193,7 @@
         "description": "Tag \"shop=hairdresser_supply\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hairdresser_supply"
     },
     "tag:shop=hardware": {
-        "message": "Negozi di ferramenta",
+        "message": "Negozio di ferramenta",
         "description": "Tag \"shop=hardware\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hardware"
     },
     "tag:shop=health_food": {
@@ -5206,7 +5225,7 @@
         "description": "Tag \"shop=interior_decoration\". See https://wiki.openstreetmap.org/wiki/Tag:shop=interior_decoration"
     },
     "tag:shop=jewelry": {
-        "message": "Gioiellerie",
+        "message": "Gioielleria",
         "description": "Tag \"shop=jewelry\". See https://wiki.openstreetmap.org/wiki/Tag:shop=jewelry"
     },
     "tag:shop=kiosk": {
@@ -5262,7 +5281,7 @@
         "description": "Tag \"shop=nutrition_supplements\". See https://wiki.openstreetmap.org/wiki/Tag:shop=nutrition_supplements"
     },
     "tag:shop=optician": {
-        "message": "Ottici",
+        "message": "Ottico",
         "description": "Tag \"shop=optician\". See https://wiki.openstreetmap.org/wiki/Tag:shop=optician"
     },
     "tag:shop=organic": {
@@ -5818,11 +5837,11 @@
         "description": "Tag \"tourism=artwork\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork"
     },
     "tag:tourism=attraction": {
-        "message": "Attrazioni",
+        "message": "Attrazione",
         "description": "Tag \"tourism=attraction\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=attraction"
     },
     "tag:tourism=camp_site": {
-        "message": "Campeggi",
+        "message": "Campeggio",
         "description": "Tag \"tourism=camp_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=camp_site"
     },
     "tag:tourism=caravan_site": {
@@ -5834,15 +5853,15 @@
         "description": "Tag \"tourism=chalet\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=chalet"
     },
     "tag:tourism=gallery": {
-        "message": "Gallerie d'arte",
+        "message": "Galleria d'arte",
         "description": "Tag \"tourism=gallery\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=gallery"
     },
     "tag:tourism=guest_house": {
-        "message": "Pensioni",
+        "message": "Pensione",
         "description": "Tag \"tourism=guest_house\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=guest_house"
     },
     "tag:tourism=hostel": {
-        "message": "Ostelli",
+        "message": "Ostello",
         "description": "Tag \"tourism=hostel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hostel"
     },
     "tag:tourism=hotel": {

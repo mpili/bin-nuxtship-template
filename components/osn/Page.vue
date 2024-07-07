@@ -1,5 +1,68 @@
 <script setup>
 defineProps(["data"]);
+
+const tagItaliani = [
+  {
+    icona: "material-symbols-light:add-business-outline",
+    etichetta: "Strutture di servizio",
+    tag: "amenity"
+  },
+  {
+    icona: "material-symbols:fitness-center",
+    etichetta: "Tempo libero",
+    tag: "leisure"
+  },
+  {
+    icona: "material-symbols:shopping-cart-outline",
+    etichetta: "Shop",
+    tag: "shop"
+  },
+  {
+    icona: "material-symbols:travel",
+    etichetta: "Turismo",
+    tag: "tourism"
+  },
+  {
+    icona: "ic:baseline-sports-handball",
+    etichetta: "Sport",
+    tag: "sport"
+  },
+  {
+    icona: "game-icons:stone-crafting",
+    etichetta: "Artigiano",
+    tag: "craft"
+  },
+  {
+    icona: "material-symbols-light:add-business-outline",
+    etichetta: "Pensione",
+    tag: "guest_house"
+  },
+  {
+    icona: "material-symbols-light:health-and-safety-outline",
+    etichetta: "Salute",
+    tag: "healthcare"
+  },
+  {
+    icona: "fluent-emoji-high-contrast:health-worker",
+    etichetta: "Specializzazione",
+    tag: "healthcare:speciality"
+  },
+  {
+    icona: "fluent:food-20-regular",
+    etichetta: "Cucina",
+    tag: "cuisine"
+  },
+  {
+    icona: "icon-park-outline:clothes-crew-neck",
+    etichetta: "Abbigliamento",
+    tag: "clothes"
+  },
+  {
+    icona: "guidance:office-pod",
+    etichetta: "Professionista",
+    tag: "office"
+  },
+];
 </script>
 
 <template>
@@ -106,79 +169,26 @@ defineProps(["data"]);
     etichetta="Sedie a rotelle"
     :testo="data.tags.wheelchair"
   />
-  <OsnTag
-    icona="material-symbols-light:add-business-outline"
-    etichetta="Strutture di servizio"
-    :testo="data.tags.amenity"
+
+  <OsnTagit v-for="i of tagItaliani"
+    :icona="i.icona"
+    :etichetta="i.etichetta"
+    :tag="i.tag"
+    :tags="data.tags"
   />
 
-  <OsnTag
-    icona="fluent:food-20-regular"
-    etichetta="Cucina"
-    :testo="data.tags.cuisine"
-  />
   <OsnTagyesno
     icona="ph:sun-bold"
     etichetta="Posti all'aperto"
     :testo="data.tags['outdoor_seating']"
   />
-  <OsnTag
-    icona="material-symbols:fitness-center"
-    etichetta="Tempo libero"
-    :testo="data.tags.leisure"
-  />
-  <OsnTag
-    icona="material-symbols:shopping-cart-outline"
-    etichetta="Shop"
-    :testo="data.tags.shop"
-  />
+
   <OsnTag
     icona="tabler:brand-pagekit"
     etichetta="Brand"
     :testo="data.tags.brand"
   />
-  <OsnTag
-    icona="icon-park-outline:clothes-crew-neck"
-    etichetta="Vestiti"
-    :testo="data.tags.clothes"
-  />
-  <OsnTag
-    icona="material-symbols:travel"
-    etichetta="Turismo"
-    :testo="data.tags.tourism"
-  />
 
-  <OsnTag
-    icona="ic:baseline-sports-handball"
-    etichetta="Sport"
-    :testo="data.tags.sport"
-  />
-
-  <OsnTag
-    icona="material-symbols-light:add-business-outline"
-    etichetta="guest_house"
-    :testo="data.tags['guest_house']"
-  />
-  <OsnTag
-    icona="game-icons:stone-crafting"
-    etichetta="Craft"
-    :testo="data.tags.craft"
-  />
-  <OsnTag
-    icona="guidance:office-pod"
-    etichetta="Office"
-    :testo="data.tags.office"
-  />
-  <OsnTag
-    icona="material-symbols-light:health-and-safety-outline"
-    etichetta="Salute"
-    :testo="data.tags.healthcare"
-  />
-  <OsnTag
-    icona="fluent-emoji-high-contrast:health-worker"
-    etichetta="Specializzazione"
-    :testo="data.tags['healthcare:speciality']"
-  />
   <OsnTag
     icona="guidance:office-pod"
     etichetta="Conduttore"
