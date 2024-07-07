@@ -108,7 +108,7 @@ defineProps(["data"]);
   />
   <OsnTag
     icona="material-symbols-light:add-business-outline"
-    etichetta="Servizio"
+    etichetta="Strutture di servizio"
     :testo="data.tags.amenity"
   />
 
