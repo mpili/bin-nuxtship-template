@@ -250,25 +250,27 @@ const tagItaliani = [
     :testo="data.tags['opening_hours']"
   />
 
-  <OsnTag
-    icona="material-symbols:event-available-outline"
-    etichetta="Data di verifica"
-    :testo="data.tags.check_date"
-  />
-
-	<div>
+	<div v-if="data.tags['check_date']">
+    <div class="flex items-center gap-1 my-2">
+      <Icon name="material-symbols:event-available-outline" size="16" color="gray" />
+      <span class="text-gray-300 text-sm w-48">Data di verifica&nbsp;</span>
+      <span class="text-gray-300 text-sm">{{ data.tags['check_date'] }}</span>
+    </div>
+	</div>
+	<div v-else-if="data.tags['survey:date']">
     <div class="flex items-center gap-1 my-2">
       <Icon name="material-symbols:event-available" size="16" color="gray" />
-      <span class="text-gray-300 w-48">Data di verifica&nbsp;</span>
-      <span class="text-gray-300">{{ data.tags['survey:date'] }}</span>
+      <span class="text-gray-300 text-sm w-48">Data di verifica&nbsp;</span>
+      <span class="text-gray-300 text-sm">{{ data.tags['survey:date'] }}</span>
     </div>
 	</div>
 
-
-  <a
-    :href="'https://www.openstreetmap.org/node/' + data.id"
-    target="_blank"
-    class="text-blue-600"
-    >scheda su openstreetmap</a
-  >
+  <div class="inline-block p-4 rounded-lg ring-1 ring-gray-900/5">
+    <a
+      :href="'https://www.openstreetmap.org/node/' + data.id"
+      target="_blank"
+      class="text-blue-400 text-sm"
+      >scheda su openstreetmap</a
+    >
+  </div>
 </template>
