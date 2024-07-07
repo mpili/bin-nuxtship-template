@@ -23,5 +23,5 @@ export default {
       <span class="text-gray-400 w-48">{{ etichetta }}&nbsp;</span>
       <span class="text-gray-800">{{ testo }}</span>
     </div>
-	</div>	
+	</div>
 </template>

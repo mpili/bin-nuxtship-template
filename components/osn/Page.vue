@@ -255,11 +255,15 @@ const tagItaliani = [
     etichetta="Data di verifica"
     :testo="data.tags.check_date"
   />
-  <OsnTag
-    icona="material-symbols:event-available"
-    etichetta="Data di verifica"
-    :testo="data.tags['survey:date']"
-  />
+
+	<div>
+    <div class="flex items-center gap-1 my-2">
+      <Icon name="material-symbols:event-available" size="16" color="gray" />
+      <span class="text-gray-300 w-48">Data di verifica&nbsp;</span>
+      <span class="text-gray-300">{{ data.tags['survey:date'] }}</span>
+    </div>
+	</div>
+
 
   <a
     :href="'https://www.openstreetmap.org/node/' + data.id"
