@@ -35,13 +35,13 @@ const breadcrumb = computed(() => [
 			<ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
 		</LMap>
 	</div>
-	<div class="pt-10 pb-8 container mx-auto px-8 py-8 border-2 rounded-lg shadow-xl sm:px-10">
+	<div class="pt-6 pb-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
 		<div class="divide-y divide-gray-300/50">
 			<div class="flex flex-row align-items-center py-4 px-8 py-2">
 				<Icon name="logos:telegram" size="24" class="mr-2" />
 				<span>Telegram</span>
 			</div>
-			<div class="py-2  px-8 py-8">
+			<div class="py-2 px-8">
 				<ul class="space-y-4">
 					<li v-if="data.telegram_members">
 						<span class="text-gray-400">members: </span>{{data.telegram_members}}
@@ -56,5 +56,5 @@ const breadcrumb = computed(() => [
 			</div>
 		</div>
 	</div>
-	<ComunitaTablepois :data="data" />
+	<ComunitaPoislist :data="data" />
 </template>

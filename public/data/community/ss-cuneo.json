@@ -6,7 +6,7 @@
     "localita": "Cuneo",
     "telegram_weburl": "https://web.telegram.org/a/#-1001655456889",
     "telegram_app": "https://t.me/SatoshiSpritzCuneo",
-    "telegram_members": 45.0,
+    "telegram_members": 44.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -89,12 +89,16 @@
             "id": 4844602523,
             "lat": 44.5031343,
             "lon": 7.7253946,
-            "timestamp": "2024-06-06T10:11:35Z",
-            "version": 3,
-            "changeset": 152323913,
-            "user": "Mauro Lovato",
-            "uid": 21592754,
+            "timestamp": "2024-07-05T19:30:19Z",
+            "version": 4,
+            "changeset": 153602021,
+            "user": "mauropili",
+            "uid": 1496865,
             "tags": {
+                "addr:city": "Sant'Albano Stura",
+                "addr:housenumber": "42",
+                "addr:postcode": "12040",
+                "addr:street": "Via Mondov\u00ec",
                 "amenity": "pub",
                 "currency:XBT": "yes",
                 "name": "La Grotta degli Elfi",
@@ -147,6 +151,29 @@
                 "currency:XBT": "yes",
                 "name": "Bar Belvedere",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12033521517,
+            "lat": 44.3965499,
+            "lon": 7.7444969,
+            "timestamp": "2024-07-04T13:56:20Z",
+            "version": 1,
+            "changeset": 153549610,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "addr:city": "Villanova Mondov\u00ec",
+                "addr:postcode": "12089",
+                "addr:street": "Via Case Molino di Pogliola",
+                "currency:XBT": "yes",
+                "name": "Bongiovanni Srl",
+                "nohousenumber": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0324 848425",
+                "shop": "food",
+                "website": "https://www.molinobongiovanni.com/"
             }
         }
     ]

@@ -1,12 +1,12 @@
 {
     "id": "arezzo-bitcoin-meetup",
     "name": "Arezzo Bitcoin Meetup",
-    "lng": 43.5187,
-    "lat": 11.8845,
+    "lng": 43.4632928,
+    "lat": 11.8800925,
     "localita": "Arezzo",
     "telegram_weburl": "https://web.telegram.org/a/#-1001962833058",
     "telegram_app": "https://t.me/arezzobitcoinmeetup",
-    "telegram_members": 74.0,
+    "telegram_members": 77.0,
     "poi": [
         {
             "type": "node",
@@ -31,6 +31,31 @@
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "phone": "+39 0575 323666",
                 "website": "https://www.capaccioli.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10141459632,
+            "lat": 43.2747497,
+            "lon": 11.7494835,
+            "timestamp": "2022-10-30T22:00:27Z",
+            "version": 1,
+            "changeset": 128265763,
+            "user": "Lightning Checkout",
+            "uid": 17434095,
+            "tags": {
+                "addr:city": "Lucignano",
+                "addr:housenumber": "37",
+                "addr:postcode": "52046",
+                "addr:street": "Via Della Concia",
+                "currency:XBT": "yes",
+                "name": "Cipresso e Pietra",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "survey:date": "2022-10-30",
+                "tourism": "guest_house",
+                "website": "https://CipressoePietra.com"
             }
         },
         {

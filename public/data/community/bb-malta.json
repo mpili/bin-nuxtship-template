@@ -303,6 +303,27 @@
                 "start_date": "2024-02-12",
                 "url": "https://coinatmradar.com/bitcoin_atm/78448/bitcoin-atm-lamassu-st-julians-shop-express/"
             }
+        },
+        {
+            "type": "node",
+            "id": 12031697906,
+            "lat": 35.9520834,
+            "lon": 14.410683,
+            "timestamp": "2024-07-03T17:41:14Z",
+            "version": 1,
+            "changeset": 153512911,
+            "user": "Crest Bottle Shop",
+            "uid": 21719464,
+            "tags": {
+                "currency:XBT": "yes",
+                "description": "An esteemed bottle shop in Bugibba selling any and all sorts of wine, beers, spirits and tobacco.",
+                "name": "Crest Bottle Shop",
+                "payment:contactless": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-07-02",
+                "website": "https://crestbottleshop.com/"
+            }
         }
     ]
 }
