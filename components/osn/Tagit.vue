@@ -22,9 +22,8 @@ export default {
   methods: {
     getTraduciTagit(tag, value) {
       const tagKey = "tag:" + tag + (value ? "=" + value : "");
-      const fallback = tag + (value ? ":" + value : "");
       const translation = osmTagTranslations[tagKey];
-      return translation?.message || fallback; // Fallback to tagKey if not found
+      return translation?.message || value; // Fallback to tagKey if not found
     },
   },
 };
