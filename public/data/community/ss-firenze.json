@@ -11,6 +11,33 @@
     "poi": [
         {
             "type": "node",
+            "id": 623913279,
+            "lat": 43.7941266,
+            "lon": 11.1858298,
+            "timestamp": "2024-07-10T16:47:04Z",
+            "version": 3,
+            "changeset": 153792623,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Firenze",
+                "addr:country": "IT",
+                "addr:housenumber": "154",
+                "addr:postcode": "50145",
+                "addr:street": "Via Pistoiese",
+                "amenity": "restaurant",
+                "contact:instagram": "@trattoriadaburde",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "description": "Trattoria dal 1901 pluri premiata , rinomata per cucina tipica toscana in particolare la bistecca",
+                "name": "Trattoria da Burde",
+                "payment:lightning": "yes",
+                "phone": "+39 055 317206",
+                "website": "https://landing.vinodaburde.eu/"
+            }
+        },
+        {
+            "type": "node",
             "id": 2671167531,
             "lat": 43.7715336,
             "lon": 11.2599932,
