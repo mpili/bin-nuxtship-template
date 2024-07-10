@@ -9,14 +9,20 @@ export default {
       type: String,
       required: true,
     },
+    icona: {
+      type: String,
+      required: true,
+    },
   },
 };
 </script>
 
 <template>
-  <div class="px-4 pb-3 text-blue-500">
-    <a :href="url" target="_blank" class="text-blue-600">
-      {{ etichetta }}
-    </a>
-  </div>
+  <a :href="url" target="_blank" rel="noopener">
+    <div
+      class="flex items-center rounded-full border bg-green-500 m-1 py-2 px-2 text-xs text-white font-bold gap-1"
+    >
+      <Icon :name="icona" size="20" color="white" /> {{ etichetta }}
+    </div>
+  </a>
 </template>

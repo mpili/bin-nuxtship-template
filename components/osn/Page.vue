@@ -5,62 +5,62 @@ const tagItaliani = [
   {
     icona: "material-symbols-light:add-business-outline",
     etichetta: "Strutture di servizio",
-    tag: "amenity"
+    tag: "amenity",
   },
   {
     icona: "material-symbols:fitness-center",
     etichetta: "Tempo libero",
-    tag: "leisure"
+    tag: "leisure",
   },
   {
     icona: "material-symbols:shopping-cart-outline",
     etichetta: "Shop",
-    tag: "shop"
+    tag: "shop",
   },
   {
     icona: "material-symbols:travel",
     etichetta: "Turismo",
-    tag: "tourism"
+    tag: "tourism",
   },
   {
     icona: "ic:baseline-sports-handball",
     etichetta: "Sport",
-    tag: "sport"
+    tag: "sport",
   },
   {
     icona: "game-icons:stone-crafting",
     etichetta: "Artigiano",
-    tag: "craft"
+    tag: "craft",
   },
   {
     icona: "material-symbols-light:add-business-outline",
     etichetta: "Pensione",
-    tag: "guest_house"
+    tag: "guest_house",
   },
   {
     icona: "material-symbols-light:health-and-safety-outline",
     etichetta: "Salute",
-    tag: "healthcare"
+    tag: "healthcare",
   },
   {
     icona: "fluent-emoji-high-contrast:health-worker",
     etichetta: "Specializzazione",
-    tag: "healthcare:speciality"
+    tag: "healthcare:speciality",
   },
   {
     icona: "fluent:food-20-regular",
     etichetta: "Cucina",
-    tag: "cuisine"
+    tag: "cuisine",
   },
   {
     icona: "icon-park-outline:clothes-crew-neck",
     etichetta: "Abbigliamento",
-    tag: "clothes"
+    tag: "clothes",
   },
   {
     icona: "guidance:office-pod",
     etichetta: "Professionista",
-    tag: "office"
+    tag: "office",
   },
 ];
 </script>
@@ -95,7 +95,10 @@ const tagItaliani = [
     <div class="p-2">
       <p v-if="data.tags['addr:place']">
         <span>
-          {{ data.tags["addr:place"] }}<span v-if="data.tags['addr:housenumber']">, {{ data.tags["addr:housenumber"] }}</span>
+          {{ data.tags["addr:place"]
+          }}<span v-if="data.tags['addr:housenumber']"
+            >, {{ data.tags["addr:housenumber"] }}</span
+          >
         </span>
       </p>
       <p v-if="data.tags['addr:district']">
@@ -105,43 +108,76 @@ const tagItaliani = [
       </p>
       <p>
         <span v-if="data.tags['addr:street']">
-          {{ data.tags["addr:street"] }}<span v-if="data.tags['addr:housenumber']">, {{ data.tags["addr:housenumber"] }}</span>
+          {{ data.tags["addr:street"]
+          }}<span v-if="data.tags['addr:housenumber']"
+            >, {{ data.tags["addr:housenumber"] }}</span
+          >
         </span>
         <span v-else-if="data.tags['contact:street']">
-          {{ data.tags["contact:street"] }}<span v-if="data.tags['contact:housenumber']">, {{ data.tags["contact:housenumber"] }}</span>
+          {{ data.tags["contact:street"]
+          }}<span v-if="data.tags['contact:housenumber']"
+            >, {{ data.tags["contact:housenumber"] }}</span
+          >
         </span>
       </p>
       <p v-if="data.tags['addr:suburb']">
         {{ data.tags["addr:suburb"] }}
       </p>
       <p>
-        <span v-if="data.tags['addr:postcode']">{{ data.tags["addr:postcode"] }}</span>
-        <span v-else-if="data.tags['contact:postcode']">{{ data.tags["contact:postcode"] }}</span>
+        <span v-if="data.tags['addr:postcode']">{{
+          data.tags["addr:postcode"]
+        }}</span>
+        <span v-else-if="data.tags['contact:postcode']">{{
+          data.tags["contact:postcode"]
+        }}</span>
         &nbsp;
         <span v-if="data.tags['addr:city']">{{ data.tags["addr:city"] }}</span>
-        <span v-else-if="data.tags['contact:city']">{{ data.tags["contact:city"] }}</span>
+        <span v-else-if="data.tags['contact:city']">{{
+          data.tags["contact:city"]
+        }}</span>
       </p>
     </div>
 
-      <div
-        class="relative inline-block bg-white mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
-      >
-        <div class="pl-4 p-2 text-gray-400">google maps</div>
-        <div class="flex divide-x divide-gray-300/50">
-          <OsnGmaplink
-            :etichetta="'posizione'"
-            :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat + '+' + data.lon"
-          />
-          <OsnGmaplink
-            :etichetta="'streetview'"
-            :url="'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' + data.lat + ',' + data.lon"
-          />
-          <OsnGmaplink
-            :etichetta="'percorso'"
-            :url="'https://maps.google.com/maps?daddr=(' + data.lat + ',' + data.lon + ')'"
-          />
-        </div>
+    <div
+      class="relative inline-block bg-white mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
+    >
+      <div class="pl-4 p-2 text-gray-400">google maps</div>
+      <div class="flex">
+        <OsnGmaplink
+          etichetta="posizione"
+          :url="
+            'https://maps.google.com/maps?z=12&t=m&q=loc:' +
+            data.lat +
+            '+' +
+            data.lon
+          "
+          :icona="'material-symbols:location-on'"
+        />
+
+        <OsnGmaplink
+          etichetta="streetview"
+          :url="
+            'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +
+            data.lat +
+            ',' +
+            data.lon
+          "
+          :icona="'material-symbols:streetview'"
+        />
+
+        <OsnGmaplink
+          etichetta="direzioni"
+          :url="
+            'https://maps.google.com/maps?daddr=(' +
+            data.lat +
+            ',' +
+            data.lon +
+            ')'
+          "
+          :icona="'material-symbols:directions'"
+        />
       </div>
+    </div>
   </div>
   <OsnTag
     icona="clarity:mobile-line"
@@ -170,7 +206,8 @@ const tagItaliani = [
     :testo="data.tags.wheelchair"
   />
 
-  <OsnTagit v-for="i of tagItaliani"
+  <OsnTagit
+    v-for="i of tagItaliani"
     :icona="i.icona"
     :etichetta="i.etichetta"
     :tag="i.tag"
@@ -250,20 +287,24 @@ const tagItaliani = [
     :testo="data.tags['opening_hours']"
   />
 
-	<div v-if="data.tags['check_date']">
+  <div v-if="data.tags['check_date']">
     <div class="flex items-center gap-1 my-2">
-      <Icon name="material-symbols:event-available-outline" size="16" color="gray" />
+      <Icon
+        name="material-symbols:event-available-outline"
+        size="16"
+        color="gray"
+      />
       <span class="text-gray-300 text-sm w-48">Data di verifica&nbsp;</span>
-      <span class="text-gray-300 text-sm">{{ data.tags['check_date'] }}</span>
+      <span class="text-gray-300 text-sm">{{ data.tags["check_date"] }}</span>
     </div>
-	</div>
-	<div v-else-if="data.tags['survey:date']">
+  </div>
+  <div v-else-if="data.tags['survey:date']">
     <div class="flex items-center gap-1 my-2">
       <Icon name="material-symbols:event-available" size="16" color="gray" />
       <span class="text-gray-300 text-sm w-48">Data di verifica&nbsp;</span>
-      <span class="text-gray-300 text-sm">{{ data.tags['survey:date'] }}</span>
+      <span class="text-gray-300 text-sm">{{ data.tags["survey:date"] }}</span>
     </div>
-	</div>
+  </div>
 
   <div class="inline-block p-4 rounded-lg ring-1 ring-gray-900/5">
     <a
