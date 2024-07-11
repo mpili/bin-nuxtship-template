@@ -63,6 +63,29 @@ const tagItaliani = [
     tag: "office",
   },
 ];
+
+const social = [
+  {
+    nome: "instagram",
+    icona: "mdi:instagram",
+  },
+  {
+    nome: "facebook",
+    icona: "mdi:facebook",
+  },
+  {
+    nome: "twitter",
+    icona: "bi:twitter-x",
+  },
+  {
+    nome: "telegram",
+    icona: "mdi:telegram",
+  },
+  {
+    nome: "pinterest",
+    icona: "mdi:pinterest",
+  },
+];
 </script>
 
 <template>
@@ -250,26 +273,7 @@ const tagItaliani = [
 
   <OsnTagwebsite :url="data.tags.website" />
   <OsnTagwebsite :url="data.tags['contact:website']" />
-  <OsnTag
-    icona="ic:baseline-facebook"
-    etichetta="Facebook"
-    :testo="data.tags['contact:facebook']"
-  />
-  <OsnTag
-    icona="ph:instagram-logo"
-    etichetta="Instagram"
-    :testo="data.tags['contact:instagram']"
-  />
-  <OsnTag
-    icona="ri:twitter-x-fill"
-    etichetta="X(Twitter)"
-    :testo="data.tags['contact:twitter']"
-  />
-  <OsnTag
-    icona="ic:baseline-telegram"
-    etichetta="Telegram"
-    :testo="data.tags['contact:telegram']"
-  />
+
 
   <OsnTag
     icona="material-symbols:alternate-email"
@@ -286,6 +290,17 @@ const tagItaliani = [
     etichetta="orari apertura"
     :testo="data.tags['opening_hours']"
   />
+
+
+  <div class="flex flex-wrap my-4">
+    <OsnSocial
+      v-for="s of social"
+      :nome="s.nome"
+      :icona="s.icona"
+      :value="data.tags['contact:' + s.nome]"
+    />
+  </div>
+
 
   <div v-if="data.tags['check_date']">
     <div class="flex items-center gap-1 my-2">
