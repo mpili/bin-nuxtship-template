@@ -3,19 +3,20 @@ export default {
   props: {
     url: {
       type: String,
-      required: true
-    }
-  }
-}
+      required: true,
+    },
+  },
+};
 </script>
 
 <template>
-	<div v-if="url">
-		<div class="flex items-center gap-1">
-			<Icon name="mdi:web" size="16" color="gray" />
-			<span class="text-gray-400 w-48">Sito web&nbsp;</span>
-			<span class="text-gray-800">{{ testo }}</span>
-			<a :href="url" target="_blank" class="text-blue-600 text-sm">{{ url }}</a>
-		</div>
-	</div>	
+  <div v-if="url">
+    <a :href="url" target="_blank" rel="noopener">
+      <div
+        class="flex items-center rounded-full border bg-blue-600 m-1 py-2 px-2 text-xs text-white font-bold gap-1"
+      >
+        <Icon name="mdi:web" size="20" color="white" /> visita il sito web
+      </div>
+    </a>
+  </div>
 </template>

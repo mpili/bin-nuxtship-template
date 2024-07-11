@@ -271,9 +271,16 @@ const social = [
     :testo="data.tags['payment:onchain']"
   />
 
-  <OsnTagwebsite :url="data.tags.website" />
-  <OsnTagwebsite :url="data.tags['contact:website']" />
-
+  <OsnTag
+    icona="material-symbols:nest-clock-farsight-analog-outline"
+    etichetta="orari apertura"
+    :testo="data.tags['opening_hours']"
+  />
+  
+  <div class="flex">
+    <OsnTagwebsite :url="data.tags.website" />
+    <OsnTagwebsite :url="data.tags['contact:website']" />
+  </div>
 
   <OsnTag
     icona="material-symbols:alternate-email"
@@ -285,11 +292,6 @@ const social = [
     etichetta="email"
     :testo="data.tags['contact:email']"
   />
-  <OsnTag
-    icona="material-symbols:nest-clock-farsight-analog-outline"
-    etichetta="orari apertura"
-    :testo="data.tags['opening_hours']"
-  />
 
 
   <div class="flex flex-wrap my-4">
@@ -300,7 +302,6 @@ const social = [
       :value="data.tags['contact:' + s.nome]"
     />
   </div>
-
 
   <div v-if="data.tags['check_date']">
     <div class="flex items-center gap-1 my-2">
