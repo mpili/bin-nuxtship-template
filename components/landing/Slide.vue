@@ -3,25 +3,26 @@ import { ref } from "vue";
 
 const carousel = [
   {
-    src: "/img/sections/wallet.jpg",
-    url: "/wallet",
-    titolo: "Wallet",
-    classe: "text-white",
-  },
-  {
-    src: "/img/sections/books.jpg",
-    url: "/libriamazon",
-    titolo: "Libri",
-    classe: "text-white",
-  },
-  {
     src: "/img/sections/podcast.jpg",
     url: "/podcast",
     titolo: "Podcast",
     classe: "text-black",
   },
+  {
+    src: "/img/sections/books.jpg",
+    url: "/libriamazon",
+    titolo: "Libri",
+    classe: "text-black",
+  },
+  {
+    src: "/img/sections/wallet.jpg",
+    url: "/wallet",
+    titolo: "Wallet",
+    classe: "text-white",
+  },
 ];
 const indice = ref(1);
+indice.value = 0;
 
 const next = () => {
   indice.value = (indice.value + 1) % carousel.length; // Increment and handle wrap-around
