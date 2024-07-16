@@ -4,7 +4,7 @@ const features = [
     title: "Comunità",
     url: "/comunita",
     description:
-      "Costituite da appassionati, professionisti e innovatori che condividono la passione per Bitcoin e lavorano insieme per promuoverne conoscenza e adozione sul territorio.",
+      "Appassionati, professionisti e innovatori che condividono la passione per Bitcoin, promuovendo conoscenza e adozione sul territorio.",
     icon: "bx:bxs-briefcase",
     img: "/img/features/comunita.jpg",
   },
@@ -12,7 +12,7 @@ const features = [
     title: "Formazione",
     url: "/formazione",
     description:
-      "Questa sezione è pensata per offrirti metterti in condizioni di diventare un utente esperto e sicuro nel mondo di Bitcoin.",
+      "Percorsi formativi progettati per trasformarti in un utente esperto e sicuro nel mondo Bitcoin, dalle basi ai concetti più avanzati.",
     icon: "bx:bxs-data",
     img: "/img/features/formazione.jpg",
   },
@@ -20,7 +20,7 @@ const features = [
     title: "Eventi, meetup, conferenze",
     url: "/eventi",
     description:
-      "Calendari dei meet-up Bitcoin, delle Conferenze Bitcoin in Italia, Eventi organizzati da associazioni e/o scuole, Comuni e istituzioni che accettano Bitcoin",
+      "Calendari dei meet-up Bitcoin, delle conferenze Bitcoin in Italia, eventi organizzati da associazioni, scuole e istituzioni che accettano Bitcoin.",
     icon: "bx:bxs-file-find",
     img: "/img/features/eventi.jpg",
   },
@@ -36,7 +36,7 @@ const features = [
     title: "Documentazione",
     url: "/documentazione",
     description:
-      "Dedicata a fornire le basi essenziali per i nuovi bitcoiner e contenuti avanzati per i più esperti. Qui troverai risorse utili e informazioni fondamentali.",
+      "Fornire le basi essenziali per i nuovi bitcoiner e contenuti avanzati per i più esperti. Qui troverai risorse utili e informazioni fondamentali.",
     icon: "bx:bxs-bot",
     img: "/img/features/documentazione.jpg",
   },
@@ -63,13 +63,13 @@ const features = [
     </p>
   </div>
 
-  <div class="grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16">
+  <div class="grid sm:grid-cols-2 md:grid-cols-3 mt-8 gap-4">
     <div v-for="item of features" class="flex gap-4 items-start">
       <!-- <div class="mt-1 bg-black rounded-full p-2 w-8 h-8 shrink-0">
         <Icon class="text-white" :name="item.icon" />
       </div> -->
-      <LandingLink :href="item.url" styleName="inverted">
-        <div>
+      <NuxtLink :href="item.url" styleName="inverted">
+        <div class="border-2 border-[#D8DEE9] border-opacity-50 rounded-md p-4">
           <div>
             <img
               :src="item.img"
@@ -80,12 +80,14 @@ const features = [
               class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
             />
           </div>
-          <h3 class="font-semibold text-lg">{{ item.title }}</h3>
           <p class="text-slate-500 mt-2 leading-relaxed text-left">
             {{ item.description }}
           </p>
+          <div class="p-4 rounded mt-6 bg-black text-white text-center">
+            {{ item.title }}
+          </div>
         </div>
-      </LandingLink>
+      </NuxtLink>
     </div>
   </div>
 </template>
