@@ -13,9 +13,9 @@ export default {
   <div v-if="url">
     <a :href="url" target="_blank" rel="noopener">
       <div
-        class="flex items-center rounded-full border bg-blue-600 m-1 py-2 px-2 text-xs text-white font-bold gap-1"
+        class="flex items-center rounded-full border bg-white m-1 py-2 pl-3 pr-4 text-xs text-black font-bold gap-1 shadow"
       >
-        <Icon name="mdi:web" size="20" color="white" /> visita il sito web
+        <Icon name="mdi:web" size="28" color="#0ac18e" /> Visita il sito Web
       </div>
     </a>
   </div>

@@ -158,7 +158,11 @@ const social = [
         <span v-else-if="data.tags['contact:city']">{{
           data.tags["contact:city"]
         }}</span>
-      </p>
+        <span v-if="data.tags['addr:province']"> ({{
+          data.tags["addr:province"]
+        }})</span>
+
+        </p>
     </div>
 
     <div
@@ -323,11 +327,19 @@ const social = [
   </div>
 
   <div class="inline-block p-4 rounded-lg ring-1 ring-gray-900/5">
+    scheda su 
     <a
       :href="'https://www.openstreetmap.org/node/' + data.id"
       target="_blank"
       class="text-blue-400 text-sm"
-      >scheda su openstreetmap</a
+      >openstreetmap</a
+    >
+    -
+    <a
+      :href="'https://btcmap.org/merchant/node:' + data.id"
+      target="_blank"
+      class="text-blue-400 text-sm"
+      >btcmap</a
     >
   </div>
 </template>

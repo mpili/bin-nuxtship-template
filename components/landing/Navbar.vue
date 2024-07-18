@@ -1,8 +1,8 @@
 <script setup>
 const menuitems = [
   {
-    title: "Comunità",
-    path: "/comunita",
+    title: "Impara",
+    path: "/impara",
   },
   {
     title: "Dove",
