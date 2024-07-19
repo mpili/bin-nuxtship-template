@@ -6,7 +6,7 @@
     "localita": "Cagliari",
     "telegram_weburl": "https://web.telegram.org/a/#-1001802453419",
     "telegram_app": "https://t.me/SatoshiSpritzCagliari",
-    "telegram_members": 93.0,
+    "telegram_members": 92.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -566,6 +566,34 @@
                 "currency:XBT": "yes",
                 "name": "Handy Capp Due",
                 "payment:lightning": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12062070115,
+            "lat": 39.3031203,
+            "lon": 9.0854556,
+            "timestamp": "2024-07-19T17:49:39Z",
+            "version": 2,
+            "changeset": 154153066,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Sestu",
+                "addr:housenumber": "29",
+                "addr:postcode": "09028",
+                "addr:street": "Via Giuseppe di Vittorio",
+                "amenity": "pub",
+                "contact:city": "Sestu",
+                "contact:facebook": "https://www.facebook.com/verticalparksardinia/",
+                "contact:phone": "+39 070 204 1269",
+                "currency:XBT": "yes",
+                "description": "Vertical Park \u00e8 un parco avventura indoor con percorsi per grandi e piccini. Bar, bistecchiera, pinseria, paninoteca e palco per eventi live. Maxischermi.",
+                "leisure": "playground",
+                "name": "Vertical Park",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "tourism": "theme_park"
             }
         }
     ]

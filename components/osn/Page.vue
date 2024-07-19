@@ -111,7 +111,7 @@ const social = [
     </LMap>
   </div>
 
-  <OsnTag etichetta="Descrizione" :testo="data.tags.description" />
+  <div v-if="data.tags.description" class="pb-4">{{data.tags.description}}</div>
 
   <div>
     <h2>Indirizzo</h2>

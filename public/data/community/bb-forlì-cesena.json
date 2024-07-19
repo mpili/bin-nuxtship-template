@@ -6,7 +6,7 @@
     "localita": "Forl\u00ec Cesena",
     "telegram_weburl": "https://web.telegram.org/a/#-1001430338961",
     "telegram_app": "https://t.me/bitcoinforlicesena",
-    "telegram_members": 20.0,
+    "telegram_members": 21.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -186,6 +186,34 @@
                 "stroller": "yes",
                 "website": "https://www.unmilione.net",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5592298921,
+            "lat": 44.257607,
+            "lon": 12.362007,
+            "timestamp": "2024-07-16T22:16:34Z",
+            "version": 3,
+            "changeset": 154034554,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Cervia",
+                "addr:housenumber": "191",
+                "addr:postcode": "48015",
+                "addr:street": "Lungomare Grazia Deledda",
+                "check_date": "2024-07-16",
+                "currency:XBT": "yes",
+                "description": "Stabilimento balneare con ombrelloni e sdraio, ristorante e bar.",
+                "email": "bagnoben191@libero.it",
+                "leisure": "beach_resort",
+                "name": "Bagno Ben 191",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 33 9813 5772"
             }
         },
         {
