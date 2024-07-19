@@ -8,7 +8,7 @@
       Please keep this backlink on your website if possible.
     -->
     <p class="text-center text-xs text-slate-500 mt-1">
-      Made by
+      Based on
       <a
         href="https://github.com/Gr33nW33n"
         target="_blank"

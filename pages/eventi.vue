@@ -5,6 +5,10 @@ definePageMeta({
 
 const calendari = [
   {
+    nome: "Calendario eventi di PlanB Network",
+    url: "https://planb.network/it/events",
+  },
+  {
     nome: "Calendar Bitbo",
     url: "https://calendar.bitbo.io/",
   },
@@ -13,7 +17,6 @@ const calendari = [
     url: "https://bitcoin.holiday/",
   },
 ];
-
 </script>
 
 <template>
@@ -49,7 +52,6 @@ const calendari = [
           </li>
         </ul>
       </div>
-
     </div>
   </LandingContainer>
 </template>
