@@ -65,29 +65,12 @@ const features = [
 
   <div class="grid sm:grid-cols-2 md:grid-cols-3 mt-8 gap-4">
     <div v-for="item of features" class="flex gap-4 items-start">
-      <!-- <div class="mt-1 bg-black rounded-full p-2 w-8 h-8 shrink-0">
-        <Icon class="text-white" :name="item.icon" />
-      </div> -->
-      <NuxtLink :href="item.url" styleName="inverted">
-        <div class="border-2 border-[#D8DEE9] border-opacity-50 rounded-md p-4">
-          <div>
-            <img
-              :src="item.img"
-              :width="580"
-              :height="580"
-              format="avif"
-              alt="dove"
-              class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
-            />
-          </div>
-          <p class="text-slate-500 mt-2 leading-relaxed text-left">
-            {{ item.description }}
-          </p>
-          <div class="p-4 rounded mt-6 bg-black text-white text-center">
-            {{ item.title }}
-          </div>
-        </div>
-      </NuxtLink>
+      <LandingScheda
+        :url="item.url"
+        :img="item.img"
+        :description="item.description"
+        :title="item.title"
+      ></LandingScheda>
     </div>
   </div>
 </template>

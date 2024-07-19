@@ -165,45 +165,24 @@ const social = [
         </p>
     </div>
 
-    <div
-      class="relative inline-block bg-white mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
-    >
-      <div class="pl-4 p-2 text-gray-400">google maps</div>
-      <div class="flex">
-        <OsnGmaplink
-          etichetta="posizione"
-          :url="
-            'https://maps.google.com/maps?z=12&t=m&q=loc:' +
-            data.lat +
-            '+' +
-            data.lon
-          "
-          :icona="'material-symbols:location-on'"
-        />
+    <div class="relative inline-block bg-white p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg">
+      <div class="pl-4 p-1 text-gray-600 text-sm">maps</div>
+      <div class="flex flex-wrap">
+        <div class="border">
+          <div class="text-center text-gray-400 text-sm">google</div>
+          <div class="flex">
+            <OsnGmaplink etichetta="posizione" :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat +'+'+ data.lon" :icona="'material-symbols:location-on'" />
+            <OsnGmaplink etichetta="streetview" :url="'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +data.lat+','+data.lon" :icona="'material-symbols:streetview'" />
+            <OsnGmaplink etichetta="direzioni" :url="'https://maps.google.com/maps?daddr=(' +data.lat +',' +data.lon +')'" :icona="'material-symbols:directions'" />
+          </div>
+        </div>
 
-        <OsnGmaplink
-          etichetta="streetview"
-          :url="
-            'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +
-            data.lat +
-            ',' +
-            data.lon
-          "
-          :icona="'material-symbols:streetview'"
-        />
-
-        <OsnGmaplink
-          etichetta="direzioni"
-          :url="
-            'https://maps.google.com/maps?daddr=(' +
-            data.lat +
-            ',' +
-            data.lon +
-            ')'
-          "
-          :icona="'material-symbols:directions'"
-        />
+        <div class="border">
+          <div class="text-center text-gray-400 text-sm">bing</div>
+          <OsnGmaplink etichetta="posizione" :url="'https://www.bing.com/maps?cp=' +data.lat +'~' +data.lon +'&lvl=20'" :icona="'tabler:brand-bing'" />
+        </div>
       </div>
+
     </div>
   </div>
   <OsnTag
@@ -220,6 +199,11 @@ const social = [
     icona="ic:baseline-phone-iphone"
     etichetta="Cell"
     :testo="data.tags['phone:mobile']"
+  />
+  <OsnTag
+    icona="material-symbols:call"
+    etichetta="Telefono"
+    :testo="data.tags['contact:phone']"
   />
   <OsnTag
     icona="material-symbols:call"
