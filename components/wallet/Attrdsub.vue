@@ -10,7 +10,7 @@ export default {
 
 <template>
 	<div class="object-center">
-		<Icon :name="att.icona" size="16" :color="att.colore" />
+		<Icon :name="att.icona" size="32" :color="att.colore" />
 	</div>
     <div>
       <p class="text-gray-800">{{ att.titolo }}</p>

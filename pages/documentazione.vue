@@ -4,8 +4,8 @@ definePageMeta({
 });
 const risorseDocumentazione = [
   {
-    nome: "Wallet",
-    url: "/wallet",
+    nome: "Glossario Bitcoin",
+    url: "https://shrill-water-3846.on.fleek.co/",
   },
   {
     nome: "Guide di Atlas 21",
@@ -23,6 +23,10 @@ const risorseDocumentazione = [
     nome: "Raccolta documentazioni Mir Liponi",
     url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
   },
+  {
+    nome: "Corsi PlanB Network",
+    url: "https://planb.network/it/courses",
+  },  
 ];
 </script>
 

@@ -9,6 +9,10 @@ const corsi = [
     url: "/wallet",
   },
   {
+    nome: "Hardware Wallet",
+    url: "/hwallet",
+  },
+  {
     nome: "Libri Bitcoin in Italiano da acquistare su Amazon",
     url: "/libriamazon",
   },
@@ -19,15 +23,6 @@ const corsi = [
   {
     nome: "Documenti",
     url: "/documentazione",
-  },
-
-  {
-    nome: "Glossario Bitcoin",
-    url: "https://shrill-water-3846.on.fleek.co/",
-  },
-  {
-    nome: "Corsi PlanB Network",
-    url: "https://planb.network/it/courses",
   },
 ];
 </script>
