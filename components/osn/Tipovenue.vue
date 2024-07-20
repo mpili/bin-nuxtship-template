@@ -1,5 +1,5 @@
 <script setup>
-import osmTagTranslations from "~/assets/osm-tag-translations_it.json";
+import osmTagTranslations from "~/assets/data/osm-tag-translations_it.json";
 
 defineProps(["tags"]);
 

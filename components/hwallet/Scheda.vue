@@ -1,33 +1,21 @@
 <script setup>
 defineProps(["data"]);
 
-const attributi = [
-  { nome: "airgapped", icona: "arcticons:airgap-wallet" },
-  { nome: "bluetooth", icona: "material-symbols:bluetooth" },
-  { nome: "nfc", icona: "fa6-brands:nfc-symbol" },
-  { nome: "microsd", icona: "material-symbols:sd-card-outline" },
-  { nome: "qrcode", icona: "material-symbols:qr-code" },
-  { nome: "usb", icona: "material-symbols:usb" },
-  { nome: "opensource", icona: "simple-icons:opensourceinitiative" },
-];
+import hwAttributi from "~/assets/data/hw-attributi.json";
+
 </script>
 
 <template>
   <div v-if="data" class="flex">
-    <div class="m-1 py-2 pl-3 pr-4 w-1/4">
-      <a :href="data.sitoweb" target="_blank" class="text-blue-600">
+    <div class="py-2 pr-4 w-48">
+      <NuxtLink :to="'/hw/'+data.id" class="text-blue-600">
         {{ data.nome }}
-      </a>
+      </NuxtLink>
     </div>
-    <div class="flex flex-wrap">
-      <span v-for="attr of attributi">
-        <span v-if="data[attr.nome]">
-          <LandingBadge
-            :icona="attr.icona"
-            :testo="attr.nome"
-            coloreicona="#0ac18e"
-          />
-        </span>
+    <div class="flex flex-wrap m-1 py-2">
+      <span v-for="attr of hwAttributi">
+        <Icon v-if="data[attr.nome]" :name="attr.icona" size="16" :color="attr.colore" />
+        <Icon v-else :name="attr.icona" size="16" color="#eee" />
       </span>
     </div>
   </div>
