@@ -56,5 +56,6 @@ const breadcrumb = computed(() => [
 			</div>
 		</div>
 	</div>
+	<ComunitaEventi :idcomunita="data.id" />
 	<ComunitaPoislist :data="data" />
 </template>
