@@ -39,7 +39,9 @@ definePageMeta({
     </div>
 
     <div>
-      <h2 class="text-2xl font-bold leading-7 sm:text-3xl sm:tracking-tight py-4">Legenda</h2>
+      <h2 class="text-2xl font-bold leading-7 sm:text-3xl sm:tracking-tight pt-8 pb-2">
+        Legenda
+      </h2>
 
       <div v-for="attr of hwAttributi" class="flex gap-4 my-2">
         <Icon :name="attr.icona" size="32" :color="attr.colore" />
