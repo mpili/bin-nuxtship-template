@@ -76,7 +76,12 @@ const podcasts = [
 		url: "/podc/bitcoin-cabana",
 		img: "/img/podcast/bitcoin-cabana.jpg",
 	},
-]
+];
+const breadcrumb = computed(() => [
+  {
+    label: "podcast",
+  },
+]);
 </script>
 
 <template>
@@ -85,6 +90,7 @@ const podcasts = [
 			<template v-slot:title>Podcast</template>
 			<template v-slot:desc>I podcast Bitcoin in Italia</template>
 		</LandingSectionhead>
+		<LandingBreadcrumb :voci="breadcrumb" />
 		<div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
 			<PodcastScheda v-for="item of podcasts" :podc="item" />
 		</div>

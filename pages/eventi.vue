@@ -25,6 +25,7 @@ const calendari = [
       <template v-slot:title>Eventi</template>
       <template v-slot:desc>Il calendario Bitcoin.</template>
     </LandingSectionhead>
+    <EventiPage />
     <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
       <div class="mx-auto max-w-md">
         <ul class="space-y-4">

@@ -10,6 +10,12 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const breadcrumb = computed(() => [
+  {
+    label: "wallet",
+  },
+]);
+
 definePageMeta({
   layout: "landing",
 });
@@ -144,6 +150,8 @@ const attributiWalletOpz = [
       <template v-slot:title>Wallet</template>
       <template v-slot:desc>Le applicazioni per gestire i tuoi fondi.</template>
     </LandingSectionhead>
+    
+    <LandingBreadcrumb :voci="breadcrumb" />
 
     <div v-if="pending">Loading ...</div>
     <div v-else>

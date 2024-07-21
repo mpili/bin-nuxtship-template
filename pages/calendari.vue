@@ -3,26 +3,18 @@ definePageMeta({
   layout: "landing",
 });
 
-const corsi = [
+const calendari = [
   {
-    nome: "Wallet",
-    url: "/wallet",
+    nome: "Calendario eventi di PlanB Network",
+    url: "https://planb.network/it/events",
   },
   {
-    nome: "Hardware Wallet",
-    url: "/hwallet",
+    nome: "Calendar Bitbo",
+    url: "https://calendar.bitbo.io/",
   },
   {
-    nome: "Libri Bitcoin in Italiano da acquistare su Amazon",
-    url: "/libriamazon",
-  },
-  {
-    nome: "Podcast Bitcoin in Italiano",
-    url: "/podcast",
-  },
-  {
-    nome: "Documenti",
-    url: "/documentazione",
+    nome: "Bitcoin Holiday",
+    url: "https://bitcoin.holiday/",
   },
 ];
 </script>
@@ -30,15 +22,13 @@ const corsi = [
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>Formazione</template>
-      <template v-slot:desc
-        >Le nostre proposte per acquisire competenze.</template
-      >
+      <template v-slot:title>Calendari</template>
+      <template v-slot:desc>Calendari Bitcoin.</template>
     </LandingSectionhead>
     <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
       <div class="mx-auto max-w-md">
         <ul class="space-y-4">
-          <li v-for="corso of corsi" class="flex items-center">
+          <li v-for="calendario of calendari" class="flex items-center">
             <svg
               class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2"
               stroke-linecap="round"
@@ -52,10 +42,11 @@ const corsi = [
             </svg>
             <p class="ml-4">
               <a
-                :href="corso.url"
+                :href="calendario.url"
                 class="flex lg:px-3 py-2 text-gray-600 hover:text-gray-900"
+                target="_blank"
               >
-                {{ corso.nome }}
+                {{ calendario.nome }}
               </a>
             </p>
           </li>
