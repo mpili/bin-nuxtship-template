@@ -43,7 +43,11 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
       </div>
     </div>
     <div class="flex flex-wrap gap-4 mt-4">
-      <OsnTagwebsite :url="props.hwallet.sitoweb" />
+      <OsnTagwebsite :url="hwallet.sitoweb" />
+    </div>
+    <div v-if="hwallet.descrizione">
+      <div v-html="hwallet.descrizione" class="pt-4">
+      </div>
     </div>
   </div>
 </template>
