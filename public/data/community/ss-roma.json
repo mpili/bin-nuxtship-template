@@ -6,7 +6,7 @@
     "localita": "Roma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001695209037",
     "telegram_app": "https://t.me/SatoshiSpritzRoma",
-    "telegram_members": 411.0,
+    "telegram_members": 415.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1560,6 +1560,36 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-roma-via-emanuele-filiberto"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12068433363,
+            "lat": 41.9286497,
+            "lon": 12.4826489,
+            "timestamp": "2024-07-22T16:21:16Z",
+            "version": 1,
+            "changeset": 154270986,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "15",
+                "addr:postcode": "00197",
+                "addr:street": "Piazzale del Parco della Rimembranza",
+                "amenity": "atm",
+                "check_date": "2024-07-19",
+                "contact:facebook": "https://www.facebook.com/CoinFlipATM/",
+                "contact:instagram": "https://www.instagram.com/coinflip/",
+                "contact:linkedin": "https://www.linkedin.com/company/coinflipusa/",
+                "contact:twitter": "https://x.com/coinflip",
+                "currency:XBT": "yes",
+                "description": "Bitcoin ATM che consente agli utenti di acquistare Bitcoin e altre criptovalute in contanti",
+                "email": "assistenza@coinflip.tech",
+                "name": "Coinflip Bitcoin ATM c/o Tabacchi 492",
+                "operator": "Olliv Italia s.r.l.",
+                "phone": "+39 800 764704",
+                "website": "https://coinflip.tech/"
             }
         }
     ]

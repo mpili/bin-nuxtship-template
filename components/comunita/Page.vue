@@ -35,6 +35,9 @@ const breadcrumb = computed(() => [
 			<ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
 		</LMap>
 	</div>
+	
+	<ComunitaEventi :idcomunita="data.id" />
+
 	<div class="pt-6 pb-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
 		<div class="divide-y divide-gray-300/50">
 			<div class="flex flex-row align-items-center py-4 px-8 py-2">

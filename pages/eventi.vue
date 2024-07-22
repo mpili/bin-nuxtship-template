@@ -17,6 +17,13 @@ const calendari = [
     url: "https://bitcoin.holiday/",
   },
 ];
+
+const breadcrumb = computed(() => [
+  {
+    label: "eventi",
+  },
+]);
+
 </script>
 
 <template>
@@ -25,6 +32,9 @@ const calendari = [
       <template v-slot:title>Eventi</template>
       <template v-slot:desc>Il calendario Bitcoin.</template>
     </LandingSectionhead>
+
+    <LandingBreadcrumb :voci="breadcrumb" />
+
     <EventiPage />
     <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
       <div class="mx-auto max-w-md">

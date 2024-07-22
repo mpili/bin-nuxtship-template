@@ -18,7 +18,7 @@
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": "non-privato , pubblico"
+        "message": "non-privato, pubblico"
     },
     "tag:access=private": {
         "message": "privato",
@@ -49,7 +49,7 @@
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
-        "message": "Numeri civici interpolati",
+        "message": "Numero civico interpolato",
         "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
     },
     "tag:addr:postcode": {
@@ -113,7 +113,7 @@
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
-        "message": "Impianti a fune",
+        "message": "Impianto a fune",
         "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
     },
     "tag:aeroway": {
@@ -133,7 +133,7 @@
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
-        "message": "Strutture di servizio",
+        "message": "Struttura di servizio",
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=animal_boarding": {
@@ -193,7 +193,7 @@
         "description": "Tag \"amenity=boat_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=boat_rental"
     },
     "tag:amenity=brothel": {
-        "message": "Bordelli",
+        "message": "Bordello",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
     },
     "tag:amenity=bureau_de_change": {
@@ -209,7 +209,7 @@
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "Autonoleggi",
+        "message": "Autonoleggio",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
@@ -225,7 +225,7 @@
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "message": "Cinematografi",
+        "message": "Cinema",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
     "tag:amenity=clinic": {
@@ -237,11 +237,11 @@
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "Istituti superiori",
+        "message": "Istituto superiore",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
-        "message": "",
+        "message": "Centro comunità",
         "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
     },
     "tag:amenity=compressed_air": {
@@ -249,7 +249,7 @@
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
-        "message": "Palazzi di giustizia",
+        "message": "Palazzo di giustizia",
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
@@ -265,7 +265,7 @@
         "description": "Tag \"amenity=dive_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dive_centre"
     },
     "tag:amenity=doctors": {
-        "message": "Medici",
+        "message": "Medico",
         "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
     },
     "tag:amenity=dojo": {
@@ -281,7 +281,7 @@
         "description": "Tag \"amenity=driving_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=driving_school"
     },
     "tag:amenity=embassy": {
-        "message": "Ambasciate",
+        "message": "Ambasciata",
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=events_venue": {
@@ -305,7 +305,7 @@
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
-        "message": "Fontane",
+        "message": "Fontana",
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
     "tag:amenity=fuel": {
@@ -313,15 +313,15 @@
         "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
     },
     "tag:amenity=government": {
-        "message": "Edifici governativi",
+        "message": "Edificio governativi",
         "description": "Tag \"amenity=government\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=government"
     },
     "tag:amenity=grave_yard": {
-        "message": "Cimiteri",
+        "message": "Cimitero",
         "description": "Tag \"amenity=grave_yard\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard"
     },
     "tag:amenity=hospital": {
-        "message": "Ospedali",
+        "message": "Ospedale",
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
@@ -365,7 +365,7 @@
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
-        "message": "Posteggi",
+        "message": "Posteggio",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
     },
     "tag:amenity=pharmacy": {
@@ -385,7 +385,7 @@
         "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
     },
     "tag:amenity=post_office": {
-        "message": "Uffici postali",
+        "message": "Ufficio postale",
         "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
     },
     "tag:amenity=pub": {
@@ -401,7 +401,7 @@
         "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
     },
     "tag:amenity=public_building": {
-        "message": "Edifici pubblici",
+        "message": "Edificio pubblico",
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
@@ -449,11 +449,11 @@
         "description": "Tag \"amenity=taxi\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi"
     },
     "tag:amenity=telephone": {
-        "message": "Telefoni",
+        "message": "Telefono",
         "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
     },
     "tag:amenity=theatre": {
-        "message": "Teatri",
+        "message": "Teatro",
         "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
     },
     "tag:amenity=ticket_counter": {
@@ -469,7 +469,7 @@
         "description": "Combined tag \"amenity=toilets\" and \"changing_table=yes\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
     },
     "tag:amenity=townhall": {
-        "message": "Municipi",
+        "message": "Municipio",
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
@@ -477,7 +477,7 @@
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
-        "message": "Distributori automatici",
+        "message": "Distributore automatico",
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
