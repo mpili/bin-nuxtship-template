@@ -16,14 +16,6 @@ const menuitems = [
     title: "Formazione",
     path: "/formazione",
   },
-  {
-    title: "Chi siamo",
-    path: "/chisiamo",
-  },
-{
-    title: "Contattaci",
-    path: "/contattaci",
-  },
 ];
 
 const open = ref(false);
