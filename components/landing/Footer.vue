@@ -53,14 +53,6 @@ const vocimenu = [
         titolo: "Contattaci",
         path: "/contattaci",
       },
-      {
-        titolo: "E-shop",
-        path: "/shop",
-      },
-      {
-        titolo: "Formazione",
-        path: "/formazione",
-      },
     ]
   },
   {
@@ -75,8 +67,8 @@ const vocimenu = [
         path: "/documentazione",
       },
       {
-        titolo: "Formazione",
-        path: "/formazione",
+        titolo: "Hardware Wallet",
+        path: "/hwallet",
       },
       {
         titolo: "Wallet",

@@ -9,15 +9,24 @@ export default {
 	},
 	coloreicona: {
 	  type: String,
-	}
+	},
+	coloretesto: {
+      type: String,
+      default: 'black'
+    },
+    colorebg: {
+      type: String,
+      default: 'white'
+    }
   },
 };
 </script>
 
 <template>
       <div
-        class="flex items-center rounded-full border bg-white m-1 py-2 pl-3 pr-4 text-xs text-black font-bold gap-1 shadow"
-      >
+    class="flex items-center rounded-full border m-1 py-2 pl-3 pr-4 text-xs font-bold gap-1 shadow"
+    :class="[`text-${coloretesto} bg-${colorebg}`]"
+  >
         <Icon :name="icona" size="28" :color="coloreicona" /> {{ testo }}
       </div>
 </template>
