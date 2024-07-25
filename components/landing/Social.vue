@@ -51,7 +51,7 @@ export default {
       :testo="social"
       coloreicona="white"
       coloretesto="white"
-      colorebg="indigo-500"
+      colorebg="cyan-500"
     />
   </a>
 </template>

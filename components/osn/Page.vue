@@ -93,9 +93,12 @@ const social = [
     <template v-slot:title>{{ data.tags.name }}</template>
     <template v-slot:desc><OsnTipovenue :tags="data.tags" /></template>
   </LandingSectionhead>
-  <OsnMap :data="data" />
 
-  <div v-if="data.tags.description" class="pb-4">{{data.tags.description}}</div>
+  <OsnImmagine :idnodosm="data.id" />
+
+  <div v-if="data.tags.description" class="pb-4">
+    {{ data.tags.description }}
+  </div>
 
   <div>
     <h2>Indirizzo</h2>
@@ -142,31 +145,69 @@ const social = [
         <span v-else-if="data.tags['contact:city']">{{
           data.tags["contact:city"]
         }}</span>
-        <span v-if="data.tags['addr:province']"> ({{
-          data.tags["addr:province"]
-        }})</span>
-
-        </p>
+        <span v-if="data.tags['addr:province']">
+          ({{ data.tags["addr:province"] }})</span
+        >
+      </p>
     </div>
 
-    <div class="relative inline-block bg-white p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg">
+    <div
+      class="relative inline-block bg-white p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
+    >
       <div class="pl-4 p-1 text-gray-600 text-sm">maps</div>
       <div class="flex flex-wrap">
         <div class="border">
           <div class="text-center text-gray-400 text-sm">google</div>
           <div class="flex">
-            <OsnGmaplink etichetta="posizione" :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat +'+'+ data.lon" :icona="'material-symbols:location-on'" />
-            <OsnGmaplink etichetta="streetview" :url="'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +data.lat+','+data.lon" :icona="'material-symbols:streetview'" />
-            <OsnGmaplink etichetta="direzioni" :url="'https://maps.google.com/maps?daddr=(' +data.lat +',' +data.lon +')'" :icona="'material-symbols:directions'" />
+            <OsnGmaplink
+              etichetta="posizione"
+              :url="
+                'https://maps.google.com/maps?z=12&t=m&q=loc:' +
+                data.lat +
+                '+' +
+                data.lon
+              "
+              :icona="'material-symbols:location-on'"
+            />
+            <OsnGmaplink
+              etichetta="streetview"
+              :url="
+                'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +
+                data.lat +
+                ',' +
+                data.lon
+              "
+              :icona="'material-symbols:streetview'"
+            />
+            <OsnGmaplink
+              etichetta="direzioni"
+              :url="
+                'https://maps.google.com/maps?daddr=(' +
+                data.lat +
+                ',' +
+                data.lon +
+                ')'
+              "
+              :icona="'material-symbols:directions'"
+            />
           </div>
         </div>
 
         <div class="border">
           <div class="text-center text-gray-400 text-sm">bing</div>
-          <OsnGmaplink etichetta="posizione" :url="'https://www.bing.com/maps?cp=' +data.lat +'~' +data.lon +'&lvl=20'" :icona="'tabler:brand-bing'" />
+          <OsnGmaplink
+            etichetta="posizione"
+            :url="
+              'https://www.bing.com/maps?cp=' +
+              data.lat +
+              '~' +
+              data.lon +
+              '&lvl=20'
+            "
+            :icona="'tabler:brand-bing'"
+          />
         </div>
       </div>
-
     </div>
   </div>
   <OsnTag
@@ -248,7 +289,9 @@ const social = [
     etichetta="orari apertura"
     :testo="data.tags['opening_hours']"
   />
-  
+
+  <OsnDescrizione :idnodosm="data.id" />
+
   <div class="flex">
     <OsnTagwebsite :url="data.tags.website" />
     <OsnTagwebsite :url="data.tags['contact:website']" />
@@ -265,7 +308,6 @@ const social = [
     :testo="data.tags['contact:email']"
   />
 
-
   <div class="flex flex-wrap my-4">
     <OsnSocial
       v-for="s of social"
@@ -273,6 +315,34 @@ const social = [
       :icona="s.icona"
       :value="data.tags['contact:' + s.nome]"
     />
+  </div>
+
+
+  <OsnMap :data="data" />
+
+  <div class="flex gap-2 py-2">
+    <a
+      :href="'https://www.openstreetmap.org/node/' + data.id"
+      target="_blank"
+      class="text-sm"
+    >
+      <LandingBadge
+        icona="simple-icons:openstreetmap"
+        testo="openstreetmap"
+        coloreicona="#9CA3AF"
+        coloretesto="gray-400"
+      />
+    </a>
+    <a
+      :href="'https://btcmap.org/merchant/node:' + data.id"
+      target="_blank"
+      class="text- text-sm"
+      ><LandingBadge
+        icona="hugeicons:bitcoin-location"
+        testo="btcmap"
+        coloreicona="#9CA3AF"
+        coloretesto="gray-400"
+    /></a>
   </div>
 
   <div v-if="data.tags['check_date']">
@@ -292,23 +362,5 @@ const social = [
       <span class="text-gray-300 text-sm w-48">Data di verifica&nbsp;</span>
       <span class="text-gray-300 text-sm">{{ data.tags["survey:date"] }}</span>
     </div>
-  </div>
-
-  <div class="flex gap-2 py-2">
-    <a
-      :href="'https://www.openstreetmap.org/node/' + data.id"
-      target="_blank"
-      class="text-sm"
-      >
-      <LandingBadge icona="simple-icons:openstreetmap" testo="openstreetmap" coloreicona="#9CA3AF" coloretesto="gray-400" />
-      
-      </a
-    >
-    <a
-      :href="'https://btcmap.org/merchant/node:' + data.id"
-      target="_blank"
-      class="text- text-sm"
-      ><LandingBadge icona="hugeicons:bitcoin-location" testo="btcmap" coloreicona="#9CA3AF" coloretesto="gray-400" /></a
-    >
   </div>
 </template>
