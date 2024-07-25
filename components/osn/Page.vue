@@ -294,20 +294,21 @@ const social = [
     </div>
   </div>
 
-  <div class="inline-block p-4 rounded-lg ring-1 ring-gray-900/5">
-    scheda su 
+  <div class="flex gap-2 py-2">
     <a
       :href="'https://www.openstreetmap.org/node/' + data.id"
       target="_blank"
-      class="text-blue-400 text-sm"
-      >openstreetmap</a
+      class="text-sm"
+      >
+      <LandingBadge icona="simple-icons:openstreetmap" testo="openstreetmap" coloreicona="#9CA3AF" coloretesto="gray-400" />
+      
+      </a
     >
-    -
     <a
       :href="'https://btcmap.org/merchant/node:' + data.id"
       target="_blank"
-      class="text-blue-400 text-sm"
-      >btcmap</a
+      class="text- text-sm"
+      ><LandingBadge icona="hugeicons:bitcoin-location" testo="btcmap" coloreicona="#9CA3AF" coloretesto="gray-400" /></a
     >
   </div>
 </template>
