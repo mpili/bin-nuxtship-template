@@ -66,9 +66,14 @@ const vocimenu = [
         titolo: "Chi siamo",
         path: "/chisiamo",
       },
+
       {
         titolo: "Contattaci",
         path: "/contattaci",
+      },
+      {
+        titolo: "Shop",
+        path: "https://shop.bitcoinitalianetwork.com/en-eur/",
       },
     ],
   },
@@ -107,7 +112,7 @@ const vocimenu = [
             <Icon name="mdi:instagram" size="24" />
           </a>
           <a
-            href="https://x.com/btcitanetwork"
+            href="https://www.tiktok.com/@btcitanetwork"
             class="text-gray-400 hover:text-gray-500"
             target="_blank"
           >
