@@ -6,7 +6,7 @@
     "localita": "Malta",
     "telegram_weburl": "https://web.telegram.org/a/#-1001979747988",
     "telegram_app": "https://t.me/bitcoinmaltahub",
-    "telegram_members": 40.0,
+    "telegram_members": 38.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -313,13 +313,13 @@
         {
             "type": "node",
             "id": 12031697906,
-            "lat": 35.9520834,
-            "lon": 14.410683,
-            "timestamp": "2024-07-03T17:41:14Z",
-            "version": 1,
-            "changeset": 153512911,
-            "user": "Crest Bottle Shop",
-            "uid": 21719464,
+            "lat": 35.952104,
+            "lon": 14.410731,
+            "timestamp": "2024-07-23T07:36:50Z",
+            "version": 2,
+            "changeset": 154292875,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
             "tags": {
                 "currency:XBT": "yes",
                 "description": "An esteemed bottle shop in Bugibba selling any and all sorts of wine, beers, spirits and tobacco.",
@@ -327,6 +327,7 @@
                 "payment:contactless": "yes",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
+                "shop": "alcohol",
                 "survey:date": "2024-07-02",
                 "website": "https://crestbottleshop.com/"
             }

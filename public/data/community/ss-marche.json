@@ -90,6 +90,86 @@
         },
         {
             "type": "node",
+            "id": 10554651585,
+            "lat": 43.2174824,
+            "lon": 13.3064053,
+            "timestamp": "2024-05-20T19:58:37Z",
+            "version": 3,
+            "changeset": 151598237,
+            "user": "Protocolli Creativi srl",
+            "uid": 18273465,
+            "tags": {
+                "addr:city": "Tolentino",
+                "addr:housenumber": "1",
+                "addr:postcode": "62029",
+                "addr:street": "Viale Concordia",
+                "check_date:currency:XBT": "2023-01-14",
+                "currency:XBT": "yes",
+                "description": "Software house",
+                "email": "info@protocollicreativi.it",
+                "name": "Protocolli Creativi srl",
+                "office": "it",
+                "opening_hours": "Mo-Fr 10:00-13:00, 15:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0733 974921",
+                "website": "https://www.protocollicreativi.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10566976132,
+            "lat": 43.2217632,
+            "lon": 13.4651049,
+            "timestamp": "2023-01-19T06:35:47Z",
+            "version": 1,
+            "changeset": 131449355,
+            "user": "BSN21M",
+            "uid": 17441326,
+            "tags": {
+                "addr:city": "Petriolo",
+                "addr:housenumber": "35",
+                "addr:postcode": "62014",
+                "addr:street": "Via Porta Nuova",
+                "check_date:currency:XBT": "2023-01-19",
+                "currency:XBT": "yes",
+                "name": "Natali Calzature",
+                "opening_hours": "Mo-Sa 16:30-19:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 339 613 4291",
+                "shop": "shoes",
+                "website": "https://natalicalzature.business.site"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10862567240,
+            "lat": 43.2302873,
+            "lon": 13.6848136,
+            "timestamp": "2024-07-05T19:57:27Z",
+            "version": 2,
+            "changeset": 153602893,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Sant'Elpidio a Mare",
+                "addr:housenumber": "64",
+                "addr:postcode": "63811",
+                "addr:street": "Corso Baccio",
+                "amenity": "restaurant",
+                "check_date": "2023-05-02",
+                "contact:facebook": "https://www.facebook.com/ipozzacci",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "name": "I Pozzacci",
+                "phone": "+390734466623"
+            }
+        },
+        {
+            "type": "node",
             "id": 11335707828,
             "lat": 43.6109082,
             "lon": 13.5042162,
@@ -217,6 +297,28 @@
                 "sport": "windsurfing;surfing",
                 "survey:date": "2024-06-08",
                 "website": "http://mare-vento.blogspot.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11975336450,
+            "lat": 43.3086104,
+            "lon": 13.7271027,
+            "timestamp": "2024-06-12T12:49:56Z",
+            "version": 1,
+            "changeset": 152586048,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Civitanova Marche",
+                "addr:housenumber": "88",
+                "addr:postcode": "62012",
+                "addr:street": "Corso Umberto I",
+                "check_date": "2024-06-12",
+                "currency:XBT": "yes",
+                "name": "Vittoria Profumi",
+                "shop": "perfumery",
+                "website": "https://vittoriaprofumi.com/site/"
             }
         }
     ]

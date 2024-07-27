@@ -6,7 +6,7 @@
     "localita": "Firenze & Toscana",
     "telegram_weburl": "https://web.telegram.org/a/#-1001040948446",
     "telegram_app": "https://t.me/bitcoinfirenze",
-    "telegram_members": 229.0,
+    "telegram_members": 230.0,
     "poi": [
         {
             "type": "node",
@@ -36,6 +36,31 @@
                 "payment:onchain": "yes",
                 "phone": "+39 055 317206",
                 "website": "https://landing.vinodaburde.eu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2575758955,
+            "lat": 43.7910313,
+            "lon": 10.709964,
+            "timestamp": "2023-07-15T10:50:10Z",
+            "version": 8,
+            "changeset": 138539788,
+            "user": "saunter",
+            "uid": 10396321,
+            "tags": {
+                "addr:city": "Altopascio",
+                "addr:housenumber": "116/a",
+                "addr:postcode": "55011",
+                "addr:street": "Via del Maggino",
+                "check_date:currency:XBT": "2023-07-15",
+                "craft": "carpenter",
+                "currency:XBT": "yes",
+                "description": "Produzione di imballaggi in legno e pallets anche a norma ISPM15 per esportazione all'estero.",
+                "name": "Nardi e Banti imballaggi srl",
+                "payment:litecoin": "yes",
+                "phone": "+39 0583 289258",
+                "website": "https://imballoinlegno.it"
             }
         },
         {
@@ -87,6 +112,32 @@
         },
         {
             "type": "node",
+            "id": 9631522101,
+            "lat": 43.8412423,
+            "lon": 10.6167649,
+            "timestamp": "2024-07-05T19:42:51Z",
+            "version": 6,
+            "changeset": 153602448,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Porcari",
+                "addr:housenumber": "5",
+                "addr:postcode": "55016",
+                "addr:street": "Via Guglielmo Marconi",
+                "amenity": "cafe",
+                "check_date": "2022-12-20",
+                "contact:mobile": "+39 345 807 9076",
+                "contact:website": "http://www.pasticceriareginalucca.it/",
+                "currency:XBT": "yes",
+                "name": "Pasticceria Petit Regina",
+                "opening_hours": "Tu-Su 08:00-20:00",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10138673678,
             "lat": 43.7937509,
             "lon": 11.2199873,
@@ -107,6 +158,31 @@
                 "shop": "paint",
                 "survey:date": "2022-10-30",
                 "website": "https://www.altilioferramenta.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275711661,
+            "lat": 43.832708,
+            "lon": 10.6158035,
+            "timestamp": "2024-07-13T13:36:32Z",
+            "version": 2,
+            "changeset": 153893944,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Porcari",
+                "addr:housenumber": "7",
+                "addr:postcode": "55016",
+                "addr:street": "Via de' Casoni",
+                "check_date": "2022-12-20",
+                "currency:XBT": "yes",
+                "name": "Ecoprint Lucchese",
+                "office": "company",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+390583298474",
+                "website": "http://www.ecoprintlucchese.com/home.php"
             }
         },
         {
@@ -210,6 +286,44 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "website": "https://linktr.ee/lanarchico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11778374552,
+            "lat": 43.3347691,
+            "lon": 11.3007112,
+            "timestamp": "2024-07-04T09:25:49Z",
+            "version": 11,
+            "changeset": 153535634,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "9",
+                "addr:postcode": "53100",
+                "addr:street": "Via Bernardino Perfetti",
+                "addr:unit": "14",
+                "check_date": "2024-04-01",
+                "contact:instagram": "https://www.instagram.com/bed_and_breakfast_siena",
+                "currency:XBT": "yes",
+                "email": "homelatartuca@gmail.com",
+                "guest_house": "apartment",
+                "image": "https://www.booking.com/hotel/it/la-tartuca.it.html",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "La_Tartuca-5G-F789EE",
+                "level": "4",
+                "name": "B&B LA TARTARUGA",
+                "not:name": "GIULIA",
+                "opening_hours": "24/7",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:notes": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393384845333",
+                "rooms": "5",
+                "tourism": "guest_house"
             }
         },
         {
