@@ -1,6 +1,10 @@
 <script setup>
 const menuitems = [
   {
+    title: "Shop",
+    path: "https://shop.bitcoinitalianetwork.com/en-eur/",
+  },
+  {
     title: "Impara",
     path: "/impara",
   },
@@ -9,12 +13,12 @@ const menuitems = [
     path: "/dove",
   },
   {
-    title: "E-Shop",
-    path: "/shop",
-  },
-  {
     title: "Formazione",
     path: "/formazione",
+  },
+  {
+    title: "Eventi",
+    path: "/eventi",
   },
 ];
 
@@ -25,9 +29,13 @@ const open = ref(false);
   <LandingContainer>
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
-        <a href="/" class="text-lg"
-          ><span class="bg-green-500">₿itcoin</span
-        >Italia<span class="font-bold bg-red-500 text-white">Network</span>
+        <a href="/" class="text-lg">
+          <span class="font-bold">
+            <span class="bg-green-500">&nbsp;₿itcoin</span>Italia<span
+              class="bg-red-500 text-white"
+              >Network&nbsp;</span
+            >
+          </span>
         </a>
         <div class="block lg:hidden">
           <button @click="open = !open" class="text-gray-800">
