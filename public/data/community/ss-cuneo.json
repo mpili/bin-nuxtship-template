@@ -136,6 +136,30 @@
         },
         {
             "type": "node",
+            "id": 11267662527,
+            "lat": 44.6895793,
+            "lon": 7.8795567,
+            "timestamp": "2023-10-16T19:58:58Z",
+            "version": 1,
+            "changeset": 142682144,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Bra",
+                "addr:housenumber": "22",
+                "addr:street": "Strada Orti",
+                "addr:unit": "l",
+                "check_date": "2023-10-16",
+                "currency:XBT": "yes",
+                "name": "Residenza da Luisa",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 3668941251",
+                "tourism": "apartment"
+            }
+        },
+        {
+            "type": "node",
             "id": 11936607674,
             "lat": 44.513275,
             "lon": 7.4719245,
@@ -154,6 +178,29 @@
                 "currency:XBT": "yes",
                 "name": "Bar Belvedere",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11955642309,
+            "lat": 44.6458418,
+            "lon": 7.4961578,
+            "timestamp": "2024-07-05T20:03:29Z",
+            "version": 4,
+            "changeset": 153603115,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Saluzzo",
+                "addr:housenumber": "7",
+                "addr:street": "Via Savigliano",
+                "currency:XBT": "yes",
+                "name": "Non solo tabacchi",
+                "payment:onchain": "yes",
+                "phone": "+39 0175 45337",
+                "shop": "tobacco",
+                "survey:date": "2024-05-31",
+                "website": "https://www.nonsolotabacchi.com/"
             }
         },
         {

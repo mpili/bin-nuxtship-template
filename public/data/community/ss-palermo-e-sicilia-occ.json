@@ -6,7 +6,7 @@
     "localita": "Palermo (e Sicilia Occidentale)",
     "telegram_weburl": "https://web.telegram.org/a/#-1001737216631",
     "telegram_app": "https://t.me/SatoshiSpritzPalermo",
-    "telegram_members": 63.0,
+    "telegram_members": 62.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -33,6 +33,30 @@
                 "payment:onchain": "yes",
                 "phone": "+447894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11433129234,
+            "lat": 37.9326062,
+            "lon": 13.665301,
+            "timestamp": "2023-12-19T22:48:13Z",
+            "version": 1,
+            "changeset": 145309680,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Caccamo",
+                "addr:housenumber": "144",
+                "addr:postcode": "90012",
+                "addr:street": "Corso Umberto Primo",
+                "check_date": "2023-12-19",
+                "currency:XBT": "yes",
+                "email": "info@gioiellerialbanese.it",
+                "name": "Gioielleria Albanese",
+                "phone": "+39 091 8121440",
+                "shop": "jewelry",
+                "website": "https://gioiellerialbanese.it/"
             }
         },
         {

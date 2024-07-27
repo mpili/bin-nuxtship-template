@@ -35,6 +35,31 @@
         },
         {
             "type": "node",
+            "id": 5216221125,
+            "lat": 40.7271146,
+            "lon": 17.5763196,
+            "timestamp": "2024-01-05T15:56:18Z",
+            "version": 4,
+            "changeset": 145927969,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Ostuni",
+                "addr:housenumber": "67/b",
+                "addr:postcode": "72017",
+                "addr:street": "Via Pola",
+                "check_date": "2024-01-05",
+                "currency:XBT": "yes",
+                "description": "Gioielleria e laboratorio di incastonatura pietre preziose.",
+                "email": "clamagioielli@gmail.com",
+                "name": "Clama Gioielli",
+                "phone": "+39 3208818751",
+                "shop": "jewelry",
+                "website": "http://www.clamagioielli.com"
+            }
+        },
+        {
+            "type": "node",
             "id": 7765194018,
             "lat": 40.4462155,
             "lon": 17.2699366,
@@ -88,6 +113,60 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "website": "https://kebhouze.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11131394236,
+            "lat": 40.2987932,
+            "lon": 17.5617862,
+            "timestamp": "2023-12-06T11:03:36Z",
+            "version": 5,
+            "changeset": 144824231,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Campomarino di Maruggio",
+                "addr:postcode": "74020",
+                "addr:street": "Via Giovanni Boccaccio",
+                "amenity": "ice_cream",
+                "check_date": "2023-08-20",
+                "currency:XBT": "yes",
+                "indoor_seating": "yes",
+                "name": "Gelateria La Meringa",
+                "outdoor_seating": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+393279937879"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11775351701,
+            "lat": 40.5281371,
+            "lon": 17.5842733,
+            "timestamp": "2024-03-31T13:13:59Z",
+            "version": 1,
+            "changeset": 149389955,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Francavilla Fontana",
+                "addr:housenumber": "25",
+                "addr:postcode": "72021",
+                "addr:street": "Via Francesco Ribezzo",
+                "check_date": "2024-03-31",
+                "currency:XBT": "yes",
+                "guest_house": "bed_and_breakfast",
+                "name": "Laura Memmola",
+                "opening_hours": "24/7",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 32 8151 6560",
+                "tourism": "guest_house",
+                "website": "https://www.vacation-bookings.com/d/54687750?locale=it_IT&utm_source=web_share&utm_term=CLIPBOARD"
             }
         },
         {

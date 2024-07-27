@@ -6,7 +6,38 @@
     "localita": "Nuoro",
     "telegram_weburl": "https://web.telegram.org/a/#-1002113053687",
     "telegram_app": "https://t.me/bitcoinbeernuoro",
-    "telegram_members": 16.0,
+    "telegram_members": 13.0,
     "network": "bitcoinbeer",
-    "poi": []
+    "poi": [
+        {
+            "type": "node",
+            "id": 10262476930,
+            "lat": 40.7226408,
+            "lon": 9.1064746,
+            "timestamp": "2022-12-14T13:26:10Z",
+            "version": 1,
+            "changeset": 130076106,
+            "user": "BSN21M",
+            "uid": 17441326,
+            "tags": {
+                "addr:city": "Oschiri",
+                "addr:housenumber": "11",
+                "addr:postcode": "07027",
+                "addr:street": "Via Filippo Turati",
+                "check_date:currency:XBT": "2022-12-14",
+                "contact:twitter": "https://twitter.com/AntoniBatzu",
+                "craft": "pottery",
+                "currency:XBT": "yes",
+                "description": "Art, Pottery, Ceramics",
+                "email": "info@comefareceramica.com",
+                "name": "Antonio Batzu Ceramiche Artistiche",
+                "opening_hours": "Mo-Fr 08:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 331 5412413",
+                "website": "https://www.comefareceramica.com"
+            }
+        }
+    ]
 }

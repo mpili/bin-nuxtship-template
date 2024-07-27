@@ -6,7 +6,7 @@
     "localita": "Torino",
     "telegram_weburl": "https://web.telegram.org/a/#-1001385365071",
     "telegram_app": "https://t.me/SatoshiSpritzTorino",
-    "telegram_members": 555.0,
+    "telegram_members": 554.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -37,9 +37,9 @@
             "id": 3484016351,
             "lat": 45.0311269,
             "lon": 7.6399938,
-            "timestamp": "2024-07-20T20:48:29Z",
-            "version": 8,
-            "changeset": 154195527,
+            "timestamp": "2024-07-24T16:30:36Z",
+            "version": 9,
+            "changeset": 154358769,
             "user": "mauropili",
             "uid": 1496865,
             "tags": {
@@ -50,8 +50,11 @@
                 "amenity": "pub",
                 "brewery": "L\u00f6wenbr\u00e4u;Tennent\u2019s Super;Bass;Leffe;Franziskaner;Hoegaarden;Guinness;various",
                 "check_date:currency:XBT": "2023-03-24",
+                "contact:facebook": "https://www.facebook.com/1983JohnLennonsPub/",
+                "contact:instagram": "https://www.instagram.com/johnlennonpub83/",
                 "contact:mobile": "+39 339 1661356",
                 "currency:XBT": "yes",
+                "description": "Un autentico pub inglese a Torino, John Lennon's Pub offre un'esperienza unica dal 1983. Situato nel cuore della citt\u00e0, \u00e8 il luogo ideale per chi cerca l'atmosfera e il fascino dei tradizionali pub inglesi.",
                 "email": "johnlennonsrl@gmail.com",
                 "internet_access": "wlan",
                 "internet_access:fee": "no",
@@ -90,6 +93,36 @@
                 "office": "consulting",
                 "phone": "+39 011 305 2826",
                 "website": "http://www.studio-macri.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4517784294,
+            "lat": 44.9070273,
+            "lon": 8.2189968,
+            "timestamp": "2024-06-06T10:40:07Z",
+            "version": 10,
+            "changeset": 152325128,
+            "user": "Mauro Lovato",
+            "uid": 21592754,
+            "tags": {
+                "addr:city": "Asti",
+                "addr:housenumber": "66",
+                "addr:postcode": "14100",
+                "addr:street": "Corso Casale",
+                "amenity": "bar",
+                "currency:XBT": "yes",
+                "description": "Colazioni, pranzi, aperitivi, cocktail, intrattenimento.",
+                "email": "localhost127@fgobbo.com",
+                "name": "LocalHost127",
+                "outdoor_seating": "yes",
+                "payment:bitcoincash": "yes",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:monero": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0141 476119",
+                "website": "https://localhost127.link/"
             }
         },
         {
@@ -251,11 +284,11 @@
             "id": 4736081524,
             "lat": 45.0752768,
             "lon": 7.679183,
-            "timestamp": "2024-06-19T02:19:51Z",
-            "version": 5,
-            "changeset": 152871316,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2024-07-24T16:32:09Z",
+            "version": 6,
+            "changeset": 154358819,
+            "user": "mauropili",
+            "uid": 1496865,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "16e",
@@ -263,6 +296,7 @@
                 "addr:street": "Via delle Orfane",
                 "amenity": "restaurant",
                 "contact:facebook": "wide quadrilatero",
+                "contact:instagram": "https://www.instagram.com/wide.quadrilatero/",
                 "cuisine": "fusion;cocktail",
                 "currency:XBT": "yes",
                 "diet:gluten_free": "yes",
@@ -287,9 +321,9 @@
             "id": 4736083065,
             "lat": 45.0768063,
             "lon": 7.6798288,
-            "timestamp": "2024-07-06T05:58:27Z",
-            "version": 7,
-            "changeset": 153611305,
+            "timestamp": "2024-07-24T16:27:27Z",
+            "version": 8,
+            "changeset": 154358659,
             "user": "mauropili",
             "uid": 1496865,
             "tags": {
@@ -299,11 +333,15 @@
                 "addr:street": "Via Carlo Ignazio Giulio",
                 "amenity": "pub",
                 "check_date:currency:XBT": "2023-07-14",
+                "contact:instagram": "https://www.instagram.com/the_novel.torino/",
                 "currency:XBT": "yes",
+                "email": "info@thenovel.it",
                 "name": "The Novel",
                 "payment:lightning": "yes",
+                "phone": "+39 348 40 58 758",
                 "smoking": "outside",
-                "survey:date": "2023-05-26"
+                "survey:date": "2023-05-26",
+                "website": "https://www.thenovel.it/"
             }
         },
         {
@@ -311,9 +349,9 @@
             "id": 4736084153,
             "lat": 45.0759143,
             "lon": 7.673637,
-            "timestamp": "2024-07-05T19:28:49Z",
-            "version": 7,
-            "changeset": 153601976,
+            "timestamp": "2024-07-24T16:24:20Z",
+            "version": 8,
+            "changeset": 154358527,
             "user": "mauropili",
             "uid": 1496865,
             "tags": {
@@ -323,11 +361,15 @@
                 "addr:street": "Corso Valdocco",
                 "amenity": "bar",
                 "check_date:currency:XBT": "2023-07-18",
+                "contact:facebook": "https://www.facebook.com/planbcocktail",
                 "currency:XBT": "yes",
+                "email": "luca@universogaia.it",
                 "indoor_seating": "yes",
                 "name": "PlanB Cocktail Bar",
                 "outdoor_seating": "yes",
-                "payment:lightning": "yes"
+                "payment:lightning": "yes",
+                "phone": "+39 388 388 9947",
+                "website": "https://www.planbcocktail.com/"
             }
         },
         {
@@ -358,11 +400,11 @@
             "id": 4823861580,
             "lat": 45.0675125,
             "lon": 7.583697,
-            "timestamp": "2023-11-17T20:03:31Z",
-            "version": 5,
-            "changeset": 144152940,
-            "user": "toponomastica_comune_arenzano",
-            "uid": 14257573,
+            "timestamp": "2024-07-24T16:28:26Z",
+            "version": 6,
+            "changeset": 154358702,
+            "user": "mauropili",
+            "uid": 1496865,
             "tags": {
                 "addr:city": "Grugliasco",
                 "addr:housenumber": "59f",
@@ -370,6 +412,7 @@
                 "addr:street": "Via Michelangelo",
                 "amenity": "restaurant",
                 "check_date": "2023-03-05",
+                "contact:facebook": "https://www.facebook.com/PizzeriaMichelangeloGrugliasco/",
                 "currency:XBT": "yes",
                 "name": "Pizzeria Michelangelo",
                 "payment:lightning": "yes",
@@ -566,14 +609,39 @@
         },
         {
             "type": "node",
+            "id": 10072472871,
+            "lat": 44.8197462,
+            "lon": 7.2854219,
+            "timestamp": "2023-08-26T12:10:56Z",
+            "version": 5,
+            "changeset": 140409230,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Bricherasio",
+                "addr:housenumber": "31",
+                "addr:postcode": "10060",
+                "addr:street": "Strada Riv\u00e0",
+                "check_date": "2023-08-26",
+                "currency:XBT": "yes",
+                "description": "Azienda agricola con prodotti di stagione e trasformati, location per matrimoni, B&B.",
+                "email": "agri.baccablu@libero.it",
+                "name": "Agriturismo Bacca Blu",
+                "phone": "+39 3933560497",
+                "shop": "farm",
+                "website": "https://www.baccablu.it"
+            }
+        },
+        {
+            "type": "node",
             "id": 10275645029,
             "lat": 45.0585399,
             "lon": 7.6824893,
-            "timestamp": "2024-06-30T12:14:17Z",
-            "version": 3,
-            "changeset": 153366525,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2024-07-24T16:35:48Z",
+            "version": 4,
+            "changeset": 154358956,
+            "user": "mauropili",
+            "uid": 1496865,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "20",
@@ -582,6 +650,8 @@
                 "amenity": "restaurant",
                 "check_date": "2022-12-20",
                 "check_date:currency:XBT": "2024-06-30",
+                "contact:facebook": "https://www.facebook.com/uaopizza",
+                "contact:instagram": "https://www.instagram.com/uaopizza/",
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
                 "name": "U\u00c1O Pizza",
@@ -589,6 +659,31 @@
                 "payment:onchain": "yes",
                 "phone": "+393490756953",
                 "website": "https://uaopizza.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315188213,
+            "lat": 45.3193759,
+            "lon": 7.3804361,
+            "timestamp": "2023-01-08T17:44:11Z",
+            "version": 1,
+            "changeset": 131024496,
+            "user": "BSN21M",
+            "uid": 17441326,
+            "tags": {
+                "addr:city": "Ceres",
+                "addr:street": "Localit\u00e0 l'Aran",
+                "check_date:currency:XBT": "2023-01-08",
+                "contact:twitter": "@sfrrcr",
+                "currency:XBT": "yes",
+                "email": "sfrrcr@proton.me",
+                "name": "ARAN",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "tourism": "apartment",
+                "website": "https://linktr.ee/arancircle"
             }
         },
         {
@@ -728,6 +823,32 @@
         },
         {
             "type": "node",
+            "id": 10770516395,
+            "lat": 45.1225681,
+            "lon": 7.0593844,
+            "timestamp": "2023-04-13T03:29:07Z",
+            "version": 4,
+            "changeset": 134842705,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Meana di Susa",
+                "addr:housenumber": "1",
+                "addr:postcode": "10050",
+                "addr:street": "Via Gran Borgata",
+                "amenity": "restaurant",
+                "check_date:currency:XBT": "2023-03-29",
+                "cuisine": "regional;italian",
+                "currency:XBT": "yes",
+                "name": "La Betola D'L'uva Frola",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 339 8130502",
+                "website": "https://www.betolameana.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 10784287024,
             "lat": 45.0536968,
             "lon": 7.6925282,
@@ -749,6 +870,30 @@
                 "phone": "+39 3347171147",
                 "sport": "yoga",
                 "survey:date": "2023-05-08"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10784291696,
+            "lat": 44.8876553,
+            "lon": 7.3151591,
+            "timestamp": "2023-08-02T12:58:08Z",
+            "version": 3,
+            "changeset": 139346805,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Pinerolo",
+                "addr:housenumber": "37",
+                "addr:postcode": "10064",
+                "addr:street": "Via del Tiro a Segno",
+                "check_date": "2023-08-02",
+                "currency:XBT": "yes",
+                "description": "Vendita dettaglio di erbe alpine essiccate per liquori o tisane (Genep\u00ec, Arquebuse, Timo Serpillo).",
+                "email": "info@meizoun.it",
+                "name": "La Meizoun",
+                "shop": "farm",
+                "website": "https://www.meizoun.it"
             }
         },
         {
@@ -802,6 +947,29 @@
         },
         {
             "type": "node",
+            "id": 10840502365,
+            "lat": 44.8672378,
+            "lon": 7.2981676,
+            "timestamp": "2023-05-13T06:01:12Z",
+            "version": 4,
+            "changeset": 136041414,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "San Secondo di Pinerolo",
+                "addr:housenumber": "2",
+                "addr:postcode": "10060",
+                "addr:street": "Piazza Europa",
+                "amenity": "ice_cream",
+                "check_date:currency:XBT": "2023-05-13",
+                "currency:XBT": "yes",
+                "description": "Gelateria e caffetteria.",
+                "email": "sinoropi99@libero.it",
+                "name": "Piazza Europa"
+            }
+        },
+        {
+            "type": "node",
             "id": 10863690407,
             "lat": 45.0120479,
             "lon": 7.546123,
@@ -848,6 +1016,33 @@
                 "phone": "+39 3280542471",
                 "shop": "car_repair",
                 "website": "https://www.carrozzeriadonnadio.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11013684727,
+            "lat": 44.8855296,
+            "lon": 7.31315,
+            "timestamp": "2023-06-29T09:40:07Z",
+            "version": 1,
+            "changeset": 137910851,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Pinerolo",
+                "addr:housenumber": "37",
+                "addr:postcode": "10064",
+                "addr:street": "Via Nazionale",
+                "check_date": "2023-06-29",
+                "currency:XBT": "yes",
+                "description": "Vendita e assistenza tecnica su computer, centralini telefonici, Consulente privacy",
+                "name": "Neo Computer Shop",
+                "note": "Accetta Bitcoin per importi superiori ai 500\u20ac via on-chain",
+                "payment:lightning": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 0121377055",
+                "shop": "computer",
+                "website": "https://www.neocomputershop.biz/"
             }
         },
         {
@@ -950,14 +1145,38 @@
         },
         {
             "type": "node",
+            "id": 11267662527,
+            "lat": 44.6895793,
+            "lon": 7.8795567,
+            "timestamp": "2023-10-16T19:58:58Z",
+            "version": 1,
+            "changeset": 142682144,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Bra",
+                "addr:housenumber": "22",
+                "addr:street": "Strada Orti",
+                "addr:unit": "l",
+                "check_date": "2023-10-16",
+                "currency:XBT": "yes",
+                "name": "Residenza da Luisa",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 3668941251",
+                "tourism": "apartment"
+            }
+        },
+        {
+            "type": "node",
             "id": 11283291611,
             "lat": 45.0783053,
             "lon": 7.6700284,
-            "timestamp": "2023-10-23T10:43:18Z",
-            "version": 1,
-            "changeset": 143011564,
-            "user": "matg83",
-            "uid": 17375742,
+            "timestamp": "2024-07-24T16:34:20Z",
+            "version": 2,
+            "changeset": 154358896,
+            "user": "mauropili",
+            "uid": 1496865,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "51",
@@ -969,9 +1188,11 @@
                 "contact:email": "info@lamolepub.it",
                 "contact:mobile": "+393478639592",
                 "currency:XBT": "yes",
+                "description": "Storico pub torinese situato in centro, con interni in legno a forma di galeone. Offre un'ampia gamma di proposte culinarie, dai fritti agli hamburger, accompagnate da birre alla spina, cocktail e sport in TV. Dispone di oltre 12 birre internazionali alla",
                 "karaoke": "yes",
                 "name": "La Mole Pub",
-                "payment:lightning": "yes"
+                "payment:lightning": "yes",
+                "website": "https://lamolepub.plateform.app/"
             }
         },
         {
@@ -1003,6 +1224,34 @@
         },
         {
             "type": "node",
+            "id": 11374940695,
+            "lat": 45.0411591,
+            "lon": 7.3498786,
+            "timestamp": "2023-11-25T10:48:21Z",
+            "version": 2,
+            "changeset": 144436777,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Giaveno",
+                "addr:housenumber": "5",
+                "addr:postcode": "10094",
+                "addr:street": "Via Coazze",
+                "addr:unit": "b",
+                "check_date": "2023-11-25",
+                "currency:XBT": "yes",
+                "female": "yes",
+                "male": "yes",
+                "name": "ForYou di Claudio Mele",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0119376583",
+                "shop": "hairdresser"
+            }
+        },
+        {
+            "type": "node",
             "id": 11597627873,
             "lat": 44.9418264,
             "lon": 7.9377116,
@@ -1028,6 +1277,36 @@
                 "phone": "+39 0141 946747",
                 "shop": "herbalist",
                 "website": "https://www.denatura.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11665555284,
+            "lat": 44.7967359,
+            "lon": 7.9915516,
+            "timestamp": "2024-07-06T07:11:07Z",
+            "version": 3,
+            "changeset": 153612536,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Canale",
+                "addr:housenumber": "45",
+                "addr:postcode": "12043",
+                "addr:street": "Via Roma",
+                "address": "Via Roma 41, Canale (CN)",
+                "check_date": "2024-02-26",
+                "contact:email": "OfficinadelcomputerCN@gmail.com",
+                "contact:facebook": "https://www.facebook.com/OfficinaComputerCN",
+                "contact:phone": "3669806896",
+                "contact:website": "https://www.officinadelcomputer.net/",
+                "currency:XBT": "yes",
+                "description": "Riparazione e vendita Personal Computer e Smartphone. Assemblaggio PC da ufficio e gaming. Consulenza informatica su Bitcoin e criptovalute.",
+                "name": "Officina del Computer",
+                "opening_hours": "Tutti i pomeriggi dal marted\u00ec al sabato 15.30-19.30 Le mattine di marted\u00ec, gioved\u00ec e sabato 9.00-12.30 Chiuso domenica e luned\u00ec",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "shop": "computer"
             }
         },
         {
@@ -1062,6 +1341,33 @@
                 "phone": "+39 33 3792 8890",
                 "shop": "clothes",
                 "website": "https://www.intimodabygiustetto.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11753095210,
+            "lat": 45.4609447,
+            "lon": 7.7709235,
+            "timestamp": "2024-03-22T15:04:29Z",
+            "version": 2,
+            "changeset": 149017925,
+            "user": "Giorgio Minguzzi",
+            "uid": 21232339,
+            "tags": {
+                "addr:city": "Alice Superiore, TO",
+                "addr:housenumber": "15",
+                "addr:postcode": "10010",
+                "addr:street": "Via Prov. Valchiusella",
+                "amenity": "dentist",
+                "currency:XBT": "yes",
+                "healthcare": "dentist",
+                "healthcare:speciality": "general",
+                "name": "Studio Dentistico Valchiusella",
+                "opening_hours": "By appointment only.",
+                "operator": "Piergiacomo Drappero",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-03-22"
             }
         },
         {
@@ -1122,6 +1428,40 @@
         },
         {
             "type": "node",
+            "id": 11847907734,
+            "lat": 45.3236069,
+            "lon": 7.3972294,
+            "timestamp": "2024-07-05T20:01:57Z",
+            "version": 2,
+            "changeset": 153603052,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Ceres",
+                "addr:place": "Regione Goletto",
+                "addr:postcode": "10070",
+                "beds": "12",
+                "check_date": "2024-03-14",
+                "contact:website": "https://www.airbnb.it/rooms/35394232?guests=1&adults=1&s=67&unique_share_id=e5341d0b-347d-4bac-8c3b-ab51e0ee0829",
+                "currency:XBT": "yes",
+                "email": "laura&lucahome@gmail.com",
+                "guest_house": "bed_and_breakfast",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "mobile": "+39 348 2210779",
+                "name": "Laura&Luca Home",
+                "payment:cash": "yes",
+                "payment:cryptocurrencies": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:nfc": "yes",
+                "payment:paypal": "yes",
+                "rooms": "4",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
             "id": 11928356727,
             "lat": 45.0340051,
             "lon": 7.6485716,
@@ -1171,6 +1511,29 @@
         },
         {
             "type": "node",
+            "id": 11955642309,
+            "lat": 44.6458418,
+            "lon": 7.4961578,
+            "timestamp": "2024-07-05T20:03:29Z",
+            "version": 4,
+            "changeset": 153603115,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Saluzzo",
+                "addr:housenumber": "7",
+                "addr:street": "Via Savigliano",
+                "currency:XBT": "yes",
+                "name": "Non solo tabacchi",
+                "payment:onchain": "yes",
+                "phone": "+39 0175 45337",
+                "shop": "tobacco",
+                "survey:date": "2024-05-31",
+                "website": "https://www.nonsolotabacchi.com/"
+            }
+        },
+        {
+            "type": "node",
             "id": 11969129439,
             "lat": 45.0751067,
             "lon": 7.7249823,
@@ -1194,6 +1557,31 @@
                 "phone": "+39 01 1898 1063",
                 "shop": "wine",
                 "website": "https://vinologo.it/landing/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12044691485,
+            "lat": 44.862549,
+            "lon": 7.3014684,
+            "timestamp": "2024-07-09T21:40:53Z",
+            "version": 1,
+            "changeset": 153761412,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Pinerolo",
+                "addr:housenumber": "17/A",
+                "addr:postcode": "10060",
+                "addr:street": "Via Godino Delio",
+                "amenity": "restaurant",
+                "contact:instagram": "https://www.instagram.com/brace_steakhouse",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "description": "Steak House & Drinks",
+                "name": "Brace",
+                "phone": "+39 344 1567515",
+                "website": "https://www.chefmehdi.com/"
             }
         }
     ]
