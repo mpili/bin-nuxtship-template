@@ -8,8 +8,11 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['nuxt-icon', '@nuxtjs/robots', "nuxt3-leaflet"],
+  modules: ['nuxt-icon', '@nuxtjs/robots', "nuxt3-leaflet", "nuxt-gtag"],
   robots: {
     configPath: 'config/robots.js',
+  },
+  gtag: {
+    id: 'GTM-NJXDPR5Z',
   }
 });
