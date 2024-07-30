@@ -20,6 +20,12 @@ const carousel = [
     titolo: "Wallet",
     classe: "text-white",
   },
+  {
+    src: "/img/sections/merchandising.jpg",
+    url: "https://shop.bitcoinitalianetwork.com/en-eur/",
+    titolo: "Merchandising",
+    classe: "text-black",
+  },
 ];
 const indice = ref(1);
 indice.value = 0;
@@ -67,7 +73,7 @@ const prev = () => {
         </div>
 
         <div class="relative">
-          <img :src="carousel[indice].src" />
+          <NuxtImg :src="carousel[indice].src" />
         </div>
       </NuxtLink>
     </div>

@@ -9,7 +9,7 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
     <NuxtLink :to="'/hw/' + data.id" class="text-blue-600">
       <div class="flex">
         <div class="m-2">
-          <img
+          <NuxtImg
             :src="
               'https://bin-dev.pockethost.io/api/files/hardwarewallet/' +
               data.id +
