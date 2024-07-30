@@ -10,10 +10,8 @@ defineProps(["dove"]);
 			<h4 class="text-lg font-medium text-gray-400">{{ dove.nome }}</h4>
 			<div>
 				<a :href="dove.url" target="_blank">
-					<img
+					<NuxtImg
 						:src="dove.img"
-						:width="580"
-						:height="580"
 						format="avif"
 						alt="dove"
 						class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"

@@ -10,12 +10,9 @@ defineProps(["podc"]);
 			<NuxtLink :to="podc.url" >
 				<h4 class="text-lg font-medium text-gray-400">{{ podc.nome }}</h4>
 				<div>
-					<img
+					<NuxtImg
 					:src="podc.img"
-					:width="580"
-					:height="580"
 					format="avif"
-					alt="dove"
 					class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
 				/>
 				</div>

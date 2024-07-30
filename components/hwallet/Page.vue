@@ -23,7 +23,7 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
     <LandingBreadcrumb :voci="breadcrumb" />
 
     <div class="m-8">
-      <img
+      <NuxtImg
         :src="
           'https://bin-dev.pockethost.io/api/files/hardwarewallet/' +
           props.hwallet.id +

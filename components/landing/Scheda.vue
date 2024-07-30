@@ -20,10 +20,8 @@ export default {
   <NuxtLink :href="url" styleName="inverted">
     <div class="border-2 border-[#D8DEE9] border-opacity-50 rounded-md p-4">
       <div>
-        <img
+        <NuxtImg
           :src="img"
-          :width="580"
-          :height="580"
           format="avif"
           alt="dove"
           class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
