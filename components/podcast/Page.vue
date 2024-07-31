@@ -27,7 +27,7 @@ const breadcrumb = computed(() => [
       <div class="flex-none w-48 relative">
         <NuxtImg
           :src="podc.img"
-          format="avif"
+          format="webp"
           class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
         />
       </div>

@@ -73,7 +73,10 @@ const prev = () => {
         </div>
 
         <div class="relative">
-          <NuxtImg :src="carousel[indice].src" />
+          <NuxtImg
+            :src="carousel[indice].src"
+            format="webp"
+          />
         </div>
       </NuxtLink>
     </div>

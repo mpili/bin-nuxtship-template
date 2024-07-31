@@ -1,5 +1,5 @@
 export default [
 	{ UserAgent: '*' },
-	{ Disallow: '/' },
+	{ Allow: '/' },
 	// Be aware that this will NOT work on target: 'static' mode
 ]

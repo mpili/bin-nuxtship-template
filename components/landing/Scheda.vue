@@ -22,7 +22,7 @@ export default {
       <div>
         <NuxtImg
           :src="img"
-          format="avif"
+          format="webp"
           alt="dove"
           class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
         />
