@@ -7,7 +7,12 @@ defineProps(["data"]);
 		<div class="relative flex-col bg-clip-border rounded-xl bg-transparent text-gray-700 shadow-none grid gap-2 item sm:grid-cols-2">
 			<div class="relative bg-clip-border rounded-xl overflow-hidden bg-white text-gray-700 shadow-lg m-0">
 				<a :href="data.url" target="_blank">
-					<NuxtImg :src="'/img/libri/'+data.id+'.jpg'" alt="copertina" class="object-cover w-full h-full" />
+					<NuxtImg
+						:src="'/img/libri/'+data.id+'.jpg'"
+						alt="copertina"
+						class="object-cover w-full h-full"
+						format="webp"
+					/>
 				</a>
 			</div>
 			<a :href="data.url" target="_blank">

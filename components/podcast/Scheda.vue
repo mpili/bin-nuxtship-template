@@ -12,7 +12,7 @@ defineProps(["podc"]);
 				<div>
 					<NuxtImg
 					:src="podc.img"
-					format="avif"
+					format="webp"
 					class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
 				/>
 				</div>

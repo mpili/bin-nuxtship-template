@@ -10,11 +10,11 @@ defineProps(["store"]);
 			<h4 class="text-lg font-medium text-gray-400">{{ store.nome }}</h4>
 			<div>
 				<NuxtImg
-				:src="store.img"
-				format="avif"
-				alt="Team"
-				class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
-			/>
+					:src="store.img"
+					format="webp"
+					alt="Team"
+					class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
+				/>
 			</div>
 			<div class="flex mt-8">
 				<LandingLink

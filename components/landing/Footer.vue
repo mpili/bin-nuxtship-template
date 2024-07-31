@@ -29,16 +29,20 @@ const vocimenu = [
         path: "/impara",
       },
       {
+        titolo: "Libri",
+        path: "/libriamazon",
+      },
+      {
         titolo: "Documenti",
         path: "/documentazione",
       },
       {
-        titolo: "Hardware Wallet",
-        path: "/hwallet",
-      },
-      {
         titolo: "Wallet",
         path: "/wallet",
+      },
+      {
+        titolo: "Hardware Wallet",
+        path: "/hwallet",
       },
     ],
   },

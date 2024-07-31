@@ -60,4 +60,5 @@ const breadcrumb = computed(() => [
 		</div>
 	</div>
 	<ComunitaPoislist :data="data" />
+	<LandingLinkcontattaci />
 </template>

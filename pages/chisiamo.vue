@@ -5,7 +5,6 @@ definePageMeta({
   layout: "landing",
 });
 
-
 const team = [
   {
     name: "Alessandro",
@@ -76,12 +75,30 @@ const team = [
       <h2 class="font-bold text-3xl text-gray-800">
         BIN Bitcoin Italia Network.
       </h2>
-      <p class="text-lg leading-relaxed text-slate-500">
-        Siamo un team multiculturale europeo 
-        proveniente da diverse parti d'Italia,
-        da contesti diversi, con esperienze e competenze uniche nel nostro lavoro.
-        È questo che rende il nostro team così speciale.
-      </p>
+      <div class="text-lg leading-relaxed text-slate-500">
+        <p class="my-4">
+          Bitcoin Italia Network nasce dall'idea di un gruppo di appassionati di
+          Bitcoin con l’obiettivo di creare una rete sul territorio italiano per
+          divulgare, supportare e promuovere l’interesse e le competenze
+          riguardanti tematiche e servizi legati a Bitcoin.
+        </p>
+        <p class="my-4">
+          L'iniziativa mira a fornire una piattaforma per la condivisione di
+          conoscenze, esperienze e risorse, facilitando l'accesso alle
+          informazioni e agli strumenti necessari per comprendere e utilizzare
+          Bitcoin in modo efficace.
+        </p>
+        <p class="my-4">
+          Attraverso eventi, workshop e attività di formazione, Bitcoin Italia
+          Network si propone di rafforzare la comunità italiana di Bitcoin,
+          favorendo adozione e innovazione dell'ecosistema Bitcoin italiano.
+        </p>
+        <p>
+          Siamo un team multiculturale europeo proveniente da diverse parti
+          d'Italia, da contesti diversi, con esperienze e competenze specifiche
+          nel nostro lavoro.
+        </p>
+      </div>
     </div>
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
       <div v-for="item of team" class="group">
