@@ -1,13 +1,12 @@
 {
-    "id": "bb-forl\u00ec-cesena",
-    "name": "Bitcoin Beer Forl\u00ec Cesena",
-    "lng": 44.1844464,
-    "lat": 12.135094,
-    "localita": "Forl\u00ec Cesena",
-    "telegram_weburl": "https://web.telegram.org/a/#-1001430338961",
-    "telegram_app": "https://t.me/bitcoinforlicesena",
-    "telegram_members": 21.0,
-    "network": "bitcoinbeer",
+    "id": "pb-ravenna",
+    "name": "Piada Bitcoin Ravenna",
+    "lng": 44.38993,
+    "lat": 12.22159,
+    "localita": "Ravenna",
+    "telegram_weburl": "https://web.telegram.org/a/#-1001933240725",
+    "telegram_app": "https://t.me/piadabitcoin",
+    "telegram_members": 96.0,
     "poi": [
         {
             "type": "node",
@@ -172,37 +171,6 @@
                 "name": "Mondo Convenienza",
                 "shop": "furniture",
                 "website": "https://www.mondoconv.it/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2718191192,
-            "lat": 44.0290234,
-            "lon": 12.6232892,
-            "timestamp": "2024-06-18T07:27:56Z",
-            "version": 2,
-            "changeset": 152834032,
-            "user": "Aluminum0173",
-            "uid": 16035231,
-            "tags": {
-                "addr:city": "Rimini",
-                "addr:country": "IT",
-                "addr:housenumber": "5",
-                "addr:postcode": "47924",
-                "addr:street": "Viale Brescia",
-                "contact:facebook": "HotelEliseoMiramare",
-                "contact:whatsapp": "+39 333 858 2258",
-                "currency:XBT": "yes",
-                "description": "E se volete fare un tuffo nel passato... il mare dista solo 150mt!",
-                "email": "eliseomiramare@gmail.com",
-                "name": "Hotel Eliseo",
-                "payment:lightning": "no",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "+39 333 858 2258",
-                "survey:date": "2023-07-26",
-                "tourism": "hotel",
-                "website": "https://www.hoteleliseorimini.it"
             }
         },
         {
@@ -456,28 +424,6 @@
                 "phone": "+39335390405",
                 "survey:date": "2022-11-06",
                 "website": "https://www.fantinelligabriele.it/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10253175451,
-            "lat": 44.4003562,
-            "lon": 11.5885832,
-            "timestamp": "2024-01-17T00:26:52Z",
-            "version": 3,
-            "changeset": 146342972,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
-            "tags": {
-                "addr:city": "Castel San Pietro Terme",
-                "addr:housenumber": "4",
-                "addr:postcode": "40024",
-                "addr:street": "Via Fratelli Cervi",
-                "check_date": "2023-04-26",
-                "currency:XBT": "yes",
-                "name": "Studio Gualandi Di Gualandi Alessandra",
-                "office": "consulting",
-                "phone": "+390516958704"
             }
         },
         {

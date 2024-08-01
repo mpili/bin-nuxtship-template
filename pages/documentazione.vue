@@ -27,6 +27,10 @@ const risorseDocumentazione = [
     nome: "Corsi PlanB Network",
     url: "https://planb.network/it/courses",
   },  
+  {
+    nome: "Risorse Bitcoin in italiano by Tuma",
+    url: "https://tumabitcoiner.github.io/risorse.html",
+  }, 
 ];
 </script>
 

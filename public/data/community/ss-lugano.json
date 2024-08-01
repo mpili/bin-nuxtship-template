@@ -6,7 +6,7 @@
     "localita": "Lugano",
     "telegram_weburl": "https://web.telegram.org/a/#-1001928361933",
     "telegram_app": "https://t.me/SatoshiSpritzLugano",
-    "telegram_members": 431.0,
+    "telegram_members": 444.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -336,28 +336,6 @@
                 "name": "Bar Apollo",
                 "payment:lightning": "yes",
                 "payment:onchain": "no"
-            }
-        },
-        {
-            "type": "node",
-            "id": 373427918,
-            "lat": 46.0035284,
-            "lon": 8.9511268,
-            "timestamp": "2023-06-17T17:05:54Z",
-            "version": 6,
-            "changeset": 137454975,
-            "user": "saunter",
-            "uid": 10396321,
-            "tags": {
-                "check_date:currency:XBT": "2023-05-17",
-                "currency:XBT": "yes",
-                "information": "office",
-                "name": "Ente Turistico del Luganese - Lugano",
-                "payment:lightning": "yes",
-                "payment:onchain": "no",
-                "phone": "+41588666600",
-                "tourism": "information",
-                "website": "http://www.luganoturismo.ch/"
             }
         },
         {
@@ -5708,26 +5686,6 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "no",
                 "shop": "tobacco"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11522524484,
-            "lat": 46.0032975,
-            "lon": 8.9514992,
-            "timestamp": "2024-01-16T17:51:55Z",
-            "version": 1,
-            "changeset": 146333051,
-            "user": "saunter",
-            "uid": 10396321,
-            "tags": {
-                "check_date:currency:XBT": "2024-01-16",
-                "currency:XBT": "yes",
-                "information": "office",
-                "name": "Ente Turistico del Luganese Lugano Region",
-                "payment:lightning": "yes",
-                "payment:onchain": "no",
-                "tourism": "information"
             }
         },
         {

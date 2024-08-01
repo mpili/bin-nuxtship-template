@@ -363,6 +363,6 @@ const social = [
       <span class="text-gray-300 text-sm">{{ data.tags["survey:date"] }}</span>
     </div>
   </div>
-  <LandingLinkcontattaci />
+  <LandingDisclaimer />
 
 </template>
