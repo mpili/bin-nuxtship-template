@@ -15,7 +15,7 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
 </script>
 
 <template>
-  <div>
+  <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>{{ props.hwallet.nome }}</template>
       <template v-slot:desc>Hardware wallet</template>
@@ -23,14 +23,13 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
     <LandingBreadcrumb :voci="breadcrumb" />
 
     <div class="m-8">
-      <NuxtImg
+      <img
         :src="
           'https://bin-dev.pockethost.io/api/files/hardwarewallet/' +
           props.hwallet.id +
           '/' +
           props.hwallet.featuredImage
         "
-        alt="copertina"
         class="transition-transform transform hover:scale-125"
         width="128"
       />
@@ -49,5 +48,5 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
       <div v-html="hwallet.descrizione" class="pt-4">
       </div>
     </div>
-  </div>
+  </LandingContainer>
 </template>
