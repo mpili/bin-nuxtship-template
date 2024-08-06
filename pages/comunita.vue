@@ -24,6 +24,6 @@ const zoom = ref(6)
 			layer-type="base"
 			name="OpenStreetMap"
 		/>
-		<ComunitaLmapois/>
+		<LocalitaLmapoislocalita />
 	</LMap>
   </template>

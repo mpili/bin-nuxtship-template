@@ -6,7 +6,7 @@
     "localita": "Reggio Emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 126.0,
+    "telegram_members": 128.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -596,6 +596,25 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/bancomat-bitcoin-Mirandola"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12092237702,
+            "lat": 44.4842843,
+            "lon": 11.0221059,
+            "timestamp": "2024-08-04T18:01:56Z",
+            "version": 1,
+            "changeset": 154824317,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Vignola",
+                "addr:housenumber": "5",
+                "addr:street": "Via Livello",
+                "amenity": "restaurant",
+                "currency:XBT": "yes",
+                "name": "I Gatti Neri"
             }
         }
     ]

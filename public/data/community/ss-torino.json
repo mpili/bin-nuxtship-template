@@ -6,7 +6,7 @@
     "localita": "Torino",
     "telegram_weburl": "https://web.telegram.org/a/#-1001385365071",
     "telegram_app": "https://t.me/SatoshiSpritzTorino",
-    "telegram_members": 556.0,
+    "telegram_members": 555.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1564,11 +1564,11 @@
             "id": 12044691485,
             "lat": 44.862549,
             "lon": 7.3014684,
-            "timestamp": "2024-07-09T21:40:53Z",
-            "version": 1,
-            "changeset": 153761412,
-            "user": "mauropili",
-            "uid": 1496865,
+            "timestamp": "2024-08-01T20:09:18Z",
+            "version": 2,
+            "changeset": 154709713,
+            "user": "Rockedf",
+            "uid": 7522075,
             "tags": {
                 "addr:city": "Pinerolo",
                 "addr:housenumber": "17/A",
@@ -1580,6 +1580,9 @@
                 "currency:XBT": "yes",
                 "description": "Steak House & Drinks",
                 "name": "Brace",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
                 "phone": "+39 344 1567515",
                 "website": "https://www.chefmehdi.com/"
             }

@@ -6,7 +6,7 @@
     "localita": "Bologna",
     "telegram_weburl": "https://web.telegram.org/a/#-1001072838404",
     "telegram_app": "https://t.me/bitcoinbeerbologna",
-    "telegram_members": 205.0,
+    "telegram_members": 204.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1449,6 +1449,25 @@
                 "payment:onchain": "yes",
                 "phone": "+39 05 1632 5826",
                 "website": "https://www.musicstation.top/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12092237702,
+            "lat": 44.4842843,
+            "lon": 11.0221059,
+            "timestamp": "2024-08-04T18:01:56Z",
+            "version": 1,
+            "changeset": 154824317,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Vignola",
+                "addr:housenumber": "5",
+                "addr:street": "Via Livello",
+                "amenity": "restaurant",
+                "currency:XBT": "yes",
+                "name": "I Gatti Neri"
             }
         }
     ]
