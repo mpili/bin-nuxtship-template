@@ -36,7 +36,7 @@ const breadcrumb = computed(() => [
 		</LMap>
 	</div>
 	
-	<LocalitaSocial :data="data" />
+	<LocalitaMeetup :data="data" />
 	<ComunitaPoislist :data="data" />
 	<LandingDisclaimer />
 </template>

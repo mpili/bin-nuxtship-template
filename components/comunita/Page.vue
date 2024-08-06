@@ -38,24 +38,27 @@ const breadcrumb = computed(() => [
 	
 	<ComunitaEventi :idcomunita="data.id" />
 
-	<div class="pt-6 pb-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
+	<div class="py-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
 		<div class="divide-y divide-gray-300/50">
-			<div class="flex flex-row align-items-center py-4 px-8 py-2">
-				<Icon name="logos:telegram" size="24" class="mr-2" />
-				<span>Telegram</span>
+			<div class="flex">
+				<div class="flex flex-row align-items-center px-8 py-2">
+					<Icon name="logos:telegram" size="24" class="mr-2" />
+					<span>Telegram</span>
+				</div>
+				<div v-if="data.telegram_members" class="flex flex-row align-items-center px-8 py-2">
+					<span class="text-gray-400">members: </span>{{data.telegram_members}}
+				</div>
 			</div>
 			<div class="py-2 px-8">
-				<ul class="space-y-4">
-					<li v-if="data.telegram_members">
-						<span class="text-gray-400">members: </span>{{data.telegram_members}}
-					</li>
-					<li v-if="data.telegram_app">
+				<div class="flex gap-4">
+
+					<div v-if="data.telegram_app">
 						<ComunitaButton :href="data.telegram_app" :icona="'fa6-solid:mobile-screen'" :testo="'app'" />
-					</li>
-					<li v-if="data.telegram_weburl">
+					</div>
+					<div v-if="data.telegram_weburl">
 						<ComunitaButton :href="data.telegram_weburl" :icona="'mdi:web'" :testo="'web'" />
-					</li>
-				</ul>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
