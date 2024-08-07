@@ -1676,11 +1676,11 @@
             "id": 12086793785,
             "lat": 45.8894595,
             "lon": 11.0433693,
-            "timestamp": "2024-08-01T09:18:41Z",
-            "version": 2,
-            "changeset": 154683962,
-            "user": "bitcoin valley",
-            "uid": 21807520,
+            "timestamp": "2024-08-04T12:12:06Z",
+            "version": 3,
+            "changeset": 154809509,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "addr:city": "Rovereto",
                 "addr:housenumber": "24",
@@ -1692,11 +1692,11 @@
                 "name": "Cherry",
                 "opening_hours": "12:00-22:30",
                 "outdoor_seating": "yes",
-                "payment:bitcoin": "yes",
+                "payment:XBT:operator": "Bitcoinpos.it",
                 "payment:lightning": "yes",
-                "payment:xbt:operator": "Bitcoinpos.it",
                 "phone": "+39 335 834 2500"
             }
         }
-    ]
+    ],
+    "telegram": []
 }

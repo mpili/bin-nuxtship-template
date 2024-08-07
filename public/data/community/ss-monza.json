@@ -6,7 +6,7 @@
     "localita": "Monza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001787972363",
     "telegram_app": "https://t.me/SatoshiSpritzMonza",
-    "telegram_members": 41.0,
+    "telegram_members": 42.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -2090,35 +2090,6 @@
         },
         {
             "type": "node",
-            "id": 10275645027,
-            "lat": 45.6103183,
-            "lon": 9.089132,
-            "timestamp": "2023-06-04T23:07:17Z",
-            "version": 3,
-            "changeset": 136950126,
-            "user": "paulbrunner",
-            "uid": 15541433,
-            "tags": {
-                "addr:city": "Solaro",
-                "addr:housenumber": "3",
-                "addr:postcode": "20033",
-                "addr:street": "Via della Repubblica",
-                "amenity": "restaurant",
-                "check_date": "2022-12-20",
-                "contact:facebook": "https://www.facebook.com/people/Pizzeria-da-MIKE/100063618574875/",
-                "cuisine": "pizza",
-                "currency:XBT": "yes",
-                "name": "Pizzeria da MIKE",
-                "opening_hours": "Tu-Sa 11:30-13:00,18:30-21:00",
-                "payment:cash": "yes",
-                "payment:lightning": "yes",
-                "payment:onchain": "yes",
-                "phone": "+393395776396",
-                "website": "https://pizzeria-da-mike.business.site/"
-            }
-        },
-        {
-            "type": "node",
             "id": 10296649679,
             "lat": 45.4642318,
             "lon": 9.1892532,
@@ -3535,5 +3506,6 @@
                 "website": "https://animal-food.it/"
             }
         }
-    ]
+    ],
+    "telegram": []
 }

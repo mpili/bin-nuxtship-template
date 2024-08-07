@@ -1,0 +1,84 @@
+{
+    "id": "bardonecchia",
+    "name": "Bardonecchia",
+    "lng": 45.07462,
+    "lat": 6.69888,
+    "poi": [
+        {
+            "type": "node",
+            "id": 10112074739,
+            "lat": 45.453093,
+            "lon": 6.6927757,
+            "timestamp": "2024-05-20T21:37:55Z",
+            "version": 2,
+            "changeset": 151601385,
+            "user": "benoitdd",
+            "uid": 1205555,
+            "tags": {
+                "addr:housenumber": "114",
+                "currency:XBT": "yes",
+                "name": "Lau et Shanna",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "survey:date": "2022-10-10",
+                "tourism": "guest_house",
+                "website": "https://www.airbnb.com/rooms/53776033?guests=1&adults=1&s=67&unique_share_id=c8437ef3-7942-44ea-b6f4-19d12a32498d&source_impression_id=p3_1666120091_UISqI21znI92EkVe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10770516395,
+            "lat": 45.1225681,
+            "lon": 7.0593844,
+            "timestamp": "2023-04-13T03:29:07Z",
+            "version": 4,
+            "changeset": 134842705,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Meana di Susa",
+                "addr:housenumber": "1",
+                "addr:postcode": "10050",
+                "addr:street": "Via Gran Borgata",
+                "amenity": "restaurant",
+                "check_date:currency:XBT": "2023-03-29",
+                "cuisine": "regional;italian",
+                "currency:XBT": "yes",
+                "name": "La Betola D'L'uva Frola",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 339 8130502",
+                "website": "https://www.betolameana.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11350687787,
+            "lat": 45.0342243,
+            "lon": 6.8358044,
+            "timestamp": "2024-02-18T08:38:36Z",
+            "version": 2,
+            "changeset": 147599052,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Oulx",
+                "addr:housenumber": "25",
+                "addr:postcode": "10056",
+                "addr:street": "Via Roma",
+                "check_date": "2023-11-15",
+                "currency:XBT": "yes",
+                "healthcare": "physiotherapist",
+                "healthcare:speciality": "osteopathy;applied_kinesiology;naturopathy;ginnastica_posturale;posturologia;bendaggio_funzionale;preparazione_atletica;rieducazione_post_infortunio",
+                "name": "Rieduka",
+                "phone": "+390122881204"
+            }
+        }
+    ],
+    "telegram": [
+        {
+            "telegram": "ss-bardonecchia"
+        }
+    ]
+}

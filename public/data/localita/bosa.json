@@ -1,0 +1,67 @@
+{
+    "id": "bosa",
+    "name": "Bosa",
+    "lng": 40.29857,
+    "lat": 8.49247,
+    "poi": [
+        {
+            "type": "node",
+            "id": 2422699726,
+            "lat": 40.7155919,
+            "lon": 8.5835674,
+            "timestamp": "2024-07-20T20:35:17Z",
+            "version": 9,
+            "changeset": 154195138,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "2",
+                "addr:postcode": "07100",
+                "addr:street": "Via Nenni",
+                "check_date": "2024-03-12",
+                "contact:facebook": "https://www.facebook.com/hotelmarini",
+                "currency:XBT": "yes",
+                "description": "Hote, ristorante, centro congressi, parcheggio.",
+                "email": "info@hotelmarini.com",
+                "name": "Hotel Marini",
+                "phone": "+39 079 277282",
+                "tourism": "hotel",
+                "website": "http://www.hotelmarini.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10106351131,
+            "lat": 40.0229753,
+            "lon": 8.414785,
+            "timestamp": "2024-07-07T17:29:42Z",
+            "version": 3,
+            "changeset": 153671835,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Putzu Idu",
+                "addr:postcode": "09070",
+                "addr:street": "Lungomare Sa Punt'e S'Incudine",
+                "currency:XBT": "yes",
+                "name": "Nature Resort by Ginepro & Co.",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393474424153",
+                "survey:date": "2022-11-03",
+                "tourism": "hotel",
+                "website": "https://nature-resort.ginepro.co/"
+            }
+        }
+    ],
+    "telegram": [
+        {
+            "telegram": "b-is-for-bosa"
+        },
+        {
+            "telegram": "bitcoin-hub-bosa"
+        }
+    ]
+}

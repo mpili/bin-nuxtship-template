@@ -1,12 +1,8 @@
 {
-    "id": "bb-romagna",
-    "name": "Bitcoin Beer Romagna",
-    "lng": 44.4185898,
-    "lat": 12.2011731,
-    "localita": "Romagna",
-    "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinomagnahub",
-    "telegram_app": "https://t.me/bitcoinomagnahub",
-    "network": "bitcoinbeer",
+    "id": "ravenna",
+    "name": "Ravenna",
+    "lng": 44.38993,
+    "lat": 12.22159,
     "poi": [
         {
             "type": "node",
@@ -119,6 +115,58 @@
                 "phone": "+39 3423284951",
                 "source:wheelchair": "survey",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2718136968,
+            "lat": 44.039718,
+            "lon": 12.5874819,
+            "timestamp": "2023-05-12T22:49:20Z",
+            "version": 4,
+            "changeset": 136036867,
+            "user": "saunter",
+            "uid": 10396321,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "20",
+                "addr:postcode": "47924",
+                "addr:street": "Via Caduti di Nassiriya",
+                "check_date:currency:XBT": "2023-05-13",
+                "clothes": "men",
+                "currency:XBT": "yes",
+                "name": "Nuvolari c.c. Le Befane",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "05411491632",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2718150316,
+            "lat": 44.0420988,
+            "lon": 12.5654896,
+            "timestamp": "2023-07-31T14:23:33Z",
+            "version": 3,
+            "changeset": 139256906,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "28",
+                "addr:postcode": "47924",
+                "addr:street": "Via Pomposa",
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture",
+                "website": "https://www.mondoconv.it/"
             }
         },
         {
@@ -376,28 +424,6 @@
         },
         {
             "type": "node",
-            "id": 10253175451,
-            "lat": 44.4003562,
-            "lon": 11.5885832,
-            "timestamp": "2024-01-17T00:26:52Z",
-            "version": 3,
-            "changeset": 146342972,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
-            "tags": {
-                "addr:city": "Castel San Pietro Terme",
-                "addr:housenumber": "4",
-                "addr:postcode": "40024",
-                "addr:street": "Via Fratelli Cervi",
-                "check_date": "2023-04-26",
-                "currency:XBT": "yes",
-                "name": "Studio Gualandi Di Gualandi Alessandra",
-                "office": "consulting",
-                "phone": "+390516958704"
-            }
-        },
-        {
-            "type": "node",
             "id": 10648841302,
             "lat": 44.2428018,
             "lon": 12.3648022,
@@ -503,6 +529,11 @@
                 "phone": "+39 32 8448 2538",
                 "website": "https://www.doctoramen.it/"
             }
+        }
+    ],
+    "telegram": [
+        {
+            "telegram": "pb-ravenna"
         }
     ]
 }
