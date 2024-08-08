@@ -18,7 +18,7 @@ export default {
           <NuxtLink
             href="/"
             to="/"><Icon name="ic:sharp-home" size="24" color="#bbb" /></NuxtLink>
-          <span class="mx-2 text-gray-400">/</span>
+          <span class="text-gray-400">/</span>
         </li>
         <li v-for="voce of voci" class="flex items-center">
           <NuxtLink v-if="voce.path"
@@ -27,8 +27,8 @@ export default {
             class="text-gray-400 hover:text-blue-400 transition-colors duration-300"
             >{{voce.label}}</NuxtLink
           >
-          <span v-else class="text-gray-800">{{voce.label}}</span>
-          <span  v-if="voce.path" class="mx-2 text-gray-400">/</span>
+          <span v-else-if="voce.label" class="text-gray-800">{{voce.label}}</span>
+          <span v-if="voce.path" class="text-gray-400 ml-1">/</span>
         </li>
       </ol>
     </nav>
