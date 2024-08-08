@@ -8,7 +8,7 @@ const breadcrumb = computed(() => [
   },
   {
     label: props.data.network,
-    path: "/meetup/"+props.data.network,
+    path: props.data.network ? "/meetup/"+props.data.network : null,
   },
   {
     label: props.data.name,

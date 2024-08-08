@@ -141,74 +141,20 @@ const social = [
           data.tags["contact:postcode"]
         }}</span>
         &nbsp;
-        <span v-if="data.tags['addr:city']">{{ data.tags["addr:city"] }}</span>
-        <span v-else-if="data.tags['contact:city']">{{
-          data.tags["contact:city"]
-        }}</span>
-        <span v-if="data.tags['addr:province']">
-          ({{ data.tags["addr:province"] }})</span
-        >
+        <span v-if="data.tags['addr:city']">
+          <OsnTaglink tag="addr:city" :valore="data.tags['addr:city']" >
+            <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
+          </OsnTaglink>
+        </span>
+        <span v-else-if="data.tags['contact:city']">
+          <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']" >
+            <template v-slot:testo>{{ data.tags["contact:city"] }}</template>
+          </OsnTaglink>
+        </span>
+        <span v-if="data.tags['addr:province']">({{ data.tags["addr:province"] }})</span>
       </p>
     </div>
 
-    <div
-      class="relative inline-block bg-white p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
-    >
-      <div class="pl-4 p-1 text-gray-600 text-sm">maps</div>
-      <div class="flex flex-wrap">
-        <div class="border">
-          <div class="text-center text-gray-400 text-sm">google</div>
-          <div class="flex">
-            <OsnGmaplink
-              etichetta="posizione"
-              :url="
-                'https://maps.google.com/maps?z=12&t=m&q=loc:' +
-                data.lat +
-                '+' +
-                data.lon
-              "
-              :icona="'material-symbols:location-on'"
-            />
-            <OsnGmaplink
-              etichetta="streetview"
-              :url="
-                'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +
-                data.lat +
-                ',' +
-                data.lon
-              "
-              :icona="'material-symbols:streetview'"
-            />
-            <OsnGmaplink
-              etichetta="direzioni"
-              :url="
-                'https://maps.google.com/maps?daddr=(' +
-                data.lat +
-                ',' +
-                data.lon +
-                ')'
-              "
-              :icona="'material-symbols:directions'"
-            />
-          </div>
-        </div>
-
-        <div class="border">
-          <div class="text-center text-gray-400 text-sm">bing</div>
-          <OsnGmaplink
-            etichetta="posizione"
-            :url="
-              'https://www.bing.com/maps?cp=' +
-              data.lat +
-              '~' +
-              data.lon +
-              '&lvl=20'
-            "
-            :icona="'tabler:brand-bing'"
-          />
-        </div>
-      </div>
-    </div>
   </div>
   <OsnTag
     icona="clarity:mobile-line"
@@ -319,6 +265,8 @@ const social = [
 
 
   <OsnMap :data="data" />
+
+  <OsnXmaps :data="data" />
 
   <div class="flex gap-2 py-2">
     <a

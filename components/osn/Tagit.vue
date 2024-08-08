@@ -1,6 +1,4 @@
 <script>
-import osmTagTranslations from "~/assets/data/osm-tag-translations_it.json";
-
 export default {
   props: {
     icona: {
@@ -19,24 +17,21 @@ export default {
       required: true,
     },
   },
-  methods: {
-    getTraduciTagit(tag, value) {
-      const tagKey = "tag:" + tag + (value ? "=" + value : "");
-      const translation = osmTagTranslations[tagKey];
-      return translation?.message || value; // Fallback to tagKey if not found
-    },
-  },
 };
 </script>
 
 <template>
   <div v-if="tags[tag]">
-    <div class="flex items-center gap-1 my-2">
-      <Icon v-if="icona" :name="icona" size="16" color="gray" />
-      <span class="text-gray-400 w-48">{{ etichetta }}&nbsp;</span>
-      <span class="text-gray-800">{{
-        getTraduciTagit(tag, tags[tag])
-      }}</span>
-    </div>
+    <OsnTaglink :tag="tag" :valore="tags[tag]" >
+      <template v-slot:testo>
+      <div class="flex items-center gap-1 my-2">
+        <Icon v-if="icona" :name="icona" size="16" color="gray" />
+        <span class="text-gray-400 w-48">{{ etichetta }}&nbsp;</span>
+        <span class="text-gray-800">
+          <OsnTraducitag :tag="tag" :value="tags[tag]" />
+        </span>
+      </div>
+    </template>
+    </OsnTaglink>
   </div>
 </template>
