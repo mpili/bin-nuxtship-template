@@ -156,33 +156,33 @@ const social = [
     </div>
 
   </div>
-  <OsnTag
+  <OsnTag v-if="data.tags['contact:mobile']"
     icona="clarity:mobile-line"
     etichetta="Cell"
     :testo="data.tags['contact:mobile']"
   />
-  <OsnTag
+  <OsnTag v-if="data.tags['mobile']"
     icona="clarity:mobile-line"
     etichetta="Cell"
     :testo="data.tags['mobile']"
   />
-  <OsnTag
+  <OsnTag v-if="data.tags['phone:mobile']"
     icona="ic:baseline-phone-iphone"
     etichetta="Cell"
     :testo="data.tags['phone:mobile']"
   />
-  <OsnTag
+  <OsnTag v-if="data.tags['contact:phone']"
     icona="material-symbols:call"
     etichetta="Telefono"
     :testo="data.tags['contact:phone']"
   />
-  <OsnTag
+  <OsnTag v-if="data.tags.phone"
     icona="material-symbols:call"
     etichetta="Telefono"
     :testo="data.tags.phone"
   />
 
-  <OsnTagyesno
+  <OsnTagyesno v-if="data.tags.wheelchair"
     icona="ph:wheelchair-light"
     etichetta="Sedie a rotelle"
     :testo="data.tags.wheelchair"
@@ -196,41 +196,41 @@ const social = [
     :tags="data.tags"
   />
 
-  <OsnTagyesno
+  <OsnTagyesno v-if="data.tags['outdoor_seating']"
     icona="ph:sun-bold"
     etichetta="Posti all'aperto"
     :testo="data.tags['outdoor_seating']"
   />
 
-  <OsnTag
+  <OsnTag v-if="data.tags.brand"
     icona="tabler:brand-pagekit"
     etichetta="Brand"
     :testo="data.tags.brand"
   />
 
-  <OsnTag
+  <OsnTag v-if="data.tags.operator"
     icona="guidance:office-pod"
     etichetta="Conduttore"
     :testo="data.tags.operator"
   />
 
-  <OsnTagyesno
+  <OsnTagyesno v-if="data.tags['payment:lightning']"
     icona="ph:lightning"
     etichetta="Pagamento con lightning"
     :testo="data.tags['payment:lightning']"
   />
-  <OsnTagyesno
+  <OsnTagyesno v-if="data.tags['payment:lightning_contactless']"
     icona="ph:lightning"
     etichetta="Lightning contactless"
     :testo="data.tags['payment:lightning_contactless']"
   />
-  <OsnTagyesno
+  <OsnTagyesno v-if="data.tags['payment:onchain']"
     icona="akar-icons:link-chain"
     etichetta="Pagamento on-chain"
     :testo="data.tags['payment:onchain']"
   />
 
-  <OsnTag
+  <OsnTag v-if="data.tags['opening_hours']"
     icona="material-symbols:nest-clock-farsight-analog-outline"
     etichetta="orari apertura"
     :testo="data.tags['opening_hours']"
@@ -239,16 +239,16 @@ const social = [
   <OsnDescrizione :idnodosm="data.id" />
 
   <div class="flex">
-    <OsnTagwebsite :url="data.tags.website" />
-    <OsnTagwebsite :url="data.tags['contact:website']" />
+    <OsnTagwebsite v-if="data.tags.website" :url="data.tags.website" />
+    <OsnTagwebsite v-if="data.tags['contact:website']" :url="data.tags['contact:website']" />
   </div>
 
-  <OsnTag
+  <OsnTag v-if="data.tags.email"
     icona="material-symbols:alternate-email"
     etichetta="email"
     :testo="data.tags.email"
   />
-  <OsnTag
+  <OsnTag v-if="data.tags['contact:email']"
     icona="material-symbols:mail-outline-sharp"
     etichetta="email"
     :testo="data.tags['contact:email']"
@@ -311,6 +311,5 @@ const social = [
       <span class="text-gray-300 text-sm">{{ data.tags["survey:date"] }}</span>
     </div>
   </div>
-  <LandingDisclaimer />
 
 </template>

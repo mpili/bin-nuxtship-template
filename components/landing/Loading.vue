@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex items-center justify-center w-full h-[100vh] text-gray-900 dark:text-gray-100 dark:bg-gray-950"
+    class="flex items-center justify-center w-full h-[50vh] text-gray-900 dark:text-gray-100 dark:bg-gray-950"
   >
     <div>
       <h1 class="text-xl md:text-7xl font-bold flex items-center">

@@ -12,7 +12,7 @@
       >.
     </div>
 
-    <div class="mt-2 mb-4">Per qualsiasi domanda, suggerimento, segnalazione</div>
-    <LandingLink to="/contattaci">contattaci</LandingLink>
+    <div class="mt-2 mb-6">Aiutaci a migliorare. Per qualsiasi domanda, suggerimento, segnalazione</div>
+    <LandingLink href="/contattaci">contattaci</LandingLink>
   </div>
 </template>

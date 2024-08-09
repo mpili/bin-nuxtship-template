@@ -26,5 +26,7 @@ definePageMeta({
         <OsnPage :data="data.elements[0]" />
       </div>
     </div>
+    <LandingDisclaimer />
+
   </LandingContainer>
 </template>
