@@ -11,6 +11,6 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div v-if="!pending" class="mt-8">
-    <div v-html="data.items[0].descrizione"></div>
+    <div v-if="data?.items[0]?.descrizione" v-html="data.items[0].descrizione"></div>
   </div>
 </template>

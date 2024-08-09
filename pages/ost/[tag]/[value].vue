@@ -1,7 +1,7 @@
 <script setup>
 
 const { tag, value } = useRoute().params;
-const url_api = `http://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3600365331)->.searchArea;nwr["currency:XBT"="yes"][${tag}=${value}](area.searchArea);out meta;`;
+const url_api = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3600365331)->.searchArea;nwr["currency:XBT"="yes"][${tag}=${value}](area.searchArea);out meta;`;
 
 /* This call is performed before hydration */
 // var { data } = await useFetch(url_api);
@@ -24,6 +24,7 @@ definePageMeta({
       <template v-slot:title>
         <OsnTraducitag :tag='tag.replace(/^"|"$/g, "")' :value='value.replace(/^"|"$/g, "")' />
       </template>
+      <template v-slot:desc>Le attiività che accettano Bitcoin in Italia.</template>
     </LandingSectionhead>
 
     <div v-if="pending">

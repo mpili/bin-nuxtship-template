@@ -21,7 +21,6 @@ defineProps(["dove"]);
 			<div class="flex mt-8">
 				<LandingLink
 					:href="dove.url"
-					:to="dove.url"
 					target="_blank"
 					block
 				>{{ dove.titololink }}</LandingLink>

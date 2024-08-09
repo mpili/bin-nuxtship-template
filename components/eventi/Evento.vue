@@ -18,7 +18,7 @@ const breadcrumb = computed(() => [
   </LandingSectionhead>
   <LandingBreadcrumb :voci="breadcrumb" />
 
-  <div class="py-4">
+  <div class="py-4" v-if="evento.descrizione">
     {{ evento.descrizione }}
   </div>
   

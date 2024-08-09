@@ -11,7 +11,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div v-if="!pending" class="mt-8">
-    <img
+    <img v-if="data?.items[0]?.img"
       :src="
         'https://bin-dev.pockethost.io/api/files/attivita/' +
         data.items[0].id +
