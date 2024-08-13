@@ -4,19 +4,24 @@ defineProps(["poi"]);
 </script>
 
 <template>
-	<LMarker :lat-lng="[poi.lat, poi.lon]">
-		<LPopup v-if="poi.tags">
-			<div v-if="poi.tags.name">
-				<span class="text-gray-900 font-semibold">
-					<NuxtLink :to="'/osn/' + poi.id">
-						{{ poi.tags.name }}
-					</NuxtLink>
-				</span>
-				<div v-if="poi.tags['addr:street']">
-					{{ poi.tags['addr:street'] }}<span v-if="poi.tags['addr:housenumber']">, {{ poi.tags['addr:housenumber'] }}
-						</span>
-				</div>
-			</div>
-		</LPopup>
-	</LMarker>
+  <LMarker :lat-lng="[poi.lat, poi.lon]">
+    <LPopup v-if="poi.tags">
+      <div v-if="poi.tags.name">
+        <NuxtLink :to="'/osn/' + poi.id">
+          <span class="text-blue-700 font-semibold">
+            {{ poi.tags.name }}
+          </span>
+          <div class="text-gray-400">
+            <OsnTipovenue :tags="poi.tags" />
+          </div>
+          <div v-if="poi.tags['addr:street']">
+            {{ poi.tags["addr:street"]
+            }}<span v-if="poi.tags['addr:housenumber']"
+              >, {{ poi.tags["addr:housenumber"] }}
+            </span>
+          </div>
+        </NuxtLink>
+      </div>
+    </LPopup>
+  </LMarker>
 </template>

@@ -4,6 +4,7 @@
     "lng": 45.53993052,
     "lat": 10.21910323,
     "localita": "Brescia",
+    "idlocalita": "brescia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001070935145",
     "telegram_app": "http://telegram.me/joinchat/AMVfUj_VLGlWoZTRMlQw-A",
     "telegram_members": 181.0,
@@ -414,6 +415,35 @@
                 "phone": "+393274530665",
                 "ref:vatin": "IT03956760981",
                 "website": "https://sbaff.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6853720953,
+            "lat": 45.524629,
+            "lon": 10.210243,
+            "timestamp": "2024-08-09T15:38:10Z",
+            "version": 5,
+            "changeset": 155029376,
+            "user": "Bitcoin People",
+            "uid": 21833345,
+            "tags": {
+                "addr:city": "Brescia",
+                "addr:housenumber": "66",
+                "addr:postcode": "25124",
+                "addr:street": "Via Cipro",
+                "currency:XBT": "yes",
+                "description": "Bitcoin People \u00e8 una startup che offre soluzioni software e consulenza per facilitare l'uso di Bitcoin come metodo di pagamento, attraverso il suo gateway BPay.",
+                "name": "Bitcoin People",
+                "office": "coworking_space",
+                "opening_hours": "Mo-Fr 09:00-18:30",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 347 637 8826",
+                "survey:date": "2024-08-09",
+                "website": "https://bitcoinpeople.it/"
             }
         },
         {

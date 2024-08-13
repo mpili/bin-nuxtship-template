@@ -2,6 +2,12 @@
 	<LMarker :lat-lng="[44.049114, 8.213017]">
 		<LPopup><NuxtLink to="/l/albenga">Albenga</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[42.7402, 11.0555]">
+		<LPopup><NuxtLink to="/l/grosseto">Grosseto</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.3082, 11.3293]">
+		<LPopup><NuxtLink to="/l/siena">Siena</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[43.4632928, 11.8800925]">
 		<LPopup><NuxtLink to="/l/arezzo">Arezzo</NuxtLink></LPopup>
 	</LMarker>

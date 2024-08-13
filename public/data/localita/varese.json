@@ -973,17 +973,17 @@
             "id": 2991405599,
             "lat": 45.4643444,
             "lon": 9.1871859,
-            "timestamp": "2023-04-17T17:22:15Z",
-            "version": 7,
-            "changeset": 135025096,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "timestamp": "2024-08-09T14:02:34Z",
+            "version": 8,
+            "changeset": 155025142,
+            "user": "AnyFile",
+            "uid": 113669,
             "tags": {
                 "addr:city": "Milano",
-                "addr:housenumber": "5",
+                "addr:housenumber": "1",
                 "addr:postcode": "20123",
-                "addr:street": "Via Orefici",
-                "check_date": "2023-04-16",
+                "addr:street": "Via Cesare Cant\u00f9",
+                "check_date": "2024-08-01",
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
@@ -1604,30 +1604,6 @@
                 "phone": "+393756370904",
                 "shop": "beauty",
                 "website": "https://setabeauty.com/index.php"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5062100527,
-            "lat": 45.8840691,
-            "lon": 8.5408013,
-            "timestamp": "2023-07-02T18:04:17Z",
-            "version": 7,
-            "changeset": 138033758,
-            "user": "Chiarant",
-            "uid": 18452174,
-            "tags": {
-                "addr:city": "Stresa",
-                "addr:housenumber": "1",
-                "addr:postcode": "28838",
-                "addr:street": "Corso Umberto primo",
-                "check_date": "2023-07-02",
-                "currency:XBT": "yes",
-                "description": "Gioielleria e ottica. Tutte le ultime collezioni di gioielli, orologi, e occhiali da sole: Pandora, Swarovski, Kidult, Amen, DonnaOro, Dodo, Bvlgari, Ray Ban, Persol, Dolce e Gabbana, Armani e tanti altri.",
-                "name": "Gioielleria Paulon - Luxury Store",
-                "phone": "+39 0323 30414",
-                "shop": "jewelry",
-                "website": "https://gioielleriapaulon.com/"
             }
         },
         {
@@ -6727,6 +6703,31 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11375533698,
+            "lat": 45.8845127,
+            "lon": 8.5394634,
+            "timestamp": "2024-08-11T08:54:22Z",
+            "version": 3,
+            "changeset": 155091236,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Stresa",
+                "addr:housenumber": "1",
+                "addr:postcode": "28838",
+                "addr:street": "Corso Umberto primo",
+                "check_date": "2024-08-08",
+                "currency:XBT": "yes",
+                "description": "Gioielleria e ottica. Tutte le ultime collezioni di gioielli, orologi, e occhiali da sole: Pandora, Swarovski, Kidult, Amen, DonnaOro, Dodo, Bvlgari, Ray Ban, Persol, Dolce e Gabbana, Armani e tanti altri.",
+                "name": "Gioielleria Paulon - Luxury Store",
+                "phone": "+39 0323 30414",
+                "shop": "jewelry",
+                "website": "https://gioielleriapaulon.com/",
+                "wheelchair": "yes"
             }
         },
         {

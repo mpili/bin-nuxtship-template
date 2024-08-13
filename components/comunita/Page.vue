@@ -11,7 +11,8 @@ const breadcrumb = computed(() => [
     path: props.data.network ? "/meetup/"+props.data.network : null,
   },
   {
-    label: props.data.name,
+    label: props.data.localita,
+    path: props.data.idlocalita ? "/l/"+props.data.idlocalita : null,
   },
 ]);
 </script>
