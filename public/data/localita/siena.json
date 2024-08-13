@@ -1,14 +1,8 @@
 {
-    "id": "ss-toscana-sud",
-    "name": "Satoshi Spritz Toscana-Sud",
-    "lng": 43.3186614,
-    "lat": 11.3305135,
-    "localita": "Toscana-Sud",
-    "idlocalita": "siena",
-    "telegram_weburl": "https://web.telegram.org/a/#-1001890322260",
-    "telegram_app": "https://t.me/SatoshiSpritzToscanaSud",
-    "telegram_members": 41.0,
-    "network": "satoshispritz",
+    "id": "siena",
+    "name": "Siena",
+    "lng": 43.3082,
+    "lat": 11.3293,
     "poi": [
         {
             "type": "node",
@@ -340,33 +334,11 @@
                 "rooms": "5",
                 "tourism": "guest_house"
             }
-        },
-        {
-            "type": "node",
-            "id": 11973785777,
-            "lat": 43.5613878,
-            "lon": 11.8477764,
-            "timestamp": "2024-06-11T19:21:16Z",
-            "version": 1,
-            "changeset": 152558520,
-            "user": "Bota87",
-            "uid": 19327867,
-            "tags": {
-                "addr:city": "Capolona",
-                "addr:housenumber": "18",
-                "addr:postcode": "52010",
-                "addr:street": "Via del Paradiso",
-                "currency:XBT": "yes",
-                "description": "Riparazione di ammaccature senza stucco e riverniciatura",
-                "email": "m.ballantini63@gmail.com",
-                "name": "Marco Ballantini - Specializzato in auto grandinate",
-                "payment:lightning": "yes",
-                "payment:onchain": "yes",
-                "phone": "+39 333 8556 247",
-                "shop": "car_repair",
-                "survey:date": "2024-06-11"
-            }
         }
     ],
-    "telegram": []
+    "telegram": [
+        {
+            "telegram": "ss-toscana-sud"
+        }
+    ]
 }

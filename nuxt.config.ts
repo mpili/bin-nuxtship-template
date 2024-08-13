@@ -14,5 +14,35 @@ export default defineNuxtConfig({
   },
   gtag: {
     id: 'GTM-NJXDPR5Z',
-  }
+  },
+  sitemap: {
+    sitemaps: [
+      {
+        path: '/sitemap.xml',
+        urls: [
+          '/calendari',
+          '/chisiamo',
+          '/comunita',
+          '/contattaci',
+          '/documentazione',
+          '/dove',
+          '/eventi',
+          '/formazione',
+          '/hwallet',
+          '/impara',
+          '/libriamazon',
+          '/meetups',
+          '/podcast',
+          '/prezzi',
+          '/shop',
+          '/wallet',
+        ],
+      },
+      {
+        path: '/sitemap_osn.xml',
+        urls: [],
+        exclude: ['/**']
+      }
+    ]
+  },
 });

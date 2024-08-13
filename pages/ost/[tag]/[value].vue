@@ -24,7 +24,7 @@ definePageMeta({
       <template v-slot:title>
         <OsnTraducitag :tag='tag.replace(/^"|"$/g, "")' :value='value.replace(/^"|"$/g, "")' />
       </template>
-      <template v-slot:desc>Le attiività che accettano Bitcoin in Italia.</template>
+      <template v-slot:desc>Le attività che accettano Bitcoin in Italia.</template>
     </LandingSectionhead>
 
     <div v-if="pending">

@@ -13,14 +13,14 @@ export default {
     <nav
       class="text-sm sm:text-base bg-white p-2 rounded-md shadow-lg my-4"
     >
-      <ol class="list-none p-0 inline-flex space-x-2">
-        <li class="flex items-center">
-          <NuxtLink
-            href="/"
-            to="/"><Icon name="ic:sharp-home" size="24" color="#bbb" /></NuxtLink>
-          <span class="text-gray-400">/</span>
+      <ol class="list-none p-0 flex flex-wrap space-x-2">
+        <li>
+          <NuxtLink href="/" to="/" class="flex">
+            <Icon name="ic:sharp-home" size="24" color="#bbb" />
+            <span class="text-gray-400 pl-2">/</span>
+          </NuxtLink>
         </li>
-        <li v-for="voce of voci" class="flex items-center">
+        <li v-for="voce of voci">
           <NuxtLink v-if="voce.path"
             :href="voce.path"
             :to="voce.path"
