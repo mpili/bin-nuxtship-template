@@ -16,8 +16,8 @@ export default defineNuxtConfig({
     id: 'GTM-NJXDPR5Z',
   },
   sitemap: {
-    sitemaps: [
-      {
+    sitemaps: {
+      pages: {
         path: '/sitemap.xml',
         urls: [
           '/calendari',
@@ -38,11 +38,9 @@ export default defineNuxtConfig({
           '/wallet',
         ],
       },
-      {
-        path: '/sitemap_osn.xml',
-        urls: [],
-        exclude: ['/**']
-      }
-    ]
+      index: [
+        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_osn.xml' }
+      ]
+    }
   },
 });
