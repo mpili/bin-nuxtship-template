@@ -30,7 +30,4 @@ defineProps(["data"]);
       </a>
     </div>
   </div>
-  <div class="text-xs text-gray-400">
-    {{ data }}
-  </div>
 </template>
