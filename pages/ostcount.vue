@@ -19,7 +19,7 @@ definePageMeta({
 <template>
 	<LandingContainer>
 		<LandingSectionhead>
-			<template v-slot:title>Conteggio categorie attività </template>
+			<template v-slot:title>Categorie Esercenti</template>
 		</LandingSectionhead>
 		<div v-if="pending">
 			Loading ...

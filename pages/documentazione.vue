@@ -8,6 +8,10 @@ const risorseDocumentazione = [
     url: "https://shrill-water-3846.on.fleek.co/",
   },
   {
+    nome: "Raccolta documentazioni Mir Liponi",
+    url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
+  },
+  {
     nome: "Guide di Atlas 21",
     url: "https://atlas21.com/it/learn-it/",
   },
@@ -18,10 +22,6 @@ const risorseDocumentazione = [
   {
     nome: "Guide di Bitcoin24ore",
     url: "https://bitcoin24ore.com/category/guide/",
-  },
-  {
-    nome: "Raccolta documentazioni Mir Liponi",
-    url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
   },
   {
     nome: "Corsi PlanB Network",

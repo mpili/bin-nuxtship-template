@@ -39,7 +39,9 @@ export default defineNuxtConfig({
         ],
       },
       index: [
-        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_osn.xml' }
+        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_osn.xml' },
+        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_l.xml' },
+        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_c.xml' }
       ]
     }
   },
