@@ -352,6 +352,10 @@
         "message": "Pacheggio motocicli",
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
+    "tag:amenity=motorcycle_rental": {
+        "message": "Noleggio motocicli",
+        "description": "Tag \"amenity=motorcycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_rental"
+    },
     "tag:amenity=music_school": {
         "message": "Scuola di musica",
         "description": "Tag \"amenity=music_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=music_school"
@@ -1361,11 +1365,11 @@
         "description": "Tag \"craft=juice_bottler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=juice_bottler"
     },
     "tag:craft=key_cutter": {
-        "message": "",
+        "message": "Chiavi",
         "description": "Tag \"craft=key_cutter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=key_cutter"
     },
     "tag:craft=laboratory": {
-        "message": "",
+        "message": "Laboratorio",
         "description": "Tag \"craft=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=laboratory"
     },
     "tag:craft=leather": {
@@ -5345,6 +5349,10 @@
         "message": "Tipografia",
         "description": "Tag \"shop=printing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=printing"
     },
+    "tag:shop=repair": {
+        "message": "Riparazioni",
+        "description": "Tag \"shop=repair\". See https://wiki.openstreetmap.org/wiki/Tag:shop=repair"
+    },
     "tag:shop=safety_equipment": {
         "message": "Impianti di sicurezza",
         "description": "Tag \"shop=safety_equipment\". See https://wiki.openstreetmap.org/wiki/Tag:shop=safety_equipment"
@@ -5464,6 +5472,10 @@
     "tag:shop=wine": {
         "message": "Enoteca",
         "description": "Tag \"shop=wine\". See https://wiki.openstreetmap.org/wiki/Tag:shop=wine"
+    },
+    "tag:shop=yes": {
+        "message": "Negozio",
+        "description": "Tag \"shop=yes\". See https://wiki.openstreetmap.org/wiki/Tag:shop=yes"
     },
     "tag:smoking": {
         "message": "",

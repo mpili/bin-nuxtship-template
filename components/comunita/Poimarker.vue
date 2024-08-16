@@ -14,7 +14,7 @@ defineProps(["poi"]);
           <div class="text-gray-400">
             <OsnTipovenue :tags="poi.tags" />
           </div>
-          <div v-if="poi.tags['addr:street']">
+          <div v-if="poi.tags['addr:street']"  class="text-gray-600">
             {{ poi.tags["addr:street"]
             }}<span v-if="poi.tags['addr:housenumber']"
               >, {{ poi.tags["addr:housenumber"] }}
