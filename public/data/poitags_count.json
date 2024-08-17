@@ -3,7 +3,7 @@
         {
             "Unnamed: 0": 0,
             "amenity": "restaurant",
-            "count": 84
+            "count": 85
         },
         {
             "Unnamed: 0": 1,
@@ -592,7 +592,7 @@
         {
             "Unnamed: 0": 0,
             "cuisine": "pizza",
-            "count": 16
+            "count": 17
         },
         {
             "Unnamed: 0": 1,
@@ -1189,6 +1189,38 @@
         {
             "Unnamed: 0": 9,
             "sport": "taijiquan;wing_chun;kung_fu;tai_chi",
+            "count": 1
+        }
+    ],
+    "guest_house": [
+        {
+            "Unnamed: 0": 0,
+            "guest_house": "bed_and_breakfast",
+            "count": 18
+        },
+        {
+            "Unnamed: 0": 1,
+            "guest_house": "guest_house",
+            "count": 4
+        },
+        {
+            "Unnamed: 0": 2,
+            "guest_house": "agritourism",
+            "count": 3
+        },
+        {
+            "Unnamed: 0": 3,
+            "guest_house": "apartment",
+            "count": 3
+        },
+        {
+            "Unnamed: 0": 4,
+            "guest_house": "landlords_-_affittacamere",
+            "count": 1
+        },
+        {
+            "Unnamed: 0": 5,
+            "guest_house": "house",
             "count": 1
         }
     ]

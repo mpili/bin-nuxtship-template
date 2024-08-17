@@ -6,6 +6,37 @@
     "poi": [
         {
             "type": "node",
+            "id": 2027837990,
+            "lat": 44.8245882,
+            "lon": 7.3032244,
+            "timestamp": "2024-08-16T14:57:20Z",
+            "version": 8,
+            "changeset": 155332052,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bricherasio",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "10060",
+                "addr:street": "Piazza Castelvecchio",
+                "amenity": "restaurant",
+                "atm": "yes",
+                "check_date": "2024-08-16",
+                "contact:instagram": "https://www.instagram.com/daldocpizzeria/",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Dal Doc",
+                "opening_hours": "We-Mo 18:30-22:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 34 8296 8337",
+                "website:menu": "https://www.flipbookpdf.net/web/site/be100d798e53688ed2b69df064a71c9ecafcb60b202404.pdf.html#page/2"
+            }
+        },
+        {
+            "type": "node",
             "id": 3351124329,
             "lat": 45.1377967,
             "lon": 7.7353549,

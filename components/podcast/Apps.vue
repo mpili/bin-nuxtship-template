@@ -8,8 +8,8 @@ defineProps(["podcapps"]);
 		<ul class="space-y-4">
 			<li v-for="item of podcapps">
 				<a :href="item.url" target="_blank">
-					<div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
-						<Icon name="material-symbols:podcasts" size="24" />
+					<div class="p-4 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
+						<Icon name="material-symbols:podcasts" size="20" />
 						<div class="text-xl font-medium text-black">{{ item.app }}</div>
 					</div>
 				</a>

@@ -9,10 +9,6 @@ const menuitems = [
     path: "/impara",
   },
   {
-    title: "Dove",
-    path: "/dove",
-  },
-  {
     title: "Formazione",
     path: "/formazione",
   },

@@ -1241,19 +1241,19 @@
         "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
     },
     "tag:craft=carpet_layer": {
-        "message": "",
+        "message": "Posatore moquette",
         "description": "Tag \"craft=carpet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpet_layer"
     },
     "tag:craft=caterer": {
-        "message": "",
+        "message": "Catering",
         "description": "Tag \"craft=caterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=caterer"
     },
     "tag:craft=ceramist": {
-        "message": "",
+        "message": "Ceramista",
         "description": "Tag \"craft=ceramist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=ceramist"
     },
     "tag:craft=chimney_sweeper": {
-        "message": "",
+        "message": "Spazzacamino",
         "description": "Tag \"craft=chimney_sweeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=chimney_sweeper"
     },
     "tag:craft=cleaning": {
@@ -1441,7 +1441,7 @@
         "description": "Tag \"craft=photographer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographer"
     },
     "tag:craft=photographic_laboratory": {
-        "message": "",
+        "message": "Laboratorio fotografico",
         "description": "Tag \"craft=photographic_laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographic_laboratory"
     },
     "tag:craft=piano_tuner": {
@@ -1638,7 +1638,7 @@
         "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=barbecue": {
-        "message": "",
+        "message": "Barbecue",
         "description": "Tag \"cuisine=barbecue\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=basque": {
@@ -1958,7 +1958,7 @@
         "description": "Tag \"cuisine=punch_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=regional": {
-        "message": "regionale",
+        "message": "Regionale",
         "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=rhenish": {
@@ -1966,11 +1966,11 @@
         "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=russian": {
-        "message": "",
+        "message": "Russa",
         "description": "Tag \"cuisine=russian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=salad": {
-        "message": "",
+        "message": "Insalata",
         "description": "Tag \"cuisine=salad\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sandwich": {
@@ -2444,6 +2444,10 @@
     "tag:guest_house=agritourism": {
         "message": "Agriturismo",
         "description": "Key \"agritourism=bed_and_breakfast\". See https://wiki.openstreetmap.org/wiki/Key:guest_house=agritourism"
+    },
+    "tag:healthcare": {
+        "message": "Salute",
+        "description": "Tag \"healthcare\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare"
     },
     "tag:healthcare=alternative": {
         "message": "Medicina alternativa",
@@ -5165,6 +5169,12 @@
         "message": "Surgelati",
         "description": "Tag \"shop=frozen_food\". See https://wiki.openstreetmap.org/wiki/Tag:shop=frozen_food"
     },
+
+    "tag:shop=funeral_directors": {
+        "message": "Pompe funebri",
+        "description": "Tag \"shop=funeral_directors\". See https://wiki.openstreetmap.org/wiki/Tag:shop=funeral_directors"
+    },
+
     "tag:shop=furniture": {
         "message": "Mobilifici",
         "description": "Tag \"shop=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:shop=furniture"

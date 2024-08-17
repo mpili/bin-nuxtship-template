@@ -214,6 +214,13 @@ const social = [
     :testo="data.tags.operator"
   />
 
+  <OsnTag v-if="data.tags['currency:XBT:discount']"
+    icona="streamline:discount-percent-circle"
+    etichetta="sconto bitcoin"
+    :testo="data.tags['currency:XBT:discount']"
+  />
+
+
   <OsnTagyesno v-if="data.tags['payment:lightning']"
     icona="ph:lightning"
     etichetta="Pagamento con lightning"
