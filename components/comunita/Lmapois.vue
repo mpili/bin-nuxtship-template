@@ -179,7 +179,7 @@
 	<LMarker :lat-lng="[41.887914110221, 12.4838967567175]">
 		<LPopup><NuxtLink to="/c/ss-roma">Satoshi Spritz Roma</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[46.065088, 11.123858]">
+	<LMarker :lat-lng="[45.8596, 11.0608]">
 		<LPopup><NuxtLink to="/c/ss-rovereto-e-trento">SatoshiSpritz Rovereto e Trento (TN)</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.07107288, 11.79007]">

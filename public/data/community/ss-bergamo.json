@@ -7,7 +7,7 @@
     "idlocalita": "bergamo",
     "telegram_weburl": "https://web.telegram.org/a/#-1001771233180",
     "telegram_app": "https://t.me/SatoshiSpritzBergamo",
-    "telegram_members": 173.0,
+    "telegram_members": 174.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1069,32 +1069,6 @@
                 "office": "private_investigator",
                 "phone": "+39 320 7413358",
                 "website": "https://www.investigatore-privato-milano.com"
-            }
-        },
-        {
-            "type": "node",
-            "id": 6539942449,
-            "lat": 45.4892026,
-            "lon": 9.187128,
-            "timestamp": "2024-02-19T04:18:28Z",
-            "version": 3,
-            "changeset": 147632606,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:housenumber": "17",
-                "addr:postcode": "20159",
-                "addr:street": "Via Luigi Porro Lambertenghi",
-                "amenity": "fast_food",
-                "check_date": "2023-11-17",
-                "cuisine": "burger",
-                "currency:XBT": "yes",
-                "name": "Kebhouze - Isola",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "website": "https://kebhouze.com/"
             }
         },
         {

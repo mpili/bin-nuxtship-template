@@ -141,46 +141,28 @@ const social = [
           data.tags["contact:postcode"]
         }}</span>
         &nbsp;
-        <span v-if="data.tags['addr:city']">
-          <OsnTaglink tag="addr:city" :valore="data.tags['addr:city']" >
-            <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
-          </OsnTaglink>
-        </span>
-        <span v-else-if="data.tags['contact:city']">
-          <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']" >
-            <template v-slot:testo>{{ data.tags["contact:city"] }}</template>
-          </OsnTaglink>
+        <span  class="text-blue-700 font-bold">
+          <span v-if="data.tags['addr:city']">
+            <OsnTaglink tag="addr:city" :valore="data.tags['addr:city']" >
+              <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
+            </OsnTaglink>
+          </span>
+          <span v-else-if="data.tags['contact:city']">
+            <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']" >
+              <template v-slot:testo>{{ data.tags["contact:city"] }}</template>
+            </OsnTaglink>
+          </span>
         </span>
         <span v-if="data.tags['addr:province']">({{ data.tags["addr:province"] }})</span>
       </p>
     </div>
 
   </div>
-  <OsnTag v-if="data.tags['contact:mobile']"
-    icona="clarity:mobile-line"
-    etichetta="Cell"
-    :testo="data.tags['contact:mobile']"
-  />
-  <OsnTag v-if="data.tags['mobile']"
-    icona="clarity:mobile-line"
-    etichetta="Cell"
-    :testo="data.tags['mobile']"
-  />
-  <OsnTag v-if="data.tags['phone:mobile']"
-    icona="ic:baseline-phone-iphone"
-    etichetta="Cell"
-    :testo="data.tags['phone:mobile']"
-  />
-  <OsnTag v-if="data.tags['contact:phone']"
-    icona="material-symbols:call"
-    etichetta="Telefono"
-    :testo="data.tags['contact:phone']"
-  />
-  <OsnTag v-if="data.tags.phone"
-    icona="material-symbols:call"
-    etichetta="Telefono"
-    :testo="data.tags.phone"
-  />
+  <OsnTel v-if="data.tags.phone" icona="material-symbols:call" etichetta="Telefono" :telefono="data.tags.phone" />
+  <OsnTel v-if="data.tags['contact:phone']" icona="material-symbols:call" etichetta="Telefono" :telefono="data.tags['contact:phone']" />
+  <OsnTel v-if="data.tags['mobile']" icona="clarity:mobile-line" etichetta="Cell" :telefono="data.tags['mobile']" />
+  <OsnTel v-if="data.tags['contact:mobile']" icona="clarity:mobile-line" etichetta="Cell" :telefono="data.tags['contact:mobile']" />
+  <OsnTel v-if="data.tags['phone:mobile']" icona="ic:baseline-phone-iphone" etichetta="Cell" :telefono="data.tags['phone:mobile']" />
 
   <OsnTagyesno v-if="data.tags.wheelchair"
     icona="ph:wheelchair-light"

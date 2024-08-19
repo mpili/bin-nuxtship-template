@@ -25,7 +25,7 @@ const open = ref(false);
   <LandingContainer>
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
-        <a href="/" class="text-lg">
+        <a href="/" class="text-lg" alt="Bitcoin Italia Network">
           <span class="font-bold">
             <span class="bg-green-500">&nbsp;₿itcoin</span>Italia<span
               class="bg-red-500 text-white"
