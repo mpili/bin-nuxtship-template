@@ -23,7 +23,6 @@ export default {
         <li v-for="voce of voci">
           <NuxtLink v-if="voce.path"
             :href="voce.path"
-            :to="voce.path"
             class="text-gray-400 hover:text-blue-400 transition-colors duration-300"
             >{{voce.label}}</NuxtLink
           >

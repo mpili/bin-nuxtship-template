@@ -1071,32 +1071,6 @@
         },
         {
             "type": "node",
-            "id": 6539942449,
-            "lat": 45.4892026,
-            "lon": 9.187128,
-            "timestamp": "2024-02-19T04:18:28Z",
-            "version": 3,
-            "changeset": 147632606,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:housenumber": "17",
-                "addr:postcode": "20159",
-                "addr:street": "Via Luigi Porro Lambertenghi",
-                "amenity": "fast_food",
-                "check_date": "2023-11-17",
-                "cuisine": "burger",
-                "currency:XBT": "yes",
-                "name": "Kebhouze - Isola",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "website": "https://kebhouze.com/"
-            }
-        },
-        {
-            "type": "node",
             "id": 6852717735,
             "lat": 45.481093,
             "lon": 9.1728847,
