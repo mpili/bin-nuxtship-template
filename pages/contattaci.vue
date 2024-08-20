@@ -1,4 +1,8 @@
 <script setup>
+useHead({
+  title: 'Contattaci | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

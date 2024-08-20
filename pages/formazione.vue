@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: 'Formazione | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

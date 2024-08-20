@@ -21,9 +21,10 @@ defineProps(["data"]);
     >
       <details class="group">
         <summary
-          class="flex justify-between items-center text-lg font-bold cursor-pointer list-none"
+          class="flex justify-between items-center cursor-pointer list-none"
         >
-          <span> {{ tipo }} - <OsnTraducitag :tag="tipo" value="x" /> </span>
+          <span class="text-lg font-bold"><OsnTraducitag :tag="tipo" value="x" />  </span>
+          <span class="text-gray-300">{{ tipo }}</span>
           <span class="transition group-open:rotate-180">
             <svg
               fill="none"
@@ -42,31 +43,8 @@ defineProps(["data"]);
         </summary>
 
         <div class="mt-3 group-open:animate-fadeIn">
-          <div v-for="tag of data[tipo]">
-            <div class="flex flex-wrap py-1">
-              <div class="font-bold pr-2">{{ tag.count }}</div>
-
-              <a
-                :href="`https://wiki.openstreetmap.org/wiki/Tag:${tipo}=${tag[tipo]}`"
-                class="pr-2"
-                target="_blank"
-              >
-                <div class="flex text-gray-500 gap-1">
-                  <Icon name="fluent:tag-question-mark-20-regular" />
-                  {{ tag[tipo] }}
-                </div>
-              </a>
-
-              <div>
-                <a
-                  :href="`/ost/${tipo}/${tag[tipo]}`"
-                  class="text-blue-500 pl-2"
-                  target="_blank"
-                >
-                  <OsnTraducitag :tag="tipo" :value="tag[tipo]" />
-                </a>
-              </div>
-            </div>
+          <div v-for="tag of data[tipo]" class="py-2">
+            <OstPagecountag :tipo="tipo" :tag="tag" />
           </div>
         </div>
       </details>

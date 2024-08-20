@@ -10,6 +10,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+// this call will be performed server side
+// const { data } = await useAsyncData("data", () => $fetch(url_api,));
+
 const breadcrumb = computed(() => [
   {
     label: "wallet",

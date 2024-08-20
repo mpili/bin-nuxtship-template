@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: "Impara | Bitcoin Italian Network",
+});
+
 definePageMeta({
   layout: "landing",
 });
@@ -29,7 +34,7 @@ const features = [
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>Impara Bitcoin</template>
-      <template v-slot:desc>Tutto ciò che può servirti è già qui!</template>
+      <template v-slot:desc>Tutto ciò che può servirti è già qui</template>
     </LandingSectionhead>
     <LandingImpara></LandingImpara>
     <p class="text-align-left mt-2">

@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: 'Siti dove acquistare in Bitcoin | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

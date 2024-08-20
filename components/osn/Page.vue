@@ -1,5 +1,5 @@
 <script setup>
-defineProps(["data"]);
+const props = defineProps(["data"]);
 
 const tagItaliani = [
   {
@@ -86,6 +86,10 @@ const social = [
     icona: "mdi:pinterest",
   },
 ];
+
+useHead({
+  title: props?.data?.tags?.name + " | Bitcoin Italia Network",
+});
 </script>
 
 <template>

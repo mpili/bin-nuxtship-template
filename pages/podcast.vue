@@ -1,4 +1,14 @@
 <script setup>
+
+useHead({
+  title: 'Podcast in italiano a tema Bitcoin | Bitcoin Italian Network',
+  meta: [
+	{
+	  name: 'description', content: 'Podcast in italiano a tema Bitcoin, con appassionati, professionisti e innovatori che condividono la passione per Bitcoin, promuovendo conoscenza e adozione sul territorio.'
+	}
+  ],
+});
+
 definePageMeta({
   layout: "landing",
 });

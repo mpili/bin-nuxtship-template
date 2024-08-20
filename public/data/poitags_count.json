@@ -16,7 +16,7 @@
             "Unnamed: 0": 2,
             "amenity": "bar",
             "count": 36,
-            "max_timestamp": "2024-08-14T11:22:54Z"
+            "max_timestamp": "2024-08-19T15:12:40Z"
         },
         {
             "Unnamed: 0": 3,
@@ -318,7 +318,7 @@
             "Unnamed: 0": 19,
             "shop": "food",
             "count": 3,
-            "max_timestamp": "2024-07-04T13:56:20Z"
+            "max_timestamp": "2024-08-20T10:14:45Z"
         },
         {
             "Unnamed: 0": 20,
@@ -1028,102 +1028,96 @@
         },
         {
             "Unnamed: 0": 7,
+            "office": "coworking",
+            "count": 5,
+            "max_timestamp": "2024-08-20T07:10:05Z"
+        },
+        {
+            "Unnamed: 0": 8,
             "office": "estate_agent",
             "count": 4,
             "max_timestamp": "2024-07-04T20:55:07Z"
         },
         {
-            "Unnamed: 0": 8,
-            "office": "coworking",
-            "count": 3,
-            "max_timestamp": "2024-07-12T12:16:22Z"
-        },
-        {
             "Unnamed: 0": 9,
-            "office": "association",
-            "count": 2,
-            "max_timestamp": "2024-01-02T12:52:06Z"
-        },
-        {
-            "Unnamed: 0": 10,
-            "office": "coworking_space",
-            "count": 2,
-            "max_timestamp": "2024-08-09T15:38:10Z"
-        },
-        {
-            "Unnamed: 0": 11,
-            "office": "financial",
-            "count": 2,
-            "max_timestamp": "2024-01-06T11:20:43Z"
-        },
-        {
-            "Unnamed: 0": 12,
-            "office": "educational_institution",
-            "count": 2,
-            "max_timestamp": "2023-11-07T05:06:04Z"
-        },
-        {
-            "Unnamed: 0": 13,
-            "office": "engineer",
-            "count": 2,
-            "max_timestamp": "2024-06-06T09:41:53Z"
-        },
-        {
-            "Unnamed: 0": 14,
             "office": "graphic_design",
             "count": 2,
             "max_timestamp": "2024-01-22T18:36:13Z"
         },
         {
-            "Unnamed: 0": 15,
-            "office": "occupational_safety",
-            "count": 1,
-            "max_timestamp": "2023-07-13T12:15:55Z"
+            "Unnamed: 0": 10,
+            "office": "engineer",
+            "count": 2,
+            "max_timestamp": "2024-06-06T09:41:53Z"
         },
         {
-            "Unnamed: 0": 16,
-            "office": "private_investigator",
-            "count": 1,
-            "max_timestamp": "2023-07-10T19:00:14Z"
+            "Unnamed: 0": 11,
+            "office": "educational_institution",
+            "count": 2,
+            "max_timestamp": "2023-11-07T05:06:04Z"
         },
         {
-            "Unnamed: 0": 17,
-            "office": "event_planner",
-            "count": 1,
-            "max_timestamp": "2023-10-27T13:00:04Z"
+            "Unnamed: 0": 12,
+            "office": "financial",
+            "count": 2,
+            "max_timestamp": "2024-01-06T11:20:43Z"
         },
         {
-            "Unnamed: 0": 18,
-            "office": "interior_design",
-            "count": 1,
-            "max_timestamp": "2024-07-21T17:14:07Z"
+            "Unnamed: 0": 13,
+            "office": "association",
+            "count": 2,
+            "max_timestamp": "2024-01-02T12:52:06Z"
         },
         {
-            "Unnamed: 0": 19,
+            "Unnamed: 0": 14,
             "office": "insurance",
             "count": 1,
             "max_timestamp": "2023-11-17T17:01:00Z"
         },
         {
-            "Unnamed: 0": 20,
-            "office": "studio_tecnico",
-            "count": 1,
-            "max_timestamp": "2023-11-19T10:47:25Z"
-        },
-        {
-            "Unnamed: 0": 21,
-            "office": "telecommunication",
-            "count": 1,
-            "max_timestamp": "2024-02-09T00:49:18Z"
-        },
-        {
-            "Unnamed: 0": 22,
+            "Unnamed: 0": 15,
             "office": "yes",
             "count": 1,
             "max_timestamp": "2024-04-23T12:53:24Z"
         },
         {
-            "Unnamed: 0": 23,
+            "Unnamed: 0": 16,
+            "office": "telecommunication",
+            "count": 1,
+            "max_timestamp": "2024-02-09T00:49:18Z"
+        },
+        {
+            "Unnamed: 0": 17,
+            "office": "studio_tecnico",
+            "count": 1,
+            "max_timestamp": "2023-11-19T10:47:25Z"
+        },
+        {
+            "Unnamed: 0": 18,
+            "office": "private_investigator",
+            "count": 1,
+            "max_timestamp": "2023-07-10T19:00:14Z"
+        },
+        {
+            "Unnamed: 0": 19,
+            "office": "interior_design",
+            "count": 1,
+            "max_timestamp": "2024-07-21T17:14:07Z"
+        },
+        {
+            "Unnamed: 0": 20,
+            "office": "event_planner",
+            "count": 1,
+            "max_timestamp": "2023-10-27T13:00:04Z"
+        },
+        {
+            "Unnamed: 0": 21,
+            "office": "occupational_safety",
+            "count": 1,
+            "max_timestamp": "2023-07-13T12:15:55Z"
+        },
+        {
+            "Unnamed: 0": 22,
             "office": "wedding_planner",
             "count": 1,
             "max_timestamp": "2024-05-16T12:48:11Z"

@@ -1,6 +1,7 @@
 <script setup>
 const props = defineProps(["data"]);
 
+
 const breadcrumb = computed(() => [
   {
     label: "wallet",
