@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: 'I gruppi di meetup Bitcoin in Italia | Bitcoin Italian Network',
+});
+
 const url_api = `https://bin-dev.pockethost.io/api/collections/meetup/records`;
 
 const { pending, data, error } = await useLazyFetch(url_api, {

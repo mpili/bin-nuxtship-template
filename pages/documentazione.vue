@@ -1,4 +1,8 @@
 <script setup>
+useHead({
+  title: "Documentazione | Bitcoin Italian Network",
+});
+
 definePageMeta({
   layout: "landing",
 });
@@ -10,6 +14,10 @@ const risorseDocumentazione = [
   {
     nome: "Raccolta documentazioni Mir Liponi",
     url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
+  },
+  {
+    nome: "Bitcoin in italiano di italiansatoshi",
+    url: "https://btcita.substack.com/",
   },
   {
     nome: "Guide di Atlas 21",
@@ -26,11 +34,11 @@ const risorseDocumentazione = [
   {
     nome: "Corsi PlanB Network",
     url: "https://planb.network/it/courses",
-  },  
+  },
   {
     nome: "Risorse Bitcoin in italiano by Tuma",
     url: "https://tumabitcoiner.github.io/risorse.html",
-  }, 
+  },
 ];
 </script>
 

@@ -1,4 +1,8 @@
 <script setup>
+useHead({
+  title: 'Calendari | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

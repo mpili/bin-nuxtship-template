@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: 'Eventi | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: 'Comunità | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

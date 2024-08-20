@@ -1,5 +1,9 @@
 <script setup>
 
+useHead({
+  title: 'Categorie di Esercenti che accettano Bitcoin in Italia | Bitcoin Italian Network',
+});
+
 const url_api  = `/data/poitags_count.json`;
 
 /* This call is performed before hydration */
@@ -10,6 +14,10 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
   server: false
 });
+
+// this call will be performed server side
+// const { data } = await useAsyncData("data", () => $fetch(url_api,));
+
 
 definePageMeta({
   layout: "landing",
@@ -24,7 +32,7 @@ definePageMeta({
 		<div v-if="pending">
 			Loading ...
 		</div>
-		<div v-else>
+		<div v-if="data">
 			<OstPagecount :data="data" />
 		</div>
 	</LandingContainer>

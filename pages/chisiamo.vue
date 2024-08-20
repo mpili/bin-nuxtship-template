@@ -1,6 +1,10 @@
 <script setup>
 // import { useImage } from 'nuxt/image'
 
+useHead({
+  title: 'Chi siamo | Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });

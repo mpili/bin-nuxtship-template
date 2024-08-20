@@ -1,4 +1,9 @@
 <script setup>
+
+useHead({
+  title: 'Bitcoin Italian Network',
+});
+
 definePageMeta({
   layout: "landing",
 });
