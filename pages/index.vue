@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Bitcoin Italian Network',
+  title: 'Bitcoin Italia Network',
 });
 
 definePageMeta({

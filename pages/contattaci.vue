@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'Contattaci | Bitcoin Italian Network',
+  title: 'Contattaci | Bitcoin Italia Network',
 });
 
 definePageMeta({

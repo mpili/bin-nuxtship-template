@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Libri Bitcoin in Italiano da acquistare su Amazon | Bitcoin Italian Network',
+  title: 'Libri Bitcoin in Italiano da acquistare su Amazon | Bitcoin Italia Network',
 });
 
 const url_api  = `/data/amazon-libri.json`;

@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Eventi | Bitcoin Italian Network',
+  title: 'Eventi | Bitcoin Italia Network',
 });
 
 definePageMeta({
