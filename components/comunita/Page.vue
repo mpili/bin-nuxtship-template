@@ -26,7 +26,7 @@ const breadcrumb = computed(() => [
   <div class="py-8">
     <LMap
       style="height: 250px"
-      :zoom="12"
+      :zoom="11"
       :center="[data.lng, data.lat]"
       :use-global-leaflet="false"
     >

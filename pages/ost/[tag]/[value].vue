@@ -16,8 +16,8 @@ const { data } = await useAsyncData("data", () => $fetch(url_api));
 
 const breadcrumb = computed(() => [
   {
-    label: "Categorie Esercenti",
-    path: "/ostcount",
+    label: tag=='"addr:city"' ? "" : "Categorie Esercenti",
+    path: tag=='"addr:city"' ? "" : "/ostcount",
   },
   {
     label: useTagtraduciit(tag, value),
