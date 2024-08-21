@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Siti dove acquistare in Bitcoin | Bitcoin Italian Network',
+  title: 'Siti dove acquistare in Bitcoin | Bitcoin Italia Network',
 });
 
 definePageMeta({

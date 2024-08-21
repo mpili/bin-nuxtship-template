@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Comunità | Bitcoin Italian Network',
+  title: 'Comunità | Bitcoin Italia Network',
 });
 
 definePageMeta({

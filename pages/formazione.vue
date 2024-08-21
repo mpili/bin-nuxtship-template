@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Formazione | Bitcoin Italian Network',
+  title: 'Formazione | Bitcoin Italia Network',
 });
 
 definePageMeta({

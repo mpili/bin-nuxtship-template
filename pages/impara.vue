@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: "Impara | Bitcoin Italian Network",
+  title: "Impara | Bitcoin Italia Network",
 });
 
 definePageMeta({

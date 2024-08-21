@@ -24,7 +24,6 @@ defineProps(["data"]);
           class="flex justify-between items-center cursor-pointer list-none"
         >
           <span class="text-lg font-bold"><OsnTraducitag :tag="tipo" value="x" />  </span>
-          <span class="text-gray-300">{{ tipo }}</span>
           <span class="transition group-open:rotate-180">
             <svg
               fill="none"

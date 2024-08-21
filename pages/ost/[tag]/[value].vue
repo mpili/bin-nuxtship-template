@@ -19,6 +19,10 @@ const breadcrumb = computed(() => [
     label: "Categorie Esercenti",
     path: "/ostcount",
   },
+  {
+    label: useTagtraduciit(tag, value),
+  },
+
 ]);
 
 definePageMeta({

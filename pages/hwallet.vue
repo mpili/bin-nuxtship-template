@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Harware wallet | Bitcoin Italian Network',
+  title: 'Harware wallet | Bitcoin Italia Network',
 });
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/hardwarewallet/records`;

@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Categorie di Esercenti che accettano Bitcoin in Italia | Bitcoin Italian Network',
+  title: 'Categorie di Esercenti che accettano Bitcoin in Italia | Bitcoin Italia Network',
 });
 
 const url_api  = `/data/poitags_count.json`;
