@@ -2,6 +2,12 @@
 
 useHead({
   title: 'Harware wallet | Bitcoin Italia Network',
+  meta: [
+	{
+	  name: "description",
+	  content: "Una selezione degli hardware wallet Bitcoin.",
+	},
+  ],
 });
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/hardwarewallet/records`;

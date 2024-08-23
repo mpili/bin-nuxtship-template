@@ -15,6 +15,11 @@ const breadcrumb = computed(() => [
     path: props.data.idlocalita ? "/l/"+props.data.idlocalita : null,
   },
 ]);
+
+useHead({
+  title: props?.data?.name + " | Bitcoin Italia Network",
+});
+
 </script>
 
 <template>

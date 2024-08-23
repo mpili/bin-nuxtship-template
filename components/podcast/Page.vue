@@ -10,6 +10,18 @@ const breadcrumb = computed(() => [
     label: props.podc.nome,
   },
 ]);
+
+useHead({
+  title: props.podc.nome + " | Bitcoin Italia Network",
+  meta: [
+	{
+	  name: "description",
+	  content: "Il podcast " + props.podc.nome + " che parla di Bitcoin in Italiano.",
+	},
+  ],
+});
+
+
 </script>
 
 <template>

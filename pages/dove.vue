@@ -41,6 +41,17 @@ const mappe = [
 		img: "/img/dove/add-your-here1000x420.png",
 	},
 ];
+
+useHead({
+  title: "Mappe su altri siti" + " | Bitcoin Italia Network",
+  meta: [
+	{
+	  name: "description",
+	  content: "Le mappe su altri siti di esercenti che accettano Bitcoin in Italia.",
+	},
+  ],
+});
+
 </script>
 
 <template>
@@ -49,6 +60,9 @@ const mappe = [
 			<template v-slot:title>Dove</template>
 			<template v-slot:desc>Le mappe delle attività Bitcoin sul territorio Italiano.</template>
 		</LandingSectionhead>
+
+		<LandingMainimg urlimg="/img/features/dove.jpg" />
+
 		<div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
 			<LandingDove v-for="item of mappe" :dove="item" />
 		</div>
