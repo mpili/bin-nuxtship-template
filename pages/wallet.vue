@@ -19,6 +19,16 @@ const breadcrumb = computed(() => [
   },
 ]);
 
+useHead({
+  title: "Wallet Bitcoin" + " | Bitcoin Italia Network",
+  meta: [
+	{
+	  name: "description",
+	  content: "Una selezione di wallet Bitcoin.",
+	},
+  ],
+});
+
 definePageMeta({
   layout: "landing",
 });
@@ -153,7 +163,9 @@ const attributiWalletOpz = [
       <template v-slot:title>Wallet</template>
       <template v-slot:desc>Le applicazioni per gestire i tuoi fondi.</template>
     </LandingSectionhead>
-    
+
+		<LandingMainimg urlimg="/img/sections/wallet.jpg" />
+
     <LandingBreadcrumb :voci="breadcrumb" />
 
     <div v-if="pending">Loading ...</div>

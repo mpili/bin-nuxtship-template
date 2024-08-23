@@ -146,6 +146,9 @@
 	<LMarker :lat-lng="[46.065088, 11.123858]">
 		<LPopup><NuxtLink to="/l/rovereto">Rovereto</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[45.0713, 11.7976]">
+		<LPopup><NuxtLink to="/l/rovigo">Rovigo</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/l/savona">Savona</NuxtLink></LPopup>
 	</LMarker>

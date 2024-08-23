@@ -14,16 +14,22 @@ const url_api = `https://overpass-api.de/api/interpreter?data=[out:json][timeout
 // this call will be performed server side
 const { data } = await useAsyncData("data", () => $fetch(url_api));
 
+const tagita = useTagtraduciit(tag, value);
+
 const breadcrumb = computed(() => [
   {
-    label: "Categorie Esercenti",
-    path: "/ostcount",
+    label: tag=='"addr:city"' ? "" : "Categorie Esercenti",
+    path: tag=='"addr:city"' ? "" : "/ostcount",
   },
   {
-    label: useTagtraduciit(tag, value),
+    label: tagita,
   },
 
 ]);
+
+useHead({
+  title: tagita + " | Bitcoin Italia Network",
+});
 
 definePageMeta({
   layout: "landing",

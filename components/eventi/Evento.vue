@@ -10,6 +10,12 @@ const breadcrumb = computed(() => [
     label: props.evento.titolo,
   },
 ]);
+
+useHead({
+  title: props.evento.titolo + " | Bitcoin Italia Network",
+});
+
+
 </script>
 
 <template>

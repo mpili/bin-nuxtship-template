@@ -7,7 +7,7 @@
     "idlocalita": "pordenone",
     "telegram_weburl": "https://web.telegram.org/a/#-1001742172532",
     "telegram_app": "https://t.me/bitcoinpordenone",
-    "telegram_members": 24.0,
+    "telegram_members": 23.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -630,6 +630,27 @@
                 "survey:date": "2024-01-01",
                 "tourism": "gallery",
                 "website": "https://linktr.ee/Ma.armoladaArt?fbclid=PAZXh0bgNhZW0CMTEAAab21UrFK8GPO9qQpBG1sLHqZAghQhylICmYogHy_rvxFkkjjHose8qtG74_aem_ZmFrZWR1bW15MTZieXRlcw"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12124193046,
+            "lat": 45.5869419,
+            "lon": 12.853504,
+            "timestamp": "2024-08-21T11:39:46Z",
+            "version": 1,
+            "changeset": 155553209,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Caorle",
+                "addr:housenumber": "33",
+                "addr:postcode": "30021",
+                "addr:street": "Corso Genova",
+                "amenity": "bar",
+                "currency:XBT": "yes",
+                "name": "Bar Carillon",
+                "payment:onchain": "yes"
             }
         }
     ],

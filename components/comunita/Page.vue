@@ -15,6 +15,11 @@ const breadcrumb = computed(() => [
     path: props.data.idlocalita ? "/l/"+props.data.idlocalita : null,
   },
 ]);
+
+useHead({
+  title: props?.data?.name + " | Bitcoin Italia Network",
+});
+
 </script>
 
 <template>
@@ -26,7 +31,7 @@ const breadcrumb = computed(() => [
   <div class="py-8">
     <LMap
       style="height: 250px"
-      :zoom="12"
+      :zoom="11"
       :center="[data.lng, data.lat]"
       :use-global-leaflet="false"
     >

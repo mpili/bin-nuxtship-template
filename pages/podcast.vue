@@ -100,6 +100,9 @@ const breadcrumb = computed(() => [
 			<template v-slot:title>Podcast</template>
 			<template v-slot:desc>I podcast Bitcoin in Italia</template>
 		</LandingSectionhead>
+
+		<LandingMainimg urlimg="/img/sections/podcast.jpg" />
+
 		<LandingBreadcrumb :voci="breadcrumb" />
 		<div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
 			<PodcastScheda v-for="item of podcasts" :podc="item" />
