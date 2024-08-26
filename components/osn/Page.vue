@@ -147,7 +147,7 @@ useHead({
         &nbsp;
         <span  class="text-blue-700 font-bold">
           <span v-if="data.tags['addr:city']">
-            <OsnTaglink tag="addr:city" :valore="data.tags['addr:city']" >
+            <OsnTaglink tag="%22addr:city%22" :valore="data.tags['addr:city']" >
               <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
             </OsnTaglink>
           </span>

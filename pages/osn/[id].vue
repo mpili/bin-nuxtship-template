@@ -21,14 +21,14 @@ definePageMeta({
 
 <template>
   <LandingContainer>
-    <div v-if="pending">
+    <!-- <div v-if="pending">
       <LandingLoading />
     </div>
-    <div v-else>
+    <div v-else> -->
       <div>
         <OsnPage v-if="data.elements.length>0" :data="data.elements[0]" />
       </div>
-    </div>
+    <!-- </div> -->
     <LandingDisclaimer />
 
   </LandingContainer>
