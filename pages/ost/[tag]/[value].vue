@@ -52,10 +52,11 @@ definePageMeta({
 
     <LandingBreadcrumb :voci="breadcrumb" />
 
-    <div v-if="pending">
+    <!-- <div v-if="pending">
       <LandingLoading />
     </div>
-    <div v-else class="my-6">
+    <div v-else class="my-6"> -->
+    <div class="my-6">
       <OstMap :pois="data.elements" />
 
       <div v-for="poi in data.elements">

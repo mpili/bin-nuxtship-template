@@ -14,7 +14,7 @@ export default {
 </script>
 
 <template>
-  <NuxtLink v-if="tag" :to='`/ost/"${tag}"/"${valore}"`'>
+  <NuxtLink v-if="tag" :to="`/ost/${tag}/${valore}`">
     <slot name="testo"></slot>
   </NuxtLink>
 </template>

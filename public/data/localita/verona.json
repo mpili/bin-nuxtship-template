@@ -389,11 +389,11 @@
         {
             "type": "node",
             "id": 6236567436,
-            "lat": 45.439358,
-            "lon": 10.864398,
-            "timestamp": "2024-08-19T12:43:13Z",
-            "version": 4,
-            "changeset": 155458788,
+            "lat": 45.4397258,
+            "lon": 10.8643939,
+            "timestamp": "2024-08-24T15:44:03Z",
+            "version": 5,
+            "changeset": 155702657,
             "user": "Jacopo",
             "uid": 21822,
             "tags": {
@@ -771,34 +771,6 @@
                 "phone": "+39 32 8376 1399",
                 "shop": "yes",
                 "website": "https://www.artigianatogiapponese.it/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11532581746,
-            "lat": 45.6632479,
-            "lon": 11.4029481,
-            "timestamp": "2024-05-13T22:10:25Z",
-            "version": 3,
-            "changeset": 151287561,
-            "user": "Legalbitcoin",
-            "uid": 21205303,
-            "tags": {
-                "addr:city": "Malo",
-                "addr:housenumber": "9",
-                "addr:postcode": "36034",
-                "addr:street": "Via Mazzini",
-                "check_date": "2024-01-20",
-                "currency:XBT": "yes",
-                "email": "info@legalbitcoin.it",
-                "name": "Legalbitcoin",
-                "note": "Consulenza e installazione pagamenti Bitcoin in bar, ristoranti e negozi.Consulenza successione ereditaria Bitcoin.",
-                "office": "consulting",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "phone": "04451716081",
-                "website": "https://legalbitcoin.it/"
             }
         },
         {

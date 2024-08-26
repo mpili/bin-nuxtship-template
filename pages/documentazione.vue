@@ -28,6 +28,10 @@ const risorseDocumentazione = [
     url: "https://planb.network/it/tutorials",
   },
   {
+    nome: "Imparare Bitcoin dalla riga di comando",
+    url: "https://github.com/lutxoitalico/Imparare-Bitcoin-dalla-Riga-di-Comando/blob/master/Leggimi.md",
+  },
+  {
     nome: "Guide di Bitcoin24ore",
     url: "https://bitcoin24ore.com/category/guide/",
   },

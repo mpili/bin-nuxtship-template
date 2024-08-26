@@ -332,6 +332,32 @@
                 "survey:date": "2024-07-02",
                 "website": "https://crestbottleshop.com/"
             }
+        },
+        {
+            "type": "node",
+            "id": 12137711089,
+            "lat": 35.9565582,
+            "lon": 14.3652009,
+            "timestamp": "2024-08-26T13:10:23Z",
+            "version": 1,
+            "changeset": 155781903,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Mellie\u0127a",
+                "addr:housenumber": "66",
+                "addr:street": "Triq il-Kbira",
+                "amenity": "cafe",
+                "check_date": "2024-08-26",
+                "contact:facebook": "https://www.facebook.com/profile.php?id=100066829402223",
+                "currency:XBT": "yes",
+                "name": "Fred\u00b4s Pies & More",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+35 62 152 3593"
+            }
         }
     ],
     "telegram": []

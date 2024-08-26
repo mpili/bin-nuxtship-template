@@ -4,13 +4,13 @@
             "Unnamed: 0": 0,
             "amenity": "restaurant",
             "count": 85,
-            "max_timestamp": "2024-08-22T10:58:38Z"
+            "max_timestamp": "2024-08-23T12:44:31Z"
         },
         {
             "Unnamed: 0": 1,
             "amenity": "atm",
             "count": 61,
-            "max_timestamp": "2024-08-22T11:54:12Z"
+            "max_timestamp": "2024-08-24T15:44:03Z"
         },
         {
             "Unnamed: 0": 2,
@@ -22,7 +22,7 @@
             "Unnamed: 0": 3,
             "amenity": "fast_food",
             "count": 35,
-            "max_timestamp": "2024-08-16T15:04:24Z"
+            "max_timestamp": "2024-08-24T17:24:18Z"
         },
         {
             "Unnamed: 0": 4,
@@ -709,8 +709,8 @@
         {
             "Unnamed: 0": 0,
             "cuisine": "pizza",
-            "count": 17,
-            "max_timestamp": "2024-08-22T10:58:38Z"
+            "count": 18,
+            "max_timestamp": "2024-08-23T12:44:31Z"
         },
         {
             "Unnamed: 0": 1,
@@ -738,246 +738,240 @@
         },
         {
             "Unnamed: 0": 5,
-            "cuisine": "regional",
-            "count": 2,
-            "max_timestamp": "2024-08-16T15:04:24Z"
-        },
-        {
-            "Unnamed: 0": 6,
             "cuisine": "italian;sandwich",
             "count": 2,
             "max_timestamp": "2024-04-07T09:35:15Z"
         },
         {
+            "Unnamed: 0": 6,
+            "cuisine": "regional",
+            "count": 2,
+            "max_timestamp": "2024-08-16T15:04:24Z"
+        },
+        {
             "Unnamed: 0": 7,
-            "cuisine": "pizza;italian",
-            "count": 1,
-            "max_timestamp": "2023-08-19T11:06:38Z"
-        },
-        {
-            "Unnamed: 0": 8,
-            "cuisine": "pizza;italian;burger",
-            "count": 1,
-            "max_timestamp": "2023-07-09T14:07:36Z"
-        },
-        {
-            "Unnamed: 0": 9,
-            "cuisine": "coffee_shop",
-            "count": 1,
-            "max_timestamp": "2024-07-05T19:47:53Z"
-        },
-        {
-            "Unnamed: 0": 10,
-            "cuisine": "arab;burger;kebab;sandwich",
-            "count": 1,
-            "max_timestamp": "2024-07-05T19:55:49Z"
-        },
-        {
-            "Unnamed: 0": 11,
-            "cuisine": "barbecue",
-            "count": 1,
-            "max_timestamp": "2023-04-27T10:06:38Z"
-        },
-        {
-            "Unnamed: 0": 12,
-            "cuisine": "italian;italian_pizza",
-            "count": 1,
-            "max_timestamp": "2023-08-03T23:59:52Z"
-        },
-        {
-            "Unnamed: 0": 13,
-            "cuisine": "hamburger;streetfood",
-            "count": 1,
-            "max_timestamp": "2024-07-21T09:30:02Z"
-        },
-        {
-            "Unnamed: 0": 14,
-            "cuisine": "frozen_yogurt",
-            "count": 1,
-            "max_timestamp": "2023-08-20T12:31:03Z"
-        },
-        {
-            "Unnamed: 0": 15,
-            "cuisine": "italian_pizza",
-            "count": 1,
-            "max_timestamp": "2023-07-02T17:59:17Z"
-        },
-        {
-            "Unnamed: 0": 16,
-            "cuisine": "pizza;fish",
-            "count": 1,
-            "max_timestamp": "2023-11-22T17:45:08Z"
-        },
-        {
-            "Unnamed: 0": 17,
-            "cuisine": "burger;pinsa",
-            "count": 1,
-            "max_timestamp": "2023-11-29T22:50:51Z"
-        },
-        {
-            "Unnamed: 0": 18,
             "cuisine": "japanese",
             "count": 1,
             "max_timestamp": "2024-03-26T18:34:14Z"
         },
         {
-            "Unnamed: 0": 19,
-            "cuisine": "pizza;kebab;farinata;focaccia",
+            "Unnamed: 0": 8,
+            "cuisine": "barbecue",
             "count": 1,
-            "max_timestamp": "2024-01-28T22:21:12Z"
+            "max_timestamp": "2023-04-27T10:06:38Z"
         },
         {
-            "Unnamed: 0": 20,
-            "cuisine": "pizza;cocktail",
-            "count": 1,
-            "max_timestamp": "2024-03-11T18:27:33Z"
-        },
-        {
-            "Unnamed: 0": 21,
-            "cuisine": "seafood;fish",
-            "count": 1,
-            "max_timestamp": "2024-04-24T19:19:59Z"
-        },
-        {
-            "Unnamed: 0": 22,
-            "cuisine": "italian;burger;sandwich;pasta",
-            "count": 1,
-            "max_timestamp": "2024-05-08T14:53:19Z"
-        },
-        {
-            "Unnamed: 0": 23,
+            "Unnamed: 0": 9,
             "cuisine": "burger",
             "count": 1,
             "max_timestamp": "2024-05-20T10:06:54Z"
         },
         {
-            "Unnamed: 0": 24,
+            "Unnamed: 0": 10,
+            "cuisine": "pizza;italian;burger",
+            "count": 1,
+            "max_timestamp": "2023-07-09T14:07:36Z"
+        },
+        {
+            "Unnamed: 0": 11,
+            "cuisine": "coffee_shop",
+            "count": 1,
+            "max_timestamp": "2024-07-05T19:47:53Z"
+        },
+        {
+            "Unnamed: 0": 12,
+            "cuisine": "italian;burger;sandwich;pasta",
+            "count": 1,
+            "max_timestamp": "2024-05-08T14:53:19Z"
+        },
+        {
+            "Unnamed: 0": 13,
+            "cuisine": "seafood;fish",
+            "count": 1,
+            "max_timestamp": "2024-04-24T19:19:59Z"
+        },
+        {
+            "Unnamed: 0": 14,
+            "cuisine": "arab;burger;kebab;sandwich",
+            "count": 1,
+            "max_timestamp": "2024-07-05T19:55:49Z"
+        },
+        {
+            "Unnamed: 0": 15,
+            "cuisine": "italian;italian_pizza",
+            "count": 1,
+            "max_timestamp": "2023-08-03T23:59:52Z"
+        },
+        {
+            "Unnamed: 0": 16,
+            "cuisine": "burger;pinsa",
+            "count": 1,
+            "max_timestamp": "2023-11-29T22:50:51Z"
+        },
+        {
+            "Unnamed: 0": 17,
+            "cuisine": "pizza;italian",
+            "count": 1,
+            "max_timestamp": "2023-08-19T11:06:38Z"
+        },
+        {
+            "Unnamed: 0": 18,
+            "cuisine": "frozen_yogurt",
+            "count": 1,
+            "max_timestamp": "2023-08-20T12:31:03Z"
+        },
+        {
+            "Unnamed: 0": 19,
             "cuisine": "italian;regional;international",
             "count": 1,
             "max_timestamp": "2024-02-10T08:45:53Z"
         },
         {
-            "Unnamed: 0": 25,
-            "cuisine": "pizza;coffee_shop;italian",
+            "Unnamed: 0": 20,
+            "cuisine": "pizza;fish",
             "count": 1,
-            "max_timestamp": "2024-07-19T07:09:21Z"
+            "max_timestamp": "2023-11-22T17:45:08Z"
         },
         {
-            "Unnamed: 0": 26,
-            "cuisine": "italian;coffee_shop",
+            "Unnamed: 0": 21,
+            "cuisine": "pizza;cocktail",
             "count": 1,
-            "max_timestamp": "2023-11-08T19:02:50Z"
+            "max_timestamp": "2024-03-11T18:27:33Z"
         },
         {
-            "Unnamed: 0": 27,
+            "Unnamed: 0": 22,
+            "cuisine": "pizza;kebab;farinata;focaccia",
+            "count": 1,
+            "max_timestamp": "2024-01-28T22:21:12Z"
+        },
+        {
+            "Unnamed: 0": 23,
+            "cuisine": "hamburger;streetfood",
+            "count": 1,
+            "max_timestamp": "2024-07-21T09:30:02Z"
+        },
+        {
+            "Unnamed: 0": 24,
             "cuisine": "chicken",
             "count": 1,
             "max_timestamp": "2023-05-30T21:26:11Z"
         },
         {
-            "Unnamed: 0": 28,
+            "Unnamed: 0": 25,
+            "cuisine": "italian;coffee_shop",
+            "count": 1,
+            "max_timestamp": "2023-11-08T19:02:50Z"
+        },
+        {
+            "Unnamed: 0": 26,
+            "cuisine": "pizza;coffee_shop;italian",
+            "count": 1,
+            "max_timestamp": "2024-07-19T07:09:21Z"
+        },
+        {
+            "Unnamed: 0": 27,
             "cuisine": "noodle;pizza",
             "count": 1,
             "max_timestamp": "2023-09-29T23:20:09Z"
         },
         {
-            "Unnamed: 0": 29,
+            "Unnamed: 0": 28,
             "cuisine": "regional;italian;coffee_shop",
             "count": 1,
             "max_timestamp": "2024-07-20T20:17:58Z"
         },
         {
-            "Unnamed: 0": 30,
+            "Unnamed: 0": 29,
             "cuisine": "regional;piadina",
             "count": 1,
             "max_timestamp": "2024-07-20T20:22:13Z"
         },
         {
-            "Unnamed: 0": 31,
+            "Unnamed: 0": 30,
             "cuisine": "ice_cream",
             "count": 1,
             "max_timestamp": "2024-03-06T07:06:24Z"
         },
         {
-            "Unnamed: 0": 32,
+            "Unnamed: 0": 31,
             "cuisine": "regional;pizza",
             "count": 1,
             "max_timestamp": "2024-02-06T05:48:05Z"
         },
         {
-            "Unnamed: 0": 33,
+            "Unnamed: 0": 32,
             "cuisine": "ramen;japanese;piadina",
             "count": 1,
             "max_timestamp": "2023-12-10T10:32:37Z"
         },
         {
-            "Unnamed: 0": 34,
+            "Unnamed: 0": 33,
             "cuisine": "italian;fastfood;italian_pizza",
             "count": 1,
             "max_timestamp": "2023-08-26T10:18:50Z"
         },
         {
-            "Unnamed: 0": 35,
+            "Unnamed: 0": 34,
             "cuisine": "suedtirolerisch",
             "count": 1,
             "max_timestamp": "2024-07-11T20:31:43Z"
         },
         {
-            "Unnamed: 0": 36,
+            "Unnamed: 0": 35,
             "cuisine": "burger;sandwich",
             "count": 1,
-            "max_timestamp": "2024-07-11T20:51:52Z"
+            "max_timestamp": "2024-08-24T17:24:18Z"
         },
         {
-            "Unnamed: 0": 37,
+            "Unnamed: 0": 36,
             "cuisine": "italian;pizza",
             "count": 1,
             "max_timestamp": "2024-05-28T06:10:38Z"
         },
         {
-            "Unnamed: 0": 38,
+            "Unnamed: 0": 37,
             "cuisine": "fusion;cocktail",
             "count": 1,
             "max_timestamp": "2024-07-24T16:32:09Z"
         },
         {
-            "Unnamed: 0": 39,
+            "Unnamed: 0": 38,
             "cuisine": "pizza;italian;bistro",
             "count": 1,
             "max_timestamp": "2023-12-17T14:53:36Z"
         },
         {
-            "Unnamed: 0": 40,
+            "Unnamed: 0": 39,
             "cuisine": "steak_house;italian",
             "count": 1,
             "max_timestamp": "2023-08-04T07:33:23Z"
         },
         {
-            "Unnamed: 0": 41,
+            "Unnamed: 0": 40,
             "cuisine": "coffee_shop;regional;italian;sandwich;pasta",
             "count": 1,
             "max_timestamp": "2024-08-22T11:54:12Z"
         },
         {
-            "Unnamed: 0": 42,
+            "Unnamed: 0": 41,
             "cuisine": "piadina;romagnola",
             "count": 1,
             "max_timestamp": "2023-07-10T18:35:45Z"
         },
         {
-            "Unnamed: 0": 43,
+            "Unnamed: 0": 42,
             "cuisine": "pizza;ice_cream;bar&grill",
             "count": 1,
             "max_timestamp": "2023-07-27T11:46:59Z"
         },
         {
-            "Unnamed: 0": 44,
+            "Unnamed: 0": 43,
             "cuisine": "piadina",
             "count": 1,
             "max_timestamp": "2024-08-01T08:28:05Z"
         },
         {
-            "Unnamed: 0": 45,
+            "Unnamed: 0": 44,
             "cuisine": "regional;italian;piadina",
             "count": 1,
             "max_timestamp": "2023-12-21T17:06:12Z"
@@ -1005,8 +999,8 @@
         {
             "Unnamed: 0": 3,
             "office": "consulting",
-            "count": 9,
-            "max_timestamp": "2024-07-23T09:54:50Z"
+            "count": 8,
+            "max_timestamp": "2024-08-26T16:43:13Z"
         },
         {
             "Unnamed: 0": 4,

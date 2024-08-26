@@ -15,7 +15,7 @@ export default {
     >
       <ol class="list-none p-0 flex flex-wrap space-x-2">
         <li>
-          <NuxtLink href="/" to="/" class="flex">
+          <NuxtLink to="/" class="flex">
             <Icon name="ic:sharp-home" size="24" color="#bbb" />
             <span class="text-gray-400 pl-2">/</span>
           </NuxtLink>
