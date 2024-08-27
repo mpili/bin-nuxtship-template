@@ -89,6 +89,12 @@ const social = [
 
 useHead({
   title: props?.data?.tags?.name + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: 'canonical',
+      href: `https://bitcoinitalianetwork.com/osn/${props?.data?.id}`,
+    },
+  ],
 });
 </script>
 
