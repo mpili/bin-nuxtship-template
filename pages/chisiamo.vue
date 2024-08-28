@@ -2,7 +2,7 @@
 // import { useImage } from 'nuxt/image'
 
 useHead({
-  title: 'Chi siamo | Bitcoin Italian Network',
+  title: "Chi siamo | Bitcoin Italian Network",
 });
 
 definePageMeta({
@@ -81,26 +81,29 @@ const team = [
       </h2>
       <div class="text-lg leading-relaxed text-slate-500">
         <p class="my-4">
-          Bitcoin Italia Network nasce dall'idea di un gruppo di appassionati di
-          Bitcoin con l’obiettivo di creare una rete sul territorio italiano per
-          divulgare, supportare e promuovere l’interesse e le competenze
-          riguardanti tematiche e servizi legati a Bitcoin.
+          Bitcoin Italia Network nasce per rispondere alle esigenze dei
+          Bitcoiner italiani, offrendo una rete solida e attiva per coloro che
+          vogliono approfondire e sfruttare al meglio le potenzialità di
+          Bitcoin.
         </p>
         <p class="my-4">
-          L'iniziativa mira a fornire una piattaforma per la condivisione di
-          conoscenze, esperienze e risorse, facilitando l'accesso alle
-          informazioni e agli strumenti necessari per comprendere e utilizzare
-          Bitcoin in modo efficace.
+          La nostra iniziativa si rivolge a tutti gli appassionati di Bitcoin,
+          mettendo a disposizione una piattaforma dedicata alla condivisione di
+          informazioni, conoscenze, esperienze e risorse, con l'obiettivo di
+          facilitare l'accesso a informazioni cruciali e strumenti pratici per
+          un utilizzo consapevole ed efficace di Bitcoin.
         </p>
         <p class="my-4">
-          Attraverso eventi, workshop e attività di formazione, Bitcoin Italia
-          Network si propone di rafforzare la comunità italiana di Bitcoin,
-          favorendo adozione e innovazione dell'ecosistema Bitcoin italiano.
+          Eventi, workshop e attività di formazione mirate, Bitcoin Italia
+          Network si impegna a sostenere la crescita e il rafforzamento della
+          comunità italiana di Bitcoin, promuovendo l'adozione e l'innovazione
+          all'interno dell'ecosistema nazionale.
         </p>
-        <p>
-          Siamo un team multiculturale europeo proveniente da diverse parti
-          d'Italia, da contesti diversi, con esperienze e competenze specifiche
-          nel nostro lavoro.
+        <p class="my-4">
+          Siamo un team multiculturale di Bitcoiner, provenienti da diverse
+          regioni d'Italia e con esperienze variegate, uniti dalla passione per
+          Bitcoin e con la missione di offrire un supporto concreto a chi
+          condivide questo interesse.
         </p>
       </div>
     </div>
