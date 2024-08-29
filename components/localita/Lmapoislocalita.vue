@@ -2,12 +2,6 @@
 	<LMarker :lat-lng="[44.049114, 8.213017]">
 		<LPopup><NuxtLink to="/l/albenga">Albenga</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[42.7402, 11.0555]">
-		<LPopup><NuxtLink to="/l/grosseto">Grosseto</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[43.3082, 11.3293]">
-		<LPopup><NuxtLink to="/l/siena">Siena</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[43.4632928, 11.8800925]">
 		<LPopup><NuxtLink to="/l/arezzo">Arezzo</NuxtLink></LPopup>
 	</LMarker>
@@ -70,6 +64,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[41.673, 12.704]">
 		<LPopup><NuxtLink to="/l/genzano_di_roma">Genzano di Roma</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[42.7402, 11.0555]">
+		<LPopup><NuxtLink to="/l/grosseto">Grosseto</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.2922106, 13.9070363]">
 		<LPopup><NuxtLink to="/l/istria">Istria</NuxtLink></LPopup>
@@ -151,6 +148,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/l/savona">Savona</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.3082, 11.3293]">
+		<LPopup><NuxtLink to="/l/siena">Siena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[37.0703, 15.2889]">
 		<LPopup><NuxtLink to="/l/siracusa">Siracusa</NuxtLink></LPopup>

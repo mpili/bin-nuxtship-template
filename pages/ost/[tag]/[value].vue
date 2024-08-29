@@ -29,6 +29,12 @@ const breadcrumb = computed(() => [
 
 useHead({
   title: tagita + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: 'canonical',
+      href: `https://bitcoinitalianetwork.com/ost/${tag}/${value}`,
+    },
+  ],
 });
 
 definePageMeta({

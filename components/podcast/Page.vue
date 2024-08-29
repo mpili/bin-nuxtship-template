@@ -14,14 +14,19 @@ const breadcrumb = computed(() => [
 useHead({
   title: props.podc.nome + " | Bitcoin Italia Network",
   meta: [
-	{
-	  name: "description",
-	  content: "Il podcast " + props.podc.nome + " che parla di Bitcoin in Italiano.",
-	},
+    {
+      name: "description",
+      content:
+        "Il podcast " + props.podc.nome + " che parla di Bitcoin in Italiano.",
+    },
+  ],
+  link: [
+    {
+      rel: "canonical",
+      href: `https://bitcoinitalianetwork.com/podc/${props?.podc?.id}`,
+    },
   ],
 });
-
-
 </script>
 
 <template>
