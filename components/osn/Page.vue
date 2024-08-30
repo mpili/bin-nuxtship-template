@@ -78,6 +78,10 @@ const social = [
     icona: "bi:twitter-x",
   },
   {
+    nome: "linkedin",
+    icona: "mdi:linkedin",
+  },
+  {
     nome: "telegram",
     icona: "mdi:telegram",
   },
@@ -91,7 +95,7 @@ useHead({
   title: props?.data?.tags?.name + " | Bitcoin Italia Network",
   link: [
     {
-      rel: 'canonical',
+      rel: "canonical",
       href: `https://bitcoinitalianetwork.com/osn/${props?.data?.id}`,
     },
   ],
@@ -151,30 +155,57 @@ useHead({
           data.tags["contact:postcode"]
         }}</span>
         &nbsp;
-        <span  class="text-blue-700 font-bold">
+        <span class="text-blue-700 font-bold">
           <span v-if="data.tags['addr:city']">
-            <OsnTaglink tag="%22addr:city%22" :valore="data.tags['addr:city']" >
+            <OsnTaglink tag="%22addr:city%22" :valore="data.tags['addr:city']">
               <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
             </OsnTaglink>
           </span>
           <span v-else-if="data.tags['contact:city']">
-            <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']" >
+            <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']">
               <template v-slot:testo>{{ data.tags["contact:city"] }}</template>
             </OsnTaglink>
           </span>
         </span>
-        <span v-if="data.tags['addr:province']">({{ data.tags["addr:province"] }})</span>
+        <span v-if="data.tags['addr:province']"
+          >({{ data.tags["addr:province"] }})</span
+        >
       </p>
     </div>
-
   </div>
-  <OsnTel v-if="data.tags.phone" icona="material-symbols:call" etichetta="Telefono" :telefono="data.tags.phone" />
-  <OsnTel v-if="data.tags['contact:phone']" icona="material-symbols:call" etichetta="Telefono" :telefono="data.tags['contact:phone']" />
-  <OsnTel v-if="data.tags['mobile']" icona="clarity:mobile-line" etichetta="Cell" :telefono="data.tags['mobile']" />
-  <OsnTel v-if="data.tags['contact:mobile']" icona="clarity:mobile-line" etichetta="Cell" :telefono="data.tags['contact:mobile']" />
-  <OsnTel v-if="data.tags['phone:mobile']" icona="ic:baseline-phone-iphone" etichetta="Cell" :telefono="data.tags['phone:mobile']" />
+  <OsnTel
+    v-if="data.tags.phone"
+    icona="material-symbols:call"
+    etichetta="Telefono"
+    :telefono="data.tags.phone"
+  />
+  <OsnTel
+    v-if="data.tags['contact:phone']"
+    icona="material-symbols:call"
+    etichetta="Telefono"
+    :telefono="data.tags['contact:phone']"
+  />
+  <OsnTel
+    v-if="data.tags['mobile']"
+    icona="clarity:mobile-line"
+    etichetta="Cell"
+    :telefono="data.tags['mobile']"
+  />
+  <OsnTel
+    v-if="data.tags['contact:mobile']"
+    icona="clarity:mobile-line"
+    etichetta="Cell"
+    :telefono="data.tags['contact:mobile']"
+  />
+  <OsnTel
+    v-if="data.tags['phone:mobile']"
+    icona="ic:baseline-phone-iphone"
+    etichetta="Cell"
+    :telefono="data.tags['phone:mobile']"
+  />
 
-  <OsnTagyesno v-if="data.tags.wheelchair"
+  <OsnTagyesno
+    v-if="data.tags.wheelchair"
     icona="ph:wheelchair-light"
     etichetta="Sedie a rotelle"
     :testo="data.tags.wheelchair"
@@ -188,48 +219,55 @@ useHead({
     :tags="data.tags"
   />
 
-  <OsnTagyesno v-if="data.tags['outdoor_seating']"
+  <OsnTagyesno
+    v-if="data.tags['outdoor_seating']"
     icona="ph:sun-bold"
     etichetta="Posti all'aperto"
     :testo="data.tags['outdoor_seating']"
   />
 
-  <OsnTag v-if="data.tags.brand"
+  <OsnTag
+    v-if="data.tags.brand"
     icona="tabler:brand-pagekit"
     etichetta="Brand"
     :testo="data.tags.brand"
   />
 
-  <OsnTag v-if="data.tags.operator"
+  <OsnTag
+    v-if="data.tags.operator"
     icona="guidance:office-pod"
     etichetta="Conduttore"
     :testo="data.tags.operator"
   />
 
-  <OsnTag v-if="data.tags['currency:XBT:discount']"
+  <OsnTag
+    v-if="data.tags['currency:XBT:discount']"
     icona="streamline:discount-percent-circle"
     etichetta="sconto bitcoin"
     :testo="data.tags['currency:XBT:discount']"
   />
 
-
-  <OsnTagyesno v-if="data.tags['payment:lightning']"
+  <OsnTagyesno
+    v-if="data.tags['payment:lightning']"
     icona="ph:lightning"
     etichetta="Pagamento con lightning"
     :testo="data.tags['payment:lightning']"
   />
-  <OsnTagyesno v-if="data.tags['payment:lightning_contactless']"
+  <OsnTagyesno
+    v-if="data.tags['payment:lightning_contactless']"
     icona="ph:lightning"
     etichetta="Lightning contactless"
     :testo="data.tags['payment:lightning_contactless']"
   />
-  <OsnTagyesno v-if="data.tags['payment:onchain']"
+  <OsnTagyesno
+    v-if="data.tags['payment:onchain']"
     icona="akar-icons:link-chain"
     etichetta="Pagamento on-chain"
     :testo="data.tags['payment:onchain']"
   />
 
-  <OsnTag v-if="data.tags['opening_hours']"
+  <OsnTag
+    v-if="data.tags['opening_hours']"
     icona="material-symbols:nest-clock-farsight-analog-outline"
     etichetta="orari apertura"
     :testo="data.tags['opening_hours']"
@@ -239,29 +277,34 @@ useHead({
 
   <div class="flex">
     <OsnTagwebsite v-if="data.tags.website" :url="data.tags.website" />
-    <OsnTagwebsite v-if="data.tags['contact:website']" :url="data.tags['contact:website']" />
+    <OsnTagwebsite
+      v-if="data.tags['contact:website']"
+      :url="data.tags['contact:website']"
+    />
   </div>
 
-  <OsnTag v-if="data.tags.email"
+  <OsnTag
+    v-if="data.tags.email"
     icona="material-symbols:alternate-email"
     etichetta="email"
     :testo="data.tags.email"
   />
-  <OsnTag v-if="data.tags['contact:email']"
+  <OsnTag
+    v-if="data.tags['contact:email']"
     icona="material-symbols:mail-outline-sharp"
     etichetta="email"
     :testo="data.tags['contact:email']"
   />
 
   <div class="flex flex-wrap my-4">
-    <OsnSocial
-      v-for="s of social"
-      :nome="s.nome"
-      :icona="s.icona"
-      :value="data.tags['contact:' + s.nome]"
-    />
+    <span v-for="s of social">
+      <OsnSocial
+        :nome="s.nome"
+        :icona="s.icona"
+        :value="data.tags['contact:' + s.nome]"
+      />
+    </span>
   </div>
-
 
   <OsnMap :data="data" />
 
@@ -310,5 +353,4 @@ useHead({
       <span class="text-gray-300 text-sm">{{ data.tags["survey:date"] }}</span>
     </div>
   </div>
-
 </template>

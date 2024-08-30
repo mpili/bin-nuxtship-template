@@ -1,6 +1,6 @@
 <script setup>
 const { tag, value } = useRoute().params;
-const url_api = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3600365331)->.searchArea;nwr["currency:XBT"="yes"][${tag}=${value}](area.searchArea);out meta;`;
+const url_api = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3600365331)->.searchArea;node["currency:XBT"="yes"][${tag}~${value}](area.searchArea);out meta;`;
 
 /* This call is performed before hydration */
 // var { data } = await useFetch(url_api);

@@ -21,11 +21,11 @@ const getTranslationit = (tag, value) => {
   <span v-else-if="tags.shop">
     {{ getTranslationit("shop", tags.shop) }}
   </span>
-  <span v-else-if="tags.tourism">
-    {{ getTranslationit("tourism", tags.tourism) }}
-  </span>
   <span v-else-if="tags.office">
     {{ getTranslationit("office", tags.office) }}
+  </span>
+  <span v-else-if="tags.tourism">
+    {{ getTranslationit("tourism", tags.tourism) }}
   </span>
   <span v-else-if="tags.healthcare">
     {{ getTranslationit("healthcare", tags.healthcare) }}
