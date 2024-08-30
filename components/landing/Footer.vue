@@ -16,8 +16,8 @@ const vocimenu = [
         path: "/shop",
       },
       {
-        titolo: "Formazione",
-        path: "/formazione",
+        titolo: "Categorie",
+        path: "/ostcount",
       },
     ],
   },

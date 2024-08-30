@@ -7,7 +7,7 @@
     "idlocalita": "rovereto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001781332904",
     "telegram_app": "https://t.me/SatoshiSpritzRovereto",
-    "telegram_members": 141.0,
+    "telegram_members": 140.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1439,11 +1439,11 @@
             "id": 11876751567,
             "lat": 45.7178276,
             "lon": 11.3883769,
-            "timestamp": "2024-05-09T20:23:46Z",
-            "version": 3,
-            "changeset": 151118361,
-            "user": "Christoph Lotz",
-            "uid": 47978,
+            "timestamp": "2024-08-30T08:14:45Z",
+            "version": 5,
+            "changeset": 155961109,
+            "user": "Ferrigato Srlu",
+            "uid": 4774728,
             "tags": {
                 "addr:city": "Schio (VI)",
                 "addr:country": "IT",
@@ -1454,7 +1454,8 @@
                 "name": "Ferrigato Srlu",
                 "note": "Health and Safety Consultants",
                 "payment:lightning": "yes",
-                "survey:date": "2024-05-03"
+                "payment:onchain": "yes",
+                "survey:date": "2024-08-30"
             }
         },
         {

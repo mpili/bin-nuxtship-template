@@ -7,7 +7,7 @@
     "idlocalita": "venezia",
     "telegram_weburl": "https://web.telegram.org/a/#-1002218397394",
     "telegram_app": "https://t.me/Bitcoin_Veneto",
-    "telegram_members": 284.0,
+    "telegram_members": 289.0,
     "poi": [
         {
             "type": "node",
@@ -1064,11 +1064,11 @@
             "id": 11876751567,
             "lat": 45.7178276,
             "lon": 11.3883769,
-            "timestamp": "2024-05-09T20:23:46Z",
-            "version": 3,
-            "changeset": 151118361,
-            "user": "Christoph Lotz",
-            "uid": 47978,
+            "timestamp": "2024-08-30T08:14:45Z",
+            "version": 5,
+            "changeset": 155961109,
+            "user": "Ferrigato Srlu",
+            "uid": 4774728,
             "tags": {
                 "addr:city": "Schio (VI)",
                 "addr:country": "IT",
@@ -1079,7 +1079,8 @@
                 "name": "Ferrigato Srlu",
                 "note": "Health and Safety Consultants",
                 "payment:lightning": "yes",
-                "survey:date": "2024-05-03"
+                "payment:onchain": "yes",
+                "survey:date": "2024-08-30"
             }
         },
         {
@@ -1158,6 +1159,33 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 37 6176 3526"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12146085710,
+            "lat": 45.6599593,
+            "lon": 12.2534554,
+            "timestamp": "2024-08-30T12:37:48Z",
+            "version": 1,
+            "changeset": 155972100,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Treviso",
+                "addr:housenumber": "31",
+                "addr:postcode": "31100",
+                "addr:street": "Via Sebastiano Venier",
+                "consulting": "bitcoin",
+                "contact:telegram": "https://t.me/Suhaci",
+                "currency:XBT": "yes",
+                "description": "Consulenza Aziendale",
+                "email": "consulting@suhaci.com",
+                "name": "Suhaci Consulting",
+                "office": "consulting",
+                "payment:lightning": "no",
+                "phone": "+39 340 389 3512",
+                "website": "https://www.suhaci.com/"
             }
         }
     ],
