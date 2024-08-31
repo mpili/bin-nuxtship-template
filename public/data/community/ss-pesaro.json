@@ -281,6 +281,31 @@
                 "phone": "+39 0721 31511",
                 "shop": "clothes"
             }
+        },
+        {
+            "type": "node",
+            "id": 12147929280,
+            "lat": 44.0590112,
+            "lon": 12.5627959,
+            "timestamp": "2024-08-31T15:19:00Z",
+            "version": 1,
+            "changeset": 156020066,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:housenumber": "1",
+                "addr:postcode": "47922",
+                "addr:street": "Via Dario Campana",
+                "check_date": "2024-08-31",
+                "contact:instagram": "https://www.instagram.com/orivel.moda/",
+                "currency:XBT": "yes",
+                "name": "Orivel Moda",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "shop": "clothes"
+            }
         }
     ],
     "telegram": []
