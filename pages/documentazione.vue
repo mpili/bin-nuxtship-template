@@ -36,12 +36,16 @@ const risorseDocumentazione = [
     url: "https://bitcoin24ore.com/category/guide/",
   },
   {
-    nome: "Corsi PlanB Network",
-    url: "https://planb.network/it/courses",
+    nome: "Raccolta di contenuti (principalmente video) di Pindol",
+    url: "https://pindol.medium.com/premessa-1e5254a52475",
   },
   {
     nome: "Risorse Bitcoin in italiano by Tuma",
     url: "https://tumabitcoiner.github.io/risorse.html",
+  },
+  {
+    nome: "Corsi PlanB Network",
+    url: "https://planb.network/it/courses",
   },
 ];
 </script>

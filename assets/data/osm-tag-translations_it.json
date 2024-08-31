@@ -1181,7 +1181,7 @@
         "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
     },
     "tag:craft": {
-        "message": "Artigiani",
+        "message": "Artigiano",
         "description": "Key \"craft\". See https://wiki.openstreetmap.org/wiki/Key:craft"
     },
     "tag:craft=agricultural_engines": {
@@ -1974,7 +1974,7 @@
         "description": "Tag \"cuisine=salad\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sandwich": {
-        "message": "",
+        "message": "Sandwich",
         "description": "Tag \"cuisine=sandwich\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sausage": {
@@ -1982,7 +1982,7 @@
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=savory_pancakes": {
-        "message": "",
+        "message": "Pancake",
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
@@ -4026,7 +4026,7 @@
         "description": "Tag \"office=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=estate_agent"
     },
     "tag:office=financial": {
-        "message": "",
+        "message": "Servizi finanziari",
         "description": "Tag \"office=financial\". See https://wiki.openstreetmap.org/wiki/Tag:office=financial"
     },
     "tag:office=forestry": {
@@ -4057,6 +4057,11 @@
         "message": "Agenzia assicurazioni",
         "description": "Tag \"office=insurance\". See https://wiki.openstreetmap.org/wiki/Tag:office=insurance"
     },
+    "tag:office=interior_design": {
+        "message": "Interior design",
+        "description": "Tag \"office=interior_design\". See https://wiki.openstreetmap.org/wiki/Tag:office=interior_design"
+    },
+
     "tag:office=it": {
         "message": "Informatica",
         "description": "Tag \"office=it\". See https://wiki.openstreetmap.org/wiki/Tag:office=it"
@@ -4164,6 +4169,10 @@
     "tag:office=water_utility": {
         "message": "",
         "description": "Tag \"office=water_utility\". See https://wiki.openstreetmap.org/wiki/Tag:office=water_utility"
+    },
+    "tag:office=wedding_planner": {
+        "message": "Wedding planner",
+        "description": "Tag \"office=wedding_planner\". See https://wiki.openstreetmap.org/wiki/Tag:office=wedding_planner"
     },
     "tag:official_name": {
         "message": "Nome ufficiale",
@@ -5752,7 +5761,7 @@
         "description": "Tag \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
     },
     "tag:sport=surfing": {
-        "message": "",
+        "message": "Surf",
         "description": "Tag \"sport=surfing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=surfing"
     },
     "tag:sport=swimming": {
