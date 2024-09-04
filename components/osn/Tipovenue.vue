@@ -12,32 +12,32 @@ const getTranslationit = (tag, value) => {
 </script>
 
 <template>
-  <span v-if="tags.amenity">
-    {{ getTranslationit("amenity", tags.amenity) }}
+  <span v-if="tags?.amenity">
+    {{ getTranslationit("amenity", tags?.amenity) }}
   </span>
-  <span v-else-if="tags.leisure">
-    {{ getTranslationit("leisure", tags.leisure) }}
+  <span v-else-if="tags?.leisure">
+    {{ getTranslationit("leisure", tags?.leisure) }}
   </span>
-  <span v-else-if="tags.shop">
-    {{ getTranslationit("shop", tags.shop) }}
+  <span v-else-if="tags?.shop">
+    {{ getTranslationit("shop", tags?.shop) }}
   </span>
-  <span v-else-if="tags.office">
-    {{ getTranslationit("office", tags.office) }}
+  <span v-else-if="tags?.office">
+    {{ getTranslationit("office", tags?.office) }}
   </span>
-  <span v-else-if="tags.tourism">
-    {{ getTranslationit("tourism", tags.tourism) }}
+  <span v-else-if="tags?.tourism">
+    {{ getTranslationit("tourism", tags?.tourism) }}
   </span>
-  <span v-else-if="tags.healthcare">
-    {{ getTranslationit("healthcare", tags.healthcare) }}
+  <span v-else-if="tags?.healthcare">
+    {{ getTranslationit("healthcare", tags?.healthcare) }}
   </span>
-  <span v-else-if="tags.craft">
-    {{ getTranslationit("craft", tags.craft) }}
+  <span v-else-if="tags?.craft">
+    {{ getTranslationit("craft", tags?.craft) }}
   </span>
-  <span v-else-if="tags.industrial">
-    {{ getTranslationit("industrial", tags.industrial) }}
+  <span v-else-if="tags?.industrial">
+    {{ getTranslationit("industrial", tags?.industrial) }}
   </span>
-  <span v-else-if="tags.club">
-    {{ getTranslationit("club", tags.club) }}
+  <span v-else-if="tags?.club">
+    {{ getTranslationit("club", tags?.club) }}
   </span>
   <span v-else></span>
 </template>

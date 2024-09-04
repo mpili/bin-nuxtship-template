@@ -104,22 +104,22 @@ useHead({
 
 <template>
   <LandingSectionhead>
-    <template v-slot:title>{{ data.tags.name }}</template>
-    <template v-slot:desc><OsnTipovenue :tags="data.tags" /></template>
+    <template v-slot:title>{{ data?.tags?.name }}</template>
+    <template v-slot:desc><OsnTipovenue :tags="data?.tags" /></template>
   </LandingSectionhead>
 
   <OsnImmagine :idnodosm="data.id" />
 
-  <div v-if="data.tags.description" class="pb-4">
-    {{ data.tags.description }}
+  <div v-if="data?.tags?.description" class="pb-4">
+    {{ data?.tags?.description }}
   </div>
 
   <div>
     <h2>Indirizzo</h2>
-    <div class="p-2">
-      <p v-if="data.tags['addr:place']">
+    <div class="p-2" v-if="data?.tags">
+      <p v-if="data?.tags['addr:place']">
         <span>
-          {{ data.tags["addr:place"]
+          {{ data?.tags["addr:place"]
           }}<span v-if="data.tags['addr:housenumber']"
             >, {{ data.tags["addr:housenumber"] }}</span
           >
@@ -174,7 +174,7 @@ useHead({
     </div>
   </div>
   <OsnTel
-    v-if="data.tags.phone"
+    v-if="data?.tags?.phone"
     icona="material-symbols:call"
     etichetta="Telefono"
     :telefono="data.tags.phone"
