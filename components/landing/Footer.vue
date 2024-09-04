@@ -4,7 +4,7 @@ const vocimenu = [
     titolo: "Dove",
     voci: [
       {
-        titolo: "Comunita",
+        titolo: "Comunità",
         path: "/comunita",
       },
       {
