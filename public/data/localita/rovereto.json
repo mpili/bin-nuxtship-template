@@ -621,6 +621,32 @@
         },
         {
             "type": "node",
+            "id": 2534783919,
+            "lat": 46.2908465,
+            "lon": 11.461814,
+            "timestamp": "2024-09-05T20:45:49Z",
+            "version": 8,
+            "changeset": 156248283,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "24",
+                "addr:postcode": "38033",
+                "addr:street": "Via Fratelli Bronzetti",
+                "currency:XBT": "yes",
+                "male": "yes",
+                "name": "Barbieria Boschetto",
+                "opening_hours": "Tu-Sa 08:30-12:00,15:00-19:00",
+                "payment:lightning": "yes",
+                "phone": "+39 330 521 556",
+                "shop": "hairdresser",
+                "website": "https://sites.google.com/site/saloneboschetto/home",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2748239833,
             "lat": 46.0947719,
             "lon": 11.1096204,

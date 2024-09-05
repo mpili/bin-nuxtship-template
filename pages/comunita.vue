@@ -35,5 +35,6 @@ const zoom = ref(6);
       />
       <LocalitaLmapoislocalita />
     </LMap>
+    <ComunitaLocalitaLista />
   </LandingContainer>
 </template>
