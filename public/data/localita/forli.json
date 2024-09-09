@@ -1,8 +1,8 @@
 {
-    "id": "cesena",
-    "name": "Cesena",
-    "lng": 44.08,
-    "lat": 12.14,
+    "id": "forli",
+    "name": "Forl\u00ec",
+    "lng": 44.1844464,
+    "lat": 12.135094,
     "poi": [
         {
             "type": "node",
@@ -455,6 +455,28 @@
                 "phone": "+39335390405",
                 "survey:date": "2022-11-06",
                 "website": "https://www.fantinelligabriele.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10253175451,
+            "lat": 44.4003562,
+            "lon": 11.5885832,
+            "timestamp": "2024-01-17T00:26:52Z",
+            "version": 3,
+            "changeset": 146342972,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Castel San Pietro Terme",
+                "addr:housenumber": "4",
+                "addr:postcode": "40024",
+                "addr:street": "Via Fratelli Cervi",
+                "check_date": "2023-04-26",
+                "currency:XBT": "yes",
+                "name": "Studio Gualandi Di Gualandi Alessandra",
+                "office": "consulting",
+                "phone": "+390516958704"
             }
         },
         {

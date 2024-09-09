@@ -1,8 +1,14 @@
 {
-    "id": "cesena",
-    "name": "Cesena",
-    "lng": 44.08,
-    "lat": 12.14,
+    "id": "bb-forli-cesena",
+    "name": "Bitcoin Beer Forl\u00ec Cesena",
+    "lng": 44.1844464,
+    "lat": 12.135094,
+    "localita": "Forl\u00ec Cesena",
+    "idlocalita": "forli",
+    "telegram_weburl": "https://web.telegram.org/a/#-1001430338961",
+    "telegram_app": "https://t.me/bitcoinforlicesena",
+    "telegram_members": 21.0,
+    "network": "bitcoinbeer",
     "poi": [
         {
             "type": "node",
@@ -459,6 +465,28 @@
         },
         {
             "type": "node",
+            "id": 10253175451,
+            "lat": 44.4003562,
+            "lon": 11.5885832,
+            "timestamp": "2024-01-17T00:26:52Z",
+            "version": 3,
+            "changeset": 146342972,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "tags": {
+                "addr:city": "Castel San Pietro Terme",
+                "addr:housenumber": "4",
+                "addr:postcode": "40024",
+                "addr:street": "Via Fratelli Cervi",
+                "check_date": "2023-04-26",
+                "currency:XBT": "yes",
+                "name": "Studio Gualandi Di Gualandi Alessandra",
+                "office": "consulting",
+                "phone": "+390516958704"
+            }
+        },
+        {
+            "type": "node",
             "id": 10648841302,
             "lat": 44.2428018,
             "lon": 12.3648022,
@@ -591,9 +619,5 @@
             }
         }
     ],
-    "telegram": [
-        {
-            "telegram": "bb-forli-cesena"
-        }
-    ]
+    "telegram": []
 }

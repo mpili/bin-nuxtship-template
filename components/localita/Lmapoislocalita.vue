@@ -51,7 +51,7 @@
 		<LPopup><NuxtLink to="/l/firenze">Firenze</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.1844464, 12.135094]">
-		<LPopup><NuxtLink to="/l/forlì">Forlì</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/l/forli">Forlì</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.6494354, 13.7681366]">
 		<LPopup><NuxtLink to="/l/friuli">Friuli</NuxtLink></LPopup>
@@ -110,7 +110,7 @@
 	<LMarker :lat-lng="[38.11569725, 13.36235675]">
 		<LPopup><NuxtLink to="/l/palermo">Palermo</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[44.926589750000005, 10.01094045]">
+	<LMarker :lat-lng="[44.801343, 10.327932]">
 		<LPopup><NuxtLink to="/l/parma">Parma</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.0535, 9.6947]">
