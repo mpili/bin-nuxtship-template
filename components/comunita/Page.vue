@@ -7,17 +7,23 @@ const breadcrumb = computed(() => [
     path: "/comunita",
   },
   {
-    label: props.data.network,
-    path: props.data.network ? "/meetup/" + props.data.network : null,
-  },
-  {
     label: props.data.localita,
     path: props.data.idlocalita ? "/l/" + props.data.idlocalita : null,
+  },
+  {
+    label: props.data.network,
+    path: props.data.network ? "/meetup/" + props.data.network : null,
   },
 ]);
 
 useHead({
   title: props?.data?.name + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: "canonical",
+      href: `https://bitcoinitalianetwork.com/c/${props?.data?.id}`,
+    },
+  ],
 });
 </script>
 

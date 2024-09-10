@@ -13,6 +13,12 @@ const breadcrumb = computed(() => [
 
 useHead({
   title: props.evento.titolo + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: "canonical",
+      href: `https://bitcoinitalianetwork.com/evento/${props?.evento?.id}`,
+    },
+  ],
 });
 
 
