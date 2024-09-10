@@ -1506,6 +1506,32 @@
                 "currency:XBT": "yes",
                 "name": "I Gatti Neri"
             }
+        },
+        {
+            "type": "node",
+            "id": 12168280526,
+            "lat": 44.2100373,
+            "lon": 11.490843,
+            "timestamp": "2024-09-10T14:47:48Z",
+            "version": 1,
+            "changeset": 156444546,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Castel del Rio",
+                "addr:housenumber": "1229",
+                "addr:postcode": "40022",
+                "addr:street": "Via della Casaccia",
+                "contact:telegram": "https://t.me/VincoCdR",
+                "currency:XBT": "yes",
+                "description": "Appartamento ammobiliato ad uso turistico",
+                "email": "leobetta.vinco@gmail.com",
+                "name": "Vinco",
+                "payment:lightning": "yes",
+                "phone": "+39 349 368 0615",
+                "tourism": "apartment",
+                "website": "http://vinco.altervista.org/"
+            }
         }
     ],
     "telegram": []

@@ -24,7 +24,6 @@ const breadcrumb = computed(() => [
   {
     label: tagita,
   },
-
 ]);
 
 useHead({
@@ -32,7 +31,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: `https://bitcoinitalianetwork.com/ost/${tag}/${value}`,
+      href: `https://bitcoinitalianetwork.com/ost/${tag.replace(/"/g,'')}/${value.replace(/"/g,'')}`,
     },
   ],
 });
