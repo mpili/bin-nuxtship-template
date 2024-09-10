@@ -1,7 +1,4 @@
 <template>
-	<LMarker :lat-lng="[45.647873, 11.86767]">
-		<LPopup><NuxtLink to="/c/b-veneto">Bitcoin Veneto</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[44.049114, 8.213017]">
 		<LPopup><NuxtLink to="/c/ss-albenga">Satoshi Spritz Albenga</NuxtLink></LPopup>
 	</LMarker>
@@ -69,7 +66,7 @@
 		<LPopup><NuxtLink to="/c/bitcoin-firenze-toscana">Bitcoin Firenze & Toscana</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.1844464, 12.135094]">
-		<LPopup><NuxtLink to="/c/bb-forlì-cesena">Bitcoin Beer Forlì Cesena</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bb-forli-cesena">Bitcoin Beer Forlì Cesena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.6494354, 13.7681366]">
 		<LPopup><NuxtLink to="/c/ss-friuli-fvg">Satoshi Spritz Friuli FVG</NuxtLink></LPopup>
@@ -205,6 +202,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[45.8182, 8.82733]">
 		<LPopup><NuxtLink to="/c/ss-varese">Satoshi Spritz Varese</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.647873, 11.86767]">
+		<LPopup><NuxtLink to="/c/b-veneto">Bitcoin Veneto</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.4321393, 12.3346526]">
 		<LPopup><NuxtLink to="/c/bitcoin-in-venice">Bitcoin in Venice</NuxtLink></LPopup>

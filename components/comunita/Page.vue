@@ -8,18 +8,17 @@ const breadcrumb = computed(() => [
   },
   {
     label: props.data.network,
-    path: props.data.network ? "/meetup/"+props.data.network : null,
+    path: props.data.network ? "/meetup/" + props.data.network : null,
   },
   {
     label: props.data.localita,
-    path: props.data.idlocalita ? "/l/"+props.data.idlocalita : null,
+    path: props.data.idlocalita ? "/l/" + props.data.idlocalita : null,
   },
 ]);
 
 useHead({
   title: props?.data?.name + " | Bitcoin Italia Network",
 });
-
 </script>
 
 <template>
@@ -27,6 +26,20 @@ useHead({
     <template v-slot:title>{{ data.localita }}</template>
     <template v-slot:desc>{{ data.name }}</template>
   </LandingSectionhead>
+
+  <div class="grid place-items-center pt-4">
+    <!--
+    <NuxtImg
+      :src="`/img/l/${data.idlocalita}.jpg`"
+      class="aspect-square max-h-96 rounded-xl z-10"
+    />
+    -->
+    <NuxtImg
+      :src="`/img/c/${data.id}.jpeg`"
+      class="aspect-square max-h-48 rounded-full"
+    />
+  </div>
+
   <LandingBreadcrumb :voci="breadcrumb" />
   <div class="py-8">
     <LMap
