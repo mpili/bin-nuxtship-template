@@ -42,6 +42,7 @@ useHead({
     -->
     <NuxtImg
       :src="`/img/c/${data.id}.jpeg`"
+      format="webp"
       class="aspect-square max-h-48 rounded-full"
     />
   </div>

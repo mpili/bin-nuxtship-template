@@ -29,7 +29,11 @@ useHead({
       <template v-slot:desc>{{ data.name }}</template>
     </LandingSectionhead>
     <div class="grid place-items-center pt-4">
-      <NuxtImg :src="`/img/l/${data.id}.jpg`" class="aspect-square max-h-96 rounded-md" />
+      <NuxtImg
+        :src="`/img/l/${data.id}.jpg`"
+        format="webp"
+        class="aspect-square max-h-96 rounded-md"
+      />
     </div>
     <LandingBreadcrumb :voci="breadcrumb" />
   </div>

@@ -33,8 +33,21 @@ useHead({
   <div class="py-4" v-if="evento.descrizione">
     {{ evento.descrizione }}
   </div>
+  <MeetupBadge v-if="evento.id_comunita" :idcomunita="evento.id_comunita" />
   
   <EventiVenue v-if="evento.id_nod_osm" :idnodosm="evento.id_nod_osm" />
-  <EventiComunita  v-if="evento.id_comunita" :idcomunita="evento.id_comunita" />
+
+  <div class="max-w-sm">
+    <img v-if="evento.img"
+        class="rounded-md"
+        :src="
+          'https://bin-dev.pockethost.io/api/files/eventi/' +
+          evento.id +
+          '/' +
+          evento.img
+        "
+      />
+  </div>
+
 
 </template>

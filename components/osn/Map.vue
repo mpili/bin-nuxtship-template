@@ -3,7 +3,7 @@ defineProps(["data"]);
 </script>
 
 <template>
-  <div class="py-8">
+  <div class="py-2">
     <LMap
       style="height: 250px"
       :zoom="18"
@@ -16,7 +16,10 @@ defineProps(["data"]);
         layer-type="base"
         name="OpenStreetMap"
       />
-      <LMarker :lat-lng="[data.lat, data.lon]" />
+      <LMarker :lat-lng="[data.lat, data.lon]" >
+        <LPopup v-if="data?.tags?.name">{{data.tags.name}}</LPopup>
+      </LMarker>
     </LMap>
+    
   </div>
 </template>
