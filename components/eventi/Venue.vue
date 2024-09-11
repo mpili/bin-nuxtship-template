@@ -12,12 +12,14 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 <template>
   <div v-if="pending">...</div>
   <div v-else>
-    <OsnMap :data="data.elements[0]" />
-    <NuxtLink :to="`/osn/${data.elements[0].id}`">
-      <span class="font-bold text-blue-500">{{
-        data.elements[0].tags.name
-      }}</span>
-      <OsnIndirizzo :data="data.elements[0]" />
-    </NuxtLink>
+    <div class="my-2 p-4 bg-white shadow overflow-hidden sm:rounded-lg">
+      <NuxtLink :to="`/osn/${data.elements[0].id}`">
+        <span class="font-bold text-blue-500">{{
+          data.elements[0].tags.name
+        }}</span>
+        <OsnIndirizzo :data="data.elements[0]" />
+      </NuxtLink>
+      <OsnMap :data="data.elements[0]" />
+    </div>
   </div>
 </template>
