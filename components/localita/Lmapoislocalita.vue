@@ -101,6 +101,9 @@
 	<LMarker :lat-lng="[40.8517746, 14.2681244]">
 		<LPopup><NuxtLink to="/l/napoli">Napoli</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[45.4433, 8.6162]">
+		<LPopup><NuxtLink to="/l/novara">Novara</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[40.323845000000006, 9.309275]">
 		<LPopup><NuxtLink to="/l/nuoro">Nuoro</NuxtLink></LPopup>
 	</LMarker>
