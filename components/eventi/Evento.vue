@@ -30,7 +30,11 @@ useHead({
   </LandingSectionhead>
   <LandingBreadcrumb :voci="breadcrumb" />
 
-  <div class="py-4" v-if="evento.descrizione">
+
+  <div class="py-4" v-if="evento.descrizionex">
+    <div v-html="evento.descrizionex"></div>
+  </div>
+  <div v-else-if="evento.descrizione" class="py-4">
     {{ evento.descrizione }}
   </div>
   <MeetupBadge v-if="evento.id_comunita" :idcomunita="evento.id_comunita" />
