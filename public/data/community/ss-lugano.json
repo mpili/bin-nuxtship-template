@@ -7,7 +7,7 @@
     "idlocalita": "lugano",
     "telegram_weburl": "https://web.telegram.org/a/#-1001928361933",
     "telegram_app": "https://t.me/SatoshiSpritzLugano",
-    "telegram_members": 469.0,
+    "telegram_members": 475.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -6929,30 +6929,6 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/bancomat-bitcoin-Cesate-MI"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11953274898,
-            "lat": 45.8069671,
-            "lon": 9.0877012,
-            "timestamp": "2024-06-07T19:44:18Z",
-            "version": 3,
-            "changeset": 152391085,
-            "user": "descubrebitcoin",
-            "uid": 17565129,
-            "tags": {
-                "addr:city": "Como",
-                "addr:housenumber": "1",
-                "addr:postcode": "22100",
-                "addr:street": "Via Giuseppe Sirtori",
-                "currency:XBT": "yes",
-                "name": "La Vecchia Chioderia",
-                "opening_hours": "Tu-Th-Sa 8.00-13.00",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "shop": "seafood"
             }
         },
         {
