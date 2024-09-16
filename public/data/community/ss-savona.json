@@ -811,6 +811,36 @@
                 "survey:date": "2024-06-10",
                 "website": "https://www.kaosgrafica.com"
             }
+        },
+        {
+            "type": "node",
+            "id": 12167696380,
+            "lat": 44.4212485,
+            "lon": 8.9491796,
+            "timestamp": "2024-09-12T13:57:15Z",
+            "version": 4,
+            "changeset": 156529974,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "221-223-225R",
+                "addr:postcode": "16139",
+                "addr:street": "Corso Alessandro De Stefanis",
+                "check_date": "2024-09-12",
+                "craft": "window_construction",
+                "currency:XBT": "yes",
+                "description": "\ud83d\udfe0Accettiamo pagamenti BITCOIN\ud83d\udfe0\nSiamo specializzati nella vendita su misura di finestre, portefinestre, porte interne, porte blindate, persiane, tapparelle, zanzariere e molto altro ancora.  \nOffriamo servizi di riparazioni e di pronto intervento.",
+                "email": "info@franzoiserramenti.it",
+                "mobile": "+39 3471052170",
+                "name": "FRANZOI SERRAMENTI",
+                "opening_hours": "Mo-Fr 09:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 010 8196900",
+                "survey:date": "2024-09-10"
+            }
         }
     ],
     "telegram": []

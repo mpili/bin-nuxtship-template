@@ -19,6 +19,13 @@ useHead({
       href: `https://bitcoinitalianetwork.com/l/${props?.data?.id}`,
     },
   ],
+  meta: [
+    {
+      property: "og:image",
+      content:
+        "https://bitcoinitalianetwork.com/img/l/" + props.data.id + ".jpg",
+    },
+  ],
 });
 </script>
 
