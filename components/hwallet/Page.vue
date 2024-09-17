@@ -12,6 +12,28 @@ const breadcrumb = computed(() => [
 ]);
 
 import hwAttributi from "~/assets/data/hw-attributi.json";
+
+const hw_img =
+  "https://bin-dev.pockethost.io/api/files/hardwarewallet/" +
+  props.hwallet.id +
+  "/" +
+  props.hwallet.featuredImage;
+
+useHead({
+  title: props?.hwallet?.name + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: "canonical",
+      href: `https://bitcoinitalianetwork.com/hw/${props?.hwallet?.id}`,
+    },
+  ],
+  meta: [
+    {
+      property: "og:image",
+      content: hw_img,
+    },
+  ],
+});
 </script>
 
 <template>
@@ -24,12 +46,7 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
 
     <div class="m-8">
       <img
-        :src="
-          'https://bin-dev.pockethost.io/api/files/hardwarewallet/' +
-          props.hwallet.id +
-          '/' +
-          props.hwallet.featuredImage
-        "
+        :src="hw_img"
         class="transition-transform transform hover:scale-125"
         width="128"
       />
@@ -45,8 +62,7 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
       <OsnTagwebsite :url="hwallet.sitoweb" />
     </div>
     <div v-if="hwallet.descrizione">
-      <div v-html="hwallet.descrizione" class="pt-4">
-      </div>
+      <div v-html="hwallet.descrizione" class="pt-4"></div>
     </div>
   </LandingContainer>
 </template>
