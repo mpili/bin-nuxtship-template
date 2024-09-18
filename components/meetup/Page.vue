@@ -14,6 +14,17 @@ const breadcrumb = computed(() => [
     label: props.meetup.nome,
   },
 ]);
+
+useHead({
+  title: props?.meetup.nome + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: "canonical",
+      href: `https://bitcoinitalianetwork.com/meetup/${props?.meetup?.idmeetup}`,
+    },
+  ],
+});
+
 </script>
 
 <template>

@@ -43,7 +43,7 @@ useHead({
 
   <div class="max-w-sm">
     <img v-if="evento.img"
-        class="rounded-md"
+        class="rounded-md mt-2"
         :src="
           'https://bin-dev.pockethost.io/api/files/eventi/' +
           evento.id +
