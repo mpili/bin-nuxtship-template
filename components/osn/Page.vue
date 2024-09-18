@@ -100,6 +100,15 @@ useHead({
     },
   ],
 });
+
+const url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
+
+const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
+  lazy: true,
+  server: false,
+});
+
+
 </script>
 
 <template>
@@ -108,7 +117,7 @@ useHead({
     <template v-slot:desc><OsnTipovenue :tags="data?.tags" /></template>
   </LandingSectionhead>
 
-  <OsnImmagine :idnodosm="data.id" />
+  <OsnImmagine :pending="pending" :dbdata="dbdata" />
 
   <div v-if="data?.tags?.description" class="pb-4">
     {{ data?.tags?.description }}
@@ -274,10 +283,14 @@ useHead({
       etichetta="orari apertura"
       :testo="data.tags['opening_hours']"
     />
+    <div v-if="data.tags.note">{{data.tags.note}}</div>
+
   </div>
 
-  <OsnDescrizione :idnodosm="data.id" />
+  <OsnDescrizione :pending="pending" :dbdata="dbdata" />
 
+
+ 
   <div v-if="data?.tags">
     <div class="flex">
       <OsnTagwebsite v-if="data?.tags?.website" :url="data?.tags?.website" />
@@ -311,7 +324,7 @@ useHead({
 
   <OsnMap :data="data" />
 
-  <OsnXmaps :data="data" />
+  <OsnXmaps :data="data"  :pending="pending" :dbdata="dbdata" />
 
   <div class="flex gap-2 py-2">
     <a
