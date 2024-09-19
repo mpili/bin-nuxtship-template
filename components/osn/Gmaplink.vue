@@ -1,16 +1,10 @@
 <script>
 export default {
   props: {
-    etichetta: {
-      type: String,
+    pending: {
       required: true,
     },
-    url: {
-      type: String,
-      required: true,
-    },
-    icona: {
-      type: String,
+    dbdata: {
       required: true,
     },
   },
@@ -18,11 +12,16 @@ export default {
 </script>
 
 <template>
-  <a :href="url" target="_blank" rel="noopener">
-    <div
-      class="flex items-center rounded-full border bg-green-500 m-1 py-2 pl-2 pr-3 text-xs text-white font-bold gap-1"
-    >
-      <Icon :name="icona" size="20" color="white" /> {{ etichetta }}
-    </div>
-  </a>
+  <span v-if="!pending" class="mt-8">
+    <span v-if="dbdata?.items[0]?.gmap">
+      <a
+        :href="dbdata?.items[0]?.gmap"
+        target="_blank"
+        rel="noopener"
+        class="text-green-600 font-bold"
+      >google</a>
+    </span>
+    <span v-else>google</span>
+  </span>
+  <span v-else>google</span>
 </template>
