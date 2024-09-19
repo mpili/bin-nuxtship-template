@@ -103,12 +103,14 @@ useHead({
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
 
-const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
+const {
+  pending,
+  data: dbdata,
+  error,
+} = await useLazyFetch(url_api, {
   lazy: true,
   server: false,
 });
-
-
 </script>
 
 <template>
@@ -123,7 +125,7 @@ const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
     {{ data?.tags?.description }}
   </div>
 
-  <div>
+  <div itemscope itemtype="https://schema.org/PostalAddress">
     <h2>Indirizzo</h2>
     <div class="p-2" v-if="data?.tags">
       <p v-if="data?.tags['addr:place']">
@@ -140,13 +142,13 @@ const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
         </span>
       </p>
       <p>
-        <span v-if="data.tags['addr:street']">
+        <span v-if="data.tags['addr:street']" itemprop="streetAddress">
           {{ data.tags["addr:street"]
           }}<span v-if="data.tags['addr:housenumber']"
             >, {{ data.tags["addr:housenumber"] }}</span
           >
         </span>
-        <span v-else-if="data.tags['contact:street']">
+        <span v-else-if="data.tags['contact:street']" itemprop="streetAddress">
           {{ data.tags["contact:street"]
           }}<span v-if="data.tags['contact:housenumber']"
             >, {{ data.tags["contact:housenumber"] }}</span
@@ -157,26 +159,29 @@ const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
         {{ data.tags["addr:suburb"] }}
       </p>
       <p>
-        <span v-if="data.tags['addr:postcode']">{{
+        <span v-if="data.tags['addr:postcode']" itemprop="postalCode">{{
           data.tags["addr:postcode"]
         }}</span>
-        <span v-else-if="data.tags['contact:postcode']">{{
+        <span v-else-if="data.tags['contact:postcode']" itemprop="postalCode">{{
           data.tags["contact:postcode"]
         }}</span>
         &nbsp;
         <span class="text-blue-700 font-bold">
-          <span v-if="data.tags['addr:city']">
+          <span v-if="data.tags['addr:city']" itemprop="addressLocality">
             <OsnTaglink tag="%22addr:city%22" :valore="data.tags['addr:city']">
               <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
             </OsnTaglink>
           </span>
-          <span v-else-if="data.tags['contact:city']">
+          <span
+            v-else-if="data.tags['contact:city']"
+            itemprop="addressLocality"
+          >
             <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']">
               <template v-slot:testo>{{ data.tags["contact:city"] }}</template>
             </OsnTaglink>
           </span>
         </span>
-        <span v-if="data.tags['addr:province']"
+        <span v-if="data.tags['addr:province']" itemprop="addressRegion"
           >({{ data.tags["addr:province"] }})</span
         >
       </p>
@@ -283,14 +288,11 @@ const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
       etichetta="orari apertura"
       :testo="data.tags['opening_hours']"
     />
-    <div v-if="data.tags.note">{{data.tags.note}}</div>
-
+    <div v-if="data.tags.note">{{ data.tags.note }}</div>
   </div>
 
   <OsnDescrizione :pending="pending" :dbdata="dbdata" />
 
-
- 
   <div v-if="data?.tags">
     <div class="flex">
       <OsnTagwebsite v-if="data?.tags?.website" :url="data?.tags?.website" />
@@ -324,7 +326,7 @@ const { pending, data: dbdata, error } = await useLazyFetch(url_api, {
 
   <OsnMap :data="data" />
 
-  <OsnXmaps :data="data"  :pending="pending" :dbdata="dbdata" />
+  <OsnXmaps :data="data" :pending="pending" :dbdata="dbdata" />
 
   <div class="flex gap-2 py-2">
     <a

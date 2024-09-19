@@ -1,20 +1,22 @@
 <script>
-
 export default {
   props: {
     pending: {
-      required: true
+      required: true,
     },
     dbdata: {
-      required: true
+      required: true,
     },
   },
 };
-
 </script>
 
 <template>
-  <div v-if="!pending" class="mt-8">
-    <div v-if="dbdata?.items[0]?.descrizione" v-html="dbdata.items[0].descrizione"></div>
+  <div v-if="!pending">
+    <div
+      v-if="dbdata?.items[0]?.descrizione"
+      class="mt-8"
+      v-html="dbdata.items[0].descrizione"
+    ></div>
   </div>
 </template>
