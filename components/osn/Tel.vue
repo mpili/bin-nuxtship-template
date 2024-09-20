@@ -17,9 +17,11 @@ export default {
 </script>
 
 <template>
-  <div v-if="telefono">
+  <div v-if="telefono" itemscope itemtype="https://schema.org/ContactPoint">
     <a :href="'tel:'+telefono" target="_blank" rel="noreferrer">
-      <OsnTag :icona="icona" :etichetta="etichetta" :testo="telefono" />
+      <span itemprop="telephone">
+        <OsnTag :icona="icona" :etichetta="etichetta" :testo="telefono" />
+      </span>
     </a>
   </div>
 </template>
