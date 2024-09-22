@@ -61,7 +61,9 @@ export default {
         </div>
 
         <div class="border">
-          <div class="text-center p-2">bing</div>
+          <div class="text-center p-2">
+            <OsnBing :pending="pending" :dbdata="dbdata" label="bing" />
+          </div>
           <OsnMapbadge
             etichetta="posizione"
             :url="
