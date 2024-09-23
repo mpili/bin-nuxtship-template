@@ -26,7 +26,7 @@ definePageMeta({
     </div>
     <div v-else> -->
       <div>
-        <OsnPage v-if="data.elements.length>0" :data="data.elements[0]" />
+        <OsnPage v-if="data?.elements.length>0" :data="data?.elements[0]" />
       </div>
     <!-- </div> -->
     <LandingDisclaimer />

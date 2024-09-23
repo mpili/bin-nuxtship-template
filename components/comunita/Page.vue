@@ -7,12 +7,12 @@ const breadcrumb = computed(() => [
     path: "/comunita",
   },
   {
-    label: props.data.localita,
-    path: props.data.idlocalita ? "/l/" + props.data.idlocalita : null,
+    label: props.data?.localita,
+    path: props.data?.idlocalita ? "/l/" + props.data?.idlocalita : null,
   },
   {
-    label: props.data.network,
-    path: props.data.network ? "/meetup/" + props.data.network : null,
+    label: props.data?.network,
+    path: props.data?.network ? "/meetup/" + props?.data?.network : null,
   },
 ]);
 
@@ -27,7 +27,7 @@ useHead({
   meta: [
     {
       property: "og:image",
-      content: "https://bitcoinitalianetwork.com/img/c/" + props.data.id +".jpeg",
+      content: "https://bitcoinitalianetwork.com/img/c/" + props?.data?.id +".jpeg",
     },
   ],
 });
@@ -35,8 +35,8 @@ useHead({
 
 <template>
   <LandingSectionhead>
-    <template v-slot:title>{{ data.localita }}</template>
-    <template v-slot:desc>{{ data.name }}</template>
+    <template v-slot:title>{{ data?.localita }}</template>
+    <template v-slot:desc>{{ data?.name }}</template>
   </LandingSectionhead>
 
   <div class="grid place-items-center pt-4">
@@ -47,7 +47,7 @@ useHead({
     />
     -->
     <NuxtImg
-      :src="`/img/c/${data.id}.jpeg`"
+      :src="`/img/c/${data?.id}.jpeg`"
       format="webp"
       class="aspect-square max-h-48 rounded-full"
     />
@@ -58,7 +58,7 @@ useHead({
     <LMap
       style="height: 250px"
       :zoom="11"
-      :center="[data.lng, data.lat]"
+      :center="[data?.lng, data?.lat]"
       :use-global-leaflet="false"
     >
       <LTileLayer
@@ -71,7 +71,7 @@ useHead({
     </LMap>
   </div>
 
-  <ComunitaEventi :idcomunita="data.id" />
+  <ComunitaEventi :idcomunita="data?.id" />
 
   <div class="py-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
     <div class="divide-y divide-gray-300/50">
@@ -81,25 +81,25 @@ useHead({
           <span>Telegram</span>
         </div>
         <div
-          v-if="data.telegram_members"
+          v-if="data?.telegram_members"
           class="flex flex-row align-items-center px-8 py-2"
         >
           <span class="text-gray-400">members: </span
-          >{{ data.telegram_members }}
+          >{{ data?.telegram_members }}
         </div>
       </div>
       <div class="py-2 px-8">
         <div class="flex gap-4">
-          <div v-if="data.telegram_app">
+          <div v-if="data?.telegram_app">
             <ComunitaButton
-              :href="data.telegram_app"
+              :href="data?.telegram_app"
               :icona="'fa6-solid:mobile-screen'"
               :testo="'app'"
             />
           </div>
-          <div v-if="data.telegram_weburl">
+          <div v-if="data?.telegram_weburl">
             <ComunitaButton
-              :href="data.telegram_weburl"
+              :href="data?.telegram_weburl"
               :icona="'mdi:web'"
               :testo="'web'"
             />
