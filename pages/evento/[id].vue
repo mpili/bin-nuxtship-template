@@ -18,7 +18,7 @@ definePageMeta({
       <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
     </div>
     <div v-else>
-      <EventiEvento :evento="data.items[0]" />
+      <EventiEvento :evento="data?.items[0]" />
     </div>
   </LandingContainer>
 </template>
