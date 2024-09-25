@@ -47,6 +47,11 @@ useHead({
           class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
         />
       </div>
+      <OsnTagwebsite
+        v-if="podc.sito"
+        :url="podc.sito"
+      />
+
       <PodcastApps :podcapps="podc.apps" />
     </div>
   </div>

@@ -123,6 +123,27 @@ const vocimenu = [
             <span class="sr-only">Tiktok</span>
             <Icon name="ic:baseline-tiktok" size="24" />
           </a>
+
+          <a
+            href="https://www.linkedin.com/company/btcitanetwork/"
+            class="text-gray-400 hover:text-gray-500"
+            target="_blank"
+          >
+            <span class="sr-only">Linkedin</span>
+            <Icon name="mynaui:brand-linkedin" size="24" />
+          </a>
+
+          <a
+            href="https://nostr.com/npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw"
+            class="text-gray-400 hover:text-gray-500"
+            target="_blank"
+          >
+            <span class="sr-only">Linkedin</span>
+            <Icon name="game-icons:ostrich" size="24" />
+          </a>
+
+
+
         </div>
       </div>
 
