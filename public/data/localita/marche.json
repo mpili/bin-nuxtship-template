@@ -38,21 +38,23 @@
             "id": 6070906250,
             "lat": 43.5206137,
             "lon": 13.55757,
-            "timestamp": "2023-07-13T12:15:55Z",
-            "version": 12,
-            "changeset": 138462055,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2024-09-25T08:19:37Z",
+            "version": 13,
+            "changeset": 157069869,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
                 "addr:city": "Camerano",
                 "addr:postcode": "60021",
                 "addr:street": "Via Luigi Einaudi",
-                "check_date:currency:XBT": "2023-07-13",
+                "check_date": "2024-09-25",
+                "check_date:currency:XBT": "2024-09-25",
                 "currency:XBT": "yes",
                 "description": "Servizi di Consulenza, Formazione, Progettazione. Risk Management, Salute e Sicurezza sul Lavoro, Corsi di Formazione D.Lgs. 81/2008",
                 "email": "contattaci@agrsicurezza.com",
                 "name": "AGRsicurezza",
                 "office": "occupational_safety",
+                "phone": "+39 071 8760 041",
                 "website": "https://www.agrsicurezza.it"
             }
         },
@@ -265,33 +267,6 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
                 "shop": "tobacco"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11964590568,
-            "lat": 43.509146,
-            "lon": 13.6239556,
-            "timestamp": "2024-07-06T09:41:12Z",
-            "version": 7,
-            "changeset": 153616395,
-            "user": "mauropili",
-            "uid": 1496865,
-            "tags": {
-                "addr:city": "Numana",
-                "addr:postcode": "60026",
-                "check_date": "2024-06-08",
-                "check_date:currency:XBT": "2024-06-10",
-                "club": "sport",
-                "currency:XBT": "yes",
-                "email": "associazionemarevento@gmail.com",
-                "name": "Associazione Mare Vento Windsurfing",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "sport": "windsurfing;surfing",
-                "survey:date": "2024-06-08",
-                "website": "http://mare-vento.blogspot.com/"
             }
         },
         {
