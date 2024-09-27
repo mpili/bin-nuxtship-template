@@ -33,7 +33,12 @@ const podcasts = [
     url: "/podc/bcaucus",
     img: "/img/podcast/bcaucus.jpg",
   },
-
+  {
+    id: "bitcoin-d-asporto",
+    nome: "Bitcoin d’Asporto",
+    url: "/podc/bitcoin-d-asporto",
+    img: "/img/podcast/bitcoin-d-asporto.jpg",
+  },
   {
     id: "sicurezza-bitcoin",
     nome: "Sicurezza Bitcoin",
@@ -66,12 +71,7 @@ const podcasts = [
     url: "/podc/il-priorato-del-bitcoin",
     img: "/img/podcast/il-priorato-del-bitcoin.jpg",
   },
-  {
-    id: "bitcoin-d-asporto",
-    nome: "Bitcoin d’Asporto",
-    url: "/podc/bitcoin-d-asporto",
-    img: "/img/podcast/bitcoin-d-asporto.jpg",
-  },
+
   {
     id: "the-bitcoin-theory",
     nome: "The Bitcoin Theory",

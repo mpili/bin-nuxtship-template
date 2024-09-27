@@ -20,7 +20,7 @@ const hw_img =
   props.hwallet.featuredImage;
 
 useHead({
-  title: props?.hwallet?.name + " | Bitcoin Italia Network",
+  title: props?.hwallet?.nome + " | Bitcoin Italia Network",
   link: [
     {
       rel: "canonical",
