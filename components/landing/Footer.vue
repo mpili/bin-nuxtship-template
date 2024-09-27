@@ -15,15 +15,15 @@ const vocimenu = [
         titolo: "E-shop",
         path: "/shop",
       },
-      {
-        titolo: "Categorie",
-        path: "/ostcount",
-      },
     ],
   },
   {
     titolo: "Cosa",
     voci: [
+      {
+        titolo: "Categorie",
+        path: "/ostcount",
+      },
       {
         titolo: "Impara",
         path: "/impara",
@@ -138,12 +138,9 @@ const vocimenu = [
             class="text-gray-400 hover:text-gray-500"
             target="_blank"
           >
-            <span class="sr-only">Linkedin</span>
+            <span class="sr-only">Nostr</span>
             <Icon name="game-icons:ostrich" size="24" />
           </a>
-
-
-
         </div>
       </div>
 
