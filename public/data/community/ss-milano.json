@@ -7,7 +7,7 @@
     "idlocalita": "milano",
     "telegram_weburl": "https://web.telegram.org/a/#-1001397539320",
     "telegram_app": "https://t.me/SatoshiSpritzMilano",
-    "telegram_members": 659.0,
+    "telegram_members": 661.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3395,6 +3395,30 @@
                 "phone": "+39 0381 77775",
                 "shop": "tobacco",
                 "website": "https://g.co/kgs/hG6yC6x"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12222449707,
+            "lat": 45.6874295,
+            "lon": 9.7120777,
+            "timestamp": "2024-10-04T14:23:38Z",
+            "version": 1,
+            "changeset": 157463756,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Seriate",
+                "addr:housenumber": "131",
+                "addr:postcode": "24068",
+                "addr:street": "Via Italia",
+                "beauty": "tanning",
+                "check_date": "2024-10-04",
+                "currency:XBT": "yes",
+                "email": "seriate@centrisole.it",
+                "name": "Centro Sole",
+                "shop": "beauty",
+                "website": "http://www.centrisole.it/"
             }
         }
     ],
