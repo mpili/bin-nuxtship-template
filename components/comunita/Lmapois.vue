@@ -98,20 +98,20 @@
 	<LMarker :lat-lng="[44.3641, 11.9538]">
 		<LPopup><NuxtLink to="/c/romagna-hub">BitcoinRomagnaHub</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[44.049114, 8.213017]">
-		<LPopup><NuxtLink to="/c/ss-albenga">Satoshi Spritz Albenga</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.46679408, 9.16109]">
+		<LPopup><NuxtLink to="/c/ss-milano">Satoshi Spritz Milano</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.07462, 6.69888]">
 		<LPopup><NuxtLink to="/c/ss-bardonecchia">Satoshi Spritz Bardonecchia</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[46.13837528, 12.21704167]">
-		<LPopup><NuxtLink to="/c/ss-belluno">Satoshi Spritz Belluno</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.4859, 10.92615487]">
+		<LPopup><NuxtLink to="/c/ss-modena">Satoshi Spritz Modena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.69441368, 9.66842453]">
 		<LPopup><NuxtLink to="/c/ss-bergamo">Satoshi Spritz Bergamo</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[39.21721, 9.11335]">
-		<LPopup><NuxtLink to="/c/ss-cagliari">Satoshi Spritz Cagliari</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.43839046, 10.99352685]">
+		<LPopup><NuxtLink to="/c/ss-verona">Satoshi Spritz Verona</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[46.365271, 11.033176]">
 		<LPopup><NuxtLink to="/c/ss-cles">Satoshi Spritz Cles</NuxtLink></LPopup>
@@ -125,35 +125,35 @@
 	<LMarker :lat-lng="[44.83599085, 11.61868934]">
 		<LPopup><NuxtLink to="/c/ss-ferrara">Satoshi Spritz Ferrara</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[43.7695604, 11.2558136]">
-		<LPopup><NuxtLink to="/c/ss-firenze">Satoshi Spritz Firenze</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.54749699, 11.54597109]">
+		<LPopup><NuxtLink to="/c/ss-vicenza">Satoshi Spritz Vicenza</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.6494354, 13.7681366]">
-		<LPopup><NuxtLink to="/c/ss-friuli-fvg">Satoshi Spritz Friuli FVG</NuxtLink></LPopup>
+	<LMarker :lat-lng="[44.699, 10.6297]">
+		<LPopup><NuxtLink to="/c/ss-reggio-emilia">Satoshi Spritz Reggio Emilia</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[43.8511, 10.507994]">
-		<LPopup><NuxtLink to="/c/ss-lucca">Satoshi Spritz Lucca</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.40692987, 11.87608719]">
+		<LPopup><NuxtLink to="/c/ss-padova">Satoshi Spritz Padova</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[46.003677, 8.951052]">
 		<LPopup><NuxtLink to="/c/ss-lugano">Satoshi Spritz Lugano</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.15726772, 10.79277363]">
-		<LPopup><NuxtLink to="/c/ss-mantova">Satoshi Spritz Mantova</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.6494354, 13.7681366]">
+		<LPopup><NuxtLink to="/c/ss-friuli-fvg">Satoshi Spritz Friuli FVG</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.61675973, 13.51887537]">
 		<LPopup><NuxtLink to="/c/ss-marche">Satoshi Spritz Marche</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.46679408, 9.16109]">
-		<LPopup><NuxtLink to="/c/ss-milano">Satoshi Spritz Milano</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[45.4859, 10.92615487]">
-		<LPopup><NuxtLink to="/c/ss-modena">Satoshi Spritz Modena</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[45.5834, 9.2759]">
-		<LPopup><NuxtLink to="/c/ss-monza">Satoshi Spritz Monza</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[40.8517746, 14.2681244]">
 		<LPopup><NuxtLink to="/c/ss-napoli">Satoshi Spritz Napoli</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[39.21721, 9.11335]">
+		<LPopup><NuxtLink to="/c/ss-cagliari">Satoshi Spritz Cagliari</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.052621, 9.692984]">
+		<LPopup><NuxtLink to="/c/ss-parma-e-piacenza">Satoshi Spritz Parma e Piacenza</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.15726772, 10.79277363]">
+		<LPopup><NuxtLink to="/c/ss-mantova">Satoshi Spritz Mantova</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.4433, 8.6162]">
 		<LPopup><NuxtLink to="/c/ss-novara">Satoshi Spritz Novara</NuxtLink></LPopup>
@@ -161,14 +161,14 @@
 	<LMarker :lat-lng="[40.31477, 9.27983]">
 		<LPopup><NuxtLink to="/c/ss-nuoro">Satoshi Spritz Nuoro</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.40692987, 11.87608719]">
-		<LPopup><NuxtLink to="/c/ss-padova">Satoshi Spritz Padova</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.6675457, 12.24507364]">
+		<LPopup><NuxtLink to="/c/ss-treviso">Satoshi Spritz Treviso</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[38.11569725, 13.36235675]">
-		<LPopup><NuxtLink to="/c/ss-palermo-e-sicilia-occ">Satoshi Spritz Palermo (e Sicilia Occidentale)</NuxtLink></LPopup>
+	<LMarker :lat-lng="[43.7695604, 11.2558136]">
+		<LPopup><NuxtLink to="/c/ss-firenze">Satoshi Spritz Firenze</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.052621, 9.692984]">
-		<LPopup><NuxtLink to="/c/ss-parma-e-piacenza">Satoshi Spritz Parma e Piacenza</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.43490484, 12.33845214]">
+		<LPopup><NuxtLink to="/c/ss-venezia">Satoshi Spritz Venezia</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.90921, 12.9164]">
 		<LPopup><NuxtLink to="/c/ss-pesaro">Satoshi Spritz Pesaro</NuxtLink></LPopup>
@@ -176,8 +176,8 @@
 	<LMarker :lat-lng="[41.12559562, 16.86737016]">
 		<LPopup><NuxtLink to="/c/ss-puglia">Satoshi Spritz Puglia</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[44.699, 10.6297]">
-		<LPopup><NuxtLink to="/c/ss-reggio-emilia">Satoshi Spritz Reggio Emilia</NuxtLink></LPopup>
+	<LMarker :lat-lng="[44.4836, 11.0131]">
+		<LPopup><NuxtLink to="/c/ss-vignola">Satoshi Spritz Vignola</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.0678288, 12.5695158]">
 		<LPopup><NuxtLink to="/c/ss-rimini">Satoshi Spritz Rimini</NuxtLink></LPopup>
@@ -188,23 +188,23 @@
 	<LMarker :lat-lng="[45.8596, 11.0608]">
 		<LPopup><NuxtLink to="/c/ss-rovereto-e-trento">SatoshiSpritz Rovereto e Trento (TN)</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.07107288, 11.79007]">
-		<LPopup><NuxtLink to="/c/ss-rovigo">Satoshi Spritz Rovigo</NuxtLink></LPopup>
+	<LMarker :lat-lng="[38.11569725, 13.36235675]">
+		<LPopup><NuxtLink to="/c/ss-palermo-e-sicilia-occ">Satoshi Spritz Palermo (e Sicilia Occidentale)</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[44.2975603, 8.4645]">
-		<LPopup><NuxtLink to="/c/ss-savona">Satoshi Spritz Savona</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[40.464361, 17.24703]">
-		<LPopup><NuxtLink to="/c/ss-taranto">Satoshi Spritz Taranto</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[45.0732745, 7.68068748]">
-		<LPopup><NuxtLink to="/c/ss-torino">Satoshi Spritz Torino</NuxtLink></LPopup>
+	<LMarker :lat-lng="[44.049114, 8.213017]">
+		<LPopup><NuxtLink to="/c/ss-albenga">Satoshi Spritz Albenga</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.3186614, 11.3305135]">
 		<LPopup><NuxtLink to="/c/ss-toscana-sud">Satoshi Spritz Toscana-Sud</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.6675457, 12.24507364]">
-		<LPopup><NuxtLink to="/c/ss-treviso">Satoshi Spritz Treviso</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.0732745, 7.68068748]">
+		<LPopup><NuxtLink to="/c/ss-torino">Satoshi Spritz Torino</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.5834, 9.2759]">
+		<LPopup><NuxtLink to="/c/ss-monza">Satoshi Spritz Monza</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.8511, 10.507994]">
+		<LPopup><NuxtLink to="/c/ss-lucca">Satoshi Spritz Lucca</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.110717, 12.390828]">
 		<LPopup><NuxtLink to="/c/ss-umbria">Satoshi Spritz Umbria</NuxtLink></LPopup>
@@ -212,16 +212,16 @@
 	<LMarker :lat-lng="[45.8182, 8.82733]">
 		<LPopup><NuxtLink to="/c/ss-varese">Satoshi Spritz Varese</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.43490484, 12.33845214]">
-		<LPopup><NuxtLink to="/c/ss-venezia">Satoshi Spritz Venezia</NuxtLink></LPopup>
+	<LMarker :lat-lng="[44.2975603, 8.4645]">
+		<LPopup><NuxtLink to="/c/ss-savona">Satoshi Spritz Savona</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.43839046, 10.99352685]">
-		<LPopup><NuxtLink to="/c/ss-verona">Satoshi Spritz Verona</NuxtLink></LPopup>
+	<LMarker :lat-lng="[45.07107288, 11.79007]">
+		<LPopup><NuxtLink to="/c/ss-rovigo">Satoshi Spritz Rovigo</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.54749699, 11.54597109]">
-		<LPopup><NuxtLink to="/c/ss-vicenza">Satoshi Spritz Vicenza</NuxtLink></LPopup>
+	<LMarker :lat-lng="[40.464361, 17.24703]">
+		<LPopup><NuxtLink to="/c/ss-taranto">Satoshi Spritz Taranto</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[44.4836, 11.0131]">
-		<LPopup><NuxtLink to="/c/ss-vignola">Satoshi Spritz Vignola</NuxtLink></LPopup>
+	<LMarker :lat-lng="[46.13837528, 12.21704167]">
+		<LPopup><NuxtLink to="/c/ss-belluno">Satoshi Spritz Belluno</NuxtLink></LPopup>
 	</LMarker>
 </template>

@@ -182,7 +182,7 @@ const {
           </span>
         </span>
         <span v-if="data.tags['addr:province']" itemprop="addressRegion"
-          >({{ data.tags["addr:province"] }})</span
+          > ({{ data.tags["addr:province"] }})</span
         >
       </p>
     </div>
