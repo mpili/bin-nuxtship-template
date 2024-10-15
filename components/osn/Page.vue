@@ -145,7 +145,7 @@ const {
         <span v-if="data.tags['addr:street']" itemprop="streetAddress">
           {{ data.tags["addr:street"]
           }}<span v-if="data.tags['addr:housenumber']"
-            >, {{ data.tags["addr:housenumber"] }}</span
+            >, {{ data.tags["addr:housenumber"] }}<span v-if="data.tags['addr:unit']">/{{data.tags["addr:unit"]}}</span></span
           >
         </span>
         <span v-else-if="data.tags['contact:street']" itemprop="streetAddress">
