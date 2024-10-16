@@ -12,6 +12,26 @@ const breadcrumb = computed(() => [
   },
 ]);
 
+const w_img = "https://bitcoinitalianetwork.com/img/wallet/" + props.data.id + ".png";
+
+
+useHead({
+  title: props?.data?.nome + " | Bitcoin Italia Network",
+  link: [
+    {
+      rel: "canonical",
+      href: `https://bitcoinitalianetwork.com/w/${props?.data?.id}`,
+    },
+  ],
+  meta: [
+    {
+      property: "og:image",
+      content: w_img,
+    },
+  ],
+});
+
+
 const attrDeviceWallet = [
   {
     campo: "Android",
