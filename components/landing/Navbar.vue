@@ -5,12 +5,12 @@ const menuitems = [
     path: "https://shop.bitcoinitalianetwork.com/en-eur/",
   },
   {
-    title: "Impara",
-    path: "/impara",
+    title: "Glossario",
+    path: "https://glossario.bitcoinitalianetwork.com/",
   },
   {
-    title: "Formazione",
-    path: "/formazione",
+    title: "Impara",
+    path: "/impara",
   },
   {
     title: "Eventi",

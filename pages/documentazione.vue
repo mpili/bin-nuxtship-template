@@ -9,7 +9,7 @@ definePageMeta({
 const risorseDocumentazione = [
   {
     nome: "Glossario Bitcoin",
-    url: "https://shrill-water-3846.on.fleek.co/",
+    url: "https://glossario.bitcoinitalianetwork.com",
   },
   {
     nome: "Raccolta documentazioni Mir Liponi",

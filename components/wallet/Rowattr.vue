@@ -18,7 +18,7 @@ export default {
 		</td>
 		<td>
 			<span v-if="att.dizionario" class="text-blue-600">
-				<a :href="'https://shrill-water-3846.on.fleek.co/'+att.dizionario+'.html'" target="_blank">
+				<a :href="'https://glossario.bitcoinitalianetwork.com/'+att.dizionario+'.html'" target="_blank">
 					{{ att.titolo }}
 				</a>
 			</span>
