@@ -8,6 +8,10 @@ const vocimenu = [
         path: "/comunita",
       },
       {
+        titolo: "Categorie",
+        path: "/ostcount",
+      },
+      {
         titolo: "Mappe",
         path: "/dove",
       },
@@ -21,9 +25,10 @@ const vocimenu = [
     titolo: "Cosa",
     voci: [
       {
-        titolo: "Categorie",
-        path: "/ostcount",
+        titolo: "Glossario",
+        path: "https://glossario.bitcoinitalianetwork.com/",
       },
+
       {
         titolo: "Impara",
         path: "/impara",

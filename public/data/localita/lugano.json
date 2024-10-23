@@ -706,32 +706,6 @@
         },
         {
             "type": "node",
-            "id": 2781959743,
-            "lat": 46.0107538,
-            "lon": 8.9556276,
-            "timestamp": "2023-06-17T18:02:48Z",
-            "version": 7,
-            "changeset": 137456581,
-            "user": "saunter",
-            "uid": 10396321,
-            "tags": {
-                "addr:city": "Lugano",
-                "addr:housenumber": "24",
-                "addr:street": "Via Giuseppe Buffi",
-                "amenity": "restaurant",
-                "cuisine": "pizza",
-                "currency:XBT": "yes",
-                "internet_access": "wlan",
-                "internet_access:operator": "FON",
-                "name": "Pizza Style",
-                "payment:lightning": "yes",
-                "survey:date": "2023-05-17",
-                "website": "https://www.pizzastyle.ch/",
-                "wheelchair": "no"
-            }
-        },
-        {
-            "type": "node",
             "id": 3266807168,
             "lat": 45.8436193,
             "lon": 9.0120844,
@@ -1636,6 +1610,32 @@
                 "payment:lightning_contactless": "no",
                 "survey:date": "2022-11-03",
                 "takeaway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7197520376,
+            "lat": 45.7637267,
+            "lon": 8.5585134,
+            "timestamp": "2024-10-16T12:11:44Z",
+            "version": 4,
+            "changeset": 157961774,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Arona",
+                "addr:housenumber": "34",
+                "addr:postcode": "28041",
+                "addr:street": "Piazza del Popolo",
+                "amenity": "bar",
+                "check_date": "2024-10-16",
+                "currency:XBT": "yes",
+                "name": "GOLD loungebar & food",
+                "opening_hours": "Tu-Su 10:00-02:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 334 220 2632"
             }
         },
         {
@@ -6963,6 +6963,37 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "no",
                 "phone": "3784134111"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12280062787,
+            "lat": 46.0049142,
+            "lon": 8.9505181,
+            "timestamp": "2024-10-22T22:41:22Z",
+            "version": 1,
+            "changeset": 158231420,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
+            "tags": {
+                "amenity": "atm",
+                "branch": "Manor Lugano",
+                "cash_in": "yes",
+                "cash_out": "yes",
+                "currency:CHF": "yes",
+                "currency:XBT": "yes",
+                "indoor": "yes",
+                "level": "4",
+                "manufacturer": "General Bytes",
+                "name": "V\u00e4rdex Crypto ATM",
+                "opening_hours": "Mo-Sa 08:00-19:00",
+                "operator": "V\u00e4rdex",
+                "payment:cash": "yes",
+                "payment:debit_cards": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-10-22",
+                "url": "https://coinatmradar.com/bitcoin_atm/30964/bitcoin-atm-general-bytes-lugano-manor-lugano/",
+                "website": "https://www.vaerdex.ch/location-finder?location=manor-lugano-lugano-ch"
             }
         }
     ],
