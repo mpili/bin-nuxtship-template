@@ -7,7 +7,7 @@
     "idlocalita": "cagliari",
     "telegram_weburl": "https://web.telegram.org/a/#-1001802453419",
     "telegram_app": "https://t.me/SatoshiSpritzCagliari",
-    "telegram_members": 89.0,
+    "telegram_members": 88.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -487,22 +487,29 @@
             "id": 10788272290,
             "lat": 39.2450822,
             "lon": 9.163007,
-            "timestamp": "2023-05-12T22:49:15Z",
-            "version": 2,
-            "changeset": 136036865,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2024-10-17T20:43:11Z",
+            "version": 3,
+            "changeset": 158025647,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
                 "addr:city": "Quartucciu",
                 "addr:street": "Via delle Serre",
                 "check_date:currency:XBT": "2023-05-13",
                 "clothes": "men",
+                "contact:facebook": "https://www.facebook.com/doppelganger.abbigliamento/",
+                "contact:instagram": "https://www.instagram.com/doppelgangerofficial/",
+                "contact:linkedin": "https://www.linkedin.com/company/doppelg%C3%A4nger-roma",
+                "contact:pinterest": "https://it.pinterest.com/doppelgangerromaofficial/",
+                "contact:telegram": "https://t.me/DoppelgangerOfficial",
                 "currency:XBT": "yes",
                 "name": "DOPPELG\u00c4NGER",
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "shop": "clothes"
+                "phone": "+39 070 881 588",
+                "shop": "clothes",
+                "website": "https://www.doppelganger.it/it/"
             }
         },
         {
