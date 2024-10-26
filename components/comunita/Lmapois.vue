@@ -78,7 +78,7 @@
 		<LPopup><NuxtLink to="/c/bitcoin-hub-bosa">Bitcoin Hub Bosa</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.4321393, 12.3346526]">
-		<LPopup><NuxtLink to="/c/bitcoin-in-venice">Bitcoin in Venice</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bitcoin-in-venice">Bacari & Bitcoin</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.8005585, 10.3288969]">
 		<LPopup><NuxtLink to="/c/bitcoin-parma">Bitcoin Parma</NuxtLink></LPopup>
