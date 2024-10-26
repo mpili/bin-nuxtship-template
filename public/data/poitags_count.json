@@ -204,7 +204,7 @@
             "Unnamed: 0": 1,
             "shop": "jewelry",
             "count": 18,
-            "max_timestamp": "2024-10-16T20:38:55Z"
+            "max_timestamp": "2024-10-24T19:57:35Z"
         },
         {
             "Unnamed: 0": 2,
@@ -228,7 +228,7 @@
             "Unnamed: 0": 5,
             "shop": "beauty",
             "count": 13,
-            "max_timestamp": "2024-10-11T20:26:22Z"
+            "max_timestamp": "2024-10-24T19:45:26Z"
         },
         {
             "Unnamed: 0": 6,
@@ -246,13 +246,13 @@
             "Unnamed: 0": 8,
             "shop": "farm",
             "count": 7,
-            "max_timestamp": "2024-10-10T21:11:26Z"
+            "max_timestamp": "2024-10-24T12:32:38Z"
         },
         {
             "Unnamed: 0": 9,
             "shop": "sports",
             "count": 6,
-            "max_timestamp": "2024-04-23T12:53:24Z"
+            "max_timestamp": "2024-10-25T20:10:11Z"
         },
         {
             "Unnamed: 0": 10,
@@ -354,7 +354,7 @@
             "Unnamed: 0": 26,
             "shop": "pet",
             "count": 2,
-            "max_timestamp": "2024-10-10T21:16:58Z"
+            "max_timestamp": "2024-10-24T19:36:46Z"
         },
         {
             "Unnamed: 0": 27,
@@ -1205,8 +1205,8 @@
         {
             "Unnamed: 0": 0,
             "leisure": "fitness_centre",
-            "count": 5,
-            "max_timestamp": "2024-10-07T21:06:39Z"
+            "count": 6,
+            "max_timestamp": "2024-10-24T14:09:03Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1250,115 +1250,169 @@
             "Unnamed: 0": 0,
             "sport": "equestrian",
             "count": 2,
-            "max_timestamp": "2024-04-17T12:49:44Z"
+            "max_timestamp": "2024-10-25T20:10:11Z"
         },
         {
             "Unnamed: 0": 1,
-            "sport": "boxing",
-            "count": 1,
-            "max_timestamp": "2023-11-17T18:41:45Z"
+            "sport": "fitness",
+            "count": 2,
+            "max_timestamp": "2024-10-24T14:09:03Z"
         },
         {
             "Unnamed: 0": 2,
-            "sport": "kung_fu",
-            "count": 1,
-            "max_timestamp": "2024-06-09T16:52:25Z"
-        },
-        {
-            "Unnamed: 0": 3,
-            "sport": "wing_chun",
-            "count": 1,
-            "max_timestamp": "2024-06-09T16:52:25Z"
-        },
-        {
-            "Unnamed: 0": 4,
             "sport": "taijiquan",
             "count": 1,
             "max_timestamp": "2024-06-09T16:52:25Z"
         },
         {
+            "Unnamed: 0": 3,
+            "sport": "allenamento_posturale",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 4,
+            "sport": "calishtenics",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
             "Unnamed: 0": 5,
+            "sport": "kettlebell_training",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 6,
+            "sport": "post_operazione",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 7,
+            "sport": "allenamento_rieducativo",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 8,
+            "sport": "allenamento_della_forza",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 9,
+            "sport": "allenamento_funzionale",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 10,
+            "sport": "benessere",
+            "count": 1,
+            "max_timestamp": "2024-10-24T14:09:03Z"
+        },
+        {
+            "Unnamed: 0": 11,
+            "sport": "tai_chi",
+            "count": 1,
+            "max_timestamp": "2024-06-09T16:52:25Z"
+        },
+        {
+            "Unnamed: 0": 12,
+            "sport": "kung_fu",
+            "count": 1,
+            "max_timestamp": "2024-06-09T16:52:25Z"
+        },
+        {
+            "Unnamed: 0": 13,
+            "sport": "wing_chun",
+            "count": 1,
+            "max_timestamp": "2024-06-09T16:52:25Z"
+        },
+        {
+            "Unnamed: 0": 14,
             "sport": "yoga",
             "count": 1,
             "max_timestamp": "2024-09-23T12:41:44Z"
         },
         {
-            "Unnamed: 0": 6,
-            "sport": "thaibox",
-            "count": 1,
-            "max_timestamp": "2023-11-17T18:41:45Z"
-        },
-        {
-            "Unnamed: 0": 7,
-            "sport": "muay_thai",
-            "count": 1,
-            "max_timestamp": "2023-11-17T18:41:45Z"
-        },
-        {
-            "Unnamed: 0": 8,
-            "sport": "kickboxing",
-            "count": 1,
-            "max_timestamp": "2023-11-17T18:41:45Z"
-        },
-        {
-            "Unnamed: 0": 9,
-            "sport": "capoeira",
-            "count": 1,
-            "max_timestamp": "2024-02-25T09:12:45Z"
-        },
-        {
-            "Unnamed: 0": 10,
+            "Unnamed: 0": 15,
             "sport": "skateboard",
             "count": 1,
             "max_timestamp": "2023-10-31T22:20:35Z"
         },
         {
-            "Unnamed: 0": 11,
+            "Unnamed: 0": 16,
+            "sport": "thaibox",
+            "count": 1,
+            "max_timestamp": "2023-11-17T18:41:45Z"
+        },
+        {
+            "Unnamed: 0": 17,
+            "sport": "muay_thai",
+            "count": 1,
+            "max_timestamp": "2023-11-17T18:41:45Z"
+        },
+        {
+            "Unnamed: 0": 18,
+            "sport": "kickboxing",
+            "count": 1,
+            "max_timestamp": "2023-11-17T18:41:45Z"
+        },
+        {
+            "Unnamed: 0": 19,
+            "sport": "boxing",
+            "count": 1,
+            "max_timestamp": "2023-11-17T18:41:45Z"
+        },
+        {
+            "Unnamed: 0": 20,
+            "sport": "capoeira",
+            "count": 1,
+            "max_timestamp": "2024-02-25T09:12:45Z"
+        },
+        {
+            "Unnamed: 0": 21,
             "sport": "pole_dance",
             "count": 1,
             "max_timestamp": "2023-12-26T10:53:56Z"
         },
         {
-            "Unnamed: 0": 12,
-            "sport": "fitness",
-            "count": 1,
-            "max_timestamp": "2023-12-26T10:53:56Z"
-        },
-        {
-            "Unnamed: 0": 13,
+            "Unnamed: 0": 22,
             "sport": "dance",
             "count": 1,
             "max_timestamp": "2023-12-26T10:53:56Z"
         },
         {
-            "Unnamed: 0": 14,
+            "Unnamed: 0": 23,
             "sport": "billiards",
             "count": 1,
             "max_timestamp": "2023-07-12T19:04:57Z"
         },
         {
-            "Unnamed: 0": 15,
+            "Unnamed: 0": 24,
             "sport": "padel",
             "count": 1,
             "max_timestamp": "2023-11-21T22:38:33Z"
         },
         {
-            "Unnamed: 0": 16,
+            "Unnamed: 0": 25,
             "sport": "tennis",
             "count": 1,
             "max_timestamp": "2023-11-21T22:38:33Z"
         },
         {
-            "Unnamed: 0": 17,
+            "Unnamed: 0": 26,
             "sport": "surfing",
             "count": 1,
             "max_timestamp": "2023-10-31T22:20:35Z"
         },
         {
-            "Unnamed: 0": 18,
-            "sport": "tai_chi",
+            "Unnamed: 0": 27,
+            "sport": "stretching",
             "count": 1,
-            "max_timestamp": "2024-06-09T16:52:25Z"
+            "max_timestamp": "2024-10-24T14:09:03Z"
         }
     ],
     "guest_house": [

@@ -168,7 +168,7 @@ const {
         &nbsp;
         <span class="text-blue-700 font-bold">
           <span v-if="data.tags['addr:city']" itemprop="addressLocality">
-            <OsnTaglink tag="%22addr:city%22" :valore="data.tags['addr:city']">
+            <OsnTaglink tag="addr:city" :valore="data.tags['addr:city']">
               <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
             </OsnTaglink>
           </span>
@@ -248,13 +248,17 @@ const {
       etichetta="Brand"
       :testo="data?.tags?.brand"
     />
-
-    <OsnTag
-      v-if="data?.tags?.operator"
-      icona="guidance:office-pod"
-      etichetta="Conduttore"
-      :testo="data?.tags?.operator"
-    />
+    
+    <OsnTaglink tag="operator" :valore="data?.tags?.operator">
+      <template v-slot:testo>
+        <OsnTag
+          v-if="data?.tags?.operator"
+          icona="guidance:office-pod"
+          etichetta="Conduttore"
+          :testo="data?.tags?.operator"
+        />
+      </template>
+    </OsnTaglink>
 
     <OsnTag
       v-if="data.tags['currency:XBT:discount']"
