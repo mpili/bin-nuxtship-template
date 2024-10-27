@@ -142,49 +142,12 @@ const {
         </span>
       </p>
       <p>
-        <span v-if="data.tags['addr:street']" itemprop="streetAddress">
-          {{ data.tags["addr:street"]
-          }}<span v-if="data.tags['addr:housenumber']"
-            >, {{ data.tags["addr:housenumber"] }}<span v-if="data.tags['addr:unit']">/{{data.tags["addr:unit"]}}</span></span
-          >
-        </span>
-        <span v-else-if="data.tags['contact:street']" itemprop="streetAddress">
-          {{ data.tags["contact:street"]
-          }}<span v-if="data.tags['contact:housenumber']"
-            >, {{ data.tags["contact:housenumber"] }}</span
-          >
-        </span>
+        <OsnStreetNum :tags="data?.tags" />
       </p>
       <p v-if="data.tags['addr:suburb']">
         {{ data.tags["addr:suburb"] }}
       </p>
-      <p>
-        <span v-if="data.tags['addr:postcode']" itemprop="postalCode">{{
-          data.tags["addr:postcode"]
-        }}</span>
-        <span v-else-if="data.tags['contact:postcode']" itemprop="postalCode">{{
-          data.tags["contact:postcode"]
-        }}</span>
-        &nbsp;
-        <span class="text-blue-700 font-bold">
-          <span v-if="data.tags['addr:city']" itemprop="addressLocality">
-            <OsnTaglink tag="addr:city" :valore="data.tags['addr:city']">
-              <template v-slot:testo>{{ data.tags["addr:city"] }}</template>
-            </OsnTaglink>
-          </span>
-          <span
-            v-else-if="data.tags['contact:city']"
-            itemprop="addressLocality"
-          >
-            <OsnTaglink tag="contact:city" :valore="data.tags['contact:city']">
-              <template v-slot:testo>{{ data.tags["contact:city"] }}</template>
-            </OsnTaglink>
-          </span>
-        </span>
-        <span v-if="data.tags['addr:province']" itemprop="addressRegion"
-          > ({{ data.tags["addr:province"] }})</span
-        >
-      </p>
+      <p><OsnCapcittapr :tags="data?.tags" /></p>
     </div>
   </div>
   <OsnTel

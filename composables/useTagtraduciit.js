@@ -1,9 +1,15 @@
 import osmTagTranslations from "~/assets/data/osm-tag-translations_it.json";
 
-export function useTagtraduciit(tag, value) {
+export function useTagtraduciit(tag, value = null) {
 	tag = tag.replace(/^\"|\"$/g, '');
-	value = value.replace(/^\"|\"$/g, '');
-	const tagKey = ("tag:" + tag + (value === "x" ? "" : "=" + value));
+	let tagKey;
+
+	if (value === null) {
+		tagKey = "tag:" + tag;
+	} else {
+		value = value.replace(/^\"|\"$/g, '');
+		tagKey = ("tag:" + tag + (value === "x" ? "" : "=" + value));
+	}
 	const translation = osmTagTranslations[tagKey];
-	return translation?.message || value; // Fallback to tagKey if not found
+	return translation?.message || (value ?? tagKey); // Fallback to tagKey if not found
 }

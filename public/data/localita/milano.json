@@ -2207,9 +2207,9 @@
             "id": 10788589036,
             "lat": 45.4467945,
             "lon": 8.5998451,
-            "timestamp": "2024-10-18T20:31:54Z",
-            "version": 4,
-            "changeset": 158067023,
+            "timestamp": "2024-10-27T13:28:04Z",
+            "version": 5,
+            "changeset": 158413142,
             "user": "ivanbranco",
             "uid": 11220113,
             "tags": {
@@ -2217,6 +2217,7 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "28100",
                 "addr:street": "Via Ugo Porzio Giovanola",
+                "brand:website": "https://www.nuvolari.biz/",
                 "check_date": "2024-10-18",
                 "clothes": "men",
                 "currency:XBT": "yes",
@@ -2225,9 +2226,8 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "03211835619",
-                "shop": "clothes",
-                "website": "https://www.nuvolari.biz/"
+                "phone": "+39 0321 1835619",
+                "shop": "clothes"
             }
         },
         {
@@ -3514,6 +3514,54 @@
                 "office": "accountant",
                 "phone": "+39 038 542259",
                 "website": "https://www.studiobrega.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12290262769,
+            "lat": 45.5320946,
+            "lon": 9.3989903,
+            "timestamp": "2024-10-26T14:50:52Z",
+            "version": 1,
+            "changeset": 158379860,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Gorgonzola",
+                "addr:housenumber": "7",
+                "addr:postcode": "20064",
+                "addr:street": "Via G. Galileo",
+                "currency:XBT": "yes",
+                "description": "Operiamo esclusivamente nel DIRITTO SUCCESSORIO, nel diritto delle persone prive di autonomia, nel DIRITTO DI FAMIGLIA e nel DIRITTO MINORILE.",
+                "email": "luigi.cardillo@cardilloefratelli.com",
+                "name": "Avv. Luigi Cardillo",
+                "office": "lawyer",
+                "phone": "+393479444308",
+                "website": "http://www.cardilloefratelli.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12290263516,
+            "lat": 45.5706468,
+            "lon": 9.3347912,
+            "timestamp": "2024-10-26T14:48:50Z",
+            "version": 1,
+            "changeset": 158379769,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Agrate Brianza",
+                "addr:housenumber": "25",
+                "addr:postcode": "20864",
+                "addr:street": "Viale Bartolomeo Colleoni",
+                "currency:XBT": "yes",
+                "description": "Operiamo esclusivamente nel DIRITTO SUCCESSORIO, nel diritto delle persone prive di autonomia, nel DIRITTO DI FAMIGLIA e nel DIRITTO MINORILE.",
+                "email": "luigi.cardillo@cardilloefratelli.com",
+                "name": "Studio Legale Cardillo e fratelli",
+                "office": "lawyer",
+                "phone": "+393479444308",
+                "website": "http://www.cardilloefratelli.com"
             }
         }
     ],
