@@ -4,7 +4,7 @@
             "Unnamed: 0": 0,
             "amenity": "restaurant",
             "count": 80,
-            "max_timestamp": "2024-10-23T19:54:37Z"
+            "max_timestamp": "2024-10-27T13:44:37Z"
         },
         {
             "Unnamed: 0": 1,
@@ -198,7 +198,7 @@
             "Unnamed: 0": 0,
             "shop": "clothes",
             "count": 69,
-            "max_timestamp": "2024-10-18T20:31:54Z"
+            "max_timestamp": "2024-10-27T16:14:04Z"
         },
         {
             "Unnamed: 0": 1,
@@ -674,7 +674,7 @@
             "Unnamed: 0": 0,
             "cuisine": "italian",
             "count": 29,
-            "max_timestamp": "2024-10-23T19:54:37Z"
+            "max_timestamp": "2024-10-27T13:44:37Z"
         },
         {
             "Unnamed: 0": 1,
@@ -692,7 +692,7 @@
             "Unnamed: 0": 3,
             "cuisine": "regional",
             "count": 12,
-            "max_timestamp": "2024-10-02T14:22:53Z"
+            "max_timestamp": "2024-10-27T13:44:37Z"
         },
         {
             "Unnamed: 0": 4,
@@ -878,15 +878,15 @@
     "office": [
         {
             "Unnamed: 0": 0,
-            "office": "accountant",
-            "count": 14,
-            "max_timestamp": "2024-10-23T18:39:01Z"
-        },
-        {
-            "Unnamed: 0": 1,
             "office": "it",
             "count": 14,
             "max_timestamp": "2024-10-08T19:55:17Z"
+        },
+        {
+            "Unnamed: 0": 1,
+            "office": "accountant",
+            "count": 14,
+            "max_timestamp": "2024-10-23T18:39:01Z"
         },
         {
             "Unnamed: 0": 2,
@@ -896,21 +896,21 @@
         },
         {
             "Unnamed: 0": 3,
+            "office": "lawyer",
+            "count": 8,
+            "max_timestamp": "2024-10-26T14:50:52Z"
+        },
+        {
+            "Unnamed: 0": 4,
             "office": "consulting",
             "count": 8,
             "max_timestamp": "2024-10-08T19:30:33Z"
         },
         {
-            "Unnamed: 0": 4,
+            "Unnamed: 0": 5,
             "office": "architect",
             "count": 7,
             "max_timestamp": "2024-10-18T16:52:25Z"
-        },
-        {
-            "Unnamed: 0": 5,
-            "office": "lawyer",
-            "count": 6,
-            "max_timestamp": "2024-07-06T07:07:11Z"
         },
         {
             "Unnamed: 0": 6,

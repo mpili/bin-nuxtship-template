@@ -7,7 +7,7 @@
     "idlocalita": "varese",
     "telegram_weburl": "https://web.telegram.org/a/#-1001656890617",
     "telegram_app": "https://t.me/satoshispritzVarese",
-    "telegram_members": 104.0,
+    "telegram_members": 105.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1142,20 +1142,21 @@
             "id": 3545129485,
             "lat": 45.9538647,
             "lon": 8.9057755,
-            "timestamp": "2023-11-11T11:28:10Z",
-            "version": 4,
-            "changeset": 143895510,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2024-10-27T10:28:17Z",
+            "version": 5,
+            "changeset": 158406380,
+            "user": "O8TsWI0ytroHwPeo",
+            "uid": 3968236,
             "tags": {
                 "amenity": "restaurant",
                 "check_date:currency:XBT": "2023-05-17",
                 "currency:XBT": "yes",
                 "name": "Osteria Degli Amici",
+                "opening_hours": "We-Sa 11:00-15:00, 18:00-23:00; Su 11:00-23:00",
                 "payment:lightning": "yes",
                 "payment:onchain": "no",
                 "phone": "+41919801072",
-                "website": "https://osteriadegliamici.ch/"
+                "website": "https://osteriadegliamici.ch"
             }
         },
         {
@@ -1582,18 +1583,18 @@
             "id": 4760805623,
             "lat": 46.006052,
             "lon": 8.966219,
-            "timestamp": "2024-10-24T06:29:06Z",
-            "version": 8,
-            "changeset": 158281762,
-            "user": "slybtc",
-            "uid": 20581189,
+            "timestamp": "2024-10-26T16:28:41Z",
+            "version": 9,
+            "changeset": 158383927,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "amenity": "restaurant",
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
                 "name": "Breva",
                 "payment:lightning": "yes",
-                "payment:lightning_contactlesss": "no",
+                "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "survey:date": "2024-10-24",
                 "website": "https://pizzeriabreva.ch/"
@@ -5167,9 +5168,9 @@
             "id": 10788589036,
             "lat": 45.4467945,
             "lon": 8.5998451,
-            "timestamp": "2024-10-18T20:31:54Z",
-            "version": 4,
-            "changeset": 158067023,
+            "timestamp": "2024-10-27T13:28:04Z",
+            "version": 5,
+            "changeset": 158413142,
             "user": "ivanbranco",
             "uid": 11220113,
             "tags": {
@@ -5177,6 +5178,7 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "28100",
                 "addr:street": "Via Ugo Porzio Giovanola",
+                "brand:website": "https://www.nuvolari.biz/",
                 "check_date": "2024-10-18",
                 "clothes": "men",
                 "currency:XBT": "yes",
@@ -5185,9 +5187,8 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "03211835619",
-                "shop": "clothes",
-                "website": "https://www.nuvolari.biz/"
+                "phone": "+39 0321 1835619",
+                "shop": "clothes"
             }
         },
         {
@@ -8602,6 +8603,30 @@
                 "survey:date": "2024-10-22",
                 "url": "https://coinatmradar.com/bitcoin_atm/30964/bitcoin-atm-general-bytes-lugano-manor-lugano/",
                 "website": "https://www.vaerdex.ch/location-finder?location=manor-lugano-lugano-ch"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12290263516,
+            "lat": 45.5706468,
+            "lon": 9.3347912,
+            "timestamp": "2024-10-26T14:48:50Z",
+            "version": 1,
+            "changeset": 158379769,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Agrate Brianza",
+                "addr:housenumber": "25",
+                "addr:postcode": "20864",
+                "addr:street": "Viale Bartolomeo Colleoni",
+                "currency:XBT": "yes",
+                "description": "Operiamo esclusivamente nel DIRITTO SUCCESSORIO, nel diritto delle persone prive di autonomia, nel DIRITTO DI FAMIGLIA e nel DIRITTO MINORILE.",
+                "email": "luigi.cardillo@cardilloefratelli.com",
+                "name": "Studio Legale Cardillo e fratelli",
+                "office": "lawyer",
+                "phone": "+393479444308",
+                "website": "http://www.cardilloefratelli.com"
             }
         }
     ],
