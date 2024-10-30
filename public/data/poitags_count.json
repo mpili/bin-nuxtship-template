@@ -4,7 +4,7 @@
             "Unnamed: 0": 0,
             "amenity": "restaurant",
             "count": 80,
-            "max_timestamp": "2024-10-27T13:44:37Z"
+            "max_timestamp": "2024-10-28T17:15:09Z"
         },
         {
             "Unnamed: 0": 1,
@@ -16,7 +16,7 @@
             "Unnamed: 0": 2,
             "amenity": "bar",
             "count": 36,
-            "max_timestamp": "2024-10-16T12:11:44Z"
+            "max_timestamp": "2024-10-30T13:01:36Z"
         },
         {
             "Unnamed: 0": 3,
@@ -40,7 +40,7 @@
             "Unnamed: 0": 6,
             "amenity": "dentist",
             "count": 11,
-            "max_timestamp": "2024-10-23T18:30:26Z"
+            "max_timestamp": "2024-10-30T08:12:13Z"
         },
         {
             "Unnamed: 0": 7,
@@ -258,7 +258,7 @@
             "Unnamed: 0": 10,
             "shop": "yes",
             "count": 5,
-            "max_timestamp": "2024-10-12T18:06:13Z"
+            "max_timestamp": "2024-10-29T21:22:39Z"
         },
         {
             "Unnamed: 0": 11,
@@ -348,7 +348,7 @@
             "Unnamed: 0": 25,
             "shop": "travel_agency",
             "count": 2,
-            "max_timestamp": "2024-08-21T17:38:22Z"
+            "max_timestamp": "2024-10-29T20:47:46Z"
         },
         {
             "Unnamed: 0": 26,
@@ -680,7 +680,7 @@
             "Unnamed: 0": 1,
             "cuisine": "pizza",
             "count": 27,
-            "max_timestamp": "2024-10-23T19:54:37Z"
+            "max_timestamp": "2024-10-28T17:15:09Z"
         },
         {
             "Unnamed: 0": 2,
@@ -886,7 +886,7 @@
             "Unnamed: 0": 1,
             "office": "accountant",
             "count": 14,
-            "max_timestamp": "2024-10-23T18:39:01Z"
+            "max_timestamp": "2024-10-29T21:22:39Z"
         },
         {
             "Unnamed: 0": 2,
@@ -898,7 +898,7 @@
             "Unnamed: 0": 3,
             "office": "lawyer",
             "count": 8,
-            "max_timestamp": "2024-10-26T14:50:52Z"
+            "max_timestamp": "2024-10-28T20:53:00Z"
         },
         {
             "Unnamed: 0": 4,
@@ -1020,7 +1020,7 @@
             "Unnamed: 0": 0,
             "tourism": "guest_house",
             "count": 37,
-            "max_timestamp": "2024-10-17T19:06:28Z"
+            "max_timestamp": "2024-10-28T21:01:20Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1042,12 +1042,24 @@
         },
         {
             "Unnamed: 0": 4,
+            "tourism": "travel_agent",
+            "count": 1,
+            "max_timestamp": "2024-10-29T20:47:46Z"
+        },
+        {
+            "Unnamed: 0": 5,
+            "tourism": "information",
+            "count": 1,
+            "max_timestamp": "2024-10-29T20:47:46Z"
+        },
+        {
+            "Unnamed: 0": 6,
             "tourism": "chalet",
             "count": 1,
             "max_timestamp": "2022-12-20T08:52:18Z"
         },
         {
-            "Unnamed: 0": 5,
+            "Unnamed: 0": 7,
             "tourism": "theme_park",
             "count": 1,
             "max_timestamp": "2024-07-23T05:47:25Z"
@@ -1058,7 +1070,7 @@
             "Unnamed: 0": 0,
             "craft": "photographer",
             "count": 7,
-            "max_timestamp": "2024-09-23T09:54:06Z"
+            "max_timestamp": "2024-10-29T21:28:56Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1080,15 +1092,15 @@
         },
         {
             "Unnamed: 0": 4,
-            "craft": "handicraft",
-            "count": 2,
-            "max_timestamp": "2024-07-20T20:39:58Z"
-        },
-        {
-            "Unnamed: 0": 5,
             "craft": "painter",
             "count": 2,
             "max_timestamp": "2024-09-23T12:39:57Z"
+        },
+        {
+            "Unnamed: 0": 5,
+            "craft": "handicraft",
+            "count": 1,
+            "max_timestamp": "2024-04-10T12:07:02Z"
         },
         {
             "Unnamed: 0": 6,
@@ -1150,7 +1162,7 @@
             "Unnamed: 0": 0,
             "healthcare": "dentist",
             "count": 11,
-            "max_timestamp": "2024-10-23T18:30:26Z"
+            "max_timestamp": "2024-10-30T08:12:13Z"
         },
         {
             "Unnamed: 0": 1,
