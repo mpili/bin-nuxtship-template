@@ -184,6 +184,8 @@ const {
       :telefono="data.tags['phone:mobile']"
     />
 
+    <OsnEventi :idnodosm="data?.id" />
+
     <OsnTagyesno
       v-if="data?.tags?.wheelchair"
       icona="ph:wheelchair-light"
@@ -288,6 +290,7 @@ const {
           :value="data.tags['contact:' + s.nome]"
         />
       </span>
+      <OsnTripadvisor :pending="pending" :dbdata="dbdata" />
     </div>
   </div>
 
