@@ -20,8 +20,6 @@ useHead({
     },
   ],
 });
-
-
 </script>
 
 <template>
@@ -30,6 +28,18 @@ useHead({
   </LandingSectionhead>
   <LandingBreadcrumb :voci="breadcrumb" />
 
+  <div class="max-w-sm">
+    <img
+      v-if="evento?.img"
+      class="rounded-md mt-2"
+      :src="
+        'https://bin-dev.pockethost.io/api/files/eventi/' +
+        evento.id +
+        '/' +
+        evento.img
+      "
+    />
+  </div>
 
   <div class="py-4" v-if="evento?.descrizionex">
     <div v-html="evento?.descrizionex"></div>
@@ -38,20 +48,6 @@ useHead({
     {{ evento?.descrizione }}
   </div>
   <MeetupBadge v-if="evento?.id_comunita" :idcomunita="evento?.id_comunita" />
-  
+
   <EventiVenue v-if="evento?.id_nod_osm" :idnodosm="evento?.id_nod_osm" />
-
-  <div class="max-w-sm">
-    <img v-if="evento?.img"
-        class="rounded-md mt-2"
-        :src="
-          'https://bin-dev.pockethost.io/api/files/eventi/' +
-          evento.id +
-          '/' +
-          evento.img
-        "
-      />
-  </div>
-
-
 </template>
