@@ -7,7 +7,13 @@ useHead({
 	  name: "description",
 	  content: "Il calendario degli appuntamenti, incontri e meetup dei bitcoiner.",
 	},
-  ]
+  ],
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/eventi',
+    },
+  ],
 });
 
 definePageMeta({

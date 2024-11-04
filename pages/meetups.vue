@@ -2,6 +2,12 @@
 
 useHead({
   title: 'I gruppi di meetup Bitcoin in Italia | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/meetups',
+    },
+  ],
 });
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/meetup/records`;

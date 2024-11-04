@@ -2,7 +2,7 @@
 const features = [
   {
     title: "Dove usare Bitcoin",
-    url: "/ostcount",
+    url: "/categorie",
     description:
       "Scopri luoghi e servizi in Italia che accettano Bitcoin, permettendoti di vivere l'esperienza dell'economia digitale decentralizzata.",
     icon: "bx:bxs-window-alt",

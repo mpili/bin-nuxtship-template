@@ -8,6 +8,12 @@ useHead({
 	  content: "Una selezione degli hardware wallet Bitcoin.",
 	},
   ],
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/hwallet',
+    },
+  ],
 });
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/hardwarewallet/records`;

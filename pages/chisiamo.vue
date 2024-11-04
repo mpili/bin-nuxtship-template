@@ -3,6 +3,13 @@
 
 useHead({
   title: "Chi siamo | Bitcoin Italian Network",
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/chisiamo',
+    },
+  ],
+
 });
 
 definePageMeta({

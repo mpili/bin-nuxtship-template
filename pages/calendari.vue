@@ -1,6 +1,13 @@
 <script setup>
 useHead({
   title: 'Calendari | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/calendari',
+    },
+  ],
+
 });
 
 definePageMeta({

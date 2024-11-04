@@ -2,6 +2,12 @@
 
 useHead({
   title: 'Libri Bitcoin in Italiano da acquistare su Amazon | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/libriamazon',
+    },
+  ],
 });
 
 const url_api  = `/data/amazon-libri.json`;

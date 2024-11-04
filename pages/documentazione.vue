@@ -1,6 +1,12 @@
 <script setup>
 useHead({
   title: "Documentazione | Bitcoin Italian Network",
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/documentazione',
+    },
+  ],
 });
 
 definePageMeta({

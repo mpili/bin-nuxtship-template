@@ -9,7 +9,7 @@ const vocimenu = [
       },
       {
         titolo: "Categorie",
-        path: "/ostcount",
+        path: "/categorie",
       },
       {
         titolo: "Mappe",
