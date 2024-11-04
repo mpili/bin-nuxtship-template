@@ -2,6 +2,12 @@
 
 useHead({
   title: 'Formazione | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/formazione',
+    },
+  ],
 });
 
 definePageMeta({

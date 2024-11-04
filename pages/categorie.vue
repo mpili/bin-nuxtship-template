@@ -2,6 +2,12 @@
 
 useHead({
   title: 'Categorie di Esercenti che accettano Bitcoin in Italia | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/categorie',
+    },
+  ],
 });
 
 const url_api  = `/data/poitags_count.json`;

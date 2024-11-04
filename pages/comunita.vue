@@ -1,6 +1,12 @@
 <script setup>
 useHead({
   title: "Comunità | Bitcoin Italia Network",
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/comunita',
+    },
+  ],
 });
 
 definePageMeta({

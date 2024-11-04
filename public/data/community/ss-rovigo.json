@@ -220,6 +220,33 @@
         },
         {
             "type": "node",
+            "id": 3801818316,
+            "lat": 45.0723941,
+            "lon": 11.7969114,
+            "timestamp": "2024-11-02T18:36:33Z",
+            "version": 2,
+            "changeset": 158671862,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rovigo",
+                "addr:housenumber": "23",
+                "addr:postcode": "45100",
+                "addr:street": "Viale Erminia Fu\u00e0 Fusinato",
+                "addr:unit": "A",
+                "amenity": "restaurant",
+                "check_date": "2024-11-02",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "name": "Pizzeria MArechiaro",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 328 766 1125"
+            }
+        },
+        {
+            "type": "node",
             "id": 4727745918,
             "lat": 45.4090126,
             "lon": 11.8788211,

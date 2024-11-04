@@ -2,6 +2,12 @@
 
 useHead({
   title: "Impara | Bitcoin Italia Network",
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/impara',
+    },
+  ],
 });
 
 definePageMeta({

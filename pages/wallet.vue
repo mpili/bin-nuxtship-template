@@ -22,10 +22,16 @@ const breadcrumb = computed(() => [
 useHead({
   title: "Wallet Bitcoin" + " | Bitcoin Italia Network",
   meta: [
-	{
-	  name: "description",
-	  content: "Una selezione di wallet Bitcoin.",
-	},
+    {
+      name: "description",
+      content: "Una selezione di wallet Bitcoin.",
+    },
+  ],
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/wallet',
+    },
   ],
 });
 
@@ -164,7 +170,7 @@ const attributiWalletOpz = [
       <template v-slot:desc>Le applicazioni per gestire i tuoi fondi.</template>
     </LandingSectionhead>
 
-		<LandingMainimg urlimg="/img/sections/wallet.jpg" />
+    <LandingMainimg urlimg="/img/sections/wallet.jpg" />
 
     <LandingBreadcrumb :voci="breadcrumb" />
 

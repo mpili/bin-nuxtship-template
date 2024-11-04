@@ -19,7 +19,7 @@ const tagita = useTagtraduciit(tag) + " " + useTagtraduciit(tag, value);
 const breadcrumb = computed(() => [
   {
     label: tag=='"addr:city"' ? "" : "Categorie Esercenti",
-    path: tag=='"addr:city"' ? "" : "/ostcount",
+    path: tag=='"addr:city"' ? "" : "/categorie",
   },
   {
     label: tagita,

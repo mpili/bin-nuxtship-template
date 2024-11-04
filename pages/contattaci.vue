@@ -1,6 +1,12 @@
 <script setup>
 useHead({
   title: 'Contattaci | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/contattaci',
+    },
+  ],
 });
 
 definePageMeta({

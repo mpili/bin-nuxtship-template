@@ -50,6 +50,12 @@ useHead({
 	  content: "Le mappe su altri siti di esercenti che accettano Bitcoin in Italia.",
 	},
   ],
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/dove',
+    },
+  ],
 });
 
 </script>

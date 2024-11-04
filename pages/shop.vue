@@ -2,6 +2,12 @@
 
 useHead({
   title: 'Siti dove acquistare in Bitcoin | Bitcoin Italia Network',
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://bitcoinitalianetwork.com/shop',
+    },
+  ],
 });
 
 definePageMeta({
