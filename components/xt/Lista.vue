@@ -67,8 +67,9 @@ onMounted(() => {
   </div>
   <div v-else>
     <OstMap :pois="allElements" />
-    <div v-for="poi in allElements" :key="poi.id">
+    <!-- <div v-for="poi in allElements" :key="poi.id">
       <OsnLinelink :poi="poi" />
-    </div>
+    </div> -->
+    <ComunitaPoislist :datapois="allElements" />
   </div>
 </template>

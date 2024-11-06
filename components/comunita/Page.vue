@@ -108,6 +108,6 @@ useHead({
       </div>
     </div>
   </div>
-  <ComunitaPoislist :data="data" />
+  <ComunitaPoislist :datapois="data.poi" />
   <LandingDisclaimer />
 </template>
