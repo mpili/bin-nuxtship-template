@@ -1659,6 +1659,29 @@
                 "shop": "clothes",
                 "website": "https://www.doppelganger.it/"
             }
+        },
+        {
+            "type": "node",
+            "id": 12319618892,
+            "lat": 41.9099155,
+            "lon": 12.5073847,
+            "timestamp": "2024-11-06T23:08:15Z",
+            "version": 2,
+            "changeset": 158836485,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "15A bis",
+                "addr:postcode": "00161",
+                "addr:street": "Via di Villa Patrizi",
+                "amenity": "doctors",
+                "currency:XBT": "yes",
+                "healthcare": "doctor",
+                "healthcare:speciality": "ophthalmology",
+                "name": "Studio Oftalmologico Scuderi",
+                "phone": "+39 06 442 31278"
+            }
         }
     ],
     "telegram": [

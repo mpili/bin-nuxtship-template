@@ -151,6 +151,35 @@
         },
         {
             "type": "node",
+            "id": 4229074925,
+            "lat": 39.2160261,
+            "lon": 9.1109682,
+            "timestamp": "2024-11-07T19:51:43Z",
+            "version": 5,
+            "changeset": 158869841,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "23",
+                "addr:postcode": "09124",
+                "addr:street": "Via Giovanni Maria Angioy",
+                "currency:XBT": "yes",
+                "email": "info@cagliarinovecento.it",
+                "guest_house": "bed_and_breakfast",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Affittacamere B&B Cagliari Novecento",
+                "phone": "+39 070650607",
+                "phone:mobile": "+39 +39 349 840 6839",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
+                "tourism": "guest_house",
+                "website": "https://www.cagliarinovecento.it/",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 4229520549,
             "lat": 39.217275,
             "lon": 9.1199153,
@@ -689,6 +718,77 @@
                 "rooms": "3",
                 "tourism": "guest_house",
                 "website": "https://www.booking.com/hotel/it/villa-arianna-porto-pino-sant-anna-arresi.it.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12321369225,
+            "lat": 39.2158601,
+            "lon": 9.1115878,
+            "timestamp": "2024-11-07T20:48:03Z",
+            "version": 1,
+            "changeset": 158871517,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "26",
+                "addr:postcode": "09124",
+                "addr:street": "Largo Carlo Felice",
+                "currency:XBT": "yes",
+                "email": "booking@sardiniadomusgroup.it",
+                "guest_house": "bed_and_breakfast",
+                "name": "Sardinia Domus",
+                "phone": "+39 070 659 783",
+                "tourism": "hotel",
+                "website": "https://www.sardiniadomus.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12321371439,
+            "lat": 39.2161265,
+            "lon": 9.1111194,
+            "timestamp": "2024-11-07T21:02:10Z",
+            "version": 1,
+            "changeset": 158871950,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "23",
+                "addr:postcode": "09124",
+                "addr:street": "Via Giovanni Maria Angioy",
+                "company": "construction",
+                "currency:XBT": "yes",
+                "email": "amministrazione@acaciaedilizia.it",
+                "name": "Acacia Edilizia",
+                "phone": "+39 339 735 4187",
+                "website": "https://acaciaedilizia.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12321395317,
+            "lat": 39.216129,
+            "lon": 9.1110624,
+            "timestamp": "2024-11-07T21:12:59Z",
+            "version": 1,
+            "changeset": 158872255,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "23",
+                "addr:postcode": "09124",
+                "addr:street": "Via Giovanni Maria Angioy",
+                "currency:XBT": "yes",
+                "email": "amministrazione@navitora.it",
+                "name": "Navitora",
+                "office": "company",
+                "phone": "+39 070 467 0114",
+                "phone:mobile": "+39 339 735 4187",
+                "website": "https://navitora.it/"
             }
         }
     ],
