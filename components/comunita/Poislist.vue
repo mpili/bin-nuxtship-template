@@ -1,11 +1,11 @@
 <script setup>
 import { computed } from "vue";
 
-const props = defineProps(["data"]);
+const props = defineProps(["datapois"]);
 
 // Compute grouped POIs
 const groupedPois = computed(() => {
-  const grouped = props.data.poi.reduce((acc, poi) => {
+  const grouped = props.datapois.reduce((acc, poi) => {
     // Get amenity tag or use 'other' as default category
     var categoria;
 
@@ -22,9 +22,11 @@ const groupedPois = computed(() => {
     ];
 
     for (const tag of tagsPriority) {
-      if (poi.tags[tag]) {
-        categoria = useTagtraduciit(tag, poi.tags[tag]);
-        break;
+      if (poi?.tags) {
+        if (poi.tags[tag]) {
+          categoria = useTagtraduciit(tag, poi.tags[tag]);
+          break;
+        }
       }
     }
 
@@ -54,7 +56,7 @@ const groupedPois = computed(() => {
 </script>
 
 <template>
-  <section v-if="data.poi.length > 0" class="py-1 bg-blueGray-50">
+  <section v-if="datapois.length > 0" class="py-1 bg-blueGray-50">
     <div class="mt-6">
       <!-- Iterate over categoria groups -->
       <div

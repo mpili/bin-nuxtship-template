@@ -7,7 +7,7 @@
     "idlocalita": "rovereto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001781332904",
     "telegram_app": "https://t.me/SatoshiSpritzRovereto",
-    "telegram_members": 145.0,
+    "telegram_members": 147.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -96,6 +96,34 @@
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "shop": "beauty",
                 "website": "https://www.bellezzastudio.eu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 867377482,
+            "lat": 46.0678365,
+            "lon": 11.1207305,
+            "timestamp": "2024-11-06T07:27:37Z",
+            "version": 11,
+            "changeset": 158805889,
+            "user": "Xottino",
+            "uid": 20061248,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "40",
+                "addr:postcode": "38122",
+                "addr:street": "Via Camillo Benso Cavour",
+                "amenity": "bar",
+                "check_date": "2024-06-30",
+                "currency:XBT": "yes",
+                "name": "Locanda del Gatto Gordo",
+                "operator": "KIKI S.N.C. di Carlo Villotti & C.",
+                "outdoor_seating": "yes",
+                "payment:XBT:operator": "Bitcoinpos.it",
+                "payment:lightning": "yes",
+                "ref:vatin": "IT02431310222",
+                "wheelchair": "limited"
             }
         },
         {
@@ -726,6 +754,36 @@
                 "description": "Studio Legale e Commercialistico",
                 "name": "Studio Carollo",
                 "office": "accountant"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3488750202,
+            "lat": 46.0445702,
+            "lon": 11.1208798,
+            "timestamp": "2024-11-06T07:27:37Z",
+            "version": 6,
+            "changeset": 158805889,
+            "user": "Xottino",
+            "uid": 20061248,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "21",
+                "addr:postcode": "38123",
+                "addr:street": "Via Fersina",
+                "amenity": "restaurant",
+                "contact:facebook": "https://www.facebook.com/ristorantecontrobreak",
+                "contact:instagram": "https://www.instagram.com/controbreak_trento/",
+                "cuisine": "coffee_shop;italian",
+                "currency:XBT": "yes",
+                "email": "info@controbreak.it",
+                "name": "Contro Break",
+                "payment:XBT:operator": "Bitcoinpos.it",
+                "payment:lightning": "yes",
+                "payment:xtb:operator": "yes",
+                "phone": "+39 046 1525 950",
+                "website": "https://controbreak.it/"
             }
         },
         {
