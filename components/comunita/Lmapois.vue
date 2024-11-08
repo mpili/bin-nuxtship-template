@@ -176,6 +176,9 @@
 	<LMarker :lat-lng="[41.12559562, 16.86737016]">
 		<LPopup><NuxtLink to="/c/ss-puglia">Satoshi Spritz Puglia</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[43.8926686, 11.1049362]">
+		<LPopup><NuxtLink to="/c/ss-prato">Satoshi Spritz Prato</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[44.4836, 11.0131]">
 		<LPopup><NuxtLink to="/c/ss-vignola">Satoshi Spritz Vignola</NuxtLink></LPopup>
 	</LMarker>
@@ -223,5 +226,8 @@
 	</LMarker>
 	<LMarker :lat-lng="[46.13837528, 12.21704167]">
 		<LPopup><NuxtLink to="/c/ss-belluno">Satoshi Spritz Belluno</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.1802884, 13.7746607]">
+		<LPopup><NuxtLink to="/c/bitticcistation">Bitticci Station</NuxtLink></LPopup>
 	</LMarker>
 </template>
