@@ -2,8 +2,18 @@
 const { tag, value } = useRoute().params;
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/xtags/records?filter=(tag=%22${tag}%22 %26%26 value=%22${value}%22)&perPage=999`;
-
 const { pending, data, error } = await useLazyFetch(url_api, {
+  lazy: true,
+  server: false,
+});
+
+
+const url_api_xtag = `https://bin-dev.pockethost.io/api/collections/xtag/records?filter=(tag=%22${tag}%22 %26%26 value=%22${value}%22)`;
+const {
+  pending: pending_xtag,
+  data: dbdata_xtag,
+  error: error_xtag,
+} = await useLazyFetch(url_api_xtag, {
   lazy: true,
   server: false,
 });
@@ -21,12 +31,14 @@ definePageMeta({
 
 <template>
   <LandingContainer>
-    <LandingSectionhead>
-      <template v-slot:title>{{ tag }} : {{ value }}</template>
-      <!-- <template v-slot:desc>Calendari Bitcoin.</template> -->
-    </LandingSectionhead>
 
-    <LandingBreadcrumb :voci="breadcrumb" />
+
+
+    <div v-if="pending_xtag">
+    </div>
+    <div v-else>
+      <XtTestata :data="dbdata_xtag" />
+    </div>
 
     <div v-if="pending">
       Loading
