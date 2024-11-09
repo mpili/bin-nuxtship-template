@@ -27,7 +27,8 @@ useHead({
   meta: [
     {
       property: "og:image",
-      content: "https://bitcoinitalianetwork.com/img/c/" + props?.data?.id +".jpeg",
+      content:
+        "https://bitcoinitalianetwork.com/img/c/" + props?.data?.id + ".jpeg",
     },
   ],
 });
@@ -76,7 +77,7 @@ useHead({
   <div class="py-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
     <div class="divide-y divide-gray-300/50">
       <div class="flex">
-        <div class="flex flex-row align-items-center px-8 py-2">
+        <div v-if="data?.telegram_app" class="flex flex-row align-items-center px-8 py-2">
           <Icon name="logos:telegram" size="24" class="mr-2" />
           <span>Telegram</span>
         </div>
@@ -102,6 +103,13 @@ useHead({
               :href="data?.telegram_weburl"
               :icona="'mdi:web'"
               :testo="'web'"
+            />
+          </div>
+          <div v-if="data?.facebook">
+            <ComunitaButton
+              :href="data.facebook"
+              :icona="'mdi:facebook'"
+              testo="facebook"
             />
           </div>
         </div>

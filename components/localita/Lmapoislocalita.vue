@@ -122,6 +122,9 @@
 	<LMarker :lat-lng="[45.9628504, 12.6551973]">
 		<LPopup><NuxtLink to="/l/pordenone">Pordenone</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[43.1802884, 13.7746607]">
+		<LPopup><NuxtLink to="/l/portosangiorgio">Porto San Giorgio</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[43.8926686, 11.1049362]">
 		<LPopup><NuxtLink to="/l/prato">Prato</NuxtLink></LPopup>
 	</LMarker>
