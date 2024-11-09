@@ -15,13 +15,9 @@ export default {
   <span v-if="!pending">
     <span v-if="dbdata">
       <span v-if="dbdata.items">
-        <span v-if="dbdata.items[0]">
-          <span v-if="dbdata.items[0].tripadvisor" class="mt-8">
-            <OsnSocial
-              nome="tripadvisor"
-              icona="simple-icons:tripadvisor"
-              :value="dbdata.items[0].tripadvisor"
-            />
+        <span v-for="item of dbdata.items" :key="item.id">
+          <span v-if="item">
+            <OsnXtagpsp v-if="item.tag == 'psp'" :value="item.value" />
           </span>
         </span>
       </span>
