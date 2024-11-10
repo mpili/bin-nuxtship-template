@@ -1,11 +1,16 @@
 <script setup>
 const props = defineProps(["data"]);
 
-// const breadcrumb = computed(() => [
-//   {
-//     label: props.data?.items[0]?.titolo,
-//   },
-// ]);
+const breadcrumb = computed(() => [
+  {
+    label: "psp",
+    path: "/psp",
+  },
+  {
+    label: props.data.items[0].titolo,
+  },
+]);
+
 </script>
 <template>
   <div v-if="data.items">
@@ -15,7 +20,7 @@ const props = defineProps(["data"]);
         <template v-slot:desc>Sisitema di pagamento bitcoin</template>
       </LandingSectionhead>
 
-      <!-- <LandingBreadcrumb :voci="breadcrumb" /> -->
+      <LandingBreadcrumb :voci="breadcrumb" />
 
       <div v-if="item.descrizione" class="mt-8" v-html="item.descrizione"></div>
 

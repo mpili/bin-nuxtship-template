@@ -14,7 +14,7 @@ export default {
 	<OsnLabellinktag
 		icona="mdi:web"
 		etichetta="Sistema di pagamento Bitcoin"
-		url="/xt/psp/coinbar"
+		:url="'/xt/psp/'+value"
 		:testo="value"
 	/>
   </div>
