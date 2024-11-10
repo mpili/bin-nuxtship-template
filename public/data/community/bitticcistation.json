@@ -456,6 +456,26 @@
                 "phone": "+39 0734 675306",
                 "shop": "hairdresser"
             }
+        },
+        {
+            "type": "node",
+            "id": 12324589823,
+            "lat": 43.1858175,
+            "lon": 13.4744237,
+            "timestamp": "2024-11-08T21:50:38Z",
+            "version": 1,
+            "changeset": 158912851,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mogliano",
+                "addr:housenumber": "33/C",
+                "addr:postcode": "62010",
+                "addr:street": "Viale XX Settembre",
+                "amenity": "bar",
+                "currency:XBT": "yes",
+                "name": "KUSH SNC"
+            }
         }
     ],
     "telegram": []
