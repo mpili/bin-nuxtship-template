@@ -55,24 +55,8 @@ useHead({
   </div>
 
   <LandingBreadcrumb :voci="breadcrumb" />
-  <div class="py-8">
-    <LMap
-      style="height: 250px"
-      :zoom="11"
-      :center="[data?.lng, data?.lat]"
-      :use-global-leaflet="false"
-    >
-      <LTileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution='&amp;copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
-        layer-type="base"
-        name="OpenStreetMap"
-      />
-      <ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
-    </LMap>
-  </div>
 
-  <ComunitaEventi :idcomunita="data?.id" />
+
 
   <div class="py-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
     <div class="divide-y divide-gray-300/50">
@@ -116,6 +100,27 @@ useHead({
       </div>
     </div>
   </div>
+
+  <ComunitaEventi :idcomunita="data?.id" />
+
+  <div class="py-8">
+    <LMap
+      style="height: 250px"
+      :zoom="11"
+      :center="[data?.lng, data?.lat]"
+      :use-global-leaflet="false"
+    >
+      <LTileLayer
+        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        attribution='&amp;copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+        layer-type="base"
+        name="OpenStreetMap"
+      />
+      <ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
+    </LMap>
+  </div>
+
+
   <ComunitaPoislist :datapois="data.poi" />
   <LandingDisclaimer />
 </template>

@@ -1044,9 +1044,9 @@
             "id": 11500779932,
             "lat": 41.8551308,
             "lon": 12.4427295,
-            "timestamp": "2024-10-11T19:53:36Z",
-            "version": 2,
-            "changeset": 157771545,
+            "timestamp": "2024-11-10T16:03:48Z",
+            "version": 3,
+            "changeset": 158973542,
             "user": "mpbin",
             "uid": 21850090,
             "tags": {
@@ -1056,10 +1056,12 @@
                 "addr:street": "Via Luigi Corti",
                 "check_date": "2024-01-08",
                 "contact:facebook": "https://www.facebook.com/people/Cleaneco-Service-srl/100034777222351/",
+                "contact:mobile": "+39 329 451 3858",
                 "craft": "cleaning",
                 "currency:XBT": "yes",
                 "email": "cleaneco@cleanecoservice.it",
                 "name": "CleanEco Service",
+                "phone": "+39 06 65793482",
                 "source": "+39 06 65793482",
                 "website": "http://www.cleanecoservice.it/wordpress/"
             }
@@ -1705,6 +1707,26 @@
                 "healthcare:speciality": "ophthalmology",
                 "name": "Studio Oftalmologico Scuderi",
                 "phone": "+39 06 442 31278"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12329439908,
+            "lat": 41.8953317,
+            "lon": 12.4726631,
+            "timestamp": "2024-11-10T21:03:13Z",
+            "version": 1,
+            "changeset": 158985593,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "52",
+                "addr:postcode": "00186",
+                "addr:street": "Campo de' Fiori",
+                "currency:XBT": "yes",
+                "name": "Tabacchi Riv.132",
+                "shop": "tobacco"
             }
         }
     ],

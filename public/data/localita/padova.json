@@ -523,6 +523,30 @@
         },
         {
             "type": "node",
+            "id": 5329671480,
+            "lat": 45.6409686,
+            "lon": 12.3422169,
+            "timestamp": "2024-11-11T16:54:06Z",
+            "version": 7,
+            "changeset": 159017250,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roncade",
+                "addr:housenumber": "2",
+                "addr:postcode": "31056",
+                "addr:street": "Via Treviso Mare",
+                "check_date": "2018-01-09",
+                "craft": "winery",
+                "currency:XBT": "yes",
+                "email": "info@47annodomini.it",
+                "name": "47 Anno Domini",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "website": "https://www.47annodomini.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 5333027525,
             "lat": 45.780744,
             "lon": 11.889103,
