@@ -110,6 +110,7 @@ const breadcrumb = computed(() => [
     label: "podcast",
   },
 ]);
+
 </script>
 
 <template>
