@@ -236,6 +236,30 @@
         },
         {
             "type": "node",
+            "id": 5329671480,
+            "lat": 45.6409686,
+            "lon": 12.3422169,
+            "timestamp": "2024-11-11T16:54:06Z",
+            "version": 7,
+            "changeset": 159017250,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roncade",
+                "addr:housenumber": "2",
+                "addr:postcode": "31056",
+                "addr:street": "Via Treviso Mare",
+                "check_date": "2018-01-09",
+                "craft": "winery",
+                "currency:XBT": "yes",
+                "email": "info@47annodomini.it",
+                "name": "47 Anno Domini",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "website": "https://www.47annodomini.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 5770912521,
             "lat": 45.989237,
             "lon": 12.29552,
@@ -531,6 +555,32 @@
                 "phone": "+39 0422 868082",
                 "website": "https://www.netwir.com",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11866142243,
+            "lat": 45.8231284,
+            "lon": 12.2537163,
+            "timestamp": "2024-11-11T12:15:44Z",
+            "version": 2,
+            "changeset": 159006130,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Ponte della Priula",
+                "addr:housenumber": "79",
+                "addr:postcode": "31010",
+                "addr:street": "Via Quattro Novembre",
+                "addr:unit": "b",
+                "check_date": "2024-11-11",
+                "currency:XBT": "yes",
+                "name": "Il chicco di grano",
+                "opening_hours": "Mo-Sa 06:30-12:30,15:30-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "shop": "bakery"
             }
         },
         {

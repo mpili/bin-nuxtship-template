@@ -106,6 +106,31 @@
         },
         {
             "type": "node",
+            "id": 860165497,
+            "lat": 45.0703994,
+            "lon": 11.7895194,
+            "timestamp": "2024-11-13T16:24:52Z",
+            "version": 2,
+            "changeset": 159098386,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rovigo",
+                "addr:housenumber": "4",
+                "addr:postcode": "45100",
+                "addr:street": "Via Giuseppe Laurenti",
+                "check_date": "2024-11-13",
+                "currency:XBT": "yes",
+                "name": "Tabaccheria Roverella",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 04 252 7547",
+                "shop": "tobacco"
+            }
+        },
+        {
+            "type": "node",
             "id": 860165498,
             "lat": 45.0707825,
             "lon": 11.7905142,

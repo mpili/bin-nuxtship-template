@@ -31,6 +31,33 @@
         },
         {
             "type": "node",
+            "id": 420776812,
+            "lat": 44.4952195,
+            "lon": 11.3246599,
+            "timestamp": "2024-11-10T21:30:16Z",
+            "version": 11,
+            "changeset": 158986345,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "47",
+                "addr:postcode": "40134",
+                "addr:street": "Via Andrea Costa",
+                "amenity": "pharmacy",
+                "check_date": "2019-03-08",
+                "currency:XBT": "yes",
+                "dispensing": "yes",
+                "email": "farmacialodi@yahoo.it",
+                "healthcare": "pharmacy",
+                "name": "Lodi",
+                "name:it": "Lodi",
+                "payment:bitcoin:operator": "https://www.farmaciainrete.it/",
+                "phone": "+39 0516143978"
+            }
+        },
+        {
+            "type": "node",
             "id": 843506208,
             "lat": 45.0692125,
             "lon": 11.7898454,
@@ -102,6 +129,31 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "phone": "+39 34 8073 3806"
+            }
+        },
+        {
+            "type": "node",
+            "id": 860165497,
+            "lat": 45.0703994,
+            "lon": 11.7895194,
+            "timestamp": "2024-11-13T16:24:52Z",
+            "version": 2,
+            "changeset": 159098386,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rovigo",
+                "addr:housenumber": "4",
+                "addr:postcode": "45100",
+                "addr:street": "Via Giuseppe Laurenti",
+                "check_date": "2024-11-13",
+                "currency:XBT": "yes",
+                "name": "Tabaccheria Roverella",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 04 252 7547",
+                "shop": "tobacco"
             }
         },
         {

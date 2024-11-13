@@ -640,47 +640,22 @@
             "id": 2487884675,
             "lat": 45.8892382,
             "lon": 11.0420632,
-            "timestamp": "2024-04-23T12:53:24Z",
-            "version": 4,
-            "changeset": 150394331,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2024-11-10T16:12:42Z",
+            "version": 5,
+            "changeset": 158973923,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
                 "addr:city": "Rovereto",
                 "addr:postcode": "38068",
                 "addr:street": "Via Girolamo Tartarotti",
                 "check_date:currency:XBT": "2024-04-23",
                 "currency:XBT": "yes",
+                "email": "store@100-onestore.com",
                 "name": "100-ONE Freeride Shop",
                 "payment:lightning": "yes",
                 "phone": "+390464436936",
                 "shop": "sports"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2534783919,
-            "lat": 46.2908465,
-            "lon": 11.461814,
-            "timestamp": "2024-09-05T20:45:49Z",
-            "version": 8,
-            "changeset": 156248283,
-            "user": "descubrebitcoin",
-            "uid": 17565129,
-            "tags": {
-                "addr:city": "Cavalese",
-                "addr:housenumber": "24",
-                "addr:postcode": "38033",
-                "addr:street": "Via Fratelli Bronzetti",
-                "currency:XBT": "yes",
-                "male": "yes",
-                "name": "Barbieria Boschetto",
-                "opening_hours": "Tu-Sa 08:30-12:00,15:00-19:00",
-                "payment:lightning": "yes",
-                "phone": "+39 330 521 556",
-                "shop": "hairdresser",
-                "website": "https://sites.google.com/site/saloneboschetto/home",
-                "wheelchair": "yes"
             }
         },
         {
@@ -990,6 +965,32 @@
                 "name": "Amadori snc",
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "phone": "+39 0464 462334"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5055574394,
+            "lat": 45.8915854,
+            "lon": 11.0374276,
+            "timestamp": "2024-11-10T19:36:39Z",
+            "version": 7,
+            "changeset": 158982839,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:housenumber": "4",
+                "addr:postcode": "38068",
+                "addr:street": "Via Savioli",
+                "check_date": "2024-08-16",
+                "currency:XBT": "yes",
+                "email": "info@mondocasa.biz",
+                "name": "Mondo Casa",
+                "office": "estate_agent",
+                "opening_hours": "Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:00",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "phone": "+390464486626",
+                "website": "https://mondocasa.biz/"
             }
         },
         {
