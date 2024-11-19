@@ -7,7 +7,7 @@
     "idlocalita": "pordenone",
     "telegram_weburl": "https://web.telegram.org/a/#-1001742172532",
     "telegram_app": "https://t.me/bitcoinpordenone",
-    "telegram_members": 22.0,
+    "telegram_members": 24.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -756,6 +756,84 @@
                 "sport": "fitness;benessere;allenamento_funzionale;allenamento_della_forza;allenamento_rieducativo;post_operazione;kettlebell_training;calishtenics;allenamento_posturale;stretching",
                 "survey:date": "2024-10-24",
                 "website": "https://www.steel-lab.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12346825675,
+            "lat": 45.6346495,
+            "lon": 13.0633176,
+            "timestamp": "2024-11-16T21:34:12Z",
+            "version": 1,
+            "changeset": 159223500,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bibione",
+                "addr:housenumber": "11",
+                "addr:postcode": "30020",
+                "addr:street": "Via Mercurio",
+                "check_date": "2024-11-16",
+                "currency:XBT": "yes",
+                "email": "info@bibionegreen.com",
+                "name": "Green Life Residence",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 34 7382 8062",
+                "tourism": "apartment",
+                "website": "https://www.bibionegreen.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12346845409,
+            "lat": 45.6353597,
+            "lon": 13.0574483,
+            "timestamp": "2024-11-16T21:40:08Z",
+            "version": 1,
+            "changeset": 159223616,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bibione",
+                "addr:postcode": "30020",
+                "addr:street": "Corso Europa",
+                "check_date": "2024-11-16",
+                "currency:XBT": "yes",
+                "email": "info@bibionegreen.com",
+                "name": "Residence De La Mariute",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 34 7382 8062",
+                "tourism": "apartment",
+                "website": "https://www.bibionegreen.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12346847656,
+            "lat": 45.6358048,
+            "lon": 13.0312517,
+            "timestamp": "2024-11-16T21:43:08Z",
+            "version": 1,
+            "changeset": 159223673,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bibione",
+                "addr:street": "Viale Dalmazia",
+                "check_date": "2024-11-16",
+                "currency:XBT": "yes",
+                "email": "info@bibionegreen.com",
+                "name": "Villa Grazia",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 34 7382 8062",
+                "tourism": "apartment",
+                "website": "https://www.bibionegreen.com/"
             }
         }
     ],

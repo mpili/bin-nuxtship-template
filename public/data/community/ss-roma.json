@@ -7,7 +7,7 @@
     "idlocalita": "roma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001695209037",
     "telegram_app": "https://t.me/SatoshiSpritzRoma",
-    "telegram_members": 350.0,
+    "telegram_members": 351.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -942,6 +942,29 @@
                 "phone": "0687768218",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10901333787,
+            "lat": 41.9595919,
+            "lon": 12.8012865,
+            "timestamp": "2024-11-18T16:52:36Z",
+            "version": 3,
+            "changeset": 159291435,
+            "user": "MagoLombiy",
+            "uid": 2900895,
+            "tags": {
+                "addr:city": "Tivoli",
+                "addr:country": "IT",
+                "addr:housenumber": "89",
+                "addr:postcode": "00019",
+                "addr:street": "Viale Tomei",
+                "currency:XBT": "yes",
+                "leisure": "fitness_centre",
+                "name": "Acqua Fitness Marima",
+                "payment:cryptocurrencies": "yes",
+                "phone": "+39 351 9377723"
             }
         },
         {
