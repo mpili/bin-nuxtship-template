@@ -321,6 +321,7 @@ const {
           />
         </a>
         <a
+          v-if="data.tags['currency:XBT']==='yes'"
           :href="'https://btcmap.org/merchant/node:' + data.id"
           target="_blank"
           class="text- text-sm"

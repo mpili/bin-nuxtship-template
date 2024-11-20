@@ -352,6 +352,26 @@
                 "payment:onchain": "yes",
                 "phone": "+35 62 152 3593"
             }
+        },
+        {
+            "type": "node",
+            "id": 12358033292,
+            "lat": 35.9221594,
+            "lon": 14.487612,
+            "timestamp": "2024-11-20T12:35:16Z",
+            "version": 2,
+            "changeset": 159363962,
+            "user": "Bitsuite",
+            "uid": 22200689,
+            "tags": {
+                "currency:XBT": "yes",
+                "name": "Bitsuite",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-11-20",
+                "website": "https://bitsuite.co/"
+            }
         }
     ],
     "telegram": [

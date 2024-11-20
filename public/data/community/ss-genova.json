@@ -1,8 +1,14 @@
 {
-    "id": "genova",
-    "name": "Genova",
+    "id": "ss-genova",
+    "name": "Satoshi Spritz Genova",
     "lng": 44.4046185,
     "lat": 8.9484919,
+    "localita": "Genova",
+    "idlocalita": "genova",
+    "telegram_weburl": "https://web.telegram.org/k/#@satoshispritzgenova",
+    "telegram_app": "https://t.me/satoshispritzgenova",
+    "telegram_members": 22.0,
+    "network": "satoshispritz",
     "poi": [
         {
             "type": "node",
@@ -706,12 +712,5 @@
             }
         }
     ],
-    "telegram": [
-        {
-            "telegram": "bitcoin-genova"
-        },
-        {
-            "telegram": "ss-genova"
-        }
-    ]
+    "telegram": []
 }
