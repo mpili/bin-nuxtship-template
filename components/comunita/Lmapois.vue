@@ -74,6 +74,9 @@
 	<LMarker :lat-lng="[44.4046185, 8.9484919]">
 		<LPopup><NuxtLink to="/c/bitcoin-genova">Bitcoin Genova</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[44.4046185, 8.9484919]">
+		<LPopup><NuxtLink to="/c/ss-genova">Satoshi Spritz Genova</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[41.673, 12.704]">
 		<LPopup><NuxtLink to="/c/bb-genzano-roma">Bitcoin Beer Genzano Roma</NuxtLink></LPopup>
 	</LMarker>

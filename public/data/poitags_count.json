@@ -4,7 +4,7 @@
             "Unnamed: 0": 0,
             "amenity": "restaurant",
             "count": 81,
-            "max_timestamp": "2024-11-16T10:05:47Z"
+            "max_timestamp": "2024-11-20T18:31:26Z"
         },
         {
             "Unnamed: 0": 1,
@@ -198,7 +198,7 @@
             "Unnamed: 0": 0,
             "shop": "clothes",
             "count": 72,
-            "max_timestamp": "2024-11-19T19:25:54Z"
+            "max_timestamp": "2024-11-19T22:17:13Z"
         },
         {
             "Unnamed: 0": 1,
@@ -673,14 +673,14 @@
         {
             "Unnamed: 0": 0,
             "cuisine": "italian",
-            "count": 32,
-            "max_timestamp": "2024-11-13T15:29:36Z"
+            "count": 33,
+            "max_timestamp": "2024-11-20T11:42:34Z"
         },
         {
             "Unnamed: 0": 1,
             "cuisine": "pizza",
-            "count": 26,
-            "max_timestamp": "2024-11-08T11:15:48Z"
+            "count": 27,
+            "max_timestamp": "2024-11-20T18:31:26Z"
         },
         {
             "Unnamed: 0": 2,
@@ -696,9 +696,9 @@
         },
         {
             "Unnamed: 0": 4,
-            "cuisine": "coffee_shop",
+            "cuisine": "sandwich",
             "count": 6,
-            "max_timestamp": "2024-11-07T13:47:09Z"
+            "max_timestamp": "2024-11-04T09:46:40Z"
         },
         {
             "Unnamed: 0": 5,
@@ -708,9 +708,9 @@
         },
         {
             "Unnamed: 0": 6,
-            "cuisine": "sandwich",
+            "cuisine": "coffee_shop",
             "count": 6,
-            "max_timestamp": "2024-11-04T09:46:40Z"
+            "max_timestamp": "2024-11-07T13:47:09Z"
         },
         {
             "Unnamed: 0": 7,
@@ -726,15 +726,15 @@
         },
         {
             "Unnamed: 0": 9,
-            "cuisine": "pasta",
+            "cuisine": "ice_cream",
             "count": 2,
-            "max_timestamp": "2024-08-22T11:54:12Z"
+            "max_timestamp": "2024-11-20T18:31:26Z"
         },
         {
             "Unnamed: 0": 10,
-            "cuisine": "ice_cream",
+            "cuisine": "pasta",
             "count": 2,
-            "max_timestamp": "2024-03-06T07:06:24Z"
+            "max_timestamp": "2024-08-22T11:54:12Z"
         },
         {
             "Unnamed: 0": 11,
@@ -744,27 +744,27 @@
         },
         {
             "Unnamed: 0": 12,
-            "cuisine": "italian_pizza",
-            "count": 2,
-            "max_timestamp": "2024-10-10T21:08:07Z"
-        },
-        {
-            "Unnamed: 0": 13,
             "cuisine": "fish",
             "count": 2,
             "max_timestamp": "2024-04-24T19:19:59Z"
         },
         {
+            "Unnamed: 0": 13,
+            "cuisine": "seafood",
+            "count": 2,
+            "max_timestamp": "2024-11-20T11:42:34Z"
+        },
+        {
             "Unnamed: 0": 14,
-            "cuisine": "streetfood",
-            "count": 1,
-            "max_timestamp": "2024-08-31T17:12:13Z"
+            "cuisine": "italian_pizza",
+            "count": 2,
+            "max_timestamp": "2024-10-10T21:08:07Z"
         },
         {
             "Unnamed: 0": 15,
-            "cuisine": "pinsa",
+            "cuisine": "japanese",
             "count": 1,
-            "max_timestamp": "2024-10-30T19:11:53Z"
+            "max_timestamp": "2024-10-12T18:11:29Z"
         },
         {
             "Unnamed: 0": 16,
@@ -774,27 +774,27 @@
         },
         {
             "Unnamed: 0": 17,
-            "cuisine": "japanese",
+            "cuisine": "pinsa",
             "count": 1,
-            "max_timestamp": "2024-10-12T18:11:29Z"
+            "max_timestamp": "2024-10-30T19:11:53Z"
         },
         {
             "Unnamed: 0": 18,
+            "cuisine": "arab",
+            "count": 1,
+            "max_timestamp": "2024-07-05T19:55:49Z"
+        },
+        {
+            "Unnamed: 0": 19,
             "cuisine": "farinata",
             "count": 1,
             "max_timestamp": "2024-01-28T22:21:12Z"
         },
         {
-            "Unnamed: 0": 19,
-            "cuisine": "frozen_yogurt",
-            "count": 1,
-            "max_timestamp": "2023-08-20T12:31:03Z"
-        },
-        {
             "Unnamed: 0": 20,
-            "cuisine": "seafood",
+            "cuisine": "streetfood",
             "count": 1,
-            "max_timestamp": "2024-04-24T19:19:59Z"
+            "max_timestamp": "2024-08-31T17:12:13Z"
         },
         {
             "Unnamed: 0": 21,
@@ -804,9 +804,9 @@
         },
         {
             "Unnamed: 0": 22,
-            "cuisine": "romagnola",
+            "cuisine": "frozen_yogurt",
             "count": 1,
-            "max_timestamp": "2023-07-10T18:35:45Z"
+            "max_timestamp": "2023-08-20T12:31:03Z"
         },
         {
             "Unnamed: 0": 23,
@@ -816,9 +816,9 @@
         },
         {
             "Unnamed: 0": 24,
-            "cuisine": "arab",
+            "cuisine": "steak_house",
             "count": 1,
-            "max_timestamp": "2024-07-05T19:55:49Z"
+            "max_timestamp": "2023-08-04T07:33:23Z"
         },
         {
             "Unnamed: 0": 25,
@@ -836,40 +836,52 @@
             "Unnamed: 0": 27,
             "cuisine": "bar&grill",
             "count": 1,
-            "max_timestamp": "2023-07-27T11:46:59Z"
+            "max_timestamp": "2024-11-20T18:31:26Z"
         },
         {
             "Unnamed: 0": 28,
-            "cuisine": "steak_house",
+            "cuisine": "romagnola",
             "count": 1,
-            "max_timestamp": "2023-08-04T07:33:23Z"
+            "max_timestamp": "2023-07-10T18:35:45Z"
         },
         {
             "Unnamed: 0": 29,
+            "cuisine": "european",
+            "count": 1,
+            "max_timestamp": "2024-11-20T11:42:34Z"
+        },
+        {
+            "Unnamed: 0": 30,
+            "cuisine": "mediterranean",
+            "count": 1,
+            "max_timestamp": "2024-11-20T11:42:34Z"
+        },
+        {
+            "Unnamed: 0": 31,
             "cuisine": "bistro",
             "count": 1,
             "max_timestamp": "2023-12-17T14:53:36Z"
         },
         {
-            "Unnamed: 0": 30,
+            "Unnamed: 0": 32,
             "cuisine": "south_tyrolean",
             "count": 1,
             "max_timestamp": "2024-10-17T21:28:38Z"
         },
         {
-            "Unnamed: 0": 31,
+            "Unnamed: 0": 33,
             "cuisine": "fastfood",
             "count": 1,
             "max_timestamp": "2023-08-26T10:18:50Z"
         },
         {
-            "Unnamed: 0": 32,
+            "Unnamed: 0": 34,
             "cuisine": "noodle",
             "count": 1,
             "max_timestamp": "2024-09-01T20:09:37Z"
         },
         {
-            "Unnamed: 0": 33,
+            "Unnamed: 0": 35,
             "cuisine": "fusion",
             "count": 1,
             "max_timestamp": "2024-09-14T16:52:54Z"
@@ -1032,7 +1044,7 @@
             "Unnamed: 0": 2,
             "tourism": "apartment",
             "count": 21,
-            "max_timestamp": "2024-11-16T21:43:08Z"
+            "max_timestamp": "2024-11-20T14:38:06Z"
         },
         {
             "Unnamed: 0": 3,
