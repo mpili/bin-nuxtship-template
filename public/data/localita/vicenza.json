@@ -754,6 +754,33 @@
                 "shop": "jewelry",
                 "website": "https://www.lineagem.it/"
             }
+        },
+        {
+            "type": "node",
+            "id": 12351513547,
+            "lat": 45.6890029,
+            "lon": 11.3735438,
+            "timestamp": "2024-11-19T00:11:38Z",
+            "version": 5,
+            "changeset": 159305051,
+            "user": "Legalbitcoin",
+            "uid": 21205303,
+            "tags": {
+                "addr:city": "San Vito Di Leguzzano",
+                "addr:postcode": "36030",
+                "addr:street": "Via Schio, 58",
+                "amenity": "driving_school",
+                "contact:email": "autoscuolasanvito@gmail.com",
+                "contact:whatsapp": "+393477628784",
+                "currency:XBT": "yes",
+                "description": "Puoi chiamarci per urgenze anche la domenica.",
+                "name": "AUTOSCUOLA SAN VITO di De Pretto Denis",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+390445510783",
+                "survey:date": "2024-11-11"
+            }
         }
     ],
     "telegram": [

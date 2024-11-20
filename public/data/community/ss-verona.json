@@ -7,7 +7,7 @@
     "idlocalita": "verona",
     "telegram_weburl": "https://web.telegram.org/a/#-1001646846497",
     "telegram_app": "https://t.me/SatoshiSpritzVerona",
-    "telegram_members": 132.0,
+    "telegram_members": 133.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -479,6 +479,33 @@
                 "phone": "+39 389 622 1837",
                 "sport": "dance;fitness;pole_dance",
                 "website": "https://www.liferovereto.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8208980511,
+            "lat": 45.120793,
+            "lon": 10.909389,
+            "timestamp": "2024-11-19T15:46:13Z",
+            "version": 7,
+            "changeset": 159330241,
+            "user": "CR1PT0",
+            "uid": 22197014,
+            "tags": {
+                "addr:city": "Roncoferraro",
+                "addr:housenumber": "26",
+                "addr:postcode": "46037",
+                "addr:street": "Via Candido Fanti",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "description": "Hacking, cyber security, sicurezza informatica, crittografia, hardware, software, Bitcoin, criptovalute, antivirus, firewall, open source, computer, Linux, Debian, VPN, analisi forensi, audit, vulnerable assestment, smartphone, Android, Graphene.",
+                "name": "CR1PT0",
+                "office": "it",
+                "opening_hours": "24/7",
+                "payment:cryptocurrencies": "yes",
+                "ref:vatin": "02610840205",
+                "start_date": "2015-01-01",
+                "website": "https://cr1pt0.com"
             }
         },
         {
@@ -962,6 +989,33 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-verona-via-venti-settembre"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12351513547,
+            "lat": 45.6890029,
+            "lon": 11.3735438,
+            "timestamp": "2024-11-19T00:11:38Z",
+            "version": 5,
+            "changeset": 159305051,
+            "user": "Legalbitcoin",
+            "uid": 21205303,
+            "tags": {
+                "addr:city": "San Vito Di Leguzzano",
+                "addr:postcode": "36030",
+                "addr:street": "Via Schio, 58",
+                "amenity": "driving_school",
+                "contact:email": "autoscuolasanvito@gmail.com",
+                "contact:whatsapp": "+393477628784",
+                "currency:XBT": "yes",
+                "description": "Puoi chiamarci per urgenze anche la domenica.",
+                "name": "AUTOSCUOLA SAN VITO di De Pretto Denis",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+390445510783",
+                "survey:date": "2024-11-11"
             }
         }
     ],
