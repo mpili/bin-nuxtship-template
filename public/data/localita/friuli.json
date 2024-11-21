@@ -195,6 +195,31 @@
         },
         {
             "type": "node",
+            "id": 3800033461,
+            "lat": 45.9493005,
+            "lon": 13.6280424,
+            "timestamp": "2024-11-21T14:43:09Z",
+            "version": 4,
+            "changeset": 159413044,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "6",
+                "addr:postcode": "34170",
+                "addr:street": "Piazza De Amicis",
+                "contact:facebook": "https://www.facebook.com/people/Macelleria-Klavcic/61551526924810/",
+                "currency:XBT": "yes",
+                "name": "Klavcic Giovanni",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0481 393011",
+                "shop": "butcher",
+                "survey:date": "2024-11-15"
+            }
+        },
+        {
+            "type": "node",
             "id": 4844248321,
             "lat": 45.6503203,
             "lon": 13.7697097,

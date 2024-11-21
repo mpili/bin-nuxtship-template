@@ -315,6 +315,33 @@
         },
         {
             "type": "node",
+            "id": 5939548202,
+            "lat": 45.0701794,
+            "lon": 11.7893933,
+            "timestamp": "2024-11-21T15:36:32Z",
+            "version": 2,
+            "changeset": 159415335,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rovigo",
+                "addr:housenumber": "158",
+                "addr:postcode": "45100",
+                "addr:street": "Corso del Popolo",
+                "addr:unit": "A",
+                "amenity": "cafe",
+                "check_date": "2024-11-21",
+                "contact:facebook": "https://www.facebook.com/p/Caff%C3%A8-Bar-Nazionale-Rovigo-100063883188917/",
+                "currency:XBT": "yes",
+                "name": "Caff\u00e8 Nazionale",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 340 598 5104"
+            }
+        },
+        {
+            "type": "node",
             "id": 6131287245,
             "lat": 45.354129,
             "lon": 11.772486,
