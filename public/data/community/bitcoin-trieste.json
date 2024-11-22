@@ -7,7 +7,7 @@
     "idlocalita": "trieste",
     "telegram_weburl": "https://web.telegram.org/a/#-1001054825457",
     "telegram_app": "https://t.me/bitcointrieste",
-    "telegram_members": 104.0,
+    "telegram_members": 103.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -197,6 +197,31 @@
                 "survey:date": "2023-11-01",
                 "tourism": "guest_house",
                 "website": "https://baichin.bedsandhotels.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3800033461,
+            "lat": 45.9493005,
+            "lon": 13.6280424,
+            "timestamp": "2024-11-21T14:43:09Z",
+            "version": 4,
+            "changeset": 159413044,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "6",
+                "addr:postcode": "34170",
+                "addr:street": "Piazza De Amicis",
+                "contact:facebook": "https://www.facebook.com/people/Macelleria-Klavcic/61551526924810/",
+                "currency:XBT": "yes",
+                "name": "Klavcic Giovanni",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0481 393011",
+                "shop": "butcher",
+                "survey:date": "2024-11-15"
             }
         },
         {
