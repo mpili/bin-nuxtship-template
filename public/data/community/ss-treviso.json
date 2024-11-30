@@ -563,17 +563,18 @@
             "id": 10222087379,
             "lat": 45.4770977,
             "lon": 12.2016531,
-            "timestamp": "2023-12-13T13:45:22Z",
-            "version": 3,
-            "changeset": 145076091,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2024-11-23T17:30:03Z",
+            "version": 4,
+            "changeset": 159508823,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "14",
                 "addr:postcode": "30175",
                 "addr:street": "Via Bottenigo",
-                "check_date:currency:XBT": "2023-12-13",
+                "check_date": "2024-11-23",
+                "check_date:currency:XBT": "2024-11-23",
                 "currency:XBT": "yes",
                 "email": "artigianafoto@mail.com",
                 "name": "Artigiana Foto",
@@ -581,8 +582,9 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
-                "phone": "+39041923438",
-                "shop": "photo"
+                "phone": "+39 041 923438",
+                "shop": "photo",
+                "website": "https://www.a-foto.net/"
             }
         },
         {
