@@ -7,7 +7,7 @@
     "idlocalita": "novara",
     "telegram_weburl": "https://web.telegram.org/a/#-1002451580005",
     "telegram_app": "https://t.me/satoshispritznovara",
-    "telegram_members": 13.0,
+    "telegram_members": 2.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3014,6 +3014,31 @@
                 "phone": "+39 0381 77775",
                 "shop": "tobacco",
                 "website": "https://g.co/kgs/hG6yC6x"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12368556641,
+            "lat": 45.4742079,
+            "lon": 9.1180466,
+            "timestamp": "2024-11-23T21:24:23Z",
+            "version": 2,
+            "changeset": 159514722,
+            "user": "Stemby",
+            "uid": 28559,
+            "tags": {
+                "addr:housenumber": "7",
+                "addr:street": "Via Val Pantena",
+                "contact:phone": "+39 380 7063191",
+                "contact:website": "https://liutaiomuzio.com",
+                "craft": "luthier",
+                "currency:XBT": "yes",
+                "level": "0",
+                "name": "Liuteria Muzio",
+                "operator": "Diego Muzio",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-11-23"
             }
         }
     ],

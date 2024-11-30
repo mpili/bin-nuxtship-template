@@ -601,6 +601,37 @@
         },
         {
             "type": "node",
+            "id": 4243022470,
+            "lat": 45.6886754,
+            "lon": 9.6648271,
+            "timestamp": "2024-11-25T00:19:23Z",
+            "version": 16,
+            "changeset": 159553637,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
+            "tags": {
+                "addr:city": "Bergamo",
+                "addr:housenumber": "67c",
+                "addr:postcode": "24122",
+                "addr:street": "Via Don Luigi Palazzolo",
+                "biergarten": "yes",
+                "check_date": "2023-11-16",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "email": "superbar.bergamo@gmail.com",
+                "loc_ref": "52407",
+                "name": "Superbar Enoteca Wine Food Drink",
+                "opening_hours": "24/7",
+                "payment:lightning": "yes",
+                "phone": "+39 035213041",
+                "shop": "wine",
+                "source": "survey",
+                "survey:date": "2023-04-12",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4580735592,
             "lat": 45.3975095,
             "lon": 9.2611814,
@@ -3598,6 +3629,31 @@
                 "payment:onchain": "yes",
                 "url": "https://coinatmradar.com/bitcoin_atm/5158/bitcoin-atm-general-bytes-chiasso-stazione-di-servizio-uffico-cambio/",
                 "website": "https://www.vaerdex.ch/location-finder?location=stazione-di-servizio-uffico-cambio-chiasso-ch"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12368556641,
+            "lat": 45.4742079,
+            "lon": 9.1180466,
+            "timestamp": "2024-11-23T21:24:23Z",
+            "version": 2,
+            "changeset": 159514722,
+            "user": "Stemby",
+            "uid": 28559,
+            "tags": {
+                "addr:housenumber": "7",
+                "addr:street": "Via Val Pantena",
+                "contact:phone": "+39 380 7063191",
+                "contact:website": "https://liutaiomuzio.com",
+                "craft": "luthier",
+                "currency:XBT": "yes",
+                "level": "0",
+                "name": "Liuteria Muzio",
+                "operator": "Diego Muzio",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2024-11-23"
             }
         }
     ],
