@@ -75,6 +75,33 @@
                 "name": "Rieduka",
                 "phone": "+390122881204"
             }
+        },
+        {
+            "type": "node",
+            "id": 12328485109,
+            "lat": 45.0781086,
+            "lon": 6.7085439,
+            "timestamp": "2024-12-05T20:11:23Z",
+            "version": 2,
+            "changeset": 159971389,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bardonecchia",
+                "addr:housenumber": "89",
+                "addr:postcode": "10052",
+                "addr:street": "Via Giuseppe Francesco Medail",
+                "addr:unit": "1/a",
+                "amenity": "bar",
+                "check_date": "2024-12-05",
+                "currency:XBT": "yes",
+                "name": "Sciccheria con 2 Sci | Vineria Aperitivi",
+                "opening_hours": "Th-Tu 18:00-00:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 01 229 6329"
+            }
         }
     ],
     "telegram": [

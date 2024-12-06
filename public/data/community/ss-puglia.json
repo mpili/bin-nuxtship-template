@@ -263,6 +263,81 @@
                 "name": "Talea Portici",
                 "shop": "jewelry"
             }
+        },
+        {
+            "type": "node",
+            "id": 12393849251,
+            "lat": 41.1081883,
+            "lon": 16.8762336,
+            "timestamp": "2024-12-05T18:12:34Z",
+            "version": 11,
+            "changeset": 159967184,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "14sub 6",
+                "addr:postcode": "70125",
+                "addr:street": "Via Angelo Bertolini",
+                "check_date:currency:XBT": "2024-12-05",
+                "currency:XBT": "yes",
+                "name": "Studio Olisticum",
+                "opening_hours": "solo su appuntamento olisticum.com",
+                "operator": "Homabio",
+                "payment:contanti": "yes",
+                "payment:cryptocurrencies": "yes",
+                "phone": "+39 389 623 9098",
+                "shop": "massage",
+                "website": "olisticum.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12393849252,
+            "lat": 41.1081906,
+            "lon": 16.8762117,
+            "timestamp": "2024-12-05T13:54:11Z",
+            "version": 7,
+            "changeset": 159958393,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "14sub 5",
+                "addr:postcode": "70125",
+                "addr:street": "Via Angelo Bertolini",
+                "currency:XBT": "yes",
+                "name": "Galleria 1957",
+                "opening_hours": "galleria1957.it",
+                "payment:bitcoin": "yes",
+                "payment:cryptocurrencies": "yes",
+                "tourism": "gallery",
+                "website": "galleria1957.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12393905390,
+            "lat": 41.0064476,
+            "lon": 17.1587436,
+            "timestamp": "2024-12-05T08:09:38Z",
+            "version": 3,
+            "changeset": 159946802,
+            "user": "fabiogl",
+            "uid": 22250098,
+            "tags": {
+                "addr:city": "Polignano a Mare",
+                "addr:housenumber": "342",
+                "addr:street": "Viale Ponte Interrotto",
+                "currency:XBT": "yes",
+                "currency:XBT=yes": "yes",
+                "name": "Studio Olisticum outdoor",
+                "opening_hours": "solo su appuntamento",
+                "operator": "Homabio",
+                "payment:cryptocurrencies": "yes",
+                "phone": "+39 389 623 9098",
+                "shop": "massage"
+            }
         }
     ],
     "telegram": []
