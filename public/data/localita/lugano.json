@@ -7159,6 +7159,35 @@
                 "url": "https://coinatmradar.com/bitcoin_atm/12049/bitcoin-atm-general-bytes-monte-carasso-marche-restaurant-bellinzona-sud/",
                 "website": "https://www.vaerdex.ch/location-finder?location=marche-restaurant-raststaette-bellinzona-sued-monte-carasso-ch"
             }
+        },
+        {
+            "type": "node",
+            "id": 12390637854,
+            "lat": 45.9768799,
+            "lon": 8.874417,
+            "timestamp": "2024-12-02T16:28:28Z",
+            "version": 1,
+            "changeset": 159850417,
+            "user": "inbitcoin",
+            "uid": 4533749,
+            "tags": {
+                "addr:city": "Caslano",
+                "addr:housenumber": "10",
+                "addr:postcode": "6987",
+                "addr:street": "Via Colombera",
+                "amenity": "bureau_de_change",
+                "currency:CHF": "yes",
+                "currency:EUR": "yes",
+                "currency:GBP": "yes",
+                "currency:USD": "yes",
+                "currency:XBT": "yes",
+                "name": "Quick Digital",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes"
+            }
         }
     ],
     "telegram": [

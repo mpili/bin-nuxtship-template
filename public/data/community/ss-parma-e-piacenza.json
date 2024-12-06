@@ -246,6 +246,31 @@
         },
         {
             "type": "node",
+            "id": 9454741561,
+            "lat": 45.3577268,
+            "lon": 9.323079,
+            "timestamp": "2024-11-30T14:05:53Z",
+            "version": 2,
+            "changeset": 159775141,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Melegnano",
+                "addr:housenumber": "15",
+                "addr:postcode": "20077",
+                "addr:street": "Via Monte Suello",
+                "check_date": "2024-11-30",
+                "currency:XBT": "yes",
+                "email": "info@osteopatamelegnano.it",
+                "healthcare": "physiotherapist",
+                "healthcare:speciality": "osteopathy",
+                "name": "Alessandro Marazzina Osteopata Fisioterapista",
+                "phone": "+39 333 586 0526",
+                "website": "https://osteopatamelegnano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 10165712913,
             "lat": 45.3555613,
             "lon": 9.6627822,

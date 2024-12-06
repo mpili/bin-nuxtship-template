@@ -53,6 +53,10 @@ const risorseDocumentazione = [
     nome: "Corsi PlanB Network",
     url: "https://planb.network/it/courses",
   },
+  {
+    nome: "simple privacy tips di Giovanni Birindelli",
+    url: "https://www.simpleprivacytips.com/",
+  },
 ];
 </script>
 
