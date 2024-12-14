@@ -1,7 +1,7 @@
 import Button from "./Button.vue";
 
 export default {
-  title: "Components/Button",
+  title: "Ui/Button",
   component: Button,
   argTypes: {
     size: {

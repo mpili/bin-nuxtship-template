@@ -21,7 +21,11 @@ export default {
     <div class="flex flex-nowrap lg:ml-40 md:ml-20 ml-10">
       <div v-for="evento of eventi" class="inline-block px-3">
         <NuxtLink :to="`/evento/${evento.id}`">
-          <div class="w-64 max-w-xs overflow-hidden text-blue-700">
+
+
+          <EventiHomecard :evento="evento" />
+
+          <!-- <div class="w-64 max-w-xs overflow-hidden text-blue-700">
             <div class="border rounded-xl bg-clip-border shadow-md grid">
               <div class="pt-2 text-center font-semibold">
                 {{ formattaData(evento.data) }}
@@ -51,11 +55,8 @@ export default {
                   :src="`/img/c/${evento.id_comunita}.jpeg`"
                 />
               </div>
-              <!-- <div  class="h-8 overflow-hidden text-center">
-                <span v-if="evento.id_comunita" class="py-2 font-semibold">{{ evento.id_comunita }}</span>
-              </div> -->
             </div>
-          </div>
+          </div> -->
         </NuxtLink>
       </div>
     </div>
