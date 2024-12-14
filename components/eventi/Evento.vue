@@ -41,6 +41,10 @@ useHead({
     />
   </div>
 
+  <div>
+    Quando: <span class="font-bold">{{ useGiornoSettimana(evento?.data) }} {{ useformattaData(evento?.data) }}</span>
+  </div>
+
   <div class="py-4" v-if="evento?.descrizionex">
     <div v-html="evento?.descrizionex"></div>
   </div>

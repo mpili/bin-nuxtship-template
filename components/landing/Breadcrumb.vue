@@ -10,7 +10,17 @@ export default {
 </script>
 
 <template>
-    <nav
+  <div class="breadcrumbs text-sm">
+    <ul>
+      <li><NuxtLink to="/">Home</NuxtLink></li>
+      <li v-for="voce of voci">
+        <NuxtLink v-if="voce.path" :href="voce.path">{{voce.label}}</NuxtLink>
+        <span v-else-if="voce.label">{{voce.label}}</span>
+      </li>
+    </ul>
+  </div>
+
+    <!-- <nav
       class="text-sm sm:text-base bg-white p-2 rounded-md shadow-lg my-4"
     >
       <ol class="list-none p-0 flex flex-wrap space-x-2">
@@ -30,5 +40,7 @@ export default {
           <span v-if="voce.path" class="text-gray-400 ml-1">/</span>
         </li>
       </ol>
-    </nav>
+    </nav> -->
+
+
 </template>
