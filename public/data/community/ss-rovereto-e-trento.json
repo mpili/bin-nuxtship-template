@@ -1760,6 +1760,40 @@
                 "phone": "+390445510783",
                 "survey:date": "2024-11-11"
             }
+        },
+        {
+            "type": "node",
+            "id": 12400751878,
+            "lat": 45.5157714,
+            "lon": 11.4612619,
+            "timestamp": "2024-12-13T16:06:02Z",
+            "version": 3,
+            "changeset": 160252363,
+            "user": "emmezetax",
+            "uid": 22263114,
+            "tags": {
+                "addr:city": "Altavilla Vicentina (VI)",
+                "addr:housenumber": "28",
+                "addr:postcode": "36077",
+                "addr:street": "Via Lago D'iseo, 28",
+                "brand": "Yamaha",
+                "brand:wikidata": "Q158888",
+                "contact:email": "info@zanuso.com",
+                "contact:facebook": "https://www.facebook.com/Zanusosrl",
+                "contact:whatsapp": "+39 342 0771826",
+                "currency:XBT": "yes",
+                "description": "Vendita Moto Yamaha, Scooter e Bici elettriche. Noleggio a lungo e breve termine. Usato , tagliandi e assistenza.",
+                "internet_access": "wlan",
+                "name": "Zanuso srl Conc. Yamaha",
+                "opening_hours": "Mo-Sa 09:00-12:30 14:30-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 0444 349283",
+                "second_hand": "yes",
+                "shop": "motorcycle",
+                "website": "https://www.zanuso.com/"
+            }
         }
     ],
     "telegram": []

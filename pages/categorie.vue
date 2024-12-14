@@ -24,6 +24,11 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 // this call will be performed server side
 // const { data } = await useAsyncData("data", () => $fetch(url_api,));
 
+const breadcrumb = computed(() => [
+  {
+    label: 'Categorie Esercenti',
+  },
+]);
 
 definePageMeta({
   layout: "landing",
@@ -35,6 +40,9 @@ definePageMeta({
 		<LandingSectionhead>
 			<template v-slot:title>Categorie Esercenti</template>
 		</LandingSectionhead>
+
+		<LandingBreadcrumb :voci="breadcrumb" />
+		
 		<div v-if="pending">
 			Loading ...
 		</div>

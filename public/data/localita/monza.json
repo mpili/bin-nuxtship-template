@@ -3681,6 +3681,41 @@
                 "payment:onchain": "yes",
                 "survey:date": "2024-11-23"
             }
+        },
+        {
+            "type": "node",
+            "id": 12409088940,
+            "lat": 45.8737574,
+            "lon": 8.9796799,
+            "timestamp": "2024-12-10T10:10:35Z",
+            "version": 3,
+            "changeset": 160122703,
+            "user": "inbitcoin",
+            "uid": 4533749,
+            "tags": {
+                "addr:city": "Mendrisio",
+                "addr:housenumber": "7",
+                "addr:postcode": "6850",
+                "addr:street": "Via Angelo Maspoli",
+                "amenity": "bureau_de_change",
+                "currency:CHF": "yes",
+                "currency:EUR": "yes",
+                "currency:GBP": "yes",
+                "currency:USD": "yes",
+                "currency:USDT": "yes",
+                "currency:XBT": "yes",
+                "email": "info@quickexchange.ch",
+                "name": "Quickexchange",
+                "operator": "Quick Digital SA",
+                "payment:bitcoin": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+41916467221",
+                "website": "quickexchange.ch"
+            }
         }
     ],
     "telegram": [

@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001588009167_1",
     "telegram_app": "https://t.me/BitcoinParma",
-    "telegram_members": 31.0,
+    "telegram_members": 32.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -384,6 +384,27 @@
                 "ref:vatin": "02540600356",
                 "shop": "musical_instrument",
                 "website": "https://www.tibetstrumentiarmonici.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11104503305,
+            "lat": 44.5105981,
+            "lon": 9.9899947,
+            "timestamp": "2024-12-14T13:39:22Z",
+            "version": 2,
+            "changeset": 160279952,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Berceto",
+                "addr:housenumber": "1",
+                "addr:street": "Via Pietro Caprara",
+                "check_date": "2024-12-14",
+                "currency:XBT": "yes",
+                "name": "Berceto in tavola",
+                "payment:lightning": "yes",
+                "shop": "convenience"
             }
         },
         {
