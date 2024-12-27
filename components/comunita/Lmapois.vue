@@ -125,6 +125,9 @@
 	<LMarker :lat-lng="[40.8517746, 14.2681244]">
 		<LPopup><NuxtLink to="/c/ss-napoli">Satoshi Spritz Napoli</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[40.7951762, 14.3694801]">
+		<LPopup><NuxtLink to="/c/bh-napoli">Bitcoin Hub Napoli</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.4433, 8.6162]">
 		<LPopup><NuxtLink to="/c/ss-novara">Satoshi Spritz Novara</NuxtLink></LPopup>
 	</LMarker>
