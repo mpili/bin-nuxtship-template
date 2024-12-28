@@ -7,7 +7,7 @@
     "idlocalita": "bergamo",
     "telegram_weburl": "https://web.telegram.org/a/#-1001771233180",
     "telegram_app": "https://t.me/SatoshiSpritzBergamo",
-    "telegram_members": 180.0,
+    "telegram_members": 186.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -622,32 +622,6 @@
                 "opening_hours": "Mo-Sa 07:00-02:00",
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "website": "https://niksandco.it/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4851406430,
-            "lat": 45.463958,
-            "lon": 9.1785032,
-            "timestamp": "2024-08-27T12:48:50Z",
-            "version": 4,
-            "changeset": 155830481,
-            "user": "Tobias235",
-            "uid": 14827393,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:country": "IT",
-                "addr:housenumber": "19",
-                "addr:postcode": "20123",
-                "addr:street": "Via Nirone",
-                "amenity": "restaurant",
-                "check_date": "2024-03-20",
-                "currency:XBT": "yes",
-                "email": "milano@organya.it",
-                "name": "Organya - The Italian Bowl",
-                "operational_status": "closed",
-                "phone": "+39 02 52516916",
-                "website": "https://www.organya.it/"
             }
         },
         {

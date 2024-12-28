@@ -1,8 +1,13 @@
 {
-    "id": "napoli",
-    "name": "Napoli",
-    "lng": 40.8517746,
-    "lat": 14.2681244,
+    "id": "bh-napoli",
+    "name": "Bitcoin Hub Napoli",
+    "lng": 40.7951762,
+    "lat": 14.3694801,
+    "localita": "Napoli",
+    "idlocalita": "napoli",
+    "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinapoli",
+    "telegram_app": "https://t.me/bitcoinapoli",
+    "telegram_members": 20.0,
     "poi": [
         {
             "type": "node",
@@ -212,6 +217,30 @@
         },
         {
             "type": "node",
+            "id": 10138046378,
+            "lat": 40.6355767,
+            "lon": 14.905946,
+            "timestamp": "2024-07-06T06:45:55Z",
+            "version": 6,
+            "changeset": 153612126,
+            "user": "mauropili",
+            "uid": 1496865,
+            "tags": {
+                "addr:city": "Pontecagnano Faiano",
+                "addr:postcode": "84098",
+                "addr:street": "Via Antonio Pacinotti",
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
+                "shop": "furniture",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10879388285,
             "lat": 41.0085448,
             "lon": 14.1319408,
@@ -415,12 +444,5 @@
             }
         }
     ],
-    "telegram": [
-        {
-            "telegram": "ss-napoli"
-        },
-        {
-            "telegram": "bh-napoli"
-        }
-    ]
+    "telegram": []
 }

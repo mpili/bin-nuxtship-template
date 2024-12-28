@@ -7,7 +7,7 @@
     "idlocalita": "vignola",
     "telegram_weburl": "https://web.telegram.org/a/#-1001509357282",
     "telegram_app": "https://t.me/SatoshiSpritzVignola",
-    "telegram_members": 95.0,
+    "telegram_members": 100.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -753,6 +753,35 @@
                 "payment:lightning": "yes",
                 "phone": "+39 051 230650",
                 "survey:date": "2022-09-13"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10221479372,
+            "lat": 44.5014066,
+            "lon": 11.3440584,
+            "timestamp": "2024-12-17T18:50:10Z",
+            "version": 5,
+            "changeset": 160316175,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "3a",
+                "addr:postcode": "40121",
+                "addr:street": "Via dei Mille",
+                "amenity": "ice_cream",
+                "check_date": "2024-12-17",
+                "contact:email": "sablegelato@gmail.com",
+                "contact:instagram": "https://www.instagram.com/sable_gelato/",
+                "currency:XBT": "yes",
+                "name": "Sabl\u00e9 gelato",
+                "opening_hours": "We-Su 11:30-19:00",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "website": "https://sablegelato.com/"
             }
         },
         {
