@@ -29,8 +29,8 @@ useHead({
   ],
   link: [
     {
-      rel: 'canonical',
-      href: 'https://bitcoinitalianetwork.com/wallet',
+      rel: "canonical",
+      href: "https://bitcoinitalianetwork.com/wallet",
     },
   ],
 });
@@ -161,6 +161,18 @@ const attributiWalletOpz = [
   wo_coincontrol,
   wo_opensource,
 ];
+
+const orderByName = ref(false);
+
+const sortedData = computed(() => {
+  return orderByName.value
+    ? [...data.value].sort((a, b) => a.nome.localeCompare(b.nome))
+    : data.value;
+});
+
+const toggleOrder = () => {
+  orderByName.value = !orderByName.value;
+};
 </script>
 
 <template>
@@ -177,7 +189,11 @@ const attributiWalletOpz = [
     <div v-if="pending">Loading ...</div>
     <div v-else>
       <div class="pt-8">
-        <div v-for="item of data">
+        <UiButton @click="toggleOrder">
+          Ordina per nome {{ orderByName ? "↓" : "↑" }}
+        </UiButton>
+
+        <div v-for="item of sortedData" :key="item.id">
           <div class="flex items-center gap-1 h-10">
             <img :src="'/img/wallet/' + item.id + '.png'" class="w-6 h-6" />
             <div class="w-48">
