@@ -1,6 +1,5 @@
 <template>
   <button type="button" :class="classes" @click="onClick" :style="style">{{ label }}</button>
-  <p class="text-2xl text-red-500">prova</p>
 </template>
 
 <script>
