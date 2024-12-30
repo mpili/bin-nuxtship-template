@@ -120,6 +120,7 @@ const {
   lazy: true,
   server: false,
 });
+
 </script>
 
 <template>
@@ -215,22 +216,15 @@ const {
             etichetta="Posti all'aperto"
             :testo="data.tags['outdoor_seating']"
           />
+          <OsnOperator v-if="data?.tags?.operator" :operator="data?.tags?.operator" />
+
           <OsnTag
             v-if="data?.tags?.brand"
             icona="tabler:brand-pagekit"
             etichetta="Brand"
             :testo="data?.tags?.brand"
           />
-          <OsnTaglink v-if="data?.tags?.operator" tag="operator" :valore="data?.tags?.operator">
-            <template v-slot:testo>
-              <OsnTag
-                v-if="data?.tags?.operator"
-                icona="guidance:office-pod"
-                etichetta="Conduttore"
-                :testo="data?.tags?.operator"
-              />
-            </template>
-          </OsnTaglink>
+
           <OsnTag
             v-if="data.tags['currency:XBT:discount']"
             icona="streamline:discount-percent-circle"
