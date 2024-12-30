@@ -240,6 +240,30 @@
         },
         {
             "type": "node",
+            "id": 7252184316,
+            "lat": 45.1744253,
+            "lon": 9.6552251,
+            "timestamp": "2020-02-29T06:31:11Z",
+            "version": 1,
+            "changeset": 81613175,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Casalpusterlengo",
+                "addr:housenumber": "8",
+                "addr:postcode": "26841",
+                "addr:street": "Via Salvo D'Acquisto",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "operator": "Conad",
+                "phone": "+39 0377 911132"
+            }
+        },
+        {
+            "type": "node",
             "id": 9454741561,
             "lat": 45.3577268,
             "lon": 9.323079,

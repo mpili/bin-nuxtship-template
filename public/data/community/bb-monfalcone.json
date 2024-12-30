@@ -325,16 +325,18 @@
             "id": 4844248321,
             "lat": 45.6503203,
             "lon": 13.7697097,
-            "timestamp": "2023-05-12T22:47:43Z",
-            "version": 6,
-            "changeset": 136036838,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2024-12-30T19:02:22Z",
+            "version": 7,
+            "changeset": 160804896,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
                 "addr:city": "Trieste",
                 "addr:housenumber": "14",
                 "addr:postcode": "34121",
                 "addr:street": "Piazza della Borsa",
+                "brand": "Doppelg\u00e4nger",
+                "brand:wikidata": "Q117451227",
                 "check_date:currency:XBT": "2023-05-13",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
@@ -343,6 +345,29 @@
                 "payment:onchain": "yes",
                 "phone": "0402337190",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5089153674,
+            "lat": 46.062212,
+            "lon": 13.238483,
+            "timestamp": "2024-06-30T13:23:39Z",
+            "version": 5,
+            "changeset": 153369058,
+            "user": "Gabriele Dri",
+            "uid": 3821761,
+            "tags": {
+                "addr:city": "Udine",
+                "addr:housenumber": "37",
+                "addr:street": "Via Vittorio Veneto",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:30",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=7217"
             }
         },
         {

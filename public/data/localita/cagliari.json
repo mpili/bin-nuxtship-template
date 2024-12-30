@@ -6,6 +6,28 @@
     "poi": [
         {
             "type": "node",
+            "id": 2201764501,
+            "lat": 39.2948667,
+            "lon": 9.0660103,
+            "timestamp": "2024-12-30T18:25:28Z",
+            "version": 4,
+            "changeset": 160803710,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Sestu",
+                "addr:housenumber": "Km 10",
+                "addr:postcode": "09028",
+                "addr:street": "ex SS131",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 2317627942,
             "lat": 39.2155701,
             "lon": 9.1114928,
@@ -31,6 +53,152 @@
                 "tourism": "guest_house",
                 "website": "https://www.sardiniadomus.it/",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2637983020,
+            "lat": 39.4208935,
+            "lon": 9.570718,
+            "timestamp": "2022-03-17T15:11:13Z",
+            "version": 3,
+            "changeset": 118598704,
+            "user": "noromance",
+            "uid": 156825,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167706400,
+            "lat": 39.307477,
+            "lon": 8.5494116,
+            "timestamp": "2020-05-10T18:45:00Z",
+            "version": 3,
+            "changeset": 84982841,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Iglesias",
+                "addr:postcode": "09016",
+                "addr:street": "Via Monsignor A. Saba",
+                "name": "Conad Superstore",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-13:00",
+                "operator": "CONAD Soc. Coop.",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0781 398120",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.006526.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167721548,
+            "lat": 39.2484799,
+            "lon": 9.1949841,
+            "timestamp": "2024-05-03T08:04:16Z",
+            "version": 4,
+            "changeset": 150824306,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Quartu Sant'Elena",
+                "addr:postcode": "09045",
+                "addr:street": "Via Guglielmo Marconi",
+                "brand": "Conad Superstore",
+                "brand:wikidata": "Q118129616",
+                "name": "Conad Superstore",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "CONAD Soc. Coop.",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 070 8281520",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.007114.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4213453689,
+            "lat": 39.2326516,
+            "lon": 9.0909889,
+            "timestamp": "2024-12-30T21:55:44Z",
+            "version": 7,
+            "changeset": 160811773,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "60",
+                "addr:place": "Santa Gilla",
+                "addr:postcode": "09122",
+                "addr:street": "Via San Simone",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4213453789,
+            "lat": 39.2475737,
+            "lon": 9.1361551,
+            "timestamp": "2020-11-29T10:54:27Z",
+            "version": 3,
+            "changeset": 94978942,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "35",
+                "addr:place": "Pirri",
+                "addr:postcode": "09134",
+                "addr:street": "Via Dolianova",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket",
+                "start_date": "2020-11-30",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010168.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4213587392,
+            "lat": 39.2360774,
+            "lon": 9.1085049,
+            "timestamp": "2024-12-30T21:58:00Z",
+            "version": 5,
+            "changeset": 160811847,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "111",
+                "addr:street": "Via Is Mirrionis",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
             }
         },
         {
@@ -293,6 +461,27 @@
         },
         {
             "type": "node",
+            "id": 4229666623,
+            "lat": 39.2164979,
+            "lon": 9.1219786,
+            "timestamp": "2023-11-15T20:38:29Z",
+            "version": 3,
+            "changeset": 144068140,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "9a",
+                "addr:street": "Via Sebastiano Satta",
+                "name": "Margherita",
+                "operator": "Conad",
+                "phone": "+39 070 670665",
+                "shop": "supermarket",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+            }
+        },
+        {
+            "type": "node",
             "id": 4471074425,
             "lat": 39.2371847,
             "lon": 9.1839844,
@@ -427,6 +616,141 @@
                 "payment:onchain": "yes",
                 "phone": "+447894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7503480185,
+            "lat": 39.2438311,
+            "lon": 9.1164854,
+            "timestamp": "2023-09-14T09:28:52Z",
+            "version": 2,
+            "changeset": 141248302,
+            "user": "ChiptuneIsCool",
+            "uid": 12771984,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:postcode": "09121",
+                "addr:street": "Via Edward Jenner",
+                "amenity": "pharmacy",
+                "check_date:opening_hours": "2023-09-14",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours:signed": "no",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7503496989,
+            "lat": 39.2352267,
+            "lon": 9.1212192,
+            "timestamp": "2020-05-10T14:25:34Z",
+            "version": 1,
+            "changeset": 84973694,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "21",
+                "addr:postcode": "09131",
+                "addr:street": "Via dei Valenzani",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7503526084,
+            "lat": 39.2486226,
+            "lon": 9.1952262,
+            "timestamp": "2020-05-10T14:33:59Z",
+            "version": 1,
+            "changeset": 84973985,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Quartu Sant'Elena",
+                "addr:postcode": "09045",
+                "addr:street": "Via Guglielmo Marconi",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7504153155,
+            "lat": 39.3071334,
+            "lon": 8.5500067,
+            "timestamp": "2020-05-10T18:43:01Z",
+            "version": 1,
+            "changeset": 84982793,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Iglesias",
+                "addr:postcode": "09016",
+                "addr:street": "Via Monsignor Saba",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7876694602,
+            "lat": 39.2318205,
+            "lon": 9.0923261,
+            "timestamp": "2024-12-03T20:31:03Z",
+            "version": 5,
+            "changeset": 159896003,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "60",
+                "addr:postcode": "09122",
+                "addr:street": "Via San Simone",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "level": "1",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8176076340,
+            "lat": 39.247578,
+            "lon": 9.1357494,
+            "timestamp": "2020-11-29T10:56:13Z",
+            "version": 1,
+            "changeset": 94978993,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "35",
+                "addr:postcode": "09134",
+                "addr:street": "Via Dolianova",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours": "Mo-Su 08:30-21:00",
+                "operator": "Conad",
+                "start_date": "2020-11-30"
             }
         },
         {
@@ -818,6 +1142,29 @@
                 "shop": "car_repair",
                 "website": "https://www.officinameccanica-apostosulposto.it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12463515387,
+            "lat": 39.223572,
+            "lon": 9.1221608,
+            "timestamp": "2024-12-30T18:30:41Z",
+            "version": 1,
+            "changeset": 160803860,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "85",
+                "addr:postcode": "09128",
+                "addr:street": "Via Francesco Cocco Ortu",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 070 489088",
+                "shop": "electronics"
             }
         }
     ],

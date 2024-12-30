@@ -3,7 +3,30 @@
     "name": "Catanzaro",
     "lng": 38.9075,
     "lat": 16.5962,
-    "poi": [],
+    "poi": [
+        {
+            "type": "node",
+            "id": 7504161120,
+            "lat": 38.9273179,
+            "lon": 16.5808459,
+            "timestamp": "2020-05-10T19:01:24Z",
+            "version": 1,
+            "changeset": 84983386,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Catanzaro",
+                "addr:housenumber": "214",
+                "addr:postcode": "88100",
+                "addr:street": "Viale Papa Pio X",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        }
+    ],
     "telegram": [
         {
             "telegram": "bitcoin-beer-catanzaro"

@@ -6,6 +6,37 @@
     "poi": [
         {
             "type": "node",
+            "id": 334511575,
+            "lat": 45.412015,
+            "lon": 11.9082358,
+            "timestamp": "2023-06-05T14:36:32Z",
+            "version": 7,
+            "changeset": 136976080,
+            "user": "Friendly_Ghost",
+            "uid": 10875409,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "61",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "level": "0",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 049 8690111",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009946.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1452373305,
             "lat": 45.4394324,
             "lon": 11.0041704,
@@ -259,19 +290,51 @@
         },
         {
             "type": "node",
+            "id": 4553774993,
+            "lat": 45.4417537,
+            "lon": 10.9988003,
+            "timestamp": "2023-11-08T18:03:05Z",
+            "version": 4,
+            "changeset": 143792303,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:street": "Via Stella",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "description": "TuDay Conad, store senza casse a Verona. \u00c8 il primo supermercato con casse automatizzate e pagamenti digitali.",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 07:30-22:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:credit_cards": "yes",
+                "payment:smartphone": "yes",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2023/11/08/lai-rivoluziona-la-spesa-di-prossimita-a-verona-apre-il-primo-tuday-conad-prendivai/",
+                "start_date": "2023-11-08",
+                "website": "https://www.conad.it/ricerca-negozi/tuday-conad-via-stella-8-37131-verona--010521"
+            }
+        },
+        {
+            "type": "node",
             "id": 4727745918,
             "lat": 45.4090126,
             "lon": 11.8788211,
-            "timestamp": "2023-08-26T09:32:32Z",
-            "version": 5,
-            "changeset": 140403176,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "timestamp": "2024-12-30T18:55:58Z",
+            "version": 6,
+            "changeset": 160804689,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
                 "addr:city": "Padova",
                 "addr:housenumber": "9",
                 "addr:postcode": "35121",
                 "addr:street": "Via Altinate",
+                "brand": "Doppelg\u00e4nger",
+                "brand:wikidata": "Q117451227",
                 "check_date": "2023-08-26",
                 "clothes": "men",
                 "currency:XBT": "yes",
@@ -437,6 +500,80 @@
                 "office": "educational_institution",
                 "phone": "+39 3405035130",
                 "website": "https://www.bitcoinvenetocenter.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486874106,
+            "lat": 45.4177654,
+            "lon": 11.86183,
+            "timestamp": "2024-08-10T14:39:32Z",
+            "version": 2,
+            "changeset": 155065448,
+            "user": "voschix",
+            "uid": 305001,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "8",
+                "addr:postcode": "35139",
+                "addr:street": "Ostiala Gallenia",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486909410,
+            "lat": 45.4119799,
+            "lon": 11.9077824,
+            "timestamp": "2023-06-05T14:36:32Z",
+            "version": 4,
+            "changeset": 136976080,
+            "user": "Friendly_Ghost",
+            "uid": 10875409,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "61",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "level": "0",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7834164182,
+            "lat": 45.4175724,
+            "lon": 11.8247384,
+            "timestamp": "2024-12-30T16:37:10Z",
+            "version": 5,
+            "changeset": 160799972,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rubano",
+                "addr:housenumber": "1",
+                "addr:postcode": "35030",
+                "addr:street": "Via della Provvidenza",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "email": "sarmeola@trony.it",
+                "facebook": "https://www.facebook.com/TronySarmeolaViaDellaProvvidenza/",
+                "level": "1",
+                "name": "Trony",
+                "opening_hours": "Mo-Sa 09:30-20:30; Su 10:00-20:30",
+                "operator": "Trony",
+                "phone": "+39 049 897 9275",
+                "shop": "electronics",
+                "website": "https://www.trony.it/online/store/TRO477_A",
+                "wheelchair": "yes"
             }
         },
         {
@@ -612,6 +749,38 @@
                 "survey:date": "2023-06-03",
                 "tourism": "guest_house",
                 "website": "https://airbnb.com/h/beltraminabedroom1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11144535811,
+            "lat": 45.4115379,
+            "lon": 11.9084568,
+            "timestamp": "2023-08-25T18:39:05Z",
+            "version": 1,
+            "changeset": 140384840,
+            "user": "Friendly_Ghost",
+            "uid": 10875409,
+            "tags": {
+                "amenity": "trolley_bay",
+                "covered": "yes",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11241833922,
+            "lat": 45.4111335,
+            "lon": 11.9071442,
+            "timestamp": "2023-10-05T17:16:51Z",
+            "version": 1,
+            "changeset": 142199524,
+            "user": "Friendly_Ghost",
+            "uid": 10875409,
+            "tags": {
+                "amenity": "trolley_bay",
+                "covered": "yes",
+                "operator": "Conad"
             }
         },
         {
@@ -878,6 +1047,35 @@
                 "name": "Lineagem S.p.A.",
                 "shop": "jewelry",
                 "website": "https://www.lineagem.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12102810313,
+            "lat": 45.4177936,
+            "lon": 11.8618561,
+            "timestamp": "2024-08-10T14:39:32Z",
+            "version": 1,
+            "changeset": 155065448,
+            "user": "voschix",
+            "uid": 305001,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "8",
+                "addr:postcode": "35139",
+                "addr:street": "Ostiala Gallenia",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 09:00-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 049 723073",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009282.html"
             }
         },
         {

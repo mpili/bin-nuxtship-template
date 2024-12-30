@@ -12,6 +12,34 @@
     "poi": [
         {
             "type": "node",
+            "id": 703630909,
+            "lat": 43.4722698,
+            "lon": 12.2312359,
+            "timestamp": "2020-05-14T09:28:32Z",
+            "version": 6,
+            "changeset": 85191456,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Citt\u00e0 di Castello",
+                "addr:postcode": "06012",
+                "addr:street": "Via Piero della Francesca",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 075 8521893",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.004294.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 6775884898,
             "lat": 43.4632928,
             "lon": 11.8800925,
@@ -34,6 +62,52 @@
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "phone": "+39 0575 323666",
                 "website": "https://www.capaccioli.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7517433161,
+            "lat": 43.4720984,
+            "lon": 12.2312215,
+            "timestamp": "2020-05-14T09:26:51Z",
+            "version": 1,
+            "changeset": 85191342,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Citt\u00e0 di Castello",
+                "addr:postcode": "06012",
+                "addr:street": "Via Piero della Francesca",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8839426101,
+            "lat": 43.3053864,
+            "lon": 11.3186985,
+            "timestamp": "2024-12-03T20:30:26Z",
+            "version": 5,
+            "changeset": 159895982,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "24",
+                "addr:postcode": "53100",
+                "addr:street": "Strada Massetana Romana",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0577 271600",
+                "shop": "electronics",
+                "website": "https://promozioni.trony.it/volantino/TRO019_A",
+                "wheelchair": "no"
             }
         },
         {

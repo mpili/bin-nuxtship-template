@@ -26,6 +26,9 @@
 	<LMarker :lat-lng="[45.540709109999995, 10.216156965]">
 		<LPopup><NuxtLink to="/l/brescia">Brescia</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[40.635512, 17.942211]">
+		<LPopup><NuxtLink to="/l/brindisi">Brindisi</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[39.21721, 9.11335]">
 		<LPopup><NuxtLink to="/l/cagliari">Cagliari</NuxtLink></LPopup>
 	</LMarker>
@@ -70,6 +73,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[45.2922106, 13.9070363]">
 		<LPopup><NuxtLink to="/l/istria">Istria</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[40.354948, 18.174879]">
+		<LPopup><NuxtLink to="/l/lecce">Lecce</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.8438, 10.514557]">
 		<LPopup><NuxtLink to="/l/lucca">Lucca</NuxtLink></LPopup>

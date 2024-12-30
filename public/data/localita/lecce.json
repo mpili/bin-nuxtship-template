@@ -1,0 +1,145 @@
+{
+    "id": "lecce",
+    "name": "Lecce",
+    "lng": 40.354948,
+    "lat": 18.174879,
+    "poi": [
+        {
+            "type": "node",
+            "id": 4392833125,
+            "lat": 40.3581997,
+            "lon": 18.1793325,
+            "timestamp": "2024-10-21T19:28:58Z",
+            "version": 4,
+            "changeset": 158184830,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "11",
+                "addr:postcode": "73100",
+                "addr:street": "Piazza Ludovico Ariosto",
+                "check_date": "2024-10-21",
+                "check_date:currency:XBT": "2024-10-21",
+                "contact:facebook": "https://www.facebook.com/casadellachiavesnc/",
+                "craft": "key_cutter",
+                "currency:XBT": "yes",
+                "email": "info@casadellachiavesnc.com",
+                "entrance": "yes",
+                "mobile": "+39 320 61 95 681",
+                "name": "Casa della Chiave",
+                "phone": "+39 0832 16 90 971",
+                "website": "https://www.casadellachiavesnc.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5660407521,
+            "lat": 40.2950741,
+            "lon": 17.8548774,
+            "timestamp": "2018-06-03T08:16:17Z",
+            "version": 1,
+            "changeset": 59501712,
+            "user": "EdAllen",
+            "uid": 559935,
+            "tags": {
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7505642383,
+            "lat": 40.2933259,
+            "lon": 18.1976235,
+            "timestamp": "2023-11-28T16:58:02Z",
+            "version": 5,
+            "changeset": 144557211,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Cavallino",
+                "addr:postcode": "73020",
+                "addr:street": "Strada Statale 16 Adriatica",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "Conad",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352633653,
+            "lat": 40.6392398,
+            "lon": 17.9473827,
+            "timestamp": "2024-10-18T16:46:32Z",
+            "version": 4,
+            "changeset": 158059908,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Brindisi",
+                "addr:housenumber": "7b",
+                "addr:postcode": "72100",
+                "addr:street": "Vicolo Amena",
+                "check_date": "2024-10-18",
+                "check_date:currency:XBT": "2024-10-18",
+                "currency:XBT": "yes",
+                "description": "Studio professionale di tatuaggi.",
+                "email": "tattoo.cripta@gmail.com",
+                "name": "Cripta Tattoo",
+                "phone": "+393894958272",
+                "shop": "tattoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12324609959,
+            "lat": 40.4984508,
+            "lon": 17.6433669,
+            "timestamp": "2024-11-08T22:06:37Z",
+            "version": 1,
+            "changeset": 158913279,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Oria",
+                "addr:postcode": "72024",
+                "addr:street": "Piazza Albanese",
+                "amenity": "bar",
+                "currency:XBT": "yes",
+                "name": "Caveau Bar"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12434177691,
+            "lat": 39.9685192,
+            "lon": 18.0184489,
+            "timestamp": "2024-12-19T19:14:45Z",
+            "version": 2,
+            "changeset": 160407367,
+            "user": "FrancescoTricarico",
+            "uid": 22304586,
+            "tags": {
+                "addr:city": "Marina di Mancaversa",
+                "addr:housenumber": "20",
+                "addr:postcode": "73057",
+                "addr:street": "Via Arno",
+                "currency:XBT": "yes",
+                "guest_house": "guest_house",
+                "name": "Il Rifugio dei Marinai",
+                "tourism": "guest_house"
+            }
+        }
+    ],
+    "telegram": [
+        {
+            "telegram": "salento-b"
+        }
+    ]
+}

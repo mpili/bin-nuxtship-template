@@ -1,7 +1,6 @@
 <script setup>
 const props = defineProps(["data"]);
 
-
 const breadcrumb = computed(() => [
   {
     label: "wallet",
@@ -12,8 +11,8 @@ const breadcrumb = computed(() => [
   },
 ]);
 
-const w_img = "https://bitcoinitalianetwork.com/img/wallet/" + props.data.id + ".png";
-
+const w_img =
+  "https://bitcoinitalianetwork.com/img/wallet/" + props.data.id + ".png";
 
 useHead({
   title: props?.data?.nome + " | Bitcoin Italia Network",
@@ -30,7 +29,6 @@ useHead({
     },
   ],
 });
-
 
 const attrDeviceWallet = [
   {
@@ -475,15 +473,14 @@ const scrutiny = [
   <div>
     <div class="flex items-center gap-1 py-4">
       <img :src="'/img/wallet/' + data.id + '.png'" class="w-24 h-24" />
-      <!-- <Icon name="mdi:web" size="16" color="cyan" />
-      sito: -->
-      <span class="w-20">
-        <a
-          :href="data['web site']"
-          target="_blank"
-          class="text-blue-600"
-        >
-          {{ data["web site"] }}
+      <span>
+        <a :href="data['web site']" target="_blank" class="text-blue-600">
+          <LandingBadge
+            icona="ic:baseline-insert-link"
+            :testo="data['web site']"
+            coloreicona="black"
+            coloretesto="black"
+          />
         </a>
       </span>
     </div>

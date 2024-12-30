@@ -71,6 +71,55 @@
         },
         {
             "type": "node",
+            "id": 427547582,
+            "lat": 46.1427735,
+            "lon": 10.9665101,
+            "timestamp": "2014-07-14T19:04:53Z",
+            "version": 5,
+            "changeset": 24147026,
+            "user": "dvdzero",
+            "uid": 351361,
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38018",
+                "addr:street": "Via Paganella",
+                "contact:phone": "+39 0461 586917",
+                "name": "Central Market",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 427963798,
+            "lat": 46.0445347,
+            "lon": 11.1290602,
+            "timestamp": "2024-12-03T20:31:27Z",
+            "version": 12,
+            "changeset": 159896016,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "10",
+                "addr:postcode": "38123",
+                "addr:street": "Centro direzionale Trento Sud",
+                "branch": "Elettrocasa",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "level": "0",
+                "name": "Trony",
+                "opening_hours": "Mo 15:00-19:15; Tu-Sa 09:00-12:00,15:00-19:15; Su off",
+                "operator": "Trony",
+                "shop": "electronics",
+                "website": "https://www.trony.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 853801236,
             "lat": 46.065984,
             "lon": 11.131204,
@@ -209,6 +258,32 @@
         },
         {
             "type": "node",
+            "id": 1300835964,
+            "lat": 46.0940985,
+            "lon": 11.1151259,
+            "timestamp": "2024-12-03T20:31:49Z",
+            "version": 7,
+            "changeset": 159896033,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Bren Center",
+                "addr:housenumber": "16",
+                "addr:postcode": "38121",
+                "addr:street": "Via Giovanni Battista Trener",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "level": "0;1",
+                "name": "Trony",
+                "operator": "Trony",
+                "ref:vatin": "IT00927290221",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1318116512,
             "lat": 46.0384428,
             "lon": 11.1230431,
@@ -300,6 +375,31 @@
         },
         {
             "type": "node",
+            "id": 1405084840,
+            "lat": 46.1636906,
+            "lon": 11.002146,
+            "timestamp": "2023-08-21T06:53:03Z",
+            "version": 6,
+            "changeset": 140164379,
+            "user": "RaelZero",
+            "uid": 2701091,
+            "tags": {
+                "addr:city": "Andalo",
+                "addr:housenumber": "6",
+                "addr:postcode": "38010",
+                "addr:street": "Via Ponte Lambin",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Su 08:00-19:30",
+                "operator": "Conad",
+                "phone": "+39 0461 585909",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=2938"
+            }
+        },
+        {
+            "type": "node",
             "id": 1452373305,
             "lat": 45.4394324,
             "lon": 11.0041704,
@@ -384,6 +484,35 @@
                 "payment:onchain": "yes",
                 "phone": "+39 334 292 8972",
                 "ref:vatin": "IT02567540220"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1663470010,
+            "lat": 45.4483983,
+            "lon": 10.8791177,
+            "timestamp": "2022-03-02T19:35:28Z",
+            "version": 5,
+            "changeset": 118031469,
+            "user": "Patrick Bous",
+            "uid": 223763,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "11",
+                "addr:postcode": "37012",
+                "addr:street": "Localit\u00e0 Ferlina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 045 6715111",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009945.html"
             }
         },
         {
@@ -712,6 +841,27 @@
         },
         {
             "type": "node",
+            "id": 3124213640,
+            "lat": 46.0169997,
+            "lon": 10.8202816,
+            "timestamp": "2021-07-04T20:09:18Z",
+            "version": 2,
+            "changeset": 107405345,
+            "user": "zancloud",
+            "uid": 8766366,
+            "tags": {
+                "addr:city": "Bleggio Superiore",
+                "addr:postcode": "38071",
+                "addr:street": "Frazione Cavrasto",
+                "name": "Margherita Conad Cavrasto",
+                "operator": "Conad",
+                "phone": "+39 0465 779818",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.006728.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 3253606468,
             "lat": 45.8900918,
             "lon": 11.0411369,
@@ -872,6 +1022,36 @@
         },
         {
             "type": "node",
+            "id": 4553774993,
+            "lat": 45.4417537,
+            "lon": 10.9988003,
+            "timestamp": "2023-11-08T18:03:05Z",
+            "version": 4,
+            "changeset": 143792303,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:street": "Via Stella",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "description": "TuDay Conad, store senza casse a Verona. \u00c8 il primo supermercato con casse automatizzate e pagamenti digitali.",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 07:30-22:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:credit_cards": "yes",
+                "payment:smartphone": "yes",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2023/11/08/lai-rivoluziona-la-spesa-di-prossimita-a-verona-apre-il-primo-tuday-conad-prendivai/",
+                "start_date": "2023-11-08",
+                "website": "https://www.conad.it/ricerca-negozi/tuday-conad-via-stella-8-37131-verona--010521"
+            }
+        },
+        {
+            "type": "node",
             "id": 4650320954,
             "lat": 46.0068646,
             "lon": 11.1264895,
@@ -977,6 +1157,27 @@
                 "smoking": "outside",
                 "takeaway": "no",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6091712990,
+            "lat": 45.8782009,
+            "lon": 11.0337639,
+            "timestamp": "2020-12-01T16:32:51Z",
+            "version": 2,
+            "changeset": 95105374,
+            "user": "scratera",
+            "uid": 76312,
+            "tags": {
+                "addr:housenumber": "50",
+                "addr:street": "Via Benacense",
+                "amenity": "cafe",
+                "door": "sliding",
+                "entrance": "yes",
+                "name": "Buonissimo",
+                "operator": "Conad",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1106,6 +1307,28 @@
         },
         {
             "type": "node",
+            "id": 7486962077,
+            "lat": 45.4484776,
+            "lon": 10.8786033,
+            "timestamp": "2020-05-05T19:01:10Z",
+            "version": 1,
+            "changeset": 84714027,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "11",
+                "addr:postcode": "37012",
+                "addr:street": "Localit\u00e0 Ferlina",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 7678479142,
             "lat": 45.8897032,
             "lon": 11.0440531,
@@ -1164,6 +1387,28 @@
                 "phone": "+39 3470483429",
                 "survey:date": "2022-10-24",
                 "website": "https://bianchiosteopata.it/verona"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8453126219,
+            "lat": 46.0577331,
+            "lon": 10.7511012,
+            "timestamp": "2022-08-10T11:22:48Z",
+            "version": 2,
+            "changeset": 124726267,
+            "user": "Martino Scaglione",
+            "uid": 10901495,
+            "tags": {
+                "addr:city": "Tre Ville",
+                "addr:housenumber": "15",
+                "addr:postcode": "38070",
+                "addr:street": "Via Papa Giovanni Ventitreesimo",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Margherita",
+                "operator": "Conad",
+                "shop": "convenience"
             }
         },
         {

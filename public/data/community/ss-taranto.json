@@ -96,6 +96,30 @@
         },
         {
             "type": "node",
+            "id": 9860157704,
+            "lat": 40.4615949,
+            "lon": 17.3005575,
+            "timestamp": "2023-05-26T18:44:18Z",
+            "version": 3,
+            "changeset": 136601076,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "brand": "Spazio Conad",
+                "brand:wikidata": "Q118130063",
+                "name": "Spazio Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00, Su 09:00-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 099 779 7543",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/spazio-conad-via-per-san-giorgio-jonico-km10-74121-taranto--010037"
+            }
+        },
+        {
+            "type": "node",
             "id": 9860173631,
             "lat": 40.4612246,
             "lon": 17.2996973,

@@ -12,19 +12,40 @@
     "poi": [
         {
             "type": "node",
+            "id": 318114360,
+            "lat": 43.5431846,
+            "lon": 13.0289579,
+            "timestamp": "2020-06-06T00:35:53Z",
+            "version": 6,
+            "changeset": 86265852,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 762937571,
             "lat": 43.6170859,
             "lon": 13.5158141,
-            "timestamp": "2024-11-05T16:20:12Z",
-            "version": 7,
-            "changeset": 158785816,
-            "user": "Robot8A",
-            "uid": 393359,
+            "timestamp": "2024-12-30T19:02:40Z",
+            "version": 8,
+            "changeset": 160804905,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
                 "addr:city": "Ancona",
                 "addr:housenumber": "150",
                 "addr:postcode": "60121",
                 "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "Doppelg\u00e4nger",
+                "brand:wikidata": "Q117451227",
                 "check_date": "2024-11-05",
                 "check_date:currency:XBT": "2023-05-13",
                 "currency:XBT": "yes",
@@ -38,6 +59,58 @@
                 "phone": "+39 071 9691885",
                 "ref:vatin": "IT10471441005",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2509581941,
+            "lat": 43.7667375,
+            "lon": 13.1352112,
+            "timestamp": "2020-05-13T15:20:59Z",
+            "version": 2,
+            "changeset": 85152900,
+            "user": "marchemap",
+            "uid": 4624362,
+            "tags": {
+                "addr:city": "Marotta",
+                "addr:housenumber": "2",
+                "addr:postcode": "61037",
+                "addr:street": "Via Molise",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2815535801,
+            "lat": 43.2223741,
+            "lon": 13.3343341,
+            "timestamp": "2020-11-01T08:33:19Z",
+            "version": 2,
+            "changeset": 93361787,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Tolentino",
+                "addr:country": "IT",
+                "addr:housename": "Centro commerciale \"La Rancia\"",
+                "addr:postcode": "62029",
+                "addr:street": "Contrada Cisterna",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0733 9571",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010156.html"
             }
         },
         {
@@ -63,6 +136,31 @@
                 "office": "occupational_safety",
                 "phone": "+39 071 8760 041",
                 "website": "https://www.agrsicurezza.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7518377976,
+            "lat": 43.8004905,
+            "lon": 13.0118826,
+            "timestamp": "2021-03-26T09:59:56Z",
+            "version": 4,
+            "changeset": 101781332,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:housenumber": "30",
+                "addr:postcode": "61032",
+                "addr:street": "Via Luigi Einaudi",
+                "amenity": "pharmacy",
+                "brand": "Parafarmacia Conad",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad",
+                "ref:msal": "005201",
+                "ref:vatin": "IT01170560419"
             }
         },
         {

@@ -32,6 +32,29 @@
         },
         {
             "type": "node",
+            "id": 1596428517,
+            "lat": 45.5210224,
+            "lon": 10.1856539,
+            "timestamp": "2024-12-30T16:27:37Z",
+            "version": 6,
+            "changeset": 160799589,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Brescia",
+                "addr:housenumber": "27",
+                "addr:postcode": "25100",
+                "addr:street": "Via Arcangelo Tadini",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1814218229,
             "lat": 45.5116142,
             "lon": 10.4047716,
@@ -161,6 +184,25 @@
         },
         {
             "type": "node",
+            "id": 4167605289,
+            "lat": 45.293148,
+            "lon": 10.4769651,
+            "timestamp": "2016-05-07T15:05:00Z",
+            "version": 3,
+            "changeset": 39165713,
+            "user": "Alecs01",
+            "uid": 1476146,
+            "tags": {
+                "addr:city": "Castel Goffredo",
+                "addr:housenumber": "66",
+                "addr:street": "Via Guerzoni",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4243022470,
             "lat": 45.6886754,
             "lon": 9.6648271,
@@ -192,6 +234,55 @@
         },
         {
             "type": "node",
+            "id": 4403798645,
+            "lat": 45.6946959,
+            "lon": 9.6815984,
+            "timestamp": "2024-12-03T20:29:52Z",
+            "version": 5,
+            "changeset": 159895958,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bergamo",
+                "addr:housenumber": "4",
+                "addr:postcode": "24121",
+                "addr:street": "Via Pinamonte da Brembate",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4501068299,
+            "lat": 45.5542201,
+            "lon": 10.2299839,
+            "timestamp": "2024-12-03T20:29:02Z",
+            "version": 10,
+            "changeset": 159895930,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Brescia",
+                "addr:housenumber": "81",
+                "addr:postcode": "25123",
+                "addr:street": "Via Marcantonio Ducco",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "level": "0",
+                "name": "Trony",
+                "opening_hours": "Mo-Sa 09:00-12:30+,15:00-19:30",
+                "operator": "Trony",
+                "phone": "+39 030 3385495",
+                "ref:vatin": "IT02147260174",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4855618125,
             "lat": 45.4604358,
             "lon": 10.5677196,
@@ -218,6 +309,35 @@
                 "website": "https://www.bruschetterianose.it/",
                 "wheelchair": "yes",
                 "wheelchair:description": "Es gibt Sitzpl\u00e4tze vor der Bruschetteria, in den Gastraum f\u00fchrt eine Edelstahlrampe. Tische und St\u00fchle sind teilweise eng gestellt. Zur einzigen ( Rollstuhlgerechten ) Toilette f\u00fchrt eine Schiebet\u00fcr."
+            }
+        },
+        {
+            "type": "node",
+            "id": 5236287881,
+            "lat": 45.6831074,
+            "lon": 9.6108493,
+            "timestamp": "2020-05-03T16:39:53Z",
+            "version": 3,
+            "changeset": 84572143,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Curno",
+                "addr:housenumber": "1",
+                "addr:postcode": "24035",
+                "addr:street": "Via Enrico Fermi",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 035 41591",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009876.html"
             }
         },
         {
@@ -278,6 +398,28 @@
         },
         {
             "type": "node",
+            "id": 5423507587,
+            "lat": 45.5295414,
+            "lon": 10.0973931,
+            "timestamp": "2020-12-03T21:57:07Z",
+            "version": 3,
+            "changeset": 95250730,
+            "user": "Goffredo",
+            "uid": 194751,
+            "tags": {
+                "addr:city": "Travagliato",
+                "addr:housenumber": "2",
+                "addr:postcode": "25039",
+                "addr:street": "Via del Pero",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 5508069822,
             "lat": 45.517822,
             "lon": 10.178514,
@@ -332,6 +474,36 @@
                 "phone": "+39037234988",
                 "ref:vatin": "IT01572680195",
                 "website": "https://chocabeck.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6096830663,
+            "lat": 45.5387639,
+            "lon": 10.219998,
+            "timestamp": "2023-04-04T09:40:49Z",
+            "version": 6,
+            "changeset": 134487400,
+            "user": "osm_fede",
+            "uid": 5631066,
+            "tags": {
+                "addr:city": "Brescia",
+                "addr:housenumber": "2",
+                "addr:postcode": "25121",
+                "addr:street": "Piazza della Vittoria",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "email": "conad.quadriportico@conadcentronord.it",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0522 054590",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009658.html",
+                "wheelchair": "yes"
             }
         },
         {
@@ -445,6 +617,32 @@
         },
         {
             "type": "node",
+            "id": 6875184569,
+            "lat": 45.6876551,
+            "lon": 9.6486032,
+            "timestamp": "2021-01-04T07:00:18Z",
+            "version": 4,
+            "changeset": 96882657,
+            "user": "gigi2037",
+            "uid": 616481,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "description": "il punto vendita ha cambiato insegna.",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 035 4514111",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010078.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 6961538410,
             "lat": 45.2942693,
             "lon": 9.7636712,
@@ -501,6 +699,211 @@
                 "phone": "+39 035217732",
                 "survey:date": "2023-05-01",
                 "website": "http://www.osteriarisico.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7112881607,
+            "lat": 45.6538488,
+            "lon": 10.0433806,
+            "timestamp": "2020-05-04T08:55:07Z",
+            "version": 2,
+            "changeset": 84609835,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Iseo",
+                "addr:housenumber": "52",
+                "addr:postcode": "25049",
+                "addr:street": "Via Paolo Sesto",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "email": "conad.iseo@conadcentronord.it",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 07:30-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 030 980572",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009527.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7476450823,
+            "lat": 45.6832144,
+            "lon": 9.611267,
+            "timestamp": "2020-05-03T16:37:57Z",
+            "version": 1,
+            "changeset": 84572067,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Curno",
+                "addr:housenumber": "1",
+                "addr:postcode": "24035",
+                "addr:street": "Via Enrico Fermi",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7478447316,
+            "lat": 45.8882621,
+            "lon": 9.9418349,
+            "timestamp": "2020-05-04T08:39:21Z",
+            "version": 1,
+            "changeset": 84608809,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Clusone",
+                "addr:postcode": "24023",
+                "addr:street": "Viale Gusmini",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7478478971,
+            "lat": 45.5388451,
+            "lon": 10.2202351,
+            "timestamp": "2023-04-04T09:41:40Z",
+            "version": 3,
+            "changeset": 134487400,
+            "user": "osm_fede",
+            "uid": 5631066,
+            "tags": {
+                "addr:city": "Brescia",
+                "addr:housenumber": "2",
+                "addr:postcode": "25121",
+                "addr:street": "Piazza della Vittoria",
+                "amenity": "pharmacy",
+                "check_date:opening_hours": "2023-04-04",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours:signed": "no",
+                "operator": "Conad",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7478491196,
+            "lat": 45.6536744,
+            "lon": 10.0432113,
+            "timestamp": "2020-05-04T08:58:44Z",
+            "version": 2,
+            "changeset": 84610088,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Iseo",
+                "addr:housenumber": "52",
+                "addr:postcode": "25049",
+                "addr:street": "Via Paolo Sesto",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7481999558,
+            "lat": 45.5255116,
+            "lon": 9.9384787,
+            "timestamp": "2020-05-04T17:27:51Z",
+            "version": 2,
+            "changeset": 84638618,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Chiari",
+                "addr:housenumber": "2",
+                "addr:postcode": "25032",
+                "addr:street": "Via Vecchia per Castelcovati",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7482029450,
+            "lat": 45.9236181,
+            "lon": 10.239268,
+            "timestamp": "2024-01-06T18:59:14Z",
+            "version": 2,
+            "changeset": 145967947,
+            "user": "demon_box",
+            "uid": 350864,
+            "tags": {
+                "addr:city": "Esine",
+                "addr:postcode": "25040",
+                "addr:street": "Via Provinciale",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7879274253,
+            "lat": 45.6878499,
+            "lon": 9.6482274,
+            "timestamp": "2021-01-04T07:00:18Z",
+            "version": 2,
+            "changeset": 96882657,
+            "user": "gigi2037",
+            "uid": 616481,
+            "tags": {
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7935446331,
+            "lat": 45.5345026,
+            "lon": 10.1491878,
+            "timestamp": "2020-09-23T19:51:01Z",
+            "version": 1,
+            "changeset": 91388977,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Roncadelle",
+                "addr:housenumber": "37",
+                "addr:postcode": "25030",
+                "addr:street": "Via Enrico Mattei",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 09:00-20:00",
+                "operator": "Conad",
+                "phone": "+39 030 27891"
             }
         },
         {
@@ -634,6 +1037,21 @@
                 "name": "Easytransfer Ncc",
                 "phone": "+39 379 156 3588",
                 "website": "https://www.easytransferbergamo.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9413783899,
+            "lat": 45.7602701,
+            "lon": 9.7907453,
+            "timestamp": "2022-01-12T21:09:34Z",
+            "version": 1,
+            "changeset": 116082631,
+            "user": "Bruno3589",
+            "uid": 9629381,
+            "tags": {
+                "operator": "Conad",
+                "shop": "convenience"
             }
         },
         {
@@ -1721,6 +2139,23 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-brescia-via-giovanni-lipella"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12028992034,
+            "lat": 45.6708356,
+            "lon": 9.9310173,
+            "timestamp": "2024-07-02T12:16:58Z",
+            "version": 1,
+            "changeset": 153454018,
+            "user": "floro15",
+            "uid": 18137934,
+            "tags": {
+                "name": "Conad",
+                "not:brand:wikidata": "Q639075",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         },
         {

@@ -33,6 +33,35 @@
         },
         {
             "type": "node",
+            "id": 1663470010,
+            "lat": 45.4483983,
+            "lon": 10.8791177,
+            "timestamp": "2022-03-02T19:35:28Z",
+            "version": 5,
+            "changeset": 118031469,
+            "user": "Patrick Bous",
+            "uid": 223763,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "11",
+                "addr:postcode": "37012",
+                "addr:street": "Localit\u00e0 Ferlina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 045 6715111",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009945.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 1814218229,
             "lat": 45.5116142,
             "lon": 10.4047716,
@@ -60,6 +89,68 @@
         },
         {
             "type": "node",
+            "id": 4166950193,
+            "lat": 44.7641213,
+            "lon": 10.5936561,
+            "timestamp": "2021-12-21T14:05:26Z",
+            "version": 6,
+            "changeset": 115211998,
+            "user": "bvivi",
+            "uid": 124550,
+            "tags": {
+                "addr:city": "Cadelbosco di Sopra",
+                "addr:country": "IT",
+                "addr:housenumber": "46",
+                "addr:street": "Via Monsignore Giovanni Saccani",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167013789,
+            "lat": 44.7362523,
+            "lon": 10.6155182,
+            "timestamp": "2017-07-13T07:24:56Z",
+            "version": 4,
+            "changeset": 50248993,
+            "user": "bvivi",
+            "uid": 124550,
+            "tags": {
+                "addr:city": "Reggio nell'Emilia",
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:street": "Via Guglielmo Tirelli",
+                "name": "CONAD CITY",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167605289,
+            "lat": 45.293148,
+            "lon": 10.4769651,
+            "timestamp": "2016-05-07T15:05:00Z",
+            "version": 3,
+            "changeset": 39165713,
+            "user": "Alecs01",
+            "uid": 1476146,
+            "tags": {
+                "addr:city": "Castel Goffredo",
+                "addr:housenumber": "66",
+                "addr:street": "Via Guerzoni",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4553697792,
             "lat": 45.4378688,
             "lon": 10.9958258,
@@ -80,6 +171,36 @@
                 "name": "Studio Marchiori STP",
                 "office": "accountant",
                 "website": "https://www.studiomarchiori.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4553774993,
+            "lat": 45.4417537,
+            "lon": 10.9988003,
+            "timestamp": "2023-11-08T18:03:05Z",
+            "version": 4,
+            "changeset": 143792303,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:street": "Via Stella",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "description": "TuDay Conad, store senza casse a Verona. \u00c8 il primo supermercato con casse automatizzate e pagamenti digitali.",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 07:30-22:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:credit_cards": "yes",
+                "payment:smartphone": "yes",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2023/11/08/lai-rivoluziona-la-spesa-di-prossimita-a-verona-apre-il-primo-tuday-conad-prendivai/",
+                "start_date": "2023-11-08",
+                "website": "https://www.conad.it/ricerca-negozi/tuday-conad-via-stella-8-37131-verona--010521"
             }
         },
         {
@@ -230,6 +351,117 @@
         },
         {
             "type": "node",
+            "id": 7484497896,
+            "lat": 44.9929467,
+            "lon": 10.7352139,
+            "timestamp": "2023-11-17T18:12:37Z",
+            "version": 2,
+            "changeset": 144149923,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "Suzzara",
+                "addr:housenumber": "2a",
+                "addr:postcode": "46029",
+                "addr:street": "Viale Rossellini",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7484530897,
+            "lat": 44.9379749,
+            "lon": 10.489694,
+            "timestamp": "2020-05-05T08:19:58Z",
+            "version": 1,
+            "changeset": 84676726,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Viadana",
+                "addr:housenumber": "1",
+                "addr:postcode": "46019",
+                "addr:street": "via A. Moro",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486962077,
+            "lat": 45.4484776,
+            "lon": 10.8786033,
+            "timestamp": "2020-05-05T19:01:10Z",
+            "version": 1,
+            "changeset": 84714027,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "11",
+                "addr:postcode": "37012",
+                "addr:street": "Localit\u00e0 Ferlina",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7513068151,
+            "lat": 44.8407522,
+            "lon": 10.5470839,
+            "timestamp": "2020-05-13T04:36:32Z",
+            "version": 1,
+            "changeset": 85117112,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Poviglio",
+                "addr:housenumber": "76",
+                "addr:postcode": "42028",
+                "addr:street": "Via Romana",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7513136545,
+            "lat": 44.9108196,
+            "lon": 10.6502718,
+            "timestamp": "2024-05-12T16:11:25Z",
+            "version": 5,
+            "changeset": 151229444,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Guastalla",
+                "addr:housenumber": "88",
+                "addr:postcode": "42016",
+                "addr:street": "Via 11 Settembre",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 8208980511,
             "lat": 45.120793,
             "lon": 10.909389,
@@ -317,6 +549,30 @@
                 "phone": "+39 3470483429",
                 "survey:date": "2022-10-24",
                 "website": "https://bianchiosteopata.it/verona"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9153289949,
+            "lat": 44.8209645,
+            "lon": 10.8886086,
+            "timestamp": "2023-02-22T22:28:05Z",
+            "version": 2,
+            "changeset": 132902063,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "addr:city": "Fossoli",
+                "addr:housenumber": "14",
+                "addr:postcode": "41012",
+                "addr:street": "Via Mar Ionio",
+                "branch": "di Fossoli",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "operator": "Conad",
+                "phone": "+39 059 6340048",
+                "shop": "supermarket"
             }
         },
         {

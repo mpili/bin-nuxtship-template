@@ -12,6 +12,76 @@
     "poi": [
         {
             "type": "node",
+            "id": 289485917,
+            "lat": 46.537047,
+            "lon": 12.1405035,
+            "timestamp": "2024-06-10T14:18:44Z",
+            "version": 11,
+            "changeset": 152500371,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "Cortina d'Ampezzo",
+                "addr:housenumber": "1",
+                "addr:postcode": "32043",
+                "addr:street": "Via Carlo Franchetti",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad city",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-barone-franchetti-1-32043--cortina-dampezzo--010378"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1818174095,
+            "lat": 46.0435595,
+            "lon": 11.7479118,
+            "timestamp": "2024-07-24T16:52:40Z",
+            "version": 5,
+            "changeset": 154359693,
+            "user": "RaelZero",
+            "uid": 2701091,
+            "tags": {
+                "addr:city": "Lamon",
+                "addr:housenumber": "132",
+                "addr:postcode": "32033",
+                "addr:street": "Via Roma",
+                "check_date": "2024-07-24",
+                "name": "Conad Margherita",
+                "old_name": "CRAI da Gaio",
+                "opening_hours": "Mo-Sa 07:30-12:30,15:30-19:30; Su 08:00-12:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2428697202,
+            "lat": 46.1544314,
+            "lon": 11.8042617,
+            "timestamp": "2023-07-01T09:56:38Z",
+            "version": 9,
+            "changeset": 137986050,
+            "user": "MB_OSM",
+            "uid": 12373235,
+            "tags": {
+                "name": "Margherita Conad - Alimentari",
+                "opening_hours": "Mo-Sa 07:00-12:30; Su 07:00-12:00; Mo, Tu, Th-Sa 16:15-19:15",
+                "operator": "Conad",
+                "shop": "convenience",
+                "survey:date": "2022-07-05"
+            }
+        },
+        {
+            "type": "node",
             "id": 3765116375,
             "lat": 45.9582864,
             "lon": 12.6622506,
@@ -167,6 +237,28 @@
                 "phone": "+390437552344",
                 "shop": "computer",
                 "website": "https://ramcomputers.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7500992493,
+            "lat": 45.9725403,
+            "lon": 12.6144979,
+            "timestamp": "2020-05-09T14:12:26Z",
+            "version": 1,
+            "changeset": 84939424,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Porcia",
+                "addr:housenumber": "52",
+                "addr:postcode": "33080",
+                "addr:street": "Via Roveredo",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
             }
         },
         {

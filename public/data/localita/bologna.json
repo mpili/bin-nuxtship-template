@@ -6,6 +6,99 @@
     "poi": [
         {
             "type": "node",
+            "id": 357266233,
+            "lat": 44.5789222,
+            "lon": 11.353488,
+            "timestamp": "2014-06-18T09:34:12Z",
+            "version": 3,
+            "changeset": 23000928,
+            "user": "sirmmo",
+            "uid": 2106165,
+            "tags": {
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 362497485,
+            "lat": 44.6305606,
+            "lon": 11.1926698,
+            "timestamp": "2024-10-31T15:50:39Z",
+            "version": 7,
+            "changeset": 158587484,
+            "user": "Zio Pino",
+            "uid": 511708,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "contact:phone": "+39 051 825990",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "ds4273",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 362497608,
+            "lat": 44.6407127,
+            "lon": 11.1885049,
+            "timestamp": "2024-10-31T15:52:27Z",
+            "version": 9,
+            "changeset": 158587547,
+            "user": "Zio Pino",
+            "uid": 511708,
+            "tags": {
+                "addr:city": "San Giovanni in Persiceto",
+                "addr:housenumber": "21",
+                "addr:postcode": "40017",
+                "addr:street": "Circonvallazione Dante Alighieri",
+                "branch": "San Giovanni in Persiceto",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "contact:phone": "+39 051 6871082",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "ds4273",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 412437085,
+            "lat": 44.5885429,
+            "lon": 11.3675284,
+            "timestamp": "2020-05-12T18:48:21Z",
+            "version": 5,
+            "changeset": 85101770,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Argelato",
+                "addr:housenumber": "26",
+                "addr:postcode": "40050",
+                "addr:street": "Via Don Francesco Pasti",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "email": "SuperconadFuno_E000492B@DI-NET.IT",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:30; Su 08:30-13:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 051 6646340",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.000297.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 420776812,
             "lat": 44.4952195,
             "lon": 11.3246362,
@@ -40,6 +133,24 @@
                 "payment:notes": "yes",
                 "payment:visa": "yes",
                 "phone": "+39 0516143978"
+            }
+        },
+        {
+            "type": "node",
+            "id": 878621223,
+            "lat": 44.5949687,
+            "lon": 11.1012558,
+            "timestamp": "2023-11-18T13:11:03Z",
+            "version": 4,
+            "changeset": 144173793,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         },
         {
@@ -138,6 +249,69 @@
         },
         {
             "type": "node",
+            "id": 2529770201,
+            "lat": 44.4697516,
+            "lon": 11.6335825,
+            "timestamp": "2020-03-03T17:32:39Z",
+            "version": 3,
+            "changeset": 81738669,
+            "user": "Denisov21",
+            "uid": 817066,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3181471853,
+            "lat": 44.500455,
+            "lon": 11.3294855,
+            "timestamp": "2024-11-03T21:30:56Z",
+            "version": 7,
+            "changeset": 158718128,
+            "user": "mircozorzo",
+            "uid": 224342,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:street": "Viale Antonio Silvani",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "check_date": "2024-05-02",
+                "contact:phone": "+39 051 6494577",
+                "name": "Conad",
+                "opening_hours": "Mo-Su",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "ds4273"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3181471854,
+            "lat": 44.5003861,
+            "lon": 11.3294238,
+            "timestamp": "2022-02-27T09:21:41Z",
+            "version": 4,
+            "changeset": 117901033,
+            "user": "ElDavo",
+            "uid": 14330447,
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "layer": "-1",
+                "name": "Conad",
+                "operator": "Conad",
+                "parking": "underground"
+            }
+        },
+        {
+            "type": "node",
             "id": 3645848575,
             "lat": 44.4930935,
             "lon": 11.3437421,
@@ -165,6 +339,104 @@
                 "phone": "+39 051 221640",
                 "survey:date": "2024-01-25",
                 "website": "https://farmaciadelpavaglione.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167115097,
+            "lat": 44.56181,
+            "lon": 10.84536,
+            "timestamp": "2021-07-03T06:16:52Z",
+            "version": 2,
+            "changeset": 107340529,
+            "user": "Silverium",
+            "uid": 13566882,
+            "tags": {
+                "addr:city": "Formigine",
+                "addr:country": "IT",
+                "addr:housenumber": "50",
+                "addr:street": "Via quattro Passi",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167164601,
+            "lat": 44.6050327,
+            "lon": 10.8671238,
+            "timestamp": "2020-05-12T07:23:37Z",
+            "version": 2,
+            "changeset": 85067751,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Modena",
+                "addr:country": "IT",
+                "addr:housenumber": "205",
+                "addr:postcode": "41126",
+                "addr:street": "Via L. Settembrini",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "email": "ModenaPiusrlPvBaggiovara_E211034B@di-net.it",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-13:00",
+                "operator": "CONAD Soc. Coop.",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 059 511086",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.007632.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4167165490,
+            "lat": 44.5330785,
+            "lon": 10.8429688,
+            "timestamp": "2021-07-03T06:16:51Z",
+            "version": 2,
+            "changeset": 107340529,
+            "user": "Silverium",
+            "uid": 13566882,
+            "tags": {
+                "addr:city": "Fiorano Modenese",
+                "addr:country": "IT",
+                "addr:housenumber": "30",
+                "addr:street": "Piazza Falcone e Borsellino",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4187490224,
+            "lat": 44.5018469,
+            "lon": 11.3501244,
+            "timestamp": "2024-11-07T21:25:35Z",
+            "version": 9,
+            "changeset": 158872635,
+            "user": "mircozorzo",
+            "uid": 224342,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "8",
+                "addr:postcode": "40126",
+                "addr:street": "Via Angelo Finelli",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "check_date": "2024-03-09",
+                "contact:phone": "+39 051 241518",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 08:15-19:45",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "ds4273",
+                "wheelchair": "yes"
             }
         },
         {
@@ -276,6 +548,58 @@
                 "name": "DOPPELG\u00c4NGER",
                 "phone": "0598301476",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4751588835,
+            "lat": 44.2904897,
+            "lon": 11.8751158,
+            "timestamp": "2021-10-12T08:24:52Z",
+            "version": 4,
+            "changeset": 112406288,
+            "user": "gabriele_sani",
+            "uid": 7078274,
+            "tags": {
+                "addr:city": "Faenza",
+                "addr:housenumber": "30",
+                "addr:postcode": "48018",
+                "addr:street": "Via Marcello Valgimigli",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4762426943,
+            "lat": 44.3536282,
+            "lon": 11.7295042,
+            "timestamp": "2024-11-04T13:55:01Z",
+            "version": 8,
+            "changeset": 158741752,
+            "user": "Zio Pino",
+            "uid": 511708,
+            "tags": {
+                "addr:city": "Imola",
+                "addr:housenumber": "34",
+                "addr:postcode": "40026",
+                "addr:street": "Via Benedetto Croce",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad Imola via B.Croce",
+                "opening_hours": "Mo-Sa 07:30-19:30; Su 08:30-12:30",
+                "operator": "Conad",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0542 26198",
+                "shop": "supermarket",
+                "source": "ds4273",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.000301.html",
+                "wheelchair": "yes"
             }
         },
         {
@@ -493,6 +817,30 @@
         },
         {
             "type": "node",
+            "id": 6404069985,
+            "lat": 44.3546356,
+            "lon": 11.6897262,
+            "timestamp": "2024-10-09T20:34:26Z",
+            "version": 4,
+            "changeset": 157689018,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:city": "Imola",
+                "addr:housenumber": "5c",
+                "addr:postcode": "40026",
+                "addr:street": "Via Montericco",
+                "amenity": "pharmacy",
+                "brand": "Parafarmacia Conad",
+                "check_date": "2024-10-09",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 6475072552,
             "lat": 44.640859,
             "lon": 10.91307,
@@ -572,6 +920,51 @@
         },
         {
             "type": "node",
+            "id": 7507084208,
+            "lat": 44.4976768,
+            "lon": 11.3907944,
+            "timestamp": "2023-05-16T12:48:38Z",
+            "version": 3,
+            "changeset": 136167918,
+            "user": "Plaintelive",
+            "uid": 11644547,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "10",
+                "addr:postcode": "40138",
+                "addr:street": "Galleria Vialarga",
+                "amenity": "pharmacy",
+                "brand": "Parafarmacia Conad",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7507133420,
+            "lat": 44.4840967,
+            "lon": 11.3739435,
+            "timestamp": "2020-05-11T13:56:56Z",
+            "version": 2,
+            "changeset": 85029455,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "6",
+                "addr:postcode": "40139",
+                "addr:street": "Via Emilia Levante",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 7507278566,
             "lat": 44.4924243,
             "lon": 11.3257006,
@@ -593,6 +986,51 @@
                 "name": "Ambulatorio Veterinario Guidotti",
                 "phone": "+39 3491007581",
                 "website": "https://www.facebook.com/Ambulatorio-Veterinario-Guidotti-101227044772600"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7512067632,
+            "lat": 44.5885521,
+            "lon": 11.3672303,
+            "timestamp": "2020-05-12T18:46:06Z",
+            "version": 1,
+            "changeset": 85101684,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Argelato",
+                "addr:housenumber": "26",
+                "addr:postcode": "40050",
+                "addr:street": "Via Don Francesco Pasti",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7513054227,
+            "lat": 44.2977378,
+            "lon": 11.8864091,
+            "timestamp": "2023-11-30T07:04:45Z",
+            "version": 3,
+            "changeset": 144613416,
+            "user": "paulbrunner",
+            "uid": 15541433,
+            "tags": {
+                "addr:city": "Faenza",
+                "addr:housenumber": "28",
+                "addr:postcode": "48018",
+                "addr:street": "Via della Costituzione",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad",
+                "phone": "+39 0546 25808"
             }
         },
         {
@@ -621,6 +1059,25 @@
                 "name": "Centro Odontoiatrico Grimaldi",
                 "phone": "+39 0516494868",
                 "website": "https://www.centroodontoiatricogrimaldi.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9407485099,
+            "lat": 44.2964812,
+            "lon": 11.8610237,
+            "timestamp": "2022-01-10T12:56:22Z",
+            "version": 1,
+            "changeset": 115981134,
+            "user": "gabriele_sani",
+            "uid": 7078274,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         },
         {
@@ -1074,6 +1531,53 @@
                 "phone": "+39 34 8728 1656",
                 "ref:vatin": "03667231207",
                 "website": "https://www.mieleinformatica.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11303836956,
+            "lat": 44.5307104,
+            "lon": 11.3349132,
+            "timestamp": "2023-11-01T06:35:07Z",
+            "version": 1,
+            "changeset": 143456730,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad",
+                "source": "https://www.gdonews.it/2023/10/31/doppia-inaugurazione-conad-nel-parco-commerciale-navile-di-bologna/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11303837006,
+            "lat": 44.5307162,
+            "lon": 11.3354148,
+            "timestamp": "2023-11-01T06:41:28Z",
+            "version": 2,
+            "changeset": 143456972,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "7/37",
+                "addr:postcode": "40131",
+                "addr:street": "Via Cristoforo Colombo",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00, Su 09:00-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2023/10/31/doppia-inaugurazione-conad-nel-parco-commerciale-navile-di-bologna/",
+                "start_date": "2023-10-31"
             }
         },
         {

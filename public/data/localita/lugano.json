@@ -549,6 +549,27 @@
         },
         {
             "type": "node",
+            "id": 622569807,
+            "lat": 45.6718793,
+            "lon": 9.2318216,
+            "timestamp": "2020-08-01T14:15:24Z",
+            "version": 5,
+            "changeset": 88815636,
+            "user": "Alecs01",
+            "uid": 1476146,
+            "tags": {
+                "addr:city": "Carate Brianza",
+                "addr:country": "IT",
+                "addr:housenumber": "14",
+                "addr:postcode": "20841",
+                "addr:street": "Via Giuseppe Mascherpa",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 897660541,
             "lat": 46.008065,
             "lon": 8.941127,
@@ -615,6 +636,41 @@
         },
         {
             "type": "node",
+            "id": 1268299465,
+            "lat": 45.6092048,
+            "lon": 8.9632017,
+            "timestamp": "2021-09-30T10:57:34Z",
+            "version": 10,
+            "changeset": 111903546,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
+            "tags": {
+                "addr:city": "Rescaldina",
+                "addr:housenumber": "4",
+                "addr:postcode": "20027",
+                "addr:street": "Via Palmiro Togliatti",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "contact:facebook": "https://www.facebook.com/centrocommercialeauchanrescaldina",
+                "contact:phone": "+39 0331 475395",
+                "contact:website": "https://www.conad.it/ricerca-negozi/negozio.010139.html",
+                "level": "0;1",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-21:30; Su 09:00-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0331 475395",
+                "shop": "supermarket",
+                "start_date": "2020-11-12",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010139.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1371473059,
             "lat": 46.0050437,
             "lon": 8.9500678,
@@ -636,6 +692,29 @@
                 "payment:onchain": "no",
                 "phone": "+41 91 923 10 68",
                 "website": "https://www.bordognaweb.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1741726582,
+            "lat": 45.6370939,
+            "lon": 8.907677,
+            "timestamp": "2017-10-07T11:30:27Z",
+            "version": 3,
+            "changeset": 52704767,
+            "user": "Alecs01",
+            "uid": 1476146,
+            "tags": {
+                "addr:city": "Gorla Minore",
+                "addr:country": "IT",
+                "addr:housenumber": "58",
+                "addr:postcode": "21055",
+                "addr:street": "Via Ambrogio Colombo",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00",
+                "operator": "Conad",
+                "phone": "+39 0522 435507",
+                "shop": "supermarket"
             }
         },
         {
@@ -1081,6 +1160,30 @@
                 "payment:onchain": "yes",
                 "phone": "0209959241",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4254689701,
+            "lat": 45.6707486,
+            "lon": 8.9589439,
+            "timestamp": "2020-06-09T14:50:36Z",
+            "version": 3,
+            "changeset": 86414506,
+            "user": "Seba Damian",
+            "uid": 7448074,
+            "tags": {
+                "addr:city": "Mozzate",
+                "addr:postcode": "22076",
+                "addr:street": "Via Varese",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "level": "0",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1538,6 +1641,36 @@
         },
         {
             "type": "node",
+            "id": 5829078585,
+            "lat": 45.9180135,
+            "lon": 8.4960885,
+            "timestamp": "2021-03-18T15:23:44Z",
+            "version": 5,
+            "changeset": 101270319,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Baveno",
+                "addr:housenumber": "km 87",
+                "addr:postcode": "28831",
+                "addr:street": "Via Nazionale del Sempione",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0323 919854",
+                "shop": "supermarket",
+                "start_date": "2021-03-18",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.007917.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 5844243689,
             "lat": 46.0038913,
             "lon": 8.9517261,
@@ -1826,6 +1959,28 @@
         },
         {
             "type": "node",
+            "id": 8112177420,
+            "lat": 45.6088746,
+            "lon": 8.9635524,
+            "timestamp": "2020-11-12T16:13:11Z",
+            "version": 1,
+            "changeset": 94006942,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Rescaldina",
+                "addr:housenumber": "4",
+                "addr:postcode": "20027",
+                "addr:street": "Via Palmiro Togliatti",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 8180103617,
             "lat": 46.0058922,
             "lon": 8.9508012,
@@ -1945,6 +2100,32 @@
                 "payment:onchain": "no",
                 "phone": "+41 (0)91 921 17 16",
                 "website": "https://www.diloslugano.ch"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8532722219,
+            "lat": 45.9184084,
+            "lon": 8.4961044,
+            "timestamp": "2023-06-28T11:35:24Z",
+            "version": 2,
+            "changeset": 137875204,
+            "user": "mcliquid",
+            "uid": 1213571,
+            "tags": {
+                "addr:city": "Baveno",
+                "addr:housenumber": "km. 87",
+                "addr:postcode": "28831",
+                "addr:street": "Via Nazionale del Sempione",
+                "amenity": "pharmacy",
+                "brand": "Parafarmacia Conad",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "operator": "Conad",
+                "phone": "+39 0323 919854",
+                "website": "https://www.conad.it/servizi/parafarmacia.piemonte.html#lista"
             }
         },
         {
@@ -2126,6 +2307,24 @@
                 "payment:onchain": "no",
                 "shop": "clothes",
                 "survey:date": "2022-11-09"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9847686244,
+            "lat": 45.8774764,
+            "lon": 8.408459,
+            "timestamp": "2022-06-26T09:02:28Z",
+            "version": 1,
+            "changeset": 122860115,
+            "user": "Francoerbi41",
+            "uid": 4982687,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         },
         {
