@@ -7,7 +7,7 @@
     "idlocalita": "modena",
     "telegram_weburl": "https://web.telegram.org/a/#-1001694179887",
     "telegram_app": "https://t.me/SatoshiSpritzModena",
-    "telegram_members": 163.0,
+    "telegram_members": 162.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -152,6 +152,35 @@
                 "payment:onchain": "yes",
                 "phone": "+39 334 292 8972",
                 "ref:vatin": "IT02567540220"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1663470010,
+            "lat": 45.4483983,
+            "lon": 10.8791177,
+            "timestamp": "2022-03-02T19:35:28Z",
+            "version": 5,
+            "changeset": 118031469,
+            "user": "Patrick Bous",
+            "uid": 223763,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "11",
+                "addr:postcode": "37012",
+                "addr:street": "Localit\u00e0 Ferlina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 045 6715111",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009945.html"
             }
         },
         {
@@ -590,6 +619,25 @@
         },
         {
             "type": "node",
+            "id": 4167605289,
+            "lat": 45.293148,
+            "lon": 10.4769651,
+            "timestamp": "2016-05-07T15:05:00Z",
+            "version": 3,
+            "changeset": 39165713,
+            "user": "Alecs01",
+            "uid": 1476146,
+            "tags": {
+                "addr:city": "Castel Goffredo",
+                "addr:housenumber": "66",
+                "addr:street": "Via Guerzoni",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4526469787,
             "lat": 45.5572776,
             "lon": 11.5274867,
@@ -665,6 +713,36 @@
                 "name": "Studio Marchiori STP",
                 "office": "accountant",
                 "website": "https://www.studiomarchiori.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4553774993,
+            "lat": 45.4417537,
+            "lon": 10.9988003,
+            "timestamp": "2023-11-08T18:03:05Z",
+            "version": 4,
+            "changeset": 143792303,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:street": "Via Stella",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "description": "TuDay Conad, store senza casse a Verona. \u00c8 il primo supermercato con casse automatizzate e pagamenti digitali.",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 07:30-22:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:credit_cards": "yes",
+                "payment:smartphone": "yes",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2023/11/08/lai-rivoluziona-la-spesa-di-prossimita-a-verona-apre-il-primo-tuday-conad-prendivai/",
+                "start_date": "2023-11-08",
+                "website": "https://www.conad.it/ricerca-negozi/tuday-conad-via-stella-8-37131-verona--010521"
             }
         },
         {
@@ -856,6 +934,27 @@
                 "office": "advertising_agency",
                 "phone": "+39 0444962233",
                 "website": "https://leodari.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6091712990,
+            "lat": 45.8782009,
+            "lon": 11.0337639,
+            "timestamp": "2020-12-01T16:32:51Z",
+            "version": 2,
+            "changeset": 95105374,
+            "user": "scratera",
+            "uid": 76312,
+            "tags": {
+                "addr:housenumber": "50",
+                "addr:street": "Via Benacense",
+                "amenity": "cafe",
+                "door": "sliding",
+                "entrance": "yes",
+                "name": "Buonissimo",
+                "operator": "Conad",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1060,6 +1159,28 @@
                 "phone": "+39 389 622 1837",
                 "sport": "dance;fitness;pole_dance",
                 "website": "https://www.liferovereto.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486962077,
+            "lat": 45.4484776,
+            "lon": 10.8786033,
+            "timestamp": "2020-05-05T19:01:10Z",
+            "version": 1,
+            "changeset": 84714027,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "11",
+                "addr:postcode": "37012",
+                "addr:street": "Localit\u00e0 Ferlina",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
             }
         },
         {

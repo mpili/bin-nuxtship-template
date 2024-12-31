@@ -205,6 +205,29 @@
         },
         {
             "type": "node",
+            "id": 5089153674,
+            "lat": 46.062212,
+            "lon": 13.238483,
+            "timestamp": "2024-06-30T13:23:39Z",
+            "version": 5,
+            "changeset": 153369058,
+            "user": "Gabriele Dri",
+            "uid": 3821761,
+            "tags": {
+                "addr:city": "Udine",
+                "addr:housenumber": "37",
+                "addr:street": "Via Vittorio Veneto",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:30",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=7217"
+            }
+        },
+        {
+            "type": "node",
             "id": 5329671480,
             "lat": 45.6409686,
             "lon": 12.3422169,
@@ -320,6 +343,127 @@
                 "phone": "+390437552344",
                 "shop": "computer",
                 "website": "https://ramcomputers.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486775140,
+            "lat": 45.6769831,
+            "lon": 12.3374559,
+            "timestamp": "2020-05-05T18:12:38Z",
+            "version": 1,
+            "changeset": 84712215,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "San Biagio di Callalta",
+                "addr:housenumber": "76",
+                "addr:postcode": "31048",
+                "addr:street": "Via Postumia Ovest",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0422 794911",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.008747.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486778502,
+            "lat": 45.6771424,
+            "lon": 12.3373781,
+            "timestamp": "2020-05-05T18:07:20Z",
+            "version": 1,
+            "changeset": 84712027,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "San Biagio di Callalta",
+                "addr:housenumber": "76",
+                "addr:postcode": "31048",
+                "addr:street": "Via Postumia Ovest",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486842471,
+            "lat": 45.7909397,
+            "lon": 12.8163105,
+            "timestamp": "2023-10-16T15:39:57Z",
+            "version": 10,
+            "changeset": 142672213,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Spazio Conad",
+                "brand:wikidata": "Q118130063",
+                "brand:wikipedia": "it:Conad",
+                "name": "Spazio Conad",
+                "opening_hours": "Mo-Sa 08:30-20:30; Su 09:00-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0421 283711",
+                "shop": "supermarket",
+                "survey:date": "2023-10-16",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009947.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7486851688,
+            "lat": 45.790985,
+            "lon": 12.8157526,
+            "timestamp": "2024-01-12T16:02:31Z",
+            "version": 5,
+            "changeset": 146186918,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "pharmacy",
+                "brand": "Parafarmacia Conad",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad",
+                "survey:date": "2023-10-16",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7500992493,
+            "lat": 45.9725403,
+            "lon": 12.6144979,
+            "timestamp": "2020-05-09T14:12:26Z",
+            "version": 1,
+            "changeset": 84939424,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Porcia",
+                "addr:housenumber": "52",
+                "addr:postcode": "33080",
+                "addr:street": "Via Roveredo",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
             }
         },
         {
@@ -803,6 +947,22 @@
                 "phone": "+39 34 7382 8062",
                 "tourism": "apartment",
                 "website": "https://www.bibionegreen.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12351673748,
+            "lat": 45.9271528,
+            "lon": 12.8714802,
+            "timestamp": "2024-11-23T17:10:43Z",
+            "version": 2,
+            "changeset": 159508251,
+            "user": "user_8y978a",
+            "uid": 20552772,
+            "tags": {
+                "name": "Conad PetStore",
+                "operator": "Conad",
+                "shop": "pet"
             }
         }
     ],

@@ -7,7 +7,7 @@
     "idlocalita": "prato",
     "telegram_weburl": "https://web.telegram.org/a/#-1002376586155",
     "telegram_app": "https://t.me/satoshispritzprato",
-    "telegram_members": 28.0,
+    "telegram_members": 29.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -153,6 +153,35 @@
         },
         {
             "type": "node",
+            "id": 3764922637,
+            "lat": 43.7208534,
+            "lon": 10.9488863,
+            "timestamp": "2024-02-20T22:05:27Z",
+            "version": 3,
+            "changeset": 147709031,
+            "user": "PaperJack",
+            "uid": 12156681,
+            "tags": {
+                "addr:city": "Empoli",
+                "addr:housenumber": "12",
+                "addr:postcode": "50053",
+                "addr:street": "Via Tinto Da Battifolle",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:30-21:00, Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket",
+                "start_date": "2020-11-14",
+                "survey:date": "2024-02-20",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010155.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 3796135257,
             "lat": 43.7715247,
             "lon": 11.2599468,
@@ -211,6 +240,29 @@
         },
         {
             "type": "node",
+            "id": 4207953950,
+            "lat": 43.793687,
+            "lon": 11.1857952,
+            "timestamp": "2019-08-24T12:46:50Z",
+            "version": 2,
+            "changeset": 73695628,
+            "user": "trekker48",
+            "uid": 961387,
+            "tags": {
+                "addr:city": "Firenze",
+                "addr:housenumber": "209",
+                "addr:postcode": "50145",
+                "addr:street": "Via Pistoiese",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4778357929,
             "lat": 44.228753,
             "lon": 11.3447045,
@@ -239,6 +291,28 @@
         },
         {
             "type": "node",
+            "id": 7513351699,
+            "lat": 43.8987794,
+            "lon": 11.0701282,
+            "timestamp": "2020-05-13T06:20:26Z",
+            "version": 1,
+            "changeset": 85122544,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Prato",
+                "addr:housenumber": "3",
+                "addr:postcode": "59100",
+                "addr:street": "Via Anna Kuliscioff",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 9631522101,
             "lat": 43.8412423,
             "lon": 10.6167649,
@@ -261,6 +335,34 @@
                 "opening_hours": "Tu-Su 08:00-20:00",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119266824,
+            "lat": 43.9308473,
+            "lon": 10.9143641,
+            "timestamp": "2022-10-21T17:10:49Z",
+            "version": 1,
+            "changeset": 127894894,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Pistoia",
+                "addr:housenumber": "17",
+                "addr:postcode": "51100",
+                "addr:street": "Corso Antonio Gramsci",
+                "name": "TuDay Conad",
+                "not:brand:wikidata": "Q639075",
+                "opening_hours": "Mo-Sa 08:00-20:30, Su 8:30-13:00, 15:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0573 26706",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2022/10/20/la-nuova-insegna-tuday-conad-inaugura-a-pistoia/",
+                "start_date": "2022-10-20"
             }
         },
         {

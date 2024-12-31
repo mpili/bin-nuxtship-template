@@ -38,6 +38,31 @@
         },
         {
             "type": "node",
+            "id": 8839426101,
+            "lat": 43.3053864,
+            "lon": 11.3186985,
+            "timestamp": "2024-12-03T20:30:26Z",
+            "version": 5,
+            "changeset": 159895982,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "24",
+                "addr:postcode": "53100",
+                "addr:street": "Strada Massetana Romana",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0577 271600",
+                "shop": "electronics",
+                "website": "https://promozioni.trony.it/volantino/TRO019_A",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 10141459632,
             "lat": 43.2747497,
             "lon": 11.7494835,

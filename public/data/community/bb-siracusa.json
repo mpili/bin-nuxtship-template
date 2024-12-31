@@ -7,7 +7,7 @@
     "idlocalita": "siracusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002018694442",
     "telegram_app": "https://t.me/bitcoinbeersiracusa",
-    "telegram_members": 16.0,
+    "telegram_members": 8.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -53,6 +53,24 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0931 1840559",
                 "website": "https://www.italyadsl.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7826354073,
+            "lat": 37.1115886,
+            "lon": 15.2285323,
+            "timestamp": "2024-05-10T14:12:17Z",
+            "version": 12,
+            "changeset": 151148930,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "name": "Parafarmacia Conad",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "operator": "Conad",
+                "shop": "chemist",
+                "wheelchair": "yes"
             }
         },
         {

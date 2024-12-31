@@ -6,6 +6,63 @@
     "poi": [
         {
             "type": "node",
+            "id": 2063363742,
+            "lat": 40.7195952,
+            "lon": 8.5781659,
+            "timestamp": "2020-05-10T18:32:58Z",
+            "version": 5,
+            "changeset": 84982542,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "1",
+                "addr:postcode": "07100",
+                "addr:street": "Via Antonio Gramsci",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 09:00-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 079 274495",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.007879.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2278971102,
+            "lat": 40.7374111,
+            "lon": 8.5359587,
+            "timestamp": "2020-10-07T18:24:32Z",
+            "version": 7,
+            "changeset": 92127607,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:postcode": "07100",
+                "addr:street": "Via Porto Torres",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket",
+                "start_date": "2020-10-08",
+                "toilets": "yes",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010113.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 2422699726,
             "lat": 40.7155919,
             "lon": 8.5835674,
@@ -28,6 +85,71 @@
                 "phone": "+39 079 277282",
                 "tourism": "hotel",
                 "website": "http://www.hotelmarini.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7504123638,
+            "lat": 40.7194985,
+            "lon": 8.578288,
+            "timestamp": "2020-05-10T18:31:05Z",
+            "version": 1,
+            "changeset": 84982486,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "1",
+                "addr:postcode": "07100",
+                "addr:street": "Via Antonio Gramsci",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7504139186,
+            "lat": 40.7118021,
+            "lon": 8.5501329,
+            "timestamp": "2020-05-10T18:27:45Z",
+            "version": 1,
+            "changeset": 84982387,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:postcode": "07100",
+                "addr:street": "Via Budapest",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7985734277,
+            "lat": 40.737268,
+            "lon": 8.5357455,
+            "timestamp": "2020-10-07T18:25:58Z",
+            "version": 1,
+            "changeset": 92127656,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:postcode": "07100",
+                "addr:street": "Viale Porto Torres",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad",
+                "start_date": "2020-10-08"
             }
         },
         {

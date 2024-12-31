@@ -188,6 +188,9 @@
 	<LMarker :lat-lng="[43.3186614, 11.3305135]">
 		<LPopup><NuxtLink to="/c/ss-toscana-sud">Satoshi Spritz Toscana-Sud</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[40.39725, 17.92136]">
+		<LPopup><NuxtLink to="/c/salento-b">Salento Bitcoin</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[37.0703, 15.2889]">
 		<LPopup><NuxtLink to="/c/bb-siracusa">Bitcoin Beer Siracusa</NuxtLink></LPopup>
 	</LMarker>

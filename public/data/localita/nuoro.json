@@ -6,6 +6,27 @@
     "poi": [
         {
             "type": "node",
+            "id": 7503750848,
+            "lat": 40.324457,
+            "lon": 9.3136797,
+            "timestamp": "2020-05-10T15:49:38Z",
+            "version": 1,
+            "changeset": 84976671,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Nuoro",
+                "addr:postcode": "08100",
+                "addr:street": "Via Biscollai",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 10262476930,
             "lat": 40.7226408,
             "lon": 9.1064746,

@@ -6,6 +6,55 @@
     "poi": [
         {
             "type": "node",
+            "id": 5826253254,
+            "lat": 41.6443957,
+            "lon": 15.9387097,
+            "timestamp": "2023-06-21T12:59:15Z",
+            "version": 5,
+            "changeset": 137604625,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Monte Sant'Angelo",
+                "addr:postcode": "71037",
+                "addr:street": "Contrada Pace",
+                "brand": "Spazio Conad",
+                "brand:wikidata": "Q118130063",
+                "brand:wikipedia": "it:Conad",
+                "name": "Spazio Conad",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0884 602411",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.006891.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7504240616,
+            "lat": 41.6444552,
+            "lon": 15.9383644,
+            "timestamp": "2022-08-19T17:16:02Z",
+            "version": 2,
+            "changeset": 125118271,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Monte Sant'Angelo",
+                "addr:postcode": "71037",
+                "addr:street": "Contrada Pace",
+                "amenity": "pharmacy",
+                "dispensing": "no",
+                "healthcare": "pharmacy",
+                "name": "Parafarmacia Conad",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
             "id": 10997159521,
             "lat": 41.447893,
             "lon": 15.5431152,

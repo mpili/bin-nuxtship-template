@@ -11,6 +11,36 @@
     "poi": [
         {
             "type": "node",
+            "id": 2815535801,
+            "lat": 43.2223741,
+            "lon": 13.3343341,
+            "timestamp": "2020-11-01T08:33:19Z",
+            "version": 2,
+            "changeset": 93361787,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "tags": {
+                "addr:city": "Tolentino",
+                "addr:country": "IT",
+                "addr:housename": "Centro commerciale \"La Rancia\"",
+                "addr:postcode": "62029",
+                "addr:street": "Contrada Cisterna",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0733 9571",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010156.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 6070906250,
             "lat": 43.5206137,
             "lon": 13.55757,
