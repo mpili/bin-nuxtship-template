@@ -6,6 +6,32 @@
     "poi": [
         {
             "type": "node",
+            "id": 249640918,
+            "lat": 45.4474223,
+            "lon": 10.8772871,
+            "timestamp": "2024-12-31T17:18:14Z",
+            "version": 13,
+            "changeset": 160842111,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "43",
+                "addr:postcode": "37012",
+                "addr:street": "Via del Lavoro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2024-11-24",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-19:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 045 6767026",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1452373305,
             "lat": 45.4394324,
             "lon": 11.0041704,
@@ -85,6 +111,31 @@
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "ref:mise": "8064",
                 "website": "https://www.facebook.com/distributorepasquato/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1856864115,
+            "lat": 45.4407586,
+            "lon": 10.9992299,
+            "timestamp": "2024-12-31T18:03:19Z",
+            "version": 12,
+            "changeset": 160843650,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "34",
+                "addr:postcode": "37121",
+                "addr:street": "Via Cappello",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "check_date": "2024-09-09",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-19:30, Su 10:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {

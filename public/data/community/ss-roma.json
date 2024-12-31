@@ -278,6 +278,28 @@
         },
         {
             "type": "node",
+            "id": 1395881964,
+            "lat": 41.8184987,
+            "lon": 12.5860001,
+            "timestamp": "2024-12-31T11:12:39Z",
+            "version": 6,
+            "changeset": 160827809,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ciampino",
+                "addr:housenumber": "88",
+                "addr:postcode": "00043",
+                "addr:street": "Viale John Fitzgerald Kennedy",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1514398062,
             "lat": 41.9973036,
             "lon": 12.3904351,
@@ -327,12 +349,16 @@
             "id": 1888686327,
             "lat": 42.0992539,
             "lon": 12.1547955,
-            "timestamp": "2023-09-09T12:04:28Z",
-            "version": 9,
-            "changeset": 141021289,
-            "user": "Mateusz Konieczny - bot account",
-            "uid": 3199858,
+            "timestamp": "2024-12-30T22:55:59Z",
+            "version": 10,
+            "changeset": 160813357,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
+                "addr:city": "Bracciano",
+                "addr:housenumber": "2",
+                "addr:postcode": "00062",
+                "addr:street": "Via Sandro Pertini",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
@@ -428,6 +454,30 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 06 9320944"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2652250107,
+            "lat": 41.8120469,
+            "lon": 12.6804759,
+            "timestamp": "2024-12-31T18:22:04Z",
+            "version": 4,
+            "changeset": 160844161,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Frascati",
+                "addr:housenumber": "5",
+                "addr:postcode": "00044",
+                "addr:street": "Via Sciadonna",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 06 942 5695",
+                "shop": "electronics"
             }
         },
         {
@@ -626,6 +676,27 @@
                 "phone": "+39 06 241 5078",
                 "source": "local knowledge",
                 "website": "https://www.adamsauna.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4386198214,
+            "lat": 41.910753,
+            "lon": 12.3999199,
+            "timestamp": "2024-12-31T16:58:53Z",
+            "version": 3,
+            "changeset": 160841471,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "6",
+                "addr:postcode": "00168",
+                "addr:street": "Via Beverino",
+                "name": "Unieuro Roma Boccea",
+                "name:it": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1074,12 +1145,16 @@
             "id": 7252817427,
             "lat": 41.958812,
             "lon": 12.5250068,
-            "timestamp": "2020-02-29T13:35:54Z",
-            "version": 1,
-            "changeset": 81620356,
-            "user": "Alecs01",
-            "uid": 1476146,
+            "timestamp": "2024-12-31T08:40:13Z",
+            "version": 2,
+            "changeset": 160823182,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "55",
+                "addr:postcode": "00139",
+                "addr:street": "Piazza Ottaviano Vimercati",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
@@ -1288,12 +1363,16 @@
             "id": 7500479474,
             "lat": 41.8530518,
             "lon": 12.4163444,
-            "timestamp": "2020-06-27T09:16:48Z",
-            "version": 2,
-            "changeset": 87221515,
-            "user": "Antanicus",
-            "uid": 8799619,
+            "timestamp": "2024-12-31T08:44:42Z",
+            "version": 3,
+            "changeset": 160823285,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "92",
+                "addr:postcode": "00148",
+                "addr:street": "Via dei Sampieri",
                 "amenity": "pharmacy",
                 "dispensing": "no",
                 "healthcare": "pharmacy",
@@ -1347,6 +1426,34 @@
         },
         {
             "type": "node",
+            "id": 7644389813,
+            "lat": 41.8781512,
+            "lon": 12.4657886,
+            "timestamp": "2024-12-31T11:13:04Z",
+            "version": 3,
+            "changeset": 160827822,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "219",
+                "addr:postcode": "00153",
+                "addr:street": "Viale di Trastevere",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-14:00, 16:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39065817537",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Roma---Viale-Trastevere"
+            }
+        },
+        {
+            "type": "node",
             "id": 7678460489,
             "lat": 41.8953935,
             "lon": 12.4727308,
@@ -1365,6 +1472,28 @@
                 "name": "Tabacchi Riv.132",
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "shop": "tobacco"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7842520760,
+            "lat": 41.8340127,
+            "lon": 12.5954077,
+            "timestamp": "2024-12-31T11:12:16Z",
+            "version": 3,
+            "changeset": 160827795,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "11",
+                "addr:postcode": "00173",
+                "addr:street": "Via Vittorio Metz",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro City",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1388,6 +1517,32 @@
                 "name": "Parafarmacia Conad",
                 "opening_hours": "Mo-Su 08:00-21:00",
                 "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8095050269,
+            "lat": 41.8669887,
+            "lon": 12.4687558,
+            "timestamp": "2024-05-12T16:11:56Z",
+            "version": 3,
+            "changeset": 151232566,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housenumber": "133;",
+                "addr:postcode": "00146",
+                "addr:street": "Viale Guglielmo Marconi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 06 5575313",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics"
             }
         },
         {

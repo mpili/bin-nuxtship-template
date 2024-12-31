@@ -7,7 +7,7 @@
     "idlocalita": "vicenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1002218397394",
     "telegram_app": "https://t.me/Bitcoin_Veneto",
-    "telegram_members": 781.0,
+    "telegram_members": 782.0,
     "poi": [
         {
             "type": "node",
@@ -91,6 +91,28 @@
         },
         {
             "type": "node",
+            "id": 1403161164,
+            "lat": 45.8241234,
+            "lon": 11.8825578,
+            "timestamp": "2024-12-31T17:44:11Z",
+            "version": 7,
+            "changeset": 160842983,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Castelcucco",
+                "addr:housenumber": "52",
+                "addr:postcode": "31030",
+                "addr:street": "Via Guglielmo Marconi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1592597102,
             "lat": 45.729348,
             "lon": 11.7598676,
@@ -115,6 +137,53 @@
                 "office": "architect",
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748853004,
+            "lat": 45.8788895,
+            "lon": 12.3073428,
+            "timestamp": "2024-12-31T17:49:16Z",
+            "version": 5,
+            "changeset": 160843146,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Conegliano",
+                "addr:housenumber": "207",
+                "addr:postcode": "31015",
+                "addr:street": "Viale Italia",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2023-07-14",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1801853005,
+            "lat": 45.8693292,
+            "lon": 11.9690372,
+            "timestamp": "2024-12-31T17:50:37Z",
+            "version": 5,
+            "changeset": 160843188,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pederobba",
+                "addr:housenumber": "45",
+                "addr:postcode": "31040",
+                "addr:street": "Via Feltrina",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -193,6 +262,56 @@
         },
         {
             "type": "node",
+            "id": 2110552737,
+            "lat": 45.6907277,
+            "lon": 11.4824478,
+            "timestamp": "2024-12-31T18:11:08Z",
+            "version": 3,
+            "changeset": 160843872,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Thiene",
+                "addr:housenumber": "18",
+                "addr:postcode": "36016",
+                "addr:street": "Via Gombe",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-12:30,15:00-19:30; Su 15:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0445 367611",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2264820786,
+            "lat": 45.7314859,
+            "lon": 11.7613135,
+            "timestamp": "2024-12-31T18:15:08Z",
+            "version": 4,
+            "changeset": 160843978,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ros\u00e0",
+                "addr:housenumber": "132",
+                "addr:postcode": "36027",
+                "addr:street": "Via Capitano Alessio",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "contact:fax": "+39 0424 582329",
+                "contact:phone": "+39 0424 582254",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "ref:vatin": "IT03327030965",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 2507632569,
             "lat": 45.7582135,
             "lon": 11.4185566,
@@ -223,6 +342,38 @@
                 "phone": "0445 651181",
                 "survey:date": "2024-11-22",
                 "website": "https://www.trattoria-allangelo.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2522320564,
+            "lat": 45.6660592,
+            "lon": 11.8193492,
+            "timestamp": "2024-12-31T18:21:06Z",
+            "version": 5,
+            "changeset": 160844136,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Galliera Veneta",
+                "addr:country": "IT",
+                "addr:housenumber": "18c",
+                "addr:postcode": "35015",
+                "addr:street": "Via degli Alberi",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 15:00-19:30, Tu-Sa 09:00-12:30; Su 15:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "payment:visa_electron": "yes",
+                "phone": "+39 0499471243",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -359,6 +510,26 @@
                 "currency:XBT:operator": "bitcoinpos.it",
                 "name": "Hostaria Vecio Biavarol",
                 "payment:lightning": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3903482953,
+            "lat": 45.5177639,
+            "lon": 12.2304179,
+            "timestamp": "2024-12-31T11:20:43Z",
+            "version": 3,
+            "changeset": 160828082,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mestre",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

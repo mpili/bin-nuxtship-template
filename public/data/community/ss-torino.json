@@ -7,9 +7,31 @@
     "idlocalita": "torino",
     "telegram_weburl": "https://web.telegram.org/a/#-1001385365071",
     "telegram_app": "https://t.me/SatoshiSpritzTorino",
-    "telegram_members": 657.0,
+    "telegram_members": 655.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 1227883482,
+            "lat": 45.1138448,
+            "lon": 7.2424689,
+            "timestamp": "2024-12-31T17:40:46Z",
+            "version": 5,
+            "changeset": 160842886,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:postcode": "10050",
+                "addr:street": "Via Nazionale",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "source": "Survey"
+            }
+        },
         {
             "type": "node",
             "id": 1750856267,
@@ -72,6 +94,29 @@
         },
         {
             "type": "node",
+            "id": 2001861324,
+            "lat": 45.0116207,
+            "lon": 7.5069092,
+            "timestamp": "2024-12-31T18:07:33Z",
+            "version": 4,
+            "changeset": 160843772,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rivalta di Torino",
+                "addr:housenumber": "63",
+                "addr:postcode": "10040",
+                "addr:street": "Via Giaveno",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 2027837990,
             "lat": 44.8245882,
             "lon": 7.3032244,
@@ -99,6 +144,32 @@
                 "payment:onchain": "no",
                 "phone": "+39 34 8296 8337",
                 "website:menu": "https://www.flipbookpdf.net/web/site/be100d798e53688ed2b69df064a71c9ecafcb60b202404.pdf.html#page/2"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2373092590,
+            "lat": 44.9766324,
+            "lon": 7.7081151,
+            "timestamp": "2024-12-31T18:16:17Z",
+            "version": 9,
+            "changeset": 160844010,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Moncalieri",
+                "addr:housenumber": "1",
+                "addr:postcode": "10024",
+                "addr:street": "Via Fortunato Postiglione",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "level": "0",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 011 6813771",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/"
             }
         },
         {
@@ -1710,17 +1781,18 @@
             "id": 11865546189,
             "lat": 45.1433908,
             "lon": 7.7060549,
-            "timestamp": "2024-04-29T07:24:08Z",
-            "version": 1,
-            "changeset": 150648387,
-            "user": "canfe",
-            "uid": 6645382,
+            "timestamp": "2024-12-31T09:46:53Z",
+            "version": 2,
+            "changeset": 160825010,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
                 "addr:city": "Mappano",
                 "addr:housenumber": "49",
                 "addr:postcode": "10079",
                 "addr:street": "Via Rivarolo",
                 "layer": "1",
+                "name": "Conad",
                 "operator": "Conad",
                 "shop": "mall"
             }

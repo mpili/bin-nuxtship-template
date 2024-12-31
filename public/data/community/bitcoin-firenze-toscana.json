@@ -41,6 +41,53 @@
         },
         {
             "type": "node",
+            "id": 625386035,
+            "lat": 43.8596037,
+            "lon": 11.1058985,
+            "timestamp": "2024-12-31T17:20:33Z",
+            "version": 6,
+            "changeset": 160842192,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Prato",
+                "addr:housenumber": "195",
+                "addr:postcode": "59100",
+                "addr:street": "Via Enrico Berlinguer",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 625386070,
+            "lat": 43.8914021,
+            "lon": 11.1009353,
+            "timestamp": "2024-12-31T17:35:23Z",
+            "version": 7,
+            "changeset": 160842691,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Prato",
+                "addr:housenumber": "14",
+                "addr:postcode": "59100",
+                "addr:street": "Via Ferdinando Targetti",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0574 691842",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Prato---via-Targetti"
+            }
+        },
+        {
+            "type": "node",
             "id": 2575758955,
             "lat": 43.7910313,
             "lon": 10.709964,

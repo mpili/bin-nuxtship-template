@@ -143,12 +143,16 @@
             "id": 432821700,
             "lat": 45.4441346,
             "lon": 9.2224387,
-            "timestamp": "2020-01-09T21:07:26Z",
-            "version": 3,
-            "changeset": 79392943,
-            "user": "Guidus",
-            "uid": 417672,
+            "timestamp": "2024-12-30T22:38:00Z",
+            "version": 4,
+            "changeset": 160812930,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "7",
+                "addr:postcode": "20139",
+                "addr:street": "Piazzale Bologna",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
@@ -297,6 +301,31 @@
         },
         {
             "type": "node",
+            "id": 1832528976,
+            "lat": 45.4661901,
+            "lon": 9.1974504,
+            "timestamp": "2024-12-31T11:18:30Z",
+            "version": 9,
+            "changeset": 160828008,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:street": "Piazza San Babila",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "level": "-1",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 02 76007153",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1837526866,
             "lat": 45.4865374,
             "lon": 9.2161844,
@@ -350,6 +379,100 @@
                 "office": "accountant",
                 "phone": "+39 02 9475 8880",
                 "website": "https://studiosciandra.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1912502381,
+            "lat": 45.6009555,
+            "lon": 8.8934155,
+            "timestamp": "2022-06-28T22:23:17Z",
+            "version": 5,
+            "changeset": 122976670,
+            "user": "mssfpp",
+            "uid": 10076938,
+            "tags": {
+                "addr:city": "Legnano",
+                "addr:housenumber": "271",
+                "addr:postcode": "20025",
+                "addr:street": "Viale Sabotino",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "contact:phone": "+39 0331 597778",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Legnano",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2204351633,
+            "lat": 45.4348547,
+            "lon": 9.0931866,
+            "timestamp": "2024-12-31T18:12:25Z",
+            "version": 4,
+            "changeset": 160843906,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Corsico",
+                "addr:housenumber": "48",
+                "addr:postcode": "20094",
+                "addr:street": "Viale Italia",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2375853564,
+            "lat": 45.6004997,
+            "lon": 8.9488441,
+            "timestamp": "2024-12-31T18:16:49Z",
+            "version": 4,
+            "changeset": 160844021,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cerro Maggiore",
+                "addr:housenumber": "50",
+                "addr:postcode": "20023",
+                "addr:street": "Via Filippo Turati",
+                "branch": "Cerro Maggiore",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "contact:phone": "+39 0331 422535",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Cerro-Maggiore",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2535463886,
+            "lat": 45.4942203,
+            "lon": 9.1859612,
+            "timestamp": "2024-12-31T11:16:10Z",
+            "version": 5,
+            "changeset": 160827927,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:street": "Viale Stelvio",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "appliance"
             }
         },
         {
@@ -463,6 +586,39 @@
         },
         {
             "type": "node",
+            "id": 2822820174,
+            "lat": 45.3188496,
+            "lon": 8.3939434,
+            "timestamp": "2024-12-31T18:24:13Z",
+            "version": 13,
+            "changeset": 160844227,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "air_conditioning": "yes",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2024-06-26",
+                "contact:city": "Vercelli",
+                "contact:housenumber": "13",
+                "contact:postcode": "13100",
+                "contact:street": "Tangenziale Sud",
+                "level": "0",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Th 08:30-20:30; Fr-Sa 08:30-21:00; Su 09:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "phone": "+39 0161 294692",
+                "shop": "electronics",
+                "start_date": "2019-12-16",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Vercelli---CC-Carrefour",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2991405599,
             "lat": 45.4643444,
             "lon": 9.1871859,
@@ -532,6 +688,28 @@
                 "name": "Ortopedia Pozzato",
                 "shop": "medical_supply",
                 "website": "https://ortopediapozzato.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3326951696,
+            "lat": 45.5223513,
+            "lon": 9.2164492,
+            "timestamp": "2024-12-31T11:20:14Z",
+            "version": 3,
+            "changeset": 160828064,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:postcode": "20126",
+                "addr:street": "Via Chiese",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1030,6 +1208,30 @@
         },
         {
             "type": "node",
+            "id": 6010145467,
+            "lat": 45.4895393,
+            "lon": 9.0637831,
+            "timestamp": "2024-12-31T11:18:56Z",
+            "version": 5,
+            "changeset": 160828015,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Settimo Milanese",
+                "addr:housenumber": "115",
+                "addr:postcode": "20019",
+                "addr:street": "Via Antonio Gramsci",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "level": "1",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6170203902,
             "lat": 45.5679624,
             "lon": 8.0780618,
@@ -1158,6 +1360,29 @@
                 "name": "Falegnameria Artigianale Wood",
                 "survey:date": "2022-11-03",
                 "website": "https://www.woodmilano.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6416390291,
+            "lat": 45.5143447,
+            "lon": 9.2438713,
+            "timestamp": "2024-12-31T11:17:28Z",
+            "version": 4,
+            "changeset": 160827966,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:postcode": "20128",
+                "addr:street": "Via Adriano",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 02 2564261",
+                "shop": "electronics"
             }
         },
         {
@@ -1350,6 +1575,30 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "+39 015 9842343"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7037155015,
+            "lat": 45.4791426,
+            "lon": 9.1730953,
+            "timestamp": "2024-12-31T11:17:57Z",
+            "version": 3,
+            "changeset": 160827993,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "55",
+                "addr:postcode": "20154",
+                "addr:street": "Via Luigi Canonica",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2023-06-24",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

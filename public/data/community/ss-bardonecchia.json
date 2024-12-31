@@ -12,6 +12,28 @@
     "poi": [
         {
             "type": "node",
+            "id": 1227883482,
+            "lat": 45.1138448,
+            "lon": 7.2424689,
+            "timestamp": "2024-12-31T17:40:46Z",
+            "version": 5,
+            "changeset": 160842886,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:postcode": "10050",
+                "addr:street": "Via Nazionale",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "source": "Survey"
+            }
+        },
+        {
+            "type": "node",
             "id": 10112074739,
             "lat": 45.453093,
             "lon": 6.6927757,

@@ -6,6 +6,32 @@
     "poi": [
         {
             "type": "node",
+            "id": 249640918,
+            "lat": 45.4474223,
+            "lon": 10.8772871,
+            "timestamp": "2024-12-31T17:18:14Z",
+            "version": 13,
+            "changeset": 160842111,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "43",
+                "addr:postcode": "37012",
+                "addr:street": "Via del Lavoro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2024-11-24",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-19:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 045 6767026",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 417856704,
             "lat": 45.8751426,
             "lon": 11.0335673,
@@ -141,6 +167,80 @@
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "ref:mise": "8064",
                 "website": "https://www.facebook.com/distributorepasquato/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1856864115,
+            "lat": 45.4407586,
+            "lon": 10.9992299,
+            "timestamp": "2024-12-31T18:03:19Z",
+            "version": 12,
+            "changeset": 160843650,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "34",
+                "addr:postcode": "37121",
+                "addr:street": "Via Cappello",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "check_date": "2024-09-09",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-19:30, Su 10:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1938540695,
+            "lat": 45.2275755,
+            "lon": 11.5234776,
+            "timestamp": "2024-12-31T18:05:18Z",
+            "version": 6,
+            "changeset": 160843704,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Borgo Veneto",
+                "addr:country": "IT",
+                "addr:housename": "Centro Commerciale Megliadino",
+                "addr:postcode": "35040",
+                "addr:street": "Via Vallesella",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2110552737,
+            "lat": 45.6907277,
+            "lon": 11.4824478,
+            "timestamp": "2024-12-31T18:11:08Z",
+            "version": 3,
+            "changeset": 160843872,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Thiene",
+                "addr:housenumber": "18",
+                "addr:postcode": "36016",
+                "addr:street": "Via Gombe",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-12:30,15:00-19:30; Su 15:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0445 367611",
+                "shop": "electronics"
             }
         },
         {

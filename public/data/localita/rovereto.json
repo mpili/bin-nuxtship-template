@@ -583,6 +583,30 @@
         },
         {
             "type": "node",
+            "id": 2110552737,
+            "lat": 45.6907277,
+            "lon": 11.4824478,
+            "timestamp": "2024-12-31T18:11:08Z",
+            "version": 3,
+            "changeset": 160843872,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Thiene",
+                "addr:housenumber": "18",
+                "addr:postcode": "36016",
+                "addr:street": "Via Gombe",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-12:30,15:00-19:30; Su 15:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0445 367611",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 2150998976,
             "lat": 45.8754508,
             "lon": 11.0332189,

@@ -6,6 +6,34 @@
     "poi": [
         {
             "type": "node",
+            "id": 893975167,
+            "lat": 43.5522916,
+            "lon": 13.512835,
+            "timestamp": "2024-12-31T17:38:30Z",
+            "version": 7,
+            "changeset": 160842811,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "7",
+                "addr:postcode": "60131",
+                "addr:street": "Via Franco Scataglini",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2024-11-22",
+                "check_date:opening_hours": "2024-11-22",
+                "name": "Unieuro",
+                "old_name": "Marco Polo Expert",
+                "opening_hours": "Mo-Su 09:30-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2815535801,
             "lat": 43.2223741,
             "lon": 13.3343341,

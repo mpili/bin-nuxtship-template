@@ -218,6 +218,31 @@
         },
         {
             "type": "node",
+            "id": 1938540695,
+            "lat": 45.2275755,
+            "lon": 11.5234776,
+            "timestamp": "2024-12-31T18:05:18Z",
+            "version": 6,
+            "changeset": 160843704,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Borgo Veneto",
+                "addr:country": "IT",
+                "addr:housename": "Centro Commerciale Megliadino",
+                "addr:postcode": "35040",
+                "addr:street": "Via Vallesella",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2800768123,
             "lat": 45.371839,
             "lon": 11.7913317,
