@@ -12,7 +12,7 @@ export default {
     <div class="card bg-base-100 w-auto shadow-xl">
       <div class="card-body">
         <p class="card-title">Voucher bitcoin</p>
-        <p>Qui puoi pagare con voucher comprandoli con Bitcoin</p>
+        <p>Compra con Bitcoin i voucher da usare qui per i tuoi acquisti</p>
         <div class="card-actions">
           <span v-for="item of dbdata.items" :key="item.id">
             <span v-if="item">

@@ -9,12 +9,16 @@
             "id": 453371930,
             "lat": 44.5953858,
             "lon": 10.6944253,
-            "timestamp": "2011-10-26T08:58:31Z",
-            "version": 3,
-            "changeset": 9657094,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
+            "timestamp": "2024-12-30T22:51:31Z",
+            "version": 4,
+            "changeset": 160813247,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
+                "addr:city": "Scandiano",
+                "addr:housenumber": "35-D",
+                "addr:postcode": "42019",
+                "addr:street": "Via Bonaventura Corti",
                 "name": "Conad Primavera",
                 "operator": "Conad",
                 "shop": "supermarket",
@@ -42,6 +46,29 @@
                 "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2258253852,
+            "lat": 44.7761079,
+            "lon": 10.3439896,
+            "timestamp": "2024-12-31T18:13:47Z",
+            "version": 6,
+            "changeset": 160843944,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:housenumber": "SNC",
+                "addr:postcode": "43123",
+                "addr:street": "Strada Traversetolo",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "website": "http://www.marcopoloshop.it/mps/negozi/Marco-Polo-Parma---Eurosia"
             }
         },
         {

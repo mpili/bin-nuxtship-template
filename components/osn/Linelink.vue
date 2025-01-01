@@ -20,6 +20,7 @@ defineProps(["poi"]);
       <div class="text-gray-400 pr-2">
         <OsnCitta :tags="poi?.tags" />
       </div>
+      <!-- <div>{{poi}}</div> -->
       <!-- <div class="text-gray-400">
         <OsnTipovenue :tags="poi?.tags" />
       </div> -->

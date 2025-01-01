@@ -7,7 +7,7 @@
     "idlocalita": "lugano",
     "telegram_weburl": "https://web.telegram.org/a/#-1001928361933",
     "telegram_app": "https://t.me/SatoshiSpritzLugano",
-    "telegram_members": 798.0,
+    "telegram_members": 802.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -725,6 +725,35 @@
         },
         {
             "type": "node",
+            "id": 1912502381,
+            "lat": 45.6009555,
+            "lon": 8.8934155,
+            "timestamp": "2022-06-28T22:23:17Z",
+            "version": 5,
+            "changeset": 122976670,
+            "user": "mssfpp",
+            "uid": 10076938,
+            "tags": {
+                "addr:city": "Legnano",
+                "addr:housenumber": "271",
+                "addr:postcode": "20025",
+                "addr:street": "Viale Sabotino",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "contact:phone": "+39 0331 597778",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Legnano",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2241821236,
             "lat": 45.9572219,
             "lon": 8.9355435,
@@ -770,6 +799,33 @@
                 "phone": "+41 91 9701303",
                 "takeaway": "yes",
                 "website": "https://spaghettigastrogroup.com/home/pane-e-zucchero"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2375853564,
+            "lat": 45.6004997,
+            "lon": 8.9488441,
+            "timestamp": "2024-12-31T18:16:49Z",
+            "version": 4,
+            "changeset": 160844021,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cerro Maggiore",
+                "addr:housenumber": "50",
+                "addr:postcode": "20023",
+                "addr:street": "Via Filippo Turati",
+                "branch": "Cerro Maggiore",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "contact:phone": "+39 0331 422535",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Cerro-Maggiore",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

@@ -11,6 +11,27 @@
     "poi": [
         {
             "type": "node",
+            "id": 966930236,
+            "lat": 40.1733506,
+            "lon": 18.0346497,
+            "timestamp": "2024-12-31T17:39:31Z",
+            "version": 3,
+            "changeset": 160842849,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Nard\u00f2",
+                "addr:housenumber": "33",
+                "addr:postcode": "73048",
+                "addr:street": "Via John Fitzgerald Kennedy",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4392833125,
             "lat": 40.3581997,
             "lon": 18.1793325,
@@ -67,12 +88,16 @@
             "id": 5660407521,
             "lat": 40.2950741,
             "lon": 17.8548774,
-            "timestamp": "2018-06-03T08:16:17Z",
-            "version": 1,
-            "changeset": 59501712,
-            "user": "EdAllen",
-            "uid": 559935,
+            "timestamp": "2024-12-30T23:05:53Z",
+            "version": 2,
+            "changeset": 160813566,
+            "user": "mpbin",
+            "uid": 21850090,
             "tags": {
+                "addr:city": "Porto Cesareo",
+                "addr:housenumber": "SNC",
+                "addr:postcode": "73010",
+                "addr:street": "Via Giacomo Zanella",
                 "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"
