@@ -207,6 +207,51 @@
         },
         {
             "type": "node",
+            "id": 6123203215,
+            "lat": 43.099567,
+            "lon": 12.321996,
+            "timestamp": "2025-01-01T18:47:13Z",
+            "version": 5,
+            "changeset": 160880609,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Perugia",
+                "addr:housenumber": "22",
+                "addr:postcode": "06132",
+                "addr:street": "Via Trattati di Roma",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6354555590,
+            "lat": 43.4693381,
+            "lon": 12.2282943,
+            "timestamp": "2025-01-02T21:50:28Z",
+            "version": 5,
+            "changeset": 160927552,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Citt\u00e0 di Castello",
+                "addr:housenumber": "4a",
+                "addr:postcode": "06012",
+                "addr:street": "Via Rodolfo Morandi",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 7321491678,
             "lat": 43.3370034,
             "lon": 12.5717793,

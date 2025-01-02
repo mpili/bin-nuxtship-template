@@ -746,6 +746,27 @@
         },
         {
             "type": "node",
+            "id": 4599904397,
+            "lat": 41.7958486,
+            "lon": 12.2505625,
+            "timestamp": "2025-01-01T18:18:22Z",
+            "version": 5,
+            "changeset": 160879607,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "name:it": "Unieuro",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4791345219,
             "lat": 41.9616337,
             "lon": 12.4096632,
@@ -767,6 +788,26 @@
                 "phone": "+39 06 30810201",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5039738085,
+            "lat": 42.2885572,
+            "lon": 12.2131049,
+            "timestamp": "2025-01-01T18:29:45Z",
+            "version": 3,
+            "changeset": 160879976,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ronciglione",
+                "addr:postcode": "01037",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1045,6 +1086,27 @@
         },
         {
             "type": "node",
+            "id": 6557099086,
+            "lat": 42.0635561,
+            "lon": 12.5912875,
+            "timestamp": "2025-01-01T19:42:54Z",
+            "version": 3,
+            "changeset": 160882888,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:housenumber": "169",
+                "addr:postcode": "00015",
+                "addr:street": "Via Salaria",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6783688068,
             "lat": 41.8079692,
             "lon": 12.6812431,
@@ -1086,6 +1148,29 @@
                 "phone": "+39 06 3975 4025",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.002781.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6933158941,
+            "lat": 41.8072726,
+            "lon": 13.052651,
+            "timestamp": "2025-01-01T19:54:14Z",
+            "version": 3,
+            "changeset": 160883273,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Paliano",
+                "addr:housenumber": "6/B",
+                "addr:postcode": "03018",
+                "addr:street": "Viale San Francesco d'Assisi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "building": "yes",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1603,6 +1688,31 @@
         },
         {
             "type": "node",
+            "id": 8836311017,
+            "lat": 41.7426254,
+            "lon": 13.0031612,
+            "timestamp": "2025-01-01T20:05:05Z",
+            "version": 7,
+            "changeset": 160883578,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Colleferro",
+                "addr:housenumber": "km 49",
+                "addr:postcode": "00034",
+                "addr:street": "Via Casilina",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "email": "dircolleferro@unieuro.com",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 06 9770326",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9160291963,
             "lat": 41.8657088,
             "lon": 12.4607373,
@@ -1650,14 +1760,16 @@
             "id": 9160353990,
             "lat": 41.8757131,
             "lon": 12.4428251,
-            "timestamp": "2024-12-30T22:19:06Z",
-            "version": 2,
-            "changeset": 160812427,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-01T20:03:37Z",
+            "version": 3,
+            "changeset": 160883536,
+            "user": "mau59",
+            "uid": 257767,
             "tags": {
                 "addr:housenumber": "49/47",
                 "addr:street": "Viale dei Colli Portuensi",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "operator": "CONAD Soc. Coop.",
                 "phone": "+39 06 5344429",
@@ -1775,6 +1887,29 @@
                 "phone": "+3965818284",
                 "reservation": "yes",
                 "website": "https://www.polpetta.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720628244,
+            "lat": 41.797266,
+            "lon": 12.2987625,
+            "timestamp": "2025-01-01T20:42:27Z",
+            "version": 4,
+            "changeset": 160884699,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fiumicino",
+                "addr:housenumber": "31/65",
+                "addr:postcode": "00054",
+                "addr:street": "Viale Donato Bramante",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2180,6 +2315,28 @@
                 "name": "Acqua Fitness Marima",
                 "payment:cryptocurrencies": "yes",
                 "phone": "+39 351 9377723"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10945146851,
+            "lat": 41.4639226,
+            "lon": 12.6712735,
+            "timestamp": "2025-01-01T21:13:22Z",
+            "version": 2,
+            "changeset": 160885638,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Nettuno",
+                "addr:postcode": "00048",
+                "addr:street": "Via Scipione Borghese",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "nohousenumber": "yes",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -2677,6 +2834,25 @@
         },
         {
             "type": "node",
+            "id": 11827062863,
+            "lat": 41.5007909,
+            "lon": 12.6281369,
+            "timestamp": "2025-01-01T21:36:26Z",
+            "version": 2,
+            "changeset": 160886305,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Anzio",
+                "addr:postcode": "00042",
+                "addr:street": "Via Nettunense",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 11845253611,
             "lat": 41.844778,
             "lon": 12.4565234,
@@ -2702,6 +2878,28 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 5535 8821",
                 "website": "https://www.fishenjoy.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11903612219,
+            "lat": 41.6884781,
+            "lon": 12.4882524,
+            "timestamp": "2025-01-02T22:33:01Z",
+            "version": 2,
+            "changeset": 160928547,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pomezia",
+                "addr:housenumber": "27,800",
+                "addr:postcode": "00071",
+                "addr:street": "via Pontina 27,800, c/o parco, 51",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {
@@ -2869,6 +3067,27 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-roma-via-emanuele-filiberto"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11951751265,
+            "lat": 41.592095,
+            "lon": 12.6277024,
+            "timestamp": "2025-01-01T21:39:37Z",
+            "version": 2,
+            "changeset": 160886393,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Aprilia",
+                "addr:postcode": "04011",
+                "addr:street": "Via Riserva Nuova",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

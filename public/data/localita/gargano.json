@@ -6,6 +6,28 @@
     "poi": [
         {
             "type": "node",
+            "id": 4345722095,
+            "lat": 41.9850637,
+            "lon": 15.0022017,
+            "timestamp": "2025-01-02T21:32:50Z",
+            "version": 3,
+            "changeset": 160927048,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Termoli",
+                "addr:housenumber": "4",
+                "addr:postcode": "86039",
+                "addr:street": "Via Egadi",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 5826253254,
             "lat": 41.6443957,
             "lon": 15.9387097,

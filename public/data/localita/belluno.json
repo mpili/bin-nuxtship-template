@@ -226,6 +226,32 @@
         },
         {
             "type": "node",
+            "id": 3991679557,
+            "lat": 46.0223691,
+            "lon": 11.9129992,
+            "timestamp": "2025-01-01T17:54:43Z",
+            "version": 4,
+            "changeset": 160878925,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Feltre",
+                "addr:housenumber": "9",
+                "addr:postcode": "32032",
+                "addr:street": "Vicolo Uniera",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 9:30-12:30,15:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+390439840670",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Feltre"
+            }
+        },
+        {
+            "type": "node",
             "id": 5333027525,
             "lat": 45.780744,
             "lon": 11.889103,
@@ -247,6 +273,28 @@
                 "name": "Faber Mobili srl",
                 "phone": "+39 0423410000",
                 "website": "https://www.fabermobili.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5346573655,
+            "lat": 45.7930713,
+            "lon": 12.4866055,
+            "timestamp": "2025-01-01T18:38:34Z",
+            "version": 3,
+            "changeset": 160880282,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Oderzo",
+                "addr:postcode": "31046",
+                "addr:street": "Via Maestri del Commercio",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -355,6 +403,29 @@
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
                 "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8522204442,
+            "lat": 46.1657044,
+            "lon": 12.2439482,
+            "timestamp": "2025-01-01T20:23:59Z",
+            "version": 2,
+            "changeset": 160884120,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Belluno",
+                "addr:housenumber": "1",
+                "addr:postcode": "32100",
+                "addr:street": "Via Valerio da Pos",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

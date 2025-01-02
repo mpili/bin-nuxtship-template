@@ -578,6 +578,28 @@
         },
         {
             "type": "node",
+            "id": 3797820139,
+            "lat": 45.2289045,
+            "lon": 11.4748883,
+            "timestamp": "2025-01-02T21:28:49Z",
+            "version": 3,
+            "changeset": 160926929,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Montagnana",
+                "addr:housenumber": "2",
+                "addr:postcode": "35044",
+                "addr:street": "Via San Zeno",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 3801818316,
             "lat": 45.0723941,
             "lon": 11.7969114,
@@ -632,6 +654,79 @@
         },
         {
             "type": "node",
+            "id": 4460402552,
+            "lat": 44.4842291,
+            "lon": 11.2686901,
+            "timestamp": "2025-01-01T18:09:58Z",
+            "version": 7,
+            "changeset": 160879401,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Casalecchio di Reno",
+                "addr:housenumber": "50",
+                "addr:postcode": "40033",
+                "addr:street": "Via Aldo Moro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "layer": "0",
+                "name": "Unieuro",
+                "name:it": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4498852691,
+            "lat": 44.5192314,
+            "lon": 11.2639774,
+            "timestamp": "2025-01-01T18:12:03Z",
+            "version": 5,
+            "changeset": 160879456,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "186",
+                "addr:postcode": "40132",
+                "addr:street": "Via Marco Emilio Lepido",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "name:it": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 10:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4523372992,
+            "lat": 44.5674722,
+            "lon": 11.3573297,
+            "timestamp": "2025-01-01T18:12:30Z",
+            "version": 8,
+            "changeset": 160879465,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Castel Maggiore",
+                "addr:housenumber": "8",
+                "addr:postcode": "40013",
+                "addr:street": "Via Pio La Torre",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4524470590,
             "lat": 44.5293564,
             "lon": 11.3369088,
@@ -652,6 +747,54 @@
                 "name": "Mondo Convenienza",
                 "name:it": "Mondo Convenienza",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4524470789,
+            "lat": 44.5301809,
+            "lon": 11.3372746,
+            "timestamp": "2025-01-01T18:13:21Z",
+            "version": 6,
+            "changeset": 160879494,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "7",
+                "addr:postcode": "40131",
+                "addr:street": "Via Cristoforo Colombo",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "check_date": "2024-03-19",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4535817693,
+            "lat": 44.4919228,
+            "lon": 11.4222657,
+            "timestamp": "2025-01-01T18:16:32Z",
+            "version": 5,
+            "changeset": 160879564,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Castenaso",
+                "addr:housenumber": "29",
+                "addr:postcode": "40055",
+                "addr:street": "Via Villanova",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 08:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -704,6 +847,30 @@
                 "payment:satispay": "yes",
                 "payment:wire_transfer": "yes",
                 "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4771282665,
+            "lat": 44.891258,
+            "lon": 11.0514941,
+            "timestamp": "2025-01-01T18:21:36Z",
+            "version": 5,
+            "changeset": 160879740,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mirandola",
+                "addr:housenumber": "65",
+                "addr:postcode": "41037",
+                "addr:street": "Via Gregorio Agnini",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Mirandola",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
@@ -807,6 +974,76 @@
                 "office": "engineer",
                 "phone": "051853172",
                 "website": "https://www.cnika.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5339460276,
+            "lat": 44.4814654,
+            "lon": 11.3900978,
+            "timestamp": "2025-01-01T18:36:54Z",
+            "version": 5,
+            "changeset": 160880209,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "5",
+                "addr:postcode": "40139",
+                "addr:street": "Viale Abramo Lincoln",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 051493319",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5339464860,
+            "lat": 44.4801127,
+            "lon": 11.6332881,
+            "timestamp": "2025-01-01T18:37:31Z",
+            "version": 5,
+            "changeset": 160880243,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Medicina",
+                "addr:housenumber": "150a",
+                "addr:postcode": "40059",
+                "addr:street": "Via Licurgo Fava",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 051850853",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6455942669,
+            "lat": 45.0722016,
+            "lon": 11.1334914,
+            "timestamp": "2025-01-02T21:52:10Z",
+            "version": 4,
+            "changeset": 160927594,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ostiglia",
+                "addr:housenumber": "2",
+                "addr:postcode": "46035",
+                "addr:street": "via Grazia Deledda",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {
@@ -1112,6 +1349,28 @@
                 "payment:onchain": "no",
                 "phone": "+39 04 2527 906",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8267271770,
+            "lat": 45.0453701,
+            "lon": 12.0581442,
+            "timestamp": "2025-01-01T20:21:13Z",
+            "version": 3,
+            "changeset": 160884050,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Adria",
+                "addr:housenumber": "11324",
+                "addr:postcode": "45100",
+                "addr:street": "Piazzale Rovigno",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1466,6 +1725,27 @@
         },
         {
             "type": "node",
+            "id": 11125250762,
+            "lat": 45.1834148,
+            "lon": 11.2548832,
+            "timestamp": "2025-01-01T21:14:48Z",
+            "version": 2,
+            "changeset": 160885668,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Pietro",
+                "addr:postcode": "37045",
+                "addr:street": "Via Luciano Lama",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 11200067892,
             "lat": 44.5041456,
             "lon": 11.3387609,
@@ -1691,6 +1971,29 @@
                 "email": "pastis.belvedere@gmail.com",
                 "name": "Pastis Cuv\u00e8e",
                 "payment:lightning": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11817877407,
+            "lat": 45.2289756,
+            "lon": 11.7389913,
+            "timestamp": "2025-01-01T21:34:45Z",
+            "version": 4,
+            "changeset": 160886258,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Monselice",
+                "addr:housenumber": "79",
+                "addr:postcode": "35043",
+                "addr:street": "Via Cristoforo Colombo",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {

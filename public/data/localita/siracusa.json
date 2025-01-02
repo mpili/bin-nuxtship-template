@@ -26,6 +26,28 @@
         },
         {
             "type": "node",
+            "id": 6434291536,
+            "lat": 37.0629148,
+            "lon": 15.2741933,
+            "timestamp": "2025-01-01T19:42:13Z",
+            "version": 3,
+            "changeset": 160882864,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Siracusa",
+                "addr:housenumber": "55",
+                "addr:postcode": "96100",
+                "addr:street": "Via Elorina",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 7157591141,
             "lat": 37.0852739,
             "lon": 15.2489156,
@@ -91,6 +113,51 @@
         },
         {
             "type": "node",
+            "id": 9132399838,
+            "lat": 37.110853,
+            "lon": 15.2274623,
+            "timestamp": "2025-01-01T20:34:52Z",
+            "version": 7,
+            "changeset": 160884484,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Citt\u00e0 Giardino",
+                "addr:postcode": "96010",
+                "addr:street": "Viale Edoardo Garrone",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9380538791,
+            "lat": 37.2987379,
+            "lon": 14.9987511,
+            "timestamp": "2025-01-01T20:37:52Z",
+            "version": 3,
+            "changeset": 160884559,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Lentini",
+                "addr:housenumber": "18",
+                "addr:postcode": "96016",
+                "addr:street": "Viale John Fitzgerald Kennedy",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9874622004,
             "lat": 37.0663344,
             "lon": 15.2857879,
@@ -114,6 +181,50 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "+39 331 5748396;+39 348 7020756"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10224221000,
+            "lat": 37.4789216,
+            "lon": 15.0777858,
+            "timestamp": "2025-01-01T20:57:55Z",
+            "version": 2,
+            "changeset": 160885193,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Catania",
+                "addr:housenumber": "67",
+                "addr:postcode": "95121",
+                "addr:street": "Via San Giuseppe alla Rena",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425531,
+            "lat": 37.4715468,
+            "lon": 15.0482543,
+            "timestamp": "2025-01-01T21:00:39Z",
+            "version": 6,
+            "changeset": 160885280,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Catania",
+                "addr:postcode": "95121",
+                "addr:street": "Strada Gelso Bianco",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "level": "1",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {

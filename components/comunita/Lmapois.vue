@@ -41,6 +41,9 @@
 	<LMarker :lat-lng="[39.21721, 9.11335]">
 		<LPopup><NuxtLink to="/c/ss-cagliari">Satoshi Spritz Cagliari</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[44.783333, 10.883333]">
+		<LPopup><NuxtLink to="/c/ss-carpi">Satoshi Spritz Carpi</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[38.9075, 16.5962]">
 		<LPopup><NuxtLink to="/c/bitcoin-beer-catanzaro">₿itcoin Beer Catanzaro</NuxtLink></LPopup>
 	</LMarker>
@@ -80,8 +83,14 @@
 	<LMarker :lat-lng="[41.673, 12.704]">
 		<LPopup><NuxtLink to="/c/bb-genzano-roma">Bitcoin Beer Genzano Roma</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[43.3186614, 11.3305135]">
+		<LPopup><NuxtLink to="/c/ss-toscana-sud">Satoshi Spritz Toscana-Sud</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.2922106, 13.9070363]">
 		<LPopup><NuxtLink to="/c/bb-istria">Bitcoin Beer Istria</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[40.39725, 17.92136]">
+		<LPopup><NuxtLink to="/c/salento-b">Salento Bitcoin</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.8365, 10.52112]">
 		<LPopup><NuxtLink to="/c/bb-lucca">Bitcoin Beer Lucca</NuxtLink></LPopup>
@@ -185,12 +194,6 @@
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/c/ss-savona">Satoshi Spritz Savona</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[43.3186614, 11.3305135]">
-		<LPopup><NuxtLink to="/c/ss-toscana-sud">Satoshi Spritz Toscana-Sud</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[40.39725, 17.92136]">
-		<LPopup><NuxtLink to="/c/salento-b">Salento Bitcoin</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[37.0703, 15.2889]">
 		<LPopup><NuxtLink to="/c/bb-siracusa">Bitcoin Beer Siracusa</NuxtLink></LPopup>
 	</LMarker>
@@ -208,6 +211,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[43.110717, 12.390828]">
 		<LPopup><NuxtLink to="/c/ss-umbria">Satoshi Spritz Umbria</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.108, 7.2747]">
+		<LPopup><NuxtLink to="/c/ss-valdisusa">Val di Susa</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.8182, 8.82733]">
 		<LPopup><NuxtLink to="/c/ss-varese">Satoshi Spritz Varese</NuxtLink></LPopup>

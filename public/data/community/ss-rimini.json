@@ -100,6 +100,30 @@
         },
         {
             "type": "node",
+            "id": 2037705255,
+            "lat": 43.7899762,
+            "lon": 12.9987614,
+            "timestamp": "2025-01-01T22:35:44Z",
+            "version": 6,
+            "changeset": 160887667,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:street": "Via Luigi Einaudi",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0721 855899",
+                "ref:vatin": "IT02106250398",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2323216819,
             "lat": 44.1379112,
             "lon": 12.2441762,
@@ -356,6 +380,101 @@
         },
         {
             "type": "node",
+            "id": 3673089754,
+            "lat": 43.8007757,
+            "lon": 13.0125703,
+            "timestamp": "2025-01-01T17:42:00Z",
+            "version": 6,
+            "changeset": 160878384,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:postcode": "61032",
+                "addr:street": "Via Luigi Einaudi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4088983168,
+            "lat": 43.6718719,
+            "lon": 12.5165529,
+            "timestamp": "2025-01-01T17:57:21Z",
+            "version": 5,
+            "changeset": 160878996,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Urbania",
+                "addr:housenumber": "75",
+                "addr:postcode": "61049",
+                "addr:street": "Via Roma",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "description": "Grande catena di elettronica di consumo e di elettrodomestici.",
+                "level": "0",
+                "name": "Unieuro",
+                "opening_hours": "Mo 15:30-19:30; Tu-Sa 08:30-12:30,15:30-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Urbania"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4347589925,
+            "lat": 43.9061157,
+            "lon": 12.8667692,
+            "timestamp": "2025-01-01T18:01:38Z",
+            "version": 6,
+            "changeset": 160879141,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "16",
+                "addr:street": "Via Icaro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-13:00,15:00-20:00; Su 10:00-13:00,15:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Pesaro",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4495480088,
+            "lat": 44.063513,
+            "lon": 12.4562914,
+            "timestamp": "2025-01-01T18:10:29Z",
+            "version": 3,
+            "changeset": 160879410,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Santarcengelo di Romagna",
+                "addr:housenumber": "10",
+                "addr:postcode": "47822",
+                "addr:street": "Via Ca' Fabbri",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4752694126,
             "lat": 44.3960161,
             "lon": 12.179645,
@@ -483,6 +602,29 @@
         },
         {
             "type": "node",
+            "id": 4766326938,
+            "lat": 44.2250206,
+            "lon": 12.0375184,
+            "timestamp": "2025-01-01T18:21:09Z",
+            "version": 3,
+            "changeset": 160879719,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Forl\u00ec",
+                "addr:housenumber": "10",
+                "addr:postcode": "47121",
+                "addr:street": "Via Piero Maroncelli",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "office": "company",
+                "operator": "Unieuro S.p.A."
+            }
+        },
+        {
+            "type": "node",
             "id": 4794806657,
             "lat": 44.1052484,
             "lon": 12.42164,
@@ -588,6 +730,32 @@
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "phone": "+39 0544 71310",
                 "website": "http://www.inlogica.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6307924420,
+            "lat": 44.2189084,
+            "lon": 12.0472957,
+            "timestamp": "2025-01-01T19:40:22Z",
+            "version": 7,
+            "changeset": 160882817,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Forl\u00ec",
+                "addr:housenumber": "144",
+                "addr:postcode": "47121",
+                "addr:street": "Corso della Repubblica",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-13:00,15:30-20:00; Su 10:00-13:00,16:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0543 36683",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics"
             }
         },
         {
@@ -872,6 +1040,28 @@
         },
         {
             "type": "node",
+            "id": 9685993832,
+            "lat": 44.1458438,
+            "lon": 12.2200233,
+            "timestamp": "2025-01-02T22:01:44Z",
+            "version": 3,
+            "changeset": 160927794,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cesena",
+                "addr:housenumber": "200",
+                "addr:postcode": "47023",
+                "addr:street": "Via Annalena Tonelli",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9962167198,
             "lat": 44.1344843,
             "lon": 12.0621317,
@@ -923,6 +1113,24 @@
         },
         {
             "type": "node",
+            "id": 10586735224,
+            "lat": 44.1597198,
+            "lon": 12.4300591,
+            "timestamp": "2025-01-01T21:08:13Z",
+            "version": 2,
+            "changeset": 160885499,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 10648841302,
             "lat": 44.2428018,
             "lon": 12.3648022,
@@ -945,6 +1153,28 @@
                 "payment:onchain": "no",
                 "phone": "+393490534667",
                 "website": "https://www.piadinadagiorgia.it/it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10738853174,
+            "lat": 44.3953353,
+            "lon": 12.1798846,
+            "timestamp": "2025-01-01T21:10:36Z",
+            "version": 2,
+            "changeset": 160885569,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ravenna",
+                "addr:housenumber": "86",
+                "addr:postcode": "48124",
+                "addr:street": "Via Marco Bussato",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1032,6 +1262,52 @@
                 "phone": "+393313874666",
                 "survey:date": "2023-06-27",
                 "website": "http://www.laspiaggetta274.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11215124982,
+            "lat": 43.7296723,
+            "lon": 12.6354835,
+            "timestamp": "2025-01-01T21:18:15Z",
+            "version": 4,
+            "changeset": 160885785,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Urbino",
+                "addr:postcode": "61029",
+                "addr:street": "Viale Antonio Gramsci",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "level": "7",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 10:00-19:30; Su 10:00-12:30,16:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "survey:date": "2023-09-24"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11346255491,
+            "lat": 43.9121727,
+            "lon": 12.9052113,
+            "timestamp": "2025-01-02T22:10:22Z",
+            "version": 2,
+            "changeset": 160927973,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "310",
+                "addr:postcode": "61121",
+                "addr:street": "Corso Undici settembre",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {

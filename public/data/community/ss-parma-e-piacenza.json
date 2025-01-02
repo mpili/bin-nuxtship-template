@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001926008431",
     "telegram_app": "https://t.me/SatoshiSpritzParmaePiacenza",
-    "telegram_members": 104.0,
+    "telegram_members": 105.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -60,6 +60,56 @@
         },
         {
             "type": "node",
+            "id": 2404906848,
+            "lat": 45.3662308,
+            "lon": 9.6291806,
+            "timestamp": "2025-01-01T22:57:38Z",
+            "version": 8,
+            "changeset": 160888120,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bagnolo Cremasco",
+                "addr:postcode": "26010",
+                "addr:street": "Strada Provinciale 415 Paullese",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3344567960,
+            "lat": 45.481276,
+            "lon": 9.7813136,
+            "timestamp": "2025-01-02T21:10:35Z",
+            "version": 12,
+            "changeset": 160926333,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Antegnate",
+                "addr:housenumber": "3",
+                "addr:postcode": "24051",
+                "addr:street": "Via del commercio",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "check_date": "2024-07-06",
+                "check_date:opening_hours": "2024-07-06",
+                "level": "1",
+                "name": "Trony",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Trony",
+                "shop": "electronics",
+                "toilets": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4756783299,
             "lat": 44.8610971,
             "lon": 10.0676522,
@@ -104,6 +154,28 @@
                 "currency:XBT": "yes",
                 "name": "Mondo Convenienza",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4962059509,
+            "lat": 45.1647929,
+            "lon": 9.1357787,
+            "timestamp": "2025-01-01T18:25:22Z",
+            "version": 4,
+            "changeset": 160879868,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Martino Siccomario",
+                "addr:housenumber": "8",
+                "addr:postcode": "27028",
+                "addr:street": "Via Piemonte",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -295,6 +367,27 @@
         },
         {
             "type": "node",
+            "id": 9732393851,
+            "lat": 44.8591105,
+            "lon": 10.0879228,
+            "timestamp": "2025-01-01T20:44:31Z",
+            "version": 2,
+            "changeset": 160884757,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "11",
+                "addr:postcode": "43036",
+                "addr:street": "Via Galileo Ferraris",
+                "brand": "Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 10165712913,
             "lat": 45.3555613,
             "lon": 9.6627822,
@@ -345,14 +438,37 @@
         },
         {
             "type": "node",
+            "id": 10178685928,
+            "lat": 44.9995252,
+            "lon": 9.074914,
+            "timestamp": "2025-01-01T20:55:26Z",
+            "version": 5,
+            "changeset": 160885117,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Montebello della Battaglia",
+                "addr:housenumber": "50",
+                "addr:postcode": "27054",
+                "addr:street": "Via Ing. Adolfo Mazza",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10250750357,
             "lat": 45.3462702,
             "lon": 10.1350625,
-            "timestamp": "2022-12-10T14:01:40Z",
-            "version": 1,
-            "changeset": 129934597,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2025-01-02T16:46:35Z",
+            "version": 2,
+            "changeset": 160916701,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Manerbio",
                 "addr:housenumber": "10",
@@ -360,13 +476,13 @@
                 "addr:street": "Via Cremona",
                 "amenity": "fast_food",
                 "check_date": "2022-12-12",
+                "contact:phone": "+390309938067",
+                "contact:website": "https://www.lapiadineria.com/",
                 "cuisine": "italian;sandwich",
                 "currency:XBT": "yes",
                 "name": "La Piadineria",
                 "payment:lightning": "yes",
-                "payment:onchain": "yes",
-                "phone": "+390309938067",
-                "website": "https://www.lapiadineria.com/"
+                "payment:onchain": "yes"
             }
         },
         {
@@ -402,11 +518,11 @@
             "id": 10844464866,
             "lat": 45.3120876,
             "lon": 9.9985,
-            "timestamp": "2024-09-23T12:48:01Z",
-            "version": 5,
-            "changeset": 156994290,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-02T16:46:35Z",
+            "version": 6,
+            "changeset": 160916701,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Quinzano D'Oglio",
                 "addr:housenumber": "30",
@@ -414,12 +530,12 @@
                 "addr:street": "Via Luigi Ciocca",
                 "check_date": "2024-09-21",
                 "check_date:currency:XBT": "2024-09-21",
+                "contact:email": "info@2fsas.com",
+                "contact:phone": "+390309924331",
+                "contact:website": "https://www.2fsas.com",
                 "currency:XBT": "yes",
-                "email": "info@2fsas.com",
                 "name": "2F Computer",
-                "phone": "+390309924331",
-                "shop": "computer",
-                "website": "https://www.2fsas.com"
+                "shop": "computer"
             }
         },
         {

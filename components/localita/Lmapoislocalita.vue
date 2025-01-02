@@ -32,6 +32,9 @@
 	<LMarker :lat-lng="[39.21721, 9.11335]">
 		<LPopup><NuxtLink to="/l/cagliari">Cagliari</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[44.783333, 10.883333]">
+		<LPopup><NuxtLink to="/l/carpi">Carpi</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[38.9075, 16.5962]">
 		<LPopup><NuxtLink to="/l/catanzaro">Catanzaro</NuxtLink></LPopup>
 	</LMarker>
@@ -184,6 +187,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[43.110717, 12.390828]">
 		<LPopup><NuxtLink to="/l/umbria">Umbria</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.108, 7.2747]">
+		<LPopup><NuxtLink to="/l/valdisusa">Val di Susa</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.8182, 8.82733]">
 		<LPopup><NuxtLink to="/l/varese">Varese</NuxtLink></LPopup>

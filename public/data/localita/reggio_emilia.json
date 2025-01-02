@@ -806,6 +806,52 @@
         },
         {
             "type": "node",
+            "id": 4771282665,
+            "lat": 44.891258,
+            "lon": 11.0514941,
+            "timestamp": "2025-01-01T18:21:36Z",
+            "version": 5,
+            "changeset": 160879740,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mirandola",
+                "addr:housenumber": "65",
+                "addr:postcode": "41037",
+                "addr:street": "Via Gregorio Agnini",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Mirandola",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5628224822,
+            "lat": 44.7176038,
+            "lon": 10.5859345,
+            "timestamp": "2025-01-01T18:42:22Z",
+            "version": 3,
+            "changeset": 160880407,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Reggio nell'Emilia",
+                "addr:housenumber": "2",
+                "addr:postcode": "42124",
+                "addr:street": "Viale Martiri di Piazza Tien An Men",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6475072552,
             "lat": 44.640859,
             "lon": 10.91307,
@@ -1008,6 +1054,27 @@
         },
         {
             "type": "node",
+            "id": 8932752006,
+            "lat": 44.5472429,
+            "lon": 10.8591775,
+            "timestamp": "2025-01-01T22:38:21Z",
+            "version": 2,
+            "changeset": 160887730,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fiorano Modenese",
+                "addr:street": "Via Giardini",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9153289949,
             "lat": 44.8209645,
             "lon": 10.8886086,
@@ -1028,6 +1095,27 @@
                 "operator": "Conad",
                 "phone": "+39 059 6340048",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9732393851,
+            "lat": 44.8591105,
+            "lon": 10.0879228,
+            "timestamp": "2025-01-01T20:44:31Z",
+            "version": 2,
+            "changeset": 160884757,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "11",
+                "addr:postcode": "43036",
+                "addr:street": "Via Galileo Ferraris",
+                "brand": "Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1190,6 +1278,52 @@
         },
         {
             "type": "node",
+            "id": 11894368491,
+            "lat": 44.9805577,
+            "lon": 10.4290873,
+            "timestamp": "2025-01-02T22:28:10Z",
+            "version": 4,
+            "changeset": 160928450,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Casalmaggiore",
+                "addr:housenumber": "49",
+                "addr:postcode": "26041",
+                "addr:street": "Via Alessandro Volta",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11900935588,
+            "lat": 44.7780622,
+            "lon": 10.8635467,
+            "timestamp": "2025-01-02T22:30:12Z",
+            "version": 3,
+            "changeset": 160928491,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Carpi",
+                "addr:housenumber": "22",
+                "addr:postcode": "41012",
+                "addr:street": "Via Dell'Integrazione",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11947970330,
             "lat": 44.8900087,
             "lon": 11.0548275,
@@ -1260,6 +1394,34 @@
                 "email": "adriraika@libero.it",
                 "name": "I Gatti Neri",
                 "phone:mobile": "+39 389 917 1476"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12120060972,
+            "lat": 44.6360071,
+            "lon": 10.9503807,
+            "timestamp": "2025-01-01T20:08:10Z",
+            "version": 4,
+            "changeset": 160883672,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Modena",
+                "addr:housenumber": "750",
+                "addr:postcode": "41125",
+                "addr:street": "Via Emilia Est",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00, 15:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39059365818",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/",
+                "wheelchair": "yes"
             }
         }
     ],

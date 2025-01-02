@@ -12,6 +12,29 @@
     "poi": [
         {
             "type": "node",
+            "id": 4242939306,
+            "lat": 40.7221146,
+            "lon": 17.5776397,
+            "timestamp": "2025-01-01T17:59:01Z",
+            "version": 5,
+            "changeset": 160879074,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ostuni",
+                "addr:housenumber": "103/105",
+                "addr:postcode": "72017",
+                "addr:street": "Via Papa Giovanni XXIII",
+                "branch": "City",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4747710927,
             "lat": 40.4010185,
             "lon": 17.2855636,
@@ -246,18 +269,23 @@
             "id": 12324609959,
             "lat": 40.4984508,
             "lon": 17.6433669,
-            "timestamp": "2024-11-08T22:06:37Z",
-            "version": 1,
-            "changeset": 158913279,
+            "timestamp": "2025-01-02T12:10:50Z",
+            "version": 2,
+            "changeset": 160904209,
             "user": "mpbin",
             "uid": 21850090,
             "tags": {
                 "addr:city": "Oria",
+                "addr:housenumber": "2",
                 "addr:postcode": "72024",
                 "addr:street": "Piazza Albanese",
                 "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/p/Caveau-ExperienceBar-Oria-61555244900593/",
+                "contact:instagram": "https://www.instagram.com/caveau_oria/",
                 "currency:XBT": "yes",
-                "name": "Caveau Bar"
+                "email": "info@caveaubar.it",
+                "name": "Caveau Bar",
+                "phone": "+39 350 126 5170"
             }
         }
     ],

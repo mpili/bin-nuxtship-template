@@ -6,6 +6,26 @@
     "poi": [
         {
             "type": "node",
+            "id": 1875816155,
+            "lat": 38.0900153,
+            "lon": 13.5047978,
+            "timestamp": "2025-01-01T22:54:27Z",
+            "version": 3,
+            "changeset": 160888041,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bagheria",
+                "addr:housenumber": "3B",
+                "addr:postcode": "90011",
+                "addr:street": "Corso Baldassare Scaduto",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 2405976299,
             "lat": 38.0837768,
             "lon": 13.5038978,
@@ -221,6 +241,82 @@
         },
         {
             "type": "node",
+            "id": 8121188263,
+            "lat": 38.1035225,
+            "lon": 13.3249638,
+            "timestamp": "2025-01-01T20:18:34Z",
+            "version": 3,
+            "changeset": 160883982,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "19",
+                "addr:postcode": "90135",
+                "addr:street": "Via Crocifisso Pietratagliata",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9761434519,
+            "lat": 38.1446197,
+            "lon": 13.3648664,
+            "timestamp": "2025-01-01T20:06:02Z",
+            "version": 3,
+            "changeset": 160883605,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "39",
+                "addr:postcode": "90142",
+                "addr:street": "Via Ammiraglio Luigi Rizzo",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "contact:facebook": "UnieuroAmmiraglioRizzo39",
+                "contact:instagram": "unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Palermo---via-Ammiraglio-Rizzo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10231180611,
+            "lat": 38.1640752,
+            "lon": 13.3142516,
+            "timestamp": "2025-01-01T20:59:07Z",
+            "version": 3,
+            "changeset": 160885230,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "115",
+                "addr:postcode": "90146",
+                "addr:street": "Via Ugo La Malfa",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "phone": "+39 091 688 3931",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Palermo---Via-Ugo-la-Malfa",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11353695812,
             "lat": 37.7441396,
             "lon": 13.6044122,
@@ -268,6 +364,29 @@
                 "phone": "+39 091 8121440",
                 "shop": "jewelry",
                 "website": "https://gioiellerialbanese.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11509487145,
+            "lat": 38.1826987,
+            "lon": 13.3084319,
+            "timestamp": "2025-01-01T21:24:39Z",
+            "version": 3,
+            "changeset": 160885965,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "1963",
+                "addr:postcode": "90146",
+                "addr:street": "Via Giuseppe Lanza di Scalea",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
