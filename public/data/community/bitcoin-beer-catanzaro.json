@@ -12,6 +12,28 @@
     "poi": [
         {
             "type": "node",
+            "id": 3110792429,
+            "lat": 39.0833831,
+            "lon": 17.1146087,
+            "timestamp": "2025-01-02T21:05:27Z",
+            "version": 4,
+            "changeset": 160926206,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Crotone",
+                "addr:postcode": "88900",
+                "addr:street": "Via Giuseppe Di Vittorio",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 7504161120,
             "lat": 38.9273179,
             "lon": 16.5808459,
@@ -30,6 +52,166 @@
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
                 "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8805179434,
+            "lat": 39.0013542,
+            "lon": 16.1321157,
+            "timestamp": "2025-01-02T21:57:23Z",
+            "version": 3,
+            "changeset": 160927707,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Falerna",
+                "addr:housenumber": "5",
+                "addr:postcode": "88042",
+                "addr:street": "Via Marevitano",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "opening_hours": "Mo-Sa 09:00-13:00, 16:00-20:00",
+                "operator": "Trony",
+                "phone": "+39096893202",
+                "shop": "electronics",
+                "survey:date": "2021-06-04",
+                "website": "https://www.trony.it/online/store/MTR008_A",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11171353817,
+            "lat": 38.4758641,
+            "lon": 16.5784307,
+            "timestamp": "2025-01-02T22:09:11Z",
+            "version": 3,
+            "changeset": 160927946,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Guardavalle",
+                "addr:housenumber": "428",
+                "addr:postcode": "88065",
+                "addr:street": "Via Nazionale",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11419825830,
+            "lat": 38.9373775,
+            "lon": 16.8674516,
+            "timestamp": "2025-01-01T21:21:57Z",
+            "version": 2,
+            "changeset": 160885895,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Botricello",
+                "addr:housenumber": "51",
+                "addr:postcode": "88070",
+                "addr:street": "Via Nazionale",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11419881030,
+            "lat": 38.9203923,
+            "lon": 16.7963814,
+            "timestamp": "2025-01-02T22:13:11Z",
+            "version": 2,
+            "changeset": 160928056,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cropani",
+                "addr:postcode": "88050",
+                "addr:street": "Strada Statale 106 Jonica",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11420440746,
+            "lat": 38.7205764,
+            "lon": 16.53303,
+            "timestamp": "2025-01-02T22:14:46Z",
+            "version": 2,
+            "changeset": 160928078,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Montepaone Lido",
+                "addr:postcode": "88060",
+                "addr:street": "Via Camillo Benso Conte di Cavour",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11727265239,
+            "lat": 38.7380976,
+            "lon": 16.178941,
+            "timestamp": "2025-01-02T22:21:17Z",
+            "version": 4,
+            "changeset": 160928242,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pizzo",
+                "addr:postcode": "89812",
+                "addr:street": "Via Nazionale",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:00-20:00",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12199068495,
+            "lat": 38.9585406,
+            "lon": 16.2854931,
+            "timestamp": "2025-01-02T22:35:31Z",
+            "version": 2,
+            "changeset": 160928600,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Lamezia Terme",
+                "addr:housenumber": "2 14",
+                "addr:postcode": "88046",
+                "addr:street": "Via Ing. G. D'Audino",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         }
     ],

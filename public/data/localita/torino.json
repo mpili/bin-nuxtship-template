@@ -9,12 +9,13 @@
             "id": 1227883482,
             "lat": 45.1138448,
             "lon": 7.2424689,
-            "timestamp": "2024-12-31T17:40:46Z",
-            "version": 5,
-            "changeset": 160842886,
+            "timestamp": "2025-01-01T22:02:28Z",
+            "version": 6,
+            "changeset": 160886896,
             "user": "mpbin",
             "uid": 21850090,
             "tags": {
+                "addr:city": "Villar Focchiardo",
                 "addr:postcode": "10050",
                 "addr:street": "Via Nazionale",
                 "brand": "Unieuro",
@@ -254,6 +255,26 @@
         },
         {
             "type": "node",
+            "id": 4349741289,
+            "lat": 45.0713408,
+            "lon": 7.6130385,
+            "timestamp": "2025-01-01T18:06:00Z",
+            "version": 5,
+            "changeset": 160879276,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "101",
+                "addr:postcode": "10142",
+                "addr:street": "Via Vandalino",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "radiotechnics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4732590455,
             "lat": 45.0900022,
             "lon": 7.6913027,
@@ -464,6 +485,31 @@
         },
         {
             "type": "node",
+            "id": 4786849312,
+            "lat": 44.9067749,
+            "lon": 8.2331194,
+            "timestamp": "2025-01-01T18:22:02Z",
+            "version": 4,
+            "changeset": 160879753,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Asti",
+                "addr:housenumber": "563",
+                "addr:postcode": "14100",
+                "addr:street": "Corso Alessandria",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0141 476 768",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Asti"
+            }
+        },
+        {
+            "type": "node",
             "id": 4823861580,
             "lat": 45.0675125,
             "lon": 7.583697,
@@ -544,6 +590,35 @@
         },
         {
             "type": "node",
+            "id": 5113659467,
+            "lat": 45.0624022,
+            "lon": 7.6781248,
+            "timestamp": "2025-01-01T18:30:49Z",
+            "version": 9,
+            "changeset": 160880029,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "53",
+                "addr:postcode": "10125",
+                "addr:street": "Corso Vittorio Emanuele II",
+                "branch": "Torino - Corso Vittorio Emanuele II",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "check_date": "2024-11-09",
+                "level": "0",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su,PH 09:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Torino---Corso-Vittorio-Emanuele-II",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5113659500,
             "lat": 45.0650307,
             "lon": 7.6793488,
@@ -572,6 +647,28 @@
                 "phone": "+39 011 545537",
                 "shop": "shoes",
                 "website": "https://www.naresecalzature.com/it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5151894834,
+            "lat": 44.8836305,
+            "lon": 7.3017752,
+            "timestamp": "2025-01-01T18:33:08Z",
+            "version": 3,
+            "changeset": 160880087,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pinerolo",
+                "addr:housenumber": "41",
+                "addr:postcode": "10064",
+                "addr:street": "Via Giustetto",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

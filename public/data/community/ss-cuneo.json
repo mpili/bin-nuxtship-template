@@ -123,6 +123,52 @@
         },
         {
             "type": "node",
+            "id": 5123200722,
+            "lat": 44.41894,
+            "lon": 7.8491273,
+            "timestamp": "2025-01-01T18:31:46Z",
+            "version": 3,
+            "changeset": 160880052,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mondov\u00ec",
+                "addr:housenumber": "13",
+                "addr:postcode": "12084",
+                "addr:street": "Corso Mondovicino",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0174 40423",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6119714188,
+            "lat": 44.6020559,
+            "lon": 7.6611384,
+            "timestamp": "2025-01-01T18:46:03Z",
+            "version": 3,
+            "changeset": 160880573,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Genola",
+                "addr:housenumber": "24",
+                "addr:postcode": "12040",
+                "addr:street": "Via Frassinetto",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 7080106296,
             "lat": 44.3482263,
             "lon": 7.5086847,

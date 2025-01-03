@@ -7,9 +7,29 @@
     "idlocalita": "puglia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001876214322",
     "telegram_app": "https://t.me/SatoshiSpritzPuglia",
-    "telegram_members": 32.0,
+    "telegram_members": 30.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 1369021847,
+            "lat": 41.1432522,
+            "lon": 16.4033735,
+            "timestamp": "2025-01-01T22:53:05Z",
+            "version": 2,
+            "changeset": 160888019,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Corato",
+                "addr:housenumber": "131",
+                "addr:postcode": "70033",
+                "addr:street": "Via Castel del Monte",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "computer"
+            }
+        },
         {
             "type": "node",
             "id": 2792033770,
@@ -79,6 +99,53 @@
                 "payment:onchain": "yes",
                 "phone": "+447894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10289280876,
+            "lat": 41.0965185,
+            "lon": 16.8325594,
+            "timestamp": "2025-01-01T21:04:24Z",
+            "version": 4,
+            "changeset": 160885384,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "19",
+                "addr:postcode": "70124",
+                "addr:street": "Strada Santa Caterina",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10671500245,
+            "lat": 40.8950261,
+            "lon": 16.8442439,
+            "timestamp": "2025-01-01T20:06:27Z",
+            "version": 3,
+            "changeset": 160883626,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Acquaviva delle Fonti",
+                "addr:housenumber": "12",
+                "addr:postcode": "70021",
+                "addr:street": "Via Don Cesare Franco",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Fr 09:00-13:00,16:30-20:30; Sa 09:00-13:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "080761352",
+                "shop": "electronics"
             }
         },
         {
@@ -358,6 +425,28 @@
                 "payment:cryptocurrencies": "yes",
                 "phone": "+39 389 623 9098",
                 "shop": "massage"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12422583970,
+            "lat": 41.1160091,
+            "lon": 16.6999235,
+            "timestamp": "2025-01-01T21:48:34Z",
+            "version": 2,
+            "changeset": 160886563,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bitonto",
+                "addr:housenumber": "70",
+                "addr:postcode": "70032",
+                "addr:street": "Via Papa Giovanni Ventitreesimo",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         }
     ],

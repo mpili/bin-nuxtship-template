@@ -1202,6 +1202,56 @@
         },
         {
             "type": "node",
+            "id": 2996188933,
+            "lat": 45.8092521,
+            "lon": 9.0875464,
+            "timestamp": "2025-01-01T12:55:50Z",
+            "version": 4,
+            "changeset": 160861946,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Como",
+                "addr:housenumber": "77",
+                "addr:postcode": "22100",
+                "addr:street": "Viale Lecco",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3052616204,
+            "lat": 45.6804718,
+            "lon": 8.7232517,
+            "timestamp": "2025-01-01T12:57:34Z",
+            "version": 7,
+            "changeset": 160862004,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Somma Lombardo",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "21019",
+                "addr:street": "Via Soragana",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-13:00,15:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0331 255647",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3124152616,
             "lat": 45.604664,
             "lon": 9.2649732,
@@ -1222,6 +1272,29 @@
                 "operator": "Conad",
                 "phone": "039 2324749",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3161394176,
+            "lat": 45.7088448,
+            "lon": 8.9027099,
+            "timestamp": "2025-01-01T17:40:11Z",
+            "version": 3,
+            "changeset": 160878325,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Tradate",
+                "addr:housenumber": "11",
+                "addr:postcode": "21049",
+                "addr:street": "Via Dorligo Albisetti",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1455,6 +1528,79 @@
         },
         {
             "type": "node",
+            "id": 3686794785,
+            "lat": 45.6000011,
+            "lon": 9.2310627,
+            "timestamp": "2025-01-01T17:43:45Z",
+            "version": 3,
+            "changeset": 160878445,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Lissone",
+                "addr:housenumber": "1",
+                "addr:postcode": "20851",
+                "addr:street": "Via Generale Gaetano Giardino",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "fax": "+39 039 2785466",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 039 2785458",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3696771931,
+            "lat": 45.6274099,
+            "lon": 8.8600384,
+            "timestamp": "2025-01-01T17:44:53Z",
+            "version": 4,
+            "changeset": 160878478,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Olgiate Olona",
+                "addr:housenumber": "9",
+                "addr:postcode": "21057",
+                "addr:street": "Via Santa Chiara",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-13:00,15:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3752795500,
+            "lat": 45.6126272,
+            "lon": 8.4089759,
+            "timestamp": "2025-01-01T17:46:18Z",
+            "version": 5,
+            "changeset": 160878543,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Romagnano Sesia",
+                "addr:housenumber": "403",
+                "addr:postcode": "28078",
+                "addr:street": "Via Novara",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo 15:00-19:30; Tu-Fr 09:30-12:30,15:00-19:30; Sa 09:30-12:30,14:30-19:30; Su 10:00-12:30,15:00-19:30",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0163 812511",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 3758958741,
             "lat": 46.006229,
             "lon": 8.9669407,
@@ -1583,11 +1729,11 @@
             "id": 3991747275,
             "lat": 45.4563112,
             "lon": 9.1950412,
-            "timestamp": "2024-10-12T13:16:14Z",
-            "version": 5,
-            "changeset": 157795439,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-01-02T17:56:56Z",
+            "version": 6,
+            "changeset": 160919382,
+            "user": "RoseBTCmap",
+            "uid": 22289246,
             "tags": {
                 "addr:city": "Milano",
                 "addr:country": "IT",
@@ -1596,7 +1742,7 @@
                 "addr:street": "Corso di Porta Romana",
                 "amenity": "cafe",
                 "check_date": "2023-09-04",
-                "check_date:currency:XBT": "2024-10-12",
+                "check_date:currency:XBT": "2025-01-02",
                 "currency:XBT": "yes",
                 "email": "ilcaffedellaterradiportaromana@gmail.com",
                 "name": "Il Caff\u00e8 della Terra di P.ta Romana",
@@ -1957,6 +2103,40 @@
         },
         {
             "type": "node",
+            "id": 5130955913,
+            "lat": 45.4680149,
+            "lon": 8.6281253,
+            "timestamp": "2025-01-01T18:32:21Z",
+            "version": 10,
+            "changeset": 160880068,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Novara",
+                "addr:housenumber": "8",
+                "addr:postcode": "28100",
+                "addr:street": "Via Carlo Schleifer",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:30-20:00",
+                "operator": "Unieuro S.p.A.",
+                "payment:american_express": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 0321 443304",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Novara---Via-Schleifer",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5160943921,
             "lat": 45.6324892,
             "lon": 9.010672,
@@ -2210,6 +2390,29 @@
         },
         {
             "type": "node",
+            "id": 5596403963,
+            "lat": 45.5296394,
+            "lon": 9.2186078,
+            "timestamp": "2025-01-02T21:41:53Z",
+            "version": 3,
+            "changeset": 160927333,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Sesto San Giovanni",
+                "addr:postcode": "20099",
+                "addr:street": "Via Milanese",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "level": "1",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 5611537167,
             "lat": 45.8314524,
             "lon": 9.0357271,
@@ -2415,6 +2618,28 @@
                 "brand:wikidata": "Q4004687",
                 "brand:wikipedia": "en:Unieuro",
                 "level": "1",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6063065497,
+            "lat": 45.4605405,
+            "lon": 8.8698671,
+            "timestamp": "2025-01-01T18:44:26Z",
+            "version": 4,
+            "changeset": 160880492,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Magenta",
+                "addr:postcode": "20013",
+                "addr:street": "Corso Italia",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
@@ -2667,6 +2892,30 @@
         },
         {
             "type": "node",
+            "id": 6680251488,
+            "lat": 45.6614152,
+            "lon": 8.7834272,
+            "timestamp": "2025-01-01T19:44:53Z",
+            "version": 3,
+            "changeset": 160882953,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Gallarate",
+                "addr:country": "IT",
+                "addr:housenumber": "33",
+                "addr:postcode": "21013",
+                "addr:street": "Viale Carlo No\u00e8",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6852717735,
             "lat": 45.481093,
             "lon": 9.1728847,
@@ -2765,6 +3014,26 @@
                 "name": "Organya - The Italian Bowl",
                 "phone": "+39  02 38316982",
                 "website": "https://www.organya.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7193387157,
+            "lat": 45.7485629,
+            "lon": 8.2635788,
+            "timestamp": "2025-01-02T21:53:18Z",
+            "version": 2,
+            "changeset": 160927615,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Quarona",
+                "addr:housenumber": "1",
+                "addr:postcode": "13017",
+                "addr:street": "Regione Gibellino",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "appliance"
             }
         },
         {
@@ -2917,6 +3186,29 @@
                 "service:bicycle:retail": "yes",
                 "shop": "bicycle",
                 "website": "https://z-bike.ch/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7600605817,
+            "lat": 45.5859047,
+            "lon": 9.3119748,
+            "timestamp": "2025-01-01T20:11:10Z",
+            "version": 2,
+            "changeset": 160883746,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Monza",
+                "addr:housenumber": "98",
+                "addr:postcode": "20900",
+                "addr:street": "Via della Guerrina",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -3306,27 +3598,31 @@
             "id": 8882012690,
             "lat": 46.0072032,
             "lon": 8.9681441,
-            "timestamp": "2023-05-01T20:55:40Z",
-            "version": 4,
-            "changeset": 135590937,
-            "user": "paulbrunner",
-            "uid": 15541433,
+            "timestamp": "2025-01-02T13:41:20Z",
+            "version": 6,
+            "changeset": 160907570,
+            "user": "Federico Pierantoni",
+            "uid": 10861782,
             "tags": {
                 "addr:city": "Lugano",
                 "addr:housenumber": "17",
                 "addr:postcode": "6900",
                 "addr:street": "Via Concordia",
                 "amenity": "restaurant",
-                "check_date": "2022-11-27",
-                "contact:website": "https://www.ziopippo.ch",
-                "cuisine": "pizza;italian;dessert",
+                "changing_table": "no",
+                "check_date": "2025-01-02",
+                "cuisine": "lebanese",
                 "currency:XBT": "yes",
-                "name": "Zio Pippo",
-                "opening_hours": "Mo-Su 08:00-20:30",
+                "delivery": "yes",
+                "name": "Casa Libanese \u0627\u0644\u0628\u064a\u062a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a",
+                "opening_hours": "Tu-Sa 11:00-21:00; Su 12:00-21:00",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "website": "https://www.ziopippo.ch/"
+                "phone": "+41912229000",
+                "reservation": "no",
+                "takeaway": "yes",
+                "website": "http://www.casalibanese.ch/"
             }
         },
         {
@@ -3547,6 +3843,24 @@
                 "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9931760746,
+            "lat": 45.5638828,
+            "lon": 9.0563989,
+            "timestamp": "2025-01-01T20:49:27Z",
+            "version": 2,
+            "changeset": 160884924,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -7018,6 +7332,27 @@
         },
         {
             "type": "node",
+            "id": 11014620273,
+            "lat": 45.7713913,
+            "lon": 9.0097575,
+            "timestamp": "2025-01-01T20:07:10Z",
+            "version": 2,
+            "changeset": 160883645,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Villa Guardia",
+                "addr:housenumber": "1",
+                "addr:postcode": "22079",
+                "addr:street": "Via Monte Rosa",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "031 5490064",
+                "shop": "appliance"
+            }
+        },
+        {
+            "type": "node",
             "id": 11033018168,
             "lat": 45.4600171,
             "lon": 9.1478308,
@@ -8729,6 +9064,28 @@
         },
         {
             "type": "node",
+            "id": 11807196266,
+            "lat": 45.8388329,
+            "lon": 8.7041132,
+            "timestamp": "2025-01-02T22:26:37Z",
+            "version": 2,
+            "changeset": 160928411,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Gavirate",
+                "addr:housenumber": "82",
+                "addr:postcode": "21026",
+                "addr:street": "Viale Ticino",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 11808165663,
             "lat": 45.5081589,
             "lon": 9.1335392,
@@ -9063,6 +9420,26 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "no",
                 "phone": "3784134111"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12173554861,
+            "lat": 45.5753972,
+            "lon": 9.1801986,
+            "timestamp": "2025-01-01T21:45:56Z",
+            "version": 2,
+            "changeset": 160886510,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Paderno Dugnano",
+                "addr:postcode": "20037",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

@@ -284,6 +284,36 @@
         },
         {
             "type": "node",
+            "id": 1119292972,
+            "lat": 45.7101621,
+            "lon": 11.3701638,
+            "timestamp": "2025-01-01T22:32:03Z",
+            "version": 4,
+            "changeset": 160887580,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Schio",
+                "addr:housenumber": "42",
+                "addr:postcode": "36015",
+                "addr:street": "Via Paraiso",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "email": "schio@trony.it",
+                "fax": "+39 0445 670979",
+                "name": "Trony",
+                "opening_hours": "Mo 15:00-19:30; Tu-Sa 09:00-12:30,15:00-19:30",
+                "operator": "Trony",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "phone": "+39 0445 670963",
+                "shop": "electronics",
+                "website": "https://www.trony.it/online",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1300835964,
             "lat": 46.0940985,
             "lon": 11.1151259,
@@ -1488,6 +1518,29 @@
         },
         {
             "type": "node",
+            "id": 8485016740,
+            "lat": 46.0402716,
+            "lon": 10.7476873,
+            "timestamp": "2025-01-01T20:04:43Z",
+            "version": 3,
+            "changeset": 160883564,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Borgo Lares",
+                "addr:housenumber": "11",
+                "addr:postcode": "38095",
+                "addr:street": "Loc. Campo di Prati",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 8701286579,
             "lat": 45.9622358,
             "lon": 10.9116349,
@@ -1574,6 +1627,29 @@
                 "phone": "+390464666998",
                 "survey:date": "2024-03-21",
                 "website": "https://rovereto.rainbowsushibar.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10743394069,
+            "lat": 45.8643599,
+            "lon": 11.028332,
+            "timestamp": "2025-01-01T20:06:49Z",
+            "version": 2,
+            "changeset": 160883634,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "rovereto",
+                "addr:housenumber": "18",
+                "addr:postcode": "38068",
+                "addr:street": "viale del lavoro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+390464430176",
+                "shop": "electronics"
             }
         },
         {

@@ -7,7 +7,7 @@
     "idlocalita": "albenga",
     "telegram_weburl": "https://web.telegram.org/a/#-1001936842828",
     "telegram_app": "https://t.me/SatoshiSpritzAlbenga",
-    "telegram_members": 50.0,
+    "telegram_members": 51.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -194,6 +194,30 @@
                 "produce": "oil,oilve oil",
                 "shop": "farm",
                 "website": "http://www.olijfolie.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3265478461,
+            "lat": 44.2662214,
+            "lon": 8.4322836,
+            "timestamp": "2025-01-01T22:36:17Z",
+            "version": 9,
+            "changeset": 160887676,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Vado Ligure",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "17047",
+                "addr:street": "Via Montegrappa",
+                "disused:shop": "electronics",
+                "level": "1",
+                "name": "Trony",
+                "opening_hours": "Mo-Su 09:30-19:30; PH closed",
+                "operator": "Trony",
+                "website": "https://www.trony.it/"
             }
         },
         {
@@ -536,6 +560,30 @@
         },
         {
             "type": "node",
+            "id": 8163666071,
+            "lat": 44.3132609,
+            "lon": 8.4717118,
+            "timestamp": "2025-01-01T20:19:36Z",
+            "version": 4,
+            "changeset": 160884005,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Savona",
+                "addr:postcode": "17100",
+                "addr:street": "Corso Agostino Ricci",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 019 815983",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9663613308,
             "lat": 44.120628,
             "lon": 8.2259756,
@@ -562,6 +610,28 @@
                 "phone": "+39 0182 921992",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.009130.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10116556911,
+            "lat": 43.9257718,
+            "lon": 8.0199836,
+            "timestamp": "2025-01-01T20:51:59Z",
+            "version": 2,
+            "changeset": 160884999,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Imperia",
+                "addr:housenumber": "373",
+                "addr:postcode": "18100",
+                "addr:street": "Via Nazionale",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

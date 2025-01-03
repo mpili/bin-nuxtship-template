@@ -4,7 +4,7 @@
     "lng": 43.3186614,
     "lat": 11.3305135,
     "localita": "Toscana-Sud",
-    "idlocalita": "siena",
+    "idlocalita": "grosseto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001890322260",
     "telegram_app": "https://t.me/SatoshiSpritzToscanaSud",
     "telegram_members": 42.0,
@@ -82,6 +82,29 @@
                 "shop": "electronics",
                 "website": "https://promozioni.trony.it/volantino/TRO019_A",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8889877950,
+            "lat": 43.4099392,
+            "lon": 11.134106,
+            "timestamp": "2025-01-01T20:27:08Z",
+            "version": 4,
+            "changeset": 160884207,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Colle di Val d'Elsa",
+                "addr:housenumber": "46/D",
+                "addr:postcode": "53034",
+                "addr:street": "Viale dei Mille",
+                "branch": "Pecchi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -364,6 +387,51 @@
                 "rooms": "5",
                 "tourism": "hotel",
                 "website": "https://www.poggioallarocca.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11540683992,
+            "lat": 43.4781259,
+            "lon": 11.1310074,
+            "timestamp": "2025-01-02T22:17:36Z",
+            "version": 2,
+            "changeset": 160928164,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Poggibonsi",
+                "addr:postcode": "53036",
+                "addr:street": "Strada Provinciale di San Gimignano",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11643046794,
+            "lat": 43.3310333,
+            "lon": 11.3221213,
+            "timestamp": "2025-01-01T21:26:55Z",
+            "version": 3,
+            "changeset": 160886030,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "25",
+                "addr:place": "Piazzale Carlo Rosselli",
+                "addr:postcode": "53100",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0577 226912",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Siena"
             }
         },
         {

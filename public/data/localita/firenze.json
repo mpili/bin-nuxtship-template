@@ -137,6 +137,30 @@
         },
         {
             "type": "node",
+            "id": 3209003514,
+            "lat": 43.8334976,
+            "lon": 10.7034311,
+            "timestamp": "2025-01-02T21:09:05Z",
+            "version": 5,
+            "changeset": 160926295,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Altopascio",
+                "addr:housenumber": "10",
+                "addr:postcode": "55011",
+                "addr:street": "Via Ponte alla Ciliegia",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3764922637,
             "lat": 43.7208534,
             "lon": 10.9488863,
@@ -236,6 +260,29 @@
         },
         {
             "type": "node",
+            "id": 8889877950,
+            "lat": 43.4099392,
+            "lon": 11.134106,
+            "timestamp": "2025-01-01T20:27:08Z",
+            "version": 4,
+            "changeset": 160884207,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Colle di Val d'Elsa",
+                "addr:housenumber": "46/D",
+                "addr:postcode": "53034",
+                "addr:street": "Viale dei Mille",
+                "branch": "Pecchi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9631522101,
             "lat": 43.8412423,
             "lon": 10.6167649,
@@ -258,6 +305,28 @@
                 "opening_hours": "Tu-Su 08:00-20:00",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111933427,
+            "lat": 43.7644967,
+            "lon": 11.1712714,
+            "timestamp": "2025-01-02T22:04:29Z",
+            "version": 2,
+            "changeset": 160927860,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Scandicci",
+                "addr:housenumber": "13",
+                "addr:postcode": "50018",
+                "addr:street": "Largo Pierluigi da Palestrina",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {
@@ -452,6 +521,51 @@
         },
         {
             "type": "node",
+            "id": 11540683992,
+            "lat": 43.4781259,
+            "lon": 11.1310074,
+            "timestamp": "2025-01-02T22:17:36Z",
+            "version": 2,
+            "changeset": 160928164,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Poggibonsi",
+                "addr:postcode": "53036",
+                "addr:street": "Strada Provinciale di San Gimignano",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11643046794,
+            "lat": 43.3310333,
+            "lon": 11.3221213,
+            "timestamp": "2025-01-01T21:26:55Z",
+            "version": 3,
+            "changeset": 160886030,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "25",
+                "addr:place": "Piazzale Carlo Rosselli",
+                "addr:postcode": "53100",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0577 226912",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Siena"
+            }
+        },
+        {
+            "type": "node",
             "id": 11778374552,
             "lat": 43.3347691,
             "lon": 11.3007112,
@@ -513,6 +627,29 @@
                 "name": "Carnam Ciccia Club",
                 "phone": "+39 378 305 3350",
                 "website": "https://www.carnam.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11879303927,
+            "lat": 43.8914565,
+            "lon": 11.016168,
+            "timestamp": "2025-01-01T21:37:54Z",
+            "version": 2,
+            "changeset": 160886348,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Agliana",
+                "addr:housenumber": "85",
+                "addr:postcode": "51031",
+                "addr:street": "Via Panaro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

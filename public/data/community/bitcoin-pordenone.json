@@ -312,6 +312,28 @@
         },
         {
             "type": "node",
+            "id": 5346573655,
+            "lat": 45.7930713,
+            "lon": 12.4866055,
+            "timestamp": "2025-01-01T18:38:34Z",
+            "version": 3,
+            "changeset": 160880282,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Oderzo",
+                "addr:postcode": "31046",
+                "addr:street": "Via Maestri del Commercio",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 5770912521,
             "lat": 45.989237,
             "lon": 12.29552,
@@ -403,6 +425,27 @@
                 "phone": "+390437552344",
                 "shop": "computer",
                 "website": "https://ramcomputers.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6810005035,
+            "lat": 46.0865298,
+            "lon": 13.179793,
+            "timestamp": "2025-01-01T19:51:53Z",
+            "version": 2,
+            "changeset": 160883194,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Martignacco",
+                "addr:housenumber": "4",
+                "addr:postcode": "33100",
+                "addr:street": "Via Antonio Bardelli",
+                "level": "0;1",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "appliance"
             }
         },
         {
@@ -536,6 +579,29 @@
         },
         {
             "type": "node",
+            "id": 8522204442,
+            "lat": 46.1657044,
+            "lon": 12.2439482,
+            "timestamp": "2025-01-01T20:23:59Z",
+            "version": 2,
+            "changeset": 160884120,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Belluno",
+                "addr:housenumber": "1",
+                "addr:postcode": "32100",
+                "addr:street": "Via Valerio da Pos",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9391569155,
             "lat": 45.6688905,
             "lon": 12.2412925,
@@ -558,6 +624,80 @@
                 "payment:onchain": "yes",
                 "phone": "+447894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9646607675,
+            "lat": 45.6508616,
+            "lon": 12.3090842,
+            "timestamp": "2025-01-01T20:40:01Z",
+            "version": 3,
+            "changeset": 160884631,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Silea",
+                "addr:housenumber": "3/5",
+                "addr:postcode": "31057",
+                "addr:street": "Via Eroi di Podrute",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0422 360350",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Silea"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9751500105,
+            "lat": 45.7909235,
+            "lon": 12.8150666,
+            "timestamp": "2025-01-01T20:45:34Z",
+            "version": 7,
+            "changeset": 160884788,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Portogruaro",
+                "addr:housenumber": "29",
+                "addr:postcode": "30026",
+                "addr:street": "Via Prati Guori",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 10:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0421 74708",
+                "shop": "electronics",
+                "survey:date": "2023-10-16",
+                "website": "https://www.unieuro.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9769845436,
+            "lat": 45.671308,
+            "lon": 12.1763095,
+            "timestamp": "2025-01-01T20:46:41Z",
+            "version": 3,
+            "changeset": 160884821,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Paese",
+                "addr:housenumber": "28",
+                "addr:postcode": "31038",
+                "addr:street": "Via Sante Biasuzzi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

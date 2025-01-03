@@ -763,6 +763,56 @@
         },
         {
             "type": "node",
+            "id": 3597774093,
+            "lat": 46.4765,
+            "lon": 11.33377,
+            "timestamp": "2025-01-01T17:41:27Z",
+            "version": 5,
+            "changeset": 160878366,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:housenumber": "3",
+                "addr:postcode": "39100",
+                "addr:street": "Via Luigi Galvani - Luigi-Galvani-Stra\u00dfe",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3684662158,
+            "lat": 46.6793319,
+            "lon": 11.1350012,
+            "timestamp": "2025-01-01T17:42:35Z",
+            "version": 8,
+            "changeset": 160878401,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Algund - Lagundo",
+                "addr:housenumber": "31",
+                "addr:postcode": "39022",
+                "addr:street": "Josef-Weingartner-Stra\u00dfe - Via Josef WeingartnerJosef Weingartnerstra\u00dfe - Via Josef Weingartner",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-19:30; Sa 09:00-19:00; Su 10:00-19:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0473 090660",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Merano",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4218284559,
             "lat": 46.4913076,
             "lon": 11.3145909,
@@ -836,6 +886,29 @@
                 "name": "Margherita",
                 "operator": "Conad",
                 "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8485016740,
+            "lat": 46.0402716,
+            "lon": 10.7476873,
+            "timestamp": "2025-01-01T20:04:43Z",
+            "version": 3,
+            "changeset": 160883564,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Borgo Lares",
+                "addr:housenumber": "11",
+                "addr:postcode": "38095",
+                "addr:street": "Loc. Campo di Prati",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

@@ -12,6 +12,34 @@
     "poi": [
         {
             "type": "node",
+            "id": 6505685738,
+            "lat": 40.3231596,
+            "lon": 9.3065765,
+            "timestamp": "2025-01-01T22:37:59Z",
+            "version": 2,
+            "changeset": 160887722,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Nuoro",
+                "addr:postcode": "08100",
+                "addr:street": "Via San Giovanni Bosco",
+                "air_conditioning": "yes",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "email": "nuoro@trony.it",
+                "level": "0",
+                "name": "Trony",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Trony",
+                "phone": "+39 0784 1940371",
+                "shop": "electronics",
+                "website": "https://www.trony.it"
+            }
+        },
+        {
+            "type": "node",
             "id": 7503750848,
             "lat": 40.324457,
             "lon": 9.3136797,

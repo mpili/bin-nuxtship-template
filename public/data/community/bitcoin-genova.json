@@ -189,6 +189,30 @@
         },
         {
             "type": "node",
+            "id": 3265478461,
+            "lat": 44.2662214,
+            "lon": 8.4322836,
+            "timestamp": "2025-01-01T22:36:17Z",
+            "version": 9,
+            "changeset": 160887676,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Vado Ligure",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "17047",
+                "addr:street": "Via Montegrappa",
+                "disused:shop": "electronics",
+                "level": "1",
+                "name": "Trony",
+                "opening_hours": "Mo-Su 09:30-19:30; PH closed",
+                "operator": "Trony",
+                "website": "https://www.trony.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3472684803,
             "lat": 44.3439635,
             "lon": 8.5441201,
@@ -234,6 +258,55 @@
                 "shop": "supermarket",
                 "start_date": "2021-01-28",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.010196.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5154055109,
+            "lat": 44.4017669,
+            "lon": 8.9450927,
+            "timestamp": "2025-01-01T18:34:08Z",
+            "version": 3,
+            "changeset": 160880115,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "146/150",
+                "addr:postcode": "16121",
+                "addr:street": "Piazza della Vittoria",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5154055110,
+            "lat": 44.4180569,
+            "lon": 8.9497979,
+            "timestamp": "2025-01-01T18:35:20Z",
+            "version": 6,
+            "changeset": 160880150,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "3",
+                "addr:postcode": "16139",
+                "addr:street": "Piazzale Marassi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "contact:phone": "+39 010 8393819",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "start_date": "2017-10-06",
+                "wheelchair": "yes"
             }
         },
         {
@@ -440,6 +513,50 @@
         },
         {
             "type": "node",
+            "id": 6166782210,
+            "lat": 44.7672405,
+            "lon": 8.7725428,
+            "timestamp": "2025-01-02T21:48:03Z",
+            "version": 3,
+            "changeset": 160927490,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Novi Ligure",
+                "addr:housenumber": "1",
+                "addr:postcode": "15067",
+                "addr:street": "Via delle Vetrerie",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6183773044,
+            "lat": 44.7354747,
+            "lon": 8.8286334,
+            "timestamp": "2025-01-01T18:48:19Z",
+            "version": 4,
+            "changeset": 160880635,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Novi Ligure",
+                "addr:housenumber": "177",
+                "addr:postcode": "15067",
+                "addr:street": "Strada Serravalle",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6283604849,
             "lat": 44.3059573,
             "lon": 8.482731,
@@ -636,6 +753,30 @@
         },
         {
             "type": "node",
+            "id": 8163666071,
+            "lat": 44.3132609,
+            "lon": 8.4717118,
+            "timestamp": "2025-01-01T20:19:36Z",
+            "version": 4,
+            "changeset": 160884005,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Savona",
+                "addr:postcode": "17100",
+                "addr:street": "Corso Agostino Ricci",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 019 815983",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 8482436005,
             "lat": 44.4274761,
             "lon": 8.7785353,
@@ -712,6 +853,29 @@
                 "payment:onchain": "yes",
                 "phone": "+39 3403189152",
                 "shop": "gas"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9894601960,
+            "lat": 44.3681321,
+            "lon": 9.1480622,
+            "timestamp": "2025-01-01T20:47:33Z",
+            "version": 3,
+            "changeset": 160884851,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Recco",
+                "addr:housenumber": "212",
+                "addr:postcode": "16036",
+                "addr:street": "Via Roma",
+                "branch": "City",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -1029,6 +1193,34 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-genova-via-giovanni-tommaso-invrea"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12468020286,
+            "lat": 44.4102056,
+            "lon": 8.9358385,
+            "timestamp": "2025-01-02T10:43:23Z",
+            "version": 9,
+            "changeset": 160901008,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "4",
+                "addr:postcode": "16123",
+                "addr:street": "Salita di Santa Caterina",
+                "check_date": "2025-01-01",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "name": "Sartoria BATISTA",
+                "opening_hours": "Su appuntamento.",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 3284959922",
+                "shop": "tailor",
+                "survey:date": "2024-01-02"
             }
         }
     ],

@@ -34,6 +34,62 @@
         },
         {
             "type": "node",
+            "id": 945519740,
+            "lat": 42.8464104,
+            "lon": 13.6225391,
+            "timestamp": "2025-01-02T01:21:55Z",
+            "version": 6,
+            "changeset": 160890538,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "old_name": "Euronics",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0736 46625",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Ascoli-Piceno---via-del-Commercio-"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1974988739,
+            "lat": 43.2968881,
+            "lon": 13.7056795,
+            "timestamp": "2025-01-01T22:35:12Z",
+            "version": 8,
+            "changeset": 160887651,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Civitanova Marche",
+                "addr:country": "IT",
+                "addr:housenumber": "14",
+                "addr:postcode": "62012",
+                "addr:street": "Via Giovanni Gronchi",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "email": "civitanova@trony.it",
+                "entrance": "main",
+                "fax": "+39 0733 829826",
+                "name": "Trony",
+                "opening_hours": "Mo-Fr 09:30-13:00,15:30-20:00; Sa 09:30-20:00; Su 10:00-13:00,15:30-20:15",
+                "operator": "Trony",
+                "phone": "+39 0733 784551",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 2815535801,
             "lat": 43.2223741,
             "lon": 13.3343341,
@@ -60,6 +116,54 @@
                 "phone": "+39 0733 9571",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.010156.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2964603266,
+            "lat": 43.2919225,
+            "lon": 13.7023079,
+            "timestamp": "2025-01-01T12:54:11Z",
+            "version": 11,
+            "changeset": 160861881,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Civitanova Marche",
+                "addr:housenumber": "98",
+                "addr:postcode": "62012",
+                "addr:street": "Via San Costantino",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "level": "0",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-21:00; PH closed",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5370509916,
+            "lat": 42.9012868,
+            "lon": 13.8945182,
+            "timestamp": "2025-01-02T21:40:10Z",
+            "version": 6,
+            "changeset": 160927282,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Benedetto Del Tronto",
+                "addr:housenumber": "66",
+                "addr:postcode": "63074",
+                "addr:street": "Via Pasubio",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {
@@ -220,6 +324,29 @@
         },
         {
             "type": "node",
+            "id": 11351580782,
+            "lat": 43.4403339,
+            "lon": 13.625995,
+            "timestamp": "2025-01-01T21:19:37Z",
+            "version": 3,
+            "changeset": 160885827,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Loreto",
+                "addr:housenumber": "1",
+                "addr:postcode": "60025",
+                "addr:street": "Via Buffolareccia",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11417096286,
             "lat": 43.1604826,
             "lon": 13.7877303,
@@ -304,6 +431,28 @@
                 "phone": "+39 0734 302677",
                 "shop": "car_repair",
                 "website": "https://www.sscgarage.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11813795439,
+            "lat": 43.1782928,
+            "lon": 13.6714654,
+            "timestamp": "2025-01-01T21:33:27Z",
+            "version": 2,
+            "changeset": 160886208,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fermo",
+                "addr:housenumber": "42",
+                "addr:postcode": "63900",
+                "addr:street": "Via Giacomo Filippo Maria Prosperi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -511,6 +660,29 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0734 675306",
                 "shop": "hairdresser"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12219082631,
+            "lat": 43.2702038,
+            "lon": 13.5886348,
+            "timestamp": "2025-01-01T20:08:30Z",
+            "version": 2,
+            "changeset": 160883683,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Morrovalle",
+                "addr:housenumber": "58",
+                "addr:postcode": "62010",
+                "addr:street": "Via Edmondo De Amicis",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+390733865184",
+                "shop": "electronics"
             }
         },
         {

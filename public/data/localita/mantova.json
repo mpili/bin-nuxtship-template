@@ -91,11 +91,11 @@
             "id": 1814218229,
             "lat": 45.5116142,
             "lon": 10.4047716,
-            "timestamp": "2024-04-10T14:07:48Z",
-            "version": 11,
-            "changeset": 149821960,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
+            "timestamp": "2025-01-02T21:11:02Z",
+            "version": 14,
+            "changeset": 160926344,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Bedizzole",
                 "addr:housenumber": "17/b",
@@ -105,12 +105,12 @@
                 "brand": "Eni",
                 "brand:wikidata": "Q565594",
                 "check_date": "2024-04-10",
+                "contact:website": "https://www.facebook.com/distributorepasquato/",
                 "currency:XBT": "yes",
                 "name": "Distributore Carburanti AGIP",
                 "operator": "Pasquato Faustino",
                 "payment:bitcoin:operator": "inbitcoin.it",
-                "ref:mise": "8064",
-                "website": "https://www.facebook.com/distributorepasquato/"
+                "ref:mise": "8064"
             }
         },
         {
@@ -202,6 +202,26 @@
         },
         {
             "type": "node",
+            "id": 4174239094,
+            "lat": 45.4628807,
+            "lon": 10.5264444,
+            "timestamp": "2025-01-02T21:54:16Z",
+            "version": 3,
+            "changeset": 160927634,
+            "user": "demon_box",
+            "uid": 350864,
+            "tags": {
+                "addr:city": "Desenzano del Garda",
+                "addr:postcode": "25015",
+                "addr:street": "Viale Guglielmo Marconi",
+                "contact:phone": "+39 030 9121833",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4553697792,
             "lat": 45.4378688,
             "lon": 10.9958258,
@@ -256,14 +276,38 @@
         },
         {
             "type": "node",
+            "id": 4771282665,
+            "lat": 44.891258,
+            "lon": 11.0514941,
+            "timestamp": "2025-01-01T18:21:36Z",
+            "version": 5,
+            "changeset": 160879740,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mirandola",
+                "addr:housenumber": "65",
+                "addr:postcode": "41037",
+                "addr:street": "Via Gregorio Agnini",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "contact:website": "https://www.unieuro.it/online/negozi/Unieuro-Mirandola",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4855618125,
             "lat": 45.4604358,
             "lon": 10.5677196,
-            "timestamp": "2024-07-20T21:11:31Z",
-            "version": 7,
-            "changeset": 154196210,
-            "user": "mauropili",
-            "uid": 1496865,
+            "timestamp": "2025-01-02T16:46:35Z",
+            "version": 8,
+            "changeset": 160916701,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Desenzano del Garda",
                 "addr:housenumber": "44",
@@ -271,15 +315,15 @@
                 "addr:street": "Via Parrocchiale",
                 "amenity": "restaurant",
                 "check_date": "2023-12-29",
+                "contact:email": "info@bruschetterianose.it",
                 "contact:facebook": "https://www.facebook.com/bruschetterianose/",
                 "contact:instagram": "https://www.instagram.com/bruschetterianose/",
+                "contact:phone": "+393896946385",
+                "contact:website": "https://www.bruschetterianose.it/",
                 "currency:XBT": "yes",
                 "description": "Nasce nel marzo 2015 con l\u2019obiettivo di rendere la bruschetta la vera e propria protagonista. Nel corso degli anni siamo cresciuti, imparando diverse tecniche e lavorazioni. Oggi utilizziamo il nostro pane a lievitazione naturale e prodotti ricercati.",
-                "email": "info@bruschetterianose.it",
                 "name": "Bruschetteria Nose",
-                "phone": "+393896946385",
                 "toilets:wheelchair": "yes",
-                "website": "https://www.bruschetterianose.it/",
                 "wheelchair": "yes",
                 "wheelchair:description": "Es gibt Sitzpl\u00e4tze vor der Bruschetteria, in den Gastraum f\u00fchrt eine Edelstahlrampe. Tische und St\u00fchle sind teilweise eng gestellt. Zur einzigen ( Rollstuhlgerechten ) Toilette f\u00fchrt eine Schiebet\u00fcr."
             }
@@ -375,6 +419,28 @@
                 "payment:onchain": "yes",
                 "url": "https://coinatmradar.com/bitcoin_atm/5718/bitcoin-atm-general-bytes-sona-centro-commerciale-la-grande-mela/",
                 "website": "https://chainblock.it/atm/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6455942669,
+            "lat": 45.0722016,
+            "lon": 11.1334914,
+            "timestamp": "2025-01-02T21:52:10Z",
+            "version": 4,
+            "changeset": 160927594,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ostiglia",
+                "addr:housenumber": "2",
+                "addr:postcode": "46035",
+                "addr:street": "via Grazia Deledda",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {
@@ -543,19 +609,21 @@
             "id": 8334378919,
             "lat": 45.4618162,
             "lon": 10.5271708,
-            "timestamp": "2023-11-10T12:27:54Z",
-            "version": 3,
-            "changeset": 143861202,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2025-01-02T16:46:35Z",
+            "version": 4,
+            "changeset": 160916701,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Desenzano",
                 "addr:housenumber": "1",
                 "addr:postcode": "25015",
                 "addr:street": "Via Adua",
                 "amenity": "doctors",
+                "contact:email": "bianchi.osteopata@gmail.com",
+                "contact:phone": "3470483429",
+                "contact:website": "https://bianchiosteopata.it/",
                 "currency:XBT": "yes",
-                "email": "bianchi.osteopata@gmail.com",
                 "healthcare": "doctor",
                 "internet_access": "wlan",
                 "name": "NeoClinic",
@@ -565,9 +633,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
-                "phone": "3470483429",
-                "survey:date": "2022-10-24",
-                "website": "https://bianchiosteopata.it/"
+                "survey:date": "2022-10-24"
             }
         },
         {
@@ -624,6 +690,29 @@
                 "operator": "Conad",
                 "phone": "+39 059 6340048",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9413489553,
+            "lat": 45.3675481,
+            "lon": 10.8677825,
+            "timestamp": "2025-01-01T20:39:00Z",
+            "version": 2,
+            "changeset": 160884601,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Villafranca di Verona",
+                "addr:housenumber": "58",
+                "addr:postcode": "37069",
+                "addr:street": "Viale Postumia",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -706,25 +795,25 @@
             "id": 10884255574,
             "lat": 45.5515645,
             "lon": 10.5414466,
-            "timestamp": "2023-05-10T18:09:05Z",
-            "version": 2,
-            "changeset": 135947471,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "timestamp": "2025-01-02T16:46:35Z",
+            "version": 3,
+            "changeset": 160916701,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Manerba del Garda",
                 "addr:housenumber": "4",
                 "addr:postcode": "25080",
                 "addr:street": "Vicolo del Poggio",
                 "check_date": "2023-05-10",
+                "contact:email": "bebanticoborgogarda@gmail.com",
+                "contact:phone": "+39 348 821 0167",
+                "contact:website": "https://www.anticoborgogarda.eu/",
                 "currency:XBT": "yes",
-                "email": "bebanticoborgogarda@gmail.com",
                 "guest_house": "bed_and_breakfast",
                 "name": "Antico Borgo B&B",
                 "payment:lightning": "yes",
-                "phone": "+39 348 821 0167",
-                "tourism": "guest_house",
-                "website": "https://www.anticoborgogarda.eu/"
+                "tourism": "guest_house"
             }
         },
         {
@@ -732,24 +821,24 @@
             "id": 10979607312,
             "lat": 45.4565873,
             "lon": 10.5850851,
-            "timestamp": "2024-01-28T04:24:38Z",
-            "version": 2,
-            "changeset": 146766313,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
+            "timestamp": "2025-01-02T16:46:35Z",
+            "version": 3,
+            "changeset": 160916701,
+            "user": "demon_box",
+            "uid": 350864,
             "tags": {
                 "addr:city": "Desenzano del Garda",
                 "addr:postcode": "25015",
                 "addr:street": "Via Adriano",
                 "amenity": "restaurant",
                 "check_date": "2023-06-15",
+                "contact:email": "gristoreen@gmail.com",
+                "contact:phone": "+39 3402487689",
                 "currency:XBT": "yes",
-                "email": "gristoreen@gmail.com",
                 "name": "RistoGreen",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "+39 3402487689"
+                "payment:onchain": "yes"
             }
         },
         {
@@ -777,6 +866,95 @@
                 "rooms": "2",
                 "survey:date": "2023-07-02",
                 "tourism": "apartment"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11125250762,
+            "lat": 45.1834148,
+            "lon": 11.2548832,
+            "timestamp": "2025-01-01T21:14:48Z",
+            "version": 2,
+            "changeset": 160885668,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Pietro",
+                "addr:postcode": "37045",
+                "addr:street": "Via Luciano Lama",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11125289165,
+            "lat": 45.4079421,
+            "lon": 11.2333224,
+            "timestamp": "2025-01-01T21:16:07Z",
+            "version": 2,
+            "changeset": 160885709,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Soave",
+                "addr:housenumber": "24",
+                "addr:postcode": "37038",
+                "addr:street": "Via del Commercio",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11894368491,
+            "lat": 44.9805577,
+            "lon": 10.4290873,
+            "timestamp": "2025-01-02T22:28:10Z",
+            "version": 4,
+            "changeset": 160928450,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Casalmaggiore",
+                "addr:housenumber": "49",
+                "addr:postcode": "26041",
+                "addr:street": "Via Alessandro Volta",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11900935588,
+            "lat": 44.7780622,
+            "lon": 10.8635467,
+            "timestamp": "2025-01-02T22:30:12Z",
+            "version": 3,
+            "changeset": 160928491,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Carpi",
+                "addr:housenumber": "22",
+                "addr:postcode": "41012",
+                "addr:street": "Via Dell'Integrazione",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {

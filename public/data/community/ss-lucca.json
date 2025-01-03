@@ -323,6 +323,53 @@
         },
         {
             "type": "node",
+            "id": 3127797755,
+            "lat": 43.5434457,
+            "lon": 10.303349,
+            "timestamp": "2025-01-01T12:58:46Z",
+            "version": 4,
+            "changeset": 160862037,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Livorno",
+                "addr:housenumber": "41 51",
+                "addr:postcode": "57126",
+                "addr:street": "Via Primo Levi",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Fr 09:30-13:00, 15:00-20:00; Sa 09:30-20:00; Su 10:00-13:00, 16:00-20:00",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3209003514,
+            "lat": 43.8334976,
+            "lon": 10.7034311,
+            "timestamp": "2025-01-02T21:09:05Z",
+            "version": 5,
+            "changeset": 160926295,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Altopascio",
+                "addr:housenumber": "10",
+                "addr:postcode": "55011",
+                "addr:street": "Via Ponte alla Ciliegia",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3713932580,
             "lat": 43.7667744,
             "lon": 10.3422915,
@@ -500,6 +547,29 @@
                 "sport": "skateboard;surfing",
                 "survey:date": "2023-04-24",
                 "website": "https://www.radicaltrick.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4974690612,
+            "lat": 44.0223287,
+            "lon": 10.109285,
+            "timestamp": "2025-01-01T18:27:59Z",
+            "version": 3,
+            "changeset": 160879935,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Massa",
+                "addr:housenumber": "32",
+                "addr:postcode": "54100",
+                "addr:street": "Via Massa Avenza",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -803,6 +873,29 @@
                 "phone": "+39 0586 895757",
                 "shop": "clothes",
                 "website": "https://www.doppelganger.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9276250351,
+            "lat": 43.6775529,
+            "lon": 10.4770786,
+            "timestamp": "2025-01-02T21:59:03Z",
+            "version": 2,
+            "changeset": 160927735,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Navacchio",
+                "addr:housenumber": "62",
+                "addr:postcode": "56021",
+                "addr:street": "Via Nugolaio",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         },
         {
@@ -1193,6 +1286,29 @@
                 "name": "Carnam Ciccia Club",
                 "phone": "+39 378 305 3350",
                 "website": "https://www.carnam.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11879303927,
+            "lat": 43.8914565,
+            "lon": 11.016168,
+            "timestamp": "2025-01-01T21:37:54Z",
+            "version": 2,
+            "changeset": 160886348,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Agliana",
+                "addr:housenumber": "85",
+                "addr:postcode": "51031",
+                "addr:street": "Via Panaro",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

@@ -601,6 +601,28 @@
         },
         {
             "type": "node",
+            "id": 5628224822,
+            "lat": 44.7176038,
+            "lon": 10.5859345,
+            "timestamp": "2025-01-01T18:42:22Z",
+            "version": 3,
+            "changeset": 160880407,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Reggio nell'Emilia",
+                "addr:housenumber": "2",
+                "addr:postcode": "42124",
+                "addr:street": "Viale Martiri di Piazza Tien An Men",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 5742258055,
             "lat": 45.1336971,
             "lon": 10.0232059,
@@ -908,6 +930,27 @@
         },
         {
             "type": "node",
+            "id": 9732393851,
+            "lat": 44.8591105,
+            "lon": 10.0879228,
+            "timestamp": "2025-01-01T20:44:31Z",
+            "version": 2,
+            "changeset": 160884757,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "11",
+                "addr:postcode": "43036",
+                "addr:street": "Via Galileo Ferraris",
+                "brand": "Unieuro",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 10661986526,
             "lat": 44.66928,
             "lon": 10.7403141,
@@ -1111,6 +1154,52 @@
                 "phone": "+39 34 8048 7308",
                 "survey:date": "2024-03-04",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-parma-borgo-felino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11894368491,
+            "lat": 44.9805577,
+            "lon": 10.4290873,
+            "timestamp": "2025-01-02T22:28:10Z",
+            "version": 4,
+            "changeset": 160928450,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Casalmaggiore",
+                "addr:housenumber": "49",
+                "addr:postcode": "26041",
+                "addr:street": "Via Alessandro Volta",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11900935588,
+            "lat": 44.7780622,
+            "lon": 10.8635467,
+            "timestamp": "2025-01-02T22:30:12Z",
+            "version": 3,
+            "changeset": 160928491,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Carpi",
+                "addr:housenumber": "22",
+                "addr:postcode": "41012",
+                "addr:street": "Via Dell'Integrazione",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
