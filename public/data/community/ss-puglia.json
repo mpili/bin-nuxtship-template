@@ -12,6 +12,48 @@
     "poi": [
         {
             "type": "node",
+            "id": 622527702,
+            "lat": 41.0990001,
+            "lon": 16.830864,
+            "timestamp": "2025-01-03T17:14:36Z",
+            "version": 12,
+            "changeset": 160958461,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:country": "IT",
+                "addr:housenumber": "17b",
+                "addr:postcode": "70124",
+                "addr:street": "Strada Santa Caterina",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1108920462,
+            "lat": 41.1172903,
+            "lon": 16.8213801,
+            "timestamp": "2012-08-17T16:43:35Z",
+            "version": 2,
+            "changeset": 12764524,
+            "user": "_mrp_",
+            "uid": 218322,
+            "tags": {
+                "amenity": "bicycle_parking",
+                "covered": "no",
+                "fee": "no",
+                "motorcycle": "yes",
+                "operator": "Decathlon"
+            }
+        },
+        {
+            "type": "node",
             "id": 1369021847,
             "lat": 41.1432522,
             "lon": 16.4033735,
@@ -28,6 +70,67 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "computer"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1664404816,
+            "lat": 41.0992143,
+            "lon": 16.8303008,
+            "timestamp": "2025-01-03T13:59:16Z",
+            "version": 6,
+            "changeset": 160950416,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:street": "Strada Santa Caterina",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "clothes": "women;men;children;fashion;denim;underwear",
+                "name": "OVS",
+                "operator": "OVS",
+                "second_hand": "no",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1870310546,
+            "lat": 41.1172761,
+            "lon": 16.821482,
+            "timestamp": "2020-04-11T09:13:03Z",
+            "version": 2,
+            "changeset": 83391945,
+            "user": "Alecs01",
+            "uid": 1476146,
+            "tags": {
+                "amenity": "motorcycle_parking",
+                "covered": "no",
+                "fee": "no",
+                "operator": "Decathlon"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2144740007,
+            "lat": 41.1154391,
+            "lon": 16.819014,
+            "timestamp": "2025-01-03T15:53:16Z",
+            "version": 6,
+            "changeset": 160955228,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:postcode": "70132",
+                "addr:street": "Viale Francesco de Blasio",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -99,6 +202,25 @@
                 "payment:onchain": "yes",
                 "phone": "+447894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9767657578,
+            "lat": 40.9696859,
+            "lon": 16.9243412,
+            "timestamp": "2025-01-03T17:30:34Z",
+            "version": 4,
+            "changeset": 160959044,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "phone": "+39 080 457 7211",
+                "shop": "electronics"
             }
         },
         {
@@ -256,6 +378,57 @@
         },
         {
             "type": "node",
+            "id": 11374867804,
+            "lat": 40.9615911,
+            "lon": 17.2788218,
+            "timestamp": "2025-01-03T14:27:33Z",
+            "version": 3,
+            "changeset": 160951684,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Monopoli",
+                "addr:country": "IT",
+                "addr:housenumber": "43",
+                "addr:postcode": "70043",
+                "addr:street": "Viale Aldo Moro",
+                "brand": "OVS",
+                "name": "OVS",
+                "opening_hours": "Tu-Sa 09:30-13:00, 17:00-20:30; Mo 09:30-20:00; Su 09:30-13:00, 16:30-20:30",
+                "operator": "OVS",
+                "phone": "+39 080 937 6512",
+                "shop": "clothes",
+                "website": "https://stores.ovs.it/it/italia/puglia/bari/ovs-monopoli?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Monopoli_2180"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11459550011,
+            "lat": 41.1225669,
+            "lon": 16.8715625,
+            "timestamp": "2025-01-03T14:28:42Z",
+            "version": 4,
+            "changeset": 160951740,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "116",
+                "addr:postcode": "70121",
+                "addr:street": "Via Melo da Bari",
+                "branch": "Kids",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date": "2023-12-27",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0805289272",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/it/it/stores/italia/puglia/bari/ovs-bari-via-melo-kids"
+            }
+        },
+        {
+            "type": "node",
             "id": 11751235309,
             "lat": 41.121726,
             "lon": 16.8739726,
@@ -280,6 +453,32 @@
                 "shop": "art",
                 "survey:date": "2024-03-21",
                 "website": "https://www.art-and-more.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11884852469,
+            "lat": 41.2079825,
+            "lon": 16.5520138,
+            "timestamp": "2025-01-03T09:52:38Z",
+            "version": 2,
+            "changeset": 160940508,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Molfetta",
+                "addr:country": "IT",
+                "addr:housenumber": "7, 9",
+                "addr:postcode": "70056",
+                "addr:street": "Via Adriano Olivetti",
+                "branch": "Molfetta",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "check_date": "2023-11-23",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "phone": "+39 080 3382424",
+                "shop": "sports"
             }
         },
         {
@@ -351,6 +550,30 @@
                 "email": "taleaportici@gmail.com",
                 "name": "Talea Portici",
                 "shop": "jewelry"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12056000129,
+            "lat": 41.1247069,
+            "lon": 16.8683674,
+            "timestamp": "2025-01-03T14:29:47Z",
+            "version": 3,
+            "changeset": 160951780,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "87",
+                "addr:postcode": "70122",
+                "addr:street": "Via Abate Giacinto Gimma",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0808503774",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/it/it/stores/italia/puglia/bari/ovs-bari-via-gimma"
             }
         },
         {
@@ -447,6 +670,34 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 559420055,
+            "timestamp": "2023-07-31T14:41:06Z",
+            "version": 8,
+            "changeset": 139257764,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                5395557796,
+                5433733303,
+                5395557787,
+                5433733308,
+                5433733307,
+                5433733293,
+                5395557796
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "retail",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture",
+                "website": "https://www.mondoconv.it/"
             }
         }
     ],

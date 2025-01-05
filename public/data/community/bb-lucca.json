@@ -85,6 +85,73 @@
         },
         {
             "type": "node",
+            "id": 677693002,
+            "lat": 43.8481744,
+            "lon": 11.1444052,
+            "timestamp": "2025-01-03T17:15:16Z",
+            "version": 5,
+            "changeset": 160958473,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 827405149,
+            "lat": 43.8695844,
+            "lon": 10.2423631,
+            "timestamp": "2025-01-03T15:31:47Z",
+            "version": 5,
+            "changeset": 160954307,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Viareggio",
+                "addr:housenumber": "2",
+                "addr:postcode": "55049",
+                "addr:street": "Via San Martino",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2023-04-12",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1492502714,
+            "lat": 44.0341754,
+            "lon": 10.1372783,
+            "timestamp": "2025-01-03T15:40:58Z",
+            "version": 7,
+            "changeset": 160954725,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Massa",
+                "addr:housenumber": "5",
+                "addr:postcode": "54100",
+                "addr:street": "Via Marina Vecchia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1617669203,
             "lat": 43.5487167,
             "lon": 10.324997,
@@ -109,6 +176,31 @@
         },
         {
             "type": "node",
+            "id": 1864012829,
+            "lat": 43.8728232,
+            "lon": 11.0645025,
+            "timestamp": "2025-01-03T09:18:23Z",
+            "version": 7,
+            "changeset": 160939425,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Prato",
+                "addr:housenumber": "89",
+                "addr:postcode": "59100",
+                "addr:street": "Via delle Pleiadi",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1905557365,
             "lat": 43.6758569,
             "lon": 10.4754424,
@@ -129,6 +221,44 @@
                 "name": "Mondo Convenienza",
                 "opening_hours": "09:30-20:30",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1977670183,
+            "lat": 43.9086456,
+            "lon": 10.9955687,
+            "timestamp": "2025-01-03T17:19:35Z",
+            "version": 6,
+            "changeset": 160958619,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2412833409,
+            "lat": 43.6257939,
+            "lon": 10.6213009,
+            "timestamp": "2025-01-03T15:59:02Z",
+            "version": 3,
+            "changeset": 160955463,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ponsacco",
+                "addr:postcode": "56038",
+                "addr:street": "Via Bologna",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -293,6 +423,55 @@
         },
         {
             "type": "node",
+            "id": 2982900042,
+            "lat": 43.9304681,
+            "lon": 10.9151299,
+            "timestamp": "2025-01-03T16:05:45Z",
+            "version": 4,
+            "changeset": 160955773,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pistoia",
+                "addr:housenumber": "13",
+                "addr:postcode": "51100",
+                "addr:street": "Via Atto Vannucci",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3102271821,
+            "lat": 43.7123902,
+            "lon": 10.3997976,
+            "timestamp": "2025-01-03T14:03:57Z",
+            "version": 6,
+            "changeset": 160950639,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pisa",
+                "addr:housenumber": "118;120",
+                "addr:postcode": "56125",
+                "addr:street": "Corso Italia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2023-10-07",
+                "fax": "+39 050 470 98",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 050 501 088",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3109248291,
             "lat": 43.8486025,
             "lon": 10.5237788,
@@ -370,6 +549,54 @@
         },
         {
             "type": "node",
+            "id": 3226440513,
+            "lat": 43.67428,
+            "lon": 10.4750661,
+            "timestamp": "2025-01-03T16:54:04Z",
+            "version": 5,
+            "changeset": 160957647,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cascina",
+                "addr:housenumber": "457",
+                "addr:postcode": "56021",
+                "addr:street": "Via del Fosso Vecchio",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "level": "1",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3647648283,
+            "lat": 43.8612043,
+            "lon": 10.7640935,
+            "timestamp": "2025-01-03T16:14:38Z",
+            "version": 4,
+            "changeset": 160956144,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Montecatini Terme",
+                "addr:housenumber": "48",
+                "addr:postcode": "51016",
+                "addr:street": "Via Biscolla",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3713932580,
             "lat": 43.7667744,
             "lon": 10.3422915,
@@ -416,6 +643,33 @@
                 "start_date": "2020-11-14",
                 "survey:date": "2024-02-20",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.010155.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3784590817,
+            "lat": 43.842695,
+            "lon": 10.5036654,
+            "timestamp": "2025-01-03T14:06:00Z",
+            "version": 7,
+            "changeset": 160950727,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Lucca",
+                "addr:housenumber": "13",
+                "addr:postcode": "55100",
+                "addr:street": "Via Roma",
+                "branch": "Industry",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-20:00; Su,PH 10:00-13:00,15:00-19:30",
+                "operator": "OVS",
+                "phone": "+39 0583 467272",
+                "shop": "clothes",
+                "website": "https://negozi.ovs.it/en/stores/italy/lucca/ovs-lucca_01504.aspx",
+                "wheelchair": "yes"
             }
         },
         {
@@ -547,6 +801,38 @@
                 "sport": "skateboard;surfing",
                 "survey:date": "2023-04-24",
                 "website": "https://www.radicaltrick.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4916909377,
+            "lat": 44.0765143,
+            "lon": 10.0973917,
+            "timestamp": "2025-01-03T14:10:17Z",
+            "version": 10,
+            "changeset": 160950935,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Carrara",
+                "addr:country": "IT",
+                "addr:housenumber": "56",
+                "addr:postcode": "54033",
+                "addr:province": "Massa-Carrara",
+                "addr:street": "Piazza Giacomo Matteotti",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "opening_hours": "9:00-19:30; 13:00-15:30",
+                "operator": "OVS",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:telephone_cards": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 0585 779618",
+                "ref:anncsu": "3300",
+                "shop": "clothes"
             }
         },
         {
@@ -948,6 +1234,26 @@
         },
         {
             "type": "node",
+            "id": 9770542786,
+            "lat": 43.7139722,
+            "lon": 10.9238015,
+            "timestamp": "2025-01-03T17:30:51Z",
+            "version": 6,
+            "changeset": 160959056,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "phone": "+39 057120940111",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 9947344356,
             "lat": 43.5489398,
             "lon": 10.3147908,
@@ -991,6 +1297,24 @@
                 "shop": "supermarket",
                 "source": "https://www.gdonews.it/2022/10/20/la-nuova-insegna-tuday-conad-inaugura-a-pistoia/",
                 "start_date": "2022-10-20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10202296781,
+            "lat": 43.7227816,
+            "lon": 10.9739028,
+            "timestamp": "2022-11-19T17:05:15Z",
+            "version": 1,
+            "changeset": 129131776,
+            "user": "vignaccia",
+            "uid": 208336,
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
             }
         },
         {
@@ -1389,6 +1713,372 @@
                 "rooms": "3",
                 "tourism": "guest_house",
                 "website": "https://www.airbnb.it/rooms/1154847943262556026?source_impression_id=p3_1715718447_27pg%2Btq5EJ7t4s%2Fx"
+            }
+        },
+        {
+            "type": "way",
+            "id": 104826426,
+            "timestamp": "2024-07-16T11:09:59Z",
+            "version": 17,
+            "changeset": 154009948,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                6617240541,
+                6617241258,
+                6617243947,
+                6617239709,
+                6617241712,
+                6617244438,
+                6617240309,
+                12057017849,
+                12057017850,
+                6617242105,
+                6617244852,
+                6617240541
+            ],
+            "tags": {
+                "addr:city": "San Giuliano Terme",
+                "addr:housenumber": "31",
+                "addr:postcode": "56017",
+                "addr:street": "Via Pietrasantina",
+                "brand": "Spazio Conad",
+                "brand:wikidata": "Q118130063",
+                "brand:wikipedia": "it:Conad",
+                "building": "commercial",
+                "contact:fax": "+39 050 894890",
+                "contact:phone": "+39 050 890842",
+                "contact:website": "https://www.conad.it",
+                "name": "Spazio Conad",
+                "opening_hours": "Mo-Su 08:00-20:30",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.003699.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 156097273,
+            "timestamp": "2024-10-14T08:30:54Z",
+            "version": 16,
+            "changeset": 157865118,
+            "user": "bremanu",
+            "uid": 13158542,
+            "nodes": [
+                1683988378,
+                10621051284,
+                11042358738,
+                11042358739,
+                1683988312,
+                1683988274,
+                1683988378
+            ],
+            "tags": {
+                "addr:city": "Pisa",
+                "addr:housenumber": "5",
+                "addr:postcode": "56125",
+                "addr:street": "Via Giuseppe Benedetto Cottolengo",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "yes",
+                "contact:phone": "+39 050 500 192",
+                "contact:website": "https://www.conad.it/",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 09:00-20:00",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "https://www.conad.it/ricerca-negozi/negozio.009203.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 161295195,
+            "timestamp": "2022-08-03T11:32:23Z",
+            "version": 8,
+            "changeset": 124432430,
+            "user": "finnnns",
+            "uid": 437456,
+            "nodes": [
+                1732852585,
+                1732852574,
+                1732852586,
+                1732852602,
+                1732852585
+            ],
+            "tags": {
+                "addr:housenumber": "479",
+                "addr:street": "Via Stradella",
+                "building": "yes",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 233704389,
+            "timestamp": "2021-05-09T12:46:47Z",
+            "version": 6,
+            "changeset": 104395279,
+            "user": "Andrea Del Sarto",
+            "uid": 3215770,
+            "nodes": [
+                2420500933,
+                2420500958,
+                2420500956,
+                2420500952,
+                2420500950,
+                2420500925,
+                2420500929,
+                2420500933
+            ],
+            "tags": {
+                "addr:city": "Marina di Pisa",
+                "addr:housenumber": "39",
+                "addr:postcode": "56128",
+                "addr:street": "Via Maiorca",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "yes",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 255482371,
+            "timestamp": "2020-05-13T06:22:22Z",
+            "version": 2,
+            "changeset": 85122659,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                2611691095,
+                2611691096,
+                2611691097,
+                2611691098,
+                2611691099,
+                2611691100,
+                2611691101,
+                2611691102,
+                2611691103,
+                2611691104,
+                2611691095
+            ],
+            "tags": {
+                "addr:city": "Prato",
+                "addr:housenumber": "3",
+                "addr:postcode": "59100",
+                "addr:street": "Via Anna Kuliscioff",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 07:30-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0574 651618",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.004839.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 476927487,
+            "timestamp": "2024-12-08T15:33:43Z",
+            "version": 3,
+            "changeset": 160061031,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
+            "nodes": [
+                4703473954,
+                4703473535,
+                4703473540,
+                4703474032,
+                4703473954
+            ],
+            "tags": {
+                "building": "yes",
+                "craft": "handicraft",
+                "currency:XBT": "yes",
+                "name": "Stenopeika Large Format Cameras",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+3905731716127",
+                "website": "https://www.stenopeika.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 498330232,
+            "timestamp": "2023-07-14T11:25:01Z",
+            "version": 2,
+            "changeset": 138503226,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4897790346,
+                4897790345,
+                11046307103,
+                4897790344,
+                4897789564,
+                4897790346
+            ],
+            "tags": {
+                "addr:housenumber": "48/A1",
+                "addr:street": "Via del Commercio",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "commercial",
+                "name": "Conad",
+                "official_name": "Consorzio Nazionale Dettaglianti",
+                "opening_hours": "Mo-Sa 08:00-20:00;Su 08:00-13:00",
+                "operator": "Conad",
+                "phone": "+39 0587 684081",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 540037084,
+            "timestamp": "2023-07-31T14:41:06Z",
+            "version": 4,
+            "changeset": 139257764,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                5225047799,
+                5225047477,
+                5225046990,
+                5225047500,
+                5225047860,
+                5225047795,
+                5225047828,
+                10199159228,
+                5225047823,
+                5225047847,
+                5225047871,
+                5225047929,
+                5225047373,
+                5225047358,
+                10199159229,
+                5225047954,
+                5225047964,
+                5225047799
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "yes",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "operator": "Mondo Convenienza",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 704956461,
+            "timestamp": "2022-09-29T14:40:09Z",
+            "version": 2,
+            "changeset": 126784206,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                6621078477,
+                6621096764,
+                6621099520,
+                6621093346,
+                6621096032,
+                6621098780,
+                6621078477
+            ],
+            "tags": {
+                "addr:city": "Pappiana",
+                "addr:street": "Via Giacomo Brodolini",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "commercial",
+                "height": "10.53",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 723601923,
+            "timestamp": "2021-01-09T20:50:45Z",
+            "version": 2,
+            "changeset": 97228573,
+            "user": "Prt_An",
+            "uid": 1248925,
+            "nodes": [
+                6786785950,
+                6786785949,
+                6786785948,
+                6786785947,
+                6786785946,
+                6786785945,
+                6786785944,
+                6786785950
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "commercial",
+                "height": "7.46",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1330384290,
+            "timestamp": "2024-11-03T11:39:58Z",
+            "version": 1,
+            "changeset": 158694955,
+            "user": "vbertola",
+            "uid": 4347030,
+            "nodes": [
+                12309283635,
+                12309283636,
+                12309283642,
+                12309283637,
+                12309283638,
+                12309283635
+            ],
+            "tags": {
+                "addr:city": "Coreglia Antelminelli",
+                "addr:housenumber": "5",
+                "addr:postcode": "55025",
+                "addr:street": "Via di Ludovica",
+                "amenity": "restaurant",
+                "building": "yes",
+                "check_date": "2022-12-20",
+                "check_date:currency:XBT": "2023-07-18",
+                "contact:facebook": "https://www.facebook.com/people/Pizzeria-da-MIKE/100063618574875/",
+                "cuisine": "pizza;burger",
+                "currency:XBT": "yes",
+                "name": "Mara Meo",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 339 577 6396",
+                "website": "https://www.marameo-lucca.it/"
             }
         }
     ],

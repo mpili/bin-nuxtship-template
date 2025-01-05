@@ -124,6 +124,28 @@
         },
         {
             "type": "node",
+            "id": 441162531,
+            "lat": 45.6808856,
+            "lon": 9.608224,
+            "timestamp": "2025-01-03T10:00:59Z",
+            "version": 3,
+            "changeset": 160940847,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Curno",
+                "addr:housenumber": "2",
+                "addr:postcode": "24035",
+                "addr:street": "Via Enrico Fermi",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 622569807,
             "lat": 45.6718793,
             "lon": 9.2318216,
@@ -231,6 +253,151 @@
         },
         {
             "type": "node",
+            "id": 1362112589,
+            "lat": 45.526318,
+            "lon": 9.22924,
+            "timestamp": "2025-01-03T13:58:26Z",
+            "version": 6,
+            "changeset": 160950374,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Sesto San Giovanni",
+                "addr:country": "IT",
+                "addr:housenumber": "335",
+                "addr:postcode": "20099",
+                "addr:street": "Viale Ercole Marelli",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "kids_area": "no",
+                "level": "0",
+                "name": "OVS",
+                "operator": "OVS",
+                "organic": "yes",
+                "second_hand": "no",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1385232760,
+            "lat": 45.3928842,
+            "lon": 9.1779779,
+            "timestamp": "2025-01-03T17:17:20Z",
+            "version": 6,
+            "changeset": 160958540,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "hifi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1396580528,
+            "lat": 45.3893707,
+            "lon": 9.1756567,
+            "timestamp": "2025-01-03T10:03:43Z",
+            "version": 7,
+            "changeset": 160940962,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rozzano",
+                "addr:housenumber": "10/12",
+                "addr:postcode": "20089",
+                "addr:street": "via Sandro Pertini",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1483473722,
+            "lat": 45.452805,
+            "lon": 9.1447506,
+            "timestamp": "2025-01-03T15:40:09Z",
+            "version": 8,
+            "changeset": 160954690,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "2",
+                "addr:postcode": "20146",
+                "addr:street": "Via Pietro Redaelli",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2023-06-21",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:30; Aug 15 off",
+                "operator": "OVS",
+                "phone": "+39 02 4895 8218",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1499956281,
+            "lat": 45.463393,
+            "lon": 9.1876639,
+            "timestamp": "2025-01-03T15:41:44Z",
+            "version": 8,
+            "changeset": 160954761,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "2",
+                "addr:postcode": "20123",
+                "addr:street": "Via Spadari",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "contact:phone": "+39 02 0289010750",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-21:00",
+                "operator": "OVS",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1547614866,
+            "lat": 45.5497631,
+            "lon": 9.2380738,
+            "timestamp": "2025-01-03T09:17:26Z",
+            "version": 9,
+            "changeset": 160939392,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cinisello Balsamo",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "20092",
+                "addr:street": "Viale Brianza",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "clothes": "sports",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 1741726582,
             "lat": 45.6370939,
             "lon": 8.907677,
@@ -301,6 +468,35 @@
         },
         {
             "type": "node",
+            "id": 1832528981,
+            "lat": 45.4686668,
+            "lon": 9.1823737,
+            "timestamp": "2021-10-09T12:45:26Z",
+            "version": 10,
+            "changeset": 112299817,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "74/76",
+                "addr:postcode": "20121",
+                "addr:street": "Foro Buonaparte",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "contact:phone": "+39 02 80509755",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "phone": "+39 02 80509755",
+                "ref:vatin": "IT11005760159",
+                "shop": "sports",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1837526866,
             "lat": 45.4865374,
             "lon": 9.2161844,
@@ -325,6 +521,84 @@
                 "ref:msal": "2887",
                 "ref:vatin": "IT10703870153",
                 "source": "Ministero della Salute"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1840537516,
+            "lat": 45.6112226,
+            "lon": 9.2414503,
+            "timestamp": "2025-01-03T13:59:46Z",
+            "version": 6,
+            "changeset": 160950440,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Lissone",
+                "addr:country": "IT",
+                "addr:housenumber": "1/3/5",
+                "addr:postcode": "20851",
+                "addr:street": "Via Assunta",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 039 483802",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1841411454,
+            "lat": 45.6258558,
+            "lon": 9.0371708,
+            "timestamp": "2025-01-03T14:00:03Z",
+            "version": 6,
+            "changeset": 160950454,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Saronno",
+                "addr:housenumber": "52",
+                "addr:postcode": "21047",
+                "addr:street": "Piazza Libert\u00e0",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1848307315,
+            "lat": 45.5458132,
+            "lon": 9.4550183,
+            "timestamp": "2025-01-03T15:46:53Z",
+            "version": 4,
+            "changeset": 160954965,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bellinzago Lombardo",
+                "addr:housenumber": "154",
+                "addr:postcode": "20060",
+                "addr:street": "Strada Statale 11",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date": "2023-02-12",
+                "internet_access": "no",
+                "level": "2",
+                "name": "OVS",
+                "operator": "OVS",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -383,6 +657,106 @@
                 "ref:vatin": "IT00876320409",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1922663958,
+            "lat": 45.5227785,
+            "lon": 9.214829,
+            "timestamp": "2025-01-03T14:00:35Z",
+            "version": 9,
+            "changeset": 160950472,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "232",
+                "addr:postcode": "20126",
+                "addr:street": "Viale Sarca",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "opening_hours": "Mo-Su 10:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 02 6611 1436",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2096701036,
+            "lat": 45.4768082,
+            "lon": 9.1843784,
+            "timestamp": "2025-01-03T14:01:38Z",
+            "version": 11,
+            "changeset": 160950553,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housename": "OVS",
+                "addr:housenumber": "72",
+                "addr:postcode": "20121",
+                "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:00,15:00-19:30",
+                "operator": "OVS",
+                "phone": "+39 02 6551649",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2101180295,
+            "lat": 45.4623623,
+            "lon": 9.2099634,
+            "timestamp": "2025-01-03T15:50:56Z",
+            "version": 3,
+            "changeset": 160955130,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:street": "Via Decumano",
+                "branch": "Industry",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2145292151,
+            "lat": 45.5545549,
+            "lon": 8.6445324,
+            "timestamp": "2025-01-03T15:54:19Z",
+            "version": 3,
+            "changeset": 160955286,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bellinzago Novarese",
+                "addr:housenumber": "225",
+                "addr:postcode": "28043",
+                "addr:street": "Via Libert\u00e0",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -453,6 +827,31 @@
         },
         {
             "type": "node",
+            "id": 2387910038,
+            "lat": 45.4981751,
+            "lon": 9.2366936,
+            "timestamp": "2025-01-03T14:02:01Z",
+            "version": 7,
+            "changeset": 160950575,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:postcode": "20132",
+                "addr:street": "Via Oropa",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00,15:00-19:30",
+                "operator": "OVS",
+                "phone": "+39 02 28970800",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2389503405,
             "lat": 45.3536264,
             "lon": 9.6636353,
@@ -496,6 +895,35 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2528627339,
+            "lat": 45.6624348,
+            "lon": 9.2167596,
+            "timestamp": "2025-01-03T16:00:27Z",
+            "version": 4,
+            "changeset": 160955535,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Seregno",
+                "addr:housenumber": "71",
+                "addr:postcode": "20831",
+                "addr:street": "Via Briantina",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "clothes": "women;men;underwear;children;hats;outdoor;denim;socks;swimwear",
+                "indoor": "yes",
+                "level": "0",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 09:30-19:30",
+                "operator": "OVS",
+                "phone": "+39 0362 314057",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/en/it/stores/italy/lombardia/monza-e-brianza/ovs-seregno"
             }
         },
         {
@@ -548,6 +976,31 @@
         },
         {
             "type": "node",
+            "id": 2591565036,
+            "lat": 45.6440213,
+            "lon": 8.8195119,
+            "timestamp": "2025-01-03T14:02:33Z",
+            "version": 5,
+            "changeset": 160950592,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Gallarate",
+                "addr:country": "IT",
+                "addr:housenumber": "165",
+                "addr:postcode": "21013",
+                "addr:street": "Viale Milano",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0331 245708",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2622478068,
             "lat": 45.4042319,
             "lon": 9.2726917,
@@ -569,6 +1022,46 @@
                 "phone": "+39 02 98241666",
                 "shop": "computer",
                 "website": "https://pegasoteam.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2627000089,
+            "lat": 45.6808598,
+            "lon": 9.6076385,
+            "timestamp": "2025-01-03T16:03:15Z",
+            "version": 3,
+            "changeset": 160955654,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Curno",
+                "addr:housenumber": "2",
+                "addr:postcode": "24035",
+                "addr:street": "Via Enrico Fermi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2627000111,
+            "lat": 45.6832966,
+            "lon": 9.6116732,
+            "timestamp": "2025-01-03T17:21:38Z",
+            "version": 4,
+            "changeset": 160958717,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -627,6 +1120,29 @@
         },
         {
             "type": "node",
+            "id": 2776102704,
+            "lat": 45.1889928,
+            "lon": 9.1476089,
+            "timestamp": "2025-01-03T14:03:10Z",
+            "version": 4,
+            "changeset": 160950617,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pavia",
+                "addr:country": "IT",
+                "addr:housenumber": "70",
+                "addr:postcode": "27100",
+                "addr:street": "Viale Cesare Battisti",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2991405599,
             "lat": 45.4643444,
             "lon": 9.1871859,
@@ -677,6 +1193,74 @@
         },
         {
             "type": "node",
+            "id": 2996234133,
+            "lat": 45.7854619,
+            "lon": 9.0487921,
+            "timestamp": "2025-01-03T16:06:31Z",
+            "version": 2,
+            "changeset": 160955799,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Montano Lucino",
+                "addr:housenumber": "1",
+                "addr:postcode": "22070",
+                "addr:street": "Via Enzo Ratti",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3023303444,
+            "lat": 45.4670444,
+            "lon": 9.1836051,
+            "timestamp": "2025-01-03T14:03:25Z",
+            "version": 7,
+            "changeset": 160950622,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "13 N04",
+                "addr:postcode": "20123",
+                "addr:street": "Via Dante",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3045965410,
+            "lat": 45.1539586,
+            "lon": 9.1266032,
+            "timestamp": "2025-01-03T10:11:25Z",
+            "version": 5,
+            "changeset": 160941254,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Martino Siccomario",
+                "addr:housenumber": "3-5",
+                "addr:postcode": "27028",
+                "addr:street": "Strada Provinciale Per Mortara",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "clothes": "sports",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 3052616204,
             "lat": 45.6804718,
             "lon": 8.7232517,
@@ -699,6 +1283,27 @@
                 "phone": "+39 0331 255647",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3096402784,
+            "lat": 45.5613439,
+            "lon": 9.228458,
+            "timestamp": "2025-01-03T14:03:43Z",
+            "version": 3,
+            "changeset": 160950632,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cinisello Balsamo",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "20092",
+                "addr:street": "Via Edmondo De Amicis",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "department_store"
             }
         },
         {
@@ -746,6 +1351,23 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3217502399,
+            "lat": 45.4895236,
+            "lon": 9.1519347,
+            "timestamp": "2025-01-03T17:22:17Z",
+            "version": 3,
+            "changeset": 160958737,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "amenity": "parking",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "parking": "surface"
             }
         },
         {
@@ -867,6 +1489,32 @@
         },
         {
             "type": "node",
+            "id": 3374366945,
+            "lat": 45.6424739,
+            "lon": 8.8197142,
+            "timestamp": "2025-01-03T09:44:43Z",
+            "version": 5,
+            "changeset": 160940223,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Gallarate",
+                "addr:country": "IT",
+                "addr:housenumber": "175",
+                "addr:postcode": "21013",
+                "addr:street": "Viale Milano",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "phone": "+39 0331701660",
+                "ref:vatin": "IT11005760159",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 3450199481,
             "lat": 45.682301,
             "lon": 9.7891972,
@@ -887,6 +1535,33 @@
                 "note": "Consulente Benessere - Optionwinner",
                 "website": "http://holystica.net/esserebenessere/marco-capogrosso",
                 "website_1": "http://twimt.it/index.php?aid=13"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3546453893,
+            "lat": 45.6096903,
+            "lon": 8.9635781,
+            "timestamp": "2025-01-03T09:45:07Z",
+            "version": 7,
+            "changeset": 160940230,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rescaldina",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "20027",
+                "addr:street": "Via Palmiro Togliatti",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "level": "1",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "ref:vatin": "IT11005760159",
+                "shop": "sports",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1016,6 +1691,24 @@
         },
         {
             "type": "node",
+            "id": 4026523582,
+            "lat": 45.5451691,
+            "lon": 9.3279064,
+            "timestamp": "2025-01-03T17:23:52Z",
+            "version": 3,
+            "changeset": 160958808,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4223539909,
             "lat": 45.5638168,
             "lon": 9.0539935,
@@ -1098,6 +1791,31 @@
         },
         {
             "type": "node",
+            "id": 4243024298,
+            "lat": 45.6936039,
+            "lon": 9.6695478,
+            "timestamp": "2025-01-03T16:22:06Z",
+            "version": 9,
+            "changeset": 160956457,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bergamo",
+                "addr:housenumber": "53",
+                "addr:postcode": "24122",
+                "addr:street": "Via Gerolamo Tiraboschi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "loc_ref": "77202",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4254689701,
             "lat": 45.6707486,
             "lon": 8.9589439,
@@ -1118,6 +1836,60 @@
                 "operator": "Conad",
                 "shop": "supermarket",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4339004198,
+            "lat": 45.4783067,
+            "lon": 9.2084204,
+            "timestamp": "2025-01-03T14:07:35Z",
+            "version": 7,
+            "changeset": 160950807,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "21",
+                "addr:postcode": "20124",
+                "addr:street": "Corso Buenos Aires",
+                "branch": "Buenos Aires",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "contact:phone": "+39 02 29521352",
+                "contact:website": "https://stores.ovs.it/it/italia/lombardia/milano/ovs-milano-buenos-aires",
+                "contact:whatsapp": "+39 348 0114594",
+                "name": "OVS",
+                "opening_hours": "Mo-Fr 10:15-20:00; Sa,Su 10:00-20:00",
+                "operator": "OVS",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4394585852,
+            "lat": 45.4490519,
+            "lon": 9.1799052,
+            "timestamp": "2025-01-03T16:25:20Z",
+            "version": 5,
+            "changeset": 160956591,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "29/31",
+                "addr:postcode": "20136",
+                "addr:street": "Corso San Gottardo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "source": "survey"
             }
         },
         {
@@ -1168,6 +1940,26 @@
         },
         {
             "type": "node",
+            "id": 4634495834,
+            "lat": 45.4418039,
+            "lon": 9.0413251,
+            "timestamp": "2025-01-03T16:31:15Z",
+            "version": 3,
+            "changeset": 160956829,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cusago",
+                "addr:housenumber": "30",
+                "addr:postcode": "20090",
+                "addr:street": "Viale Europa",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4708357239,
             "lat": 45.4903659,
             "lon": 9.2037822,
@@ -1189,6 +1981,32 @@
                 "opening_hours": "Mo-Sa 07:00-02:00",
                 "payment:bitcoin:operator": "inbitcoin.it",
                 "website": "https://niksandco.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4864383976,
+            "lat": 45.4829464,
+            "lon": 9.1593941,
+            "timestamp": "2025-01-03T14:10:01Z",
+            "version": 6,
+            "changeset": 160950923,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "15/2",
+                "addr:postcode": "20149",
+                "addr:street": "Via Arona",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date:opening_hours": "2022-12-04",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00,15:00-19:30",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -1219,6 +2037,26 @@
                 "phone": "+393756370904",
                 "shop": "beauty",
                 "website": "https://setabeauty.com/index.php"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4921865544,
+            "lat": 45.4045793,
+            "lon": 9.1538254,
+            "timestamp": "2025-01-03T17:25:50Z",
+            "version": 5,
+            "changeset": 160958877,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/mw/puntivendita/milanofiori",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1265,6 +2103,26 @@
                 "phone": "+39 800 593 261",
                 "shop": "equipment_rental",
                 "website": "https://www.ecotaurus.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5203996621,
+            "lat": 45.5338633,
+            "lon": 9.193019,
+            "timestamp": "2024-08-24T15:41:17Z",
+            "version": 2,
+            "changeset": 155702737,
+            "user": "Cristian1989",
+            "uid": 429539,
+            "tags": {
+                "addr:city": "Bresso",
+                "addr:housenumber": "92",
+                "addr:postcode": "20091",
+                "addr:street": "Via Vittorio Veneto",
+                "name": "OVS Kids",
+                "operator": "OVS",
+                "shop": "baby_goods"
             }
         },
         {
@@ -1352,6 +2210,31 @@
         },
         {
             "type": "node",
+            "id": 5273151185,
+            "lat": 45.6011719,
+            "lon": 8.8932928,
+            "timestamp": "2025-01-03T14:11:21Z",
+            "version": 4,
+            "changeset": 160950982,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Legnano",
+                "addr:country": "IT",
+                "addr:housenumber": "271",
+                "addr:postcode": "20025",
+                "addr:street": "Viale Sabotino",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0331 1351682",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5287820724,
             "lat": 45.596133,
             "lon": 8.911783,
@@ -1426,6 +2309,25 @@
                 "note": "Per pagare in Bitcoin bisogna fare l'abbonamento",
                 "phone": "+39 025353",
                 "website": "https://www.025353.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5333405295,
+            "lat": 45.4792765,
+            "lon": 8.9482897,
+            "timestamp": "2025-01-03T17:26:58Z",
+            "version": 4,
+            "changeset": 160958918,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1578,6 +2480,45 @@
                 "check_date:currency:XBT": "2023-03-14",
                 "currency:XBT": "yes",
                 "name": "City Life Cafe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5761377054,
+            "lat": 45.6511508,
+            "lon": 9.2012148,
+            "timestamp": "2025-01-03T14:13:46Z",
+            "version": 3,
+            "changeset": 160951080,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Seregno",
+                "addr:country": "IT",
+                "addr:housenumber": "98",
+                "addr:postcode": "20831",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5818862265,
+            "lat": 45.5317599,
+            "lon": 9.1062491,
+            "timestamp": "2018-08-08T19:15:18Z",
+            "version": 1,
+            "changeset": 61478514,
+            "user": "phaerrax",
+            "uid": 4890411,
+            "tags": {
+                "amenity": "bicycle_repair_station",
+                "operator": "Decathlon",
+                "service:bicycle:pump": "yes"
             }
         },
         {
@@ -1828,6 +2769,32 @@
                 "name": "Falegnameria Artigianale Wood",
                 "survey:date": "2022-11-03",
                 "website": "https://www.woodmilano.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6412171986,
+            "lat": 45.5475423,
+            "lon": 9.3348023,
+            "timestamp": "2024-07-24T11:27:36Z",
+            "version": 3,
+            "changeset": 154345328,
+            "user": "Aiman",
+            "uid": 67550,
+            "tags": {
+                "addr:city": "Carugate",
+                "addr:postcode": "20061",
+                "addr:street": "Via Guido Rossa",
+                "branch": "Carugate",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "contact:phone": "+39 02 9215 1970",
+                "level": "0",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:30-20:00; PH closed",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2171,6 +3138,31 @@
                 "start_date": "2019-12-18",
                 "url": "https://coinatmradar.com/bitcoin_atm/10875/bitcoin-atm-shitcoins-club-milan-punto-atm-bitcoin/",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-milano-via-teodosio"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7217012387,
+            "lat": 45.4965976,
+            "lon": 9.1142508,
+            "timestamp": "2025-01-03T14:15:51Z",
+            "version": 3,
+            "changeset": 160951164,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "23",
+                "addr:postcode": "20151",
+                "addr:street": "Via Giacomo Quarenghi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "fixme": "Position estimated",
+                "level": "1",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -2616,6 +3608,31 @@
         },
         {
             "type": "node",
+            "id": 9105866124,
+            "lat": 45.5142985,
+            "lon": 9.2436493,
+            "timestamp": "2025-01-03T14:20:31Z",
+            "version": 2,
+            "changeset": 160951378,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "83",
+                "addr:postcode": "20128",
+                "addr:street": "Via Adriano",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 02 83642999",
+                "shop": "clothes",
+                "website": "https://stores.ovs.it/it/italia/lombardia/milano/ovs-milano-via-adriano?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Milano_4776"
+            }
+        },
+        {
+            "type": "node",
             "id": 9308132564,
             "lat": 45.4931467,
             "lon": 9.1913046,
@@ -2706,6 +3723,34 @@
         },
         {
             "type": "node",
+            "id": 9492821577,
+            "lat": 45.5917477,
+            "lon": 8.9364713,
+            "timestamp": "2025-01-03T14:22:36Z",
+            "version": 5,
+            "changeset": 160951493,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Vittore Olona",
+                "addr:housenumber": "9;11",
+                "addr:postcode": "20028",
+                "addr:street": "Via Sempione",
+                "branch": "San Vittore Olona",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "clothes": "women;children;men;underwear",
+                "contact:phone": "+39 0331 518587",
+                "contact:website": "https://stores.ovs.it/it/italia/lombardia/milano/ovs-san-vittore-olona",
+                "name": "OVS",
+                "operator": "OVS",
+                "ref:vatin": "IT0420010274",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9672057886,
             "lat": 45.756982,
             "lon": 9.7953021,
@@ -2725,6 +3770,28 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9693529392,
+            "lat": 45.4667852,
+            "lon": 9.1578431,
+            "timestamp": "2025-01-03T14:23:13Z",
+            "version": 2,
+            "changeset": 160951516,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "42/52",
+                "addr:postcode": "20144",
+                "addr:street": "Corso Vercelli",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -2781,6 +3848,29 @@
         },
         {
             "type": "node",
+            "id": 9931760743,
+            "lat": 45.5639505,
+            "lon": 9.0545087,
+            "timestamp": "2025-01-03T17:31:09Z",
+            "version": 3,
+            "changeset": 160959066,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Arese",
+                "addr:housenumber": "11",
+                "addr:postcode": "20020",
+                "addr:street": "Viale Giuseppe Eugenio Luraghi",
+                "branch": "Arese",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9931760746,
             "lat": 45.5638828,
             "lon": 9.0563989,
@@ -2817,6 +3907,29 @@
                 "name": "Ecotaurus - Noleggio Bagni chimici",
                 "shop": "trade",
                 "website": "https://www.ecotaurus.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10106755862,
+            "lat": 45.6482965,
+            "lon": 9.6309897,
+            "timestamp": "2025-01-03T17:31:26Z",
+            "version": 5,
+            "changeset": 160959071,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:housenumber": "62/64",
+                "addr:street": "Via Guzzanica",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "check_date": "2024-11-23",
+                "level": "0",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Su,PH 09:00-21:00",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -3219,6 +4332,22 @@
         },
         {
             "type": "node",
+            "id": 10294912291,
+            "lat": 45.4851528,
+            "lon": 9.263174,
+            "timestamp": "2022-12-30T11:07:18Z",
+            "version": 1,
+            "changeset": 130681711,
+            "user": "LuSirto",
+            "uid": 506470,
+            "tags": {
+                "access": "private",
+                "emergency": "assembly_point",
+                "operator": "Decathlon"
+            }
+        },
+        {
+            "type": "node",
             "id": 10296649679,
             "lat": 45.4642318,
             "lon": 9.1892532,
@@ -3462,6 +4591,32 @@
         },
         {
             "type": "node",
+            "id": 10931732133,
+            "lat": 45.6646348,
+            "lon": 9.6930721,
+            "timestamp": "2025-01-03T17:32:42Z",
+            "version": 4,
+            "changeset": 160959105,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:housenumber": "71",
+                "addr:street": "Via Portico",
+                "brand": "MediaMarkt",
+                "brand:wikidata": "Q2381223",
+                "check_date": "2024-01-14",
+                "internet_access": "no",
+                "level": "1",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10982745111,
             "lat": 45.954991,
             "lon": 8.9299404,
@@ -3520,6 +4675,30 @@
                 "operator": "Unieuro S.p.A.",
                 "phone": "031 5490064",
                 "shop": "appliance"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11020533165,
+            "lat": 45.4827606,
+            "lon": 9.2130988,
+            "timestamp": "2025-01-03T11:09:51Z",
+            "version": 4,
+            "changeset": 160943449,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "59",
+                "addr:postcode": "20124",
+                "addr:street": "Corso Buenos Aires",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 10:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "wheelchair": "yes"
             }
         },
         {
@@ -3906,6 +5085,29 @@
                 "name": "Mauro Pizzeria e Gastronomia",
                 "phone": "+39 035259665",
                 "website": "https://mauropizzeriaegastronomia.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11379551959,
+            "lat": 45.5140954,
+            "lon": 9.103614,
+            "timestamp": "2025-01-03T11:08:31Z",
+            "version": 4,
+            "changeset": 160943391,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "61",
+                "addr:postcode": "20151",
+                "addr:street": "Via Gottlieb Wilhelm Daimler",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "check_date": "2024-12-29",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
             }
         },
         {
@@ -4784,6 +5986,32 @@
         },
         {
             "type": "node",
+            "id": 12306912803,
+            "lat": 45.6142918,
+            "lon": 9.0351735,
+            "timestamp": "2025-01-03T09:53:14Z",
+            "version": 2,
+            "changeset": 160940536,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Saronno",
+                "addr:housenumber": "1",
+                "addr:postcode": "21047",
+                "addr:street": "Via Varese",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "contact:phone": "+39 02 45076049",
+                "contact:website": "https://www.decathlon.it/store-view/negozio-sport-saronno-varese-0070073300733",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 12320616470,
             "lat": 45.8402686,
             "lon": 9.0183455,
@@ -4839,6 +6067,25 @@
         },
         {
             "type": "node",
+            "id": 12391651515,
+            "lat": 45.705062,
+            "lon": 9.6916071,
+            "timestamp": "2025-01-03T10:59:19Z",
+            "version": 2,
+            "changeset": 160943048,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bergamo",
+                "addr:postcode": "24124",
+                "addr:street": "Via Bianzana",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 12409088940,
             "lat": 45.8737441,
             "lon": 8.9796127,
@@ -4870,6 +6117,567 @@
                 "payment:onchain": "yes",
                 "phone": "+41916467221",
                 "website": "quickexchange.ch"
+            }
+        },
+        {
+            "type": "way",
+            "id": 130125945,
+            "timestamp": "2024-02-13T14:26:43Z",
+            "version": 4,
+            "changeset": 147411549,
+            "user": "maupao70",
+            "uid": 2869848,
+            "nodes": [
+                1434214699,
+                1434214698,
+                2709538058,
+                2709538055,
+                1434214671,
+                1434214672,
+                1434214673,
+                1434214674,
+                1434214699
+            ],
+            "tags": {
+                "building": "retail",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 168488037,
+            "timestamp": "2024-06-14T12:48:22Z",
+            "version": 6,
+            "changeset": 152676769,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "nodes": [
+                1797396430,
+                1797396188,
+                1797396208,
+                1797396056,
+                1797395918,
+                1797395770,
+                1797395598,
+                1797396033,
+                1797396094,
+                1797396212,
+                1797396248,
+                1797396430
+            ],
+            "tags": {
+                "addr:city": "Lodi",
+                "addr:housenumber": "6",
+                "addr:postcode": "26900",
+                "addr:street": "via Agello",
+                "building": "house",
+                "check_date": "2024-06-14",
+                "check_date:currency:XBT": "2024-06-14",
+                "currency:XBT": "yes",
+                "email": "info@villalaila.com",
+                "guest_house": "bed_and_breakfast",
+                "height": "9.315",
+                "internet_access": "wlan",
+                "internet_access:fee": "customers",
+                "name": "Villa Laila",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393519110305",
+                "rooms": "3",
+                "source": "Cartografia Provincia di Lodi",
+                "tourism": "hotel",
+                "website": "https://www.villalaila.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 169327606,
+            "timestamp": "2023-12-20T11:09:59Z",
+            "version": 9,
+            "changeset": 145326533,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "nodes": [
+                1804973916,
+                2915912892,
+                1804973915,
+                1804973894,
+                1804973899,
+                1804973916
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "email": "conad.pecetta@conadcentronord.it",
+                "name": "Conad",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 02 3492570",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 264634550,
+            "timestamp": "2022-04-15T08:56:30Z",
+            "version": 7,
+            "changeset": 119741948,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "nodes": [
+                2702930037,
+                2702930038,
+                2702930040,
+                2702930041,
+                2702930037
+            ],
+            "tags": {
+                "addr:city": "Novara",
+                "addr:housenumber": "55",
+                "addr:postcode": "28100",
+                "addr:street": "Via Novara",
+                "branch": "Pernate",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "name": "Conad",
+                "opening_hours": "Mo-Tu 08:30-13:00,15:00-19:30; Fr-Sa 08:30-20:00",
+                "operator": "Conad",
+                "phone": "+39 0321 637797",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 286930250,
+            "timestamp": "2023-10-18T08:37:07Z",
+            "version": 6,
+            "changeset": 142750446,
+            "user": "airon90",
+            "uid": 89897,
+            "nodes": [
+                2905984628,
+                2905984631,
+                2905984517,
+                2905984518,
+                2905984630,
+                2905984625,
+                5961144696,
+                2905984628
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "retail",
+                "building:levels": "2",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "internet_access": "wlan",
+                "name": "Mondo Convenienza",
+                "opening_hours": "Mo-Su 09:30-20:30",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 345386806,
+            "timestamp": "2023-12-27T17:59:36Z",
+            "version": 9,
+            "changeset": 145587106,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "nodes": [
+                3520737160,
+                3520737166,
+                5804309776,
+                5804309775,
+                3520737160
+            ],
+            "tags": {
+                "barrier": "fence",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "retail",
+                "contact:phone": "+390289159253",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 08:00-20:30, Su 09:00-13:00,15:00-19:00",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 421073562,
+            "timestamp": "2022-07-25T16:06:23Z",
+            "version": 6,
+            "changeset": 124059315,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "nodes": [
+                4204447508,
+                4204498989,
+                4209131907,
+                4204448834,
+                4204497109,
+                4204497398,
+                4204447657,
+                4204447174,
+                4204455495,
+                4204448257,
+                4209053693,
+                4209052508,
+                4209127844,
+                4204447508
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "building": "parking",
+                "fee": "yes",
+                "operator": "OVS",
+                "operator:type": "private",
+                "parking": "multi-storey"
+            }
+        },
+        {
+            "type": "way",
+            "id": 524948400,
+            "timestamp": "2024-02-20T10:38:38Z",
+            "version": 3,
+            "changeset": 147686016,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "nodes": [
+                5107702248,
+                5107702247,
+                5107702246,
+                5107702244,
+                5107702245,
+                5107702248
+            ],
+            "tags": {
+                "addr:city": "Nembro",
+                "addr:housenumber": "42",
+                "addr:postcode": "24027",
+                "addr:street": "Via Lombardia",
+                "building": "industrial",
+                "check_date": "2023-11-23",
+                "craft": "window_construction",
+                "currency:XBT": "yes",
+                "email": "info@serrament.it",
+                "name": "Serrament srl",
+                "phone": "+39 035773844",
+                "website": "https://www.serrament.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 531146746,
+            "timestamp": "2024-03-20T07:50:54Z",
+            "version": 5,
+            "changeset": 148896750,
+            "user": "Aiman",
+            "uid": 67550,
+            "nodes": [
+                5156173201,
+                5156173202,
+                11747398538,
+                11747398537,
+                5156173203,
+                5156173204,
+                5156173205,
+                5156173206,
+                5156173207,
+                5156173201
+            ],
+            "tags": {
+                "addr:city": "Trezzo sull'Adda",
+                "addr:postcode": "20056",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "Conad Superstore",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "building:levels": "1",
+                "check_date:opening_hours": "2023-01-02",
+                "email": "conad.trezzo@conadcentronord.it",
+                "kids_area": "no",
+                "level": "0",
+                "name": "Conad Superstore",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-19:30",
+                "operator": "Conad",
+                "organic": "yes",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 02 9096 3353",
+                "ref:vatin": "IT11930070963",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "shop": "supermarket",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009147.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 564438615,
+            "timestamp": "2020-09-05T17:59:31Z",
+            "version": 3,
+            "changeset": 90460727,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                5438276686,
+                5438276687,
+                5438276688,
+                5438276689,
+                427509148,
+                5438276686
+            ],
+            "tags": {
+                "addr:city": "Vimodrone",
+                "addr:postcode": "20055",
+                "addr:street": "Via Bruno Buozzi",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "building:part": "yes",
+                "description": "Il punto vendita ha cambiato insegna.",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 02 2651531",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010029.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 566309185,
+            "timestamp": "2023-09-09T13:10:24Z",
+            "version": 7,
+            "changeset": 141023656,
+            "user": "Mateusz Konieczny - bot account",
+            "uid": 3199858,
+            "nodes": [
+                5453785000,
+                5453784995,
+                5453784956,
+                5453784996,
+                5453784997,
+                5453784998,
+                5453784999,
+                5453784957,
+                5453999661,
+                5453999662,
+                5453785004,
+                5453785003,
+                5453785002,
+                5453785001,
+                3560766119,
+                6659003411,
+                310937270,
+                3560765868,
+                1824445819,
+                1824445871,
+                5453999655,
+                5453785000
+            ],
+            "tags": {
+                "addr:city": "Merate",
+                "addr:housenumber": "19",
+                "addr:postcode": "23807",
+                "addr:street": "Via Bergamo",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "indoor": "area",
+                "level": "0",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 039 99941",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009877.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 613438867,
+            "timestamp": "2024-01-05T09:09:54Z",
+            "version": 9,
+            "changeset": 145912414,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "nodes": [
+                6058155414,
+                5804309775,
+                5804309776,
+                6058155415,
+                9278160410,
+                6058155414
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "operator": "Conad",
+                "parking": "surface",
+                "supervised": "no",
+                "surface": "concrete"
+            }
+        },
+        {
+            "type": "way",
+            "id": 645614809,
+            "timestamp": "2024-06-27T16:16:34Z",
+            "version": 6,
+            "changeset": 153255125,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "nodes": [
+                6068438079,
+                6068438078,
+                6068438077,
+                11168833448,
+                6068438076,
+                6068438079
+            ],
+            "tags": {
+                "addr:city": "Varese",
+                "addr:housenumber": "43",
+                "addr:postcode": "21100",
+                "addr:street": "Via Beata Caterina Moriggi",
+                "building": "hotel",
+                "check_date:currency:XBT": "2024-06-27",
+                "contact:email": "info@borducan.com",
+                "contact:facebook": "AlBorducan",
+                "contact:fax": "+39 0332 822721",
+                "contact:instagram": "alborducan_romantic_hotel",
+                "contact:pec": "4santi@pec.it",
+                "contact:phone": "+39 0332 220567",
+                "contact:whatsapp": "+390332220567",
+                "currency:XBT": "yes",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Hotel Al Borducan",
+                "operator": "Santi srl",
+                "ref:vatin": "IT03595660121",
+                "smoking": "outside",
+                "tourism": "hotel",
+                "website": "https://www.hotelalborducan.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 683167703,
+            "timestamp": "2020-03-21T10:53:30Z",
+            "version": 2,
+            "changeset": 82456828,
+            "user": "astraspera",
+            "uid": 2653653,
+            "nodes": [
+                6398811601,
+                6398811602,
+                6398811603,
+                6398811604,
+                6398811605,
+                6398811606,
+                6398811601
+            ],
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "building": "yes",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "way",
+            "id": 760509519,
+            "timestamp": "2020-08-04T15:40:53Z",
+            "version": 3,
+            "changeset": 88937770,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "nodes": [
+                2687741989,
+                2687741987,
+                2687741986,
+                7104556905,
+                7104556910,
+                7104556909,
+                7104556908,
+                2687741989
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity:disabled": "2",
+                "fee": "no",
+                "lit": "no",
+                "operator": "OVS",
+                "park_ride": "no",
+                "parking": "surface",
+                "smoothness": "bad",
+                "supervised": "no",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 6453804,
+            "timestamp": "2024-12-18T19:04:55Z",
+            "version": 4,
+            "changeset": 160364962,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 435301572,
+                    "role": "inner"
+                },
+                {
+                    "type": "way",
+                    "ref": 329475390,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "commercial",
+                "building:levels": "5",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture",
+                "type": "multipolygon"
             }
         }
     ],

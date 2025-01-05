@@ -408,6 +408,61 @@
         },
         {
             "type": "node",
+            "id": 1462173437,
+            "lat": 46.0944532,
+            "lon": 11.1157558,
+            "timestamp": "2025-01-03T13:58:45Z",
+            "version": 7,
+            "changeset": 160950387,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Bren Center",
+                "addr:housenumber": "16",
+                "addr:postcode": "38121",
+                "addr:street": "Via Giovanni Battista Trener",
+                "branch": "industry",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "contact:fax": "+39 0461 830420",
+                "contact:phone": "+39 0461 820682",
+                "level": "0;1",
+                "name": "OVS",
+                "opening_hours": "Mo 14:00-19:30; Tu-Sa 09:00-19:30",
+                "operator": "OVS",
+                "ref:vatin": "IT03147990273",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1765153159,
+            "lat": 46.0645024,
+            "lon": 11.1234463,
+            "timestamp": "2025-01-03T13:59:30Z",
+            "version": 5,
+            "changeset": 160950428,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "21",
+                "addr:postcode": "38122",
+                "addr:street": "Via Santa Croce",
+                "branch": "Kids",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-19:00",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1884365899,
             "lat": 46.5634776,
             "lon": 11.1696169,
@@ -654,6 +709,32 @@
         },
         {
             "type": "node",
+            "id": 3139832281,
+            "lat": 46.0883337,
+            "lon": 11.1185284,
+            "timestamp": "2025-01-03T09:53:59Z",
+            "version": 8,
+            "changeset": 160940576,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "5",
+                "addr:postcode": "38121",
+                "addr:street": "Via Gemma de Gresti",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "check_date": "2024-04-08",
+                "contact:website": "https://www.decathlon.it/store-view/negozio-sport-trento-0070313203132",
+                "entrance": "main",
+                "name": "Decathlon",
+                "opening_hours": "09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 3328334271,
             "lat": 46.7480184,
             "lon": 11.2063186,
@@ -807,6 +888,30 @@
         },
         {
             "type": "node",
+            "id": 3867121603,
+            "lat": 46.4863726,
+            "lon": 11.3353938,
+            "timestamp": "2025-01-03T10:25:36Z",
+            "version": 4,
+            "changeset": 160941704,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:housenumber": "20",
+                "addr:postcode": "39100",
+                "addr:street": "Via Galileo Galilei - Galileo-Galilei-Stra\u00dfe",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 4218284559,
             "lat": 46.4913076,
             "lon": 11.3145909,
@@ -858,6 +963,30 @@
                 "phone": "+39 0461 945726",
                 "shop": "bed",
                 "website": "https://www.patiflex.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6367383365,
+            "lat": 46.671234,
+            "lon": 11.157274,
+            "timestamp": "2025-01-03T14:14:24Z",
+            "version": 3,
+            "changeset": 160951108,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Meran - Merano",
+                "addr:housenumber": "148",
+                "addr:postcode": "39012",
+                "addr:street": "Freiheitsstra\u00dfe - Corso della Libert\u00e0",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1071,6 +1200,76 @@
                 "phone": "+39 35 1976 4443",
                 "tourism": "guest_house",
                 "website": "https://www.machevitadacani.it/bed-breakfast/struttura-ed-esperienze"
+            }
+        },
+        {
+            "type": "way",
+            "id": 71520579,
+            "timestamp": "2024-07-12T12:16:22Z",
+            "version": 13,
+            "changeset": 153853154,
+            "user": "xtronix",
+            "uid": 2892364,
+            "nodes": [
+                850786771,
+                2232004982,
+                850790692,
+                2232004970,
+                2232004965,
+                850790624,
+                850786771
+            ],
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "95",
+                "addr:postcode": "38123",
+                "addr:street": "Via Roberto da Sanseverino",
+                "brand": "Impact Hub",
+                "brand:wikidata": "Q25205858",
+                "building": "yes",
+                "check_date": "2024-04-24",
+                "contact:phone": "+39 0461 1583407",
+                "contact:website": "https://trento.impacthub.net",
+                "currency:XBT": "yes",
+                "name": "Impact Hub",
+                "office": "coworking",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "operator": "inbitcoin.it",
+                "payment:bitcoin:operator": "inbitcoin.it"
+            }
+        },
+        {
+            "type": "way",
+            "id": 158658346,
+            "timestamp": "2023-11-11T13:15:24Z",
+            "version": 11,
+            "changeset": 143899223,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
+            "nodes": [
+                1708141315,
+                1708141381,
+                1708141228,
+                1708141538,
+                1708141315
+            ],
+            "tags": {
+                "addr:hamlet": "Oberinn - Auna di Sopra",
+                "addr:hamlet:de": "Oberinn",
+                "addr:hamlet:it": "Auna di Sopra",
+                "addr:housenumber": "7",
+                "addr:street": "Oberinner Stra\u00dfe - Via Auna di Sopra",
+                "addr:street:de": "Oberinner Stra\u00dfe",
+                "addr:street:it": "Via Auna di Sopra",
+                "building": "yes",
+                "check_date:currency:XBT": "2023-07-18",
+                "contact:email": "gasthaus.bachmann@rolmail.net",
+                "contact:phone": "+39 347 602 0601",
+                "currency:XBT": "yes",
+                "name": "Gasthaus Pension Mair Bachmann",
+                "tourism": "hotel",
+                "website": "https://www.bachmann-ritten.com/"
             }
         }
     ],

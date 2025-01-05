@@ -3,7 +3,7 @@ defineProps(["poi"]);
 </script>
 
 <template>
-  <NuxtLink :to="'/osn/' + poi.id">
+  <NuxtLink :to="usePoiLink(poi)">
     <div v-if="poi?.tags" class="flex flex-wrap p-2 border-1 my-2 rounded shadow">
       <div class="text-blue-700 font-bold pr-2">
         {{ poi?.tags?.name }}

@@ -13,7 +13,7 @@ export default {
 
 <template>
   <span v-if="!pending">
-    <span v-if="dbdata">
+    <span  v-if="dbdata?.items?.length">
       <UiVouchers :dbdata="dbdata" />
     </span>
   </span>

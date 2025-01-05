@@ -56,6 +56,32 @@
         },
         {
             "type": "node",
+            "id": 1962273539,
+            "lat": 43.4614836,
+            "lon": 11.8787694,
+            "timestamp": "2025-01-03T14:01:22Z",
+            "version": 6,
+            "changeset": 160950533,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:country": "IT",
+                "addr:housenumber": "237",
+                "addr:postcode": "52100",
+                "addr:street": "Corso Italia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "entrance": "yes",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 09:30-20:00",
+                "operator": "OVS",
+                "shop": "clothes",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
             "id": 2459967362,
             "lat": 43.436648,
             "lon": 11.8503191,
@@ -75,6 +101,76 @@
                 "opening_hours": "Mo-Fr 09:00-13:00,15:00-20:00; Sa 09:00-20:00; Su 10:00-12:30,15:30-19:30",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3081303564,
+            "lat": 43.4714972,
+            "lon": 12.2304155,
+            "timestamp": "2025-01-03T16:08:14Z",
+            "version": 5,
+            "changeset": 160955867,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Citt\u00e0 di Castello",
+                "addr:postcode": "06012",
+                "addr:street": "Via Giuseppe Di Vittorio",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3118020509,
+            "lat": 43.6276625,
+            "lon": 11.462054,
+            "timestamp": "2025-01-03T10:17:49Z",
+            "version": 7,
+            "changeset": 160941476,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Figline Valdarno",
+                "addr:housenumber": "6",
+                "addr:postcode": "50063",
+                "addr:street": "Via Comunit\u00e0 Europea",
+                "branch": "Figline e Incisa Valdarno",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "contact:phone": "+39 055 9154060",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4257263027,
+            "lat": 43.4762874,
+            "lon": 11.8619554,
+            "timestamp": "2025-01-03T10:27:10Z",
+            "version": 4,
+            "changeset": 160941754,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:housenumber": "12-13",
+                "addr:postcode": "52100",
+                "addr:street": "Via Giovanni Amendola",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
             }
         },
         {
@@ -174,6 +270,31 @@
         },
         {
             "type": "node",
+            "id": 9949098849,
+            "lat": 43.3212364,
+            "lon": 11.3291768,
+            "timestamp": "2025-01-03T14:24:50Z",
+            "version": 7,
+            "changeset": 160951578,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:country": "IT",
+                "addr:housenumber": "6-12",
+                "addr:postcode": "53100",
+                "addr:street": "Piazza Giacomo Matteotti",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "contact:phone": "+39 0577 41390",
+                "contact:website": "https://www.ovs.it/it/it/stores/italia/toscana/siena/ovs-siena",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10141459632,
             "lat": 43.2747497,
             "lon": 11.7494835,
@@ -201,6 +322,61 @@
                 "survey:date": "2022-10-30",
                 "tourism": "guest_house",
                 "website": "https://CipressoePietra.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10721887873,
+            "lat": 43.6298198,
+            "lon": 11.4614133,
+            "timestamp": "2025-01-03T17:32:23Z",
+            "version": 4,
+            "changeset": 160959094,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Figline e Incisa Valdarno",
+                "addr:housenumber": "40",
+                "addr:postcode": "50063",
+                "addr:street": "Via Romania",
+                "air_conditioning": "yes",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 09:30-13:30,15:30-19:30",
+                "operator": "MediaMarket S.p.A.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "0559506111",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10721944833,
+            "lat": 43.6296611,
+            "lon": 11.4619065,
+            "timestamp": "2023-03-08T18:14:27Z",
+            "version": 1,
+            "changeset": 133451143,
+            "user": "gi_maf",
+            "uid": 18559051,
+            "tags": {
+                "addr:city": "Figline e Incisa Valdarno",
+                "addr:housenumber": "40",
+                "addr:postcode": "50063",
+                "addr:street": "Via Romania",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "clothes": "women;underwear;men;children;sports;workwear;suits;hats",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 08:30-13:30",
+                "operator": "OVS",
+                "phone": "+39 055 9154196",
+                "shop": "clothes",
+                "website": "https://stores.ovs.it/it/italia/toscana/firenze/ovs-figline-valdarno",
+                "wheelchair": "yes"
             }
         },
         {
@@ -459,6 +635,59 @@
                 "phone": "+39 333 8556 247",
                 "shop": "car_repair",
                 "survey:date": "2024-06-11"
+            }
+        },
+        {
+            "type": "way",
+            "id": 61915136,
+            "timestamp": "2024-07-10T10:41:48Z",
+            "version": 4,
+            "changeset": 153778042,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "nodes": [
+                771752825,
+                771752950,
+                771752430,
+                771752608,
+                771752825
+            ],
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:street": "Localit\u00e0 Castagni",
+                "building": "hotel",
+                "check_date": "2024-07-10",
+                "currency:XBT": "yes",
+                "email": "info@agriturismolapineta.com",
+                "guest_house": "agritourism",
+                "name": "Agriturismo La Pineta",
+                "phone": "+39 0756 708017",
+                "tourism": "guest_house",
+                "website": "https://agriturismolapineta.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 397116253,
+            "timestamp": "2016-02-10T16:00:48Z",
+            "version": 1,
+            "changeset": 37127818,
+            "user": "cap8789",
+            "uid": 3384463,
+            "nodes": [
+                3999374360,
+                3999374363,
+                3999374364,
+                3999374365,
+                3999374366,
+                3999374359,
+                3999374360
+            ],
+            "tags": {
+                "building": "yes",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         }
     ],

@@ -37,6 +37,31 @@
         },
         {
             "type": "node",
+            "id": 334512025,
+            "lat": 45.4116273,
+            "lon": 11.9107073,
+            "timestamp": "2024-02-06T22:24:32Z",
+            "version": 7,
+            "changeset": 147153939,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "104",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "branch": "Italia SRL",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/store-view/negozio-sport-padova-0070026800268"
+            }
+        },
+        {
+            "type": "node",
             "id": 565572053,
             "lat": 45.7515438,
             "lon": 11.7485079,
@@ -109,6 +134,38 @@
         },
         {
             "type": "node",
+            "id": 858370383,
+            "lat": 45.6761512,
+            "lon": 12.3345096,
+            "timestamp": "2025-01-03T17:15:42Z",
+            "version": 4,
+            "changeset": 160958488,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1325154661,
+            "lat": 45.9447538,
+            "lon": 12.7165837,
+            "timestamp": "2025-01-03T17:17:01Z",
+            "version": 8,
+            "changeset": 160958530,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1403161164,
             "lat": 45.8241234,
             "lon": 11.8825578,
@@ -127,6 +184,66 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1452480258,
+            "lat": 45.7455465,
+            "lon": 11.7516493,
+            "timestamp": "2025-01-03T17:17:57Z",
+            "version": 6,
+            "changeset": 160958558,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "ref:vatin": "IT02630120166",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1534384046,
+            "lat": 45.3778806,
+            "lon": 11.8558106,
+            "timestamp": "2025-01-03T17:18:17Z",
+            "version": 5,
+            "changeset": 160958572,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1539203010,
+            "lat": 45.8789638,
+            "lon": 12.3077782,
+            "timestamp": "2025-01-03T15:43:31Z",
+            "version": 4,
+            "changeset": 160954822,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Conegliano",
+                "addr:postcode": "31015",
+                "addr:street": "Viale Italia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -188,6 +305,43 @@
         },
         {
             "type": "node",
+            "id": 1739958379,
+            "lat": 45.4979839,
+            "lon": 12.618935,
+            "timestamp": "2025-01-03T09:18:05Z",
+            "version": 9,
+            "changeset": 160939414,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Jesolo",
+                "addr:housenumber": "18",
+                "addr:postcode": "30016",
+                "addr:street": "Via Alessandro Volta",
+                "air_conditioning": "yes",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "check_date": "2024-08-11",
+                "contact:website": "https://www.decathlon.it/",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "level": "0",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "operator": "Decathlon",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "seasonal": "summer",
+                "shop": "sports",
+                "source": "local knowledge",
+                "wheelchair": "designated",
+                "wikimedia_commons": "File:Decathlon Jesolo.jpg"
+            }
+        },
+        {
+            "type": "node",
             "id": 1748853004,
             "lat": 45.8788895,
             "lon": 12.3073428,
@@ -231,6 +385,34 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1912735556,
+            "lat": 45.6396053,
+            "lon": 12.5981757,
+            "timestamp": "2025-01-03T15:48:36Z",
+            "version": 9,
+            "changeset": 160955027,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Don\u00e0 di Piave",
+                "addr:postcode": "30027",
+                "addr:street": "Via Iseo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date:opening_hours": "2023-09-24",
+                "email": "1544d@ovs.it",
+                "name": "OVS",
+                "opening_hours:signed": "no",
+                "operator": "OVS",
+                "phone": "+39 0421 220001",
+                "shop": "clothes",
+                "website": "https://stores.ovs.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -339,6 +521,52 @@
         },
         {
             "type": "node",
+            "id": 2569978163,
+            "lat": 45.4109517,
+            "lon": 11.8761919,
+            "timestamp": "2025-01-03T14:02:16Z",
+            "version": 4,
+            "changeset": 160950583,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "58",
+                "addr:postcode": "35137",
+                "addr:street": "Via San Fermo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2589634625,
+            "lat": 45.6653415,
+            "lon": 12.2463668,
+            "timestamp": "2025-01-03T16:02:08Z",
+            "version": 4,
+            "changeset": 160955608,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Treviso",
+                "addr:housenumber": "12",
+                "addr:postcode": "31100",
+                "addr:street": "Via Indipendenza",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-20:00; Su 10:00-13:00, 15:30-20:00",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2800768123,
             "lat": 45.371839,
             "lon": 11.7913317,
@@ -362,6 +590,49 @@
                 "phone": "+39 329 6876517",
                 "shop": "car",
                 "website": "https://www.autofesio.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2804332692,
+            "lat": 45.4581788,
+            "lon": 12.2127862,
+            "timestamp": "2025-01-03T17:22:00Z",
+            "version": 4,
+            "changeset": 160958730,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2806097596,
+            "lat": 46.0164143,
+            "lon": 11.9047747,
+            "timestamp": "2025-01-03T16:04:00Z",
+            "version": 3,
+            "changeset": 160955688,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Feltre",
+                "addr:housenumber": "21",
+                "addr:postcode": "32032",
+                "addr:street": "Largo Panfilo Castaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "contact:email": "249f@ovs.it",
+                "contact:phone": "+39 0439 83500",
+                "contact:website": "https://www.ovs.it/it/it/stores/italia/veneto/belluno/ovs-feltre",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -565,6 +836,79 @@
                 "opening_hours": "Mo-Sa 09:30-19:30; Su 11:00-19:30",
                 "phone": "0415209251",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4235415901,
+            "lat": 45.5066566,
+            "lon": 12.6362487,
+            "timestamp": "2025-01-03T16:20:57Z",
+            "version": 8,
+            "changeset": 160956398,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Jesolo Lido",
+                "addr:housenumber": "20",
+                "addr:postcode": "30017",
+                "addr:street": "Piazza Venezia",
+                "brand": "OVS",
+                "check_date:opening_hours": "2024-08-15",
+                "level": "1",
+                "name": "OVS",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4273854674,
+            "lat": 45.9444215,
+            "lon": 12.4638597,
+            "timestamp": "2025-01-03T16:23:00Z",
+            "version": 6,
+            "changeset": 160956497,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Sacile",
+                "addr:housenumber": "1",
+                "addr:postcode": "33077",
+                "addr:street": "Viale Europa",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "name": "OVS",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4360571398,
+            "lat": 45.5065012,
+            "lon": 12.6359208,
+            "timestamp": "2025-01-03T16:24:12Z",
+            "version": 10,
+            "changeset": 160956545,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Jesolo Lido",
+                "addr:housenumber": "20",
+                "addr:postcode": "30017",
+                "addr:street": "Piazza Venezia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "level": "1",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -921,6 +1265,48 @@
         },
         {
             "type": "node",
+            "id": 6528179520,
+            "lat": 45.9068785,
+            "lon": 12.3391302,
+            "timestamp": "2025-01-03T17:27:20Z",
+            "version": 3,
+            "changeset": 160958927,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6528179526,
+            "lat": 45.9053929,
+            "lon": 12.3401467,
+            "timestamp": "2025-01-03T10:50:17Z",
+            "version": 3,
+            "changeset": 160942664,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Martino",
+                "addr:housenumber": "19",
+                "addr:postcode": "31020",
+                "addr:street": "Via Villa Liccer",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 6779518865,
             "lat": 45.6818857,
             "lon": 11.9431374,
@@ -939,6 +1325,22 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6897820650,
+            "lat": 45.9053036,
+            "lon": 12.3401004,
+            "timestamp": "2019-10-19T10:08:24Z",
+            "version": 1,
+            "changeset": 75925638,
+            "user": "G123456",
+            "uid": 7114955,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Decathlon"
             }
         },
         {
@@ -1274,6 +1676,33 @@
         },
         {
             "type": "node",
+            "id": 9508135813,
+            "lat": 45.5173452,
+            "lon": 12.2325213,
+            "timestamp": "2025-01-03T09:51:42Z",
+            "version": 3,
+            "changeset": 160940473,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mestre",
+                "addr:housenumber": "12",
+                "addr:postcode": "30174",
+                "addr:street": "Via Don Luigi Peron",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "building": "yes",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "phone": "+390415020360",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9646607675,
             "lat": 45.6508616,
             "lon": 12.3090842,
@@ -1295,6 +1724,55 @@
                 "phone": "+39 0422 360350",
                 "shop": "electronics",
                 "website": "https://www.unieuro.it/online/negozi/Unieuro-Silea"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9672164356,
+            "lat": 45.4225305,
+            "lon": 12.073525,
+            "timestamp": "2025-01-03T14:22:57Z",
+            "version": 2,
+            "changeset": 160951512,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Dolo",
+                "addr:housenumber": "102",
+                "addr:postcode": "30031",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9750016941,
+            "lat": 45.792382,
+            "lon": 12.8155281,
+            "timestamp": "2025-01-03T14:23:48Z",
+            "version": 5,
+            "changeset": 160951539,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Portogruaro",
+                "addr:housenumber": "29a",
+                "addr:postcode": "30026",
+                "addr:street": "Via Prati Guori",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 0421 761210",
+                "shop": "clothes",
+                "website": "https://stores.ovs.it/it/italia/veneto/venezia/ovs-portogruaro?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Portogruaro_1286",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1344,6 +1822,31 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779976060,
+            "lat": 45.4927109,
+            "lon": 12.1108645,
+            "timestamp": "2025-01-03T14:24:04Z",
+            "version": 3,
+            "changeset": 160951544,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mirano",
+                "addr:housenumber": "23",
+                "addr:postcode": "30035",
+                "addr:street": "Via Barche",
+                "branch": "kids",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 041481976",
+                "shop": "clothes"
             }
         },
         {
@@ -1401,6 +1904,50 @@
         },
         {
             "type": "node",
+            "id": 10077434567,
+            "lat": 45.774883,
+            "lon": 12.5926167,
+            "timestamp": "2025-01-03T16:59:50Z",
+            "version": 2,
+            "changeset": 160957872,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Motta di Livenza",
+                "addr:housenumber": "11",
+                "addr:postcode": "31045",
+                "addr:street": "Via Milano",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10089151111,
+            "lat": 45.6559221,
+            "lon": 12.2074737,
+            "timestamp": "2025-01-03T11:14:35Z",
+            "version": 2,
+            "changeset": 160943642,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Treviso",
+                "addr:housenumber": "72",
+                "addr:postcode": "31100",
+                "addr:street": "Via Noalese",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 10155200041,
             "lat": 45.3915973,
             "lon": 11.8928962,
@@ -1450,6 +1997,52 @@
                 "phone": "+39 041 923438",
                 "shop": "photo",
                 "website": "https://www.a-foto.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295315911,
+            "lat": 45.4247877,
+            "lon": 11.9654184,
+            "timestamp": "2025-01-03T14:26:11Z",
+            "version": 2,
+            "changeset": 160951636,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Vigonza",
+                "addr:housenumber": "86",
+                "addr:postcode": "35010",
+                "addr:street": "Via Regia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296719986,
+            "lat": 45.410309,
+            "lon": 11.9083833,
+            "timestamp": "2025-01-03T17:31:59Z",
+            "version": 4,
+            "changeset": 160959082,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "98",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "fixme": "The website says that the postcode is 35129 and I don't know which postcode is correct",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/it/store/padova-2126"
             }
         },
         {
@@ -1954,6 +2547,29 @@
         },
         {
             "type": "node",
+            "id": 12112513857,
+            "lat": 45.8807177,
+            "lon": 12.7114436,
+            "timestamp": "2025-01-03T14:30:39Z",
+            "version": 2,
+            "changeset": 160951824,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Azzano Decimo",
+                "addr:housenumber": "33",
+                "addr:postcode": "33082",
+                "addr:street": "Viale Venticinque Aprile",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0434 043814",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12124193046,
             "lat": 45.5869419,
             "lon": 12.853504,
@@ -1998,6 +2614,271 @@
                 "payment:lightning": "no",
                 "phone": "+39 340 389 3512",
                 "website": "https://www.suhaci.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36427080,
+            "timestamp": "2023-08-02T13:36:04Z",
+            "version": 12,
+            "changeset": 139348493,
+            "user": "hobbie",
+            "uid": 281699,
+            "nodes": [
+                424967468,
+                11083681692,
+                424747168,
+                424747169,
+                424747170,
+                424747171,
+                424747172,
+                424747173,
+                11083681690,
+                11083681691,
+                424747174,
+                11083681689,
+                11083681688,
+                424747175,
+                424747176,
+                424747177,
+                424747178,
+                424747179,
+                424747181,
+                5200865541,
+                424967469,
+                424967468
+            ],
+            "tags": {
+                "addr:city": "Porcia",
+                "addr:housenumber": "52",
+                "addr:postcode": "33080",
+                "addr:street": "Via Roveredo",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "height": "11 m",
+                "it:fvg:ctrn:code": "4AIN",
+                "it:fvg:ctrn:revision": "1A0",
+                "layer": "1",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0434 593257",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.008840.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 146023026,
+            "timestamp": "2019-07-08T07:26:53Z",
+            "version": 3,
+            "changeset": 72000966,
+            "user": "Silvano S 69",
+            "uid": 3798260,
+            "nodes": [
+                1593199958,
+                1593199901,
+                1593199869,
+                1593199812,
+                1593199777,
+                1593199607,
+                1593199641,
+                1593199660,
+                1593199684,
+                1593199773,
+                1593199786,
+                1593200076,
+                1593200118,
+                1593200180,
+                1593200216,
+                1593200247,
+                1593200378,
+                1593200275,
+                1593200205,
+                1593200203,
+                1593200111,
+                1593200105,
+                1593199958
+            ],
+            "tags": {
+                "building": "industrial",
+                "note": "verificare se man_made=works",
+                "operator": "Trony"
+            }
+        },
+        {
+            "type": "way",
+            "id": 150842317,
+            "timestamp": "2023-01-13T00:38:07Z",
+            "version": 5,
+            "changeset": 131209269,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "nodes": [
+                1637111452,
+                1637111415,
+                1637111432,
+                1637111454,
+                1637111453,
+                1637111457,
+                1637111451,
+                1637111461,
+                1637111452
+            ],
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "building": "retail",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 251891299,
+            "timestamp": "2022-05-02T08:50:09Z",
+            "version": 3,
+            "changeset": 120450630,
+            "user": "hobbie",
+            "uid": 281699,
+            "nodes": [
+                2580489974,
+                2580489965,
+                2580489962,
+                9708742342,
+                2580489967,
+                2580489974
+            ],
+            "tags": {
+                "addr:city": "Azzano Decimo",
+                "addr:housenumber": "5",
+                "addr:postcode": "33082",
+                "addr:street": "Via Ilaria Alpi",
+                "amenity": "fuel",
+                "brand": "Conad",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
+                "operator": "Conad",
+                "self_service": "yes",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.050059.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 262134580,
+            "timestamp": "2023-07-21T00:36:09Z",
+            "version": 7,
+            "changeset": 138788658,
+            "user": "saunter",
+            "uid": 10396321,
+            "nodes": [
+                2677813322,
+                2677813293,
+                2677813375,
+                2677813386,
+                2677813365,
+                2677812936,
+                2677812997,
+                2677813032,
+                2677813070,
+                2677813106,
+                2677813117,
+                2677813332,
+                2677813322
+            ],
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "90",
+                "addr:postcode": "35129",
+                "addr:street": "Via Madonna del Rosario",
+                "building": "industrial",
+                "building:levels": "1",
+                "check_date:currency:XBT": "2023-07-21",
+                "currency:XBT": "yes",
+                "email": "torrecarrozzeria@gmail.com",
+                "name": "Carrozzeria Torre",
+                "phone": "+39 049 725460",
+                "shop": "car_repair",
+                "website": "https://carrozzeriatorre.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 534093804,
+            "timestamp": "2020-05-10T13:34:06Z",
+            "version": 4,
+            "changeset": 84972038,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                5180456241,
+                5180456226,
+                5180456235,
+                5180456225,
+                5180456241
+            ],
+            "tags": {
+                "addr:city": "Porcia",
+                "addr:housenumber": "58",
+                "addr:postcode": "33080",
+                "addr:street": "Via Lazio",
+                "amenity": "fuel",
+                "brand": "Independent",
+                "building": "roof",
+                "fuel:GTL_diesel": "no",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Conad",
+                "opening_hours": "24/7",
+                "operator": "Conad",
+                "self_service": "yes",
+                "shop": "no",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.050057.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1112540371,
+            "timestamp": "2022-11-12T18:38:31Z",
+            "version": 1,
+            "changeset": 128823563,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                10178658224,
+                10178658225,
+                10178658226,
+                10178658227,
+                10178658224
+            ],
+            "tags": {
+                "addr:city": "San Martino Di Lupari",
+                "addr:housenumber": "158",
+                "addr:postcode": "35018",
+                "addr:street": "Via Cardinale Carlo Agostini",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:00 - 20:00, Su 08:00-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 049 9460584",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2022/11/11/conad-inaugura-il-nuovo-punto-vendita-spesa-facile-a-san-martino-di-lupari-pd/",
+                "website": "https://www.conad.it/ricerca-negozi/spesa-facile-via-c-agostini-158-35018--san-martino-di-lupari--010412"
             }
         }
     ],

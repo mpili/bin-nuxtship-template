@@ -29,6 +29,32 @@
         },
         {
             "type": "node",
+            "id": 5167275689,
+            "lat": 45.1377561,
+            "lon": 7.0559162,
+            "timestamp": "2025-01-03T14:10:48Z",
+            "version": 8,
+            "changeset": 160950962,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Susa",
+                "addr:housenumber": "33",
+                "addr:postcode": "10059",
+                "addr:street": "Corso Stati Uniti",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2024-09-22",
+                "check_date:opening_hours": "2022-05-08",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-19:30, Su 10:00-19:30",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10112074739,
             "lat": 45.453093,
             "lon": 6.6927757,

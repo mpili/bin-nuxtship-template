@@ -79,6 +79,24 @@
         },
         {
             "type": "node",
+            "id": 1131541220,
+            "lat": 44.2278004,
+            "lon": 12.0436279,
+            "timestamp": "2025-01-03T17:16:37Z",
+            "version": 4,
+            "changeset": 160958513,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1766521593,
             "lat": 43.9085527,
             "lon": 12.9181644,
@@ -345,6 +363,31 @@
         },
         {
             "type": "node",
+            "id": 2718202304,
+            "lat": 44.0582513,
+            "lon": 12.5668867,
+            "timestamp": "2025-01-03T14:02:49Z",
+            "version": 4,
+            "changeset": 160950605,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "74",
+                "addr:postcode": "47921",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "source:wheelchair": "survey",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 3074007138,
             "lat": 44.1631031,
             "lon": 12.443792,
@@ -370,6 +413,30 @@
                 "swimming_pool": "yes",
                 "tourism": "hotel",
                 "website": "http://hotellaplaja.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3673083531,
+            "lat": 43.800742,
+            "lon": 13.0118236,
+            "timestamp": "2025-01-03T14:05:27Z",
+            "version": 6,
+            "changeset": 160950703,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:housenumber": "30",
+                "addr:postcode": "61032",
+                "addr:street": "Via Luigi Einaudi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0721 860116",
+                "shop": "clothes"
             }
         },
         {
@@ -423,6 +490,30 @@
         },
         {
             "type": "node",
+            "id": 4238510841,
+            "lat": 43.9054477,
+            "lon": 12.8694387,
+            "timestamp": "2025-01-03T14:07:20Z",
+            "version": 6,
+            "changeset": 160950793,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:postcode": "61122",
+                "addr:street": "Via Yuri Gagarin",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0721 405682",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4347589925,
             "lat": 43.9061157,
             "lon": 12.8667692,
@@ -447,6 +538,29 @@
         },
         {
             "type": "node",
+            "id": 4495188701,
+            "lat": 44.0022953,
+            "lon": 12.6599613,
+            "timestamp": "2025-01-03T16:27:07Z",
+            "version": 6,
+            "changeset": 160956664,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Riccione",
+                "addr:housenumber": "36",
+                "addr:postcode": "47838",
+                "addr:street": "Viale Maria Boorman Ceccarini",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date": "2024-08-04",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4495480088,
             "lat": 44.063513,
             "lon": 12.4562914,
@@ -465,6 +579,27 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4502403689,
+            "lat": 44.1576015,
+            "lon": 12.4276275,
+            "timestamp": "2025-01-03T17:25:12Z",
+            "version": 6,
+            "changeset": 160958852,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "name:it": "Mediaworld",
+                "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-20:30",
+                "operator": "MediaMarket S.p.A.",
+                "phone": "+39 0541335111",
+                "shop": "electronics",
+                "website": "https://romagna-shoppingvalley.klepierre.it/Shopping/MediaWorld",
+                "wheelchair": "yes"
             }
         },
         {
@@ -592,6 +727,29 @@
                 "stroller": "yes",
                 "website": "https://www.unmilione.net",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4766291563,
+            "lat": 44.2226304,
+            "lon": 12.038789,
+            "timestamp": "2025-01-03T14:09:29Z",
+            "version": 3,
+            "changeset": 160950901,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Forl\u00ec",
+                "addr:housenumber": "26",
+                "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "building:levels": "2",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -1375,6 +1533,174 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "phone": "+39 05 433 4716"
+            }
+        },
+        {
+            "type": "way",
+            "id": 157925839,
+            "timestamp": "2023-12-21T17:06:12Z",
+            "version": 3,
+            "changeset": 145378957,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "nodes": [
+                1701548011,
+                1701548028,
+                1701547906,
+                1701547888,
+                1701548011
+            ],
+            "tags": {
+                "addr:city": "Ravenna",
+                "addr:housenumber": "29",
+                "addr:postcode": "48124",
+                "addr:street": "Via Chiarissimo Falconieri",
+                "amenity": "restaurant",
+                "building": "yes",
+                "check_date:currency:XBT": "2023-12-21",
+                "cuisine": "regional;italian;piadina",
+                "currency:XBT": "yes",
+                "diet:lactose_free": "yes",
+                "diet:local": "yes",
+                "diet:meat": "yes",
+                "diet:non-vegetarian": "yes",
+                "diet:omnivore": "yes",
+                "diet:organic": "yes",
+                "diet:vegan": "yes",
+                "diet:vegetarian": "yes",
+                "name": "Bottega della Piadina",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "3887523137",
+                "source": "Regione Emilia Romagna",
+                "survey:date": "2023-12-21",
+                "website": "bottegadellapiadina.eatbu.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 181544421,
+            "timestamp": "2023-11-10T13:25:18Z",
+            "version": 5,
+            "changeset": 143862742,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                1919551729,
+                1919551767,
+                646472373,
+                1919551349,
+                1919551594,
+                1919551729
+            ],
+            "tags": {
+                "addr:housenumber": "56",
+                "addr:street": "Via Caduti per la Libert\u00e0",
+                "branch": "Cervia",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "industrial",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:00; Su 08:00-13:00",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "source": "Regione Emilia Romagna",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 215944377,
+            "timestamp": "2021-09-29T07:21:26Z",
+            "version": 6,
+            "changeset": 111850628,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                2253476976,
+                2253487143,
+                1960315014,
+                1960313824,
+                2253476948,
+                2253476967,
+                2253476946,
+                2253476976
+            ],
+            "tags": {
+                "addr:city": "Forl\u00ec",
+                "addr:housenumber": "2",
+                "addr:postcode": "47122",
+                "addr:street": "Piazzale della Cooperazione",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "layer": "1",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0543 039111",
+                "ref:vatin": "IT04297560403",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.006892.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 223752445,
+            "timestamp": "2019-08-21T22:05:37Z",
+            "version": 3,
+            "changeset": 73598480,
+            "user": "Samuele Battarra",
+            "uid": 51179,
+            "nodes": [
+                2326232555,
+                2326232879,
+                2326232149,
+                2326232092,
+                2326231999,
+                2326231920,
+                2326232014,
+                2326231967,
+                2326232555
+            ],
+            "tags": {
+                "building": "yes",
+                "name": "Conad City",
+                "operator": "Conad",
+                "rer_edi_id:ref": "2da41d69-6a52-472e-888b-57e004e656ae",
+                "shop": "supermarket",
+                "source": "Regione Emilia Romagna"
+            }
+        },
+        {
+            "type": "way",
+            "id": 510855174,
+            "timestamp": "2023-11-10T18:05:48Z",
+            "version": 4,
+            "changeset": 143873876,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4998480685,
+                4998480686,
+                4998480687,
+                4998480688,
+                11338903813,
+                4998480685
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "yes",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         }
     ],
