@@ -5,4 +5,3 @@ export function useEventoImg(evento) {
 		return '/img/c/' + evento.id_comunita + '.jpeg';
 	}
 }
-	

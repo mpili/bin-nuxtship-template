@@ -6,6 +6,34 @@
     "poi": [
         {
             "type": "node",
+            "id": 2213309239,
+            "lat": 45.6521516,
+            "lon": 13.7802433,
+            "timestamp": "2025-01-03T15:54:41Z",
+            "version": 6,
+            "changeset": 160955299,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "20",
+                "addr:postcode": "34125",
+                "addr:street": "Viale Venti Settembre",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "level": "0,1",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:30-20:00, Su 10:00-19:30; PH off",
+                "operator": "OVS",
+                "phone": "+39 040 361258",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes",
+                "website": "https://negozi.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3633903157,
             "lat": 45.6474287,
             "lon": 13.765979,
@@ -83,6 +111,26 @@
                 "name": "Twimt Institute - Cashflow Club Trieste - Bitcoin Trieste",
                 "phone": "+39 3405595240",
                 "website": "https://twimt.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5278740823,
+            "lat": 45.6353517,
+            "lon": 13.7798468,
+            "timestamp": "2025-01-03T17:26:37Z",
+            "version": 7,
+            "changeset": 160958908,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "ref:vatin": "IT02630120166",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/negozi/trieste"
             }
         },
         {

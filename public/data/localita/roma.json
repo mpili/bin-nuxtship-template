@@ -79,6 +79,28 @@
         },
         {
             "type": "node",
+            "id": 590053691,
+            "lat": 41.9419468,
+            "lon": 12.4710629,
+            "timestamp": "2025-01-03T13:57:24Z",
+            "version": 6,
+            "changeset": 160950337,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "124",
+                "addr:street": "Corso di Francia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 740890085,
             "lat": 41.922674,
             "lon": 12.4234199,
@@ -208,6 +230,31 @@
         },
         {
             "type": "node",
+            "id": 1229274543,
+            "lat": 41.7333801,
+            "lon": 12.2769225,
+            "timestamp": "2025-01-03T13:58:10Z",
+            "version": 7,
+            "changeset": 160950366,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housenumber": "34/c",
+                "addr:postcode": "00121",
+                "addr:street": "Via Orazio dello Sbirro",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "level": "0",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1239234894,
             "lat": 41.9473213,
             "lon": 12.4659285,
@@ -316,6 +363,29 @@
         },
         {
             "type": "node",
+            "id": 1641666409,
+            "lat": 41.923276,
+            "lon": 12.514936,
+            "timestamp": "2025-01-03T15:45:37Z",
+            "version": 5,
+            "changeset": 160954911,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "200/222",
+                "addr:postcode": "00198",
+                "addr:street": "Corso Trieste",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-13:30, 16:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 06 8639 9077",
+                "shop": "department_store",
+                "website": "https://www.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 1701632370,
             "lat": 41.8660132,
             "lon": 12.5926133,
@@ -367,6 +437,56 @@
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008244.html",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1935725634,
+            "lat": 41.8939176,
+            "lon": 12.5036912,
+            "timestamp": "2025-01-03T14:00:53Z",
+            "version": 9,
+            "changeset": 160950494,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "110",
+                "addr:postcode": "00185",
+                "addr:street": "Piazza Vittorio Emanuele Secondo",
+                "alt_name": "Oviesse",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:30,16:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 06 4467232",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2109265210,
+            "lat": 41.8563361,
+            "lon": 12.4802863,
+            "timestamp": "2025-01-03T15:52:12Z",
+            "version": 7,
+            "changeset": 160955173,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00145",
+                "addr:street": "Largo Leonardo da Vinci",
+                "check_date": "2024-05-26",
+                "fax": "+39 06 54602097",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:00,16:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 06 5417515",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes"
             }
         },
         {
@@ -588,6 +708,30 @@
         },
         {
             "type": "node",
+            "id": 4217107310,
+            "lat": 41.8176492,
+            "lon": 12.4650278,
+            "timestamp": "2025-01-03T16:19:47Z",
+            "version": 2,
+            "changeset": 160956344,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:housenumber": "271",
+                "addr:postcode": "00144",
+                "addr:street": "Viale dell'Oceano Atlantico",
+                "brand": "OVS",
+                "fax": "+39 06 56561576",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+                "operator": "OVS",
+                "phone": "+39 06 54220247",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4230222473,
             "lat": 41.9082017,
             "lon": 12.4672086,
@@ -674,6 +818,31 @@
         },
         {
             "type": "node",
+            "id": 4367972979,
+            "lat": 41.8739717,
+            "lon": 12.5225553,
+            "timestamp": "2025-01-03T09:46:02Z",
+            "version": 3,
+            "changeset": 160940263,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housenumber": "450",
+                "addr:postcode": "00181",
+                "addr:street": "Via Appia Nuova",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "name": "Decathlon",
+                "name:it": "Decathlon Easy Appio",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 4386198214,
             "lat": 41.910753,
             "lon": 12.3999199,
@@ -719,6 +888,30 @@
         },
         {
             "type": "node",
+            "id": 4450577283,
+            "lat": 41.9024646,
+            "lon": 12.4846932,
+            "timestamp": "2025-01-03T14:08:39Z",
+            "version": 4,
+            "changeset": 160950857,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "172",
+                "addr:postcode": "00187",
+                "addr:street": "Via del Tritone",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 06 6783336",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4483864101,
             "lat": 41.8071006,
             "lon": 12.6797947,
@@ -736,6 +929,26 @@
                 "check_date:currency:XBT": "2023-03-04",
                 "currency:XBT": "yes",
                 "name": "Gran Caff\u00e8 Roma"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4502997754,
+            "lat": 41.8709193,
+            "lon": 12.4680632,
+            "timestamp": "2025-01-03T16:28:32Z",
+            "version": 2,
+            "changeset": 160956722,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "74",
+                "addr:postcode": "00164",
+                "addr:street": "Piazza della Radio",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -806,6 +1019,30 @@
         },
         {
             "type": "node",
+            "id": 5044647401,
+            "lat": 41.8570874,
+            "lon": 12.5627681,
+            "timestamp": "2025-01-03T16:37:14Z",
+            "version": 4,
+            "changeset": 160957023,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "893",
+                "addr:postcode": "00174",
+                "addr:street": "Via Tuscolana",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5168796121,
             "lat": 42.2207304,
             "lon": 12.3053639,
@@ -832,6 +1069,29 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0761 571504",
                 "website": "https://ilcasaledeibuonisapori.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5330496621,
+            "lat": 41.8804648,
+            "lon": 12.5160109,
+            "timestamp": "2025-01-03T14:12:05Z",
+            "version": 4,
+            "changeset": 160951010,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "183",
+                "addr:postcode": "00183",
+                "addr:street": "Via Appia Nuova",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -1165,6 +1425,29 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7018252151,
+            "lat": 41.8055921,
+            "lon": 12.5979552,
+            "timestamp": "2025-01-03T14:15:17Z",
+            "version": 6,
+            "changeset": 160951140,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ciampino",
+                "addr:postcode": "00043",
+                "addr:street": "Via Carlo Pirzio Biroli",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "mapillary": "2826809500907041",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1653,6 +1936,36 @@
         },
         {
             "type": "node",
+            "id": 8188405397,
+            "lat": 41.8131165,
+            "lon": 12.6549305,
+            "timestamp": "2021-12-27T21:54:28Z",
+            "version": 6,
+            "changeset": 115444971,
+            "user": "elucci",
+            "uid": 12638075,
+            "tags": {
+                "addr:city": "Frascati",
+                "addr:country": "IT",
+                "addr:housenumber": "52",
+                "addr:postcode": "00044",
+                "addr:street": "Via Tuscolana",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "level": "0",
+                "name": "OVS",
+                "operator": "OVS",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "second_hand": "no",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 8188410642,
             "lat": 41.8132525,
             "lon": 12.6551166,
@@ -1981,6 +2294,27 @@
         },
         {
             "type": "node",
+            "id": 10150981035,
+            "lat": 41.7617311,
+            "lon": 12.9609998,
+            "timestamp": "2025-01-03T14:25:51Z",
+            "version": 2,
+            "changeset": 160951625,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Valmontone",
+                "addr:postcode": "00038",
+                "addr:street": "Via della Pace",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10248418330,
             "lat": 41.8969889,
             "lon": 12.474344,
@@ -2060,6 +2394,32 @@
                 "payment:onchain": "yes",
                 "phone": "+393891918081",
                 "website": "https://www.fisioterapiadomiciliare.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10669703778,
+            "lat": 41.9003693,
+            "lon": 12.5686181,
+            "timestamp": "2025-01-03T09:51:55Z",
+            "version": 2,
+            "changeset": 160940483,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "190",
+                "addr:postcode": "00155",
+                "addr:street": "Viale Giovanni Battista Valente",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Decathlon",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+390683556505",
+                "shop": "sports"
             }
         },
         {
@@ -2597,6 +2957,24 @@
         },
         {
             "type": "node",
+            "id": 11772119554,
+            "lat": 41.8817331,
+            "lon": 12.5599691,
+            "timestamp": "2025-01-03T17:33:39Z",
+            "version": 2,
+            "changeset": 160959144,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 11787412770,
             "lat": 41.854241,
             "lon": 12.4750508,
@@ -3065,6 +3443,36 @@
         },
         {
             "type": "node",
+            "id": 11937321164,
+            "lat": 41.7349265,
+            "lon": 12.2784932,
+            "timestamp": "2025-01-03T09:52:55Z",
+            "version": 7,
+            "changeset": 160940521,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ostia",
+                "addr:housenumber": "34",
+                "addr:postcode": "00121",
+                "addr:street": "Via delle Gondole",
+                "branch": "Ostia Connect",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "description": "Negozio connesso al Decathlon Fiumicino",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 10:00-14:00; Mo-Su 15:45-19:30",
+                "operator": "Decathlon",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39 06 83551636",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/store-view/negozio-sport-ostia-connect-0070270202702",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11951751265,
             "lat": 41.592095,
             "lon": 12.6277024,
@@ -3081,6 +3489,24 @@
                 "brand:wikidata": "Q4004687",
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11951792699,
+            "lat": 41.6747882,
+            "lon": 12.5032083,
+            "timestamp": "2025-01-03T17:34:16Z",
+            "version": 2,
+            "changeset": 160959160,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
                 "shop": "electronics"
             }
         },
@@ -3183,6 +3609,1146 @@
                 "healthcare:speciality": "ophthalmology",
                 "name": "Studio Oftalmologico Scuderi",
                 "phone": "+39 06 442 31278"
+            }
+        },
+        {
+            "type": "way",
+            "id": 32735011,
+            "timestamp": "2024-01-08T16:58:14Z",
+            "version": 7,
+            "changeset": 146036372,
+            "user": "pboscherini",
+            "uid": 18038465,
+            "nodes": [
+                368339440,
+                11379863109,
+                11379863103,
+                11379863106,
+                368339444,
+                11379863100,
+                11500590805,
+                4803985323,
+                4803985320,
+                368339464,
+                368339466,
+                368339469,
+                11500590812,
+                368339471,
+                11500590810,
+                368339474,
+                11500590807,
+                11500590808,
+                11500590809,
+                11500590806,
+                368339491,
+                368339493,
+                11500590815,
+                368339496,
+                11500590813,
+                368339500,
+                368339504,
+                11500590804,
+                368339440
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "10",
+                "addr:postcode": "00148",
+                "addr:street": "Via di Valle Lupara",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "building": "yes",
+                "building:colour": "#ffffff",
+                "height": "3",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "Unieuro S.p.A.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+3906651591",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Roma---Muratella"
+            }
+        },
+        {
+            "type": "way",
+            "id": 41113035,
+            "timestamp": "2024-04-06T12:43:08Z",
+            "version": 9,
+            "changeset": 149650831,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                501609659,
+                2612636681,
+                2612636682,
+                2612636679,
+                501609660,
+                501609661,
+                501609662,
+                501609664,
+                501609665,
+                501609669,
+                501609659
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "30",
+                "addr:postcode": "00173",
+                "addr:street": "Via Mary Pandolfi de Rinaldis",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "building": "retail",
+                "building:levels": "5",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Su 09:30-20:00",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 43130955,
+            "timestamp": "2023-07-31T14:23:33Z",
+            "version": 4,
+            "changeset": 139256906,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                540358947,
+                540358937,
+                540358944,
+                540358956,
+                540358947
+            ],
+            "tags": {
+                "addr:housenumber": "km 13.500",
+                "addr:postcode": "00166",
+                "addr:street": "Via Aurelia",
+                "building": "yes",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "opening_hours": "Mo-Su 09:30-20:30",
+                "phone": "+390691515",
+                "shop": "furniture",
+                "website": "https://www.mondoconv.it/punti-vendita/shop/index/negozio/6/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 94078930,
+            "timestamp": "2023-07-12T09:19:48Z",
+            "version": 6,
+            "changeset": 138413640,
+            "user": "AlCeRoma",
+            "uid": 12770453,
+            "nodes": [
+                1093747173,
+                11041955786,
+                1093747195,
+                1093747210,
+                2427016269,
+                1093747203,
+                1093747170,
+                2427012486,
+                11041955787,
+                1093747173
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "190",
+                "addr:postcode": "00155",
+                "addr:street": "Viale Giovanni Battista Valente",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-14:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 06 214901",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009894.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 102270942,
+            "timestamp": "2024-02-16T09:07:13Z",
+            "version": 10,
+            "changeset": 147522472,
+            "user": "Palary",
+            "uid": 20415443,
+            "nodes": [
+                1180587687,
+                1180587834,
+                1180587676,
+                1180587878,
+                11629761758,
+                1180587694,
+                1180587613,
+                11629761759,
+                1180587804,
+                11629761760,
+                11629761761,
+                1180587672,
+                1180587872,
+                11629761762,
+                11629761763,
+                11629761764,
+                11629761765,
+                1180587689,
+                11629870069,
+                11629761766,
+                11629761767,
+                11629761768,
+                1180587687
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "55",
+                "addr:postcode": "00166",
+                "addr:street": "Via Arola",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 06 30266300",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.006887.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 142141271,
+            "timestamp": "2021-07-01T12:38:01Z",
+            "version": 5,
+            "changeset": 107260269,
+            "user": "Silverium",
+            "uid": 13566882,
+            "nodes": [
+                1555734902,
+                1555734950,
+                1555735005,
+                1555734932,
+                1555734902
+            ],
+            "tags": {
+                "addr:housenumber": "850",
+                "addr:street": "Via Ardeatina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "supermarket",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:30",
+                "operator": "Conad",
+                "phone": "+39 06 50513803",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 191107221,
+            "timestamp": "2023-08-04T07:30:49Z",
+            "version": 7,
+            "changeset": 139427070,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "nodes": [
+                2016890640,
+                2016890648,
+                2016890628,
+                3458276515,
+                2016890640
+            ],
+            "tags": {
+                "addr:city": "Castel Gandolfo",
+                "addr:housenumber": "27",
+                "addr:postcode": "00040",
+                "addr:street": "Via De' Zecchini",
+                "building": "yes",
+                "check_date:currency:XBT": "2023-07-11",
+                "currency:XBT": "yes",
+                "name": "Hotel Castel Gandolfo",
+                "phone": "+39 06 9360521",
+                "smoking": "outside",
+                "stars": "4",
+                "tourism": "hotel",
+                "website": "https://www.hotelcastelgandolfo.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 225826084,
+            "timestamp": "2021-07-02T12:18:39Z",
+            "version": 5,
+            "changeset": 107310480,
+            "user": "Silverium",
+            "uid": 13566882,
+            "nodes": [
+                2346494244,
+                2626206357,
+                2346494248,
+                2346494249,
+                3849194701,
+                2529347883,
+                2529347877,
+                2346494246,
+                2346494244
+            ],
+            "tags": {
+                "addr:city": "Frascati",
+                "addr:housenumber": "39",
+                "addr:postcode": "00044",
+                "addr:street": "Via Gregoriana",
+                "building": "commercial",
+                "name": "Conad",
+                "operator": "Conad",
+                "phone": "+39 06 9417559",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 236570048,
+            "timestamp": "2021-07-03T06:45:53Z",
+            "version": 3,
+            "changeset": 107341169,
+            "user": "Silverium",
+            "uid": 13566882,
+            "nodes": [
+                2445910339,
+                2445910321,
+                2445910274,
+                2445910296,
+                2445910339
+            ],
+            "tags": {
+                "addr:city": "San Vito Romano",
+                "addr:housenumber": "60",
+                "addr:postcode": "00030",
+                "addr:street": "Viale Piave",
+                "building": "yes",
+                "name": "Conad Margherita",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408362762,
+            "timestamp": "2024-04-07T09:53:39Z",
+            "version": 3,
+            "changeset": 149684053,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4103104331,
+                4103104332,
+                4103104333,
+                4103104334,
+                4103104331
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "operator": "Conad",
+                "parking": "surface"
+            }
+        },
+        {
+            "type": "way",
+            "id": 445960742,
+            "timestamp": "2023-07-31T14:41:06Z",
+            "version": 3,
+            "changeset": 139257764,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                4433000461,
+                4433000295,
+                4433000238,
+                4433000220,
+                4433000277,
+                4433000461
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "commercial",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 471809969,
+            "timestamp": "2024-12-30T22:08:36Z",
+            "version": 5,
+            "changeset": 160812131,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                4659676368,
+                4659676369,
+                4659676370,
+                4659676371,
+                4858429119,
+                4659676368
+            ],
+            "tags": {
+                "addr:housenumber": "36",
+                "addr:street": "Via di Castel Fusano",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "phone": "+39 06 5651929",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 486534369,
+            "timestamp": "2024-12-30T22:08:57Z",
+            "version": 7,
+            "changeset": 160812144,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                4791337918,
+                4791337919,
+                4791337920,
+                4791338121,
+                4791337918
+            ],
+            "tags": {
+                "addr:housenumber": "47/49",
+                "addr:street": "Via di Polletrara",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
+                "operator": "CONAD Soc. Coop.",
+                "phone": "+39 06 61566229",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 486913089,
+            "timestamp": "2023-01-12T19:19:45Z",
+            "version": 2,
+            "changeset": 131201756,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                4794553801,
+                4794553802,
+                4794553803,
+                4794553804,
+                4794553801
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "5",
+                "addr:postcode": "00166",
+                "addr:street": "Via Vittorino Cannavina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 06 79784430",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2023/01/11/inaugura-a-roma-il-nuovo-conad-di-via-vittorino-cannavina/",
+                "start_date": "2023-01-12"
+            }
+        },
+        {
+            "type": "way",
+            "id": 503399518,
+            "timestamp": "2020-09-20T07:05:36Z",
+            "version": 3,
+            "changeset": 91167123,
+            "user": "DaveKen",
+            "uid": 6704930,
+            "nodes": [
+                4937181297,
+                4724800366,
+                4937181301,
+                4937181302,
+                7922768013,
+                4937181304,
+                4724800327,
+                4724800334,
+                4724800333,
+                4937181308,
+                4937181307,
+                7922768016,
+                7922768017,
+                7903035929,
+                7922768018,
+                4937181300,
+                7903035928,
+                4937181297
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "operator": "Conad",
+                "operator:type": "private",
+                "parking": "surface",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "way",
+            "id": 548054477,
+            "timestamp": "2021-07-02T12:18:24Z",
+            "version": 4,
+            "changeset": 107310480,
+            "user": "Silverium",
+            "uid": 13566882,
+            "nodes": [
+                5295017835,
+                5295017836,
+                5295017837,
+                5295017838,
+                5295017839,
+                5295017840,
+                5295017841,
+                5295017842,
+                5295017843,
+                5295017844,
+                5295017845,
+                5295017835
+            ],
+            "tags": {
+                "addr:street": "Viale della Pineta di Fregene",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "name": "Conad",
+                "operator": "Conad",
+                "phone": "+39 06 61968339",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 861300088,
+            "timestamp": "2024-05-28T06:56:29Z",
+            "version": 5,
+            "changeset": 151928293,
+            "user": "B&B il Lago di Nemi",
+            "uid": 21319043,
+            "nodes": [
+                8027453295,
+                8027453296,
+                8027453297,
+                8027453298,
+                8027453295
+            ],
+            "tags": {
+                "addr:city": "nemi",
+                "addr:housenumber": "1",
+                "addr:postcode": "00040",
+                "addr:street": "Via delle Navi di Tiberio",
+                "building": "yes",
+                "check_date": "2024-04-18",
+                "currency:XBT": "yes",
+                "email": "info@illagodinemi.it",
+                "guest_house": "bed_and_breakfast",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "B&B il Lago di Nemi.it",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393932933303",
+                "rooms": "5",
+                "tourism": "guest_house",
+                "website": "https://www.illagodinemi.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687281,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192120,
+                9873192121,
+                9873192122,
+                9873192123,
+                9873192120
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "18",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687282,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192124,
+                9873192125,
+                9873192126,
+                9873192127,
+                9873192124
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "18",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687283,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192128,
+                9873192129,
+                9873192130,
+                9873192131,
+                9873192128
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "20",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687285,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192134,
+                9873192138,
+                9873192135,
+                9873192136,
+                9873192137,
+                9873192134
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "8",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687286,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192135,
+                9873192139,
+                9873192146,
+                9873192143,
+                9873192140,
+                9873192141,
+                9873192142,
+                9873192138,
+                9873192135
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "3",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687287,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192143,
+                9873192148,
+                9873192144,
+                9873192145,
+                9873192140,
+                9873192143
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity:disabled": "10",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687288,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192146,
+                9873192147,
+                9873192148,
+                9873192143,
+                9873192146
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "2",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687289,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873192149,
+                9873192150,
+                9873192151,
+                9873192152,
+                9873192149
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "4",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687303,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209085,
+                9873209086,
+                9873209087,
+                9873209088,
+                9873209085
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "4",
+                "capacity:disabled": "3",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687304,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209089,
+                9873209090,
+                9873209091,
+                9873209101,
+                9873209092,
+                9873209089
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "4",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687309,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209122,
+                9873209123,
+                9873209124,
+                9873209125,
+                9873209122
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "16",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687310,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209126,
+                9873209127,
+                9873209131,
+                9873209213,
+                9873209129,
+                9873209130,
+                9873209128,
+                9873209126
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "15",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687314,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209145,
+                9873209146,
+                9873209147,
+                9873209148,
+                9873209145
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "4",
+                "capacity:disabled": "4",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687315,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209149,
+                9873209150,
+                9873209151,
+                9873209152,
+                9873209149
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity": "12",
+                "operator": "Conad",
+                "operator:type": "business"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1076687321,
+            "timestamp": "2022-07-07T20:41:08Z",
+            "version": 1,
+            "changeset": 123335679,
+            "user": "Genio2003",
+            "uid": 15172358,
+            "nodes": [
+                9873209244,
+                9873209245,
+                9873209246,
+                9873209247,
+                9873209248,
+                9873209249,
+                9873209250,
+                9873209251,
+                9873209252,
+                9873209253,
+                9873209244
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "operator": "Conad",
+                "operator:type": "business",
+                "surface": "dirt"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1132982109,
+            "timestamp": "2024-04-15T19:22:36Z",
+            "version": 5,
+            "changeset": 150055086,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "nodes": [
+                10563509767,
+                10563509768,
+                10563509769,
+                10563509770,
+                10563509771,
+                10563509766,
+                10563509767
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "865",
+                "addr:postcode": "00143",
+                "addr:street": "Via Laurentina",
+                "check_date": "2024-04-14",
+                "currency:XBT": "yes",
+                "email": "INFO@PROJ3CT.IT",
+                "indoor": "room",
+                "level": "1",
+                "name": "PROJ3CT Store - C.C. Maximo",
+                "phone": "+39 06 89760663",
+                "shop": "clothes",
+                "website": "https://www.proj3ct.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1225286775,
+            "timestamp": "2024-02-20T03:43:06Z",
+            "version": 2,
+            "changeset": 147674326,
+            "user": "Igor Bubelov",
+            "uid": 2104834,
+            "nodes": [
+                11166948539,
+                11164866093,
+                11362753331,
+                11362753330,
+                11166948540,
+                11166948539
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "83",
+                "addr:postcode": "00144",
+                "addr:street": "Via dell'Oceano Pacifico",
+                "amenity": "fast_food",
+                "check_date": "2023-11-19",
+                "cuisine": "kebab",
+                "currency:XBT": "yes",
+                "indoor": "room",
+                "level": "2",
+                "name": "Kebhouze - CC Euroma2",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "website": "https://kebhouze.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1275351727,
+            "timestamp": "2024-10-15T14:13:47Z",
+            "version": 2,
+            "changeset": 157923170,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "nodes": [
+                11841887950,
+                11841887951,
+                11841887952,
+                11841887953,
+                11841887954,
+                11841887950
+            ],
+            "tags": {
+                "addr:city": "Ciampino",
+                "addr:country": "IT",
+                "addr:postcode": "00043",
+                "addr:street": "Via San Paolo della Croce",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "operator": "Conad",
+                "phone": "+39 06 87570137",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-superstore-via-san-paolo-della-croce-1-a-37-00043-ciampino--010540"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1308443870,
+            "timestamp": "2024-08-28T07:22:50Z",
+            "version": 2,
+            "changeset": 155864766,
+            "user": "v1xit",
+            "uid": 21858798,
+            "nodes": [
+                12116912201,
+                12141542245,
+                12116912202,
+                12141542248,
+                12116912203,
+                12116912204,
+                12141542247,
+                12141542244,
+                12116912205,
+                12116912201
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00143",
+                "addr:street": "Via della Cecchignola",
+                "air_conditioning": "yes",
+                "brand": "Conad Superstore",
+                "brand:wikidata": "Q118129616",
+                "building": "commercial",
+                "name": "Conad Superstore",
+                "opening_hours": "sunrise-sunset",
+                "operator": "Conad",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 0689411261",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 12868723,
+            "timestamp": "2024-10-20T17:16:27Z",
+            "version": 6,
+            "changeset": 158138106,
+            "user": "lorenzog89",
+            "uid": 482753,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 38666682,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 956526677,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 956526679,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 38666191,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "retail",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "opening_hours": "Mo-Su 10:00-21:00; PH off",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+390691515",
+                "shop": "furniture",
+                "type": "multipolygon",
+                "website": "https://www.mondoconv.it/punti-vendita/shop/index/negozio/9/"
             }
         }
     ],

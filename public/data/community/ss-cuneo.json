@@ -102,6 +102,31 @@
         },
         {
             "type": "node",
+            "id": 4343768039,
+            "lat": 44.7093378,
+            "lon": 7.8426932,
+            "timestamp": "2025-01-03T14:07:48Z",
+            "version": 5,
+            "changeset": 160950817,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Bra",
+                "addr:housenumber": "1f",
+                "addr:postcode": "12042",
+                "addr:street": "Strada San Matteo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2023-02-19",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0172 431984",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4844602523,
             "lat": 44.5031343,
             "lon": 7.7253946,
@@ -195,6 +220,33 @@
                 "phone": "+39 0171 268005",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008648.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7089465128,
+            "lat": 44.3908508,
+            "lon": 7.5829884,
+            "timestamp": "2025-01-03T09:48:08Z",
+            "version": 4,
+            "changeset": 160940336,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Cuneo",
+                "addr:housenumber": "8",
+                "addr:postcode": "12100",
+                "addr:street": "Via Margarita",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "phone": "+39 0171 346444",
+                "ref:vatin": "IT11005760159",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/store-view/sport-shop-cuneo-0070037000370"
             }
         },
         {
@@ -346,6 +398,99 @@
                 "phone": "+39 0324 848425",
                 "shop": "food",
                 "website": "https://www.molinobongiovanni.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 306364035,
+            "timestamp": "2020-10-19T21:22:15Z",
+            "version": 8,
+            "changeset": 92729551,
+            "user": "Botaler",
+            "uid": 492756,
+            "nodes": [
+                3112504685,
+                3258819038,
+                3258819045,
+                3258819044,
+                3258819047,
+                3112504686,
+                3112509660,
+                3258819051,
+                3112504688,
+                3258102385,
+                3112504690,
+                3112504685
+            ],
+            "tags": {
+                "addr:city": "Savigliano",
+                "addr:housenumber": "68",
+                "addr:postcode": "12038",
+                "addr:street": "Via Saluzzo",
+                "building": "supermarket",
+                "email": "Sav_L494061A@di-net.it",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 8:30-20:00; Su 08:30-13:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0172 241500",
+                "shop": "mall",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.006550.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 320715723,
+            "timestamp": "2024-06-06T09:41:53Z",
+            "version": 2,
+            "changeset": 152322616,
+            "user": "Mauro Lovato",
+            "uid": 21592754,
+            "nodes": [
+                3273506615,
+                3273506619,
+                3273506618,
+                3273506614,
+                3273506615
+            ],
+            "tags": {
+                "building": "yes",
+                "currency:XBT": "yes",
+                "name": "Ing. Ugo Pellegrino",
+                "office": "engineer"
+            }
+        },
+        {
+            "type": "way",
+            "id": 338400683,
+            "timestamp": "2024-12-01T17:58:34Z",
+            "version": 6,
+            "changeset": 159815087,
+            "user": "Botaler",
+            "uid": 492756,
+            "nodes": [
+                3454782535,
+                3454782534,
+                3454782533,
+                3454782536,
+                3454782535
+            ],
+            "tags": {
+                "addr:city": "Caraglio",
+                "addr:housenumber": "21",
+                "addr:postcode": "12023",
+                "addr:street": "Via Provinciale Busca",
+                "currency:XBT": "yes",
+                "name": "Rosatello-Ramonda",
+                "payment:bitcoin": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "phone": "+39 0171 619878",
+                "shop": "fruit"
             }
         }
     ],

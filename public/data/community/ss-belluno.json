@@ -36,6 +36,22 @@
         },
         {
             "type": "node",
+            "id": 1325154661,
+            "lat": 45.9447538,
+            "lon": 12.7165837,
+            "timestamp": "2025-01-03T17:17:01Z",
+            "version": 8,
+            "changeset": 160958530,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1403161164,
             "lat": 45.8241234,
             "lon": 11.8825578,
@@ -54,6 +70,28 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1539203010,
+            "lat": 45.8789638,
+            "lon": 12.3077782,
+            "timestamp": "2025-01-03T15:43:31Z",
+            "version": 4,
+            "changeset": 160954822,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Conegliano",
+                "addr:postcode": "31015",
+                "addr:street": "Viale Italia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -184,6 +222,31 @@
         },
         {
             "type": "node",
+            "id": 2806097596,
+            "lat": 46.0164143,
+            "lon": 11.9047747,
+            "timestamp": "2025-01-03T16:04:00Z",
+            "version": 3,
+            "changeset": 160955688,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Feltre",
+                "addr:housenumber": "21",
+                "addr:postcode": "32032",
+                "addr:street": "Largo Panfilo Castaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "contact:email": "249f@ovs.it",
+                "contact:phone": "+39 0439 83500",
+                "contact:website": "https://www.ovs.it/it/it/stores/italia/veneto/belluno/ovs-feltre",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3765116375,
             "lat": 45.9582864,
             "lon": 12.6622506,
@@ -254,6 +317,30 @@
                 "phone": "+390439840670",
                 "shop": "electronics",
                 "website": "https://www.unieuro.it/online/negozi/Unieuro-Feltre"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4273854674,
+            "lat": 45.9444215,
+            "lon": 12.4638597,
+            "timestamp": "2025-01-03T16:23:00Z",
+            "version": 6,
+            "changeset": 160956497,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Sacile",
+                "addr:housenumber": "1",
+                "addr:postcode": "33077",
+                "addr:street": "Viale Europa",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "name": "OVS",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -391,6 +478,64 @@
         },
         {
             "type": "node",
+            "id": 6528179520,
+            "lat": 45.9068785,
+            "lon": 12.3391302,
+            "timestamp": "2025-01-03T17:27:20Z",
+            "version": 3,
+            "changeset": 160958927,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6528179526,
+            "lat": 45.9053929,
+            "lon": 12.3401467,
+            "timestamp": "2025-01-03T10:50:17Z",
+            "version": 3,
+            "changeset": 160942664,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "San Martino",
+                "addr:housenumber": "19",
+                "addr:postcode": "31020",
+                "addr:street": "Via Villa Liccer",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6897820650,
+            "lat": 45.9053036,
+            "lon": 12.3401004,
+            "timestamp": "2019-10-19T10:08:24Z",
+            "version": 1,
+            "changeset": 75925638,
+            "user": "G123456",
+            "uid": 7114955,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Decathlon"
+            }
+        },
+        {
+            "type": "node",
             "id": 7500992493,
             "lat": 45.9725403,
             "lon": 12.6144979,
@@ -432,6 +577,53 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8522210465,
+            "lat": 46.1813546,
+            "lon": 12.2750037,
+            "timestamp": "2025-01-03T09:50:31Z",
+            "version": 5,
+            "changeset": 160940423,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Ponte nelle Alpi",
+                "addr:housenumber": "37",
+                "addr:postcode": "32014",
+                "addr:street": "Viale Dolomiti",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-19:30",
+                "operator": "Decathlon",
+                "phone": "+39 0437 1842007",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10077434567,
+            "lat": 45.774883,
+            "lon": 12.5926167,
+            "timestamp": "2025-01-03T16:59:50Z",
+            "version": 2,
+            "changeset": 160957872,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Motta di Livenza",
+                "addr:housenumber": "11",
+                "addr:postcode": "31045",
+                "addr:street": "Via Milano",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -594,6 +786,252 @@
                 "survey:date": "2024-01-01",
                 "tourism": "gallery",
                 "website": "https://linktr.ee/Ma.armoladaArt?fbclid=PAZXh0bgNhZW0CMTEAAab21UrFK8GPO9qQpBG1sLHqZAghQhylICmYogHy_rvxFkkjjHose8qtG74_aem_ZmFrZWR1bW15MTZieXRlcw"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12112513857,
+            "lat": 45.8807177,
+            "lon": 12.7114436,
+            "timestamp": "2025-01-03T14:30:39Z",
+            "version": 2,
+            "changeset": 160951824,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Azzano Decimo",
+                "addr:housenumber": "33",
+                "addr:postcode": "33082",
+                "addr:street": "Viale Venticinque Aprile",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0434 043814",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36053469,
+            "timestamp": "2023-11-13T08:06:55Z",
+            "version": 5,
+            "changeset": 143959231,
+            "user": "LVe182",
+            "uid": 20584489,
+            "nodes": [
+                421253864,
+                421253865,
+                421253866,
+                421253867,
+                421253868,
+                421253869,
+                421253870,
+                421253871,
+                421253864
+            ],
+            "tags": {
+                "amenity": "supermarket",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "retail",
+                "height": "5 m",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "000",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36427080,
+            "timestamp": "2023-08-02T13:36:04Z",
+            "version": 12,
+            "changeset": 139348493,
+            "user": "hobbie",
+            "uid": 281699,
+            "nodes": [
+                424967468,
+                11083681692,
+                424747168,
+                424747169,
+                424747170,
+                424747171,
+                424747172,
+                424747173,
+                11083681690,
+                11083681691,
+                424747174,
+                11083681689,
+                11083681688,
+                424747175,
+                424747176,
+                424747177,
+                424747178,
+                424747179,
+                424747181,
+                5200865541,
+                424967469,
+                424967468
+            ],
+            "tags": {
+                "addr:city": "Porcia",
+                "addr:housenumber": "52",
+                "addr:postcode": "33080",
+                "addr:street": "Via Roveredo",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "height": "11 m",
+                "it:fvg:ctrn:code": "4AIN",
+                "it:fvg:ctrn:revision": "1A0",
+                "layer": "1",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0434 593257",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.008840.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 146023026,
+            "timestamp": "2019-07-08T07:26:53Z",
+            "version": 3,
+            "changeset": 72000966,
+            "user": "Silvano S 69",
+            "uid": 3798260,
+            "nodes": [
+                1593199958,
+                1593199901,
+                1593199869,
+                1593199812,
+                1593199777,
+                1593199607,
+                1593199641,
+                1593199660,
+                1593199684,
+                1593199773,
+                1593199786,
+                1593200076,
+                1593200118,
+                1593200180,
+                1593200216,
+                1593200247,
+                1593200378,
+                1593200275,
+                1593200205,
+                1593200203,
+                1593200111,
+                1593200105,
+                1593199958
+            ],
+            "tags": {
+                "building": "industrial",
+                "note": "verificare se man_made=works",
+                "operator": "Trony"
+            }
+        },
+        {
+            "type": "way",
+            "id": 150842317,
+            "timestamp": "2023-01-13T00:38:07Z",
+            "version": 5,
+            "changeset": 131209269,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "nodes": [
+                1637111452,
+                1637111415,
+                1637111432,
+                1637111454,
+                1637111453,
+                1637111457,
+                1637111451,
+                1637111461,
+                1637111452
+            ],
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "building": "retail",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 251891299,
+            "timestamp": "2022-05-02T08:50:09Z",
+            "version": 3,
+            "changeset": 120450630,
+            "user": "hobbie",
+            "uid": 281699,
+            "nodes": [
+                2580489974,
+                2580489965,
+                2580489962,
+                9708742342,
+                2580489967,
+                2580489974
+            ],
+            "tags": {
+                "addr:city": "Azzano Decimo",
+                "addr:housenumber": "5",
+                "addr:postcode": "33082",
+                "addr:street": "Via Ilaria Alpi",
+                "amenity": "fuel",
+                "brand": "Conad",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
+                "operator": "Conad",
+                "self_service": "yes",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.050059.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 534093804,
+            "timestamp": "2020-05-10T13:34:06Z",
+            "version": 4,
+            "changeset": 84972038,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                5180456241,
+                5180456226,
+                5180456235,
+                5180456225,
+                5180456241
+            ],
+            "tags": {
+                "addr:city": "Porcia",
+                "addr:housenumber": "58",
+                "addr:postcode": "33080",
+                "addr:street": "Via Lazio",
+                "amenity": "fuel",
+                "brand": "Independent",
+                "building": "roof",
+                "fuel:GTL_diesel": "no",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Conad",
+                "opening_hours": "24/7",
+                "operator": "Conad",
+                "self_service": "yes",
+                "shop": "no",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.050057.html"
             }
         }
     ],

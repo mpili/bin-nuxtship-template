@@ -85,6 +85,29 @@
         },
         {
             "type": "node",
+            "id": 6867261335,
+            "lat": 40.5366841,
+            "lon": 17.4341804,
+            "timestamp": "2025-01-03T14:15:03Z",
+            "version": 2,
+            "changeset": 160951132,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Grottaglie",
+                "addr:postcode": "74023",
+                "addr:street": "Viale Giacomo Matteotti",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "clothes": "children",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 7765194018,
             "lat": 40.4462155,
             "lon": 17.2699366,
@@ -286,6 +309,72 @@
                 "email": "info@caveaubar.it",
                 "name": "Caveau Bar",
                 "phone": "+39 350 126 5170"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 17864305,
+            "timestamp": "2024-11-10T20:35:22Z",
+            "version": 11,
+            "changeset": 158984753,
+            "user": "mpbin",
+            "uid": 21850090,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 1303064323,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 619551383,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "addr:city": "Taranto",
+                "addr:country": "IT",
+                "addr:housenumber": "183",
+                "addr:postcode": "74121",
+                "addr:province": "TA",
+                "addr:street": "Viale Magna Grecia",
+                "amenity": "fuel",
+                "check_date": "2024-09-02",
+                "currency:XBT": "yes",
+                "fuel:diesel": "yes",
+                "fuel:electric": "yes",
+                "fuel:electricity": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Stazione di servizio Q8",
+                "operator": "Taras Oil S.r.l.",
+                "payment:american_express": "yes",
+                "payment:apple_pay": "yes",
+                "payment:bancomat": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:dkv": "yes",
+                "payment:esso_card": "yes",
+                "payment:google_pay": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:mastercard_contactless": "yes",
+                "payment:nfc": "yes",
+                "payment:nfc_mobile_payments": "yes",
+                "payment:notes": "yes",
+                "payment:satispay": "yes",
+                "payment:unionpay": "yes",
+                "payment:uta": "yes",
+                "payment:v_pay": "yes",
+                "payment:visa": "yes",
+                "payment:visa_debit": "yes",
+                "payment:visa_electron": "yes",
+                "phone": "+390656549424",
+                "self_service": "yes",
+                "type": "multipolygon",
+                "website": "https://www.eseitalia.it"
             }
         }
     ],

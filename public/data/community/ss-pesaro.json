@@ -123,6 +123,29 @@
         },
         {
             "type": "node",
+            "id": 2313056558,
+            "lat": 43.7127977,
+            "lon": 13.2205511,
+            "timestamp": "2025-01-03T15:58:10Z",
+            "version": 7,
+            "changeset": 160955425,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Senigallia",
+                "addr:postcode": "60019",
+                "addr:street": "Viale Quattro Novembre",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "website": "https://negozi.ovs.it/it/negozi/italia/ancona/ovs-senigallia_00129.aspx"
+            }
+        },
+        {
+            "type": "node",
             "id": 2509581941,
             "lat": 43.7667375,
             "lon": 13.1352112,
@@ -342,6 +365,31 @@
         },
         {
             "type": "node",
+            "id": 2718202304,
+            "lat": 44.0582513,
+            "lon": 12.5668867,
+            "timestamp": "2025-01-03T14:02:49Z",
+            "version": 4,
+            "changeset": 160950605,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "74",
+                "addr:postcode": "47921",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "source:wheelchair": "survey",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 3074007138,
             "lat": 44.1631031,
             "lon": 12.443792,
@@ -367,6 +415,30 @@
                 "swimming_pool": "yes",
                 "tourism": "hotel",
                 "website": "http://hotellaplaja.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3673083531,
+            "lat": 43.800742,
+            "lon": 13.0118236,
+            "timestamp": "2025-01-03T14:05:27Z",
+            "version": 6,
+            "changeset": 160950703,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:housenumber": "30",
+                "addr:postcode": "61032",
+                "addr:street": "Via Luigi Einaudi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0721 860116",
+                "shop": "clothes"
             }
         },
         {
@@ -420,6 +492,30 @@
         },
         {
             "type": "node",
+            "id": 4238510841,
+            "lat": 43.9054477,
+            "lon": 12.8694387,
+            "timestamp": "2025-01-03T14:07:20Z",
+            "version": 6,
+            "changeset": 160950793,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:postcode": "61122",
+                "addr:street": "Via Yuri Gagarin",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0721 405682",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4347589925,
             "lat": 43.9061157,
             "lon": 12.8667692,
@@ -444,6 +540,29 @@
         },
         {
             "type": "node",
+            "id": 4495188701,
+            "lat": 44.0022953,
+            "lon": 12.6599613,
+            "timestamp": "2025-01-03T16:27:07Z",
+            "version": 6,
+            "changeset": 160956664,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Riccione",
+                "addr:housenumber": "36",
+                "addr:postcode": "47838",
+                "addr:street": "Viale Maria Boorman Ceccarini",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date": "2024-08-04",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4495480088,
             "lat": 44.063513,
             "lon": 12.4562914,
@@ -462,6 +581,27 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4502403689,
+            "lat": 44.1576015,
+            "lon": 12.4276275,
+            "timestamp": "2025-01-03T17:25:12Z",
+            "version": 6,
+            "changeset": 160958852,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "name:it": "Mediaworld",
+                "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-20:30",
+                "operator": "MediaMarket S.p.A.",
+                "phone": "+39 0541335111",
+                "shop": "electronics",
+                "website": "https://romagna-shoppingvalley.klepierre.it/Shopping/MediaWorld",
+                "wheelchair": "yes"
             }
         },
         {
@@ -943,6 +1083,92 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 223752445,
+            "timestamp": "2019-08-21T22:05:37Z",
+            "version": 3,
+            "changeset": 73598480,
+            "user": "Samuele Battarra",
+            "uid": 51179,
+            "nodes": [
+                2326232555,
+                2326232879,
+                2326232149,
+                2326232092,
+                2326231999,
+                2326231920,
+                2326232014,
+                2326231967,
+                2326232555
+            ],
+            "tags": {
+                "building": "yes",
+                "name": "Conad City",
+                "operator": "Conad",
+                "rer_edi_id:ref": "2da41d69-6a52-472e-888b-57e004e656ae",
+                "shop": "supermarket",
+                "source": "Regione Emilia Romagna"
+            }
+        },
+        {
+            "type": "way",
+            "id": 510855174,
+            "timestamp": "2023-11-10T18:05:48Z",
+            "version": 4,
+            "changeset": 143873876,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4998480685,
+                4998480686,
+                4998480687,
+                4998480688,
+                11338903813,
+                4998480685
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "yes",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1247653624,
+            "timestamp": "2024-02-08T13:34:45Z",
+            "version": 1,
+            "changeset": 147218235,
+            "user": "pietrell",
+            "uid": 20977587,
+            "nodes": [
+                11598331302,
+                11598331316,
+                11598331317,
+                11598331318,
+                11598331319,
+                11598331320,
+                11598331321,
+                11598331303,
+                11598331326,
+                10934334033,
+                10934334034,
+                1088312553,
+                11598331302
+            ],
+            "tags": {
+                "access": "private",
+                "amenity": "parking",
+                "operator": "Conad",
+                "operator:type": "business",
+                "parking": "surface",
+                "surface": "asphalt"
             }
         }
     ],

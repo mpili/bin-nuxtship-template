@@ -113,6 +113,67 @@
         },
         {
             "type": "node",
+            "id": 2520333245,
+            "lat": 43.0889548,
+            "lon": 12.4711654,
+            "timestamp": "2025-01-03T17:20:49Z",
+            "version": 3,
+            "changeset": 160958691,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2616069740,
+            "lat": 42.955288,
+            "lon": 12.7070717,
+            "timestamp": "2025-01-03T16:02:33Z",
+            "version": 4,
+            "changeset": 160955625,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Foligno",
+                "addr:housenumber": "68",
+                "addr:postcode": "06034",
+                "addr:street": "Via Umberto I",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 0742 351768",
+                "ref:vatin": "IT04240010274",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3081303564,
+            "lat": 43.4714972,
+            "lon": 12.2304155,
+            "timestamp": "2025-01-03T16:08:14Z",
+            "version": 5,
+            "changeset": 160955867,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Citt\u00e0 di Castello",
+                "addr:postcode": "06012",
+                "addr:street": "Via Giuseppe Di Vittorio",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3096559969,
             "lat": 43.0995038,
             "lon": 12.3103115,
@@ -138,6 +199,29 @@
                 "phone": "+39 075 518391",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008990.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4208072189,
+            "lat": 42.7223767,
+            "lon": 12.1327773,
+            "timestamp": "2025-01-03T16:19:11Z",
+            "version": 4,
+            "changeset": 160956322,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Orvieto",
+                "addr:housenumber": "25 gh",
+                "addr:postcode": "05018",
+                "addr:street": "Via Monte Nibbio",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:30-20:00",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -209,6 +293,32 @@
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6123203063,
+            "lat": 43.1022888,
+            "lon": 12.3236787,
+            "timestamp": "2025-01-03T09:47:49Z",
+            "version": 3,
+            "changeset": 160940323,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Perugia",
+                "addr:postcode": "06132",
+                "addr:street": "Via Trattati di Roma",
+                "branch": "Perugia",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "nohousenumber": "yes",
+                "opening_hours": "09:00-20:30",
+                "operator": "Decathlon",
+                "phone": "+39 0757983505",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/store-view/negozio-sport-perugia-0070202802028"
             }
         },
         {
@@ -570,6 +680,122 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "shop": "cannabis"
+            }
+        },
+        {
+            "type": "way",
+            "id": 61915136,
+            "timestamp": "2024-07-10T10:41:48Z",
+            "version": 4,
+            "changeset": 153778042,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "nodes": [
+                771752825,
+                771752950,
+                771752430,
+                771752608,
+                771752825
+            ],
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:street": "Localit\u00e0 Castagni",
+                "building": "hotel",
+                "check_date": "2024-07-10",
+                "currency:XBT": "yes",
+                "email": "info@agriturismolapineta.com",
+                "guest_house": "agritourism",
+                "name": "Agriturismo La Pineta",
+                "phone": "+39 0756 708017",
+                "tourism": "guest_house",
+                "website": "https://agriturismolapineta.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 286806891,
+            "timestamp": "2023-07-31T14:41:06Z",
+            "version": 6,
+            "changeset": 139257764,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                2904784013,
+                2904784014,
+                2904784015,
+                2904790435,
+                2904784016,
+                2904784017,
+                2904784018,
+                2904784019,
+                2904784020,
+                2904784021,
+                2904784022,
+                2904784023,
+                2904784013
+            ],
+            "tags": {
+                "building": "yes",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "opening_hours": "Mo-Su 09:30-20:00",
+                "shop": "furniture",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 346950708,
+            "timestamp": "2024-05-19T16:08:03Z",
+            "version": 3,
+            "changeset": 151541333,
+            "user": "baprischka",
+            "uid": 974272,
+            "nodes": [
+                3533932564,
+                3533932560,
+                3533932566,
+                3533932563,
+                3533932537,
+                3533932542,
+                3533932551,
+                3533932550,
+                3533932564
+            ],
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "building": "commercial",
+                "check_date": "2024-05-19",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "way",
+            "id": 397116253,
+            "timestamp": "2016-02-10T16:00:48Z",
+            "version": 1,
+            "changeset": 37127818,
+            "user": "cap8789",
+            "uid": 3384463,
+            "nodes": [
+                3999374360,
+                3999374363,
+                3999374364,
+                3999374365,
+                3999374366,
+                3999374359,
+                3999374360
+            ],
+            "tags": {
+                "building": "yes",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         }
     ],

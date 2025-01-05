@@ -18,7 +18,7 @@ const {
       <OsnTag
         v-if="operator"
         icona="guidance:office-pod"
-        etichetta="Conduttore"
+        etichetta="Operatore"
         :testo="operator"
       />
     </template>

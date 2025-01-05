@@ -6,6 +6,25 @@
     "poi": [
         {
             "type": "node",
+            "id": 1856099793,
+            "lat": 38.8432754,
+            "lon": 16.6453743,
+            "timestamp": "2025-01-03T17:18:33Z",
+            "version": 7,
+            "changeset": 160958583,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q76504823",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3110792429,
             "lat": 39.0833831,
             "lon": 17.1146087,
@@ -46,6 +65,30 @@
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
                 "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7589586203,
+            "lat": 38.8437538,
+            "lon": 16.6461878,
+            "timestamp": "2025-01-03T10:51:39Z",
+            "version": 4,
+            "changeset": 160942738,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Catanzaro",
+                "addr:postcode": "88100",
+                "addr:street": "Viale Emilia",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "wheelchair": "yes"
             }
         },
         {
@@ -206,6 +249,40 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 802253440,
+            "timestamp": "2020-05-10T19:00:41Z",
+            "version": 1,
+            "changeset": 84983368,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                7504188003,
+                7504188004,
+                7504188005,
+                7504188006,
+                7504188003
+            ],
+            "tags": {
+                "addr:city": "Catanzaro",
+                "addr:housenumber": "214",
+                "addr:postcode": "88100",
+                "addr:street": "Viale Papa Pio X",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "name": "Conad",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0961 532892",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009643.html"
             }
         }
     ],

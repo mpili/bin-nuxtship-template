@@ -37,6 +37,31 @@
         },
         {
             "type": "node",
+            "id": 334512025,
+            "lat": 45.4116273,
+            "lon": 11.9107073,
+            "timestamp": "2024-02-06T22:24:32Z",
+            "version": 7,
+            "changeset": 147153939,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "104",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "branch": "Italia SRL",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/store-view/negozio-sport-padova-0070026800268"
+            }
+        },
+        {
+            "type": "node",
             "id": 565572053,
             "lat": 45.7515438,
             "lon": 11.7485079,
@@ -112,6 +137,26 @@
         },
         {
             "type": "node",
+            "id": 1452300520,
+            "lat": 45.5291826,
+            "lon": 11.5952608,
+            "timestamp": "2025-01-03T17:17:39Z",
+            "version": 12,
+            "changeset": 160958548,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:housenumber": "60",
+                "addr:street": "Strada Padana verso Padova",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 09:30-20:30",
+                "operator": "MediaMarket S.p.A.",
+                "phone": "+390444-9161",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 1452373305,
             "lat": 45.4394324,
             "lon": 11.0041704,
@@ -135,6 +180,44 @@
                 "payment:onchain": "no",
                 "phone": "+39 045 2376356",
                 "website": "https://www.osteriascalin.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1452480258,
+            "lat": 45.7455465,
+            "lon": 11.7516493,
+            "timestamp": "2025-01-03T17:17:57Z",
+            "version": 6,
+            "changeset": 160958558,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "ref:vatin": "IT02630120166",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1534384046,
+            "lat": 45.3778806,
+            "lon": 11.8558106,
+            "timestamp": "2025-01-03T17:18:17Z",
+            "version": 5,
+            "changeset": 160958572,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
@@ -235,6 +318,30 @@
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2077262143,
+            "lat": 45.6950503,
+            "lon": 11.4973037,
+            "timestamp": "2025-01-03T09:19:00Z",
+            "version": 6,
+            "changeset": 160939445,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Thiene",
+                "addr:country": "IT",
+                "addr:postcode": "36016",
+                "addr:street": "Via dei Quartieri",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "phone": "+39 0445370730",
+                "shop": "sports"
             }
         },
         {
@@ -351,6 +458,52 @@
                 "shop": "electronics",
                 "website": "https://www.unieuro.it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2543253465,
+            "lat": 45.5228475,
+            "lon": 11.4843006,
+            "timestamp": "2025-01-03T16:01:20Z",
+            "version": 4,
+            "changeset": 160955569,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Olmo Di Creazzo",
+                "addr:housenumber": "1",
+                "addr:postcode": "36051",
+                "addr:street": "Via Cristoforo Colombo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2569978163,
+            "lat": 45.4109517,
+            "lon": 11.8761919,
+            "timestamp": "2025-01-03T14:02:16Z",
+            "version": 4,
+            "changeset": 160950583,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "58",
+                "addr:postcode": "35137",
+                "addr:street": "Via San Fermo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -726,6 +879,31 @@
         },
         {
             "type": "node",
+            "id": 5418461939,
+            "lat": 45.2275701,
+            "lon": 11.5236765,
+            "timestamp": "2025-01-03T14:12:20Z",
+            "version": 4,
+            "changeset": 160951019,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Borgo Veneto",
+                "addr:country": "IT",
+                "addr:housename": "Centro Commerciale Megliadino",
+                "addr:postcode": "35040",
+                "addr:street": "Via Vallesella",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5720390522,
             "lat": 45.5493197,
             "lon": 11.5335038,
@@ -821,6 +999,31 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7168646404,
+            "lat": 45.3950184,
+            "lon": 11.0158405,
+            "timestamp": "2025-01-03T09:48:28Z",
+            "version": 4,
+            "changeset": 160940345,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "access": "customers",
+                "addr:city": "San Giovanni Lupatoto",
+                "addr:country": "IT",
+                "addr:postcode": "37057",
+                "addr:street": "Via Monte Cristallo",
+                "defibrillator:location": "L'apparato \u00e8 installato in fondo vicino all'officina biciclette",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 09:30-20:00",
+                "operator": "Decathlon",
+                "wikimedia_commons": "File:DAE_presso_Decathlon_San_Giovanni_Lupatoto.jpg"
             }
         },
         {
@@ -979,6 +1182,29 @@
         },
         {
             "type": "node",
+            "id": 8757961292,
+            "lat": 45.5084095,
+            "lon": 11.6316576,
+            "timestamp": "2025-01-03T10:53:08Z",
+            "version": 6,
+            "changeset": 160942805,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "access": "yes",
+                "amenity": "bicycle_repair_station",
+                "name": "Decathlon",
+                "opening_hours": "24/7",
+                "operator": "Decathlon",
+                "self_service": "yes",
+                "service:bicycle:chain_tool": "yes",
+                "service:bicycle:pump": "yes",
+                "service:bicycle:stand": "yes",
+                "service:bicycle:tools": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9228904067,
             "lat": 45.5777186,
             "lon": 12.071735,
@@ -998,6 +1224,54 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9672164356,
+            "lat": 45.4225305,
+            "lon": 12.073525,
+            "timestamp": "2025-01-03T14:22:57Z",
+            "version": 2,
+            "changeset": 160951512,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Dolo",
+                "addr:housenumber": "102",
+                "addr:postcode": "30031",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779976060,
+            "lat": 45.4927109,
+            "lon": 12.1108645,
+            "timestamp": "2025-01-03T14:24:04Z",
+            "version": 3,
+            "changeset": 160951544,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Mirano",
+                "addr:housenumber": "23",
+                "addr:postcode": "30035",
+                "addr:street": "Via Barche",
+                "branch": "kids",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "name": "OVS",
+                "operator": "OVS",
+                "phone": "+39 041481976",
+                "shop": "clothes"
             }
         },
         {
@@ -1047,6 +1321,52 @@
                 "payment:onchain": "yes",
                 "phone": "+393391741073",
                 "website": "https://www.impiantielettriciparise.com/impianti-elettrici-parise-passione-e-professionalita-a-vicenz/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295315911,
+            "lat": 45.4247877,
+            "lon": 11.9654184,
+            "timestamp": "2025-01-03T14:26:11Z",
+            "version": 2,
+            "changeset": 160951636,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Vigonza",
+                "addr:housenumber": "86",
+                "addr:postcode": "35010",
+                "addr:street": "Via Regia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296719986,
+            "lat": 45.410309,
+            "lon": 11.9083833,
+            "timestamp": "2025-01-03T17:31:59Z",
+            "version": 4,
+            "changeset": 160959082,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "98",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "fixme": "The website says that the postcode is 35129 and I don't know which postcode is correct",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/it/store/padova-2126"
             }
         },
         {
@@ -1617,6 +1937,222 @@
                 "second_hand": "yes",
                 "shop": "motorcycle",
                 "website": "https://www.zanuso.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 138810721,
+            "timestamp": "2022-03-01T09:45:20Z",
+            "version": 8,
+            "changeset": 117972529,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                3964758269,
+                1521962592,
+                1521963163,
+                1521963252,
+                1521963768,
+                1521962143,
+                1521960205,
+                1521958176,
+                1521955895,
+                1521954253,
+                1521950247,
+                1521949325,
+                3964758269
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "name": "Conad",
+                "operator": "Conad",
+                "phone": "+39 045 594403",
+                "shop": "supermarket",
+                "source": "Regione_del_Veneto_LR28_16.7.1976_Formazione_CTR_auth_39164-5700-1100_23.01.2009"
+            }
+        },
+        {
+            "type": "way",
+            "id": 174768534,
+            "timestamp": "2023-07-31T14:41:06Z",
+            "version": 5,
+            "changeset": 139257764,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                1854349671,
+                1854349674,
+                1854349654,
+                1854349657,
+                1854349669,
+                1862037448,
+                1862037250,
+                1862037702,
+                1862037521,
+                1854349671
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "retail",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 262134580,
+            "timestamp": "2023-07-21T00:36:09Z",
+            "version": 7,
+            "changeset": 138788658,
+            "user": "saunter",
+            "uid": 10396321,
+            "nodes": [
+                2677813322,
+                2677813293,
+                2677813375,
+                2677813386,
+                2677813365,
+                2677812936,
+                2677812997,
+                2677813032,
+                2677813070,
+                2677813106,
+                2677813117,
+                2677813332,
+                2677813322
+            ],
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "90",
+                "addr:postcode": "35129",
+                "addr:street": "Via Madonna del Rosario",
+                "building": "industrial",
+                "building:levels": "1",
+                "check_date:currency:XBT": "2023-07-21",
+                "currency:XBT": "yes",
+                "email": "torrecarrozzeria@gmail.com",
+                "name": "Carrozzeria Torre",
+                "phone": "+39 049 725460",
+                "shop": "car_repair",
+                "website": "https://carrozzeriatorre.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 683303509,
+            "timestamp": "2019-05-23T16:31:10Z",
+            "version": 2,
+            "changeset": 70558265,
+            "user": "MarcoR",
+            "uid": 175882,
+            "nodes": [
+                6400092038,
+                6400092039,
+                6400092050,
+                6400092040,
+                6400092041,
+                6400092042,
+                6400092043,
+                6400092038
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "way",
+            "id": 683303511,
+            "timestamp": "2019-04-12T08:23:04Z",
+            "version": 1,
+            "changeset": 69141379,
+            "user": "Leopy_Periz",
+            "uid": 9433676,
+            "nodes": [
+                1522184800,
+                6400092046,
+                1522180403,
+                6400092044,
+                6400092045,
+                1522184800
+            ],
+            "tags": {
+                "amenity": "parking",
+                "level": "1",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1112540371,
+            "timestamp": "2022-11-12T18:38:31Z",
+            "version": 1,
+            "changeset": 128823563,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                10178658224,
+                10178658225,
+                10178658226,
+                10178658227,
+                10178658224
+            ],
+            "tags": {
+                "addr:city": "San Martino Di Lupari",
+                "addr:housenumber": "158",
+                "addr:postcode": "35018",
+                "addr:street": "Via Cardinale Carlo Agostini",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:00 - 20:00, Su 08:00-20:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 049 9460584",
+                "shop": "supermarket",
+                "source": "https://www.gdonews.it/2022/11/11/conad-inaugura-il-nuovo-punto-vendita-spesa-facile-a-san-martino-di-lupari-pd/",
+                "website": "https://www.conad.it/ricerca-negozi/spesa-facile-via-c-agostini-158-35018--san-martino-di-lupari--010412"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1227411270,
+            "timestamp": "2023-11-28T18:04:45Z",
+            "version": 1,
+            "changeset": 144559341,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                11382082886,
+                11382082882,
+                11382082881,
+                11382082880,
+                11382082885,
+                11382082886
+            ],
+            "tags": {
+                "check_date": "2023-04-05",
+                "clothes": "men",
+                "currency:XBT": "yes",
+                "indoor": "room",
+                "level": "1",
+                "name": "Nuvolari",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 045 4571622",
+                "shop": "clothes",
+                "website": "https://www.nuvolari.biz/stores/verona-c-c-adigeo"
             }
         }
     ],

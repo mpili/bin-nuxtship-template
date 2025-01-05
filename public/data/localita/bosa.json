@@ -89,6 +89,28 @@
         },
         {
             "type": "node",
+            "id": 4419249248,
+            "lat": 40.7275617,
+            "lon": 8.5482208,
+            "timestamp": "2023-06-24T18:33:05Z",
+            "version": 6,
+            "changeset": 137731255,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "1",
+                "addr:postcode": "07100",
+                "addr:street": "Via Caniga",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "operator": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
             "id": 7504123638,
             "lat": 40.7194985,
             "lon": 8.578288,
@@ -175,6 +197,127 @@
                 "survey:date": "2022-11-03",
                 "tourism": "hotel",
                 "website": "https://nature-resort.ginepro.co/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 279202770,
+            "timestamp": "2024-12-31T17:11:32Z",
+            "version": 14,
+            "changeset": 160841881,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                2834378308,
+                2834377975,
+                5412753349,
+                2834378181,
+                2834378308
+            ],
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:housenumber": "2",
+                "addr:postcode": "09170",
+                "addr:street": "Via Cagliari",
+                "air_conditioning": "yes",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "building": "commercial",
+                "building:levels": "2",
+                "email": "unioristano@gruppounieuro.com",
+                "fax": "+39 0783 030227",
+                "height": "9",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-21:00; PH off",
+                "operator": "Unieuro S.p.A.",
+                "phone": "+39 0783 030171",
+                "shop": "electronics",
+                "stroller": "yes",
+                "website": "https://www.unieuro.it/punti-vendita/oristano?Name=ORISTANO",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 279269098,
+            "timestamp": "2024-11-09T18:10:08Z",
+            "version": 5,
+            "changeset": 158944483,
+            "user": "aboc",
+            "uid": 21696131,
+            "nodes": [
+                2314320415,
+                9978671265,
+                9978671264,
+                9978671263,
+                2834883542,
+                2834883478,
+                2834883563,
+                2834884213,
+                2314320415
+            ],
+            "tags": {
+                "addr:city": "Alghero",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "CONAD Soc. Coop.",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 285942769,
+            "timestamp": "2023-07-31T14:41:06Z",
+            "version": 4,
+            "changeset": 139257764,
+            "user": "BTC Map",
+            "uid": 18545877,
+            "nodes": [
+                2895834758,
+                2895834606,
+                2895834610,
+                2895834703,
+                2895834702,
+                2895834766,
+                2895834758
+            ],
+            "tags": {
+                "brand": "Mondo Convenienza",
+                "brand:wikidata": "Q55830962",
+                "building": "industrial",
+                "check_date:currency:XBT": "2023-07-31",
+                "currency:XBT": "yes",
+                "name": "Mondo Convenienza",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1337557595,
+            "timestamp": "2024-11-24T19:39:01Z",
+            "version": 1,
+            "changeset": 159547092,
+            "user": "vogelfreier",
+            "uid": 74746,
+            "nodes": [
+                3117166238,
+                12372247431,
+                12372247430,
+                12372247429,
+                3117166238
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "name": "Conad",
+                "operator": "Conad",
+                "parking": "surface"
             }
         }
     ],

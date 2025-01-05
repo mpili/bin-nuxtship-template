@@ -62,6 +62,31 @@
         },
         {
             "type": "node",
+            "id": 334512025,
+            "lat": 45.4116273,
+            "lon": 11.9107073,
+            "timestamp": "2024-02-06T22:24:32Z",
+            "version": 7,
+            "changeset": 147153939,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "104",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "branch": "Italia SRL",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Decathlon",
+                "shop": "sports",
+                "website": "https://www.decathlon.it/store-view/negozio-sport-padova-0070026800268"
+            }
+        },
+        {
+            "type": "node",
             "id": 843506208,
             "lat": 45.0692125,
             "lon": 11.7898454,
@@ -218,6 +243,25 @@
         },
         {
             "type": "node",
+            "id": 1534384046,
+            "lat": 45.3778806,
+            "lon": 11.8558106,
+            "timestamp": "2025-01-03T17:18:17Z",
+            "version": 5,
+            "changeset": 160958572,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1938540695,
             "lat": 45.2275755,
             "lon": 11.5234776,
@@ -239,6 +283,29 @@
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2569978163,
+            "lat": 45.4109517,
+            "lon": 11.8761919,
+            "timestamp": "2025-01-03T14:02:16Z",
+            "version": 4,
+            "changeset": 160950583,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "58",
+                "addr:postcode": "35137",
+                "addr:street": "Via San Fermo",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -446,6 +513,53 @@
                 "office": "graphic_design",
                 "phone": "+39 0425 410616",
                 "website": "https://www.graphicdivision.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5418461939,
+            "lat": 45.2275701,
+            "lon": 11.5236765,
+            "timestamp": "2025-01-03T14:12:20Z",
+            "version": 4,
+            "changeset": 160951019,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Borgo Veneto",
+                "addr:country": "IT",
+                "addr:housename": "Centro Commerciale Megliadino",
+                "addr:postcode": "35040",
+                "addr:street": "Via Vallesella",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5805243372,
+            "lat": 44.8920806,
+            "lon": 11.6166262,
+            "timestamp": "2025-01-03T14:14:05Z",
+            "version": 3,
+            "changeset": 160951093,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Santa Maria Maddalena",
+                "addr:housenumber": "30",
+                "addr:postcode": "45030",
+                "addr:street": "Via Maestri del Lavoro",
+                "name": "OVS",
+                "opening_hours": "Mo-Fr 09:00-12:30, 15:30-19:30; Sa 09:30-13:00, 15:00-19:30",
+                "operator": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -806,6 +920,29 @@
         },
         {
             "type": "node",
+            "id": 9672164356,
+            "lat": 45.4225305,
+            "lon": 12.073525,
+            "timestamp": "2025-01-03T14:22:57Z",
+            "version": 2,
+            "changeset": 160951512,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Dolo",
+                "addr:housenumber": "102",
+                "addr:postcode": "30031",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10044774234,
             "lat": 44.8506302,
             "lon": 11.6265662,
@@ -879,6 +1016,52 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+390417792544"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295315911,
+            "lat": 45.4247877,
+            "lon": 11.9654184,
+            "timestamp": "2025-01-03T14:26:11Z",
+            "version": 2,
+            "changeset": 160951636,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Vigonza",
+                "addr:housenumber": "86",
+                "addr:postcode": "35010",
+                "addr:street": "Via Regia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296719986,
+            "lat": 45.410309,
+            "lon": 11.9083833,
+            "timestamp": "2025-01-03T17:31:59Z",
+            "version": 4,
+            "changeset": 160959082,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "98",
+                "addr:postcode": "35131",
+                "addr:street": "Via Venezia",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "fixme": "The website says that the postcode is 35129 and I don't know which postcode is correct",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/it/store/padova-2126"
             }
         },
         {
@@ -1528,6 +1711,45 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 262134580,
+            "timestamp": "2023-07-21T00:36:09Z",
+            "version": 7,
+            "changeset": 138788658,
+            "user": "saunter",
+            "uid": 10396321,
+            "nodes": [
+                2677813322,
+                2677813293,
+                2677813375,
+                2677813386,
+                2677813365,
+                2677812936,
+                2677812997,
+                2677813032,
+                2677813070,
+                2677813106,
+                2677813117,
+                2677813332,
+                2677813322
+            ],
+            "tags": {
+                "addr:city": "Padova",
+                "addr:housenumber": "90",
+                "addr:postcode": "35129",
+                "addr:street": "Via Madonna del Rosario",
+                "building": "industrial",
+                "building:levels": "1",
+                "check_date:currency:XBT": "2023-07-21",
+                "currency:XBT": "yes",
+                "email": "torrecarrozzeria@gmail.com",
+                "name": "Carrozzeria Torre",
+                "phone": "+39 049 725460",
+                "shop": "car_repair",
+                "website": "https://carrozzeriatorre.it/"
             }
         }
     ],
