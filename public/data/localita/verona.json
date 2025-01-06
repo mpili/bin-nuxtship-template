@@ -1960,11 +1960,11 @@
         {
             "type": "way",
             "id": 683303509,
-            "timestamp": "2019-05-23T16:31:10Z",
-            "version": 2,
-            "changeset": 70558265,
-            "user": "MarcoR",
-            "uid": 175882,
+            "timestamp": "2025-01-06T12:32:27Z",
+            "version": 3,
+            "changeset": 161055722,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 6400092038,
                 6400092039,
@@ -1978,17 +1978,18 @@
             "tags": {
                 "access": "customers",
                 "amenity": "parking",
+                "name": "Parcheggio",
                 "operator": "Conad"
             }
         },
         {
             "type": "way",
             "id": 683303511,
-            "timestamp": "2019-04-12T08:23:04Z",
-            "version": 1,
-            "changeset": 69141379,
-            "user": "Leopy_Periz",
-            "uid": 9433676,
+            "timestamp": "2025-01-06T12:32:49Z",
+            "version": 2,
+            "changeset": 161055742,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 1522184800,
                 6400092046,
@@ -2000,6 +2001,7 @@
             "tags": {
                 "amenity": "parking",
                 "level": "1",
+                "name": "Parcheggio",
                 "operator": "Conad"
             }
         },

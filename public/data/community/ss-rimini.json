@@ -7,7 +7,7 @@
     "idlocalita": "rimini",
     "telegram_weburl": "https://web.telegram.org/a/#-1001887746692",
     "telegram_app": "https://t.me/SatoshiSpritzRimini",
-    "telegram_members": 103.0,
+    "telegram_members": 105.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1653,6 +1653,47 @@
                 "ref:vatin": "IT04297560403",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006892.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 223648945,
+            "timestamp": "2025-01-06T14:43:22Z",
+            "version": 4,
+            "changeset": 161061134,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                2325305532,
+                2325305762,
+                2325305750,
+                2325305843,
+                2325305757,
+                2325305610,
+                2325305597,
+                2325305634,
+                2325305615,
+                2325305518,
+                2325305530,
+                2325305366,
+                2325305348,
+                2325305327,
+                2325305342,
+                2325305234,
+                2325305415,
+                2325305513,
+                2325305532
+            ],
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:housenumber": "140",
+                "addr:street": "Via Tolemaide",
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "building": "yes",
+                "name": "IKEA",
+                "operator": "Ikea Italia Retail S.r.l.",
+                "shop": "furniture"
             }
         },
         {

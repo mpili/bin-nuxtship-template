@@ -56,20 +56,18 @@ const groupedPois = computed(() => {
 </script>
 
 <template>
-  <section v-if="datapois.length > 0" class="py-1 bg-blueGray-50">
-    <div class="mt-6">
-      <!-- Iterate over categoria groups -->
-      <div
-        v-for="(pois, categoria) in groupedPois"
-        :key="categoria"
-        class="mb-4"
-      >
-        <!-- Display categoria category -->
-        <h3 class="text-lg font-semibold capitalize mb-2">
-          {{ categoria }}
-        </h3>
-        <!-- Display POIs in this category -->
-        <div v-for="poi in pois" :key="poi.id">
+  <section v-if="datapois.length > 0" class="py-4 space-y-2">
+    <div
+      v-for="(pois, categoria) in groupedPois"
+      :key="categoria"
+      class="collapse collapse-arrow bg-base-200"
+    >
+      <input type="radio" name="my-accordion-2" />
+      <div class="collapse-title text-xl font-medium">
+        {{ categoria }}
+      </div>
+      <div class="collapse-content">
+        <div v-for="poi in pois" :key="poi.id" class="bg-white rounded">
           <OsnLinelink :poi="poi" />
         </div>
       </div>

@@ -411,6 +411,22 @@
         },
         {
             "type": "node",
+            "id": 4601201616,
+            "lat": 44.4228744,
+            "lon": 8.8838284,
+            "timestamp": "2025-01-06T14:36:06Z",
+            "version": 2,
+            "changeset": 161060820,
+            "user": "mpbin",
+            "uid": 21850090,
+            "tags": {
+                "emergency": "assembly_point",
+                "name": "IKEA",
+                "operator": "Ikea Italia Retail S.r.l."
+            }
+        },
+        {
+            "type": "node",
             "id": 4896638037,
             "lat": 44.4120262,
             "lon": 8.8828539,
@@ -1470,6 +1486,40 @@
         },
         {
             "type": "way",
+            "id": 24025851,
+            "timestamp": "2025-01-06T14:38:23Z",
+            "version": 13,
+            "changeset": 161060929,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                260554687,
+                260554688,
+                2239979205,
+                2239979215,
+                260554689,
+                260554690,
+                260554691,
+                260554692,
+                260554693,
+                260554694,
+                260554687
+            ],
+            "tags": {
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "brand:wikipedia": "it:IKEA",
+                "building": "supermarket",
+                "name": "IKEA",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Ikea Italia Retail S.r.l.",
+                "ref:vatin": "IT02992760963",
+                "shop": "furniture",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 135435683,
             "timestamp": "2025-01-04T11:12:34Z",
             "version": 9,
@@ -1543,11 +1593,11 @@
         {
             "type": "way",
             "id": 291337674,
-            "timestamp": "2022-09-04T04:49:49Z",
-            "version": 3,
-            "changeset": 125758937,
-            "user": "steko",
-            "uid": 7403,
+            "timestamp": "2025-01-06T12:28:17Z",
+            "version": 4,
+            "changeset": 161055557,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 2947956373,
                 2947956366,
@@ -1567,6 +1617,7 @@
                 "access": "destination",
                 "amenity": "parking",
                 "layer": "2",
+                "name": "Parcheggio",
                 "operator": "Decathlon",
                 "parking": "multi-storey"
             }
@@ -1653,11 +1704,11 @@
         {
             "type": "way",
             "id": 800977865,
-            "timestamp": "2022-03-26T14:59:41Z",
-            "version": 3,
-            "changeset": 118950870,
-            "user": "Andrew Cabassa",
-            "uid": 15286027,
+            "timestamp": "2025-01-06T12:33:47Z",
+            "version": 4,
+            "changeset": 161055778,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 7491838364,
                 7491838365,
@@ -1678,6 +1729,7 @@
                 "capacity:disabled": "1",
                 "description": "Parcheggio riservato al supermercato Conad",
                 "fee": "no",
+                "name": "Parcheggio",
                 "operator": "Conad",
                 "operator:type": "private",
                 "parking": "surface",
