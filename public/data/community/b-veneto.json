@@ -7,7 +7,7 @@
     "idlocalita": "vicenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1002218397394",
     "telegram_app": "https://t.me/Bitcoin_Veneto",
-    "telegram_members": 790.0,
+    "telegram_members": 798.0,
     "poi": [
         {
             "type": "node",
@@ -1043,6 +1043,41 @@
                 "phone": "0445 651181",
                 "shop": "water_filter",
                 "website": "https://www.acquatecnicasrl.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4531859723,
+            "lat": 45.6794051,
+            "lon": 12.2274499,
+            "timestamp": "2025-01-06T02:31:47Z",
+            "version": 6,
+            "changeset": 161042433,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Treviso",
+                "addr:country": "IT",
+                "addr:housenumber": "14a",
+                "addr:postcode": "31100",
+                "addr:street": "Strada del Galletto",
+                "amenity": "restaurant",
+                "check_date": "2025-01-06",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Mangiapizza | Treviso",
+                "opening_hours": "Tu-Su 18:00-21:30",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:cryptocurrencies": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:mastercard": "yes",
+                "payment:onchain": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 366 439 8018",
+                "takeaway": "only",
+                "website": "https://www.mangiapizzatreviso.it/"
             }
         },
         {
@@ -2787,6 +2822,76 @@
             }
         },
         {
+            "type": "node",
+            "id": 12475760667,
+            "lat": 45.8930405,
+            "lon": 12.3236976,
+            "timestamp": "2025-01-06T02:27:42Z",
+            "version": 2,
+            "changeset": 161042383,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Conegliano",
+                "addr:housenumber": "159",
+                "addr:postcode": "31015",
+                "addr:street": "Via Maggiore Piovesana Giovanni",
+                "amenity": "dentist",
+                "check_date": "2025-01-06",
+                "contact:facebook": "https://www.facebook.com/StudioDentisticoConegliano/",
+                "currency:XBT": "yes",
+                "healthcare": "dentist",
+                "name": "Studio Dentistico Marin",
+                "opening_hours": "Mo-We 09:00-16:00; Th 09:00-12:45,15:00-19:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:cryptocurrencies": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 04 3841 5356",
+                "website": "http://dentistaconegliano.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 24317204,
+            "timestamp": "2025-01-06T14:39:30Z",
+            "version": 12,
+            "changeset": 161060963,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                2559658585,
+                1311764939,
+                2559597887,
+                263675809,
+                1311764878,
+                1311765023,
+                12176777719,
+                12176777722,
+                1311764957,
+                2559597885,
+                1311764891,
+                263675810,
+                9076958820,
+                263675807,
+                2559658585
+            ],
+            "tags": {
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "building": "yes",
+                "layer": "1",
+                "name": "IKEA",
+                "opening_hours": "Mo-Su 09:30-20:30",
+                "operator": "Ikea Italia Retail S.r.l.",
+                "shop": "furniture",
+                "website": "https://m.ikea.com/it/it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
             "type": "way",
             "id": 146023026,
             "timestamp": "2019-07-08T07:26:53Z",
@@ -2895,11 +3000,11 @@
         {
             "type": "way",
             "id": 683303509,
-            "timestamp": "2019-05-23T16:31:10Z",
-            "version": 2,
-            "changeset": 70558265,
-            "user": "MarcoR",
-            "uid": 175882,
+            "timestamp": "2025-01-06T12:32:27Z",
+            "version": 3,
+            "changeset": 161055722,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 6400092038,
                 6400092039,
@@ -2913,17 +3018,18 @@
             "tags": {
                 "access": "customers",
                 "amenity": "parking",
+                "name": "Parcheggio",
                 "operator": "Conad"
             }
         },
         {
             "type": "way",
             "id": 683303511,
-            "timestamp": "2019-04-12T08:23:04Z",
-            "version": 1,
-            "changeset": 69141379,
-            "user": "Leopy_Periz",
-            "uid": 9433676,
+            "timestamp": "2025-01-06T12:32:49Z",
+            "version": 2,
+            "changeset": 161055742,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 1522184800,
                 6400092046,
@@ -2935,6 +3041,7 @@
             "tags": {
                 "amenity": "parking",
                 "level": "1",
+                "name": "Parcheggio",
                 "operator": "Conad"
             }
         },

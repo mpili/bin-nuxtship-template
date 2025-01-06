@@ -1305,11 +1305,11 @@
         {
             "type": "way",
             "id": 380623563,
-            "timestamp": "2022-04-29T23:33:06Z",
-            "version": 2,
-            "changeset": 120367903,
-            "user": "Axeldt",
-            "uid": 6504197,
+            "timestamp": "2025-01-06T12:29:10Z",
+            "version": 3,
+            "changeset": 161055594,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 3839415891,
                 3839415892,
@@ -1324,10 +1324,61 @@
                 "amenity": "parking",
                 "capacity": "50",
                 "fee": "no",
+                "name": "Parcheggio",
                 "operator": "Conad",
                 "operator:type": "business",
                 "parking": "surface",
                 "surface": "asphalt",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 459205402,
+            "timestamp": "2025-01-06T14:45:39Z",
+            "version": 5,
+            "changeset": 161061213,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                4551136951,
+                4551136985,
+                4551136964,
+                4551136953,
+                4551136951
+            ],
+            "tags": {
+                "brand": "IKEA",
+                "indoor": "area",
+                "level": "1",
+                "name": "IKEA",
+                "operator": "Ikea Italia Retail S.r.l.",
+                "ref": "1",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916903,
+            "timestamp": "2025-01-06T14:45:58Z",
+            "version": 3,
+            "changeset": 161061221,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                4573515404,
+                4573515403,
+                4573515402,
+                4573515401,
+                4573515404
+            ],
+            "tags": {
+                "indoor": "area",
+                "layer": "2",
+                "level": "2",
+                "name": "IKEA",
+                "operator": "Ikea Italia Retail S.r.l.",
+                "ref": "100",
                 "wheelchair": "yes"
             }
         }

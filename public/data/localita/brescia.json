@@ -2809,11 +2809,11 @@
         {
             "type": "way",
             "id": 184263861,
-            "timestamp": "2021-01-21T11:07:10Z",
-            "version": 4,
-            "changeset": 97899337,
-            "user": "dgitto",
-            "uid": 554973,
+            "timestamp": "2025-01-06T12:27:55Z",
+            "version": 5,
+            "changeset": 161055548,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 1947242749,
                 1947242743,
@@ -2837,6 +2837,7 @@
             ],
             "tags": {
                 "amenity": "parking",
+                "name": "Parcheggio",
                 "operator": "Conad",
                 "parking": "surface"
             }
@@ -2884,11 +2885,11 @@
         {
             "type": "way",
             "id": 421073562,
-            "timestamp": "2022-07-25T16:06:23Z",
-            "version": 6,
-            "changeset": 124059315,
-            "user": "Mannivu",
-            "uid": 1950277,
+            "timestamp": "2025-01-06T12:30:14Z",
+            "version": 7,
+            "changeset": 161055631,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 4204447508,
                 4204498989,
@@ -2910,6 +2911,7 @@
                 "amenity": "parking",
                 "building": "parking",
                 "fee": "yes",
+                "name": "Parcheggio",
                 "operator": "OVS",
                 "operator:type": "private",
                 "parking": "multi-storey"
@@ -3024,11 +3026,11 @@
         {
             "type": "way",
             "id": 760509519,
-            "timestamp": "2020-08-04T15:40:53Z",
-            "version": 3,
-            "changeset": 88937770,
-            "user": "Mannivu",
-            "uid": 1950277,
+            "timestamp": "2025-01-06T12:33:28Z",
+            "version": 4,
+            "changeset": 161055769,
+            "user": "mpbin",
+            "uid": 21850090,
             "nodes": [
                 2687741989,
                 2687741987,
@@ -3045,6 +3047,7 @@
                 "capacity:disabled": "2",
                 "fee": "no",
                 "lit": "no",
+                "name": "Parcheggio",
                 "operator": "OVS",
                 "park_ride": "no",
                 "parking": "surface",
