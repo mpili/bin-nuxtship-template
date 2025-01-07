@@ -503,30 +503,6 @@
         },
         {
             "type": "node",
-            "id": 3816866124,
-            "lat": 45.0552083,
-            "lon": 7.6119508,
-            "timestamp": "2025-01-03T17:23:30Z",
-            "version": 5,
-            "changeset": 160958790,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Grugliasco",
-                "addr:housenumber": "10",
-                "addr:street": "Via Crea",
-                "brand": "MediaWorld",
-                "brand:wikidata": "Q76504823",
-                "check_date": "2023-08-22",
-                "level": "1",
-                "name": "MediaWorld",
-                "operator": "MediaMarket S.p.A.",
-                "ref:vatin": "IT02630120166",
-                "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
             "id": 4343768039,
             "lat": 44.7093378,
             "lon": 7.8426932,
@@ -1836,33 +1812,6 @@
                 "produce": "genepi, plants",
                 "shop": "farm",
                 "website": "https://www.meizoun.it"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10788389507,
-            "lat": 45.0554165,
-            "lon": 7.612245,
-            "timestamp": "2023-08-22T19:59:02Z",
-            "version": 4,
-            "changeset": 140244940,
-            "user": "ivanbranco",
-            "uid": 11220113,
-            "tags": {
-                "addr:city": "Grugliasco",
-                "addr:housenumber": "10",
-                "addr:postcode": "10095",
-                "addr:street": "Via Crea",
-                "check_date": "2023-08-22",
-                "clothes": "men",
-                "currency:XBT": "yes",
-                "level": "1",
-                "name": "Nuvolari c.c. Le Gru",
-                "payment:lightning": "no",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "0117079134",
-                "shop": "clothes"
             }
         },
         {

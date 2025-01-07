@@ -7,7 +7,7 @@
     "idlocalita": "padova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001686253647",
     "telegram_app": "https://t.me/SatoshiSpritzPadova",
-    "telegram_members": 111.0,
+    "telegram_members": 112.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3297,6 +3297,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 12480515452,
+            "lat": 45.4647802,
+            "lon": 11.9635919,
+            "timestamp": "2025-01-07T14:31:40Z",
+            "version": 3,
+            "changeset": 161097949,
+            "user": "MC DRIVER NCC",
+            "uid": 22309106,
+            "tags": {
+                "addr:city": "vigonza",
+                "addr:housenumber": "4",
+                "addr:postcode": "35010",
+                "amenity": "taxi",
+                "currency:XBT": "yes",
+                "e-card": "https://kipin.app/30nlj60d7v7k",
+                "email": "mcdriver.noleggio@gmail.com",
+                "name": "Mc Driver Ncc",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "survey:date": "2024-08-01",
+                "taxi_vehicle": "van"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-01-06T14:39:30Z",
@@ -3376,11 +3405,11 @@
         {
             "type": "way",
             "id": 683303509,
-            "timestamp": "2025-01-06T12:32:27Z",
-            "version": 3,
-            "changeset": 161055722,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-06T15:33:40Z",
+            "version": 4,
+            "changeset": 161063305,
+            "user": "branco-revert",
+            "uid": 19497998,
             "nodes": [
                 6400092038,
                 6400092039,
@@ -3394,18 +3423,17 @@
             "tags": {
                 "access": "customers",
                 "amenity": "parking",
-                "name": "Parcheggio",
                 "operator": "Conad"
             }
         },
         {
             "type": "way",
             "id": 683303511,
-            "timestamp": "2025-01-06T12:32:49Z",
-            "version": 2,
-            "changeset": 161055742,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-06T15:33:40Z",
+            "version": 3,
+            "changeset": 161063305,
+            "user": "branco-revert",
+            "uid": 19497998,
             "nodes": [
                 1522184800,
                 6400092046,
@@ -3417,7 +3445,6 @@
             "tags": {
                 "amenity": "parking",
                 "level": "1",
-                "name": "Parcheggio",
                 "operator": "Conad"
             }
         },

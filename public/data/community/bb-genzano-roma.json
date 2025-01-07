@@ -4200,11 +4200,11 @@
         {
             "type": "way",
             "id": 408362762,
-            "timestamp": "2025-01-06T12:29:42Z",
-            "version": 4,
-            "changeset": 161055612,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-06T15:36:28Z",
+            "version": 5,
+            "changeset": 161063421,
+            "user": "ivanbranco",
+            "uid": 11220113,
             "nodes": [
                 4103104331,
                 4103104332,
@@ -4216,7 +4216,6 @@
                 "access": "customers",
                 "amenity": "parking",
                 "fee": "no",
-                "name": "Parcheggio",
                 "operator": "Conad",
                 "parking": "surface"
             }
@@ -4343,14 +4342,16 @@
         {
             "type": "way",
             "id": 503399518,
-            "timestamp": "2025-01-06T12:31:30Z",
-            "version": 4,
-            "changeset": 161055679,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-06T15:26:07Z",
+            "version": 5,
+            "changeset": 161062943,
+            "user": "SekeRob",
+            "uid": 1940323,
             "nodes": [
                 4937181297,
                 4724800366,
+                12478712729,
+                12478712726,
                 4937181301,
                 4937181302,
                 7922768013,
@@ -4371,10 +4372,11 @@
             "tags": {
                 "access": "customers",
                 "amenity": "parking",
+                "covered": "no",
                 "fee": "no",
-                "name": "Parcheggio",
                 "operator": "Conad",
                 "operator:type": "private",
+                "orientation": "perpendicular",
                 "parking": "surface",
                 "surface": "asphalt"
             }
@@ -4452,9 +4454,9 @@
         {
             "type": "way",
             "id": 1076687281,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:41:42Z",
+            "version": 4,
+            "changeset": 161088508,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4469,15 +4471,17 @@
                 "amenity": "parking",
                 "capacity": "18",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "orientation": "perpendicular",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687282,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:41:42Z",
+            "version": 4,
+            "changeset": 161088508,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4492,15 +4496,17 @@
                 "amenity": "parking",
                 "capacity": "18",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "orientation": "perpendicular",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687283,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:41:42Z",
+            "version": 5,
+            "changeset": 161088508,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4515,15 +4521,17 @@
                 "amenity": "parking",
                 "capacity": "20",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "orientation": "perpendicular",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687285,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4539,15 +4547,16 @@
                 "amenity": "parking",
                 "capacity": "8",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687286,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4566,15 +4575,16 @@
                 "amenity": "parking",
                 "capacity": "3",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687287,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4590,15 +4600,16 @@
                 "amenity": "parking",
                 "capacity:disabled": "10",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687288,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4613,15 +4624,16 @@
                 "amenity": "parking",
                 "capacity": "2",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687289,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:41:42Z",
+            "version": 5,
+            "changeset": 161088508,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4636,7 +4648,9 @@
                 "amenity": "parking",
                 "capacity": "4",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "orientation": "perpendicular",
+                "parking": "street_side"
             }
         },
         {
@@ -4666,9 +4680,9 @@
         {
             "type": "way",
             "id": 1076687304,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4684,15 +4698,16 @@
                 "amenity": "parking",
                 "capacity": "4",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687309,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:41:42Z",
+            "version": 4,
+            "changeset": 161088508,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4707,15 +4722,17 @@
                 "amenity": "parking",
                 "capacity": "16",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "orientation": "perpendicular",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687310,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:41:42Z",
+            "version": 4,
+            "changeset": 161088508,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4733,15 +4750,17 @@
                 "amenity": "parking",
                 "capacity": "15",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "orientation": "perpendicular",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687314,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4757,15 +4776,16 @@
                 "capacity": "4",
                 "capacity:disabled": "4",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687315,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4780,15 +4800,16 @@
                 "amenity": "parking",
                 "capacity": "12",
                 "operator": "Conad",
-                "operator:type": "business"
+                "operator:type": "business",
+                "parking": "street_side"
             }
         },
         {
             "type": "way",
             "id": 1076687321,
-            "timestamp": "2025-01-06T14:53:32Z",
-            "version": 3,
-            "changeset": 161061520,
+            "timestamp": "2025-01-07T09:29:49Z",
+            "version": 4,
+            "changeset": 161088174,
             "user": "SekeRob",
             "uid": 1940323,
             "nodes": [
@@ -4802,6 +4823,7 @@
                 9873209251,
                 9873209252,
                 9873209253,
+                12480094018,
                 9873209244
             ],
             "tags": {
