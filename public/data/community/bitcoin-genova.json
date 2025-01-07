@@ -1593,11 +1593,11 @@
         {
             "type": "way",
             "id": 291337674,
-            "timestamp": "2025-01-06T12:28:17Z",
-            "version": 4,
-            "changeset": 161055557,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-06T15:33:40Z",
+            "version": 5,
+            "changeset": 161063305,
+            "user": "branco-revert",
+            "uid": 19497998,
             "nodes": [
                 2947956373,
                 2947956366,
@@ -1617,7 +1617,6 @@
                 "access": "destination",
                 "amenity": "parking",
                 "layer": "2",
-                "name": "Parcheggio",
                 "operator": "Decathlon",
                 "parking": "multi-storey"
             }
@@ -1704,11 +1703,11 @@
         {
             "type": "way",
             "id": 800977865,
-            "timestamp": "2025-01-06T12:33:47Z",
-            "version": 4,
-            "changeset": 161055778,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-01-06T15:33:40Z",
+            "version": 5,
+            "changeset": 161063305,
+            "user": "branco-revert",
+            "uid": 19497998,
             "nodes": [
                 7491838364,
                 7491838365,
@@ -1729,7 +1728,6 @@
                 "capacity:disabled": "1",
                 "description": "Parcheggio riservato al supermercato Conad",
                 "fee": "no",
-                "name": "Parcheggio",
                 "operator": "Conad",
                 "operator:type": "private",
                 "parking": "surface",

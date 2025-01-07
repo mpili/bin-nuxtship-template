@@ -22,6 +22,11 @@ const stores = [
 		img: "/img/store/bitrefill1000x420.png",
 	},
 	{
+		nome: "TheBitcoinCompany",
+		titololink: "thebitcoincompany.com",
+		url: "https://app.thebitcoincompany.com/giftcard",
+		img: "/img/store/thebitcoincompany1000x420.png",
+	},	{
 		nome: "Coinsbee",
 		titololink: "coinsbee.com",
 		url: "https://www.coinsbee.com/it/",
