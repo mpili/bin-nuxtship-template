@@ -15,7 +15,7 @@ const {
 <template>
   <OsnTaglink v-if="operator" tag="operator" :valore="operator">
     <template v-slot:testo>
-      <OsnTag
+      <OnwTag
         v-if="operator"
         icona="guidance:office-pod"
         etichetta="Operatore"

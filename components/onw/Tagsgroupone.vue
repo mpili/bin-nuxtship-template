@@ -20,14 +20,14 @@ const props = defineProps(["data"]);
   />
   <OsnOperator v-if="data?.tags?.operator" :operator="data?.tags?.operator" />
 
-  <OsnTag
+  <OnwTag
     v-if="data?.tags?.brand"
     icona="tabler:brand-pagekit"
     etichetta="Brand"
     :testo="data?.tags?.brand"
   />
 
-  <OsnTag
+  <OnwTag
     v-if="data.tags['currency:XBT:discount']"
     icona="streamline:discount-percent-circle"
     etichetta="sconto bitcoin"
@@ -51,7 +51,7 @@ const props = defineProps(["data"]);
     etichetta="Pagamento on-chain"
     :testo="data.tags['payment:onchain']"
   />
-  <OsnTag
+  <OnwTag
     v-if="data.tags['opening_hours']"
     icona="material-symbols:nest-clock-farsight-analog-outline"
     etichetta="orari apertura"

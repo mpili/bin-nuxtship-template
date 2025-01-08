@@ -20,7 +20,7 @@ export default {
   <div v-if="telefono" itemscope itemtype="https://schema.org/ContactPoint">
     <a :href="'tel:'+telefono" target="_blank" rel="noreferrer">
       <span itemprop="telephone">
-        <OsnTag :icona="icona" :etichetta="etichetta" :testo="telefono" />
+        <OnwTag :icona="icona" :etichetta="etichetta" :testo="telefono" />
       </span>
     </a>
   </div>

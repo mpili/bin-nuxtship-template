@@ -9,7 +9,7 @@ export default {
 </script>
 <template>
   <span v-if="dbdata.items">
-    <div class="card bg-base-100 w-auto shadow-xl">
+    <div class="card bg-base-100 w-auto shadow-xl mb-4">
       <div class="card-body">
         <p class="card-title">Voucher bitcoin</p>
         <p>Compra con Bitcoin i voucher da usare qui per i tuoi acquisti</p>
