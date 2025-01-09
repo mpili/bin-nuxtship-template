@@ -2,13 +2,13 @@
 const props = defineProps(["tags"]);
 </script>
 <template>
-  <OsnTag
+  <OnwTag
     v-if="tags?.email"
     icona="material-symbols:alternate-email"
     etichetta="email"
     :testo="tags?.email"
   />
-  <OsnTag
+  <OnwTag
     v-if="tags['contact:email']"
     icona="material-symbols:mail-outline-sharp"
     etichetta="email"
