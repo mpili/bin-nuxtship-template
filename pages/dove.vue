@@ -28,12 +28,12 @@ const mappe = [
 		url: "https://map.bitcoin.com/",
 		img: "/img/dove/map_bitcoin_com1000x420.png",
 	},
-	{
-		nome: "Coinmap org",
-		titololink: "coinmap.org",
-		url: "https://coinmap.org/view/",
-		img: "/img/dove/coinmap-org1000x420.png",
-	},
+	// {
+	// 	nome: "Coinmap org",
+	// 	titololink: "coinmap.org",
+	// 	url: "https://coinmap.org/view/",
+	// 	img: "/img/dove/coinmap-org1000x420.png",
+	// },
 	{
 		nome: "Aggiungi la tua attività",
 		titololink: "Aggiungi la tua attività qui",
