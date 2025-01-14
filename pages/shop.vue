@@ -50,6 +50,14 @@ const stores = [
 		url: "https://shopinbit.com/",
 		img: "/img/store/shopinbit1000x420.png",
 	},
+
+	{
+		nome: "Coincards",
+		titololink: "coincards.com",
+		url: "https://coincards.com/eu/product-attribute/country-availability/italy/",
+		img: "/img/store/coincards1000x420.png",
+	},
+
 ]
 </script>
 

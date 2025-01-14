@@ -89,6 +89,7 @@ const attributiWallet = [
     colore: "green",
     titolo: "Self custodial",
     descrizione: "L'utente ha il controllo delle proprie chiavi private",
+    dizionario: "non-custodial",
   },
   {
     campo: "custodial",
@@ -97,6 +98,7 @@ const attributiWallet = [
     titolo: "Custodial",
     descrizione:
       "Le chiavi private sono gestite dal fornitore, l'utente non ha controllo diretto dei propri fondi",
+    dizionario: "custodial",
   },
   {
     campo: "lightning",
