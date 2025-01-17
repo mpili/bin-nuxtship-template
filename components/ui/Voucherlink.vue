@@ -2,7 +2,7 @@
   <a :href="url" target="_blank">
     <img
       :src="'/img/store/' + platform + '1000x420.png'"
-      class="rounded-lg w-40 h-18"
+      class="border-2 rounded-lg w-40 h-18"
     />
   </a>
 </template>

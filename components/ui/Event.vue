@@ -1,5 +1,5 @@
 <template>
-  <div class="card w-96 bg-base-100 shadow-xl">
+  <div class="card w-full sm:w-96 bg-base-100 shadow-xl">
     <!-- Event Image -->
     <figure v-if="event.image" class="card-image">
       <img :src="event.image" :alt="event.title" class="w-full object-cover" />
