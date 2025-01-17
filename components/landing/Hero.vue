@@ -28,13 +28,13 @@
           rel="noopener"
           >Comunità</LandingLink
         >
-        <LandingLink
+        <!-- <LandingLink
           size="lg"
           styleName="outline"
           rel="noopener"
           href="/dove"
           >Dove</LandingLink
-        >
+        > -->
       </div>
     </div>
   </main>

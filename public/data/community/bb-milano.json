@@ -7,7 +7,7 @@
     "idlocalita": "milano",
     "telegram_weburl": "https://web.telegram.org/a/#-1001833649730",
     "telegram_app": "https://t.me/BitcoinMilanoHub",
-    "telegram_members": 47.0,
+    "telegram_members": 48.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -6187,6 +6187,29 @@
                 "name": "Decathlon",
                 "operator": "Decathlon",
                 "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12504466669,
+            "lat": 45.6500855,
+            "lon": 9.2161395,
+            "timestamp": "2025-01-15T13:57:57Z",
+            "version": 1,
+            "changeset": 161382152,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Seregno",
+                "addr:housenumber": "27",
+                "addr:postcode": "20831",
+                "addr:street": "Via Montello",
+                "currency:XBT": "yes",
+                "email": "seregno@toele.it",
+                "name": "Toel\u00e9 - Non Solo Toelettatura",
+                "phone": "+39 3514021194",
+                "shop": "pet",
+                "website": "http://www.toele.it"
             }
         },
         {

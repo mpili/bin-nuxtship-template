@@ -631,9 +631,9 @@
             "id": 1862315452,
             "lat": 45.5929125,
             "lon": 10.1523402,
-            "timestamp": "2025-01-02T16:46:35Z",
-            "version": 9,
-            "changeset": 160916701,
+            "timestamp": "2025-01-15T11:12:48Z",
+            "version": 10,
+            "changeset": 161376460,
             "user": "demon_box",
             "uid": 350864,
             "tags": {
@@ -647,6 +647,7 @@
                 "contact:website": "https://www.gelateriadanesi.it",
                 "currency:XBT": "yes",
                 "internet_access": "yes",
+                "level": "0",
                 "name": "Caff\u00e8 Danesi",
                 "opening_hours": "Mo-We 06:45-21:00; Fr 06:45-23:30; Sa 06:45-12:30,14:00-24:00; Su 08:00-12:30,14:00-22:00",
                 "operator": "Caff\u00e8 Danesi S.n.c.",
@@ -5818,6 +5819,29 @@
                 "name": "Decathlon",
                 "operator": "Decathlon",
                 "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12504466669,
+            "lat": 45.6500855,
+            "lon": 9.2161395,
+            "timestamp": "2025-01-15T13:57:57Z",
+            "version": 1,
+            "changeset": 161382152,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Seregno",
+                "addr:housenumber": "27",
+                "addr:postcode": "20831",
+                "addr:street": "Via Montello",
+                "currency:XBT": "yes",
+                "email": "seregno@toele.it",
+                "name": "Toel\u00e9 - Non Solo Toelettatura",
+                "phone": "+39 3514021194",
+                "shop": "pet",
+                "website": "http://www.toele.it"
             }
         },
         {

@@ -12,8 +12,8 @@ const vocimenu = [
         path: "/categorie",
       },
       {
-        titolo: "Mappe",
-        path: "/dove",
+        titolo: "Altre mappe",
+        path: "/altremappe",
       },
       {
         titolo: "E-shop",
@@ -139,7 +139,7 @@ const vocimenu = [
           </a>
 
           <a
-            href="https://nostr.com/npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw"
+            href="https://njump.me/npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw"
             class="text-gray-400 hover:text-gray-500"
             target="_blank"
           >
