@@ -7,7 +7,7 @@
     "idlocalita": "marche",
     "telegram_weburl": "https://web.telegram.org/a/#-1001677452015",
     "telegram_app": "https://t.me/SatoshiSpritzMarche",
-    "telegram_members": 63.0,
+    "telegram_members": 64.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -36,11 +36,11 @@
         {
             "type": "node",
             "id": 762937571,
-            "lat": 43.6170859,
-            "lon": 13.5158141,
-            "timestamp": "2024-12-30T19:02:40Z",
-            "version": 8,
-            "changeset": 160804905,
+            "lat": 43.6170782,
+            "lon": 13.5158108,
+            "timestamp": "2025-01-19T19:15:43Z",
+            "version": 9,
+            "changeset": 161537117,
             "user": "DnaX",
             "uid": 69259,
             "tags": {
@@ -841,6 +841,35 @@
                 "amenity": "bar",
                 "currency:XBT": "yes",
                 "name": "KUSH SNC"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12513364358,
+            "lat": 43.3694106,
+            "lon": 13.6921337,
+            "timestamp": "2025-01-19T10:17:37Z",
+            "version": 2,
+            "changeset": 161518292,
+            "user": "impresa edile G & L immobiliare srl",
+            "uid": 22399638,
+            "tags": {
+                "addr:city": "Porto Potenza Picena",
+                "addr:housenumber": "150",
+                "addr:postcode": "62018",
+                "addr:street": "Via Gioacchino Rossini",
+                "check_date": "2025-01-19",
+                "currency:XBT": "yes",
+                "email": "stefano@gelimmobiliare.it",
+                "istagram": "gl_immobiliare",
+                "name": "Impresa Edile G&L Immobiliare",
+                "office": "estate_agent",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 33 5526 5696",
+                "wapp": "3355265696",
+                "website": "https://www.gelimmobiliare.it/"
             }
         },
         {

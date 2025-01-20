@@ -9,11 +9,18 @@ export default {
 </script>
 <template>
   <NuxtLink :to="`/evento/${evento.id}`">
-    <UiCard
+    <!-- <UiCard
       :title="useGiornoSettimana(evento.data) + ' ' + useformattaData(evento.data)"
       :description="evento.titolo"
       :imageSrc="useEventoImg(evento)"
-    ></UiCard>
+    ></UiCard> -->
+    <UiEvent
+    :event="{
+      date: evento?.data,
+      title: evento?.titolo,
+      image: useEventoImg(evento),
+    }"
+    />
   </NuxtLink>
 </template>
 

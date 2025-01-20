@@ -1,5 +1,4 @@
-// non funziona perché non riesce a caricare il componente Voucherlink
-import Voucherlink from "./Voucherlink.vue";
+import UiVoucherlink from "./Voucherlink.vue";
 import Vouchers from "./Vouchers.vue";
 
 export default {
