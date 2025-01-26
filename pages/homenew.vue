@@ -1,7 +1,6 @@
 <script setup>
-
 useHead({
-  title: 'Bitcoin Italia Network',
+  title: "Bitcoin Italia Network",
 });
 
 definePageMeta({
@@ -11,7 +10,7 @@ definePageMeta({
 
 <template>
   <LandingContainer>
-    <LandingHero></LandingHero>
+    <MainHero></MainHero>
     <LandingSlide></LandingSlide>
     <LandingHeventi></LandingHeventi>
     <LandingSlogan></LandingSlogan>

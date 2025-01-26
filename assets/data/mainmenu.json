@@ -30,19 +30,24 @@
 		"url": "/categorie",
 		"submenu": [
 			{
-				"title": "Negozi"
+				"title": "Mangiare",
+				"url": "/spendere/mangiare"
 			},
 			{
-				"title": "Ristoranti"
+				"title": "Alloggiare",
+				"url": "/spendere/alloggi"
 			},
 			{
-				"title": "Alloggi"
+				"title": "Negozi",
+				"url": "/categorie"
 			},
 			{
-				"title": "Servizi"
+				"title": "Servizi",
+				"url": "/categorie"
 			},
 			{
-				"title": "OnLine"
+				"title": "OnLine",
+				"url": "/shop"
 			}
 		]
 	},

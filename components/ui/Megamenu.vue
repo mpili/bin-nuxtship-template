@@ -36,7 +36,7 @@ export default {
         </details>
       </template>
       <template v-else>
-        <a>{{ voce.title }}</a>
+        <a :href="voce.url">{{ voce.title }}</a>
       </template>
     </li>
   </ul>

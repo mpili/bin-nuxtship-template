@@ -1,6 +1,6 @@
 <template>
   <MainNavbar></MainNavbar>
   <slot></slot>
-  <LandingFooter></LandingFooter>
+  <MainFooter></MainFooter>
 </template>
   
