@@ -12,7 +12,8 @@ const props = defineProps(["data"]);
         icona="simple-icons:openstreetmap"
         testo="openstreetmap"
         coloreicona="#9CA3AF"
-        coloretesto="gray-400"
+        coloretesto="neutral"
+        colorebg="neutral"
       />
     </a>
     <a
@@ -24,7 +25,8 @@ const props = defineProps(["data"]);
         icona="hugeicons:bitcoin-location"
         testo="btcmap"
         coloreicona="#9CA3AF"
-        coloretesto="gray-400"
+        coloretesto="neutral"
+        colorebg="neutral"
     /></a>
   </div>
 </template>

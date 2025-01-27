@@ -10,7 +10,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 import { ref } from "vue";
 const zoom = ref(6);

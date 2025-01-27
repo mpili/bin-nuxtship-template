@@ -19,7 +19,7 @@ const stores = [
 </script>
 
 <template>
-	<div class="rounded-lg bg-white shadow-2xl px-8 pt-2 pb-8">
+	<div class="rounded-lg shadow-2xl px-8 pt-2 pb-8">
 		<h2 class="py-4 text-xl font-bold">Come comprare su Amazon pagando in bitcoin</h2>
 		<p>
 			Anche se Amazon ancora non accetta direttamente i Bitcoin,

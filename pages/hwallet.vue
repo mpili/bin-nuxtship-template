@@ -32,7 +32,7 @@ const breadcrumb = computed(() => [
 import hwAttributi from "~/assets/data/hw-attributi.json";
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 </script>
 

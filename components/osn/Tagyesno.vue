@@ -19,8 +19,8 @@ export default {
 <template>
 	<div v-if="testo=='yes'">
     <div class="flex items-center gap-1">
-      <Icon v-if="icona" :name="icona" size="16" color="gray" />
-      <span class="w-48 text-gray-400 text-sm">{{ etichetta }}&nbsp;</span>
+      <Icon v-if="icona" :name="icona" size="16" />
+      <span class="w-48 text-sm">{{ etichetta }}&nbsp;</span>
       <Icon name="material-symbols:check-box-outline" size="16" color="green" />
     </div>
 	</div>	

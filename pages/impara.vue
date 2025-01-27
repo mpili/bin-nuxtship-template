@@ -11,7 +11,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 
 const features = [

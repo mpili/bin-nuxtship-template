@@ -17,7 +17,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 const podcasts = [
   {

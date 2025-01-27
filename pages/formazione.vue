@@ -11,7 +11,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 
 const corsi = [
@@ -67,7 +67,7 @@ const corsi = [
             <p class="ml-4">
               <a
                 :href="corso.url"
-                class="flex lg:px-3 py-2 text-gray-600 hover:text-gray-900"
+                class="flex lg:px-3 py-2"
               >
                 {{ corso.nome }}
               </a>

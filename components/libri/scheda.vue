@@ -3,12 +3,12 @@ defineProps(["data"]);
 </script>
 
 <template>
-  <div class="bg-gray-100 p-4 rounded-xl">
+  <div class="p-4 rounded-xl">
     <div
-      class="relative flex-col bg-clip-border rounded-xl bg-transparent text-gray-700 shadow-none grid gap-2 item sm:grid-cols-2"
+      class="relative flex-col bg-clip-border rounded-xl shadow-none grid gap-2 item sm:grid-cols-2"
     >
       <div
-        class="relative bg-clip-border rounded-xl overflow-hidden bg-white text-gray-700 shadow-lg m-0"
+        class="relative bg-clip-border rounded-xl overflow-hidden shadow-lg m-0"
       >
         <a :href="data.url" target="_blank">
           <NuxtImg
@@ -27,11 +27,11 @@ defineProps(["data"]);
             Bitcoin
           </p>
           <span
-            class="block antialiased tracking-normal font-sans text-xl font-semibold leading-snug text-blue-gray-900 mb-2 normal-case transition-colors hover:text-gray-700"
+            class="block antialiased tracking-normal font-sans text-xl font-semibold leading-snug mb-2 normal-case transition-colors"
             >{{ data.titolo }}</span
           >
           <p
-            class="block antialiased font-sans text-base leading-relaxed text-inherit mb-8 font-normal !text-gray-500"
+            class="block antialiased font-sans text-base leading-relaxed text-inherit mb-8 font-normal"
           >
             {{ data.sottotitolo }}.
           </p>
@@ -46,14 +46,14 @@ defineProps(["data"]);
               </p>
               <p
                 v-if="data.traduttore"
-                class="block antialiased font-sans text-base font-light leading-relaxed text-blue-gray-900 mb-0.5"
+                class="block antialiased font-sans text-base font-light leading-relaxed mb-0.5"
               >
-                <span class="text-gray-600 text-sm">Traduzione:</span>
+                <span class="text-sm">Traduzione:</span>
                 <br />
                 <span class="!font-semibold">{{ data.traduttore }}</span>
               </p>
               <p
-                class="block antialiased font-sans text-sm leading-normal text-gray-700 font-normal"
+                class="block antialiased font-sans text-sm leading-normal font-normal"
               >
                 {{ data["anno"] }}
               </p>

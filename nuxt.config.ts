@@ -29,7 +29,7 @@ export default defineNuxtConfig({
           '/comunita',
           '/contattaci',
           '/documentazione',
-          '/dove',
+          '/altremappe',
           '/eventi',
           '/formazione',
           '/hwallet',

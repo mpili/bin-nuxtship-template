@@ -60,14 +60,14 @@ const groupedPois = computed(() => {
     <div
       v-for="(pois, categoria) in groupedPois"
       :key="categoria"
-      class="collapse collapse-arrow bg-base-200"
+      class="collapse collapse-arrow"
     >
       <input type="radio" name="my-accordion-2" />
       <div class="collapse-title text-xl font-medium">
         {{ categoria }}
       </div>
       <div class="collapse-content">
-        <div v-for="poi in pois" :key="poi.id" class="bg-white rounded">
+        <div v-for="poi in pois" :key="poi.id" class="rounded">
           <OsnLinelink :poi="poi" />
         </div>
       </div>

@@ -10,7 +10,7 @@
       <h2 class="card-title text-xl font-bold">{{ event.title }}</h2>
 
       <!-- Date and Time -->
-      <div class="flex items-center gap-2 text-sm text-gray-600 mt-2">
+      <div class="flex items-center gap-2 text-sm mt-2">
         <div class="flex items-center">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +50,7 @@
       <!-- Location -->
       <div
         v-if="event.location"
-        class="flex items-center gap-1 text-sm text-gray-600 mt-1"
+        class="flex items-center gap-1 text-sm mt-1"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@
       <!-- Description -->
       <p
         v-if="event.description"
-        class="text-gray-700 mt-3"
+        class="mt-3"
         v-html="event.description"
       ></p>
 
