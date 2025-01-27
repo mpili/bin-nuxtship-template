@@ -14,6 +14,14 @@ export default {
       :description="evento.titolo"
       :imageSrc="useEventoImg(evento)"
     ></UiCard>
+    <!-- <UiEvent
+    :event="{
+      date: evento?.data,
+      title: evento?.titolo,
+      image: useEventoImg(evento),
+    }" />
+    -->
+    
   </NuxtLink>
 </template>
 

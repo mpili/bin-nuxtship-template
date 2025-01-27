@@ -1556,6 +1556,33 @@
             }
         },
         {
+            "type": "node",
+            "id": 12512835970,
+            "lat": 44.0898966,
+            "lon": 12.5330797,
+            "timestamp": "2025-01-18T19:39:15Z",
+            "version": 1,
+            "changeset": 161503767,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:housenumber": "3",
+                "addr:postcode": "47922",
+                "addr:street": "Viale Celso Botteghi",
+                "check_date": "2025-01-18",
+                "currency:XBT": "yes",
+                "email": "info@hotelsusanna.com",
+                "name": "Hotel Susanna",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 05 4173 2305",
+                "tourism": "hotel",
+                "website": "https://www.hotelsusanna.com/"
+            }
+        },
+        {
             "type": "way",
             "id": 151931064,
             "timestamp": "2021-10-27T12:33:24Z",

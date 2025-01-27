@@ -16,4 +16,5 @@ export default {
       <EventiCard :evento="evento" />
     </div>
   </div>
+
 </template>

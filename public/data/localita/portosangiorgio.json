@@ -881,6 +881,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 12513364358,
+            "lat": 43.3694106,
+            "lon": 13.6921337,
+            "timestamp": "2025-01-19T10:17:37Z",
+            "version": 2,
+            "changeset": 161518292,
+            "user": "impresa edile G & L immobiliare srl",
+            "uid": 22399638,
+            "tags": {
+                "addr:city": "Porto Potenza Picena",
+                "addr:housenumber": "150",
+                "addr:postcode": "62018",
+                "addr:street": "Via Gioacchino Rossini",
+                "check_date": "2025-01-19",
+                "currency:XBT": "yes",
+                "email": "stefano@gelimmobiliare.it",
+                "istagram": "gl_immobiliare",
+                "name": "Impresa Edile G&L Immobiliare",
+                "office": "estate_agent",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 33 5526 5696",
+                "wapp": "3355265696",
+                "website": "https://www.gelimmobiliare.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 245784052,
             "timestamp": "2024-11-02T10:44:24Z",

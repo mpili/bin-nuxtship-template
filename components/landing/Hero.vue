@@ -18,8 +18,7 @@
         ><span class="bg-blue-600 text-white">itcoin &nbsp;Italia &nbsp;Network&nbsp;</span>
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Benvenuti su
-        Bitcoin Italia Network,<wbr />
+        Benvenuti su Bitcoin Italia Network,<br />
         la piattaforma che connette e valorizza tutte le realtà italiane legate a Bitcoin.
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
@@ -28,6 +27,13 @@
           rel="noopener"
           >Comunità</LandingLink
         >
+        <LandingLink
+          href="/eventi"
+          rel="noopener"
+          >Eventi</LandingLink
+        >
+
+
         <!-- <LandingLink
           size="lg"
           styleName="outline"
