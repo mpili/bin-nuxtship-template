@@ -33,9 +33,7 @@ export default {
       >
         {{ description }}
       </p>
-      <div class="p-4 rounded mt-6 bg-black text-white text-center">
-        {{ title }}
-      </div>
+      <button class="btn btn-block">{{ title }}</button>
     </div>
   </NuxtLink>
 </template>
