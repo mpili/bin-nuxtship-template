@@ -21,7 +21,7 @@ export default {
   <div v-if="testo">
     <UiTag :etichetta="etichetta">
       <template #icona>
-        <Icon v-if="icona" :name="icona" size="16" color="gray" />
+        <Icon v-if="icona" :name="icona" size="16" />
       </template>
       <template #contenuto>{{ testo }}</template>
     </UiTag>

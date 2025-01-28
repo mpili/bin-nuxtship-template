@@ -18,7 +18,7 @@ export default {
         :href="dbdata?.items[0]?.gmap"
         target="_blank"
         rel="noopener"
-        class="text-green-600 font-bold"
+        class="text-primary font-bold"
       >google</a>
     </span>
     <span v-else>google</span>

@@ -10,7 +10,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 const risorseDocumentazione = [
   {
@@ -90,7 +90,7 @@ const risorseDocumentazione = [
             <p class="ml-4">
               <a
                 :href="documento.url"
-                class="flex lg:px-3 py-2 text-gray-600 hover:text-gray-900"
+                class="flex lg:px-3 py-2"
                 target="_blank"
               >
                 {{ documento.nome }}

@@ -16,7 +16,7 @@ export default {
 
 <template>
   <div
-    class="relative inline-block text-sm text-gray-600 bg-white p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
+    class="relative inline-block text-sm p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
   >
     <div class="pl-4 p-1">altre mappe</div>
     <div class="flex flex-wrap">

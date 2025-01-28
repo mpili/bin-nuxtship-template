@@ -1,9 +1,9 @@
 <template>
-  <div class="rounded-x shadow p-4 text-xs text-gray-400 bg-green-50">
+  <div class="rounded-x shadow p-4 text-xs">
     <div>
       Dati sulle attività ottenute da OpenStreetMap con licenza
       <a
-        class="text-blue-500"
+        class="text-info"
         href="https://www.openstreetmap.org/copyright"
         target="_blank"
         rel="noopener"

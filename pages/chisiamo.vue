@@ -13,7 +13,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 
 const team = [
@@ -83,10 +83,10 @@ const team = [
     </LandingSectionhead>
 
     <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
-      <h2 class="font-bold text-3xl text-gray-800">
+      <h2 class="font-bold text-3xl">
         BIN Bitcoin Italia Network.
       </h2>
-      <div class="text-lg leading-relaxed text-slate-500">
+      <div class="text-lg leading-relaxed">
         <p class="my-4">
           Bitcoin Italia Network nasce per rispondere alle esigenze dei
           Bitcoiner italiani, offrendo una rete solida e attiva per coloro che
@@ -128,8 +128,8 @@ const team = [
         </div>
 
         <div class="mt-4 text-center">
-          <h2 class="text-lg text-gray-800">{{ item.name }}</h2>
-          <h3 class="text-sm text-slate-500">{{ item.title }}</h3>
+          <h2 class="text-lg">{{ item.name }}</h2>
+          <h3 class="text-sm">{{ item.title }}</h3>
         </div>
       </div>
       <!-- {

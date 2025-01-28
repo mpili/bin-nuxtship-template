@@ -11,11 +11,15 @@ export default {
 
 <template>
   <div v-if="value">
-	<OsnLabellinktag
+	<!-- <OsnLabellinktag
 		icona="mdi:web"
 		etichetta="Sistema di pagamento Bitcoin"
 		:url="'/xt/psp/'+value"
 		:testo="value"
-	/>
+	/> -->
+  <UiLogoLink
+    :url="'/xt/psp/'+value"
+    :img="'/img/psp/'+value+'.png'"
+  />
   </div>
 </template>

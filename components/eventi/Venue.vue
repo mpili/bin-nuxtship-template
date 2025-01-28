@@ -12,7 +12,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 <template>
   <div v-if="pending">...</div>
   <div v-else>
-    <div class="my-2 p-4 bg-white shadow overflow-hidden sm:rounded-lg">
+    <div class="my-2 p-4 shadow overflow-hidden sm:rounded-lg">
       <NuxtLink :to="`/osn/${data.elements[0].id}`">
         <span class="font-bold text-blue-500">{{
           data.elements[0].tags.name

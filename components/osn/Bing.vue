@@ -21,7 +21,7 @@ export default {
         :href="dbdata?.items[0]?.bing"
         target="_blank"
         rel="noopener"
-        class="text-green-600 font-bold"
+        class="text-primary font-bold"
       >{{label}}</a>
     </span>
     <span v-else>{{label}}</span>

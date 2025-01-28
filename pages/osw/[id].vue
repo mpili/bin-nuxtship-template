@@ -15,7 +15,7 @@ const url_api = `https://overpass-api.de/api/interpreter?data=[out:json];way(id:
 const { data } = await useAsyncData("data", () => $fetch(url_api,));
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 </script>
 

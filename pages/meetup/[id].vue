@@ -12,7 +12,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 
 </script>

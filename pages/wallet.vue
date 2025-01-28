@@ -36,7 +36,7 @@ useHead({
 });
 
 definePageMeta({
-  layout: "landing",
+  layout: "main",
 });
 
 const mandroid = defineModel("android", { default: true });
@@ -197,7 +197,7 @@ const toggleOrder = () => {
           <div class="flex items-center gap-1 h-10">
             <img :src="'/img/wallet/' + item.id + '.png'" class="w-6 h-6" />
             <div class="w-48">
-              <NuxtLink :to="'/w/' + item.id" class="text-blue-600">
+              <NuxtLink :to="'/w/' + item.id">
                 {{ item.nome }}
               </NuxtLink>
             </div>
