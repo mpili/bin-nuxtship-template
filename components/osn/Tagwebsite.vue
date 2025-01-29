@@ -12,7 +12,7 @@ export default {
 <template>
   <div v-if="url">
     <a :href="url" target="_blank" rel="noopener">
-      <LandingBadge icona="mdi:web" testo="Visita il sito Web" coloreicona="#0ac18e" />
+      <MainBadge icona="mdi:web" testo="Visita il sito Web" />
     </a>
   </div>
 </template>

@@ -12,7 +12,9 @@
       >.
     </div>
 
-    <div class="mt-2 mb-6">Aiutaci a migliorare. Per qualsiasi domanda, suggerimento, segnalazione</div>
-    <LandingLink href="/contattaci">contattaci</LandingLink>
+    <div class="mt-2 mb-6">
+      Aiutaci a migliorare. Per qualsiasi domanda, suggerimento, segnalazione
+    </div>
+    <NuxtLink to="/contattaci" class="btn btn-sm"> contattaci </NuxtLink>
   </div>
 </template>

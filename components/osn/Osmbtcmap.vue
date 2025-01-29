@@ -8,12 +8,9 @@ const props = defineProps(["data"]);
       target="_blank"
       class="text-sm"
     >
-      <LandingBadge
+      <MainBadge
         icona="simple-icons:openstreetmap"
         testo="openstreetmap"
-        coloreicona="#9CA3AF"
-        coloretesto="neutral"
-        colorebg="neutral"
       />
     </a>
     <a
@@ -21,12 +18,9 @@ const props = defineProps(["data"]);
       :href="'https://btcmap.org/merchant/node:' + data.id"
       target="_blank"
       class="text- text-sm"
-      ><LandingBadge
+      ><MainBadge
         icona="hugeicons:bitcoin-location"
         testo="btcmap"
-        coloreicona="#9CA3AF"
-        coloretesto="neutral"
-        colorebg="neutral"
     /></a>
   </div>
 </template>

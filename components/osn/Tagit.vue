@@ -31,7 +31,7 @@ export default {
       <Icon v-if="icona" :name="icona" size="16" />
       <span class="text-sm">{{ etichetta }}&nbsp;</span>
     </div>
-    <div class="text-accent font-bold pb-2">
+    <div class="text-primary font-bold pb-2">
       <div v-for="(value, index) in tagValues" :key="index">
         <OsnTaglink :tag="tag" :valore="value">
           <template v-slot:testo>

@@ -10,7 +10,7 @@ defineProps(["tags"]);
           tags["contact:postcode"]
         }}</span>
         &nbsp;
-        <span class="text-accent font-bold">
+        <span class="text-primary font-bold">
           <span v-if="tags['addr:city']" itemprop="addressLocality">
             <OsnTaglink tag="addr:city" :valore="tags['addr:city']">
               <template v-slot:testo>{{ tags["addr:city"] }}</template>

@@ -24,7 +24,9 @@ export default defineNuxtConfig({
       pages: {
         path: '/sitemap.xml',
         urls: [
+          '/altremappe',
           '/calendari',
+          '/categorie',
           '/chisiamo',
           '/comunita',
           '/contattaci',
@@ -38,6 +40,7 @@ export default defineNuxtConfig({
           '/meetups',
           '/podcast',
           '/prezzi',
+          '/psp',
           '/shop',
           '/wallet',
         ],

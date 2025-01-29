@@ -23,12 +23,13 @@ export default {
   ],
   daisyui: {
     themes: [
+      "light",
+      "dark",
+      "cupcake",
       "emerald",
       "bumblebee",
       "halloween",
       "cyberpunk",
-      "cupcake",
-      "dark",
       "retro",
       "fantasy",
     ],
