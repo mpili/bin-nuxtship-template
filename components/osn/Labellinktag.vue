@@ -27,7 +27,7 @@ export default {
       <Icon v-if="icona" :name="icona" size="16" color="gray" />
       <span class="text-base-300 text-sm">{{ etichetta }}&nbsp;</span>
     </div>
-    <div class="text-accent font-bold pb-2">
+    <div class="text-primary font-bold pb-2">
       <NuxtLink :to="url">{{ testo }}</NuxtLink>
     </div>
   </div>

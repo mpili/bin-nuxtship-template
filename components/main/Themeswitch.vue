@@ -8,12 +8,13 @@
 
 <script>
 const temi = [
+  "light",
+  "dark",
+  "cupcake",
   "emerald",
   "bumblebee",
   "halloween",
   "cyberpunk",
-  "cupcake",
-  "dark",
   "retro",
   "fantasy",
 ];
