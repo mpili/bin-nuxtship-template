@@ -7,7 +7,7 @@
     "idlocalita": "valdisusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002445101954",
     "telegram_app": "https://t.me/SatoshiSpritzValSusa",
-    "telegram_members": 19.0,
+    "telegram_members": 20.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -192,11 +192,11 @@
             "id": 2018127861,
             "lat": 45.0657684,
             "lon": 7.6813498,
-            "timestamp": "2025-01-03T15:49:38Z",
-            "version": 4,
-            "changeset": 160955068,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-02-03T14:48:50Z",
+            "version": 5,
+            "changeset": 162090149,
+            "user": "Olly1240",
+            "uid": 5701090,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "305",
@@ -205,10 +205,13 @@
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2025-02-03",
                 "name": "OVS",
                 "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:30",
                 "operator": "OVS",
-                "shop": "clothes"
+                "shop": "clothes",
+                "toilets": "yes",
+                "wheelchair": "yes"
             }
         },
         {

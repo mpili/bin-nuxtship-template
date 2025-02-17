@@ -3,6 +3,8 @@ export function usePoiLink(poi) {
 		return '/osn/' + poi.id;
 	} else if (poi.type === 'way') {
 		return '/osw/' + poi.id;
+	} else if (poi.type === 'relation') {
+		return '/osr/' + poi.id;
 	}
 	return '';
 }

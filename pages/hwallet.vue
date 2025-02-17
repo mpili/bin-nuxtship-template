@@ -46,8 +46,7 @@ definePageMeta({
     <LandingBreadcrumb :voci="breadcrumb" />
     
     <div v-if="pending">
-      Loading
-      <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
+      <UiSkeleton />
     </div>
     <div v-else>
       <div v-for="hwallet of data.items">

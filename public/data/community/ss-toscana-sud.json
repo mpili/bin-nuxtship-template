@@ -7,7 +7,7 @@
     "idlocalita": "grosseto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001890322260",
     "telegram_app": "https://t.me/SatoshiSpritzToscanaSud",
-    "telegram_members": 42.0,
+    "telegram_members": 40.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -702,6 +702,41 @@
                 "phone": "+39 333 8556 247",
                 "shop": "car_repair",
                 "survey:date": "2024-06-11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12550106324,
+            "lat": 43.4624968,
+            "lon": 11.8768274,
+            "timestamp": "2025-02-01T23:59:49Z",
+            "version": 2,
+            "changeset": 162030095,
+            "user": "Bota87",
+            "uid": 19327867,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:housenumber": "7",
+                "addr:postcode": "52100",
+                "addr:street": "Via Eritrea",
+                "amenity": "atm",
+                "cash_withdrawal": "no",
+                "check_date": "2025-02-01",
+                "contact:facebook": "https://www.facebook.com/goodluckarezzo786",
+                "contact:instagram": "https://www.instagram.com/goodluckarezzo",
+                "contact:whatsapp": "+39 380 580 5980",
+                "currency:XBT": "yes",
+                "description": "Bitcoin ATM operato da CoinFlip, situato all'interno di Good Luck, agenzia di viaggi e money transfer",
+                "email": "arezzo4@yahoo.it",
+                "indoor": "yes",
+                "name": "CoinFlip ATM",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "CoinFlip",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 324 628 8800",
+                "website": "https://locations.coinflip.tech/it/ar/arezzo/via-eritrea-7/7a"
             }
         },
         {

@@ -1674,6 +1674,32 @@
             }
         },
         {
+            "type": "node",
+            "id": 12526553666,
+            "lat": 40.7468141,
+            "lon": 14.770137,
+            "timestamp": "2025-01-23T15:23:58Z",
+            "version": 1,
+            "changeset": 161678858,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Baronissi",
+                "addr:housenumber": "4",
+                "addr:postcode": "84081",
+                "addr:street": "Piazza della Repubblica",
+                "check_date": "2025-01-23",
+                "currency:XBT": "yes",
+                "name": "Studio Palmieri",
+                "office": "financial_advisor",
+                "opening_hours": "Mo-Fr 10:00-13:00, 16:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "website": "https://www.codiceazienda.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 103190545,
             "timestamp": "2025-01-06T14:40:19Z",
@@ -1756,11 +1782,11 @@
         {
             "type": "way",
             "id": 306369157,
-            "timestamp": "2016-02-15T01:21:58Z",
-            "version": 5,
-            "changeset": 37215665,
-            "user": "mcheckimport",
-            "uid": 893327,
+            "timestamp": "2025-01-27T13:46:44Z",
+            "version": 6,
+            "changeset": 161819172,
+            "user": "damianeue",
+            "uid": 10124288,
             "nodes": [
                 3112557547,
                 3112560012,
@@ -1775,6 +1801,9 @@
             "tags": {
                 "addr:housenumber": "16",
                 "addr:street": "Via Giuseppe Atzori",
+                "brand": "Conad Superstore",
+                "brand:wikidata": "Q118129616",
+                "building": "yes",
                 "name": "Conad Superstore",
                 "operator": "Conad",
                 "shop": "supermarket"
