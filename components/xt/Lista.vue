@@ -60,7 +60,7 @@ onMounted(() => {
 
 <template>
   <div v-if="pending">
-    <span class="text-gray-400">Caricamento in corso...</span>
+    <span class="loading loading-spinner loading-xs"></span>
   </div>
   <div v-else-if="error">
     <span class="text-red-500">Si è verificato un errore: {{ error }}</span>

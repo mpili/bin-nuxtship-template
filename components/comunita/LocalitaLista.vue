@@ -9,7 +9,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 </script>
 
 <template>
-  <div v-if="pending">Loading ...</div>
+  <div v-if="pending">
+    <span class="loading loading-spinner loading-xs"></span>
+  </div>
   <div v-else>
     <div class="border-1 my-2 rounded shadow p-4 font-bold">
       <div class="grid gap-2 grid-cols-2 md:grid-cols-3 lg:grid-cols-4">

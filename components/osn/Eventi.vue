@@ -11,7 +11,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div v-if="pending">
-    <span class="text-base-300">...</span>
+    <span class="text-base-300">
+      <span class="loading loading-spinner loading-xs"></span>
+    </span>
   </div>
   <div v-else>
     <div v-if="data?.items?.length > 0" class="border-1 my-2 rounded shadow p-4">

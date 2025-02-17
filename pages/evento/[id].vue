@@ -14,8 +14,9 @@ definePageMeta({
 <template>
   <LandingContainer>
     <div v-if="pending">
-      Loading
-      <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
+      <UiSkeleton />
+      <!-- Loading
+      <Icon name="eos-icons:bubble-loading" size="48" color="gray" /> -->
     </div>
     <div v-else>
       <EventiEvento :evento="data?.items[0]" />
