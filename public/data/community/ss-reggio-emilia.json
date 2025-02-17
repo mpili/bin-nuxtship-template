@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 155.0,
+    "telegram_members": 162.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -174,19 +174,22 @@
         {
             "type": "node",
             "id": 4166949793,
-            "lat": 44.6808736,
-            "lon": 10.6362991,
-            "timestamp": "2017-01-02T15:34:10Z",
-            "version": 3,
-            "changeset": 44847366,
-            "user": "Alecs01",
-            "uid": 1476146,
+            "lat": 44.6810551,
+            "lon": 10.6362866,
+            "timestamp": "2025-02-08T16:04:59Z",
+            "version": 4,
+            "changeset": 162285549,
+            "user": "Stefano Manfredini",
+            "uid": 5721717,
             "tags": {
                 "addr:city": "Reggio nell'Emilia",
                 "addr:country": "IT",
                 "addr:housenumber": "59",
                 "addr:street": "Via Maiella",
-                "name": "CONAD Reggio Sud",
+                "branch": "Tuday",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
                 "operator": "CONAD Soc. Coop.",
                 "shop": "supermarket"
             }
@@ -529,13 +532,13 @@
         {
             "type": "node",
             "id": 4690647333,
-            "lat": 44.8034677,
-            "lon": 10.3249226,
-            "timestamp": "2022-06-14T11:26:19Z",
-            "version": 4,
-            "changeset": 122367464,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
+            "lat": 44.8035356,
+            "lon": 10.3249894,
+            "timestamp": "2025-02-08T15:35:23Z",
+            "version": 5,
+            "changeset": 162284353,
+            "user": "ziomio",
+            "uid": 21389832,
             "tags": {
                 "addr:city": "Parma",
                 "addr:country": "IT",
@@ -1103,6 +1106,27 @@
                 "currency:XBT": "yes",
                 "name": "Oltre Restaurant",
                 "phone": "+39 342 081 0328"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8749359128,
+            "lat": 44.6921756,
+            "lon": 10.6307861,
+            "timestamp": "2025-02-03T10:16:25Z",
+            "version": 4,
+            "changeset": 162078333,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Reggio nell'Emilia",
+                "addr:housenumber": "44a",
+                "addr:postcode": "42121",
+                "addr:street": "Viale dei Mille",
+                "check_date": "2025-02-01",
+                "currency:XBT": "yes",
+                "name": "4Life - Senza Glutine",
+                "shop": "health_food"
             }
         },
         {

@@ -20,8 +20,7 @@ definePageMeta({
 <template>
   <LandingContainer>
     <div v-if="pending">
-      Loading
-      <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
+      <UiSkeleton />
     </div>
     <div v-else>
       <MeetupPage :meetup="data.items[0]" />

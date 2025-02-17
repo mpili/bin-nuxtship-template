@@ -24,7 +24,7 @@ definePageMeta({
 <template>
   <LandingContainer>
     <div v-if="pending">
-      Loading ...
+      <UiSkeleton />
     </div>
     <div v-else>
       <WalletPage :data="data" />

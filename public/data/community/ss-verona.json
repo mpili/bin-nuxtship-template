@@ -7,7 +7,7 @@
     "idlocalita": "verona",
     "telegram_weburl": "https://web.telegram.org/a/#-1001646846497",
     "telegram_app": "https://t.me/SatoshiSpritzVerona",
-    "telegram_members": 136.0,
+    "telegram_members": 138.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1898,6 +1898,61 @@
                 "second_hand": "yes",
                 "shop": "motorcycle",
                 "website": "https://www.zanuso.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12559993787,
+            "lat": 45.471595,
+            "lon": 10.8495451,
+            "timestamp": "2025-02-06T22:32:32Z",
+            "version": 2,
+            "changeset": 162225445,
+            "user": "Ing Giorgio Righetti",
+            "uid": 22158321,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:housenumber": "93",
+                "addr:postcode": "37012",
+                "addr:street": "Piazzale Vittorio Veneto",
+                "check_date": "2025-02-05",
+                "currency:XBT": "yes",
+                "email": "info@intecoservizi.it",
+                "name": "Inteco Servizi",
+                "office": "architect",
+                "opening_hours": "Mo-Fr 09:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+393518755527",
+                "website": "https://www.intecoservizi.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12564282231,
+            "lat": 45.3567698,
+            "lon": 10.9504969,
+            "timestamp": "2025-02-07T02:34:04Z",
+            "version": 1,
+            "changeset": 162229173,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Castel d'Azzano",
+                "addr:housenumber": "2",
+                "addr:postcode": "37060",
+                "addr:street": "Via Bassette",
+                "amenity": "restaurant",
+                "check_date": "2025-02-07",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Pizzeria Il Castello",
+                "opening_hours": "We-Su 17:30-21:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 34 618 67826"
             }
         },
         {

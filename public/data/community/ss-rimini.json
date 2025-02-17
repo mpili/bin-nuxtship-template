@@ -7,7 +7,7 @@
     "idlocalita": "rimini",
     "telegram_weburl": "https://web.telegram.org/a/#-1001887746692",
     "telegram_app": "https://t.me/SatoshiSpritzRimini",
-    "telegram_members": 113.0,
+    "telegram_members": 118.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1552,9 +1552,9 @@
             "id": 12512352402,
             "lat": 43.9077569,
             "lon": 12.8669878,
-            "timestamp": "2025-01-20T15:36:50Z",
-            "version": 4,
-            "changeset": 161568360,
+            "timestamp": "2025-02-01T02:53:58Z",
+            "version": 6,
+            "changeset": 161998907,
             "user": "Rockedf",
             "uid": 7522075,
             "tags": {
@@ -1563,7 +1563,7 @@
                 "addr:postcode": "61122",
                 "addr:street": "Strada di Montefeltro",
                 "check_date": "2025-01-20",
-                "check_date:currency:XBT": "2025-01-20",
+                "check_date:currency:XBT": "2025-02-01",
                 "contact:facebook": "https://www.facebook.com/profile.php?id=61550805761894",
                 "contact:instagram": "https://www.instagram.com/lorenzo.fratesi.menopancia",
                 "currency:XBT": "yes",
@@ -1604,6 +1604,23 @@
                 "phone": "+39 05 4173 2305",
                 "tourism": "hotel",
                 "website": "https://www.hotelsusanna.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12525719779,
+            "lat": 43.8009971,
+            "lon": 13.011687,
+            "timestamp": "2025-01-23T06:20:29Z",
+            "version": 1,
+            "changeset": 161661389,
+            "user": "sorcrosc",
+            "uid": 160229,
+            "tags": {
+                "amenity": "vending_machine",
+                "operator": "Conad",
+                "recycling:plastic_bottles": "yes",
+                "vending": "bottle_return"
             }
         },
         {

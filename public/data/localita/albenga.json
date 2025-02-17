@@ -479,29 +479,6 @@
         },
         {
             "type": "node",
-            "id": 7501673939,
-            "lat": 43.8988215,
-            "lon": 8.0301833,
-            "timestamp": "2024-12-03T19:50:43Z",
-            "version": 4,
-            "changeset": 159894870,
-            "user": "LucianoC63",
-            "uid": 20673751,
-            "tags": {
-                "addr:city": "Imperia",
-                "addr:housenumber": "347",
-                "addr:postcode": "18100",
-                "addr:street": "Argine Destro Ferdinando Scajola",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 7501700350,
             "lat": 43.8888545,
             "lon": 8.04078,
@@ -521,28 +498,6 @@
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
                 "opening_hours": "Mo-Sa 08:30-19:30; Su 09:00-12:30",
-                "operator": "Conad"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7501711285,
-            "lat": 43.8787475,
-            "lon": 8.0057617,
-            "timestamp": "2020-05-09T18:29:49Z",
-            "version": 1,
-            "changeset": 84947673,
-            "user": "mascalzone67",
-            "uid": 1861652,
-            "tags": {
-                "addr:city": "Imperia",
-                "addr:housenumber": "5",
-                "addr:postcode": "18100",
-                "addr:street": "Via Giuseppe Airenti",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
                 "operator": "Conad"
             }
         },

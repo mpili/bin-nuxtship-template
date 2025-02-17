@@ -21,8 +21,7 @@ import hwAttributi from "~/assets/data/hw-attributi.json";
 <template>
   <LandingContainer>
     <div v-if="pending">
-      Loading
-      <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
+      <UiSkeleton />
     </div>
     <div v-else>
       <HwalletPage :hwallet="data.items[0]" />

@@ -4,7 +4,7 @@ const props = defineProps(["data"]);
 <template>
   <div class="flex gap-2 py-2">
     <a
-      :href="'https://www.openstreetmap.org/way/' + data.id"
+      :href="'https://www.openstreetmap.org/relation/' + data.id"
       target="_blank"
       class="text-sm"
     >
@@ -15,7 +15,7 @@ const props = defineProps(["data"]);
     </a>
     <a
       v-if="data.tags['currency:XBT'] === 'yes'"
-      :href="'https://btcmap.org/merchant/way:' + data.id"
+      :href="'https://btcmap.org/merchant/relation:' + data.id"
       target="_blank"
       class="text- text-sm"
       ><MainBadge

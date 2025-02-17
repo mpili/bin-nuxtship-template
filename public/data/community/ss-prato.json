@@ -7,7 +7,7 @@
     "idlocalita": "prato",
     "telegram_weburl": "https://web.telegram.org/a/#-1002376586155",
     "telegram_app": "https://t.me/satoshispritzprato",
-    "telegram_members": 33.0,
+    "telegram_members": 42.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1798,6 +1798,35 @@
                 "operator:type": "private",
                 "parking": "surface",
                 "surface": "asphalt"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355159994,
+            "timestamp": "2025-01-29T12:32:24Z",
+            "version": 1,
+            "changeset": 161895511,
+            "user": "hypersciocco",
+            "uid": 90188,
+            "nodes": [
+                12541589781,
+                12541589782,
+                12541589783,
+                12541589784,
+                12541589781
+            ],
+            "tags": {
+                "addr:city": "Sesto Fiorentino",
+                "addr:country": "IT",
+                "addr:housenumber": "36",
+                "addr:postcode": "50019",
+                "addr:street": "Via del Cantone",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "building": "yes",
+                "name": "Trony",
+                "operator": "Trony",
+                "shop": "electronics"
             }
         }
     ],
