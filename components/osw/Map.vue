@@ -11,7 +11,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div class="py-2">
-    <div v-if="pending">...</div>
+    <div v-if="pending">
+      <span class="loading loading-spinner loading-xs"></span>
+    </div>
     <div v-else>
       <div v-if="data?.elements">
         <!-- <p>{{ data.elements[0]?.lat }}, {{ data.elements[0]?.lon }}</p> -->

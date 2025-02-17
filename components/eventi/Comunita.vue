@@ -15,7 +15,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div>
-    <div v-if="pending">...</div>
+    <div v-if="pending">
+      <span class="loading loading-spinner loading-xs"></span>
+    </div>
     <div v-else>
       <p>
         <NuxtLink :to="`/c/${data.id}`">

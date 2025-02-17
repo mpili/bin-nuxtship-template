@@ -17,8 +17,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div v-if="pending">
-    Loading
-    <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
+    <span class="loading loading-spinner loading-xs"></span>
   </div>
   <div v-else>
     <EventiCarousel :eventi="data.items" />

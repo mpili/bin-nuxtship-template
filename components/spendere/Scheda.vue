@@ -5,7 +5,7 @@ defineProps(["data"]);
   <NuxtLink :to="data.url">
     <UiCard
 		:title="data.nome"
-		:buttonText="data.nome"
+		:buttonText="data.cta"
 		:imageSrc="data.img"
 	/>
   </NuxtLink>
