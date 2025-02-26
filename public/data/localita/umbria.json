@@ -744,11 +744,11 @@
         {
             "type": "way",
             "id": 346950708,
-            "timestamp": "2024-05-19T16:08:03Z",
-            "version": 3,
-            "changeset": 151541333,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-02-18T21:18:23Z",
+            "version": 4,
+            "changeset": 162677715,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 3533932564,
                 3533932560,
@@ -761,12 +761,16 @@
                 3533932564
             ],
             "tags": {
+                "addr:city": "Foligno",
+                "addr:postcode": "06034",
+                "addr:street": "Via delle Industrie",
                 "brand": "Decathlon",
                 "brand:wikidata": "Q509349",
                 "brand:wikipedia": "en:Decathlon Group",
                 "building": "commercial",
                 "check_date": "2024-05-19",
                 "name": "Decathlon",
+                "nohousenumber": "yes",
                 "operator": "Decathlon",
                 "shop": "sports"
             }

@@ -951,11 +951,11 @@
             "id": 8482436005,
             "lat": 44.4274761,
             "lon": 8.7785353,
-            "timestamp": "2023-10-16T12:47:00Z",
-            "version": 5,
-            "changeset": 142664664,
-            "user": "Igor Bubelov",
-            "uid": 2104834,
+            "timestamp": "2025-02-22T17:49:44Z",
+            "version": 6,
+            "changeset": 162825916,
+            "user": "LucianoC63",
+            "uid": 20673751,
             "tags": {
                 "addr:city": "Genova",
                 "addr:housenumber": "1",
@@ -968,7 +968,7 @@
                 "email": "info@managerads.it",
                 "name": "Manager Ads",
                 "office": "advertising_agency",
-                "phone": "+39 010 84 802 95",
+                "phone": "+39 010 8480295",
                 "website": "https://managerads.it"
             }
         },
@@ -1646,6 +1646,34 @@
                 "phone": "+39 3284959922",
                 "shop": "tailor",
                 "survey:date": "2024-01-02"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12603968096,
+            "lat": 44.4249557,
+            "lon": 8.8511054,
+            "timestamp": "2025-02-20T14:17:43Z",
+            "version": 1,
+            "changeset": 162743513,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "65",
+                "addr:postcode": "16128",
+                "addr:street": "Via Raimondo Amedeo Vigna",
+                "check_date": "2025-02-20",
+                "currency:XBT": "yes",
+                "female": "yes",
+                "name": "Danilo Canale hairstudio",
+                "opening_hours": "We-Sa 09:30-17:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 339 191 9621",
+                "shop": "hairdresser",
+                "wheelchair": "yes"
             }
         },
         {

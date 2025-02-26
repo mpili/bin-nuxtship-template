@@ -328,6 +328,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 12598623349,
+            "lat": 40.498549,
+            "lon": 17.6434156,
+            "timestamp": "2025-02-19T11:45:52Z",
+            "version": 4,
+            "changeset": 162697370,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Oria",
+                "addr:housenumber": "7",
+                "addr:postcode": "72024",
+                "addr:street": "Corso Umberto 1\u00b0",
+                "check_date": "2025-02-18",
+                "contact:facebook": "bottegaoscuradelcuoio",
+                "contact:instagram": "bottegaoscuradelcuoio",
+                "currency:XBT": "yes",
+                "name": "Bottega Oscura del Cuoio",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "survey:date": "2025-02-18"
+            }
+        },
+        {
             "type": "way",
             "id": 297196005,
             "timestamp": "2025-01-02T12:27:14Z",

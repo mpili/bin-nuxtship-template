@@ -4,7 +4,7 @@ const props = defineProps(["data"]);
 <template>
   <OsnPostaladdress :tags="data?.tags" />
   <OsnTelefoni :tags="data?.tags" />
-  <OsnEventi :idnodosm="data?.id" />
+  <!-- <OsnEventi :idnodosm="data?.id" /> -->
   <OsnTagyesno
     v-if="data?.tags?.wheelchair"
     icona="ph:wheelchair-light"

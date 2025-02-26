@@ -7,7 +7,7 @@
     "idlocalita": "taranto",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzTaranto",
     "telegram_app": "https://t.me/SatoshiSpritzTaranto",
-    "telegram_members": 22.0,
+    "telegram_members": 21.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -346,6 +346,35 @@
                 "email": "info@caveaubar.it",
                 "name": "Caveau Bar",
                 "phone": "+39 350 126 5170"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12598623349,
+            "lat": 40.498549,
+            "lon": 17.6434156,
+            "timestamp": "2025-02-19T11:45:52Z",
+            "version": 4,
+            "changeset": 162697370,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Oria",
+                "addr:housenumber": "7",
+                "addr:postcode": "72024",
+                "addr:street": "Corso Umberto 1\u00b0",
+                "check_date": "2025-02-18",
+                "contact:facebook": "bottegaoscuradelcuoio",
+                "contact:instagram": "bottegaoscuradelcuoio",
+                "currency:XBT": "yes",
+                "name": "Bottega Oscura del Cuoio",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "survey:date": "2025-02-18"
             }
         },
         {

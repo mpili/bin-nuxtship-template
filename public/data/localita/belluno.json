@@ -839,6 +839,33 @@
             }
         },
         {
+            "type": "node",
+            "id": 12613934712,
+            "lat": 45.8370974,
+            "lon": 12.4010158,
+            "timestamp": "2025-02-23T22:50:17Z",
+            "version": 1,
+            "changeset": 162871398,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Visn\u00e0 TV",
+                "addr:housenumber": "80",
+                "addr:postcode": "31028",
+                "addr:street": "Via Armando Diaz",
+                "check_date": "2025-02-23",
+                "currency:XBT": "yes",
+                "name": "House Service Italy",
+                "office": "construction_company",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 392 9173243",
+                "website": "https://www.linkedin.com/in/daniele-momi-849073102/"
+            }
+        },
+        {
             "type": "way",
             "id": 36053469,
             "timestamp": "2023-11-13T08:06:55Z",
