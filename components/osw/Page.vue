@@ -38,6 +38,7 @@ const {
       </div>
 
       <div v-if="data?.tags">
+        <OswEventi :idwayosm="data?.id" />
         <OnwTagsgroupone :data="data" />
       </div>
 

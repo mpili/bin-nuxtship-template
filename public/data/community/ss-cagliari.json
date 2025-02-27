@@ -7,7 +7,7 @@
     "idlocalita": "cagliari",
     "telegram_weburl": "https://web.telegram.org/a/#-1001802453419",
     "telegram_app": "https://t.me/SatoshiSpritzCagliari",
-    "telegram_members": 100.0,
+    "telegram_members": 99.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1390,11 +1390,11 @@
         {
             "type": "way",
             "id": 277192357,
-            "timestamp": "2025-01-06T14:43:58Z",
-            "version": 4,
-            "changeset": 161061159,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-02-22T12:19:16Z",
+            "version": 5,
+            "changeset": 162813937,
+            "user": "bluemywn",
+            "uid": 17079474,
             "nodes": [
                 2817207829,
                 2817209474,
@@ -1414,6 +1414,7 @@
                 "brand:wikipedia": "en:IKEA",
                 "building": "industrial",
                 "name": "IKEA",
+                "opening_hours": "Mo-Su 10:00-20:00",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "shop": "furniture"
             }

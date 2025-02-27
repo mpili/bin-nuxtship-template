@@ -526,6 +526,30 @@
             }
         },
         {
+            "type": "node",
+            "id": 12598255689,
+            "lat": 38.1366612,
+            "lon": 13.3220118,
+            "timestamp": "2025-02-18T12:47:48Z",
+            "version": 1,
+            "changeset": 162660018,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "19",
+                "addr:postcode": "90145",
+                "addr:street": "Via Gian Lorenzo Bernini",
+                "check_date": "2025-02-18",
+                "currency:XBT": "yes",
+                "name": "Sposito Autoricambi SNC",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "shop": "car_parts"
+            }
+        },
+        {
             "type": "way",
             "id": 393271989,
             "timestamp": "2024-02-10T13:08:28Z",
