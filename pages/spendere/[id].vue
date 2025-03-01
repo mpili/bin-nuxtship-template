@@ -11,6 +11,18 @@ useHead({
   title: "Bitcoin Italia Network - spendere",
 });
 
+const breadcrumb = computed(() => [
+  {
+    label: "spendere",
+    path: "/spendere/spendere",
+  },
+  {
+    label: id,
+  },
+]);
+
+
+
 definePageMeta({
   layout: "main",
 });
@@ -21,6 +33,9 @@ definePageMeta({
     <LandingSectionhead>
       <template v-slot:title>{{ id }}</template>
     </LandingSectionhead>
+
+    <LandingBreadcrumb :voci="breadcrumb" />
+
     <div v-if="pending">
       <span class="loading loading-spinner loading-lg"></span>
     </div>
