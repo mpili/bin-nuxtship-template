@@ -42,11 +42,11 @@ defineProps(["data"]);
           data.tags["contact:postcode"]
         }}</span>
         &nbsp;
-        <span v-if="data.tags['addr:city']">{{ data.tags["addr:city"] }}</span>
-        <span v-else-if="data.tags['contact:city']">{{
+        <span v-if="data.tags['addr:city']" class="font-bold">{{ data.tags["addr:city"] }}</span>
+        <span v-else-if="data.tags['contact:city']" class="font-bold">{{
           data.tags["contact:city"]
         }}</span>
-        <span v-if="data.tags['addr:province']"> ({{
+        <span v-if="data.tags['addr:province']" class="font-bold"> ({{
           data.tags["addr:province"]
         }})</span>
 

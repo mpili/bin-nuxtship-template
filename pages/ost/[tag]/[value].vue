@@ -59,6 +59,8 @@ definePageMeta({
 
     <LandingBreadcrumb :voci="breadcrumb" />
 
+    <OstFeatured :tagvalue="tag+'_'+value" />
+
     <div v-if="pending">
       <UiSkeleton />
     </div>
