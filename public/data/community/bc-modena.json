@@ -7,7 +7,7 @@
     "idlocalita": "modena",
     "telegram_weburl": "https://web.telegram.org/a/#-1001339469755",
     "telegram_app": "https://t.me/CryptoModena",
-    "telegram_members": 143.0,
+    "telegram_members": 144.0,
     "poi": [
         {
             "type": "node",
@@ -3371,11 +3371,11 @@
         {
             "type": "way",
             "id": 220734350,
-            "timestamp": "2022-04-06T20:55:06Z",
-            "version": 2,
-            "changeset": 119403399,
-            "user": "LvdT",
-            "uid": 1834719,
+            "timestamp": "2025-02-27T17:36:06Z",
+            "version": 3,
+            "changeset": 163022324,
+            "user": "Stefano Manfredini",
+            "uid": 5721717,
             "nodes": [
                 2298264868,
                 2298264869,
@@ -3390,8 +3390,11 @@
             ],
             "tags": {
                 "addr:street": "Via Zenzalose",
+                "branch": "Montale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
                 "building": "yes",
-                "name": "Conad Montale",
+                "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"
             }

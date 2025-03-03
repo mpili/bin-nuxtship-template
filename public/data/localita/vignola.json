@@ -1906,7 +1906,7 @@
             "timestamp": "2024-01-17T00:26:52Z",
             "version": 3,
             "changeset": 146342972,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Castel San Pietro Terme",
@@ -3133,11 +3133,11 @@
         {
             "type": "way",
             "id": 220734350,
-            "timestamp": "2022-04-06T20:55:06Z",
-            "version": 2,
-            "changeset": 119403399,
-            "user": "LvdT",
-            "uid": 1834719,
+            "timestamp": "2025-02-27T17:36:06Z",
+            "version": 3,
+            "changeset": 163022324,
+            "user": "Stefano Manfredini",
+            "uid": 5721717,
             "nodes": [
                 2298264868,
                 2298264869,
@@ -3152,8 +3152,11 @@
             ],
             "tags": {
                 "addr:street": "Via Zenzalose",
+                "branch": "Montale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
                 "building": "yes",
-                "name": "Conad Montale",
+                "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"
             }
