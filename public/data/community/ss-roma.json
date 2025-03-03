@@ -7,7 +7,7 @@
     "idlocalita": "roma",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzRoma",
     "telegram_app": "https://t.me/SatoshiSpritzRoma",
-    "telegram_members": 388.0,
+    "telegram_members": 389.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1836,7 +1836,7 @@
             "timestamp": "2024-04-19T06:22:51Z",
             "version": 4,
             "changeset": 150205202,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2567,7 +2567,7 @@
             "timestamp": "2023-08-04T10:34:22Z",
             "version": 3,
             "changeset": 139434937,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2594,7 +2594,7 @@
             "timestamp": "2023-08-04T10:37:30Z",
             "version": 3,
             "changeset": 139435071,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2621,7 +2621,7 @@
             "timestamp": "2023-08-04T10:39:17Z",
             "version": 3,
             "changeset": 139435154,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2648,7 +2648,7 @@
             "timestamp": "2023-08-04T07:16:34Z",
             "version": 3,
             "changeset": 139426521,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2675,7 +2675,7 @@
             "timestamp": "2023-08-04T07:18:05Z",
             "version": 3,
             "changeset": 139426572,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2771,7 +2771,7 @@
             "timestamp": "2024-02-19T04:20:25Z",
             "version": 2,
             "changeset": 147632637,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -2797,7 +2797,7 @@
             "timestamp": "2024-02-19T04:21:15Z",
             "version": 2,
             "changeset": 147632651,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -3148,22 +3148,25 @@
         {
             "type": "node",
             "id": 11819969169,
-            "lat": 41.9354405,
-            "lon": 12.5338201,
-            "timestamp": "2024-04-15T19:18:26Z",
-            "version": 1,
-            "changeset": 150054955,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "lat": 41.935377,
+            "lon": 12.5337271,
+            "timestamp": "2025-03-02T09:28:33Z",
+            "version": 2,
+            "changeset": 163113747,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
             "tags": {
                 "addr:city": "Roma",
+                "addr:country": "IT",
                 "addr:housenumber": "1",
                 "addr:postcode": "00141",
                 "addr:street": "Corso Sempione",
                 "check_date": "2024-04-14",
+                "currency:EUR": "yes",
                 "currency:XBT": "yes",
                 "email": "INFO@PROJ3CT.IT",
-                "name": "PROJ3CT Store - Montesacro",
+                "name": "PROJ3CT Store \u2013 Montesacro",
+                "name:it": "PROJ3CT",
                 "phone": "+39 06 87179037",
                 "shop": "clothes",
                 "website": "https://www.proj3ct.it/"
@@ -3988,7 +3991,7 @@
             "timestamp": "2023-08-04T07:30:49Z",
             "version": 7,
             "changeset": 139427070,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "nodes": [
                 2016890640,
@@ -4747,7 +4750,7 @@
             "timestamp": "2024-02-20T03:43:06Z",
             "version": 2,
             "changeset": 147674326,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "nodes": [
                 11166948539,

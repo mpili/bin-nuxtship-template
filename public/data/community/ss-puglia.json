@@ -7,7 +7,7 @@
     "idlocalita": "puglia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001876214322",
     "telegram_app": "https://t.me/SatoshiSpritzPuglia",
-    "telegram_members": 31.0,
+    "telegram_members": 30.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -280,7 +280,7 @@
             "timestamp": "2023-08-02T12:55:31Z",
             "version": 3,
             "changeset": 139346686,
-            "user": "Igor Bubelov",
+            "user": "yhic4uw",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Bari",
@@ -672,6 +672,29 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12626005442,
+            "lat": 40.953635,
+            "lon": 17.2994586,
+            "timestamp": "2025-02-28T16:19:00Z",
+            "version": 1,
+            "changeset": 163059646,
+            "user": "Travel With Gianni",
+            "uid": 22572775,
+            "tags": {
+                "addr:city": "Monopoli",
+                "addr:housenumber": "31",
+                "addr:postcode": "70043",
+                "addr:street": "Via Vincenzo Gioberti",
+                "currency:XBT": "yes",
+                "name": "Travel With Gianni",
+                "office": "travel_agent",
+                "opening_hours": "Mo-Sa 09:00-13:00",
+                "payment:onchain": "yes",
+                "survey:date": "2025-02-28"
             }
         },
         {
