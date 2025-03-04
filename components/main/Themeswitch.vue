@@ -10,13 +10,6 @@
 const temi = [
   "light",
   "dark",
-  "cupcake",
-  "emerald",
-  "bumblebee",
-  "halloween",
-  "cyberpunk",
-  "retro",
-  "fantasy",
 ];
 
 export default {
