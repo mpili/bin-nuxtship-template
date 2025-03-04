@@ -89,7 +89,7 @@ const vocimenu = [
 ];
 </script>
 <template>
-  <footer class="footer bg-base-200 text-base-content p-10 mt-4">
+  <footer class="footer md:footer-horizontal bg-base-200 text-base-content p-10 mt-4">
     <nav v-for="item of vocimenu">
       <h6 class="footer-title">{{ item.titolo }}</h6>
       <a v-for="voce of item.voci" :href="voce.path" class="link link-hover">{{
