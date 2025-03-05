@@ -1,9 +1,34 @@
 [
-	623913279,
-	4736077722,
-	1978573748,
-	3813802842,
-	6758886855,
-	11971358829,
-	1452373305
+	{
+		"id": 623913279,
+		"url": "/osn/623913279",
+		"nome": "Trattoria da Burde",
+		"img": "/img/ostfeatured/623913279.webp",
+		"indirizzo": "Via Pistoiese, 154",
+		"citta": "Firenze"
+	},
+	{
+		"id": 4736077722,
+		"url": "/osn/4736077722",
+		"nome": "Cheers Birreria-Bistrot",
+		"img": "/img/ostfeatured/4736077722.webp",
+		"indirizzo": "Via Giovanni Botero, 16",
+		"citta": "Torino"
+	},
+	{
+		"id": 3813802842,
+		"url": "/osn/3813802842",
+		"nome": "Mara Meo San Francesco",
+		"img": "/img/ostfeatured/3813802842.webp",
+		"indirizzo": "Piazza San Francesco, 17",
+		"citta": "Lucca"
+	},
+	{
+		"id": 1978573748,
+		"url": "/osn/1978573748",
+		"nome": "Carpe Diem",
+		"img": "/img/ostfeatured/1978573748.webp",
+		"indirizzo": "Via Mauro Macchi, 44",
+		"citta": "Milano"
+	}
 ]

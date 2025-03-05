@@ -14,7 +14,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   <div>
     <div v-if="pending"></div>
     <div v-else>
-      <OsnFeatured v-if="data?.length" :ids="data" />
+      <OsnFeatured v-if="data?.length" :data="data" />
     </div>
   </div>
 </template>
