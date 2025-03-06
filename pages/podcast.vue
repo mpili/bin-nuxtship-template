@@ -21,6 +21,12 @@ definePageMeta({
 });
 const podcasts = [
   {
+    id: "21mdc",
+    nome: "21 Milioni di Chiacchiere",
+    url: "/podc/21mdc",
+    img: "/img/podcast/21mdc.jpg",
+  },
+  {
     id: "bitcoin-italia-podcast",
     nome: "Bitcoin Italia Podcast",
     url: "/podc/bitcoin-italia-podcast",
@@ -97,12 +103,6 @@ const podcasts = [
     url: "/podc/cripto-il-sole-24-ore",
     img: "/img/podcast/cripto-il-sole-24-ore.jpg",
   },
-  {
-    id: "21mdc",
-    nome: "21 Milioni di Chiacchiere",
-    url: "/podc/21mdc",
-    img: "/img/podcast/21mdc.jpg",
-  },
 ];
 
 const breadcrumb = computed(() => [
@@ -110,7 +110,6 @@ const breadcrumb = computed(() => [
     label: "podcast",
   },
 ]);
-
 </script>
 
 <template>
