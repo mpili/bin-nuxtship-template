@@ -50,7 +50,9 @@ definePageMeta({
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>
-        {{tagita}}
+        <span class="font-extralight">{{useTagtraduciit(tag)}}</span>
+        &nbsp;
+        <span class="font-bold">{{useTagtraduciit(tag, value)}}</span>
       </template>
       <template v-slot:desc
         >Le attività che accettano Bitcoin in Italia.</template
