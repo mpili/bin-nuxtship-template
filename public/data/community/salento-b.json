@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 20.0,
+    "telegram_members": 27.0,
     "poi": [
         {
             "type": "node",
@@ -223,11 +223,11 @@
             "id": 9183675806,
             "lat": 40.5016937,
             "lon": 17.6417262,
-            "timestamp": "2025-03-03T18:13:03Z",
-            "version": 4,
-            "changeset": 163172710,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-03-05T11:12:41Z",
+            "version": 5,
+            "changeset": 163240176,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "addr:city": "Oria",
                 "addr:postcode": "72024",
@@ -237,7 +237,7 @@
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
                 "payment:lightning": "yes",
-                "payment:lightning_contactless c": "yes",
+                "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "phone": "+39 0831 601967",
                 "shop": "optician"
@@ -464,6 +464,33 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "3802043937"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12643278203,
+            "lat": 40.1259983,
+            "lon": 18.1293605,
+            "timestamp": "2025-03-07T13:02:43Z",
+            "version": 2,
+            "changeset": 163326694,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "tags": {
+                "addr:city": "Aradeo",
+                "addr:housenumber": "147",
+                "addr:postcode": "73040",
+                "addr:street": "Via S. Biagio",
+                "craft": "brewery",
+                "currency:XBT": "yes",
+                "email": "info@bivitime.com",
+                "instagram": "https://www.instagram.com/bivitime_apulianbeer/",
+                "name": "Lu Birrocciu by Bivitime",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 324 082 1912",
+                "product": "beer"
             }
         },
         {

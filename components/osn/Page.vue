@@ -9,6 +9,19 @@ useHead({
       href: `https://bitcoinitalianetwork.com/osn/${props?.data?.id}`,
     },
   ],
+  meta: [
+    { property: "og:title", content: props?.data?.tags?.name },
+    { property: "keywords", content: "bitcoin,merchant" },
+    {
+      property: "og:image",
+      content: `https://api.btcmap.org/og/element/node:${props?.data?.id}`,
+    },
+    { property: "author", content: "Bitcoin Italia Network" },
+    {
+      property: "description",
+      content: "Gli esercenti che accettano pagamenti in Bitcoin in Italia",
+    },
+  ],
 });
 
 const url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
@@ -60,6 +73,8 @@ const {
       <div v-if="data?.tags">
         <OsnCheckdate :tags="data.tags" />
       </div>
-    </div><!-- v if data.tags -->
-  </div><!-- v if data -->
+    </div>
+    <!-- v if data.tags -->
+  </div>
+  <!-- v if data -->
 </template>
