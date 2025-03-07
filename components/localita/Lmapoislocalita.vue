@@ -44,6 +44,9 @@
 	<LMarker :lat-lng="[46.365271, 11.033176]">
 		<LPopup><NuxtLink to="/l/cles">Cles</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[45.13637, 10.02835]">
+		<LPopup><NuxtLink to="/l/cremona">Cremona</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[44.384477, 7.542671]">
 		<LPopup><NuxtLink to="/l/cuneo">Cuneo</NuxtLink></LPopup>
 	</LMarker>

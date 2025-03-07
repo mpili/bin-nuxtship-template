@@ -1766,11 +1766,11 @@
         {
             "type": "way",
             "id": 202199864,
-            "timestamp": "2023-11-09T17:31:21Z",
-            "version": 3,
-            "changeset": 143832455,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "timestamp": "2025-03-07T14:01:26Z",
+            "version": 4,
+            "changeset": 163328807,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2121815878,
                 2121815835,
@@ -1783,11 +1783,16 @@
                 2121815878
             ],
             "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "9",
+                "addr:postcode": "43036",
+                "addr:street": "Via Federico Fellini",
                 "brand": "Decathlon",
                 "brand:wikidata": "Q509349",
                 "building": "yes",
                 "name": "Decathlon",
                 "operator": "Decathlon",
+                "phone": "+39 0524 687943",
                 "shop": "sports"
             }
         },
