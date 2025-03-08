@@ -64,7 +64,10 @@ const groupedPois = computed(() => {
     >
       <input type="radio" name="my-accordion-2" />
       <div class="collapse-title text-xl font-medium">
-        {{ categoria }}
+        <div class="indicator">
+          <span class="indicator-item badge badge-primary">{{pois.length}}</span>
+          <button class="btn">{{ categoria }}</button>
+        </div>
       </div>
       <div class="collapse-content">
         <div v-for="poi in pois" :key="poi.id" class="rounded">
