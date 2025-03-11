@@ -7,7 +7,7 @@
     "idlocalita": "varese",
     "telegram_weburl": "https://web.telegram.org/a/#-1001656890617",
     "telegram_app": "https://t.me/satoshispritzVarese",
-    "telegram_members": 107.0,
+    "telegram_members": 106.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3782,30 +3782,6 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "website": "https://www.mammafarina.it/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7037155015,
-            "lat": 45.4791426,
-            "lon": 9.1730953,
-            "timestamp": "2024-12-31T11:17:57Z",
-            "version": 3,
-            "changeset": 160827993,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:housenumber": "55",
-                "addr:postcode": "20154",
-                "addr:street": "Via Luigi Canonica",
-                "brand": "Unieuro",
-                "brand:wikidata": "Q4004687",
-                "brand:wikipedia": "en:Unieuro",
-                "check_date": "2023-06-24",
-                "name": "Unieuro",
-                "operator": "Unieuro S.p.A.",
-                "shop": "electronics"
             }
         },
         {
