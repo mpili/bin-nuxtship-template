@@ -319,28 +319,6 @@
         },
         {
             "type": "node",
-            "id": 1395881964,
-            "lat": 41.8184987,
-            "lon": 12.5860001,
-            "timestamp": "2024-12-31T11:12:39Z",
-            "version": 6,
-            "changeset": 160827809,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Ciampino",
-                "addr:housenumber": "88",
-                "addr:postcode": "00043",
-                "addr:street": "Viale John Fitzgerald Kennedy",
-                "brand": "Unieuro",
-                "brand:wikidata": "Q4004687",
-                "name": "Unieuro",
-                "operator": "Unieuro S.p.A.",
-                "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
             "id": 1514398062,
             "lat": 41.9973036,
             "lon": 12.3904351,
@@ -3948,6 +3926,36 @@
                 "phone": "+39 06 30266300",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006887.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 124051617,
+            "timestamp": "2025-03-10T15:41:01Z",
+            "version": 8,
+            "changeset": 163448379,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "nodes": [
+                1395881964,
+                1381644060,
+                1381644059,
+                1381644061,
+                11195543379,
+                1395881964
+            ],
+            "tags": {
+                "addr:city": "Ciampino",
+                "addr:country": "IT",
+                "addr:housenumber": "88",
+                "addr:postcode": "00043",
+                "addr:street": "Viale John Fitzgerald Kennedy",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "building": "yes",
+                "name": "Unieuro",
+                "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
             }
         },
         {

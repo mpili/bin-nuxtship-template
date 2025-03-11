@@ -106,6 +106,7 @@ const attributiWallet = [
     colore: "orange",
     titolo: "Lightning network",
     descrizione: "Supporta transazioni su Lightning Network",
+    dizionario: "lightning-network",
   },
   {
     campo: "open source",

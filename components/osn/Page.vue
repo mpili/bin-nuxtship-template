@@ -17,10 +17,12 @@ useHead({
       content: `https://api.btcmap.org/og/element/node:${props?.data?.id}`,
     },
     { property: "author", content: "Bitcoin Italia Network" },
+    { property: "og:type", content: "website" },
     {
       property: "description",
       content: "Gli esercenti che accettano pagamenti in Bitcoin in Italia",
     },
+    { property: "og:url", content: `https://bitcoinitalianetwork.com/osn/${props?.data?.id}` },
   ],
 });
 

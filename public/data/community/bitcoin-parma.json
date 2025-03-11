@@ -2117,47 +2117,6 @@
                 "shop": "jewelry",
                 "type": "multipolygon"
             }
-        },
-        {
-            "type": "relation",
-            "id": 2389998,
-            "timestamp": "2022-01-22T14:57:54Z",
-            "version": 2,
-            "changeset": 116468866,
-            "user": "Ziomio",
-            "uid": 7073950,
-            "members": [
-                {
-                    "type": "way",
-                    "ref": 179099089,
-                    "role": "outer"
-                },
-                {
-                    "type": "way",
-                    "ref": 179099108,
-                    "role": "inner"
-                },
-                {
-                    "type": "way",
-                    "ref": 179099103,
-                    "role": "inner"
-                },
-                {
-                    "type": "way",
-                    "ref": 179099101,
-                    "role": "inner"
-                },
-                {
-                    "type": "way",
-                    "ref": 179099098,
-                    "role": "inner"
-                }
-            ],
-            "tags": {
-                "building": "yes",
-                "operator": "Conad",
-                "type": "multipolygon"
-            }
         }
     ],
     "telegram": []
