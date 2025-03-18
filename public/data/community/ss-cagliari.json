@@ -217,13 +217,13 @@
         {
             "type": "node",
             "id": 4213587392,
-            "lat": 39.2360774,
-            "lon": 9.1085049,
-            "timestamp": "2024-12-30T21:58:00Z",
-            "version": 5,
-            "changeset": 160811847,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 39.2360993,
+            "lon": 9.1083436,
+            "timestamp": "2025-03-15T10:22:39Z",
+            "version": 6,
+            "changeset": 163644411,
+            "user": "bluemywn",
+            "uid": 17079474,
             "tags": {
                 "addr:city": "Cagliari",
                 "addr:housenumber": "111",
@@ -1341,6 +1341,30 @@
                 "operator": "Trony",
                 "phone": "+39 070 489088",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12640702159,
+            "lat": 39.2174514,
+            "lon": 9.1264135,
+            "timestamp": "2025-03-13T10:42:57Z",
+            "version": 3,
+            "changeset": 163564230,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "16A",
+                "addr:postcode": "09129",
+                "addr:street": "Via Giovanni Battista Tuveri",
+                "contact:facebook": "https://www.facebook.com/portadal1918/",
+                "currency:XBT": "yes",
+                "email": "info@porta1918.it",
+                "name": "Porta 1918",
+                "phone": "+39 349 1553931",
+                "shop": "bakery",
+                "website": "https://www.porta1918.it/"
             }
         },
         {

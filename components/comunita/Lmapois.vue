@@ -125,6 +125,9 @@
 	<LMarker :lat-lng="[45.4859, 10.92615487]">
 		<LPopup><NuxtLink to="/c/ss-modena">Satoshi Spritz Modena</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[45.4859, 10.92615487]">
+		<LPopup><NuxtLink to="/c/bm-modena">Bitcoin Meetup Modena</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.8050923, 13.5329932]">
 		<LPopup><NuxtLink to="/c/bb-monfalcone">BitcoinMonfalcone.it</NuxtLink></LPopup>
 	</LMarker>

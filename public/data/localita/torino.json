@@ -1349,13 +1349,13 @@
         {
             "type": "node",
             "id": 8759665076,
-            "lat": 45.0877521,
-            "lon": 7.4081792,
-            "timestamp": "2025-01-03T14:18:29Z",
-            "version": 4,
-            "changeset": 160951301,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 45.0879318,
+            "lon": 7.408264,
+            "timestamp": "2025-03-17T16:24:59Z",
+            "version": 5,
+            "changeset": 163739964,
+            "user": "cartomatto",
+            "uid": 1976047,
             "tags": {
                 "addr:city": "Avigliana",
                 "addr:housenumber": "107",
@@ -2594,6 +2594,34 @@
             }
         },
         {
+            "type": "node",
+            "id": 12673486640,
+            "lat": 45.0880373,
+            "lon": 7.4078155,
+            "timestamp": "2025-03-17T16:24:59Z",
+            "version": 1,
+            "changeset": 163739964,
+            "user": "cartomatto",
+            "uid": 1976047,
+            "tags": {
+                "addr:city": "Avigliana",
+                "addr:housenumber": "103",
+                "addr:postcode": "10051",
+                "addr:street": "Via Francesca e Giovanni Falcone",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-19:00; Su 08:00-15:00",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 011 9637224",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.009721.html"
+            }
+        },
+        {
             "type": "way",
             "id": 43271463,
             "timestamp": "2022-11-16T11:03:11Z",
@@ -2964,41 +2992,6 @@
                 "roof:shape": "flat",
                 "shop": "electronics",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 671328580,
-            "timestamp": "2021-05-24T11:46:35Z",
-            "version": 5,
-            "changeset": 105223212,
-            "user": "Martj9",
-            "uid": 675302,
-            "nodes": [
-                6286864223,
-                6286864222,
-                6286864221,
-                6286864220,
-                7839623769,
-                6286864223
-            ],
-            "tags": {
-                "addr:city": "Avigliana",
-                "addr:housenumber": "103",
-                "addr:postcode": "10051",
-                "addr:street": "Via Francesca e Giovanni Falcone",
-                "building": "commercial",
-                "building:levels": "1",
-                "email": "leonardo_P502889A@di-net.it",
-                "name": "Conad",
-                "opening_hours": "Mo-Sa 08:00-19:00; Su 08:00-15:00",
-                "operator": "Conad",
-                "payment:bancomat": "yes",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "phone": "+39 011 9637224",
-                "shop": "mall",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.009721.html"
             }
         },
         {
