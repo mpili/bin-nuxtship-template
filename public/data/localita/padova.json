@@ -2541,6 +2541,32 @@
             }
         },
         {
+            "type": "node",
+            "id": 12673883496,
+            "lat": 45.4859784,
+            "lon": 12.2273728,
+            "timestamp": "2025-03-17T19:00:14Z",
+            "version": 1,
+            "changeset": 163746332,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Venezia",
+                "addr:housenumber": "45",
+                "addr:postcode": "30171",
+                "addr:street": "Via Piraghetto",
+                "check_date": "2025-03-17",
+                "contact:instagram": "https://www.instagram.com/marikawakeup",
+                "currency:XBT": "yes",
+                "name": "Wakeup Academy",
+                "office": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 33 3921 7645"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-01-06T14:39:30Z",

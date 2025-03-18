@@ -1668,6 +1668,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 12657198832,
+            "lat": 43.874066,
+            "lon": 10.2462964,
+            "timestamp": "2025-03-16T10:12:05Z",
+            "version": 10,
+            "changeset": 163681277,
+            "user": "Bar Leone",
+            "uid": 22621748,
+            "tags": {
+                "addr:city": "Viareggio",
+                "addr:housenumber": "279",
+                "addr:postcode": "55049",
+                "addr:street": "Via Antonio Fratti",
+                "amenity": "cafe",
+                "check_date": "2025-03-15",
+                "currency:XBT": "yes",
+                "email": "bar.leone.viareggio@gmail.com",
+                "internet_access": "wlan",
+                "name": "Bar Leone",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes"
+            }
+        },
+        {
             "type": "way",
             "id": 104826426,
             "timestamp": "2024-07-16T11:09:59Z",

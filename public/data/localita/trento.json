@@ -2160,6 +2160,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 12654209778,
+            "lat": 45.7344385,
+            "lon": 10.7925298,
+            "timestamp": "2025-03-12T01:25:30Z",
+            "version": 1,
+            "changeset": 163507879,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Malcesine",
+                "addr:housenumber": "2",
+                "addr:postcode": "37010",
+                "addr:street": "Via la Piana",
+                "check_date": "2025-03-12",
+                "currency:XBT": "yes",
+                "email": "info@architectslodge.com",
+                "guest_house": "bed_and_breakfast",
+                "name": "Pierina Art Paradise B&B",
+                "opening_hours": "\"By appointment\"",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 32 9023 6683",
+                "tourism": "guest_house",
+                "website": "https://architectslodge.kross.travel/malcesine/art-paradise-gard-lake"
+            }
+        },
+        {
             "type": "way",
             "id": 63222690,
             "timestamp": "2023-11-05T04:46:58Z",

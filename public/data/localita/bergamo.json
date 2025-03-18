@@ -5887,6 +5887,30 @@
             }
         },
         {
+            "type": "node",
+            "id": 12675620497,
+            "lat": 45.4742829,
+            "lon": 9.9918564,
+            "timestamp": "2025-03-18T09:43:43Z",
+            "version": 2,
+            "changeset": 163765846,
+            "user": "demon_box",
+            "uid": 350864,
+            "tags": {
+                "addr:city": "Trenzano",
+                "addr:hamlet": "Cossirano",
+                "addr:housenumber": "11a",
+                "addr:postcode": "25030",
+                "addr:street": "Via Guglielmo Marconi",
+                "amenity": "restaurant",
+                "contact:instagram": "https://www.instagram.com/pizzerialamaiolica/",
+                "contact:phone": "+39 333 5253430",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "La Maiolica"
+            }
+        },
+        {
             "type": "way",
             "id": 41947515,
             "timestamp": "2025-01-06T14:40:00Z",
