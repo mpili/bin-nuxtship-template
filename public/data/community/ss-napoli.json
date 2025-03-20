@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/a/#-1001823139796",
     "telegram_app": "https://t.me/SatoshiSpritzNapoli",
-    "telegram_members": 83.0,
+    "telegram_members": 84.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1863,11 +1863,11 @@
         {
             "type": "way",
             "id": 804270801,
-            "timestamp": "2020-05-15T13:10:41Z",
-            "version": 1,
-            "changeset": 85263324,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "timestamp": "2025-03-20T00:36:00Z",
+            "version": 2,
+            "changeset": 163840940,
+            "user": "Venom88",
+            "uid": 2177199,
             "nodes": [
                 7522850805,
                 7522850806,
@@ -1884,6 +1884,7 @@
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "building": "retail",
+                "check_date": "2025-03-20",
                 "name": "Conad",
                 "opening_hours": "Mo-Su 07:30-21:00",
                 "operator": "Conad",
@@ -1892,7 +1893,8 @@
                 "payment:credit_cards": "yes",
                 "phone": "+39 089 342333",
                 "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.008434.html"
+                "website": "https://www.conad.it/ricerca-negozi/negozio.008434.html",
+                "wheelchair": "yes"
             }
         },
         {

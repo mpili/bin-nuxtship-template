@@ -416,6 +416,31 @@
             }
         },
         {
+            "type": "node",
+            "id": 12682194753,
+            "lat": 40.0560538,
+            "lon": 17.9814036,
+            "timestamp": "2025-03-20T06:49:48Z",
+            "version": 5,
+            "changeset": 163847210,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "tags": {
+                "addr:city": "Gallipoli",
+                "addr:housenumber": "1",
+                "addr:postcode": "73014",
+                "addr:street": "Via Santa Cristina",
+                "currency:XBT": "yes",
+                "email": "pugliainfotourist@gmail.com",
+                "name": "Sea Tour Gallipoli -Escursioni in barca",
+                "office": "guide",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393331279593",
+                "website": "https://www.seatourgallipoli.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 297196005,
             "timestamp": "2025-01-02T12:27:14Z",
