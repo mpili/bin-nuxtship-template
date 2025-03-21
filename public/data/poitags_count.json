@@ -28,19 +28,19 @@
             "Unnamed: 0": 4,
             "amenity": "bar",
             "count": 36,
-            "max_timestamp": "2025-02-20T15:21:15Z"
+            "max_timestamp": "2025-03-19T10:00:55Z"
         },
         {
             "Unnamed: 0": 5,
             "amenity": "fast_food",
             "count": 32,
-            "max_timestamp": "2025-03-08T16:45:22Z"
+            "max_timestamp": "2025-03-19T10:00:55Z"
         },
         {
             "Unnamed: 0": 6,
             "amenity": "cafe",
             "count": 22,
-            "max_timestamp": "2025-03-16T10:12:05Z"
+            "max_timestamp": "2025-03-19T10:28:47Z"
         },
         {
             "Unnamed: 0": 7,
@@ -252,7 +252,7 @@
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 326,
-            "max_timestamp": "2025-03-17T16:24:59Z"
+            "max_timestamp": "2025-03-20T20:58:02Z"
         },
         {
             "Unnamed: 0": 2,
@@ -848,7 +848,7 @@
             "Unnamed: 0": 6,
             "cuisine": "piadina",
             "count": 5,
-            "max_timestamp": "2025-02-20T15:21:15Z"
+            "max_timestamp": "2025-03-19T10:00:55Z"
         },
         {
             "Unnamed: 0": 7,
@@ -1034,27 +1034,27 @@
         },
         {
             "Unnamed: 0": 2,
-            "office": "company",
-            "count": 9,
-            "max_timestamp": "2025-01-22T17:54:35Z"
-        },
-        {
-            "Unnamed: 0": 3,
             "office": "advertising_agency",
             "count": 9,
             "max_timestamp": "2025-02-22T17:49:44Z"
         },
         {
+            "Unnamed: 0": 3,
+            "office": "lawyer",
+            "count": 9,
+            "max_timestamp": "2025-03-20T17:31:00Z"
+        },
+        {
             "Unnamed: 0": 4,
-            "office": "architect",
-            "count": 8,
-            "max_timestamp": "2025-02-06T22:32:32Z"
+            "office": "company",
+            "count": 9,
+            "max_timestamp": "2025-01-22T17:54:35Z"
         },
         {
             "Unnamed: 0": 5,
-            "office": "lawyer",
+            "office": "architect",
             "count": 8,
-            "max_timestamp": "2024-12-05T02:40:38Z"
+            "max_timestamp": "2025-02-06T22:32:32Z"
         },
         {
             "Unnamed: 0": 6,
@@ -1076,39 +1076,39 @@
         },
         {
             "Unnamed: 0": 9,
-            "office": "financial",
-            "count": 2,
-            "max_timestamp": "2024-01-06T11:20:43Z"
-        },
-        {
-            "Unnamed: 0": 10,
-            "office": "association",
-            "count": 2,
-            "max_timestamp": "2025-01-02T21:11:02Z"
-        },
-        {
-            "Unnamed: 0": 11,
-            "office": "financial_advisor",
-            "count": 2,
-            "max_timestamp": "2025-01-23T15:27:43Z"
-        },
-        {
-            "Unnamed: 0": 12,
             "office": "educational_institution",
             "count": 2,
             "max_timestamp": "2023-11-07T05:06:04Z"
         },
         {
-            "Unnamed: 0": 13,
+            "Unnamed: 0": 10,
             "office": "engineer",
             "count": 2,
             "max_timestamp": "2024-06-06T09:41:53Z"
         },
         {
-            "Unnamed: 0": 14,
+            "Unnamed: 0": 11,
+            "office": "financial",
+            "count": 2,
+            "max_timestamp": "2024-01-06T11:20:43Z"
+        },
+        {
+            "Unnamed: 0": 12,
             "office": "graphic_design",
             "count": 2,
             "max_timestamp": "2024-09-27T13:04:48Z"
+        },
+        {
+            "Unnamed: 0": 13,
+            "office": "financial_advisor",
+            "count": 2,
+            "max_timestamp": "2025-01-23T15:27:43Z"
+        },
+        {
+            "Unnamed: 0": 14,
+            "office": "association",
+            "count": 2,
+            "max_timestamp": "2025-01-02T21:11:02Z"
         },
         {
             "Unnamed: 0": 15,
@@ -1124,57 +1124,63 @@
         },
         {
             "Unnamed: 0": 17,
+            "office": "travel_agent",
+            "count": 1,
+            "max_timestamp": "2025-02-28T16:19:00Z"
+        },
+        {
+            "Unnamed: 0": 18,
             "office": "construction_company",
             "count": 1,
             "max_timestamp": "2025-02-23T22:50:17Z"
         },
         {
-            "Unnamed: 0": 18,
+            "Unnamed: 0": 19,
             "office": "wedding_planner",
             "count": 1,
             "max_timestamp": "2024-05-16T12:48:11Z"
         },
         {
-            "Unnamed: 0": 19,
+            "Unnamed: 0": 20,
             "office": "occupational_safety",
             "count": 1,
             "max_timestamp": "2024-09-25T08:19:37Z"
         },
         {
-            "Unnamed: 0": 20,
+            "Unnamed: 0": 21,
             "office": "studio_tecnico",
             "count": 1,
             "max_timestamp": "2023-11-19T10:47:25Z"
         },
         {
-            "Unnamed: 0": 21,
+            "Unnamed: 0": 22,
             "office": "insurance",
             "count": 1,
             "max_timestamp": "2024-10-08T17:43:58Z"
         },
         {
-            "Unnamed: 0": 22,
+            "Unnamed: 0": 23,
             "office": "interior_design",
             "count": 1,
             "max_timestamp": "2024-07-21T17:14:07Z"
         },
         {
-            "Unnamed: 0": 23,
+            "Unnamed: 0": 24,
             "office": "event_planner",
             "count": 1,
             "max_timestamp": "2023-10-27T13:00:04Z"
         },
         {
-            "Unnamed: 0": 24,
+            "Unnamed: 0": 25,
             "office": "private_investigator",
             "count": 1,
             "max_timestamp": "2023-07-10T19:00:14Z"
         },
         {
-            "Unnamed: 0": 25,
-            "office": "travel_agent",
+            "Unnamed: 0": 26,
+            "office": "guide",
             "count": 1,
-            "max_timestamp": "2025-02-28T16:19:00Z"
+            "max_timestamp": "2025-03-20T06:49:48Z"
         }
     ],
     "tourism": [
