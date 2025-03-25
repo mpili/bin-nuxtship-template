@@ -7,7 +7,7 @@
     "idlocalita": "firenze",
     "telegram_weburl": "https://web.telegram.org/a/#-1001040948446",
     "telegram_app": "https://t.me/bitcoinfirenze",
-    "telegram_members": 211.0,
+    "telegram_members": 212.0,
     "poi": [
         {
             "type": "node",
@@ -1159,6 +1159,30 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-florence-via-delle-panche"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12696171957,
+            "lat": 43.807059,
+            "lon": 11.2367327,
+            "timestamp": "2025-03-24T16:04:52Z",
+            "version": 3,
+            "changeset": 164040257,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Firenze",
+                "addr:housenumber": "18A",
+                "addr:postcode": "50141",
+                "addr:street": "Via Leopoldo Pellas",
+                "currency:XBT": "yes",
+                "description": "Pool di tecnici (dal geometra all\u2019ingegnere), specializzati in tutte le discipline e servizi inerenti il settore immobiliare e tecnico legale.",
+                "email": "contact@studiopcg.com",
+                "name": "StudioPCG - Pezzoli e Carniani",
+                "office": "estate_agent",
+                "phone": "+39 0553896387",
+                "website": "https://www.studiopcg.com"
             }
         },
         {

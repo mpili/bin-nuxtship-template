@@ -768,19 +768,21 @@
             "id": 2204351633,
             "lat": 45.4348547,
             "lon": 9.0931866,
-            "timestamp": "2024-12-31T18:12:25Z",
-            "version": 4,
-            "changeset": 160843906,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-03-21T12:35:42Z",
+            "version": 5,
+            "changeset": 163904095,
+            "user": "flottershy",
+            "uid": 22008718,
             "tags": {
                 "addr:city": "Corsico",
-                "addr:housenumber": "48",
+                "addr:housenumber": "48/50",
                 "addr:postcode": "20094",
                 "addr:street": "Viale Italia",
-                "name": "Unieuro",
+                "name": "Shun Fa",
+                "opening_hours": "Mo-Su 09:00-20:00",
                 "operator": "Unieuro S.p.A.",
-                "shop": "electronics"
+                "shop": "electronics",
+                "website": "http://shunfa.it"
             }
         },
         {
@@ -6227,6 +6229,34 @@
                 "postal_code": "20134",
                 "shop": "wine",
                 "website": "http://www.tuttaltrosuono.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12696355318,
+            "lat": 45.4402078,
+            "lon": 9.1912806,
+            "timestamp": "2025-03-24T11:30:56Z",
+            "version": 1,
+            "changeset": 164027259,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "33/6",
+                "addr:postcode": "20141",
+                "addr:street": "Via Bernardino Verro",
+                "check_date": "2025-03-24",
+                "check_date:currency:XBT": "2025-03-24",
+                "contact:facebook": "avv.fabiodalessio",
+                "currency:XBT": "yes",
+                "email": "avv.dalessio@studiolegale-dalessio.it",
+                "name": "FDA Studio Legale",
+                "office": "lawyer",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 02 8414 6559"
             }
         },
         {

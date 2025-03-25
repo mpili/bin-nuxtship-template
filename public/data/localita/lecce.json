@@ -512,6 +512,40 @@
         },
         {
             "type": "way",
+            "id": 403251433,
+            "timestamp": "2025-03-24T12:52:37Z",
+            "version": 2,
+            "changeset": 164031148,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "nodes": [
+                4056176948,
+                12696495786,
+                4056176895,
+                4056176959,
+                4056177010,
+                4056176948
+            ],
+            "tags": {
+                "abandoned:building": "yes",
+                "addr:city": "Alezio",
+                "addr:postcode": "73011",
+                "addr:street": "Strada Vicinale Trappeto-Stracca",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "currency:XBT": "yes",
+                "diet:omnivore": "yes",
+                "email": "info@trappitostracca.it",
+                "name": "Trappito Stracca",
+                "opening_hours": "Domenica 12:00-15:30 Luned\u00ec 19:30-23:30 Marted\u00ec Chiuso Mercoled\u00ec 20:00-23:30 Gioved\u00ec 19:30-23:30 Venerd\u00ec 19:30-23:30 Sabato 19:30-23:30",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "3288668812"
+            }
+        },
+        {
+            "type": "way",
             "id": 552636796,
             "timestamp": "2018-01-13T07:54:09Z",
             "version": 2,

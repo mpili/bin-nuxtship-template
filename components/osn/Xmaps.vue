@@ -16,6 +16,7 @@ export default {
 
 <template>
   <div
+    v-if="data.lat && data.lon"
     class="relative inline-block text-sm p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
   >
     <div class="pl-4 p-1">altre mappe</div>
