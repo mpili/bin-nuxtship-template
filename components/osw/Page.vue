@@ -53,7 +53,6 @@ const {
       <OsnXtagsx :idnodosm="data?.id" />
 
       <OswMap :idosm="data?.id" />
-
       <OsnXmaps :data="data" :pending="pending" :dbdata="dbdata" />
 
       <OswOsmbtcmap :data="data" />

@@ -937,6 +937,30 @@
             }
         },
         {
+            "type": "node",
+            "id": 12686931000,
+            "lat": 43.234544,
+            "lon": 13.6415154,
+            "timestamp": "2025-03-21T11:55:52Z",
+            "version": 1,
+            "changeset": 163902395,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Montegranaro",
+                "addr:housenumber": "40",
+                "addr:postcode": "63812",
+                "addr:street": "Via Elpidiense Sud",
+                "check_date": "2025-03-21",
+                "currency:XBT": "yes",
+                "name": "LOTTO, FUMO E ALTRO DI FORESI GIUSEPPE",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 328 7491786",
+                "shop": "tobacco"
+            }
+        },
+        {
             "type": "way",
             "id": 245784052,
             "timestamp": "2024-11-02T10:44:24Z",

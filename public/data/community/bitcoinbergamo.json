@@ -5866,6 +5866,34 @@
             }
         },
         {
+            "type": "node",
+            "id": 12696355318,
+            "lat": 45.4402078,
+            "lon": 9.1912806,
+            "timestamp": "2025-03-24T11:30:56Z",
+            "version": 1,
+            "changeset": 164027259,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "33/6",
+                "addr:postcode": "20141",
+                "addr:street": "Via Bernardino Verro",
+                "check_date": "2025-03-24",
+                "check_date:currency:XBT": "2025-03-24",
+                "contact:facebook": "avv.fabiodalessio",
+                "currency:XBT": "yes",
+                "email": "avv.dalessio@studiolegale-dalessio.it",
+                "name": "FDA Studio Legale",
+                "office": "lawyer",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 02 8414 6559"
+            }
+        },
+        {
             "type": "way",
             "id": 41947515,
             "timestamp": "2025-01-06T14:40:00Z",
