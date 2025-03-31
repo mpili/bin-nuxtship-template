@@ -7,6 +7,7 @@
     "idlocalita": "romagna",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBitcoinRomagnaHub",
     "telegram_app": "https://t.me/BitcoinRomagnaHub",
+    "telegram_members": 16.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -852,9 +853,9 @@
             "id": 7507084208,
             "lat": 44.4976768,
             "lon": 11.3907944,
-            "timestamp": "2023-05-16T12:48:38Z",
-            "version": 3,
-            "changeset": 136167918,
+            "timestamp": "2025-03-28T10:39:17Z",
+            "version": 4,
+            "changeset": 164201215,
             "user": "Plaintelive",
             "uid": 11644547,
             "tags": {
@@ -867,7 +868,8 @@
                 "dispensing": "no",
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
-                "operator": "Conad"
+                "operator": "Conad",
+                "ref:msal": "002203"
             }
         },
         {
@@ -1604,11 +1606,11 @@
         {
             "type": "way",
             "id": 150412155,
-            "timestamp": "2022-11-16T20:06:02Z",
-            "version": 7,
-            "changeset": 129009593,
-            "user": "rabon",
-            "uid": 1972608,
+            "timestamp": "2025-03-30T10:09:36Z",
+            "version": 8,
+            "changeset": 164280430,
+            "user": "Marcodago26",
+            "uid": 22604600,
             "nodes": [
                 1633312354,
                 1633312368,
@@ -1650,10 +1652,6 @@
                 1633312354
             ],
             "tags": {
-                "addr:city": "Bologna",
-                "addr:housenumber": "6",
-                "addr:postcode": "40139",
-                "addr:street": "Via Emilia Levante",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",

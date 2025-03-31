@@ -4,13 +4,13 @@
             "Unnamed: 0": 0,
             "amenity": "pharmacy",
             "count": 139,
-            "max_timestamp": "2025-02-26T18:36:16Z"
+            "max_timestamp": "2025-03-28T10:39:17Z"
         },
         {
             "Unnamed: 0": 1,
             "amenity": "restaurant",
             "count": 91,
-            "max_timestamp": "2025-03-24T12:52:37Z"
+            "max_timestamp": "2025-03-27T09:47:49Z"
         },
         {
             "Unnamed: 0": 2,
@@ -34,7 +34,7 @@
             "Unnamed: 0": 5,
             "amenity": "fast_food",
             "count": 32,
-            "max_timestamp": "2025-03-19T10:00:55Z"
+            "max_timestamp": "2025-03-30T13:52:11Z"
         },
         {
             "Unnamed: 0": 6,
@@ -246,13 +246,13 @@
             "Unnamed: 0": 0,
             "shop": "electronics",
             "count": 351,
-            "max_timestamp": "2025-03-23T13:46:15Z"
+            "max_timestamp": "2025-03-26T08:03:47Z"
         },
         {
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 326,
-            "max_timestamp": "2025-03-20T20:58:02Z"
+            "max_timestamp": "2025-03-30T10:09:36Z"
         },
         {
             "Unnamed: 0": 2,
@@ -263,7 +263,7 @@
         {
             "Unnamed: 0": 3,
             "shop": "sports",
-            "count": 82,
+            "count": 80,
             "max_timestamp": "2025-03-09T16:33:50Z"
         },
         {
@@ -282,7 +282,7 @@
             "Unnamed: 0": 6,
             "shop": "computer",
             "count": 18,
-            "max_timestamp": "2025-02-17T11:54:40Z"
+            "max_timestamp": "2025-03-30T21:47:44Z"
         },
         {
             "Unnamed: 0": 7,
@@ -646,15 +646,15 @@
         },
         {
             "Unnamed: 0": 67,
-            "shop": "telecommunication",
+            "shop": "industrial_supplies",
             "count": 1,
-            "max_timestamp": "2024-02-09T23:50:22Z"
+            "max_timestamp": "2025-03-26T13:38:21Z"
         },
         {
             "Unnamed: 0": 68,
-            "shop": "bicycle",
+            "shop": "telecommunication",
             "count": 1,
-            "max_timestamp": "2025-01-03T09:47:10Z"
+            "max_timestamp": "2024-02-09T23:50:22Z"
         },
         {
             "Unnamed: 0": 69,
@@ -724,15 +724,15 @@
         },
         {
             "Unnamed: 0": 80,
-            "shop": "pasta",
+            "shop": "bicycle",
             "count": 1,
-            "max_timestamp": "2024-03-14T17:04:28Z"
+            "max_timestamp": "2025-01-03T09:47:10Z"
         },
         {
             "Unnamed: 0": 81,
-            "shop": "bag",
+            "shop": "pasta",
             "count": 1,
-            "max_timestamp": "2023-02-09T10:57:50Z"
+            "max_timestamp": "2024-03-14T17:04:28Z"
         },
         {
             "Unnamed: 0": 82,
@@ -802,6 +802,12 @@
         },
         {
             "Unnamed: 0": 93,
+            "shop": "bag",
+            "count": 1,
+            "max_timestamp": "2023-02-09T10:57:50Z"
+        },
+        {
+            "Unnamed: 0": 94,
             "shop": "no",
             "count": 1,
             "max_timestamp": "2020-05-10T13:34:06Z"
@@ -812,31 +818,31 @@
             "Unnamed: 0": 0,
             "cuisine": "italian",
             "count": 34,
-            "max_timestamp": "2025-03-03T20:01:01Z"
+            "max_timestamp": "2025-03-27T09:47:49Z"
         },
         {
             "Unnamed: 0": 1,
             "cuisine": "pizza",
-            "count": 32,
-            "max_timestamp": "2025-03-21T10:57:41Z"
+            "count": 33,
+            "max_timestamp": "2025-03-30T13:52:11Z"
         },
         {
             "Unnamed: 0": 2,
             "cuisine": "kebab",
-            "count": 18,
+            "count": 17,
             "max_timestamp": "2025-03-08T16:45:22Z"
         },
         {
             "Unnamed: 0": 3,
             "cuisine": "regional",
             "count": 16,
-            "max_timestamp": "2025-03-24T12:52:37Z"
+            "max_timestamp": "2025-03-27T09:47:49Z"
         },
         {
             "Unnamed: 0": 4,
             "cuisine": "coffee_shop",
             "count": 7,
-            "max_timestamp": "2025-03-21T09:17:46Z"
+            "max_timestamp": "2025-03-27T09:47:49Z"
         },
         {
             "Unnamed: 0": 5,
@@ -848,7 +854,7 @@
             "Unnamed: 0": 6,
             "cuisine": "piadina",
             "count": 5,
-            "max_timestamp": "2025-03-19T10:00:55Z"
+            "max_timestamp": "2025-03-28T10:09:08Z"
         },
         {
             "Unnamed: 0": 7,
@@ -972,48 +978,42 @@
         },
         {
             "Unnamed: 0": 27,
-            "cuisine": "romagnola",
-            "count": 1,
-            "max_timestamp": "2024-12-22T13:28:41Z"
-        },
-        {
-            "Unnamed: 0": 28,
             "cuisine": "steak_house",
             "count": 1,
             "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
-            "Unnamed: 0": 29,
+            "Unnamed: 0": 28,
             "cuisine": "mediterranean",
             "count": 1,
             "max_timestamp": "2024-11-20T11:42:34Z"
         },
         {
-            "Unnamed: 0": 30,
+            "Unnamed: 0": 29,
             "cuisine": "bistro",
             "count": 1,
             "max_timestamp": "2023-12-17T14:53:36Z"
         },
         {
-            "Unnamed: 0": 31,
+            "Unnamed: 0": 30,
             "cuisine": "south_tyrolean",
             "count": 1,
             "max_timestamp": "2024-10-17T21:28:38Z"
         },
         {
-            "Unnamed: 0": 32,
+            "Unnamed: 0": 31,
             "cuisine": "fastfood",
             "count": 1,
             "max_timestamp": "2023-08-26T10:18:50Z"
         },
         {
-            "Unnamed: 0": 33,
+            "Unnamed: 0": 32,
             "cuisine": "noodle",
             "count": 1,
             "max_timestamp": "2024-09-01T20:09:37Z"
         },
         {
-            "Unnamed: 0": 34,
+            "Unnamed: 0": 33,
             "cuisine": "fusion",
             "count": 1,
             "max_timestamp": "2024-11-29T22:00:47Z"
@@ -1194,13 +1194,13 @@
             "Unnamed: 0": 0,
             "tourism": "guest_house",
             "count": 46,
-            "max_timestamp": "2025-03-25T08:49:26Z"
+            "max_timestamp": "2025-03-26T12:37:49Z"
         },
         {
             "Unnamed: 0": 1,
             "tourism": "hotel",
-            "count": 29,
-            "max_timestamp": "2025-01-18T19:39:15Z"
+            "count": 30,
+            "max_timestamp": "2025-03-26T09:34:25Z"
         },
         {
             "Unnamed: 0": 2,
@@ -1360,7 +1360,7 @@
             "Unnamed: 0": 0,
             "healthcare": "pharmacy",
             "count": 140,
-            "max_timestamp": "2025-02-26T18:36:16Z"
+            "max_timestamp": "2025-03-28T10:39:17Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1690,7 +1690,7 @@
             "Unnamed: 0": 2,
             "guest_house": "agritourism",
             "count": 4,
-            "max_timestamp": "2025-03-25T08:49:26Z"
+            "max_timestamp": "2025-03-26T12:37:49Z"
         },
         {
             "Unnamed: 0": 3,

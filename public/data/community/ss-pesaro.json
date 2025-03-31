@@ -1167,6 +1167,37 @@
             }
         },
         {
+            "type": "node",
+            "id": 12701801168,
+            "lat": 43.967739,
+            "lon": 12.7318539,
+            "timestamp": "2025-03-26T09:34:25Z",
+            "version": 2,
+            "changeset": 164112793,
+            "user": "Marco Barulli",
+            "uid": 1768045,
+            "tags": {
+                "addr:city": "Cattolica",
+                "addr:housenumber": "115",
+                "addr:postcode": "47841",
+                "addr:street": "Via Giosu\u00e8 Carducci",
+                "air_conditioning": "yes",
+                "bar": "yes",
+                "currency:XBT": "yes",
+                "email": "info@hboston.it",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "Hotel Boston",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0541 961152",
+                "survey:date": "2025-03-26",
+                "tourism": "hotel",
+                "website": "https://www.hboston.it"
+            }
+        },
+        {
             "type": "way",
             "id": 223648945,
             "timestamp": "2025-01-06T14:43:22Z",
