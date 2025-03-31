@@ -743,11 +743,11 @@
             "id": 2204351633,
             "lat": 45.4348547,
             "lon": 9.0931866,
-            "timestamp": "2025-03-21T12:35:42Z",
-            "version": 5,
-            "changeset": 163904095,
-            "user": "flottershy",
-            "uid": 22008718,
+            "timestamp": "2025-03-26T08:03:47Z",
+            "version": 6,
+            "changeset": 164109707,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "addr:city": "Corsico",
                 "addr:housenumber": "48/50",
@@ -757,7 +757,7 @@
                 "opening_hours": "Mo-Su 09:00-20:00",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics",
-                "website": "http://shunfa.it"
+                "website": "https://www.shunfa.it/"
             }
         },
         {
@@ -2181,30 +2181,6 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 6170203902,
-            "lat": 45.5679624,
-            "lon": 8.0780618,
-            "timestamp": "2023-04-27T10:07:57Z",
-            "version": 3,
-            "changeset": 135420415,
-            "user": "Chiarant",
-            "uid": 18452174,
-            "tags": {
-                "addr:city": "Biella",
-                "addr:housenumber": "66bis",
-                "addr:postcode": "13900",
-                "addr:street": "Via Milano",
-                "check_date": "2023-04-27",
-                "currency:XBT": "yes",
-                "email": "nonsolocalcio@libero.it",
-                "name": "Fuorigioco Non Solo Calcio",
-                "phone": "+39 015 8409365",
-                "shop": "sports",
-                "website": "https://www.fuorigiocononsolocalcio.it/"
             }
         },
         {
