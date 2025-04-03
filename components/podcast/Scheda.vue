@@ -16,6 +16,10 @@ defineProps(["podc"]);
 					class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
 				/>
 				</div>
+				<!-- Description section -->
+				<p v-if="podc.descrizione" class="mt-4 text-sm text-gray-600">
+					{{ podc.descrizione }}
+				</p>
 			</NuxtLink>
 		</div>
 	</div>

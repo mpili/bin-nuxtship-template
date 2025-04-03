@@ -47,6 +47,12 @@ useHead({
           class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
         />
       </div>
+      
+      <!-- Description section -->
+      <div v-if="podc.descrizione" class="mb-6">
+        <p class="text-gray-700">{{ podc.descrizione }}</p>
+      </div>
+
       <OsnTagwebsite
         v-if="podc.sito"
         :url="podc.sito"
