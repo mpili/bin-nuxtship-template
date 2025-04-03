@@ -584,11 +584,11 @@
             "id": 9631522101,
             "lat": 43.8412423,
             "lon": 10.6167649,
-            "timestamp": "2024-07-05T19:42:51Z",
-            "version": 6,
-            "changeset": 153602448,
-            "user": "mauropili",
-            "uid": 1496865,
+            "timestamp": "2025-04-01T06:45:23Z",
+            "version": 7,
+            "changeset": 164359203,
+            "user": "GBAB",
+            "uid": 3335899,
             "tags": {
                 "addr:city": "Porcari",
                 "addr:housenumber": "5",
@@ -601,8 +601,10 @@
                 "currency:XBT": "yes",
                 "name": "Pasticceria Petit Regina",
                 "opening_hours": "Tu-Su 08:00-20:00",
+                "operator": "Pasticceria Regina s.r.l.",
                 "payment:lightning": "yes",
-                "payment:onchain": "yes"
+                "payment:onchain": "yes",
+                "ref:vatin": "IT02385600461"
             }
         },
         {

@@ -2191,9 +2191,9 @@
             "id": 12687606433,
             "lat": 44.5181428,
             "lon": 11.341917,
-            "timestamp": "2025-03-21T14:40:38Z",
-            "version": 1,
-            "changeset": 163909539,
+            "timestamp": "2025-04-02T13:32:34Z",
+            "version": 2,
+            "changeset": 164421795,
             "user": "quibitcoin",
             "uid": 2201521,
             "tags": {
@@ -2202,9 +2202,7 @@
                 "addr:postcode": "40129",
                 "addr:street": "Via dell'Arcoveggio",
                 "currency:XBT": "yes",
-                "description": "Fisioterapia a domicilio.",
-                "email": "antimo.andriani1@gmail.com",
-                "name": "Andriani",
+                "name": "Fisioterapia a domicilio",
                 "office": "therapist",
                 "phone": "+39 3299699161"
             }
@@ -2278,11 +2276,11 @@
         {
             "type": "way",
             "id": 151931064,
-            "timestamp": "2021-10-27T12:33:24Z",
-            "version": 3,
-            "changeset": 113036215,
-            "user": "gabriele_sani",
-            "uid": 7078274,
+            "timestamp": "2025-04-01T07:26:14Z",
+            "version": 4,
+            "changeset": 164360630,
+            "user": "Danysan95",
+            "uid": 4425563,
             "nodes": [
                 1647692652,
                 1647692687,
@@ -2312,6 +2310,7 @@
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "building": "yes",
+                "check_date": "2025-03-31",
                 "name": "Conad Arena",
                 "operator": "Conad",
                 "shop": "supermarket",
