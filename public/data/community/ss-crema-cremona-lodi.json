@@ -2483,6 +2483,33 @@
         },
         {
             "type": "node",
+            "id": 6800613234,
+            "lat": 45.6595322,
+            "lon": 10.0477095,
+            "timestamp": "2025-04-04T08:22:03Z",
+            "version": 4,
+            "changeset": 164496332,
+            "user": "Villaggio Bitcoin",
+            "uid": 17001488,
+            "tags": {
+                "addr:city": "Iseo",
+                "addr:housenumber": "19",
+                "addr:postcode": "25049",
+                "addr:street": "Via Porto Gabriele Rosa",
+                "amenity": "bar",
+                "check_date": "2024-06-08",
+                "contact:phone": "+39 030 980 1",
+                "currency:XBT": "yes",
+                "name": "Bar Lume",
+                "operator": "Smart Up Srls",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "smoking": "outside"
+            }
+        },
+        {
+            "type": "node",
             "id": 6852717735,
             "lat": 45.481093,
             "lon": 9.1728847,
