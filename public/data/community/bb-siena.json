@@ -1,8 +1,14 @@
 {
-    "id": "siena",
-    "name": "Siena",
+    "id": "bb-siena",
+    "name": "Bitcoin Beer Siena",
     "lng": 43.3082,
     "lat": 11.3293,
+    "localita": "Siena",
+    "idlocalita": "siena",
+    "telegram_weburl": "https://web.telegram.org/k/#@bitcoinbeersiena",
+    "telegram_app": "https://t.me/bitcoinbeersiena",
+    "telegram_members": 18.0,
+    "network": "bitcoinbeer",
     "poi": [
         {
             "type": "node",
@@ -732,12 +738,5 @@
             }
         }
     ],
-    "telegram": [
-        {
-            "telegram": "ss-toscana-sud"
-        },
-        {
-            "telegram": "bb-siena"
-        }
-    ]
+    "telegram": []
 }

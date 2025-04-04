@@ -123,10 +123,10 @@
 		<LPopup><NuxtLink to="/c/bc-modena">Bitcoin and crypto Modena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.4859, 10.92615487]">
-		<LPopup><NuxtLink to="/c/ss-modena">Satoshi Spritz Modena</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bm-modena">Bitcoin Meetup Modena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.4859, 10.92615487]">
-		<LPopup><NuxtLink to="/c/bm-modena">Bitcoin Meetup Modena</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/ss-modena">Satoshi Spritz Modena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.8050923, 13.5329932]">
 		<LPopup><NuxtLink to="/c/bb-monfalcone">BitcoinMonfalcone.it</NuxtLink></LPopup>
@@ -137,11 +137,11 @@
 	<LMarker :lat-lng="[40.7951762, 14.3694801]">
 		<LPopup><NuxtLink to="/c/bb-paesi-vesuviani">Bitcoin Beer Paesi Vesuviani</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[40.8517746, 14.2681244]">
-		<LPopup><NuxtLink to="/c/ss-napoli">Satoshi Spritz Napoli</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[40.7951762, 14.3694801]">
 		<LPopup><NuxtLink to="/c/bh-napoli">Bitcoin Hub Napoli</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[40.8517746, 14.2681244]">
+		<LPopup><NuxtLink to="/c/ss-napoli">Satoshi Spritz Napoli</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.4433, 8.6162]">
 		<LPopup><NuxtLink to="/c/ss-novara">Satoshi Spritz Novara</NuxtLink></LPopup>
@@ -196,6 +196,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[45.8596, 11.0608]">
 		<LPopup><NuxtLink to="/c/ss-rovereto-e-trento">SatoshiSpritz Rovereto e Trento (TN)</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.3082, 11.3293]">
+		<LPopup><NuxtLink to="/c/bb-siena">Bitcoin Beer Siena</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/c/ss-savona">Satoshi Spritz Savona</NuxtLink></LPopup>

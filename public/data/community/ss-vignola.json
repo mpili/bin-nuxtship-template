@@ -2212,9 +2212,9 @@
             "id": 11255129975,
             "lat": 44.2247643,
             "lon": 11.0680552,
-            "timestamp": "2024-09-24T12:00:06Z",
-            "version": 21,
-            "changeset": 157036336,
+            "timestamp": "2025-04-02T10:45:19Z",
+            "version": 22,
+            "changeset": 164414938,
             "user": "Michele Cati",
             "uid": 20445873,
             "tags": {
@@ -2223,7 +2223,7 @@
                 "addr:postcode": "40030",
                 "addr:street": "Via Archetta",
                 "addr:unit": "f",
-                "check_date": "2024-09-24",
+                "check_date": "2025-04-02",
                 "check_date:currency:XBT": "2024-09-22",
                 "currency:EPIC": "yes",
                 "currency:ETH": "yes",
@@ -2241,7 +2241,7 @@
                 "phone": "+39 34 8728 1656",
                 "rooms": "2",
                 "tourism": "guest_house",
-                "website": "https://airbnb.com/h/labalconcina"
+                "website": "https://www.labalconcina.it"
             }
         },
         {
@@ -2249,17 +2249,17 @@
             "id": 11255256454,
             "lat": 44.2308577,
             "lon": 11.053126,
-            "timestamp": "2024-10-29T21:28:56Z",
-            "version": 10,
-            "changeset": 158517708,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-04-02T10:50:36Z",
+            "version": 12,
+            "changeset": 164415174,
+            "user": "Michele Cati",
+            "uid": 20445873,
             "tags": {
                 "addr:city": "Vergato",
                 "addr:housenumber": "351",
                 "addr:postcode": "40038",
                 "addr:street": "Via Castagnoli",
-                "check_date": "2024-10-29",
+                "check_date": "2025-04-02",
                 "check_date:currency:XBT": "2024-10-29",
                 "contact:email": "michele@michelecati.com",
                 "craft": "photographer",
@@ -2274,7 +2274,7 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 34 8728 1656",
-                "website": "https://www.michelecati.com/"
+                "website": "https://www.michelecati.com"
             }
         },
         {
@@ -2282,9 +2282,9 @@
             "id": 11255281367,
             "lat": 44.2036469,
             "lon": 11.0591517,
-            "timestamp": "2024-08-17T14:11:25Z",
-            "version": 15,
-            "changeset": 155373005,
+            "timestamp": "2025-04-02T10:49:10Z",
+            "version": 17,
+            "changeset": 164415110,
             "user": "Michele Cati",
             "uid": 20445873,
             "tags": {
@@ -2293,8 +2293,8 @@
                 "addr:postcode": "40032",
                 "addr:street": "Ponte di Verzuno",
                 "addr:unit": "b",
-                "check_date": "2024-05-01",
-                "check_date:currency:XBT": "2024-05-01",
+                "check_date": "2025-04-02",
+                "check_date:currency:XBT": "2025-04-02",
                 "contact:email": "info@mieleinformatica.com",
                 "currency:EPIC": "yes",
                 "currency:ETH": "yes",
@@ -2308,7 +2308,7 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8728 1656",
                 "ref:vatin": "03667231207",
-                "website": "https://www.mieleinformatica.com/"
+                "website": "https://www.mieleinformatica.com"
             }
         },
         {
@@ -2816,9 +2816,9 @@
             "id": 12687606433,
             "lat": 44.5181428,
             "lon": 11.341917,
-            "timestamp": "2025-03-21T14:40:38Z",
-            "version": 1,
-            "changeset": 163909539,
+            "timestamp": "2025-04-02T13:32:34Z",
+            "version": 2,
+            "changeset": 164421795,
             "user": "quibitcoin",
             "uid": 2201521,
             "tags": {
@@ -2827,9 +2827,7 @@
                 "addr:postcode": "40129",
                 "addr:street": "Via dell'Arcoveggio",
                 "currency:XBT": "yes",
-                "description": "Fisioterapia a domicilio.",
-                "email": "antimo.andriani1@gmail.com",
-                "name": "Andriani",
+                "name": "Fisioterapia a domicilio",
                 "office": "therapist",
                 "phone": "+39 3299699161"
             }

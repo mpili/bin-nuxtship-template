@@ -74,6 +74,8 @@ const podcasts = [
     nome: "Il truffone",
     url: "/podc/il-truffone",
     img: "/img/podcast/il-truffone.jpg",
+    descrizione:
+      "Il Podcast di Francesco Carbone per navigare consapevolmente e con successo il più grande esperimento economico di tutti i tempi. C’è qualcosa nell’economia e nella società che non funziona più per il verso giusto: scopri cosa è, quindi impara a difenderti, a sfruttare la situazione a tuo vantaggio e ad orientarti al meglio per trovare la tua soluzione individuale.",
   },
 
   {
