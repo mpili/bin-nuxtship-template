@@ -9,8 +9,8 @@
         {
             "Unnamed: 0": 1,
             "amenity": "restaurant",
-            "count": 91,
-            "max_timestamp": "2025-03-27T09:47:49Z"
+            "count": 94,
+            "max_timestamp": "2025-04-11T17:12:02Z"
         },
         {
             "Unnamed: 0": 2,
@@ -172,7 +172,7 @@
             "Unnamed: 0": 28,
             "amenity": "bureau_de_change",
             "count": 1,
-            "max_timestamp": "2025-04-02T06:40:54Z"
+            "max_timestamp": "2025-04-07T00:38:36Z"
         },
         {
             "Unnamed: 0": 29,
@@ -257,32 +257,32 @@
         {
             "Unnamed: 0": 0,
             "shop": "electronics",
-            "count": 351,
-            "max_timestamp": "2025-04-04T16:45:01Z"
+            "count": 350,
+            "max_timestamp": "2025-04-08T19:38:09Z"
         },
         {
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 325,
-            "max_timestamp": "2025-04-01T07:26:14Z"
+            "max_timestamp": "2025-04-05T10:42:03Z"
         },
         {
             "Unnamed: 0": 2,
             "shop": "clothes",
-            "count": 259,
+            "count": 258,
             "max_timestamp": "2025-03-22T10:05:06Z"
         },
         {
             "Unnamed: 0": 3,
             "shop": "sports",
             "count": 80,
-            "max_timestamp": "2025-03-09T16:33:50Z"
+            "max_timestamp": "2025-04-06T13:56:09Z"
         },
         {
             "Unnamed: 0": 4,
             "shop": "furniture",
-            "count": 54,
-            "max_timestamp": "2025-03-11T06:14:59Z"
+            "count": 55,
+            "max_timestamp": "2025-04-05T11:20:54Z"
         },
         {
             "Unnamed: 0": 5,
@@ -306,7 +306,7 @@
             "Unnamed: 0": 8,
             "shop": "hairdresser",
             "count": 13,
-            "max_timestamp": "2025-02-20T14:17:43Z"
+            "max_timestamp": "2025-04-09T19:29:44Z"
         },
         {
             "Unnamed: 0": 9,
@@ -828,15 +828,15 @@
     "cuisine": [
         {
             "Unnamed: 0": 0,
-            "cuisine": "italian",
-            "count": 34,
-            "max_timestamp": "2025-03-27T09:47:49Z"
+            "cuisine": "pizza",
+            "count": 36,
+            "max_timestamp": "2025-04-11T17:12:02Z"
         },
         {
             "Unnamed: 0": 1,
-            "cuisine": "pizza",
-            "count": 33,
-            "max_timestamp": "2025-03-30T13:52:11Z"
+            "cuisine": "italian",
+            "count": 34,
+            "max_timestamp": "2025-04-04T19:20:43Z"
         },
         {
             "Unnamed: 0": 2,
@@ -1034,15 +1034,15 @@
     "office": [
         {
             "Unnamed: 0": 0,
-            "office": "accountant",
-            "count": 15,
-            "max_timestamp": "2025-01-07T20:05:01Z"
-        },
-        {
-            "Unnamed: 0": 1,
             "office": "it",
             "count": 15,
             "max_timestamp": "2025-04-02T10:49:10Z"
+        },
+        {
+            "Unnamed: 0": 1,
+            "office": "accountant",
+            "count": 15,
+            "max_timestamp": "2025-01-07T20:05:01Z"
         },
         {
             "Unnamed: 0": 2,
@@ -1088,33 +1088,33 @@
         },
         {
             "Unnamed: 0": 9,
+            "office": "financial",
+            "count": 2,
+            "max_timestamp": "2024-01-06T11:20:43Z"
+        },
+        {
+            "Unnamed: 0": 10,
             "office": "financial_advisor",
             "count": 2,
             "max_timestamp": "2025-01-23T15:27:43Z"
         },
         {
-            "Unnamed: 0": 10,
+            "Unnamed: 0": 11,
             "office": "yes",
             "count": 2,
             "max_timestamp": "2025-03-17T19:00:14Z"
         },
         {
-            "Unnamed: 0": 11,
+            "Unnamed: 0": 12,
             "office": "association",
             "count": 2,
             "max_timestamp": "2025-01-02T21:11:02Z"
         },
         {
-            "Unnamed: 0": 12,
+            "Unnamed: 0": 13,
             "office": "therapist",
             "count": 2,
             "max_timestamp": "2025-04-02T13:32:34Z"
-        },
-        {
-            "Unnamed: 0": 13,
-            "office": "financial",
-            "count": 2,
-            "max_timestamp": "2024-01-06T11:20:43Z"
         },
         {
             "Unnamed: 0": 14,
@@ -1136,9 +1136,9 @@
         },
         {
             "Unnamed: 0": 17,
-            "office": "occupational_safety",
+            "office": "private_investigator",
             "count": 1,
-            "max_timestamp": "2024-09-25T08:19:37Z"
+            "max_timestamp": "2023-07-10T19:00:14Z"
         },
         {
             "Unnamed: 0": 18,
@@ -1178,27 +1178,33 @@
         },
         {
             "Unnamed: 0": 24,
+            "office": "engineering",
+            "count": 1,
+            "max_timestamp": "2025-04-11T15:58:31Z"
+        },
+        {
+            "Unnamed: 0": 25,
             "office": "construction_company",
             "count": 1,
             "max_timestamp": "2025-02-23T22:50:17Z"
         },
         {
-            "Unnamed: 0": 25,
+            "Unnamed: 0": 26,
             "office": "travel_agent",
             "count": 1,
             "max_timestamp": "2025-02-28T16:19:00Z"
         },
         {
-            "Unnamed: 0": 26,
+            "Unnamed: 0": 27,
             "office": "guide",
             "count": 1,
             "max_timestamp": "2025-03-20T06:49:48Z"
         },
         {
-            "Unnamed: 0": 27,
-            "office": "private_investigator",
+            "Unnamed: 0": 28,
+            "office": "occupational_safety",
             "count": 1,
-            "max_timestamp": "2023-07-10T19:00:14Z"
+            "max_timestamp": "2024-09-25T08:19:37Z"
         }
     ],
     "tourism": [
@@ -1206,7 +1212,7 @@
             "Unnamed: 0": 0,
             "tourism": "guest_house",
             "count": 46,
-            "max_timestamp": "2025-04-02T10:45:19Z"
+            "max_timestamp": "2025-04-05T12:43:59Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1702,7 +1708,7 @@
             "Unnamed: 0": 2,
             "guest_house": "agritourism",
             "count": 4,
-            "max_timestamp": "2025-03-26T12:37:49Z"
+            "max_timestamp": "2025-04-05T12:43:59Z"
         },
         {
             "Unnamed: 0": 3,

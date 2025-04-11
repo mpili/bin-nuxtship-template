@@ -7,7 +7,7 @@
     "idlocalita": "faenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001836800144",
     "telegram_app": "https://t.me/bitcoinbeerfaenza",
-    "telegram_members": 249.0,
+    "telegram_members": 248.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -709,6 +709,31 @@
                 "service:heating_maintenance": "yes",
                 "survey:date": "2023-06-27",
                 "website": "https://tecnogasravenna.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4762181065,
+            "lat": 44.3709626,
+            "lon": 11.7303471,
+            "timestamp": "2025-04-07T21:44:58Z",
+            "version": 3,
+            "changeset": 164654037,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:city": "Imola",
+                "addr:housenumber": "37b",
+                "addr:street": "Via Provinciale Selice",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "check_date": "2025-04-01",
+                "email": "imola@trony.it",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0542 643413",
+                "shop": "electronics",
+                "website": "https://www.trony.it/imola-TRO422/"
             }
         },
         {
@@ -1455,29 +1480,6 @@
                 "payment:onchain": "no",
                 "phone": "+39 051 230650",
                 "survey:date": "2025-02-09"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10107265324,
-            "lat": 44.3709846,
-            "lon": 11.7299301,
-            "timestamp": "2025-01-02T22:03:17Z",
-            "version": 3,
-            "changeset": 160927839,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Imola",
-                "addr:housenumber": "2",
-                "addr:postcode": "40026",
-                "addr:street": "Via Giacomo Brodolini",
-                "email": "imola@trony.it",
-                "name": "Trony",
-                "operator": "Trony",
-                "phone": "+39 0542 643413",
-                "shop": "electronics",
-                "website": "https://www.trony.it/online/store/TRO422_A"
             }
         },
         {
