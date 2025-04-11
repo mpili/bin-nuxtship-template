@@ -7,7 +7,7 @@
     "idlocalita": "genova",
     "telegram_weburl": "https://web.telegram.org/k/#@satoshispritzgenova",
     "telegram_app": "https://t.me/satoshispritzgenova",
-    "telegram_members": 29.0,
+    "telegram_members": 30.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -286,6 +286,33 @@
                 "opening_hours": "Mo-Sa 09:00-12:30,15:00-19:00",
                 "operator": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2947470708,
+            "lat": 44.4082384,
+            "lon": 8.932806,
+            "timestamp": "2025-04-11T15:58:31Z",
+            "version": 13,
+            "changeset": 164823017,
+            "user": "OFFICINE IADR",
+            "uid": 2164478,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "19/8",
+                "addr:postcode": "16123",
+                "addr:street": "Salita San Matteo",
+                "contact:email": "info@officineiadr.com",
+                "contact:website": "http://www.officineiadr.com",
+                "currency:XBT": "yes",
+                "name": "Officine IADR",
+                "office": "engineering",
+                "opening_hours": "Mo-Fr 09:00-18:00",
+                "payment:bitcoin": "yes",
+                "payment:coins": "yes",
+                "phone": "+39 010 2473385",
+                "website": "http://www.officineiadr.com"
             }
         },
         {

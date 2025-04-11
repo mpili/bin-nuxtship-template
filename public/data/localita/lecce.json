@@ -338,14 +338,14 @@
             "id": 12634087232,
             "lat": 40.4984062,
             "lon": 17.6435153,
-            "timestamp": "2025-03-03T20:01:01Z",
-            "version": 2,
-            "changeset": 163176104,
-            "user": "SalentoBitcoin",
-            "uid": 22583613,
+            "timestamp": "2025-04-04T19:20:43Z",
+            "version": 3,
+            "changeset": 164525417,
+            "user": "Christoph Lotz",
+            "uid": 47978,
             "tags": {
                 "addr:city": "Oria",
-                "addr:country": "italy",
+                "addr:country": "IT",
                 "addr:postcode": "72024",
                 "addr:street": "Via Roma",
                 "amenity": "restaurant",
@@ -438,6 +438,32 @@
                 "payment:onchain": "yes",
                 "phone": "+393331279593",
                 "website": "https://www.seatourgallipoli.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12748254096,
+            "lat": 40.3410681,
+            "lon": 18.1611092,
+            "timestamp": "2025-04-11T17:12:02Z",
+            "version": 1,
+            "changeset": 164826262,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "3",
+                "addr:postcode": "73100",
+                "addr:street": "Via Vecchia San Pietro in Lama",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Mozzar\u00e8 Pizzeria",
+                "opening_hours": "venerd\u00ec\t17:30\u201300 sabato\t17:30\u201300 domenica\t17:30\u201300 luned\u00ec\t17:30\u201300 marted\u00ec\t17:30\u201300 mercoled\u00ec\t17:30\u201300 gioved\u00ec\t17:30\u201300",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "3270966653",
+                "website:menu": "https://sites.google.com/view/mozzare-pizzeria-lecce/home/menu?authuser=0"
             }
         },
         {
@@ -603,6 +629,76 @@
                 "opening_hours": "Mo,Tu,We,Fr,Sa 07:30-13:30,16:30-20:00; Th 07:30-13:30",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1376448386,
+            "timestamp": "2025-04-10T11:56:09Z",
+            "version": 1,
+            "changeset": 164765176,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "nodes": [
+                12744504184,
+                12744504185,
+                12744504186,
+                12744504187,
+                12744504188,
+                12744504184
+            ],
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "13",
+                "addr:postcode": "73100",
+                "addr:street": "Via Basento",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "delivery": "yes",
+                "facebook": "https://www.facebook.com/pizzapoplecce/?locale=it_IT",
+                "instagram": "https://www.instagram.com/_pizzapoplecce_/",
+                "name": "Pizza Pop",
+                "payment:lightning": "yes",
+                "phone": "3939988886",
+                "service_times": "gioved\u00ec\t17:30\u201300 venerd\u00ec\t17:30\u201300 sabato\t17:30\u201300 domenica\t17:30\u201300 luned\u00ec\t17:30\u201300 marted\u00ec\t17:30\u201300 mercoled\u00ec\t19:30\u201323:30",
+                "website:menu": "https://sites.google.com/view/pizzapoplecce/menu"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1376714131,
+            "timestamp": "2025-04-11T11:52:27Z",
+            "version": 1,
+            "changeset": 164812263,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "nodes": [
+                12747616543,
+                12747616544,
+                12747616545,
+                12747616546,
+                12747616547,
+                12747616548,
+                12747616543
+            ],
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "7",
+                "addr:postcode": "73100",
+                "addr:street": "Via Attilio Biasco",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "YAAM Pizzeria a domicilio",
+                "opening_hours": "gioved\u00ec,17:30\u201300",
+                "operator": "Salento Bitcoin",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "3932224477",
+                "website": "http://www.yaamlecce.it/"
             }
         }
     ],
