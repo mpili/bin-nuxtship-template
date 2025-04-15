@@ -20,7 +20,6 @@ definePageMeta({
   layout: "main",
 });
 
-
 const breadcrumb = computed(() => [
   {
     label: "eventi",
@@ -54,16 +53,18 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     </div>
     <div v-else>
       <div v-for="evento in data" class="py-4">
-        <UiEvent
-          :event="{
-            date: evento?.event_date,
-            title: evento.title,
-            image: evento.locandina,
-            description: evento.venue,
-            location: evento.address,
-            city: evento?.city,
-          }"
-        />
+        <NuxtLink :href="`https://bitcoinbeer.events/event/${evento.id}`">
+          <UiEvent
+            :event="{
+              date: evento?.event_date,
+              title: evento.title,
+              image: evento.locandina,
+              description: evento.venue,
+              location: evento.address,
+              city: evento?.city,
+            }"
+          />
+        </NuxtLink>
         <!-- <h2>{{ evento.title }}</h2>
         <p>id: {{ evento.id }}, tag: {{ evento.tag }}</p>
         <p>{{ evento.description }}</p>
@@ -75,7 +76,6 @@ const { pending, data, error } = await useLazyFetch(url_api, {
         <p>
           latitude: {{ evento.latitude }}, longitude: {{ evento.longitude }}
         </p> -->
-
       </div>
       <!-- {{ data }} -->
     </div>

@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 92.0,
+    "telegram_members": 109.0,
     "poi": [
         {
             "type": "node",
@@ -552,9 +552,9 @@
             "id": 12748254096,
             "lat": 40.3410681,
             "lon": 18.1611092,
-            "timestamp": "2025-04-11T17:12:02Z",
-            "version": 1,
-            "changeset": 164826262,
+            "timestamp": "2025-04-13T10:04:58Z",
+            "version": 2,
+            "changeset": 164886942,
             "user": "SalentoBitcoin",
             "uid": 22583613,
             "tags": {
@@ -567,6 +567,7 @@
                 "currency:XBT": "yes",
                 "name": "Mozzar\u00e8 Pizzeria",
                 "opening_hours": "venerd\u00ec\t17:30\u201300 sabato\t17:30\u201300 domenica\t17:30\u201300 luned\u00ec\t17:30\u201300 marted\u00ec\t17:30\u201300 mercoled\u00ec\t17:30\u201300 gioved\u00ec\t17:30\u201300",
+                "operator": "Salento Bitcoin",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "3270966653",
@@ -709,9 +710,9 @@
         {
             "type": "way",
             "id": 1376448386,
-            "timestamp": "2025-04-10T11:56:09Z",
-            "version": 1,
-            "changeset": 164765176,
+            "timestamp": "2025-04-13T10:04:58Z",
+            "version": 2,
+            "changeset": 164886942,
             "user": "SalentoBitcoin",
             "uid": 22583613,
             "nodes": [
@@ -735,6 +736,7 @@
                 "facebook": "https://www.facebook.com/pizzapoplecce/?locale=it_IT",
                 "instagram": "https://www.instagram.com/_pizzapoplecce_/",
                 "name": "Pizza Pop",
+                "operator": "Salento Bitcoin",
                 "payment:lightning": "yes",
                 "phone": "3939988886",
                 "service_times": "gioved\u00ec\t17:30\u201300 venerd\u00ec\t17:30\u201300 sabato\t17:30\u201300 domenica\t17:30\u201300 luned\u00ec\t17:30\u201300 marted\u00ec\t17:30\u201300 mercoled\u00ec\t19:30\u201323:30",
