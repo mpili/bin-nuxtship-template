@@ -34,6 +34,8 @@ useHead({
     </LandingSectionhead>
     <LandingBreadcrumb :voci="breadcrumb" />
 
+    <EventiBb v-if="props.meetup.idmeetup=='bitcoinbeer'" />
+
     <div v-if="meetup.descrizione">
       <div v-html="meetup.descrizione" class="pt-4"></div>
     </div>
