@@ -6,45 +6,63 @@ useHead({
 definePageMeta({
   layout: "main",
 });
+
+const currentDate = ref(new Date());
+const currentMonth = computed(() => currentDate.value.getMonth());
+const currentYear = computed(() => currentDate.value.getFullYear());
+
+const daysInMonth = computed(() => {
+  return new Date(currentYear.value, currentMonth.value + 1, 0).getDate();
+});
+
+const firstDayOfMonth = computed(() => {
+  return new Date(currentYear.value, currentMonth.value, 1).getDay();
+});
+
+const monthName = computed(() => {
+  return new Intl.DateTimeFormat('en-US', { month: 'long' }).format(currentDate.value);
+});
+
+const calendarDays = computed(() => {
+  const days = [];
+  // Add empty cells for days before the first day of the month
+  for (let i = 0; i < firstDayOfMonth.value; i++) {
+    days.push(null);
+  }
+  // Add the days of the month
+  for (let i = 1; i <= daysInMonth.value; i++) {
+    days.push(i);
+  }
+  return days;
+});
 </script>
 
 <template>
   <LandingContainer>
     <div class="divide-y divide-gray-300/50">
-      
-      <UiCard
-        imageSrc="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-        imageAlt="Shoes"
-        title="Shoes!"
-        description="If a dog chews shoes whose shoes does he choose?"
-        buttonText="Buy Now"
-      />
-
-      <div class="collapse bg-base-200">
-        <input type="radio" name="my-accordion-1" checked="checked" />
-        <div class="collapse-title text-xl font-medium">
-          Click to open this one and close others
-        </div>
-        <div class="collapse-content">
-          <p>hello</p>
-        </div>
-      </div>
-      <div class="collapse bg-base-200">
-        <input type="radio" name="my-accordion-1" />
-        <div class="collapse-title text-xl font-medium">
-          Click to open this one and close others
-        </div>
-        <div class="collapse-content">
-          <p>hello</p>
-        </div>
-      </div>
-      <div class="collapse bg-base-200">
-        <input type="radio" name="my-accordion-1" />
-        <div class="collapse-title text-xl font-medium">
-          Click to open this one and close others
-        </div>
-        <div class="collapse-content">
-          <p>hello</p>
+      <!-- Calendar Section -->
+      <div class="mb-8">
+        <div class="flex justify-center">
+          <div class="card bg-base-100 shadow-xl">
+            <div class="card-body">
+              <h2 class="card-title">{{ monthName }} {{ currentYear }}</h2>
+              <div class="grid grid-cols-7 text-center gap-2 my-4">
+                <div class="font-bold">Sun</div>
+                <div class="font-bold">Mon</div>
+                <div class="font-bold">Tue</div>
+                <div class="font-bold">Wed</div>
+                <div class="font-bold">Thu</div>
+                <div class="font-bold">Fri</div>
+                <div class="font-bold">Sat</div>
+                <template v-for="(day, index) in calendarDays" :key="index">
+                  <div v-if="day" class="p-2 hover:bg-base-200 rounded-lg cursor-pointer">
+                    <div class="border p-2">{{ day }}</div>
+                  </div>
+                  <div v-else class="p-2"></div>
+                </template>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
