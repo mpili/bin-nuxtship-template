@@ -6,6 +6,61 @@
     "poi": [
         {
             "type": "node",
+            "id": 227836703,
+            "lat": 45.595256,
+            "lon": 8.925778,
+            "timestamp": "2020-08-03T15:25:29Z",
+            "version": 4,
+            "changeset": 88883913,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227864492,
+            "lat": 45.578461,
+            "lon": 8.826061,
+            "timestamp": "2020-08-03T17:23:03Z",
+            "version": 4,
+            "changeset": 88888262,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228158099,
+            "lat": 45.728677,
+            "lon": 9.400794,
+            "timestamp": "2014-09-17T13:22:39Z",
+            "version": 3,
+            "changeset": 25500680,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 289446090,
             "lat": 45.99573,
             "lon": 8.947129,
@@ -274,6 +329,25 @@
                 "name": "Farmacia Semper Fidelis",
                 "payment:lightning": "yes",
                 "payment:onchain": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 373004907,
+            "lat": 46.0118935,
+            "lon": 8.9597563,
+            "timestamp": "2024-09-17T16:48:25Z",
+            "version": 4,
+            "changeset": 156738651,
+            "user": "Nem00",
+            "uid": 18162919,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "no",
+                "name": "Tamoil",
+                "operator": "Tamoil"
             }
         },
         {
@@ -672,6 +746,26 @@
         },
         {
             "type": "node",
+            "id": 1341959506,
+            "lat": 45.924066,
+            "lon": 8.984136,
+            "timestamp": "2015-12-01T15:16:01Z",
+            "version": 5,
+            "changeset": 35686729,
+            "user": "G4rp",
+            "uid": 2265854,
+            "tags": {
+                "addr:city": "Melano",
+                "addr:country": "CH",
+                "addr:postcode": "6818",
+                "addr:street": "Via Cantonale",
+                "amenity": "fuel",
+                "operator": "Tamoil",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 1371473059,
             "lat": 46.0050437,
             "lon": 8.9500678,
@@ -1002,6 +1096,34 @@
         },
         {
             "type": "node",
+            "id": 3030586928,
+            "lat": 45.8402328,
+            "lon": 9.0188138,
+            "timestamp": "2023-11-10T14:00:11Z",
+            "version": 6,
+            "changeset": 143864966,
+            "user": "EST19",
+            "uid": 11858459,
+            "tags": {
+                "addr:city": "Balerna",
+                "addr:country": "CH",
+                "addr:housenumber": "12",
+                "addr:postcode": "6828",
+                "addr:street": "Via San Gottardo",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "website": "https://www.tamoil.ch/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3052616204,
             "lat": 45.6804718,
             "lon": 8.7232517,
@@ -1024,6 +1146,25 @@
                 "phone": "+39 0331 255647",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3071458539,
+            "lat": 46.1136162,
+            "lon": 8.9313772,
+            "timestamp": "2019-11-17T16:57:32Z",
+            "version": 3,
+            "changeset": 77194158,
+            "user": "Laci",
+            "uid": 134881,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
             }
         },
         {
@@ -1157,6 +1298,22 @@
         },
         {
             "type": "node",
+            "id": 3323135086,
+            "lat": 45.8380803,
+            "lon": 9.0055104,
+            "timestamp": "2021-08-21T06:54:20Z",
+            "version": 2,
+            "changeset": 110014421,
+            "user": "HaPe-CZ",
+            "uid": 11276832,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
             "id": 3346719244,
             "lat": 46.0068784,
             "lon": 8.9602931,
@@ -1179,6 +1336,27 @@
                 "phone": "+41 91 966 65 41",
                 "smoking": "outside",
                 "survey:date": "2024-10-24"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3361675050,
+            "lat": 45.6119894,
+            "lon": 8.8535443,
+            "timestamp": "2020-08-03T15:25:29Z",
+            "version": 3,
+            "changeset": 88883913,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -8157,6 +8335,41 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "website": "https://forms.gle/L7FCiFEEmprTSHWs8"
+            }
+        },
+        {
+            "type": "way",
+            "id": 59468196,
+            "timestamp": "2024-12-28T15:45:53Z",
+            "version": 7,
+            "changeset": 160719124,
+            "user": "Mose53",
+            "uid": 20944140,
+            "nodes": [
+                737546080,
+                737546064,
+                1987375627,
+                1987375632,
+                1987375638,
+                737546092,
+                737545983,
+                737546080
+            ],
+            "tags": {
+                "addr:city": "Varese",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "21100",
+                "addr:street": "Via Filippo Corridoni",
+                "brand": "Eurospar",
+                "brand:wikidata": "Q12309283",
+                "building": "retail",
+                "check_date": "2024-12-28",
+                "disused:shop": "supermarket",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "phone": "+39 0332 321072",
+                "wheelchair": "yes"
             }
         },
         {

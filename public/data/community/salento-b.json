@@ -7,8 +7,26 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 109.0,
+    "telegram_members": 122.0,
     "poi": [
+        {
+            "type": "node",
+            "id": 229122362,
+            "lat": 40.7264311,
+            "lon": 17.5792123,
+            "timestamp": "2025-03-25T14:09:18Z",
+            "version": 8,
+            "changeset": 164079084,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
         {
             "type": "node",
             "id": 503101623,
@@ -58,6 +76,40 @@
         },
         {
             "type": "node",
+            "id": 1424271419,
+            "lat": 40.3640408,
+            "lon": 18.1476013,
+            "timestamp": "2021-10-30T18:26:14Z",
+            "version": 4,
+            "changeset": 113170732,
+            "user": "Ale_Zena_IT",
+            "uid": 22290,
+            "tags": {
+                "amenity": "fuel",
+                "name": "Q8",
+                "operator": "Q8",
+                "survey:date": "2021-10-24"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2364553289,
+            "lat": 40.5230606,
+            "lon": 17.434345,
+            "timestamp": "2019-05-10T12:02:37Z",
+            "version": 3,
+            "changeset": 70106931,
+            "user": "attilaimport",
+            "uid": 8727120,
+            "tags": {
+                "amenity": "fuel",
+                "fixme": "This object might have been dismantled, please check",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 4242939306,
             "lat": 40.7221146,
             "lon": 17.5776397,
@@ -76,6 +128,23 @@
                 "brand:wikidata": "Q4004687",
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4339598371,
+            "lat": 40.1256334,
+            "lon": 18.2993867,
+            "timestamp": "2020-08-19T09:29:34Z",
+            "version": 2,
+            "changeset": 89623237,
+            "user": "Michael Montani",
+            "uid": 4861141,
+            "tags": {
+                "entrance": "yes",
+                "name": "Joy Division",
+                "operator": "Expert",
                 "shop": "electronics"
             }
         },

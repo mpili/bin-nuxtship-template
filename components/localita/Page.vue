@@ -45,6 +45,8 @@ useHead({
     <LandingBreadcrumb :voci="breadcrumb" />
   </div>
 
+  <LocalitaEventi :city="data?.name" />
+
   <LocalitaMeetup :data="data" />
 
   <div class="md:w-full">

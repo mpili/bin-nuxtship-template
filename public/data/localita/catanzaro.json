@@ -6,6 +6,24 @@
     "poi": [
         {
             "type": "node",
+            "id": 227841747,
+            "lat": 38.9690858,
+            "lon": 16.307474,
+            "timestamp": "2024-03-17T10:25:12Z",
+            "version": 5,
+            "changeset": 148765332,
+            "user": "Nathan Hadley",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
             "id": 1856099793,
             "lat": 38.8432754,
             "lon": 16.6453743,
@@ -89,6 +107,22 @@
                 "operator": "Decathlon",
                 "shop": "sports",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8090970557,
+            "lat": 38.7166509,
+            "lon": 16.290759,
+            "timestamp": "2020-11-07T14:43:55Z",
+            "version": 1,
+            "changeset": 93709151,
+            "user": "rugamarcus",
+            "uid": 95387,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "operator": "Tamoil"
             }
         },
         {

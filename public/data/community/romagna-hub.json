@@ -7,9 +7,43 @@
     "idlocalita": "romagna",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBitcoinRomagnaHub",
     "telegram_app": "https://t.me/BitcoinRomagnaHub",
-    "telegram_members": 16.0,
     "network": "bitcoinbeer",
     "poi": [
+        {
+            "type": "node",
+            "id": 227906870,
+            "lat": 44.4654376,
+            "lon": 12.0889537,
+            "timestamp": "2014-09-17T13:36:16Z",
+            "version": 4,
+            "changeset": 25501059,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228170017,
+            "lat": 44.1408866,
+            "lon": 12.2284879,
+            "timestamp": "2022-06-22T06:03:57Z",
+            "version": 5,
+            "changeset": 122693807,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
         {
             "type": "node",
             "id": 264195191,
@@ -1760,6 +1794,36 @@
         },
         {
             "type": "way",
+            "id": 162973898,
+            "timestamp": "2014-12-26T14:06:19Z",
+            "version": 4,
+            "changeset": 27709008,
+            "user": "fra76mm",
+            "uid": 99231,
+            "nodes": [
+                1747608665,
+                1747608667,
+                1747608668,
+                1747608666,
+                1747608664,
+                1747608657,
+                1747608656,
+                2313381860,
+                1747608658,
+                2313381870,
+                1747608662,
+                1747608665
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "building": "yes",
+                "operator": "Q8",
+                "source": "Regione Emilia Romagna"
+            }
+        },
+        {
+            "type": "way",
             "id": 181544421,
             "timestamp": "2023-11-10T13:25:18Z",
             "version": 5,
@@ -1943,6 +2007,40 @@
                 "building": "yes",
                 "name": "Conad City",
                 "operator": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 665882922,
+            "timestamp": "2025-03-30T09:48:50Z",
+            "version": 6,
+            "changeset": 164279766,
+            "user": "Marcodago26",
+            "uid": 22604600,
+            "nodes": [
+                6233292703,
+                6233292702,
+                6233292709,
+                6233292710,
+                11053885587,
+                6233292704,
+                11053885579,
+                6233292703
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "retail",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
                 "shop": "supermarket",
                 "wheelchair": "yes"
             }

@@ -159,6 +159,25 @@
         },
         {
             "type": "node",
+            "id": 835169406,
+            "lat": 46.4882226,
+            "lon": 11.3172253,
+            "timestamp": "2022-10-18T18:54:28Z",
+            "version": 4,
+            "changeset": 127743409,
+            "user": "Strubbl",
+            "uid": 536583,
+            "tags": {
+                "brand": "Eurospar",
+                "brand:wikidata": "Q12309283",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "shop": "supermarket",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 853801236,
             "lat": 46.065984,
             "lon": 11.131204,
@@ -466,6 +485,22 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1405084833,
+            "lat": 46.1662322,
+            "lon": 11.0048515,
+            "timestamp": "2025-01-26T17:00:40Z",
+            "version": 4,
+            "changeset": 161788062,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "name": "Alimentari dal marcante",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -2254,6 +2289,30 @@
         },
         {
             "type": "way",
+            "id": 68991982,
+            "timestamp": "2020-06-11T22:20:52Z",
+            "version": 2,
+            "changeset": 86535820,
+            "user": "CCCGGG",
+            "uid": 6098724,
+            "nodes": [
+                828094196,
+                828094182,
+                828094192,
+                828094194,
+                828094196
+            ],
+            "tags": {
+                "amenity": "car_wash",
+                "automated": "yes",
+                "building": "yes",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 71520579,
             "timestamp": "2024-07-12T12:16:22Z",
             "version": 13,
@@ -2320,6 +2379,45 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "shop": "kiosk"
+            }
+        },
+        {
+            "type": "way",
+            "id": 346691433,
+            "timestamp": "2025-04-18T16:59:23Z",
+            "version": 3,
+            "changeset": 165122059,
+            "user": "PagoInBitcoin",
+            "uid": 22211788,
+            "nodes": [
+                3532174853,
+                3532174358,
+                3532174344,
+                3532175310,
+                3532175434,
+                3532175133,
+                3532175132,
+                3532175130,
+                3532174987,
+                3532174896,
+                3532174867,
+                3532174853
+            ],
+            "tags": {
+                "addr:city": "Valdagno",
+                "addr:housenumber": "0",
+                "addr:postcode": "36078",
+                "addr:street": "Viale Trento",
+                "contact:email": "zatteramirco@gmail.com",
+                "contact:telegram": "@TutticoloriMirco",
+                "craft": "painter",
+                "currency:XBT": "yes",
+                "description": "Zona Valdagno e Limitrofi. Dal Lunedi al Sabato.",
+                "name": "TuttiColoriMirco",
+                "operator": "Mirco",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "telegram": "@TutticoloriMirco"
             }
         },
         {
@@ -2424,6 +2522,96 @@
                 "room": "shop",
                 "shop": "clothes",
                 "website": "https://www.ovs.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 688209685,
+            "timestamp": "2019-05-13T16:46:26Z",
+            "version": 4,
+            "changeset": 70201013,
+            "user": "scratera",
+            "uid": 76312,
+            "nodes": [
+                6446131479,
+                6452764252,
+                6452817157,
+                6452764251,
+                6452764250,
+                6436035211,
+                6459088674,
+                6446131479
+            ],
+            "tags": {
+                "amenity": "bar",
+                "area": "amenity",
+                "indoor": "area",
+                "level": "0",
+                "name": "RistoBar",
+                "opening_hours": "09:00-20:00",
+                "operator": "Despar",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 688209686,
+            "timestamp": "2021-02-20T19:54:37Z",
+            "version": 9,
+            "changeset": 99658056,
+            "user": "CCCGGG",
+            "uid": 6098724,
+            "nodes": [
+                6435339003,
+                6447118211,
+                6447118210,
+                6470501610,
+                6470501608,
+                6447118209,
+                752760004,
+                6447118207,
+                6447118206,
+                4083083466,
+                6438759204,
+                6470820709,
+                6470820711,
+                6470501602,
+                8441451507,
+                6470501601,
+                6470501615,
+                6470501619,
+                6435339009,
+                6470501618,
+                6435339008,
+                6435339007,
+                6459088679,
+                6459088677,
+                6446251394,
+                6459088675,
+                6459088670,
+                6446131479,
+                6452764252,
+                6452817157,
+                6452764251,
+                6452764250,
+                6452764249,
+                6435415929,
+                6435415930,
+                6458845544,
+                6459088660,
+                6435339003
+            ],
+            "tags": {
+                "indoor": "room",
+                "level": "0",
+                "name": "INTERSPAR",
+                "opening_hours": "09:00-20:00",
+                "operator": "Despar",
+                "phone": "+39 0464 423510",
+                "room": "shop",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/",
                 "wheelchair": "yes"
             }
         },

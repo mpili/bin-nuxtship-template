@@ -124,6 +124,21 @@
         },
         {
             "type": "node",
+            "id": 1877274694,
+            "lat": 45.4498445,
+            "lon": 7.8460515,
+            "timestamp": "2023-12-07T13:49:40Z",
+            "version": 4,
+            "changeset": 144867960,
+            "user": "Andrea Musuruane",
+            "uid": 90379,
+            "tags": {
+                "operator": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
             "id": 2145292151,
             "lat": 45.5545549,
             "lon": 8.6445324,
@@ -168,6 +183,36 @@
                 "phone": "+39 0322 858688",
                 "shop": "electronics",
                 "website": "https://techsrl.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2627453970,
+            "lat": 45.4429432,
+            "lon": 7.8773832,
+            "timestamp": "2014-01-18T18:58:49Z",
+            "version": 1,
+            "changeset": 20071592,
+            "user": "Dufour85",
+            "uid": 822180,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2627455145,
+            "lat": 45.4467919,
+            "lon": 7.8778049,
+            "timestamp": "2014-01-18T18:58:59Z",
+            "version": 1,
+            "changeset": 20071592,
+            "user": "Dufour85",
+            "uid": 822180,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Q8"
             }
         },
         {
@@ -1346,6 +1391,30 @@
                 "name": "Conad",
                 "operator": "Conad",
                 "shop": "convenience"
+            }
+        },
+        {
+            "type": "way",
+            "id": 487234348,
+            "timestamp": "2023-10-17T17:21:26Z",
+            "version": 2,
+            "changeset": 142722558,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4797438827,
+                4797438828,
+                4797438829,
+                4797438830,
+                4797438827
+            ],
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "building": "yes",
+                "name": "Expert",
+                "operator": "Expert",
+                "shop": "electronics"
             }
         },
         {

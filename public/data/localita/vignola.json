@@ -3295,6 +3295,71 @@
         },
         {
             "type": "way",
+            "id": 623944291,
+            "timestamp": "2024-05-08T13:20:58Z",
+            "version": 7,
+            "changeset": 151056074,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                5891725943,
+                5891725944,
+                5891725946,
+                5891747770,
+                10730962250,
+                5891725947,
+                5891725943
+            ],
+            "tags": {
+                "addr:city": "Modena",
+                "addr:housenumber": "537",
+                "addr:postcode": "41121",
+                "addr:street": "Via Nonantolana",
+                "building": "retail",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "phone": "+39 059 250344",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 665882922,
+            "timestamp": "2025-03-30T09:48:50Z",
+            "version": 6,
+            "changeset": 164279766,
+            "user": "Marcodago26",
+            "uid": 22604600,
+            "nodes": [
+                6233292703,
+                6233292702,
+                6233292709,
+                6233292710,
+                11053885587,
+                6233292704,
+                11053885579,
+                6233292703
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "retail",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 813473387,
             "timestamp": "2024-12-03T20:27:07Z",
             "version": 3,

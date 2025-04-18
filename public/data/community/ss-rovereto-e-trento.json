@@ -12,6 +12,31 @@
     "poi": [
         {
             "type": "node",
+            "id": 227746038,
+            "lat": 45.4339335,
+            "lon": 11.0103857,
+            "timestamp": "2024-11-27T09:45:58Z",
+            "version": 10,
+            "changeset": 159650974,
+            "user": "Jacopo",
+            "uid": 21822,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Bitum Calor",
+                "operator": "Tamoil",
+                "ref:mise": "12856",
+                "self_service": "yes",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
             "id": 249640918,
             "lat": 45.4474223,
             "lon": 10.8772871,
@@ -428,6 +453,22 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1405084833,
+            "lat": 46.1662322,
+            "lon": 11.0048515,
+            "timestamp": "2025-01-26T17:00:40Z",
+            "version": 4,
+            "changeset": 161788062,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "name": "Alimentari dal marcante",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -2496,6 +2537,30 @@
         },
         {
             "type": "way",
+            "id": 68991982,
+            "timestamp": "2020-06-11T22:20:52Z",
+            "version": 2,
+            "changeset": 86535820,
+            "user": "CCCGGG",
+            "uid": 6098724,
+            "nodes": [
+                828094196,
+                828094182,
+                828094192,
+                828094194,
+                828094196
+            ],
+            "tags": {
+                "amenity": "car_wash",
+                "automated": "yes",
+                "building": "yes",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 71520579,
             "timestamp": "2024-07-12T12:16:22Z",
             "version": 13,
@@ -2568,6 +2633,36 @@
         },
         {
             "type": "way",
+            "id": 139028023,
+            "timestamp": "2021-11-19T10:44:52Z",
+            "version": 8,
+            "changeset": 113985016,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                1524020433,
+                1524020665,
+                1524020079,
+                1524019898,
+                1524020433
+            ],
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "54",
+                "addr:street": "Via Preare",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "building": "retail",
+                "name": "Unieuro",
+                "operator": "Expert",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
             "id": 146079237,
             "timestamp": "2022-12-29T18:21:21Z",
             "version": 7,
@@ -2627,6 +2722,45 @@
                 "currency:XBT": "yes",
                 "name": "Mondo Convenienza",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 346691433,
+            "timestamp": "2025-04-18T16:59:23Z",
+            "version": 3,
+            "changeset": 165122059,
+            "user": "PagoInBitcoin",
+            "uid": 22211788,
+            "nodes": [
+                3532174853,
+                3532174358,
+                3532174344,
+                3532175310,
+                3532175434,
+                3532175133,
+                3532175132,
+                3532175130,
+                3532174987,
+                3532174896,
+                3532174867,
+                3532174853
+            ],
+            "tags": {
+                "addr:city": "Valdagno",
+                "addr:housenumber": "0",
+                "addr:postcode": "36078",
+                "addr:street": "Viale Trento",
+                "contact:email": "zatteramirco@gmail.com",
+                "contact:telegram": "@TutticoloriMirco",
+                "craft": "painter",
+                "currency:XBT": "yes",
+                "description": "Zona Valdagno e Limitrofi. Dal Lunedi al Sabato.",
+                "name": "TuttiColoriMirco",
+                "operator": "Mirco",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "telegram": "@TutticoloriMirco"
             }
         },
         {
@@ -2731,6 +2865,96 @@
                 "room": "shop",
                 "shop": "clothes",
                 "website": "https://www.ovs.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 688209685,
+            "timestamp": "2019-05-13T16:46:26Z",
+            "version": 4,
+            "changeset": 70201013,
+            "user": "scratera",
+            "uid": 76312,
+            "nodes": [
+                6446131479,
+                6452764252,
+                6452817157,
+                6452764251,
+                6452764250,
+                6436035211,
+                6459088674,
+                6446131479
+            ],
+            "tags": {
+                "amenity": "bar",
+                "area": "amenity",
+                "indoor": "area",
+                "level": "0",
+                "name": "RistoBar",
+                "opening_hours": "09:00-20:00",
+                "operator": "Despar",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 688209686,
+            "timestamp": "2021-02-20T19:54:37Z",
+            "version": 9,
+            "changeset": 99658056,
+            "user": "CCCGGG",
+            "uid": 6098724,
+            "nodes": [
+                6435339003,
+                6447118211,
+                6447118210,
+                6470501610,
+                6470501608,
+                6447118209,
+                752760004,
+                6447118207,
+                6447118206,
+                4083083466,
+                6438759204,
+                6470820709,
+                6470820711,
+                6470501602,
+                8441451507,
+                6470501601,
+                6470501615,
+                6470501619,
+                6435339009,
+                6470501618,
+                6435339008,
+                6435339007,
+                6459088679,
+                6459088677,
+                6446251394,
+                6459088675,
+                6459088670,
+                6446131479,
+                6452764252,
+                6452817157,
+                6452764251,
+                6452764250,
+                6452764249,
+                6435415929,
+                6435415930,
+                6458845544,
+                6459088660,
+                6435339003
+            ],
+            "tags": {
+                "indoor": "room",
+                "level": "0",
+                "name": "INTERSPAR",
+                "opening_hours": "09:00-20:00",
+                "operator": "Despar",
+                "phone": "+39 0464 423510",
+                "room": "shop",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/",
                 "wheelchair": "yes"
             }
         },

@@ -6,6 +6,76 @@
     "poi": [
         {
             "type": "node",
+            "id": 227647172,
+            "lat": 44.9329043,
+            "lon": 7.8943924,
+            "timestamp": "2018-07-30T14:24:14Z",
+            "version": 4,
+            "changeset": 61197777,
+            "user": "Sigfrido Sandron",
+            "uid": 8611898,
+            "tags": {
+                "brand": "Q8",
+                "highway": "speed_camera",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227770717,
+            "lat": 45.025525,
+            "lon": 7.639645,
+            "timestamp": "2022-10-31T11:23:02Z",
+            "version": 4,
+            "changeset": 128293331,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227793443,
+            "lat": 45.0875,
+            "lon": 7.691111,
+            "timestamp": "2024-11-09T23:22:38Z",
+            "version": 5,
+            "changeset": 158951922,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "disused:amenity": "fuel",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227968685,
+            "lat": 45.10555,
+            "lon": 7.65746,
+            "timestamp": "2022-07-24T09:05:49Z",
+            "version": 4,
+            "changeset": 124001481,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
             "id": 1114771195,
             "lat": 45.0346753,
             "lon": 7.6664757,
@@ -136,6 +206,21 @@
                 "phone": "+39 011 4200301",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006958.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1877274694,
+            "lat": 45.4498445,
+            "lon": 7.8460515,
+            "timestamp": "2023-12-07T13:49:40Z",
+            "version": 4,
+            "changeset": 144867960,
+            "user": "Andrea Musuruane",
+            "uid": 90379,
+            "tags": {
+                "operator": "Despar",
+                "shop": "convenience"
             }
         },
         {
@@ -318,6 +403,36 @@
         },
         {
             "type": "node",
+            "id": 2627453970,
+            "lat": 45.4429432,
+            "lon": 7.8773832,
+            "timestamp": "2014-01-18T18:58:49Z",
+            "version": 1,
+            "changeset": 20071592,
+            "user": "Dufour85",
+            "uid": 822180,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2627455145,
+            "lat": 45.4467919,
+            "lon": 7.8778049,
+            "timestamp": "2014-01-18T18:58:59Z",
+            "version": 1,
+            "changeset": 20071592,
+            "user": "Dufour85",
+            "uid": 822180,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 2956258044,
             "lat": 45.1379014,
             "lon": 7.7316072,
@@ -454,6 +569,23 @@
                 "phone": "+39 0113202382",
                 "ref:vatin": "IT05614630019",
                 "website": "https://www.pubjohnlennontorino.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3563452899,
+            "lat": 45.0990228,
+            "lon": 7.6373179,
+            "timestamp": "2015-06-01T12:31:14Z",
+            "version": 1,
+            "changeset": 31632749,
+            "user": "lukasbrunner",
+            "uid": 348712,
+            "tags": {
+                "amenity": "car_wash",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
             }
         },
         {
@@ -2993,6 +3125,52 @@
                 "roof:shape": "flat",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 487234348,
+            "timestamp": "2023-10-17T17:21:26Z",
+            "version": 2,
+            "changeset": 142722558,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4797438827,
+                4797438828,
+                4797438829,
+                4797438830,
+                4797438827
+            ],
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "building": "yes",
+                "name": "Expert",
+                "operator": "Expert",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 489492258,
+            "timestamp": "2019-02-12T15:43:29Z",
+            "version": 2,
+            "changeset": 67135602,
+            "user": "Marco_Fix",
+            "uid": 3338651,
+            "nodes": [
+                4817286208,
+                4817286207,
+                4817288663,
+                4817288662,
+                4817286208
+            ],
+            "tags": {
+                "amenity": "parking",
+                "capacity": "20 trucks",
+                "operator": "Q8",
+                "parking": "surface"
             }
         },
         {

@@ -7,9 +7,34 @@
     "idlocalita": "trieste",
     "telegram_weburl": "https://web.telegram.org/a/#-1001054825457",
     "telegram_app": "https://t.me/bitcointrieste",
-    "telegram_members": 101.0,
+    "telegram_members": 100.0,
     "network": "bitcoinbeer",
     "poi": [
+        {
+            "type": "node",
+            "id": 268200155,
+            "lat": 45.6581635,
+            "lon": 13.7719961,
+            "timestamp": "2024-07-09T10:29:06Z",
+            "version": 8,
+            "changeset": 153738388,
+            "user": "paulbrunner",
+            "uid": 15541433,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "8",
+                "addr:postcode": "34132",
+                "addr:street": "Piazza della Libert\u00e0",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "check_date": "2024-07-09",
+                "name": "Despar",
+                "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:00-14:00; Su off",
+                "operator": "Despar",
+                "shop": "supermarket"
+            }
+        },
         {
             "type": "node",
             "id": 2213309239,
@@ -494,6 +519,27 @@
                 "phone": "040 166 932",
                 "survey:date": "2025-01-28",
                 "website": "https://www.facebook.com/bistroluft/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9887785800,
+            "lat": 45.6404965,
+            "lon": 13.8241553,
+            "timestamp": "2022-07-14T16:58:14Z",
+            "version": 1,
+            "changeset": 123618051,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1AM",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -1049,6 +1095,38 @@
                 "operator": "Ikea Italia Retail S.r.l.",
                 "ref": "100",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1054717343,
+            "timestamp": "2022-04-25T12:26:48Z",
+            "version": 1,
+            "changeset": 120164375,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "nodes": [
+                1472015889,
+                8996720490,
+                8996720491,
+                9692147227,
+                9692147228,
+                9692147229,
+                8996720442,
+                8996720472,
+                8996720440,
+                9692147225,
+                1472015884,
+                9692147224,
+                9692142813,
+                9692142814,
+                1472015889
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "operator": "Despar",
+                "parking": "surface"
             }
         }
     ],

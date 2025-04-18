@@ -6,6 +6,68 @@
     "poi": [
         {
             "type": "node",
+            "id": 226937954,
+            "lat": 45.3610179,
+            "lon": 10.1609453,
+            "timestamp": "2024-09-05T17:31:31Z",
+            "version": 5,
+            "changeset": 156241875,
+            "user": "bbgg",
+            "uid": 4126696,
+            "tags": {
+                "addr:city": "Manerbio Brescia",
+                "addr:housenumber": "1",
+                "addr:postcode": "25025",
+                "addr:street": "Via Leno",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227725255,
+            "lat": 44.855417,
+            "lon": 10.100512,
+            "timestamp": "2024-05-12T07:43:19Z",
+            "version": 9,
+            "changeset": 151211820,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Q8",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228182589,
+            "lat": 45.38693,
+            "lon": 9.54058,
+            "timestamp": "2023-08-21T12:35:16Z",
+            "version": 5,
+            "changeset": 140179547,
+            "user": "Francesco Zanaboni",
+            "uid": 11979968,
+            "tags": {
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "demolished:amenity": "fuel",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 725821973,
             "lat": 45.5358035,
             "lon": 10.1484356,
@@ -286,6 +348,27 @@
         },
         {
             "type": "node",
+            "id": 4574145522,
+            "lat": 45.3637071,
+            "lon": 9.5493933,
+            "timestamp": "2023-08-29T09:51:34Z",
+            "version": 3,
+            "changeset": 140532513,
+            "user": "Francesco Zanaboni",
+            "uid": 11979968,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil",
+                "self_service": "only"
+            }
+        },
+        {
+            "type": "node",
             "id": 4690614100,
             "lat": 44.798327,
             "lon": 10.3311624,
@@ -337,6 +420,120 @@
                 "shop": "supermarket",
                 "source": "survey",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690688923,
+            "lat": 44.8056186,
+            "lon": 10.32875,
+            "timestamp": "2022-09-16T18:08:57Z",
+            "version": 3,
+            "changeset": 126274016,
+            "user": "Keyser Bante",
+            "uid": 14466541,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "43/b",
+                "addr:postcode": "43121",
+                "addr:street": "Strada Giuseppe Garibaldi",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0420",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690714434,
+            "lat": 44.8011101,
+            "lon": 10.3298744,
+            "timestamp": "2022-09-12T22:45:17Z",
+            "version": 4,
+            "changeset": 126108198,
+            "user": "Keyser Bante",
+            "uid": 14466541,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "16/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes",
+                "source": "survey",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690714444,
+            "lat": 44.8029627,
+            "lon": 10.3288704,
+            "timestamp": "2023-08-02T07:52:51Z",
+            "version": 3,
+            "changeset": 139332846,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "22/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada Cavour",
+                "brand": "Intimissimi Uomo",
+                "brand:wikidata": "Q115480852",
+                "clothes": "men;underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0234",
+                "name": "Intimissimi Uomo",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690714910,
+            "lat": 44.8013839,
+            "lon": 10.328743,
+            "timestamp": "2023-03-16T10:02:55Z",
+            "version": 4,
+            "changeset": 133741816,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "2/d",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "source": "survey",
+                "wheelchair": "limited"
             }
         },
         {
@@ -421,6 +618,25 @@
                 "payment:onchain": "no",
                 "phone": "+39 347 149 5268",
                 "shop": "pasta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5323908087,
+            "lat": 45.4023894,
+            "lon": 9.9162824,
+            "timestamp": "2019-06-09T08:16:10Z",
+            "version": 2,
+            "changeset": 71065506,
+            "user": "Nikorzi",
+            "uid": 1157889,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -1632,6 +1848,24 @@
         },
         {
             "type": "node",
+            "id": 12652695912,
+            "lat": 44.7997772,
+            "lon": 10.3047994,
+            "timestamp": "2025-03-11T17:12:27Z",
+            "version": 1,
+            "changeset": 163494728,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "amenity": "car_wash",
+                "brand": "Wash",
+                "brand:wikidata": "Q124568566",
+                "name": "Wash",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 12675620497,
             "lat": 45.4742829,
             "lon": 9.9918564,
@@ -1700,6 +1934,30 @@
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006031.html",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 116520728,
+            "timestamp": "2016-04-20T10:09:11Z",
+            "version": 3,
+            "changeset": 38723782,
+            "user": "agnostico",
+            "uid": 3084054,
+            "nodes": [
+                1313337012,
+                1313337019,
+                1313337007,
+                1313337014,
+                1313337012
+            ],
+            "tags": {
+                "name": "UT Tamoil",
+                "operator": "Tamoil",
+                "power": "substation",
+                "ref:terna": "MMILTA1M",
+                "substation": "industrial",
+                "voltage": "132000"
             }
         },
         {
@@ -2107,6 +2365,35 @@
                 "operator": "Decathlon",
                 "phone": "+39 0524 687943",
                 "shop": "sports"
+            }
+        },
+        {
+            "type": "way",
+            "id": 318895544,
+            "timestamp": "2021-05-18T21:18:26Z",
+            "version": 3,
+            "changeset": 104915013,
+            "user": "fedc",
+            "uid": 602784,
+            "nodes": [
+                3252921942,
+                8743821682,
+                3252921943,
+                3252921945,
+                5335327511,
+                5335327512,
+                5335327513,
+                5335327514,
+                5335327515,
+                5335327745,
+                5335327516,
+                3252921942
+            ],
+            "tags": {
+                "brand": "Tamoil",
+                "landuse": "retail",
+                "operator": "Tamoil",
+                "source": "geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)"
             }
         },
         {

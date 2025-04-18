@@ -53,6 +53,40 @@
         },
         {
             "type": "node",
+            "id": 1424271419,
+            "lat": 40.3640408,
+            "lon": 18.1476013,
+            "timestamp": "2021-10-30T18:26:14Z",
+            "version": 4,
+            "changeset": 113170732,
+            "user": "Ale_Zena_IT",
+            "uid": 22290,
+            "tags": {
+                "amenity": "fuel",
+                "name": "Q8",
+                "operator": "Q8",
+                "survey:date": "2021-10-24"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4339598371,
+            "lat": 40.1256334,
+            "lon": 18.2993867,
+            "timestamp": "2020-08-19T09:29:34Z",
+            "version": 2,
+            "changeset": 89623237,
+            "user": "Michael Montani",
+            "uid": 4861141,
+            "tags": {
+                "entrance": "yes",
+                "name": "Joy Division",
+                "operator": "Expert",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4392833125,
             "lat": 40.3581997,
             "lon": 18.1793325,

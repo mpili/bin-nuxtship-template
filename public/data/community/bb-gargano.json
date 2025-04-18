@@ -11,6 +11,46 @@
     "poi": [
         {
             "type": "node",
+            "id": 339580872,
+            "lat": 41.8292169,
+            "lon": 15.7730783,
+            "timestamp": "2020-05-16T08:48:28Z",
+            "version": 3,
+            "changeset": 85295216,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fixme": "This object might have been dismantled, please check",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 339873946,
+            "lat": 41.49868,
+            "lon": 15.5747289,
+            "timestamp": "2020-11-12T20:24:56Z",
+            "version": 4,
+            "changeset": 94017126,
+            "user": "esp_vag",
+            "uid": 3837432,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fixme": "This object might have been dismantled, please check",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 4345722095,
             "lat": 41.9850637,
             "lon": 15.0022017,

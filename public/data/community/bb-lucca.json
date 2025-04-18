@@ -12,6 +12,42 @@
     "poi": [
         {
             "type": "node",
+            "id": 228005439,
+            "lat": 43.8915902,
+            "lon": 10.2979956,
+            "timestamp": "2020-06-22T21:30:05Z",
+            "version": 8,
+            "changeset": 86999532,
+            "user": "Lllll0",
+            "uid": 10268239,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228082291,
+            "lat": 43.723072,
+            "lon": 10.669935,
+            "timestamp": "2014-09-17T13:22:09Z",
+            "version": 3,
+            "changeset": 25500680,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 579758967,
             "lat": 43.5778838,
             "lon": 10.3405116,
@@ -1887,6 +1923,39 @@
         },
         {
             "type": "way",
+            "id": 161023267,
+            "timestamp": "2023-09-20T08:05:39Z",
+            "version": 9,
+            "changeset": 141500103,
+            "user": "Gioele2704",
+            "uid": 18940820,
+            "nodes": [
+                1730294576,
+                1730294577,
+                1730294578,
+                1730294579,
+                1730294581,
+                7276593794,
+                1730294583,
+                7276593787,
+                1730294591,
+                3904140529,
+                11037121742,
+                1730294589,
+                3904140523,
+                1730294587,
+                2338644953,
+                1730294576
+            ],
+            "tags": {
+                "area": "yes",
+                "highway": "services",
+                "name": "Area di servizio Lastra a Signa",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "way",
             "id": 161295195,
             "timestamp": "2022-08-03T11:32:23Z",
             "version": 8,
@@ -1938,47 +2007,6 @@
                 "name": "Conad City",
                 "operator": "Conad",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
-            "id": 255482371,
-            "timestamp": "2020-05-13T06:22:22Z",
-            "version": 2,
-            "changeset": 85122659,
-            "user": "mascalzone67",
-            "uid": 1861652,
-            "nodes": [
-                2611691095,
-                2611691096,
-                2611691097,
-                2611691098,
-                2611691099,
-                2611691100,
-                2611691101,
-                2611691102,
-                2611691103,
-                2611691104,
-                2611691095
-            ],
-            "tags": {
-                "addr:city": "Prato",
-                "addr:housenumber": "3",
-                "addr:postcode": "59100",
-                "addr:street": "Via Anna Kuliscioff",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "building": "retail",
-                "name": "Conad",
-                "opening_hours": "Mo-Su 07:30-21:00",
-                "operator": "Conad",
-                "payment:bancomat": "yes",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "phone": "+39 0574 651618",
-                "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.004839.html"
             }
         },
         {
@@ -2040,6 +2068,56 @@
                 "shop": "furniture",
                 "toilets": "yes",
                 "website": "https://www.ikea.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 331723429,
+            "timestamp": "2015-03-07T20:47:55Z",
+            "version": 1,
+            "changeset": 29316877,
+            "user": "Federico Silvio",
+            "uid": 412293,
+            "nodes": [
+                3388224114,
+                3388224115,
+                3388224116,
+                3388224117,
+                3388224114
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "way",
+            "id": 351835557,
+            "timestamp": "2024-09-16T07:57:59Z",
+            "version": 4,
+            "changeset": 156675794,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "nodes": [
+                3576327126,
+                3576327127,
+                3576327128,
+                3576327129,
+                3576327130,
+                3576327131,
+                3576327126
+            ],
+            "tags": {
+                "addr:city": "Prato",
+                "addr:housenumber": "176",
+                "addr:postcode": "59100",
+                "addr:street": "Viale Borgo Valsugana",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
             }
         },
         {

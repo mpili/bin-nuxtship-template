@@ -2,7 +2,7 @@
 const { tag, value } = useRoute().params;
 // const url_api = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3600365331)->.searchArea;nwr["currency:XBT"="yes"][${tag}~${value}](area.searchArea);out meta;`;
 
-const operators_values = "Trony|Conad|CONAD Soc\. Coop\.|Unieuro S\.p\.A\.|MediaMarket S\.p\.A\.|Decathlon|OVS|Ikea Italia Retail S\.r\.l\.";
+const operators_values = "Calzedonia|Q8|Despar|Tamoil|Intimissimi|Expert|Trony|Conad|CONAD Soc\. Coop\.|Unieuro S\.p\.A\.|MediaMarket S\.p\.A\.|Decathlon|OVS|Ikea Italia Retail S\.r\.l\.";
 const osn_tipo =  "node"; // "nwr";
 const url_api = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3600365331)->.searchArea;(${osn_tipo}["currency:XBT"="yes"][${tag}~${value}](area.searchArea);${osn_tipo}["operator"~"^(${operators_values})$"][${tag}~${value}](area.searchArea););out meta;`;
 

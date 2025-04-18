@@ -7,9 +7,34 @@
     "idlocalita": "albenga",
     "telegram_weburl": "https://web.telegram.org/a/#-1001936842828",
     "telegram_app": "https://t.me/SatoshiSpritzAlbenga",
-    "telegram_members": 52.0,
+    "telegram_members": 53.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 228302011,
+            "lat": 44.376298,
+            "lon": 8.037529,
+            "timestamp": "2023-09-04T21:33:21Z",
+            "version": 7,
+            "changeset": 140824137,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:housenumber": "51",
+                "addr:street": "Via San Bernardino",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "ref:mise": "4938",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
         {
             "type": "node",
             "id": 472443888,

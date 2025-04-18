@@ -6,6 +6,26 @@
     "poi": [
         {
             "type": "node",
+            "id": 1419393802,
+            "lat": 40.0457009,
+            "lon": 8.5717099,
+            "timestamp": "2024-03-15T15:03:33Z",
+            "version": 3,
+            "changeset": 148693049,
+            "user": "Nathan Hadley",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 2063363742,
             "lat": 40.7195952,
             "lon": 8.5781659,

@@ -6,6 +6,92 @@
     "poi": [
         {
             "type": "node",
+            "id": 226918948,
+            "lat": 40.912896,
+            "lon": 14.222719,
+            "timestamp": "2020-04-22T20:17:20Z",
+            "version": 5,
+            "changeset": 83960659,
+            "user": "pippo6",
+            "uid": 11052147,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227767238,
+            "lat": 40.8102901,
+            "lon": 14.3441959,
+            "timestamp": "2014-09-17T13:36:01Z",
+            "version": 5,
+            "changeset": 25501059,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227938311,
+            "lat": 40.8210783,
+            "lon": 14.1720593,
+            "timestamp": "2014-06-17T11:15:05Z",
+            "version": 6,
+            "changeset": 22982052,
+            "user": "Wave68",
+            "uid": 1523146,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227978451,
+            "lat": 40.850124,
+            "lon": 14.2256145,
+            "timestamp": "2014-09-17T13:00:34Z",
+            "version": 5,
+            "changeset": 25500170,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "ERG",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2156299055,
+            "lat": 40.7539101,
+            "lon": 14.5206697,
+            "timestamp": "2018-11-12T02:09:56Z",
+            "version": 3,
+            "changeset": 64390076,
+            "user": "mcheck",
+            "uid": 478872,
+            "tags": {
+                "amenity": "fuel",
+                "name": "Stazione di servizio",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 2245233906,
             "lat": 40.8436822,
             "lon": 14.2307269,
@@ -108,6 +194,45 @@
         },
         {
             "type": "node",
+            "id": 3371505042,
+            "lat": 40.857871,
+            "lon": 14.260188,
+            "timestamp": "2018-02-03T22:17:54Z",
+            "version": 2,
+            "changeset": 56041178,
+            "user": "Mauro Lepore",
+            "uid": 7568817,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3672152668,
+            "lat": 41.0839914,
+            "lon": 14.3314048,
+            "timestamp": "2020-08-08T16:24:20Z",
+            "version": 2,
+            "changeset": 89132938,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Caserta",
+                "addr:postcode": "81100",
+                "addr:street": "Via Gennaro Tescione",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert Vanessa Sound",
+                "operator": "Expert",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4033506269,
             "lat": 40.7531603,
             "lon": 14.4710173,
@@ -204,6 +329,42 @@
                 "operator": "MediaMarket S.p.A.",
                 "phone": "+39 081 856 9111",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4210353260,
+            "lat": 40.7977127,
+            "lon": 14.0649788,
+            "timestamp": "2016-05-27T08:19:44Z",
+            "version": 1,
+            "changeset": 39598016,
+            "user": "Karthoo",
+            "uid": 3232636,
+            "tags": {
+                "addr:city": "Bacoli",
+                "addr:housenumber": "61",
+                "addr:postcode": "80070",
+                "addr:street": "Viale Olimpico",
+                "name": "Vibian Supermercato",
+                "operator": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4217604037,
+            "lat": 40.8544524,
+            "lon": 14.0617801,
+            "timestamp": "2016-05-31T15:50:46Z",
+            "version": 1,
+            "changeset": 39691785,
+            "user": "Karthoo",
+            "uid": 3232636,
+            "tags": {
+                "name": "Vibian Supermercato",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -453,6 +614,24 @@
         },
         {
             "type": "node",
+            "id": 6561554808,
+            "lat": 40.9170045,
+            "lon": 14.2079362,
+            "timestamp": "2024-12-13T16:50:28Z",
+            "version": 2,
+            "changeset": 160253999,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 6902000257,
             "lat": 40.825805,
             "lon": 14.2044445,
@@ -652,6 +831,32 @@
                 "phone": "+39 081 7588843",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008292.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7798539888,
+            "lat": 41.2285371,
+            "lon": 14.4915233,
+            "timestamp": "2023-07-25T10:54:14Z",
+            "version": 4,
+            "changeset": 138982373,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "San Salvatore Telesino",
+                "addr:postcode": "82030",
+                "addr:street": "Via Amorosi",
+                "branch": "Parente",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "opening_hours": "Mo-Su 10:00-20:30",
+                "operator": "Expert",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "electronics"
             }
         },
         {
@@ -1379,6 +1584,78 @@
         },
         {
             "type": "node",
+            "id": 11079038962,
+            "lat": 40.9348454,
+            "lon": 14.4918343,
+            "timestamp": "2023-07-31T16:01:22Z",
+            "version": 1,
+            "changeset": 139261084,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "amenity": "vending_machine",
+                "currency:EUR": "yes",
+                "name": "Benzina",
+                "operator": "Q8",
+                "vending": "fuel"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11079038963,
+            "lat": 40.9348719,
+            "lon": 14.491844,
+            "timestamp": "2023-07-31T16:01:22Z",
+            "version": 1,
+            "changeset": 139261084,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "amenity": "vending_machine",
+                "currency:EUR": "yes",
+                "name": "GPL",
+                "operator": "Q8",
+                "vending": "fuel"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11079038966,
+            "lat": 40.9350616,
+            "lon": 14.49201,
+            "timestamp": "2023-07-31T16:01:22Z",
+            "version": 1,
+            "changeset": 139261084,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "amenity": "vending_machine",
+                "currency:EUR": "yes",
+                "name": "Diesel",
+                "operator": "Q8",
+                "vending": "fuel"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11079038968,
+            "lat": 40.935047,
+            "lon": 14.4919871,
+            "timestamp": "2023-07-31T16:01:22Z",
+            "version": 1,
+            "changeset": 139261084,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "amenity": "vending_machine",
+                "currency:EUR": "yes",
+                "name": "AdBlue",
+                "operator": "Q8",
+                "vending": "fuel"
+            }
+        },
+        {
+            "type": "node",
             "id": 11403277313,
             "lat": 40.9126931,
             "lon": 14.7881194,
@@ -1418,6 +1695,36 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11662989067,
+            "lat": 41.0855937,
+            "lon": 14.5033617,
+            "timestamp": "2024-02-25T15:18:47Z",
+            "version": 1,
+            "changeset": 147895875,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "operator": "Q8",
+                "shop": "tyres"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11662989068,
+            "lat": 41.0856543,
+            "lon": 14.5032477,
+            "timestamp": "2024-02-25T15:18:47Z",
+            "version": 1,
+            "changeset": 147895875,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "operator": "Q8",
+                "shop": "car_parts"
             }
         },
         {
@@ -1768,6 +2075,31 @@
         },
         {
             "type": "way",
+            "id": 240230348,
+            "timestamp": "2019-10-19T04:19:28Z",
+            "version": 3,
+            "changeset": 75919210,
+            "user": "mcheck",
+            "uid": 478872,
+            "nodes": [
+                2479768223,
+                2479768224,
+                2479768225,
+                2479768226,
+                2479768223
+            ],
+            "tags": {
+                "addr:city": "Bacoli",
+                "addr:housenumber": "148, 150",
+                "addr:postcode": "80070",
+                "addr:street": "Via Roma",
+                "name": "Vibian Supermercato",
+                "operator": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
             "id": 306369157,
             "timestamp": "2025-01-27T13:46:44Z",
             "version": 6,
@@ -1794,6 +2126,28 @@
                 "name": "Conad Superstore",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 315026097,
+            "timestamp": "2022-04-09T15:35:23Z",
+            "version": 4,
+            "changeset": 119508919,
+            "user": "edvac_repair",
+            "uid": 5568154,
+            "nodes": [
+                3211090018,
+                3211090019,
+                3211090020,
+                3211090021,
+                3211090018
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "building": "yes",
+                "name": "Stazione di Servizio",
+                "operator": "Q8"
             }
         },
         {
@@ -1855,6 +2209,65 @@
                 "building": "house",
                 "name": "Conad",
                 "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 520485954,
+            "timestamp": "2023-09-22T15:45:59Z",
+            "version": 5,
+            "changeset": 141610944,
+            "user": "napsav",
+            "uid": 10952513,
+            "nodes": [
+                5072901478,
+                5072901479,
+                5072901480,
+                5072901481,
+                6856102978,
+                6856102979,
+                6856102774,
+                5072901478
+            ],
+            "tags": {
+                "addr:city": "Nola",
+                "addr:country": "IT",
+                "addr:postcode": "80035",
+                "addr:street": "Via Variante 7 Bis",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:petrol": "yes",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "way",
+            "id": 726113747,
+            "timestamp": "2024-06-26T13:24:29Z",
+            "version": 2,
+            "changeset": 153202781,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                6807707476,
+                6807707477,
+                6807707478,
+                6807707479,
+                6807707476
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "commercial",
+                "name": "Despar",
+                "operator": "Despar",
                 "shop": "supermarket"
             }
         },
@@ -1939,6 +2352,74 @@
         },
         {
             "type": "way",
+            "id": 986389325,
+            "timestamp": "2021-11-22T21:15:48Z",
+            "version": 2,
+            "changeset": 114114674,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "nodes": [
+                9117928347,
+                9117928348,
+                9117928349,
+                9117928350,
+                9117928351,
+                9117928352,
+                9117928359,
+                9117928353,
+                9117928354,
+                9117928347
+            ],
+            "tags": {
+                "amenity": "parking",
+                "capacity": "12",
+                "covered": "no",
+                "fee": "no",
+                "name": "Parcheggio clienti Expert",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Expert",
+                "parking": "surface",
+                "supervised": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "way",
+            "id": 996115869,
+            "timestamp": "2024-07-08T14:47:18Z",
+            "version": 2,
+            "changeset": 153707328,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "nodes": [
+                9198053597,
+                9198053598,
+                9198053599,
+                9198053600,
+                9198053601,
+                9198053602,
+                9198053603,
+                9198053604,
+                9198053605,
+                9198053606,
+                9198053607,
+                9198053608,
+                9198053609,
+                9198053597
+            ],
+            "tags": {
+                "addr:city": "Caserta",
+                "addr:postcode": "81100",
+                "addr:street": "Via Giovanni Falcone",
+                "amenity": "car_wash",
+                "building": "yes",
+                "name": "Q8 Autolavaggio",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 1116510269,
             "timestamp": "2022-11-23T11:09:16Z",
             "version": 1,
@@ -1964,6 +2445,60 @@
                 "name": "Conad - Sorgente",
                 "operator": "Conad",
                 "shop": "mall"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1264798863,
+            "timestamp": "2024-03-21T13:09:19Z",
+            "version": 1,
+            "changeset": 148962768,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "nodes": [
+                11750346503,
+                11750346504,
+                11750346505,
+                11750346506,
+                11750346507,
+                11750346508,
+                11750346509,
+                11750346503
+            ],
+            "tags": {
+                "highway": "services",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8640854,
+            "timestamp": "2018-09-03T18:11:49Z",
+            "version": 1,
+            "changeset": 62255537,
+            "user": "JPMichael",
+            "uid": 8302385,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 522771182,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 79306133,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "building": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "source": "yahoo",
+                "type": "multipolygon"
             }
         }
     ],

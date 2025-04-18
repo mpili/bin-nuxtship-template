@@ -12,6 +12,31 @@
     "poi": [
         {
             "type": "node",
+            "id": 228302011,
+            "lat": 44.376298,
+            "lon": 8.037529,
+            "timestamp": "2023-09-04T21:33:21Z",
+            "version": 7,
+            "changeset": 140824137,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:housenumber": "51",
+                "addr:street": "Via San Bernardino",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "ref:mise": "4938",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
             "id": 1425019736,
             "lat": 44.3472624,
             "lon": 7.5092303,
@@ -43,6 +68,30 @@
                 "phone": "+39 0171 261190",
                 "ref:vatin": "IT00876320409",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3180506130,
+            "lat": 44.5998988,
+            "lon": 7.8701716,
+            "timestamp": "2023-09-06T20:44:52Z",
+            "version": 6,
+            "changeset": 140912751,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:street": "Via Cavour",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "nohousenumber": "yes",
+                "operator": "Tamoil",
+                "ref:mise": "8289",
+                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -492,6 +541,28 @@
                 "payment:lightning": "yes",
                 "phone": "+39 0171 619878",
                 "shop": "fruit"
+            }
+        },
+        {
+            "type": "way",
+            "id": 489492258,
+            "timestamp": "2019-02-12T15:43:29Z",
+            "version": 2,
+            "changeset": 67135602,
+            "user": "Marco_Fix",
+            "uid": 3338651,
+            "nodes": [
+                4817286208,
+                4817286207,
+                4817288663,
+                4817288662,
+                4817286208
+            ],
+            "tags": {
+                "amenity": "parking",
+                "capacity": "20 trucks",
+                "operator": "Q8",
+                "parking": "surface"
             }
         }
     ],
