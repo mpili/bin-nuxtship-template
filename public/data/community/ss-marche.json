@@ -12,6 +12,26 @@
     "poi": [
         {
             "type": "node",
+            "id": 227909946,
+            "lat": 43.5084326,
+            "lon": 13.6247188,
+            "timestamp": "2023-10-27T15:17:31Z",
+            "version": 8,
+            "changeset": 143216041,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "no",
+                "waterway": "fuel"
+            }
+        },
+        {
+            "type": "node",
             "id": 318114360,
             "lat": 43.5431846,
             "lon": 13.0289579,
@@ -625,6 +645,31 @@
         },
         {
             "type": "node",
+            "id": 11422445303,
+            "lat": 43.763346,
+            "lon": 13.146821,
+            "timestamp": "2023-12-17T10:22:53Z",
+            "version": 2,
+            "changeset": 145209193,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Mondolfo",
+                "addr:milestone": "264.431",
+                "addr:postcode": "61037",
+                "addr:street": "Strada Statale 16 Adriatica",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil Mondolfo",
+                "operator": "Tamoil",
+                "ref:mise": "52138"
+            }
+        },
+        {
+            "type": "node",
             "id": 11694737988,
             "lat": 43.5978461,
             "lon": 13.3293507,
@@ -885,6 +930,34 @@
                 "payment:onchain": "no",
                 "phone": "+39 328 7491786",
                 "shop": "tobacco"
+            }
+        },
+        {
+            "type": "way",
+            "id": 32397799,
+            "timestamp": "2022-03-26T08:42:16Z",
+            "version": 4,
+            "changeset": 118938022,
+            "user": "Marco Renzi 1976",
+            "uid": 15146568,
+            "nodes": [
+                364476238,
+                364478042,
+                1837162624,
+                364478038,
+                1837162635,
+                1837162636,
+                364478033,
+                1837162633,
+                1837162631,
+                1837162632,
+                1837162630,
+                364476238
+            ],
+            "tags": {
+                "highway": "services",
+                "operator": "Q8",
+                "toilets": "yes"
             }
         },
         {

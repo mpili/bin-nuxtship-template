@@ -6,6 +6,27 @@
     "poi": [
         {
             "type": "node",
+            "id": 227725255,
+            "lat": 44.855417,
+            "lon": 10.100512,
+            "timestamp": "2024-05-12T07:43:19Z",
+            "version": 9,
+            "changeset": 151211820,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Q8",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 453371930,
             "lat": 44.5953858,
             "lon": 10.6944253,
@@ -458,6 +479,120 @@
                 "shop": "supermarket",
                 "source": "survey",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690688923,
+            "lat": 44.8056186,
+            "lon": 10.32875,
+            "timestamp": "2022-09-16T18:08:57Z",
+            "version": 3,
+            "changeset": 126274016,
+            "user": "Keyser Bante",
+            "uid": 14466541,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "43/b",
+                "addr:postcode": "43121",
+                "addr:street": "Strada Giuseppe Garibaldi",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0420",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690714434,
+            "lat": 44.8011101,
+            "lon": 10.3298744,
+            "timestamp": "2022-09-12T22:45:17Z",
+            "version": 4,
+            "changeset": 126108198,
+            "user": "Keyser Bante",
+            "uid": 14466541,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "16/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes",
+                "source": "survey",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690714444,
+            "lat": 44.8029627,
+            "lon": 10.3288704,
+            "timestamp": "2023-08-02T07:52:51Z",
+            "version": 3,
+            "changeset": 139332846,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "22/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada Cavour",
+                "brand": "Intimissimi Uomo",
+                "brand:wikidata": "Q115480852",
+                "clothes": "men;underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0234",
+                "name": "Intimissimi Uomo",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4690714910,
+            "lat": 44.8013839,
+            "lon": 10.328743,
+            "timestamp": "2023-03-16T10:02:55Z",
+            "version": 4,
+            "changeset": 133741816,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "2/d",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "source": "survey",
+                "wheelchair": "limited"
             }
         },
         {
@@ -1322,6 +1457,24 @@
             }
         },
         {
+            "type": "node",
+            "id": 12652695912,
+            "lat": 44.7997772,
+            "lon": 10.3047994,
+            "timestamp": "2025-03-11T17:12:27Z",
+            "version": 1,
+            "changeset": 163494728,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "amenity": "car_wash",
+                "brand": "Wash",
+                "brand:wikidata": "Q124568566",
+                "name": "Wash",
+                "operator": "Q8"
+            }
+        },
+        {
             "type": "way",
             "id": 32340192,
             "timestamp": "2010-08-15T10:20:13Z",
@@ -1341,6 +1494,30 @@
                 "building": "yes",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 116520728,
+            "timestamp": "2016-04-20T10:09:11Z",
+            "version": 3,
+            "changeset": 38723782,
+            "user": "agnostico",
+            "uid": 3084054,
+            "nodes": [
+                1313337012,
+                1313337019,
+                1313337007,
+                1313337014,
+                1313337012
+            ],
+            "tags": {
+                "name": "UT Tamoil",
+                "operator": "Tamoil",
+                "power": "substation",
+                "ref:terna": "MMILTA1M",
+                "substation": "industrial",
+                "voltage": "132000"
             }
         },
         {
@@ -1913,6 +2090,36 @@
         },
         {
             "type": "way",
+            "id": 584661707,
+            "timestamp": "2024-08-26T09:41:11Z",
+            "version": 11,
+            "changeset": 155772490,
+            "user": "Dante Torre",
+            "uid": 8655132,
+            "nodes": [
+                5588301608,
+                5891383862,
+                5588301609,
+                5588301610,
+                5891383861,
+                5809270471,
+                5588301608
+            ],
+            "tags": {
+                "addr:city": "Taneto",
+                "addr:street": "Via M. Tonelli",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 598181398,
             "timestamp": "2024-06-20T08:34:20Z",
             "version": 2,
@@ -1955,6 +2162,28 @@
                 "phone": "+39 0522 960668",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008801.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 636947690,
+            "timestamp": "2018-10-22T18:38:39Z",
+            "version": 1,
+            "changeset": 63769142,
+            "user": "Dante Torreggiani",
+            "uid": 7411601,
+            "nodes": [
+                6005631689,
+                6005631694,
+                6005631690,
+                6005631691,
+                6005631692,
+                6005631693,
+                6005631689
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "operator": "Tamoil"
             }
         },
         {

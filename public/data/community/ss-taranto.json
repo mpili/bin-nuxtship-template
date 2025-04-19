@@ -7,9 +7,67 @@
     "idlocalita": "taranto",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzTaranto",
     "telegram_app": "https://t.me/SatoshiSpritzTaranto",
-    "telegram_members": 21.0,
+    "telegram_members": 22.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 229122362,
+            "lat": 40.7264311,
+            "lon": 17.5792123,
+            "timestamp": "2025-03-25T14:09:18Z",
+            "version": 8,
+            "changeset": 164079084,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2364553289,
+            "lat": 40.5230606,
+            "lon": 17.434345,
+            "timestamp": "2019-05-10T12:02:37Z",
+            "version": 3,
+            "changeset": 70106931,
+            "user": "attilaimport",
+            "uid": 8727120,
+            "tags": {
+                "amenity": "fuel",
+                "fixme": "This object might have been dismantled, please check",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4210004214,
+            "lat": 40.7902268,
+            "lon": 17.5702366,
+            "timestamp": "2020-10-17T16:15:07Z",
+            "version": 2,
+            "changeset": 92633887,
+            "user": "Spike73",
+            "uid": 4904985,
+            "tags": {
+                "abandoned:building": "yes",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "fuel:GTL_diesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Q8",
+                "shop": "yes"
+            }
+        },
         {
             "type": "node",
             "id": 4242939306,
@@ -170,6 +228,25 @@
                 "payment:onchain": "no",
                 "phone": "+39 0831 601967",
                 "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9433258080,
+            "lat": 40.6851525,
+            "lon": 17.3318481,
+            "timestamp": "2022-01-20T10:53:00Z",
+            "version": 1,
+            "changeset": 116379942,
+            "user": "Marz0ne",
+            "uid": 14843979,
+            "tags": {
+                "amenity": "vending_machine",
+                "currency:EUR": "yes",
+                "operator": "Q8",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "vending": "fuel"
             }
         },
         {

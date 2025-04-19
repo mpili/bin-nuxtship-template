@@ -7,9 +7,85 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001926008431",
     "telegram_app": "https://t.me/SatoshiSpritzParmaePiacenza",
-    "telegram_members": 131.0,
+    "telegram_members": 130.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 227725255,
+            "lat": 44.855417,
+            "lon": 10.100512,
+            "timestamp": "2024-05-12T07:43:19Z",
+            "version": 9,
+            "changeset": 151211820,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Q8",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228051827,
+            "lat": 45.069482,
+            "lon": 9.304532,
+            "timestamp": "2020-04-12T17:38:34Z",
+            "version": 4,
+            "changeset": 83434659,
+            "user": "PaulMe",
+            "uid": 2252448,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228114326,
+            "lat": 45.272516,
+            "lon": 9.253433,
+            "timestamp": "2014-09-17T13:36:27Z",
+            "version": 3,
+            "changeset": 25501059,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228182589,
+            "lat": 45.38693,
+            "lon": 9.54058,
+            "timestamp": "2023-08-21T12:35:16Z",
+            "version": 5,
+            "changeset": 140179547,
+            "user": "Francesco Zanaboni",
+            "uid": 11979968,
+            "tags": {
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "demolished:amenity": "fuel",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
         {
             "type": "node",
             "id": 1797393762,
@@ -200,6 +276,27 @@
         },
         {
             "type": "node",
+            "id": 4574145522,
+            "lat": 45.3637071,
+            "lon": 9.5493933,
+            "timestamp": "2023-08-29T09:51:34Z",
+            "version": 3,
+            "changeset": 140532513,
+            "user": "Francesco Zanaboni",
+            "uid": 11979968,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil",
+                "self_service": "only"
+            }
+        },
+        {
+            "type": "node",
             "id": 4756783299,
             "lat": 44.8610971,
             "lon": 10.0676522,
@@ -266,6 +363,25 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5323908087,
+            "lat": 45.4023894,
+            "lon": 9.9162824,
+            "timestamp": "2019-06-09T08:16:10Z",
+            "version": 2,
+            "changeset": 71065506,
+            "user": "Nikorzi",
+            "uid": 1157889,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -428,6 +544,21 @@
                 "opening_hours": "Mo-Su 08:00-20:00",
                 "operator": "Conad",
                 "phone": "+39 0377 911132"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9326570345,
+            "lat": 45.3644276,
+            "lon": 9.3224326,
+            "timestamp": "2021-12-10T08:55:02Z",
+            "version": 1,
+            "changeset": 114775273,
+            "user": "rugamarcus",
+            "uid": 95387,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Q8"
             }
         },
         {
@@ -808,6 +939,30 @@
         },
         {
             "type": "way",
+            "id": 116520728,
+            "timestamp": "2016-04-20T10:09:11Z",
+            "version": 3,
+            "changeset": 38723782,
+            "user": "agnostico",
+            "uid": 3084054,
+            "nodes": [
+                1313337012,
+                1313337019,
+                1313337007,
+                1313337014,
+                1313337012
+            ],
+            "tags": {
+                "name": "UT Tamoil",
+                "operator": "Tamoil",
+                "power": "substation",
+                "ref:terna": "MMILTA1M",
+                "substation": "industrial",
+                "voltage": "132000"
+            }
+        },
+        {
+            "type": "way",
             "id": 168488037,
             "timestamp": "2024-06-14T12:48:22Z",
             "version": 6,
@@ -945,6 +1100,35 @@
                 "operator": "Decathlon",
                 "phone": "+39 0524 687943",
                 "shop": "sports"
+            }
+        },
+        {
+            "type": "way",
+            "id": 318895544,
+            "timestamp": "2021-05-18T21:18:26Z",
+            "version": 3,
+            "changeset": 104915013,
+            "user": "fedc",
+            "uid": 602784,
+            "nodes": [
+                3252921942,
+                8743821682,
+                3252921943,
+                3252921945,
+                5335327511,
+                5335327512,
+                5335327513,
+                5335327514,
+                5335327515,
+                5335327745,
+                5335327516,
+                3252921942
+            ],
+            "tags": {
+                "brand": "Tamoil",
+                "landuse": "retail",
+                "operator": "Tamoil",
+                "source": "geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)"
             }
         },
         {

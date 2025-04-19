@@ -7,9 +7,67 @@
     "idlocalita": "brescia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001070935145",
     "telegram_app": "http://telegram.me/joinchat/AMVfUj_VLGlWoZTRMlQw-A",
-    "telegram_members": 190.0,
+    "telegram_members": 191.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 226937954,
+            "lat": 45.3610179,
+            "lon": 10.1609453,
+            "timestamp": "2024-09-05T17:31:31Z",
+            "version": 5,
+            "changeset": 156241875,
+            "user": "bbgg",
+            "uid": 4126696,
+            "tags": {
+                "addr:city": "Manerbio Brescia",
+                "addr:housenumber": "1",
+                "addr:postcode": "25025",
+                "addr:street": "Via Leno",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227529200,
+            "lat": 45.61821,
+            "lon": 9.593886,
+            "timestamp": "2023-02-23T11:19:29Z",
+            "version": 4,
+            "changeset": 132920916,
+            "user": "LuSirto",
+            "uid": 506470,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 416810728,
+            "lat": 45.6284437,
+            "lon": 10.5016069,
+            "timestamp": "2023-10-14T07:59:41Z",
+            "version": 7,
+            "changeset": 142565687,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
         {
             "type": "node",
             "id": 441162531,
@@ -642,6 +700,25 @@
                 "phone": "+39 035 41591",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.009876.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5323908087,
+            "lat": 45.4023894,
+            "lon": 9.9162824,
+            "timestamp": "2019-06-09T08:16:10Z",
+            "version": 2,
+            "changeset": 71065506,
+            "user": "Nikorzi",
+            "uid": 1157889,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -2873,6 +2950,30 @@
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
                 "name": "La Maiolica"
+            }
+        },
+        {
+            "type": "way",
+            "id": 116520728,
+            "timestamp": "2016-04-20T10:09:11Z",
+            "version": 3,
+            "changeset": 38723782,
+            "user": "agnostico",
+            "uid": 3084054,
+            "nodes": [
+                1313337012,
+                1313337019,
+                1313337007,
+                1313337014,
+                1313337012
+            ],
+            "tags": {
+                "name": "UT Tamoil",
+                "operator": "Tamoil",
+                "power": "substation",
+                "ref:terna": "MMILTA1M",
+                "substation": "industrial",
+                "voltage": "132000"
             }
         },
         {

@@ -12,6 +12,24 @@
     "poi": [
         {
             "type": "node",
+            "id": 226951843,
+            "lat": 40.025384,
+            "lon": 9.168579,
+            "timestamp": "2022-09-26T12:21:45Z",
+            "version": 4,
+            "changeset": 126653919,
+            "user": "woy_cb",
+            "uid": 284094,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 6505603590,
             "lat": 40.3224367,
             "lon": 9.3060924,
@@ -217,6 +235,30 @@
                 "shop": "supermarket",
                 "toilets": "yes",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008430.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1212500811,
+            "timestamp": "2023-10-02T12:10:16Z",
+            "version": 1,
+            "changeset": 142036246,
+            "user": "dbrgn",
+            "uid": 317694,
+            "nodes": [
+                2370553432,
+                11233581401,
+                11233581402,
+                11233581403,
+                2370553432
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "operator": "Despar",
+                "parking": "surface",
+                "surface": "asphalt"
             }
         }
     ],

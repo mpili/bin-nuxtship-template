@@ -6,6 +6,105 @@
     "poi": [
         {
             "type": "node",
+            "id": 227558827,
+            "lat": 45.3631235,
+            "lon": 11.782165,
+            "timestamp": "2014-03-03T17:09:31Z",
+            "version": 4,
+            "changeset": 20892213,
+            "user": "Aury88",
+            "uid": 579545,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227571007,
+            "lat": 45.550285,
+            "lon": 11.563621,
+            "timestamp": "2020-12-28T21:52:38Z",
+            "version": 4,
+            "changeset": 96560448,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227746038,
+            "lat": 45.4339335,
+            "lon": 11.0103857,
+            "timestamp": "2024-11-27T09:45:58Z",
+            "version": 10,
+            "changeset": 159650974,
+            "user": "Jacopo",
+            "uid": 21822,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Bitum Calor",
+                "operator": "Tamoil",
+                "ref:mise": "12856",
+                "self_service": "yes",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227816404,
+            "lat": 45.49967,
+            "lon": 11.579483,
+            "timestamp": "2020-12-28T21:52:38Z",
+            "version": 4,
+            "changeset": 96560448,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227981119,
+            "lat": 45.416173,
+            "lon": 11.1750155,
+            "timestamp": "2021-06-20T09:33:32Z",
+            "version": 5,
+            "changeset": 106658530,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 334511575,
             "lat": 45.412015,
             "lon": 11.9082358,
@@ -852,6 +951,24 @@
         },
         {
             "type": "node",
+            "id": 5343149682,
+            "lat": 45.134421,
+            "lon": 11.7561773,
+            "timestamp": "2024-09-20T10:18:55Z",
+            "version": 2,
+            "changeset": 156860291,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 5418461939,
             "lat": 45.2275701,
             "lon": 11.5236765,
@@ -997,6 +1114,28 @@
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 09:30-20:00",
                 "operator": "Decathlon",
                 "wikimedia_commons": "File:DAE_presso_Decathlon_San_Giovanni_Lupatoto.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7283065093,
+            "lat": 45.523149,
+            "lon": 12.1558663,
+            "timestamp": "2022-05-05T08:45:52Z",
+            "version": 4,
+            "changeset": 120576818,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Maerne",
+                "addr:housenumber": "66",
+                "addr:postcode": "30030",
+                "addr:street": "Piazza Quattro Novembre",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -2010,6 +2149,48 @@
         },
         {
             "type": "way",
+            "id": 136834591,
+            "timestamp": "2024-10-18T08:56:12Z",
+            "version": 4,
+            "changeset": 158040595,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                228772819,
+                1501176912,
+                1501176927,
+                1501176931,
+                1501176937,
+                1501176951,
+                1501176960,
+                1501176964,
+                1501176970,
+                1501176968,
+                1501176967,
+                1501176965,
+                1501176961,
+                1501176962,
+                1501176963,
+                1501176953,
+                1501176934,
+                1501176936,
+                1501176918,
+                1501176916,
+                1501176911,
+                1501176910,
+                228772819
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 138810721,
             "timestamp": "2022-03-01T09:45:20Z",
             "version": 8,
@@ -2041,6 +2222,62 @@
                 "phone": "+39 045 594403",
                 "shop": "supermarket",
                 "source": "Regione_del_Veneto_LR28_16.7.1976_Formazione_CTR_auth_39164-5700-1100_23.01.2009"
+            }
+        },
+        {
+            "type": "way",
+            "id": 139028023,
+            "timestamp": "2021-11-19T10:44:52Z",
+            "version": 8,
+            "changeset": 113985016,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                1524020433,
+                1524020665,
+                1524020079,
+                1524019898,
+                1524020433
+            ],
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "54",
+                "addr:street": "Via Preare",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "building": "retail",
+                "name": "Unieuro",
+                "operator": "Expert",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 146407505,
+            "timestamp": "2025-01-05T17:18:16Z",
+            "version": 4,
+            "changeset": 161029545,
+            "user": "Dasc3er",
+            "uid": 18828247,
+            "nodes": [
+                1596789203,
+                1596789097,
+                1596789113,
+                1596789225,
+                1596789203
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "building": "roof",
+                "check_date": "2025-01-05",
+                "layer": "1",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil"
             }
         },
         {
@@ -2110,6 +2347,45 @@
                 "phone": "+39 049 725460",
                 "shop": "car_repair",
                 "website": "https://carrozzeriatorre.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 346691433,
+            "timestamp": "2025-04-18T16:59:23Z",
+            "version": 3,
+            "changeset": 165122059,
+            "user": "PagoInBitcoin",
+            "uid": 22211788,
+            "nodes": [
+                3532174853,
+                3532174358,
+                3532174344,
+                3532175310,
+                3532175434,
+                3532175133,
+                3532175132,
+                3532175130,
+                3532174987,
+                3532174896,
+                3532174867,
+                3532174853
+            ],
+            "tags": {
+                "addr:city": "Valdagno",
+                "addr:housenumber": "0",
+                "addr:postcode": "36078",
+                "addr:street": "Viale Trento",
+                "contact:email": "zatteramirco@gmail.com",
+                "contact:telegram": "@TutticoloriMirco",
+                "craft": "painter",
+                "currency:XBT": "yes",
+                "description": "Zona Valdagno e Limitrofi. Dal Lunedi al Sabato.",
+                "name": "TuttiColoriMirco",
+                "operator": "Mirco",
+                "payment:bitcoin": "yes",
+                "payment:lightning": "yes",
+                "telegram": "@TutticoloriMirco"
             }
         },
         {
@@ -2222,6 +2498,34 @@
                 "phone": "+39 045 4571622",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/stores/verona-c-c-adigeo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1314587074,
+            "timestamp": "2024-09-10T09:02:16Z",
+            "version": 1,
+            "changeset": 156429318,
+            "user": "Map47",
+            "uid": 11976,
+            "nodes": [
+                2268196206,
+                2268196201,
+                2268196197,
+                2268196191,
+                2268196188,
+                2268196194,
+                12165360953,
+                12165360954,
+                12165360955,
+                2268196206
+            ],
+            "tags": {
+                "amenity": "childcare",
+                "building": "yes",
+                "name": "Asilo nido \"I cuccioli\"",
+                "operator": "Calzedonia",
+                "operator:type": "private"
             }
         }
     ],

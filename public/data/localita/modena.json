@@ -6,6 +6,50 @@
     "poi": [
         {
             "type": "node",
+            "id": 227746038,
+            "lat": 45.4339335,
+            "lon": 11.0103857,
+            "timestamp": "2024-11-27T09:45:58Z",
+            "version": 10,
+            "changeset": 159650974,
+            "user": "Jacopo",
+            "uid": 21822,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Bitum Calor",
+                "operator": "Tamoil",
+                "ref:mise": "12856",
+                "self_service": "yes",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227981119,
+            "lat": 45.416173,
+            "lon": 11.1750155,
+            "timestamp": "2021-06-20T09:33:32Z",
+            "version": 5,
+            "changeset": 106658530,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 249640918,
             "lat": 45.4474223,
             "lon": 10.8772871,
@@ -1682,6 +1726,36 @@
         },
         {
             "type": "way",
+            "id": 139028023,
+            "timestamp": "2021-11-19T10:44:52Z",
+            "version": 8,
+            "changeset": 113985016,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                1524020433,
+                1524020665,
+                1524020079,
+                1524019898,
+                1524020433
+            ],
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "54",
+                "addr:street": "Via Preare",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "building": "retail",
+                "name": "Unieuro",
+                "operator": "Expert",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
             "id": 165866339,
             "timestamp": "2024-11-01T16:51:41Z",
             "version": 3,
@@ -2020,6 +2094,36 @@
         },
         {
             "type": "way",
+            "id": 584661707,
+            "timestamp": "2024-08-26T09:41:11Z",
+            "version": 11,
+            "changeset": 155772490,
+            "user": "Dante Torre",
+            "uid": 8655132,
+            "nodes": [
+                5588301608,
+                5891383862,
+                5588301609,
+                5588301610,
+                5891383861,
+                5809270471,
+                5588301608
+            ],
+            "tags": {
+                "addr:city": "Taneto",
+                "addr:street": "Via M. Tonelli",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 598181398,
             "timestamp": "2024-06-20T08:34:20Z",
             "version": 2,
@@ -2062,6 +2166,59 @@
                 "phone": "+39 0522 960668",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008801.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 623944291,
+            "timestamp": "2024-05-08T13:20:58Z",
+            "version": 7,
+            "changeset": 151056074,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                5891725943,
+                5891725944,
+                5891725946,
+                5891747770,
+                10730962250,
+                5891725947,
+                5891725943
+            ],
+            "tags": {
+                "addr:city": "Modena",
+                "addr:housenumber": "537",
+                "addr:postcode": "41121",
+                "addr:street": "Via Nonantolana",
+                "building": "retail",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "phone": "+39 059 250344",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 636947690,
+            "timestamp": "2018-10-22T18:38:39Z",
+            "version": 1,
+            "changeset": 63769142,
+            "user": "Dante Torreggiani",
+            "uid": 7411601,
+            "nodes": [
+                6005631689,
+                6005631694,
+                6005631690,
+                6005631691,
+                6005631692,
+                6005631693,
+                6005631689
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "operator": "Tamoil"
             }
         },
         {
@@ -2206,6 +2363,34 @@
                 "phone": "+39 045 4571622",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/stores/verona-c-c-adigeo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1314587074,
+            "timestamp": "2024-09-10T09:02:16Z",
+            "version": 1,
+            "changeset": 156429318,
+            "user": "Map47",
+            "uid": 11976,
+            "nodes": [
+                2268196206,
+                2268196201,
+                2268196197,
+                2268196191,
+                2268196188,
+                2268196194,
+                12165360953,
+                12165360954,
+                12165360955,
+                2268196206
+            ],
+            "tags": {
+                "amenity": "childcare",
+                "building": "yes",
+                "name": "Asilo nido \"I cuccioli\"",
+                "operator": "Calzedonia",
+                "operator:type": "private"
             }
         },
         {

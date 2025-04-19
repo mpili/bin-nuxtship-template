@@ -6,6 +6,31 @@
     "poi": [
         {
             "type": "node",
+            "id": 228302011,
+            "lat": 44.376298,
+            "lon": 8.037529,
+            "timestamp": "2023-09-04T21:33:21Z",
+            "version": 7,
+            "changeset": 140824137,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:housenumber": "51",
+                "addr:street": "Via San Bernardino",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "ref:mise": "4938",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
             "id": 256569202,
             "lat": 44.4138257,
             "lon": 8.9544035,
@@ -61,6 +86,31 @@
                 "stars": "4",
                 "tourism": "hotel",
                 "website": "https://www.palazzocicala.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 912113100,
+            "lat": 44.4057489,
+            "lon": 8.9407066,
+            "timestamp": "2025-03-29T07:43:52Z",
+            "version": 9,
+            "changeset": 164237493,
+            "user": "LucioGE",
+            "uid": 326642,
+            "tags": {
+                "addr:housenumber": "99 rosso",
+                "addr:postcode": "16121",
+                "addr:street": "Via Venti Settembre",
+                "alt_name": "Crovetto",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "opening_hours": "Mo-Sa 09:00-19:30",
+                "operator": "Expert",
+                "phone": "+39 010 562978",
+                "shop": "electronics"
             }
         },
         {
@@ -382,6 +432,21 @@
                 "name": "Ferramenta Chiodo Scaccia Chiodo",
                 "phone": "+39 019 990219",
                 "shop": "hardware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3569397516,
+            "lat": 44.4016153,
+            "lon": 8.942679,
+            "timestamp": "2018-09-21T14:15:50Z",
+            "version": 3,
+            "changeset": 62799440,
+            "user": "Ale_Zena_IT",
+            "uid": 22290,
+            "tags": {
+                "disused:amenity": "fuel",
+                "operator": "Q8"
             }
         },
         {

@@ -6,6 +6,60 @@
     "poi": [
         {
             "type": "node",
+            "id": 227770717,
+            "lat": 45.025525,
+            "lon": 7.639645,
+            "timestamp": "2022-10-31T11:23:02Z",
+            "version": 4,
+            "changeset": 128293331,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227793443,
+            "lat": 45.0875,
+            "lon": 7.691111,
+            "timestamp": "2024-11-09T23:22:38Z",
+            "version": 5,
+            "changeset": 158951922,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "disused:amenity": "fuel",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227968685,
+            "lat": 45.10555,
+            "lon": 7.65746,
+            "timestamp": "2022-07-24T09:05:49Z",
+            "version": 4,
+            "changeset": 124001481,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
             "id": 1114771195,
             "lat": 45.0346753,
             "lon": 7.6664757,
@@ -377,6 +431,23 @@
                 "phone": "+39 0113202382",
                 "ref:vatin": "IT05614630019",
                 "website": "https://www.pubjohnlennontorino.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3563452899,
+            "lat": 45.0990228,
+            "lon": 7.6373179,
+            "timestamp": "2015-06-01T12:31:14Z",
+            "version": 1,
+            "changeset": 31632749,
+            "user": "lukasbrunner",
+            "uid": 348712,
+            "tags": {
+                "amenity": "car_wash",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
             }
         },
         {
@@ -2596,6 +2667,30 @@
                 "roof:shape": "flat",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 487234348,
+            "timestamp": "2023-10-17T17:21:26Z",
+            "version": 2,
+            "changeset": 142722558,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4797438827,
+                4797438828,
+                4797438829,
+                4797438830,
+                4797438827
+            ],
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "building": "yes",
+                "name": "Expert",
+                "operator": "Expert",
+                "shop": "electronics"
             }
         },
         {

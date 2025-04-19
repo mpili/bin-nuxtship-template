@@ -12,6 +12,23 @@
     "poi": [
         {
             "type": "node",
+            "id": 227895561,
+            "lat": 43.751397,
+            "lon": 11.243084,
+            "timestamp": "2014-09-17T13:22:10Z",
+            "version": 3,
+            "changeset": 25500680,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 1491161940,
             "lat": 43.4069495,
             "lon": 11.1658857,
@@ -737,6 +754,39 @@
                 "payment:onchain": "yes",
                 "phone": "+39 324 628 8800",
                 "website": "https://locations.coinflip.tech/it/ar/arezzo/via-eritrea-7/7a"
+            }
+        },
+        {
+            "type": "way",
+            "id": 161023267,
+            "timestamp": "2023-09-20T08:05:39Z",
+            "version": 9,
+            "changeset": 141500103,
+            "user": "Gioele2704",
+            "uid": 18940820,
+            "nodes": [
+                1730294576,
+                1730294577,
+                1730294578,
+                1730294579,
+                1730294581,
+                7276593794,
+                1730294583,
+                7276593787,
+                1730294591,
+                3904140529,
+                11037121742,
+                1730294589,
+                3904140523,
+                1730294587,
+                2338644953,
+                1730294576
+            ],
+            "tags": {
+                "area": "yes",
+                "highway": "services",
+                "name": "Area di servizio Lastra a Signa",
+                "operator": "Q8"
             }
         },
         {

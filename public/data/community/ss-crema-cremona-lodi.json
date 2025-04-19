@@ -11,6 +11,201 @@
     "poi": [
         {
             "type": "node",
+            "id": 226937954,
+            "lat": 45.3610179,
+            "lon": 10.1609453,
+            "timestamp": "2024-09-05T17:31:31Z",
+            "version": 5,
+            "changeset": 156241875,
+            "user": "bbgg",
+            "uid": 4126696,
+            "tags": {
+                "addr:city": "Manerbio Brescia",
+                "addr:housenumber": "1",
+                "addr:postcode": "25025",
+                "addr:street": "Via Leno",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227516857,
+            "lat": 45.4696329,
+            "lon": 9.2351837,
+            "timestamp": "2022-07-06T18:26:04Z",
+            "version": 6,
+            "changeset": 123288658,
+            "user": "Mohamed_Elgohary",
+            "uid": 13600761,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "no",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227516876,
+            "lat": 45.4611654,
+            "lon": 9.1630362,
+            "timestamp": "2023-03-22T22:05:36Z",
+            "version": 7,
+            "changeset": 133998243,
+            "user": "fick89",
+            "uid": 1781586,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "6",
+                "addr:postcode": "20144",
+                "addr:street": "Piazzale Aquileia",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "phone": "+39024813603",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227516935,
+            "lat": 45.475149,
+            "lon": 9.141955,
+            "timestamp": "2021-02-26T08:33:27Z",
+            "version": 4,
+            "changeset": 100032683,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227529200,
+            "lat": 45.61821,
+            "lon": 9.593886,
+            "timestamp": "2023-02-23T11:19:29Z",
+            "version": 4,
+            "changeset": 132920916,
+            "user": "LuSirto",
+            "uid": 506470,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228051827,
+            "lat": 45.069482,
+            "lon": 9.304532,
+            "timestamp": "2020-04-12T17:38:34Z",
+            "version": 4,
+            "changeset": 83434659,
+            "user": "PaulMe",
+            "uid": 2252448,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228114326,
+            "lat": 45.272516,
+            "lon": 9.253433,
+            "timestamp": "2014-09-17T13:36:27Z",
+            "version": 3,
+            "changeset": 25501059,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228158099,
+            "lat": 45.728677,
+            "lon": 9.400794,
+            "timestamp": "2014-09-17T13:22:39Z",
+            "version": 3,
+            "changeset": 25500680,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228182589,
+            "lat": 45.38693,
+            "lon": 9.54058,
+            "timestamp": "2023-08-21T12:35:16Z",
+            "version": 5,
+            "changeset": 140179547,
+            "user": "Francesco Zanaboni",
+            "uid": 11979968,
+            "tags": {
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "demolished:amenity": "fuel",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228745359,
+            "lat": 45.5633209,
+            "lon": 9.2168113,
+            "timestamp": "2014-09-17T13:22:36Z",
+            "version": 4,
+            "changeset": 25500680,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 269924649,
             "lat": 45.4799222,
             "lon": 9.1832687,
@@ -1349,11 +1544,11 @@
             "id": 4041812796,
             "lat": 45.4872454,
             "lon": 9.203395,
-            "timestamp": "2025-04-14T15:18:26Z",
-            "version": 8,
-            "changeset": 164944325,
-            "user": "Garage Sammartini",
-            "uid": 22763137,
+            "timestamp": "2025-04-18T16:07:40Z",
+            "version": 9,
+            "changeset": 165119823,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "access": "yes",
                 "addr:city": "Milano",
@@ -1364,10 +1559,11 @@
                 "amenity": "parking",
                 "capacity": "130",
                 "charge": "a partire da 5 euro l'ora",
-                "check_date": "2025-04-14",
+                "check_date": "2025-04-18",
+                "check_date:currency:XBT": "2025-04-18",
                 "covered": "yes",
                 "currency:XBT": "yes",
-                "description": "Parcheggio a 30 metri dalla stazione centrale di Milano. Aperto tutti i giorni dalle 5 alla 1 di notte. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com",
+                "description": "Parcheggio a 30 metri dalla stazione centrale di Milano. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com",
                 "email": "garagesammartini@gmail.com",
                 "fee": "yes",
                 "name": "Garage Sammartini",
@@ -1377,24 +1573,23 @@
                 "operator:type": "private",
                 "parking": "multi-storey",
                 "payment:american_express": "yes",
-                "payment:bitcoin": "yes",
                 "payment:cards": "yes",
                 "payment:cash": "yes",
                 "payment:coins": "yes",
                 "payment:contactless": "yes",
                 "payment:credit_cards": "yes",
-                "payment:cryptocurrencies": "yes",
                 "payment:debit_cards": "yes",
                 "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
                 "payment:maestro": "yes",
                 "payment:mastercard": "yes",
                 "payment:onchain": "yes",
                 "payment:visa": "yes",
-                "phone": "0266980835",
+                "phone": "+39 266980835",
                 "source": "local knowledge;survey",
                 "supervised": "yes",
                 "surface": "concrete",
-                "website": "www.garagesammartini.com",
+                "website": "https://garagesammartini.com/",
                 "wheelchair": "yes"
             }
         },
@@ -1603,6 +1798,27 @@
                 "ref:vatin": "IT02147260174",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4574145522,
+            "lat": 45.3637071,
+            "lon": 9.5493933,
+            "timestamp": "2023-08-29T09:51:34Z",
+            "version": 3,
+            "changeset": 140532513,
+            "user": "Francesco Zanaboni",
+            "uid": 11979968,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil",
+                "self_service": "only"
             }
         },
         {
@@ -1849,6 +2065,25 @@
                 "phone": "+39 0392450064",
                 "shop": "computer",
                 "website": "https://www.xxmigliasnc.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5323908087,
+            "lat": 45.4023894,
+            "lon": 9.9162824,
+            "timestamp": "2019-06-09T08:16:10Z",
+            "version": 2,
+            "changeset": 71065506,
+            "user": "Nikorzi",
+            "uid": 1157889,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -3443,6 +3678,21 @@
         },
         {
             "type": "node",
+            "id": 9326570345,
+            "lat": 45.3644276,
+            "lon": 9.3224326,
+            "timestamp": "2021-12-10T08:55:02Z",
+            "version": 1,
+            "changeset": 114775273,
+            "user": "rugamarcus",
+            "uid": 95387,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 9413783899,
             "lat": 45.7602701,
             "lon": 9.7907453,
@@ -3455,6 +3705,21 @@
                 "addr:city": "Albino",
                 "operator": "Conad",
                 "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9415670007,
+            "lat": 45.4446918,
+            "lon": 9.1180771,
+            "timestamp": "2022-01-13T14:29:05Z",
+            "version": 1,
+            "changeset": 116109794,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Q8"
             }
         },
         {
@@ -3526,6 +3791,23 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9675318135,
+            "lat": 45.5044553,
+            "lon": 9.3726855,
+            "timestamp": "2022-04-18T19:03:28Z",
+            "version": 1,
+            "changeset": 119874549,
+            "user": "LuSirto",
+            "uid": 506470,
+            "tags": {
+                "amenity": "charging_station",
+                "capacity": "2",
+                "description": "100KW",
+                "operator": "Q8"
             }
         },
         {
@@ -5941,6 +6223,30 @@
         },
         {
             "type": "way",
+            "id": 116520728,
+            "timestamp": "2016-04-20T10:09:11Z",
+            "version": 3,
+            "changeset": 38723782,
+            "user": "agnostico",
+            "uid": 3084054,
+            "nodes": [
+                1313337012,
+                1313337019,
+                1313337007,
+                1313337014,
+                1313337012
+            ],
+            "tags": {
+                "name": "UT Tamoil",
+                "operator": "Tamoil",
+                "power": "substation",
+                "ref:terna": "MMILTA1M",
+                "substation": "industrial",
+                "voltage": "132000"
+            }
+        },
+        {
+            "type": "way",
             "id": 168488037,
             "timestamp": "2024-06-14T12:48:22Z",
             "version": 6,
@@ -6216,6 +6522,103 @@
         },
         {
             "type": "way",
+            "id": 314085836,
+            "timestamp": "2024-06-25T13:06:22Z",
+            "version": 2,
+            "changeset": 153156624,
+            "user": "LuSirto",
+            "uid": 506470,
+            "nodes": [
+                3201264845,
+                3201264803,
+                3201264800,
+                3201264797,
+                3201264793,
+                3201264790,
+                3201264789,
+                3201264787,
+                3201264786,
+                3201264785,
+                3201264783,
+                3201264780,
+                3201264779,
+                3201264777,
+                3201264776,
+                3201264775,
+                3201264774,
+                3201264773,
+                3201264772,
+                675651530,
+                3201266764,
+                3201266766,
+                3201266767,
+                3201266765,
+                3201266763,
+                3201266762,
+                3201266761,
+                3201264856,
+                3201264850,
+                3201264846,
+                3201264845
+            ],
+            "tags": {
+                "highway": "services",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "way",
+            "id": 315369980,
+            "timestamp": "2015-03-27T22:47:37Z",
+            "version": 2,
+            "changeset": 29792918,
+            "user": "kaitu",
+            "uid": 69717,
+            "nodes": [
+                3422343254,
+                3422343252,
+                3214836193,
+                3214836194,
+                3422343254
+            ],
+            "tags": {
+                "amenity": "car_wash",
+                "building": "yes",
+                "operator": "Tamoil",
+                "source": "DbTR - Ingombro al suolo corpo edificato"
+            }
+        },
+        {
+            "type": "way",
+            "id": 318895544,
+            "timestamp": "2021-05-18T21:18:26Z",
+            "version": 3,
+            "changeset": 104915013,
+            "user": "fedc",
+            "uid": 602784,
+            "nodes": [
+                3252921942,
+                8743821682,
+                3252921943,
+                3252921945,
+                5335327511,
+                5335327512,
+                5335327513,
+                5335327514,
+                5335327515,
+                5335327745,
+                5335327516,
+                3252921942
+            ],
+            "tags": {
+                "brand": "Tamoil",
+                "landuse": "retail",
+                "operator": "Tamoil",
+                "source": "geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)"
+            }
+        },
+        {
+            "type": "way",
             "id": 345386806,
             "timestamp": "2023-12-27T17:59:36Z",
             "version": 9,
@@ -6239,6 +6642,31 @@
                 "opening_hours": "Mo-Sa 08:00-20:30, Su 09:00-13:00,15:00-19:00",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 353034100,
+            "timestamp": "2021-11-29T08:44:43Z",
+            "version": 3,
+            "changeset": 114351226,
+            "user": "f_gonella",
+            "uid": 8716397,
+            "nodes": [
+                228096868,
+                3588165152,
+                3588165141,
+                3588165150,
+                228096868
+            ],
+            "tags": {
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "demolished:building": "roof",
+                "disused:amenity": "fuel",
+                "name": "Tamoil",
+                "operator": "Tamoil"
             }
         },
         {
@@ -6603,6 +7031,39 @@
                 "currency:XBT": "yes",
                 "name": "Mondo Convenienza",
                 "shop": "furniture",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 14738852,
+            "timestamp": "2022-10-27T15:17:00Z",
+            "version": 1,
+            "changeset": 128135025,
+            "user": "LuSirto",
+            "uid": 506470,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 1107407968,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 1107407970,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes",
                 "type": "multipolygon"
             }
         }

@@ -6,6 +6,80 @@
     "poi": [
         {
             "type": "node",
+            "id": 227878999,
+            "lat": 46.102072,
+            "lon": 12.188172,
+            "timestamp": "2017-02-02T10:00:03Z",
+            "version": 4,
+            "changeset": 45741732,
+            "user": "Ale Naldo",
+            "uid": 4119609,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Energica_Tv",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227888880,
+            "lat": 45.9333788,
+            "lon": 12.3749637,
+            "timestamp": "2024-10-03T10:53:44Z",
+            "version": 5,
+            "changeset": 157412739,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228301856,
+            "lat": 46.00804,
+            "lon": 13.12145,
+            "timestamp": "2022-05-17T09:18:38Z",
+            "version": 7,
+            "changeset": 121089086,
+            "user": "Attila _import",
+            "uid": 7971168,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Q8",
+                "ref:mise": "51813"
+            }
+        },
+        {
+            "type": "node",
+            "id": 276790099,
+            "lat": 46.1369126,
+            "lon": 12.2040192,
+            "timestamp": "2023-02-05T19:47:01Z",
+            "version": 7,
+            "changeset": 132126191,
+            "user": "diegomodolo",
+            "uid": 8109808,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8 Easy",
+                "brand:wikidata": "Q1806948",
+                "name": "Q8 Easy",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 858370383,
             "lat": 45.6761512,
             "lon": 12.3345096,
@@ -167,6 +241,24 @@
         },
         {
             "type": "node",
+            "id": 2349417239,
+            "lat": 45.6809117,
+            "lon": 12.2521429,
+            "timestamp": "2022-07-29T20:20:35Z",
+            "version": 2,
+            "changeset": 124246875,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 2589634625,
             "lat": 45.6653415,
             "lon": 12.2463668,
@@ -255,6 +347,27 @@
                 "survey:date": "2023-10-13",
                 "website": "https://www.decathlon.it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3741343756,
+            "lat": 46.08631,
+            "lon": 12.6526404,
+            "timestamp": "2020-01-22T21:01:43Z",
+            "version": 2,
+            "changeset": 79937567,
+            "user": "jakarta87",
+            "uid": 1707808,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "no",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "survey:date": "2020-01-22"
             }
         },
         {

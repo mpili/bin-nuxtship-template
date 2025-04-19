@@ -7,7 +7,7 @@
     "idlocalita": "umbria",
     "telegram_weburl": "https://web.telegram.org/a/#-1001984558936",
     "telegram_app": "https://t.me/satoshispritzumbria",
-    "telegram_members": 66.0,
+    "telegram_members": 67.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -803,6 +803,48 @@
                 "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 542997723,
+            "timestamp": "2017-11-26T21:43:18Z",
+            "version": 2,
+            "changeset": 54106247,
+            "user": "Saturnman0_8",
+            "uid": 7043805,
+            "nodes": [
+                5249487334,
+                5249487335,
+                5249487336,
+                5249487337,
+                5249487334
+            ],
+            "tags": {
+                "building": "retail",
+                "building:levels": "1",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "way",
+            "id": 731264508,
+            "timestamp": "2019-10-04T07:27:33Z",
+            "version": 2,
+            "changeset": 75264786,
+            "user": "ironmarc75",
+            "uid": 1719581,
+            "nodes": [
+                6849494076,
+                6849494077,
+                6849494078,
+                6849494079,
+                6849494076
+            ],
+            "tags": {
+                "area": "yes",
+                "highway": "services",
+                "operator": "Tamoil"
             }
         }
     ],

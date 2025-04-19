@@ -55,6 +55,44 @@
         },
         {
             "type": "node",
+            "id": 365152244,
+            "lat": 43.9620001,
+            "lon": 12.4712187,
+            "timestamp": "2013-01-03T12:52:28Z",
+            "version": 3,
+            "changeset": 14511576,
+            "user": "nicorsm",
+            "uid": 634768,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 365152247,
+            "lat": 43.9734472,
+            "lon": 12.4847723,
+            "timestamp": "2024-09-12T16:58:43Z",
+            "version": 7,
+            "changeset": 156538180,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "compressed_air": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 503495931,
             "lat": 43.9790769,
             "lon": 12.6960604,
@@ -1017,6 +1055,31 @@
         },
         {
             "type": "node",
+            "id": 11422445303,
+            "lat": 43.763346,
+            "lon": 13.146821,
+            "timestamp": "2023-12-17T10:22:53Z",
+            "version": 2,
+            "changeset": 145209193,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Mondolfo",
+                "addr:milestone": "264.431",
+                "addr:postcode": "61037",
+                "addr:street": "Strada Statale 16 Adriatica",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil Mondolfo",
+                "operator": "Tamoil",
+                "ref:mise": "52138"
+            }
+        },
+        {
+            "type": "node",
             "id": 11694737988,
             "lat": 43.5978461,
             "lon": 13.3293507,
@@ -1236,6 +1299,29 @@
                 "name": "IKEA",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 223741461,
+            "timestamp": "2014-10-13T21:08:27Z",
+            "version": 2,
+            "changeset": 26059719,
+            "user": "Samuele Battarra",
+            "uid": 51179,
+            "nodes": [
+                2326058876,
+                2326059132,
+                2326059074,
+                2326058850,
+                2326058876
+            ],
+            "tags": {
+                "amenity": "car_wash",
+                "building": "yes",
+                "operator": "Tamoil",
+                "rer_edi_id:ref": "3eac9f0f-0716-43c6-9773-8ea1aa297f61",
+                "source": "Regione Emilia Romagna"
             }
         },
         {

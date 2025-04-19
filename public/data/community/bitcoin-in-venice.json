@@ -7,9 +7,45 @@
     "idlocalita": "venezia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001365579606",
     "telegram_app": "https://t.me/bitcoininvenice",
-    "telegram_members": 109.0,
+    "telegram_members": 110.0,
     "network": "bitcoinbeer",
     "poi": [
+        {
+            "type": "node",
+            "id": 227558827,
+            "lat": 45.3631235,
+            "lon": 11.782165,
+            "timestamp": "2014-03-03T17:09:31Z",
+            "version": 4,
+            "changeset": 20892213,
+            "user": "Aury88",
+            "uid": 579545,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 229115365,
+            "lat": 45.197961,
+            "lon": 12.29626,
+            "timestamp": "2024-10-08T13:37:12Z",
+            "version": 6,
+            "changeset": 157627397,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "fixme": "This object might have been dismantled, please check",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
         {
             "type": "node",
             "id": 334511575,
@@ -306,6 +342,24 @@
                 "shop": "supermarket",
                 "website": "https://www.conad.it",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2349417239,
+            "lat": 45.6809117,
+            "lon": 12.2521429,
+            "timestamp": "2022-07-29T20:20:35Z",
+            "version": 2,
+            "changeset": 124246875,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
             }
         },
         {
@@ -1025,6 +1079,28 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7283065093,
+            "lat": 45.523149,
+            "lon": 12.1558663,
+            "timestamp": "2022-05-05T08:45:52Z",
+            "version": 4,
+            "changeset": 120576818,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Maerne",
+                "addr:housenumber": "66",
+                "addr:postcode": "30030",
+                "addr:street": "Piazza Quattro Novembre",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -2244,6 +2320,48 @@
                 "shop": "furniture",
                 "website": "https://m.ikea.com/it/it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 136834591,
+            "timestamp": "2024-10-18T08:56:12Z",
+            "version": 4,
+            "changeset": 158040595,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                228772819,
+                1501176912,
+                1501176927,
+                1501176931,
+                1501176937,
+                1501176951,
+                1501176960,
+                1501176964,
+                1501176970,
+                1501176968,
+                1501176967,
+                1501176965,
+                1501176961,
+                1501176962,
+                1501176963,
+                1501176953,
+                1501176934,
+                1501176936,
+                1501176918,
+                1501176916,
+                1501176911,
+                1501176910,
+                228772819
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
             }
         },
         {

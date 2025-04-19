@@ -7,9 +7,25 @@
     "idlocalita": "puglia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001876214322",
     "telegram_app": "https://t.me/SatoshiSpritzPuglia",
-    "telegram_members": 30.0,
+    "telegram_members": 31.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 334223778,
+            "lat": 40.9951835,
+            "lon": 16.9134304,
+            "timestamp": "2024-01-01T13:37:35Z",
+            "version": 3,
+            "changeset": 145762328,
+            "user": "Ale_Zena_IT",
+            "uid": 22290,
+            "tags": {
+                "disused:amenity": "fuel",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
         {
             "type": "node",
             "id": 622527702,
@@ -695,6 +711,38 @@
                 "opening_hours": "Mo-Sa 09:00-13:00",
                 "payment:onchain": "yes",
                 "survey:date": "2025-02-28"
+            }
+        },
+        {
+            "type": "way",
+            "id": 410903080,
+            "timestamp": "2021-08-18T15:50:45Z",
+            "version": 2,
+            "changeset": 109883802,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                4126517710,
+                4126517763,
+                4126517803,
+                4126517806,
+                4126517817,
+                4126517818,
+                4126517756,
+                4126517794,
+                4126517716,
+                4126517659,
+                4126517710
+            ],
+            "tags": {
+                "addr:street": "Strada Statale 99 di Matera",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "building": "roof",
+                "name": "Q8",
+                "operator": "Q8"
             }
         },
         {

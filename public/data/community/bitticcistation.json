@@ -11,6 +11,26 @@
     "poi": [
         {
             "type": "node",
+            "id": 227909946,
+            "lat": 43.5084326,
+            "lon": 13.6247188,
+            "timestamp": "2023-10-27T15:17:31Z",
+            "version": 8,
+            "changeset": 143216041,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "no",
+                "waterway": "fuel"
+            }
+        },
+        {
+            "type": "node",
             "id": 893975167,
             "lat": 43.5522916,
             "lon": 13.512835,
@@ -943,6 +963,34 @@
         },
         {
             "type": "way",
+            "id": 32397799,
+            "timestamp": "2022-03-26T08:42:16Z",
+            "version": 4,
+            "changeset": 118938022,
+            "user": "Marco Renzi 1976",
+            "uid": 15146568,
+            "nodes": [
+                364476238,
+                364478042,
+                1837162624,
+                364478038,
+                1837162635,
+                1837162636,
+                364478033,
+                1837162633,
+                1837162631,
+                1837162632,
+                1837162630,
+                364476238
+            ],
+            "tags": {
+                "highway": "services",
+                "operator": "Q8",
+                "toilets": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 245784052,
             "timestamp": "2024-11-02T10:44:24Z",
             "version": 7,
@@ -1005,6 +1053,62 @@
                 "phone": "+39 0734 877371",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.007668.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 916914578,
+            "timestamp": "2024-11-08T16:03:06Z",
+            "version": 3,
+            "changeset": 158901623,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                8516113513,
+                8516113514,
+                8516113515,
+                8516113516,
+                8516113513
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "building": "roof",
+                "fuel:lpg": "yes",
+                "height": "5",
+                "layer": "1",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 916914581,
+            "timestamp": "2024-11-08T16:03:06Z",
+            "version": 3,
+            "changeset": 158901623,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                8516155829,
+                8516155830,
+                8516155831,
+                8516155832,
+                8516155829
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "height": "5",
+                "layer": "1",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
             }
         },
         {

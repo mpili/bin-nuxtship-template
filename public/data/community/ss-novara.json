@@ -12,6 +12,110 @@
     "poi": [
         {
             "type": "node",
+            "id": 227516857,
+            "lat": 45.4696329,
+            "lon": 9.2351837,
+            "timestamp": "2022-07-06T18:26:04Z",
+            "version": 6,
+            "changeset": 123288658,
+            "user": "Mohamed_Elgohary",
+            "uid": 13600761,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "no",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227516876,
+            "lat": 45.4611654,
+            "lon": 9.1630362,
+            "timestamp": "2023-03-22T22:05:36Z",
+            "version": 7,
+            "changeset": 133998243,
+            "user": "fick89",
+            "uid": 1781586,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "6",
+                "addr:postcode": "20144",
+                "addr:street": "Piazzale Aquileia",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "phone": "+39024813603",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227516935,
+            "lat": 45.475149,
+            "lon": 9.141955,
+            "timestamp": "2021-02-26T08:33:27Z",
+            "version": 4,
+            "changeset": 100032683,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227836703,
+            "lat": 45.595256,
+            "lon": 8.925778,
+            "timestamp": "2020-08-03T15:25:29Z",
+            "version": 4,
+            "changeset": 88883913,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227864492,
+            "lat": 45.578461,
+            "lon": 8.826061,
+            "timestamp": "2020-08-03T17:23:03Z",
+            "version": 4,
+            "changeset": 88888262,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
             "id": 228112539,
             "lat": 45.5793306,
             "lon": 8.259286,
@@ -41,6 +145,23 @@
                 "payment:onchain": "yes",
                 "phone": "+39 015 985944",
                 "ref:mise": "21273"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228745359,
+            "lat": 45.5633209,
+            "lon": 9.2168113,
+            "timestamp": "2014-09-17T13:22:36Z",
+            "version": 4,
+            "changeset": 25500680,
+            "user": "dgitto",
+            "uid": 554973,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "name": "Q8",
+                "operator": "Q8"
             }
         },
         {
@@ -887,6 +1008,31 @@
         },
         {
             "type": "node",
+            "id": 2613093371,
+            "lat": 45.4796878,
+            "lon": 8.8686372,
+            "timestamp": "2024-11-11T09:15:16Z",
+            "version": 6,
+            "changeset": 158999608,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "addr:city": "Marcallo con Casone",
+                "addr:country": "IT",
+                "addr:housenumber": "130",
+                "addr:postcode": "20010",
+                "addr:street": "Via Alcide De Gasperi",
+                "amenity": "fuel",
+                "brand": "Metano",
+                "brand:wikidata": "Q62294765",
+                "contact:phone": "+39 02 97621017",
+                "fuel:cng": "yes",
+                "name": "Metano",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 2621227929,
             "lat": 45.610388,
             "lon": 8.5223509,
@@ -1207,6 +1353,27 @@
         },
         {
             "type": "node",
+            "id": 3361675050,
+            "lat": 45.6119894,
+            "lon": 8.8535443,
+            "timestamp": "2020-08-03T15:25:29Z",
+            "version": 3,
+            "changeset": 88883913,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3374366945,
             "lat": 45.6424739,
             "lon": 8.8197142,
@@ -1466,11 +1633,11 @@
             "id": 4041812796,
             "lat": 45.4872454,
             "lon": 9.203395,
-            "timestamp": "2025-04-14T15:18:26Z",
-            "version": 8,
-            "changeset": 164944325,
-            "user": "Garage Sammartini",
-            "uid": 22763137,
+            "timestamp": "2025-04-18T16:07:40Z",
+            "version": 9,
+            "changeset": 165119823,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "access": "yes",
                 "addr:city": "Milano",
@@ -1481,10 +1648,11 @@
                 "amenity": "parking",
                 "capacity": "130",
                 "charge": "a partire da 5 euro l'ora",
-                "check_date": "2025-04-14",
+                "check_date": "2025-04-18",
+                "check_date:currency:XBT": "2025-04-18",
                 "covered": "yes",
                 "currency:XBT": "yes",
-                "description": "Parcheggio a 30 metri dalla stazione centrale di Milano. Aperto tutti i giorni dalle 5 alla 1 di notte. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com",
+                "description": "Parcheggio a 30 metri dalla stazione centrale di Milano. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com",
                 "email": "garagesammartini@gmail.com",
                 "fee": "yes",
                 "name": "Garage Sammartini",
@@ -1494,24 +1662,23 @@
                 "operator:type": "private",
                 "parking": "multi-storey",
                 "payment:american_express": "yes",
-                "payment:bitcoin": "yes",
                 "payment:cards": "yes",
                 "payment:cash": "yes",
                 "payment:coins": "yes",
                 "payment:contactless": "yes",
                 "payment:credit_cards": "yes",
-                "payment:cryptocurrencies": "yes",
                 "payment:debit_cards": "yes",
                 "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
                 "payment:maestro": "yes",
                 "payment:mastercard": "yes",
                 "payment:onchain": "yes",
                 "payment:visa": "yes",
-                "phone": "0266980835",
+                "phone": "+39 266980835",
                 "source": "local knowledge;survey",
                 "supervised": "yes",
                 "surface": "concrete",
-                "website": "www.garagesammartini.com",
+                "website": "https://garagesammartini.com/",
                 "wheelchair": "yes"
             }
         },
@@ -3202,6 +3369,21 @@
                 "payment:onchain": "yes",
                 "phone": "+447894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9415670007,
+            "lat": 45.4446918,
+            "lon": 9.1180771,
+            "timestamp": "2022-01-13T14:29:05Z",
+            "version": 1,
+            "changeset": 116109794,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "tags": {
+                "amenity": "car_wash",
+                "operator": "Q8"
             }
         },
         {
@@ -4935,6 +5117,29 @@
             }
         },
         {
+            "type": "node",
+            "id": 12765615229,
+            "lat": 45.1808534,
+            "lon": 8.4799052,
+            "timestamp": "2025-04-18T08:30:23Z",
+            "version": 1,
+            "changeset": 165100455,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Villanova Monferrato",
+                "addr:housenumber": "49",
+                "addr:postcode": "15030",
+                "addr:street": "Via Pietro Bosso",
+                "currency:XBT": "yes",
+                "description": "Vendita di prodotti agricoli, riso e derivati.",
+                "email": "francesca@risodemichelis.com",
+                "name": "Azienda Agricola Demichelis Franco",
+                "phone": "+39 3495648196",
+                "shop": "farm"
+            }
+        },
+        {
             "type": "way",
             "id": 24037476,
             "timestamp": "2025-01-06T14:38:45Z",
@@ -5009,6 +5214,41 @@
                 "operator": "Ikea Italia Retail S.r.l.",
                 "ref:vatin": "IT02992760963",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 59468196,
+            "timestamp": "2024-12-28T15:45:53Z",
+            "version": 7,
+            "changeset": 160719124,
+            "user": "Mose53",
+            "uid": 20944140,
+            "nodes": [
+                737546080,
+                737546064,
+                1987375627,
+                1987375632,
+                1987375638,
+                737546092,
+                737545983,
+                737546080
+            ],
+            "tags": {
+                "addr:city": "Varese",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "21100",
+                "addr:street": "Via Filippo Corridoni",
+                "brand": "Eurospar",
+                "brand:wikidata": "Q12309283",
+                "building": "retail",
+                "check_date": "2024-12-28",
+                "disused:shop": "supermarket",
+                "name": "Eurospar",
+                "operator": "Despar",
+                "phone": "+39 0332 321072",
+                "wheelchair": "yes"
             }
         },
         {
@@ -5151,6 +5391,28 @@
                 "phone": "+39 0321 637797",
                 "shop": "supermarket",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 315369980,
+            "timestamp": "2015-03-27T22:47:37Z",
+            "version": 2,
+            "changeset": 29792918,
+            "user": "kaitu",
+            "uid": 69717,
+            "nodes": [
+                3422343254,
+                3422343252,
+                3214836193,
+                3214836194,
+                3422343254
+            ],
+            "tags": {
+                "amenity": "car_wash",
+                "building": "yes",
+                "operator": "Tamoil",
+                "source": "DbTR - Ingombro al suolo corpo edificato"
             }
         },
         {

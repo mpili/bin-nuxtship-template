@@ -12,6 +12,24 @@
     "poi": [
         {
             "type": "node",
+            "id": 228170017,
+            "lat": 44.1408866,
+            "lon": 12.2284879,
+            "timestamp": "2022-06-22T06:03:57Z",
+            "version": 5,
+            "changeset": 122693807,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
             "id": 269604393,
             "lat": 44.4391911,
             "lon": 12.2903665,
@@ -52,6 +70,44 @@
                 "name": "Conad Boschetto",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 365152244,
+            "lat": 43.9620001,
+            "lon": 12.4712187,
+            "timestamp": "2013-01-03T12:52:28Z",
+            "version": 3,
+            "changeset": 14511576,
+            "user": "nicorsm",
+            "uid": 634768,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 365152247,
+            "lat": 43.9734472,
+            "lon": 12.4847723,
+            "timestamp": "2024-09-12T16:58:43Z",
+            "version": 7,
+            "changeset": 156538180,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "compressed_air": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1700,6 +1756,36 @@
         },
         {
             "type": "way",
+            "id": 162973898,
+            "timestamp": "2014-12-26T14:06:19Z",
+            "version": 4,
+            "changeset": 27709008,
+            "user": "fra76mm",
+            "uid": 99231,
+            "nodes": [
+                1747608665,
+                1747608667,
+                1747608668,
+                1747608666,
+                1747608664,
+                1747608657,
+                1747608656,
+                2313381860,
+                1747608658,
+                2313381870,
+                1747608662,
+                1747608665
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "building": "yes",
+                "operator": "Q8",
+                "source": "Regione Emilia Romagna"
+            }
+        },
+        {
+            "type": "way",
             "id": 181544421,
             "timestamp": "2023-11-10T13:25:18Z",
             "version": 5,
@@ -1808,6 +1894,29 @@
                 "name": "IKEA",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 223741461,
+            "timestamp": "2014-10-13T21:08:27Z",
+            "version": 2,
+            "changeset": 26059719,
+            "user": "Samuele Battarra",
+            "uid": 51179,
+            "nodes": [
+                2326058876,
+                2326059132,
+                2326059074,
+                2326058850,
+                2326058876
+            ],
+            "tags": {
+                "amenity": "car_wash",
+                "building": "yes",
+                "operator": "Tamoil",
+                "rer_edi_id:ref": "3eac9f0f-0716-43c6-9773-8ea1aa297f61",
+                "source": "Regione Emilia Romagna"
             }
         },
         {

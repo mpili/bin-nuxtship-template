@@ -7,9 +7,83 @@
     "idlocalita": "padova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001686253647",
     "telegram_app": "https://t.me/SatoshiSpritzPadova",
-    "telegram_members": 110.0,
+    "telegram_members": 109.0,
     "network": "satoshispritz",
     "poi": [
+        {
+            "type": "node",
+            "id": 227558827,
+            "lat": 45.3631235,
+            "lon": 11.782165,
+            "timestamp": "2014-03-03T17:09:31Z",
+            "version": 4,
+            "changeset": 20892213,
+            "user": "Aury88",
+            "uid": 579545,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227571007,
+            "lat": 45.550285,
+            "lon": 11.563621,
+            "timestamp": "2020-12-28T21:52:38Z",
+            "version": 4,
+            "changeset": 96560448,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227816404,
+            "lat": 45.49967,
+            "lon": 11.579483,
+            "timestamp": "2020-12-28T21:52:38Z",
+            "version": 4,
+            "changeset": 96560448,
+            "user": "Davide Baroffio",
+            "uid": 9082724,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 229115365,
+            "lat": 45.197961,
+            "lon": 12.29626,
+            "timestamp": "2024-10-08T13:37:12Z",
+            "version": 6,
+            "changeset": 157627397,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "fixme": "This object might have been dismantled, please check",
+                "name": "Q8",
+                "operator": "Q8"
+            }
+        },
         {
             "type": "node",
             "id": 334511575,
@@ -405,6 +479,24 @@
                 "operator": "Unieuro S.p.A.",
                 "ref:vatin": "IT03327030965",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2349417239,
+            "lat": 45.6809117,
+            "lon": 12.2521429,
+            "timestamp": "2022-07-29T20:20:35Z",
+            "version": 2,
+            "changeset": 124246875,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8"
             }
         },
         {
@@ -1105,6 +1197,24 @@
         },
         {
             "type": "node",
+            "id": 5343149682,
+            "lat": 45.134421,
+            "lon": 11.7561773,
+            "timestamp": "2024-09-20T10:18:55Z",
+            "version": 2,
+            "changeset": 156860291,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 5418461939,
             "lat": 45.2275701,
             "lon": 11.5236765,
@@ -1288,6 +1398,28 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7283065093,
+            "lat": 45.523149,
+            "lon": 12.1558663,
+            "timestamp": "2022-05-05T08:45:52Z",
+            "version": 4,
+            "changeset": 120576818,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Maerne",
+                "addr:housenumber": "66",
+                "addr:postcode": "30030",
+                "addr:street": "Piazza Quattro Novembre",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -2638,6 +2770,74 @@
                 "shop": "furniture",
                 "website": "https://m.ikea.com/it/it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 136834591,
+            "timestamp": "2024-10-18T08:56:12Z",
+            "version": 4,
+            "changeset": 158040595,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                228772819,
+                1501176912,
+                1501176927,
+                1501176931,
+                1501176937,
+                1501176951,
+                1501176960,
+                1501176964,
+                1501176970,
+                1501176968,
+                1501176967,
+                1501176965,
+                1501176961,
+                1501176962,
+                1501176963,
+                1501176953,
+                1501176934,
+                1501176936,
+                1501176918,
+                1501176916,
+                1501176911,
+                1501176910,
+                228772819
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 146407505,
+            "timestamp": "2025-01-05T17:18:16Z",
+            "version": 4,
+            "changeset": 161029545,
+            "user": "Dasc3er",
+            "uid": 18828247,
+            "nodes": [
+                1596789203,
+                1596789097,
+                1596789113,
+                1596789225,
+                1596789203
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "building": "roof",
+                "check_date": "2025-01-05",
+                "layer": "1",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Tamoil"
             }
         },
         {

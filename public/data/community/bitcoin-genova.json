@@ -7,9 +7,27 @@
     "idlocalita": "genova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001731437379",
     "telegram_app": "https://t.me/BitcoinGenova",
-    "telegram_members": 80.0,
+    "telegram_members": 81.0,
     "network": "bitcoinbeer",
     "poi": [
+        {
+            "type": "node",
+            "id": 227985057,
+            "lat": 44.6881832,
+            "lon": 8.8073528,
+            "timestamp": "2023-08-13T20:29:59Z",
+            "version": 5,
+            "changeset": 139843185,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Tamoil"
+            }
+        },
         {
             "type": "node",
             "id": 256569202,
@@ -67,6 +85,31 @@
                 "stars": "4",
                 "tourism": "hotel",
                 "website": "https://www.palazzocicala.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 912113100,
+            "lat": 44.4057489,
+            "lon": 8.9407066,
+            "timestamp": "2025-03-29T07:43:52Z",
+            "version": 9,
+            "changeset": 164237493,
+            "user": "LucioGE",
+            "uid": 326642,
+            "tags": {
+                "addr:housenumber": "99 rosso",
+                "addr:postcode": "16121",
+                "addr:street": "Via Venti Settembre",
+                "alt_name": "Crovetto",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "opening_hours": "Mo-Sa 09:00-19:30",
+                "operator": "Expert",
+                "phone": "+39 010 562978",
+                "shop": "electronics"
             }
         },
         {
@@ -388,6 +431,21 @@
                 "name": "Ferramenta Chiodo Scaccia Chiodo",
                 "phone": "+39 019 990219",
                 "shop": "hardware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3569397516,
+            "lat": 44.4016153,
+            "lon": 8.942679,
+            "timestamp": "2018-09-21T14:15:50Z",
+            "version": 3,
+            "changeset": 62799440,
+            "user": "Ale_Zena_IT",
+            "uid": 22290,
+            "tags": {
+                "disused:amenity": "fuel",
+                "operator": "Q8"
             }
         },
         {
@@ -1672,6 +1730,34 @@
                 "currency:XBT": "yes",
                 "name": "Mondo Convenienza",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 226614949,
+            "timestamp": "2018-05-21T05:38:03Z",
+            "version": 4,
+            "changeset": 59138994,
+            "user": "fepede",
+            "uid": 1443650,
+            "nodes": [
+                2353872200,
+                2353872127,
+                2353872392,
+                2353872403,
+                4556554518,
+                2353872547,
+                2353872352,
+                2353872200
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "building": "house",
+                "lit": "yes",
+                "operator": "Expert",
+                "parking": "rooftop",
+                "source": "Regione Liguria"
             }
         },
         {
