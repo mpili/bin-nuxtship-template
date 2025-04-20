@@ -53,12 +53,15 @@
             "id": 1424271419,
             "lat": 40.3640408,
             "lon": 18.1476013,
-            "timestamp": "2021-10-30T18:26:14Z",
-            "version": 4,
-            "changeset": 113170732,
-            "user": "Ale_Zena_IT",
-            "uid": 22290,
+            "timestamp": "2025-04-20T06:54:30Z",
+            "version": 5,
+            "changeset": 165179205,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Lecce",
+                "addr:postcode": "73100",
+                "addr:street": "Via Taranto",
                 "amenity": "fuel",
                 "name": "Q8",
                 "operator": "Q8",
@@ -483,6 +486,32 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "3802043937"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12722928122,
+            "lat": 40.5770097,
+            "lon": 17.8321372,
+            "timestamp": "2025-04-20T08:26:35Z",
+            "version": 2,
+            "changeset": 165181924,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Mesagne",
+                "addr:street": "Via Antonio Montagna",
+                "branch": "Distante",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "name": "Expert",
+                "operator": "Expert",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+390831777754",
+                "shop": "electronics",
+                "wikipedia": "it:Expert"
             }
         },
         {
