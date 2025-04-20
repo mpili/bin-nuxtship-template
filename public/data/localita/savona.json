@@ -93,12 +93,13 @@
             "id": 912113100,
             "lat": 44.4057489,
             "lon": 8.9407066,
-            "timestamp": "2025-03-29T07:43:52Z",
-            "version": 9,
-            "changeset": 164237493,
-            "user": "LucioGE",
-            "uid": 326642,
+            "timestamp": "2025-04-19T21:28:24Z",
+            "version": 10,
+            "changeset": 165171677,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Genova",
                 "addr:housenumber": "99 rosso",
                 "addr:postcode": "16121",
                 "addr:street": "Via Venti Settembre",
@@ -110,7 +111,8 @@
                 "opening_hours": "Mo-Sa 09:00-19:30",
                 "operator": "Expert",
                 "phone": "+39 010 562978",
-                "shop": "electronics"
+                "shop": "electronics",
+                "website": "https://www.expert-genova.com/"
             }
         },
         {
@@ -432,21 +434,6 @@
                 "name": "Ferramenta Chiodo Scaccia Chiodo",
                 "phone": "+39 019 990219",
                 "shop": "hardware"
-            }
-        },
-        {
-            "type": "node",
-            "id": 3569397516,
-            "lat": 44.4016153,
-            "lon": 8.942679,
-            "timestamp": "2018-09-21T14:15:50Z",
-            "version": 3,
-            "changeset": 62799440,
-            "user": "Ale_Zena_IT",
-            "uid": 22290,
-            "tags": {
-                "disused:amenity": "fuel",
-                "operator": "Q8"
             }
         },
         {

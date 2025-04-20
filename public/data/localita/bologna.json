@@ -267,13 +267,13 @@
         {
             "type": "node",
             "id": 2529770201,
-            "lat": 44.4697516,
-            "lon": 11.6335825,
-            "timestamp": "2024-12-30T22:59:36Z",
-            "version": 4,
-            "changeset": 160813431,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 44.4696435,
+            "lon": 11.6333493,
+            "timestamp": "2025-04-20T08:58:23Z",
+            "version": 6,
+            "changeset": 165183061,
+            "user": "DavAlb",
+            "uid": 65589,
             "tags": {
                 "addr:city": "Medicina",
                 "addr:housenumber": "594",
@@ -283,7 +283,11 @@
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
                 "operator": "Conad",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
                 "shop": "supermarket"
             }
         },

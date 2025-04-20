@@ -9,17 +9,42 @@
             "id": 226951843,
             "lat": 40.025384,
             "lon": 9.168579,
-            "timestamp": "2022-09-26T12:21:45Z",
-            "version": 4,
-            "changeset": 126653919,
-            "user": "woy_cb",
-            "uid": 284094,
+            "timestamp": "2025-04-19T14:09:31Z",
+            "version": 6,
+            "changeset": 165155522,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Tonara",
+                "addr:postcode": "08039",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
                 "name": "Q8",
                 "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 775971539,
+            "lat": 40.3276157,
+            "lon": 9.3393533,
+            "timestamp": "2025-04-20T08:56:26Z",
+            "version": 4,
+            "changeset": 165182973,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Nuoro",
+                "addr:postcode": "08100",
+                "addr:street": "Viale La Solitudine",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8",
+                "ref:mise": "6699"
             }
         },
         {
@@ -229,6 +254,35 @@
                 "shop": "supermarket",
                 "toilets": "yes",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.008430.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 267200635,
+            "timestamp": "2025-04-20T08:55:50Z",
+            "version": 5,
+            "changeset": 165182951,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "nodes": [
+                2726703555,
+                2726703556,
+                2726703557,
+                2726703558,
+                2726703555
+            ],
+            "tags": {
+                "addr:city": "Nuoro",
+                "addr:postcode": "08100",
+                "addr:street": "Via Lombardia",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8",
+                "ref:mise": "6697",
+                "source:date": "2018-04-16"
             }
         },
         {

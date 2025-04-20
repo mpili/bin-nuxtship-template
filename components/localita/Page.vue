@@ -51,8 +51,8 @@ useHead({
 
   <div class="md:w-full">
     <LMap
-      style="height: 224px"
-      :zoom="10"
+      style="height: 300px"
+      :zoom="9"
       :center="[data.lng, data.lat]"
       :use-global-leaflet="false"
     >
