@@ -184,6 +184,30 @@
         },
         {
             "type": "node",
+            "id": 3061915879,
+            "lat": 40.6265732,
+            "lon": 14.3781877,
+            "timestamp": "2025-04-21T08:23:42Z",
+            "version": 6,
+            "changeset": 165225644,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Sorrento",
+                "addr:postcode": "80067",
+                "addr:street": "Corso Italia",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi Uomo",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "website": "https://www.intimissimi.com/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3344792543,
             "lat": 40.8533607,
             "lon": 14.2692365,
@@ -637,12 +661,15 @@
             "id": 6561554808,
             "lat": 40.9170045,
             "lon": 14.2079362,
-            "timestamp": "2024-12-13T16:50:28Z",
-            "version": 2,
-            "changeset": 160253999,
-            "user": "damianeue",
-            "uid": 10124288,
+            "timestamp": "2025-04-20T20:43:19Z",
+            "version": 3,
+            "changeset": 165211776,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Mugnano di Napoli",
+                "addr:postcode": "80018",
+                "addr:street": "Via Pietro Nenni",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "name": "Despar",
@@ -673,6 +700,28 @@
                 "name": "CryptoLocalATM c/o R.A.M.I.R.A.",
                 "payment:onchain": "yes",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7193493333,
+            "lat": 40.836174,
+            "lon": 14.245535,
+            "timestamp": "2025-04-21T08:37:15Z",
+            "version": 3,
+            "changeset": 165226280,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:postcode": "80121",
+                "addr:street": "Via Chiaia",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
             }
         },
         {
@@ -855,6 +904,29 @@
         },
         {
             "type": "node",
+            "id": 7692128308,
+            "lat": 41.0077306,
+            "lon": 14.3208651,
+            "timestamp": "2025-04-21T08:22:03Z",
+            "version": 4,
+            "changeset": 165225583,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Marcianise",
+                "addr:postcode": "81025",
+                "addr:street": "La Reggia Designer Outlet",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "opening_hours": "Mo-Su 10:00-21:00",
+                "operator": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 7798539888,
             "lat": 41.2285371,
             "lon": 14.4915233,
@@ -1011,6 +1083,29 @@
                 "brand:wikipedia": "en:OVS (company)",
                 "name": "OVS",
                 "operator": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8538618012,
+            "lat": 40.9509539,
+            "lon": 14.4879239,
+            "timestamp": "2025-04-21T08:24:41Z",
+            "version": 2,
+            "changeset": 165225681,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Nola",
+                "addr:postcode": "80035",
+                "addr:street": "Centro Commerciale Vulcano Buono",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
                 "shop": "clothes"
             }
         },
@@ -1532,6 +1627,30 @@
         },
         {
             "type": "node",
+            "id": 10237862174,
+            "lat": 40.6762753,
+            "lon": 14.7676779,
+            "timestamp": "2025-04-21T08:36:42Z",
+            "version": 3,
+            "changeset": 165226260,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Salerno",
+                "addr:postcode": "84122",
+                "addr:street": "Corso Vittorio Emanuele",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "check_date": "2024-10-14",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 10828979585,
             "lat": 41.0163626,
             "lon": 14.2233214,
@@ -1577,6 +1696,30 @@
                 "shop": "convenience",
                 "survey:date": "2023-05-08",
                 "website": "https://www.biocorner.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10908044848,
+            "lat": 40.626568,
+            "lon": 14.3781233,
+            "timestamp": "2025-04-21T08:24:15Z",
+            "version": 2,
+            "changeset": 165225664,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Sorrento",
+                "addr:postcode": "80067",
+                "addr:street": "Corso Italia",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "website": "https://www.intimissimi.com/"
             }
         },
         {
@@ -1678,6 +1821,28 @@
                 "name": "AdBlue",
                 "operator": "Q8",
                 "vending": "fuel"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11403277299,
+            "lat": 40.9134611,
+            "lon": 14.7858154,
+            "timestamp": "2025-04-21T08:35:09Z",
+            "version": 2,
+            "changeset": 165226191,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Avellino",
+                "addr:postcode": "83100",
+                "addr:street": "Corso Vittorio Emanuele II",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
             }
         },
         {

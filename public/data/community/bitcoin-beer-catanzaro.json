@@ -7,7 +7,7 @@
     "idlocalita": "catanzaro",
     "telegram_weburl": "https://web.telegram.org/a/#-1002045815905",
     "telegram_app": "https://t.me/bitcoinbeercatanzaro",
-    "telegram_members": 10.0,
+    "telegram_members": 36.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -179,6 +179,29 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11417938756,
+            "lat": 38.8447871,
+            "lon": 16.6451034,
+            "timestamp": "2025-04-21T08:20:03Z",
+            "version": 3,
+            "changeset": 165225495,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Catanzaro",
+                "addr:postcode": "88100",
+                "addr:street": "Viale Emilia",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes",
                 "wheelchair": "yes"
             }
         },

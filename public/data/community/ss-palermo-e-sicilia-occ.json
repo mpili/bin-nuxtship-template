@@ -318,6 +318,32 @@
         },
         {
             "type": "node",
+            "id": 7961948220,
+            "lat": 38.1230984,
+            "lon": 13.3564916,
+            "timestamp": "2025-04-21T08:13:38Z",
+            "version": 5,
+            "changeset": 165225252,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "46",
+                "addr:postcode": "90139",
+                "addr:street": "Via Ruggero Settimo",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "phone": "+39 091 328103",
+                "shop": "clothes",
+                "website": "https://www.intimissimi.com/it/palermo_via_ruggero_settimo_46/ID59.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 8121188263,
             "lat": 38.1035225,
             "lon": 13.3249638,
@@ -497,6 +523,28 @@
                 "phone": "+39 091 8121440",
                 "shop": "jewelry",
                 "website": "https://gioiellerialbanese.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11509236140,
+            "lat": 38.1834702,
+            "lon": 13.3092394,
+            "timestamp": "2025-04-21T08:13:09Z",
+            "version": 2,
+            "changeset": 165225232,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:postcode": "90146",
+                "addr:street": "Via San Nicola",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
             }
         },
         {
