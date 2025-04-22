@@ -87,6 +87,32 @@
         },
         {
             "type": "node",
+            "id": 3272828331,
+            "lat": 40.3539923,
+            "lon": 18.1782566,
+            "timestamp": "2025-04-21T08:38:35Z",
+            "version": 5,
+            "changeset": 165226341,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "16b",
+                "addr:postcode": "73100",
+                "addr:street": "Via Nazario Sauro",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "phone": "+39 0832 332372",
+                "ref:vatin": "IT06778980729",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4210004214,
             "lat": 40.7902268,
             "lon": 17.5702366,
@@ -182,6 +208,32 @@
                 "phone": "+39 3208818751",
                 "shop": "jewelry",
                 "website": "http://www.clamagioielli.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5300716140,
+            "lat": 40.375742,
+            "lon": 18.1446772,
+            "timestamp": "2025-04-21T08:40:34Z",
+            "version": 6,
+            "changeset": 165226425,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Surbo",
+                "addr:postcode": "73010",
+                "addr:street": "Via Rosanna Benzi",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "Intimissimi",
+                "phone": "+39 0832 244352",
+                "shop": "clothes",
+                "website": "https://it.intimissimi.com/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -346,6 +398,29 @@
                 "name": "Cripta Tattoo",
                 "phone": "+393894958272",
                 "shop": "tattoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11378022881,
+            "lat": 40.6184381,
+            "lon": 17.9020525,
+            "timestamp": "2025-04-21T08:38:09Z",
+            "version": 4,
+            "changeset": 165226320,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Mesagne",
+                "addr:postcode": "72100",
+                "addr:street": "Strada per lo Spada",
+                "brand": "Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {

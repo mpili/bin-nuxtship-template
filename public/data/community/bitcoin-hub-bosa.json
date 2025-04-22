@@ -7,7 +7,7 @@
     "idlocalita": "bosa",
     "telegram_weburl": "https://web.telegram.org/a/#-1001816429245",
     "telegram_app": "https://t.me/bitcoinbosa",
-    "telegram_members": 14.0,
+    "telegram_members": 18.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -31,6 +31,28 @@
                 "fuel:octane_95": "yes",
                 "name": "Q8",
                 "operator": "Q8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1564391273,
+            "lat": 39.9059811,
+            "lon": 8.5905861,
+            "timestamp": "2025-04-20T20:53:01Z",
+            "version": 6,
+            "changeset": 165212075,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:postcode": "09170",
+                "addr:street": "Piazza Roma",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -114,6 +136,74 @@
                 "phone": "+39 079 277282",
                 "tourism": "hotel",
                 "website": "http://www.hotelmarini.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3275220565,
+            "lat": 39.906483,
+            "lon": 8.5910649,
+            "timestamp": "2025-04-20T21:00:19Z",
+            "version": 6,
+            "changeset": 165212305,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:housenumber": "20",
+                "addr:postcode": "09170",
+                "addr:street": "Via Tirso",
+                "brand": "Calzedonia",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3275228483,
+            "lat": 39.9060544,
+            "lon": 8.5908841,
+            "timestamp": "2025-04-20T20:52:22Z",
+            "version": 6,
+            "changeset": 165212060,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:housenumber": "34",
+                "addr:postcode": "09170",
+                "addr:street": "Piazza Roma",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3275248037,
+            "lat": 39.9054515,
+            "lon": 8.5914631,
+            "timestamp": "2025-04-21T08:07:54Z",
+            "version": 7,
+            "changeset": 165225034,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:housenumber": "80",
+                "addr:postcode": "09170",
+                "addr:street": "Corso Umberto I",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
             }
         },
         {
@@ -234,6 +324,53 @@
         },
         {
             "type": "node",
+            "id": 8118353723,
+            "lat": 40.7264224,
+            "lon": 8.5618374,
+            "timestamp": "2025-04-20T20:51:50Z",
+            "version": 3,
+            "changeset": 165212046,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "4a",
+                "addr:postcode": "07100",
+                "addr:street": "Via Luigi Luzzatti",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8118353729,
+            "lat": 40.7266569,
+            "lon": 8.5615303,
+            "timestamp": "2025-04-21T08:12:20Z",
+            "version": 2,
+            "changeset": 165225210,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "9",
+                "addr:postcode": "07100",
+                "addr:street": "Via Luigi Luzzatti",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10106351131,
             "lat": 40.0229753,
             "lon": 8.414785,
@@ -255,6 +392,56 @@
                 "survey:date": "2022-11-03",
                 "tourism": "hotel",
                 "website": "https://nature-resort.ginepro.co/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11241167040,
+            "lat": 40.5588771,
+            "lon": 8.313566,
+            "timestamp": "2025-04-21T08:07:25Z",
+            "version": 3,
+            "changeset": 165225013,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Alghero",
+                "addr:postcode": "07041",
+                "addr:street": "Via Carlo Alberto",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 186287774,
+            "timestamp": "2025-04-20T09:00:31Z",
+            "version": 5,
+            "changeset": 165183134,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "nodes": [
+                1969691988,
+                1969691983,
+                1969691978,
+                1969691963,
+                1969691972,
+                1969691968,
+                1969691988
+            ],
+            "tags": {
+                "addr:street": "Strada Provinciale 70 Oristano Palmas Arborea",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Q8",
+                "ref:mise": "6696",
+                "source:date": "2018-04-16"
             }
         },
         {
@@ -352,6 +539,48 @@
                 "currency:XBT": "yes",
                 "name": "Mondo Convenienza",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 318232342,
+            "timestamp": "2025-04-20T09:01:04Z",
+            "version": 6,
+            "changeset": 165183148,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "nodes": [
+                3246272195,
+                3246272193,
+                3246272191,
+                3246272190,
+                3246272192,
+                3246272194,
+                3246272196,
+                3246272198,
+                3246272200,
+                3246272202,
+                3246272204,
+                3246272205,
+                3246272203,
+                3246272201,
+                3246272199,
+                3246272197,
+                3246272195
+            ],
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:postcode": "09170",
+                "addr:street": "Via Cagliari",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "layer": "1",
+                "name": "Q8",
+                "operator": "Q8",
+                "ref:mise": "23459",
+                "source:date": "2018-04-16"
             }
         },
         {

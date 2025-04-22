@@ -421,6 +421,30 @@
         },
         {
             "type": "node",
+            "id": 4228966247,
+            "lat": 39.2146376,
+            "lon": 9.1114382,
+            "timestamp": "2025-04-20T20:58:36Z",
+            "version": 4,
+            "changeset": 165212247,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "129",
+                "addr:postcode": "09124",
+                "addr:street": "Via Roma",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+            }
+        },
+        {
+            "type": "node",
             "id": 4228979833,
             "lat": 39.2173004,
             "lon": 9.1212942,
@@ -1053,6 +1077,29 @@
         },
         {
             "type": "node",
+            "id": 9603525508,
+            "lat": 39.2452877,
+            "lon": 9.1644167,
+            "timestamp": "2025-04-20T20:56:31Z",
+            "version": 2,
+            "changeset": 165212178,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Quartucciu",
+                "addr:postcode": "09044",
+                "addr:street": "Via delle Serre",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "level": "0",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10183246147,
             "lat": 39.2416936,
             "lon": 8.9972279,
@@ -1076,6 +1123,48 @@
                 "payment:onchain": "yes",
                 "phone": "+39 3388821215",
                 "website": "https://www.alexitalia.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10239868173,
+            "lat": 39.3031879,
+            "lon": 9.0659993,
+            "timestamp": "2025-04-20T20:55:57Z",
+            "version": 2,
+            "changeset": 165212167,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Sestu",
+                "addr:postcode": "09028",
+                "addr:street": "Strada comunale More Coraxe",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "level": "0",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "phone": "07022450",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10265955495,
+            "lat": 39.1427504,
+            "lon": 9.5200027,
+            "timestamp": "2025-04-20T20:54:34Z",
+            "version": 2,
+            "changeset": 165212120,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Villasimius",
+                "addr:postcode": "09049",
+                "addr:street": "Via Umberto Primo",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "boutique"
             }
         },
         {
@@ -1206,6 +1295,29 @@
                 "phone": "+39 3516604729",
                 "shop": "butcher",
                 "website": "https://macelleria.antonioatzeni.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11180811941,
+            "lat": 39.2164862,
+            "lon": 9.1142308,
+            "timestamp": "2025-04-21T08:06:40Z",
+            "version": 4,
+            "changeset": 165224976,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "64",
+                "addr:street": "Via Giuseppe Manno",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "check_date": "2023-09-12",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
             }
         },
         {

@@ -7,7 +7,7 @@
     "idlocalita": "siracusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002018694442",
     "telegram_app": "https://t.me/bitcoinbeersiracusa",
-    "telegram_members": 8.0,
+    "telegram_members": 10.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -28,6 +28,28 @@
                 "phone": "+39 338 7138087",
                 "tourism": "apartment",
                 "website": "https://www.hiresicily.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6211004454,
+            "lat": 37.1105563,
+            "lon": 15.2280021,
+            "timestamp": "2025-04-22T15:14:10Z",
+            "version": 10,
+            "changeset": 165291356,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "it:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "operator": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {

@@ -7,7 +7,7 @@
     "idlocalita": "roma",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzRoma",
     "telegram_app": "https://t.me/SatoshiSpritzRoma",
-    "telegram_members": 399.0,
+    "telegram_members": 401.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -525,6 +525,30 @@
                 "operator": "OVS",
                 "phone": "+39 06 5417515",
                 "ref:vatin": "IT04240010274",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2520790670,
+            "lat": 41.872196,
+            "lon": 12.5264202,
+            "timestamp": "2025-04-21T08:10:59Z",
+            "version": 5,
+            "changeset": 165225151,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "509",
+                "addr:postcode": "00181",
+                "addr:street": "Via Appia Nuova",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "phone": "+39 06 7843858",
                 "shop": "clothes"
             }
         },
@@ -1408,6 +1432,29 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6782516470,
+            "lat": 41.9012817,
+            "lon": 12.4938633,
+            "timestamp": "2025-04-20T20:58:06Z",
+            "version": 4,
+            "changeset": 165212232,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "237/238",
+                "addr:postcode": "00184",
+                "addr:street": "Via Nazionale",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -3588,6 +3635,29 @@
         },
         {
             "type": "node",
+            "id": 12022211637,
+            "lat": 41.90391,
+            "lon": 12.4803464,
+            "timestamp": "2025-04-20T20:57:38Z",
+            "version": 3,
+            "changeset": 165212215,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "64",
+                "addr:postcode": "00187",
+                "addr:street": "Via Frattina",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12068433363,
             "lat": 41.9286497,
             "lon": 12.4826489,
@@ -4057,6 +4127,34 @@
         },
         {
             "type": "way",
+            "id": 211941538,
+            "timestamp": "2025-04-20T20:57:05Z",
+            "version": 3,
+            "changeset": 165212197,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "nodes": [
+                2218655285,
+                2218655288,
+                2218655354,
+                2218655350,
+                2218655285
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00173",
+                "addr:street": "Via Enrico Ferri",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "buildingpart": "room",
+                "layer": "-1",
+                "name": "Calzedonia",
+                "operator": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
             "id": 211941547,
             "timestamp": "2025-04-19T21:26:26Z",
             "version": 3,
@@ -4190,9 +4288,9 @@
         {
             "type": "way",
             "id": 321995644,
-            "timestamp": "2025-04-19T21:24:42Z",
-            "version": 7,
-            "changeset": 165171591,
+            "timestamp": "2025-04-21T08:08:57Z",
+            "version": 8,
+            "changeset": 165225074,
             "user": "btcitnet",
             "uid": 22525435,
             "nodes": [
@@ -4204,6 +4302,9 @@
                 3287626543
             ],
             "tags": {
+                "addr:city": "Castel Romano",
+                "addr:postcode": "00128",
+                "addr:street": "Piazza Adriano",
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
                 "building": "commercial",
@@ -4929,6 +5030,36 @@
         },
         {
             "type": "way",
+            "id": 1132719771,
+            "timestamp": "2025-04-21T08:09:56Z",
+            "version": 5,
+            "changeset": 165225108,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "nodes": [
+                10561846191,
+                10561846190,
+                10561846189,
+                10561846183,
+                10561846188,
+                10561846191
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00143",
+                "addr:street": "Via Laurentina",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "indoor": "room",
+                "level": "0",
+                "name": "Intimissimi",
+                "operator": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
             "id": 1132982109,
             "timestamp": "2024-04-15T19:22:36Z",
             "version": 5,
@@ -4963,9 +5094,9 @@
         {
             "type": "way",
             "id": 1204399095,
-            "timestamp": "2025-04-19T21:25:34Z",
-            "version": 5,
-            "changeset": 165171619,
+            "timestamp": "2025-04-21T08:09:27Z",
+            "version": 6,
+            "changeset": 165225092,
             "user": "btcitnet",
             "uid": 22525435,
             "nodes": [
@@ -4979,6 +5110,7 @@
             ],
             "tags": {
                 "addr:city": "Roma",
+                "addr:postcode": "00144",
                 "addr:street": "Strada Provinciale 29 Colligiana",
                 "brand": "Intimissimi",
                 "clothes": "underwear",

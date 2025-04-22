@@ -7,7 +7,7 @@
     "idlocalita": "ferrara",
     "telegram_weburl": "https://web.telegram.org/a/#-1001822010158",
     "telegram_app": "https://t.me/SatoshiSpritzFerrara",
-    "telegram_members": 49.0,
+    "telegram_members": 50.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -335,13 +335,13 @@
         {
             "type": "node",
             "id": 3181471853,
-            "lat": 44.500455,
-            "lon": 11.3294855,
-            "timestamp": "2024-11-03T21:30:56Z",
-            "version": 7,
-            "changeset": 158718128,
-            "user": "mircozorzo",
-            "uid": 224342,
+            "lat": 44.5004445,
+            "lon": 11.3294849,
+            "timestamp": "2025-04-22T13:50:43Z",
+            "version": 8,
+            "changeset": 165287249,
+            "user": "Plaintelive",
+            "uid": 11644547,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:street": "Viale Antonio Silvani",
@@ -354,26 +354,6 @@
                 "operator": "Conad",
                 "shop": "supermarket",
                 "source": "ds4273"
-            }
-        },
-        {
-            "type": "node",
-            "id": 3181471854,
-            "lat": 44.5003861,
-            "lon": 11.3294238,
-            "timestamp": "2022-02-27T09:21:41Z",
-            "version": 4,
-            "changeset": 117901033,
-            "user": "ElDavo",
-            "uid": 14330447,
-            "tags": {
-                "access": "customers",
-                "amenity": "parking",
-                "fee": "no",
-                "layer": "-1",
-                "name": "Conad",
-                "operator": "Conad",
-                "parking": "underground"
             }
         },
         {
