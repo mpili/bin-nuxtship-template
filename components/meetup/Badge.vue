@@ -19,11 +19,26 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     <div v-else class="max-w-md">
       <NuxtLink :href="`/c/${data?.id}`" class="text-primary text-xl font-bold">
         <div class="flex items-center rounded-full border shadow gap-6 p-2">
-          <NuxtImg
+
+          <!-- <NuxtImg
             :src="`/img/c/${idcomunita}.jpeg`"
             format="webp"
             class="inline-block relative object-cover object-center !rounded-full w-20 h-20 rounded-lg"
-          />
+          /> -->
+
+
+            <div class="avatar-group -space-x-6">
+              <div class="avatar">
+                <div class="w-24">
+                  <img :src="`/img/c/${idcomunita}.jpeg`" />
+                </div>
+              </div>
+              <div v-if="data.network=='bitcoinbeer'" class="avatar">
+                <div class="w-24">
+                  <img src="/img/meetup/bitcoinbeer.webp" />
+                </div>
+              </div>
+            </div>
           {{ data.name }}
         </div>
       </NuxtLink>

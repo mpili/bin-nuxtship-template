@@ -15,8 +15,8 @@
         {
             "Unnamed: 0": 2,
             "amenity": "restaurant",
-            "count": 95,
-            "max_timestamp": "2025-04-13T10:04:58Z"
+            "count": 96,
+            "max_timestamp": "2025-04-22T21:09:43Z"
         },
         {
             "Unnamed: 0": 3,
@@ -64,7 +64,7 @@
             "Unnamed: 0": 10,
             "amenity": "dentist",
             "count": 12,
-            "max_timestamp": "2025-01-11T23:13:14Z"
+            "max_timestamp": "2025-04-22T16:48:00Z"
         },
         {
             "Unnamed: 0": 11,
@@ -294,13 +294,13 @@
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 352,
-            "max_timestamp": "2025-04-22T13:50:43Z"
+            "max_timestamp": "2025-04-29T16:56:30Z"
         },
         {
             "Unnamed: 0": 2,
             "shop": "clothes",
-            "count": 313,
-            "max_timestamp": "2025-04-22T15:14:10Z"
+            "count": 314,
+            "max_timestamp": "2025-04-24T13:16:14Z"
         },
         {
             "Unnamed: 0": 3,
@@ -312,7 +312,7 @@
             "Unnamed: 0": 4,
             "shop": "furniture",
             "count": 55,
-            "max_timestamp": "2025-04-20T21:19:32Z"
+            "max_timestamp": "2025-04-28T15:00:47Z"
         },
         {
             "Unnamed: 0": 5,
@@ -347,7 +347,7 @@
         {
             "Unnamed: 0": 10,
             "shop": "optician",
-            "count": 11,
+            "count": 10,
             "max_timestamp": "2025-03-05T11:12:41Z"
         },
         {
@@ -912,39 +912,39 @@
         },
         {
             "Unnamed: 0": 8,
-            "cuisine": "seafood",
-            "count": 2,
-            "max_timestamp": "2024-11-20T11:42:34Z"
+            "cuisine": "italian_pizza",
+            "count": 3,
+            "max_timestamp": "2025-04-22T21:09:43Z"
         },
         {
             "Unnamed: 0": 9,
-            "cuisine": "pasta",
-            "count": 2,
-            "max_timestamp": "2024-12-27T17:51:47Z"
-        },
-        {
-            "Unnamed: 0": 10,
-            "cuisine": "italian_pizza",
-            "count": 2,
-            "max_timestamp": "2024-10-10T21:08:07Z"
-        },
-        {
-            "Unnamed: 0": 11,
             "cuisine": "sushi",
             "count": 2,
             "max_timestamp": "2024-11-10T15:57:46Z"
         },
         {
-            "Unnamed: 0": 12,
+            "Unnamed: 0": 10,
             "cuisine": "ice_cream",
             "count": 2,
             "max_timestamp": "2025-03-21T10:57:41Z"
         },
         {
-            "Unnamed: 0": 13,
+            "Unnamed: 0": 11,
             "cuisine": "cocktail",
             "count": 2,
             "max_timestamp": "2024-11-29T22:00:47Z"
+        },
+        {
+            "Unnamed: 0": 12,
+            "cuisine": "pasta",
+            "count": 2,
+            "max_timestamp": "2024-12-27T17:51:47Z"
+        },
+        {
+            "Unnamed: 0": 13,
+            "cuisine": "seafood",
+            "count": 2,
+            "max_timestamp": "2024-11-20T11:42:34Z"
         },
         {
             "Unnamed: 0": 14,
@@ -954,13 +954,13 @@
         },
         {
             "Unnamed: 0": 15,
-            "cuisine": "streetfood",
+            "cuisine": "hamburger",
             "count": 1,
             "max_timestamp": "2024-12-19T10:02:33Z"
         },
         {
             "Unnamed: 0": 16,
-            "cuisine": "hamburger",
+            "cuisine": "streetfood",
             "count": 1,
             "max_timestamp": "2024-12-19T10:02:33Z"
         },
@@ -1072,13 +1072,13 @@
             "Unnamed: 0": 0,
             "office": "accountant",
             "count": 15,
-            "max_timestamp": "2025-01-07T20:05:01Z"
+            "max_timestamp": "2025-04-23T18:59:54Z"
         },
         {
             "Unnamed: 0": 1,
             "office": "it",
             "count": 15,
-            "max_timestamp": "2025-04-15T14:03:56Z"
+            "max_timestamp": "2025-04-25T06:31:40Z"
         },
         {
             "Unnamed: 0": 2,
@@ -1247,8 +1247,8 @@
         {
             "Unnamed: 0": 0,
             "tourism": "guest_house",
-            "count": 50,
-            "max_timestamp": "2025-04-18T12:31:02Z"
+            "count": 54,
+            "max_timestamp": "2025-04-27T14:33:12Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1304,7 +1304,7 @@
             "Unnamed: 0": 0,
             "craft": "photographer",
             "count": 6,
-            "max_timestamp": "2025-04-02T10:50:36Z"
+            "max_timestamp": "2025-04-25T06:32:55Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1420,7 +1420,7 @@
             "Unnamed: 0": 1,
             "healthcare": "dentist",
             "count": 12,
-            "max_timestamp": "2025-01-11T23:13:14Z"
+            "max_timestamp": "2025-04-22T16:48:00Z"
         },
         {
             "Unnamed: 0": 2,
@@ -1731,14 +1731,14 @@
         {
             "Unnamed: 0": 0,
             "guest_house": "bed_and_breakfast",
-            "count": 25,
-            "max_timestamp": "2025-04-17T17:56:39Z"
+            "count": 29,
+            "max_timestamp": "2025-04-27T14:33:12Z"
         },
         {
             "Unnamed: 0": 1,
             "guest_house": "guest_house",
             "count": 7,
-            "max_timestamp": "2025-04-15T14:10:54Z"
+            "max_timestamp": "2025-04-25T06:35:40Z"
         },
         {
             "Unnamed: 0": 2,
