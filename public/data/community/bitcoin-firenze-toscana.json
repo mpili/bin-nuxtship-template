@@ -7,7 +7,7 @@
     "idlocalita": "firenze",
     "telegram_weburl": "https://web.telegram.org/a/#-1001040948446",
     "telegram_app": "https://t.me/bitcoinfirenze",
-    "telegram_members": 210.0,
+    "telegram_members": 208.0,
     "poi": [
         {
             "type": "node",
@@ -667,28 +667,6 @@
         },
         {
             "type": "node",
-            "id": 9630215023,
-            "lat": 43.928572,
-            "lon": 11.6216534,
-            "timestamp": "2023-02-13T08:42:01Z",
-            "version": 2,
-            "changeset": 132478170,
-            "user": "Pucciotrex30",
-            "uid": 1801173,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "brand:wikipedia": "en:Tamoil",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "operator": "Tamoil",
-                "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 9631522101,
             "lat": 43.8412423,
             "lon": 10.6167649,
@@ -1267,6 +1245,30 @@
                 "office": "estate_agent",
                 "phone": "+39 0553896387",
                 "website": "https://www.studiopcg.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12844241897,
+            "lat": 43.8264551,
+            "lon": 11.489621,
+            "timestamp": "2025-05-17T14:56:06Z",
+            "version": 2,
+            "changeset": 166395714,
+            "user": "Naturopata Alessio Masini",
+            "uid": 22909595,
+            "tags": {
+                "addr:city": "Rufina",
+                "addr:housenumber": "42",
+                "addr:postcode": "50068",
+                "addr:street": "piazza Umberto I",
+                "currency:XBT": "yes",
+                "description": "Naturopata specializzato in disturbi del sonno e invecchiamento. Ricevo presso poliambulatori Misericordia Rufina.",
+                "name": "Alessio Masini Naturopata",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "survey:date": "2025-05-17"
             }
         },
         {

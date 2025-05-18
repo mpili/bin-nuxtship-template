@@ -2762,6 +2762,33 @@
             }
         },
         {
+            "type": "node",
+            "id": 12844795062,
+            "lat": 45.166097,
+            "lon": 10.8380383,
+            "timestamp": "2025-05-17T19:58:04Z",
+            "version": 1,
+            "changeset": 166406989,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "San Giorgio Bigarello",
+                "addr:housenumber": "22-F",
+                "addr:postcode": "46051",
+                "addr:street": "Via Legnaghese",
+                "check_date": "2025-05-17",
+                "check_date:currency:XBT": "2025-05-17",
+                "currency:XBT": "yes",
+                "email": "mantovasvapo@gmail.com",
+                "name": "Svapo Web Mantova",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 339 858 2442",
+                "shop": "e-cigarette"
+            }
+        },
+        {
             "type": "way",
             "id": 32340192,
             "timestamp": "2010-08-15T10:20:13Z",

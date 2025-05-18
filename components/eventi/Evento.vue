@@ -11,12 +11,22 @@ const breadcrumb = computed(() => [
   },
 ]);
 
+const ogImage = props.evento.img
+  ? `https://bin-dev.pockethost.io/api/files/eventi/${props.evento.id}/${props.evento.img}`
+  : '';
+
 useHead({
   title: props?.evento?.titolo + " | Bitcoin Italia Network",
   link: [
     {
       rel: "canonical",
       href: `https://bitcoinitalianetwork.com/evento/${props?.evento?.id}`,
+    },
+  ],
+  meta: [
+    {
+      property: 'og:image',
+      content: ogImage,
     },
   ],
 });

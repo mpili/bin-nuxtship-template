@@ -1106,11 +1106,11 @@
         {
             "type": "node",
             "id": 7513394269,
-            "lat": 43.7411653,
-            "lon": 10.374386,
-            "timestamp": "2020-05-13T14:47:07Z",
-            "version": 2,
-            "changeset": 85151510,
+            "lat": 43.7410651,
+            "lon": 10.3705011,
+            "timestamp": "2025-05-15T20:31:03Z",
+            "version": 3,
+            "changeset": 166322957,
             "user": "DnaX",
             "uid": 69259,
             "tags": {
@@ -1739,50 +1739,6 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "website": "https://b.massimotoscano.org/"
-            }
-        },
-        {
-            "type": "way",
-            "id": 104826426,
-            "timestamp": "2024-07-16T11:09:59Z",
-            "version": 17,
-            "changeset": 154009948,
-            "user": "DnaX",
-            "uid": 69259,
-            "nodes": [
-                6617240541,
-                6617241258,
-                6617243947,
-                6617239709,
-                6617241712,
-                6617244438,
-                6617240309,
-                12057017849,
-                12057017850,
-                6617242105,
-                6617244852,
-                6617240541
-            ],
-            "tags": {
-                "addr:city": "San Giuliano Terme",
-                "addr:housenumber": "31",
-                "addr:postcode": "56017",
-                "addr:street": "Via Pietrasantina",
-                "brand": "Spazio Conad",
-                "brand:wikidata": "Q118130063",
-                "brand:wikipedia": "it:Conad",
-                "building": "commercial",
-                "contact:fax": "+39 050 894890",
-                "contact:phone": "+39 050 890842",
-                "contact:website": "https://www.conad.it",
-                "name": "Spazio Conad",
-                "opening_hours": "Mo-Su 08:00-20:30",
-                "operator": "Conad",
-                "payment:bancomat": "yes",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.003699.html"
             }
         },
         {

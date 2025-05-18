@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 140.0,
+    "telegram_members": 174.0,
     "poi": [
         {
             "type": "node",
@@ -835,6 +835,42 @@
                 "shop": "furniture",
                 "website": "https://www.mondoconv.it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 387706241,
+            "timestamp": "2025-05-12T18:13:49Z",
+            "version": 4,
+            "changeset": 166166217,
+            "user": "SalentoBitcoin",
+            "uid": 22583613,
+            "nodes": [
+                3909500945,
+                6255569383,
+                12831649110,
+                3909500946,
+                3037523557,
+                3037523251,
+                3037523242,
+                3037523002,
+                3909500945
+            ],
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "10",
+                "addr:postcode": "73100",
+                "addr:street": "Via Fabio Filzi",
+                "amenity": "bar",
+                "building": "yes",
+                "building:levels": "2",
+                "currency:XBT": "yes",
+                "name": "Float",
+                "opening_hours": "luned\u00ec 08\u201322 \ue14d marted\u00ec 08\u201322 \ue14d mercoled\u00ec 08\u201322 \ue14d gioved\u00ec 08\u201322 \ue14d venerd\u00ec 08\u201322 \ue14d sabato 08\u201302 \ue14d domenica Chiuso",
+                "operator": "Salento Bitcoin",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "0832726892"
             }
         },
         {
