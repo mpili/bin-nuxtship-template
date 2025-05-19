@@ -7,7 +7,7 @@
     "idlocalita": "rovereto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001781332904",
     "telegram_app": "https://t.me/SatoshiSpritzRovereto",
-    "telegram_members": 162.0,
+    "telegram_members": 165.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -2501,6 +2501,31 @@
                 "phone": "+39 32 9023 6683",
                 "tourism": "guest_house",
                 "website": "https://architectslodge.kross.travel/malcesine/art-paradise-gard-lake"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12842854906,
+            "lat": 45.5811335,
+            "lon": 10.9637211,
+            "timestamp": "2025-05-16T19:46:51Z",
+            "version": 1,
+            "changeset": 166367114,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "11",
+                "addr:postcode": "37020",
+                "addr:street": "Via Busan",
+                "check_date": "2025-05-16",
+                "currency:XBT": "yes",
+                "name": "PCDControl",
+                "office": "it",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "website": "http://www.pcdcontrol.com/"
             }
         },
         {
