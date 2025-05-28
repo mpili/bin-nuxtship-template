@@ -7,7 +7,7 @@
     "idlocalita": "varese",
     "telegram_weburl": "https://web.telegram.org/a/#-1001656890617",
     "telegram_app": "https://t.me/satoshispritzVarese",
-    "telegram_members": 114.0,
+    "telegram_members": 115.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1124,13 +1124,13 @@
         {
             "type": "node",
             "id": 1832528976,
-            "lat": 45.4661901,
-            "lon": 9.1974504,
-            "timestamp": "2024-12-31T11:18:30Z",
-            "version": 9,
-            "changeset": 160828008,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 45.4661882,
+            "lon": 9.1974638,
+            "timestamp": "2025-05-26T16:39:41Z",
+            "version": 10,
+            "changeset": 166788662,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
             "tags": {
                 "addr:city": "Milano",
                 "addr:country": "IT",
@@ -5740,15 +5740,16 @@
         {
             "type": "node",
             "id": 10171914175,
-            "lat": 46.0337934,
-            "lon": 8.9379152,
-            "timestamp": "2022-11-09T18:04:41Z",
-            "version": 1,
-            "changeset": 128698651,
-            "user": "BSN21M",
-            "uid": 17441326,
+            "lat": 46.033804,
+            "lon": 8.9379201,
+            "timestamp": "2025-05-25T17:27:21Z",
+            "version": 2,
+            "changeset": 166744695,
+            "user": "spalinger",
+            "uid": 11567551,
             "tags": {
                 "addr:city": "Cadempino",
+                "addr:housenumber": "17a",
                 "addr:postcode": "6814",
                 "addr:street": "Via Ronchetto",
                 "currency:XBT": "yes",
@@ -11203,6 +11204,51 @@
                 "phone": "+39 346 0680963",
                 "tourism": "guest_house",
                 "website": "https://www.bed-and-breakfast.it/en/lombardia/appartamento-via-marghera-milano/58614"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12864721524,
+            "lat": 45.5847413,
+            "lon": 9.2754396,
+            "timestamp": "2025-05-26T13:15:24Z",
+            "version": 1,
+            "changeset": 166778978,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Monza",
+                "addr:housenumber": "2",
+                "addr:postcode": "20900",
+                "addr:street": "Piazza Roma",
+                "amenity": "bar",
+                "currency:XBT": "yes",
+                "email": "giangu.bar.dam@gmail.com",
+                "name": "Bar Dam"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12864724522,
+            "lat": 45.5135135,
+            "lon": 9.153759,
+            "timestamp": "2025-05-26T13:23:16Z",
+            "version": 1,
+            "changeset": 166779303,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "10",
+                "addr:postcode": "20157",
+                "addr:street": "Via Giuseppe Ungaretti",
+                "currency:XBT": "yes",
+                "description": "Consulenze scritte, reportistica in loco e online.",
+                "email": "edweb.pro@outlook.com",
+                "name": "Edilweb - Pro & Partner$ di Alessandro Marco Mazzone",
+                "office": "consulting",
+                "phone": "+39 3391870951",
+                "website": "https://edilweb.pro"
             }
         },
         {

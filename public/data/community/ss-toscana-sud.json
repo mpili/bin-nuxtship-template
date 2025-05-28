@@ -740,6 +740,29 @@
             }
         },
         {
+            "type": "node",
+            "id": 12871226822,
+            "lat": 43.4674847,
+            "lon": 11.0433855,
+            "timestamp": "2025-05-28T14:48:02Z",
+            "version": 1,
+            "changeset": 166879724,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "San Gimignano",
+                "addr:housenumber": "6",
+                "addr:place": "Piazza della Cisterna",
+                "addr:postcode": "53037",
+                "amenity": "fast_food",
+                "cuisine": "sandwich",
+                "currency:XBT": "yes",
+                "name": "Vinaino Fiorenza",
+                "phone": "+39 05771794432",
+                "website": "https://www.vinainofiorenza.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 161023267,
             "timestamp": "2023-09-20T08:05:39Z",

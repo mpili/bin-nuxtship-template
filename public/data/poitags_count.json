@@ -33,14 +33,14 @@
         {
             "Unnamed: 0": 5,
             "amenity": "bar",
-            "count": 44,
-            "max_timestamp": "2025-05-21T12:24:31Z"
+            "count": 45,
+            "max_timestamp": "2025-05-26T13:15:24Z"
         },
         {
             "Unnamed: 0": 6,
             "amenity": "fast_food",
-            "count": 32,
-            "max_timestamp": "2025-05-01T19:47:03Z"
+            "count": 33,
+            "max_timestamp": "2025-05-28T14:48:02Z"
         },
         {
             "Unnamed: 0": 7,
@@ -52,7 +52,7 @@
             "Unnamed: 0": 8,
             "amenity": "pub",
             "count": 15,
-            "max_timestamp": "2025-04-12T01:07:26Z"
+            "max_timestamp": "2025-05-27T13:39:55Z"
         },
         {
             "Unnamed: 0": 9,
@@ -294,13 +294,13 @@
             "Unnamed: 0": 0,
             "shop": "electronics",
             "count": 358,
-            "max_timestamp": "2025-05-24T15:03:42Z"
+            "max_timestamp": "2025-05-26T16:39:41Z"
         },
         {
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 351,
-            "max_timestamp": "2025-05-20T08:02:28Z"
+            "max_timestamp": "2025-05-28T10:09:26Z"
         },
         {
             "Unnamed: 0": 2,
@@ -317,8 +317,8 @@
         {
             "Unnamed: 0": 4,
             "shop": "furniture",
-            "count": 54,
-            "max_timestamp": "2025-04-28T15:00:47Z"
+            "count": 55,
+            "max_timestamp": "2025-05-25T15:53:06Z"
         },
         {
             "Unnamed: 0": 5,
@@ -382,15 +382,15 @@
         },
         {
             "Unnamed: 0": 15,
-            "shop": "shoes",
-            "count": 7,
-            "max_timestamp": "2025-05-22T17:28:14Z"
-        },
-        {
-            "Unnamed: 0": 16,
             "shop": "mall",
             "count": 7,
             "max_timestamp": "2024-12-31T09:46:53Z"
+        },
+        {
+            "Unnamed: 0": 16,
+            "shop": "shoes",
+            "count": 6,
+            "max_timestamp": "2025-04-20T21:00:19Z"
         },
         {
             "Unnamed: 0": 17,
@@ -444,7 +444,7 @@
             "Unnamed: 0": 25,
             "shop": "bakery",
             "count": 4,
-            "max_timestamp": "2025-04-12T08:19:32Z"
+            "max_timestamp": "2025-05-27T13:42:58Z"
         },
         {
             "Unnamed: 0": 26,
@@ -600,7 +600,7 @@
             "Unnamed: 0": 51,
             "shop": "second_hand",
             "count": 2,
-            "max_timestamp": "2024-09-23T12:14:28Z"
+            "max_timestamp": "2025-05-27T09:45:47Z"
         },
         {
             "Unnamed: 0": 52,
@@ -871,8 +871,8 @@
         {
             "Unnamed: 0": 0,
             "cuisine": "pizza",
-            "count": 37,
-            "max_timestamp": "2025-05-23T17:18:07Z"
+            "count": 38,
+            "max_timestamp": "2025-05-26T17:20:38Z"
         },
         {
             "Unnamed: 0": 1,
@@ -900,15 +900,15 @@
         },
         {
             "Unnamed: 0": 5,
-            "cuisine": "burger",
+            "cuisine": "sandwich",
             "count": 6,
-            "max_timestamp": "2025-05-01T19:47:03Z"
+            "max_timestamp": "2025-05-28T14:48:02Z"
         },
         {
             "Unnamed: 0": 6,
-            "cuisine": "sandwich",
-            "count": 5,
-            "max_timestamp": "2025-05-19T14:35:07Z"
+            "cuisine": "burger",
+            "count": 6,
+            "max_timestamp": "2025-05-01T19:47:03Z"
         },
         {
             "Unnamed: 0": 7,
@@ -1120,7 +1120,7 @@
             "Unnamed: 0": 6,
             "office": "consulting",
             "count": 8,
-            "max_timestamp": "2025-01-02T16:46:35Z"
+            "max_timestamp": "2025-05-26T13:23:16Z"
         },
         {
             "Unnamed: 0": 7,
@@ -1136,45 +1136,45 @@
         },
         {
             "Unnamed: 0": 9,
+            "office": "therapist",
+            "count": 3,
+            "max_timestamp": "2025-05-26T13:19:00Z"
+        },
+        {
+            "Unnamed: 0": 10,
             "office": "graphic_design",
             "count": 3,
             "max_timestamp": "2025-04-12T01:12:27Z"
         },
         {
-            "Unnamed: 0": 10,
-            "office": "financial_advisor",
+            "Unnamed: 0": 11,
+            "office": "educational_institution",
             "count": 2,
-            "max_timestamp": "2025-01-23T15:27:43Z"
+            "max_timestamp": "2023-11-07T05:06:04Z"
         },
         {
-            "Unnamed: 0": 11,
+            "Unnamed: 0": 12,
             "office": "yes",
             "count": 2,
             "max_timestamp": "2025-03-17T19:00:14Z"
         },
         {
-            "Unnamed: 0": 12,
-            "office": "association",
-            "count": 2,
-            "max_timestamp": "2025-05-04T13:58:47Z"
-        },
-        {
             "Unnamed: 0": 13,
-            "office": "therapist",
-            "count": 2,
-            "max_timestamp": "2025-04-02T13:32:34Z"
-        },
-        {
-            "Unnamed: 0": 14,
             "office": "financial",
             "count": 2,
             "max_timestamp": "2024-01-06T11:20:43Z"
         },
         {
-            "Unnamed: 0": 15,
-            "office": "educational_institution",
+            "Unnamed: 0": 14,
+            "office": "financial_advisor",
             "count": 2,
-            "max_timestamp": "2023-11-07T05:06:04Z"
+            "max_timestamp": "2025-01-23T15:27:43Z"
+        },
+        {
+            "Unnamed: 0": 15,
+            "office": "association",
+            "count": 2,
+            "max_timestamp": "2025-05-04T13:58:47Z"
         },
         {
             "Unnamed: 0": 16,
@@ -1184,83 +1184,89 @@
         },
         {
             "Unnamed: 0": 17,
-            "office": "private_investigator",
+            "office": "guide",
             "count": 1,
-            "max_timestamp": "2023-07-10T19:00:14Z"
+            "max_timestamp": "2025-03-20T06:49:48Z"
         },
         {
             "Unnamed: 0": 18,
-            "office": "event_planner",
-            "count": 1,
-            "max_timestamp": "2023-10-27T13:00:04Z"
-        },
-        {
-            "Unnamed: 0": 19,
-            "office": "interior_design",
-            "count": 1,
-            "max_timestamp": "2024-07-21T17:14:07Z"
-        },
-        {
-            "Unnamed: 0": 20,
-            "office": "insurance",
-            "count": 1,
-            "max_timestamp": "2024-10-08T17:43:58Z"
-        },
-        {
-            "Unnamed: 0": 21,
-            "office": "studio_tecnico",
-            "count": 1,
-            "max_timestamp": "2023-11-19T10:47:25Z"
-        },
-        {
-            "Unnamed: 0": 22,
-            "office": "telecommunication",
-            "count": 1,
-            "max_timestamp": "2024-02-09T00:49:18Z"
-        },
-        {
-            "Unnamed: 0": 23,
-            "office": "wedding_planner",
-            "count": 1,
-            "max_timestamp": "2024-05-16T12:48:11Z"
-        },
-        {
-            "Unnamed: 0": 24,
-            "office": "engineering",
-            "count": 1,
-            "max_timestamp": "2025-04-11T15:58:31Z"
-        },
-        {
-            "Unnamed: 0": 25,
-            "office": "construction_company",
-            "count": 1,
-            "max_timestamp": "2025-02-23T22:50:17Z"
-        },
-        {
-            "Unnamed: 0": 26,
             "office": "travel_agent",
             "count": 1,
             "max_timestamp": "2025-02-28T16:19:00Z"
         },
         {
-            "Unnamed: 0": 27,
-            "office": "guide",
+            "Unnamed: 0": 19,
+            "office": "construction_company",
             "count": 1,
-            "max_timestamp": "2025-03-20T06:49:48Z"
+            "max_timestamp": "2025-02-23T22:50:17Z"
+        },
+        {
+            "Unnamed: 0": 20,
+            "office": "surveyor",
+            "count": 1,
+            "max_timestamp": "2025-05-25T22:14:25Z"
+        },
+        {
+            "Unnamed: 0": 21,
+            "office": "wedding_planner",
+            "count": 1,
+            "max_timestamp": "2024-05-16T12:48:11Z"
+        },
+        {
+            "Unnamed: 0": 22,
+            "office": "studio_tecnico",
+            "count": 1,
+            "max_timestamp": "2023-11-19T10:47:25Z"
+        },
+        {
+            "Unnamed: 0": 23,
+            "office": "telecommunication",
+            "count": 1,
+            "max_timestamp": "2024-02-09T00:49:18Z"
+        },
+        {
+            "Unnamed: 0": 24,
+            "office": "insurance",
+            "count": 1,
+            "max_timestamp": "2024-10-08T17:43:58Z"
+        },
+        {
+            "Unnamed: 0": 25,
+            "office": "interior_design",
+            "count": 1,
+            "max_timestamp": "2024-07-21T17:14:07Z"
+        },
+        {
+            "Unnamed: 0": 26,
+            "office": "event_planner",
+            "count": 1,
+            "max_timestamp": "2023-10-27T13:00:04Z"
+        },
+        {
+            "Unnamed: 0": 27,
+            "office": "engineering",
+            "count": 1,
+            "max_timestamp": "2025-04-11T15:58:31Z"
         },
         {
             "Unnamed: 0": 28,
             "office": "occupational_safety",
             "count": 1,
             "max_timestamp": "2024-09-25T08:19:37Z"
+        },
+        {
+            "Unnamed: 0": 29,
+            "office": "private_investigator",
+            "count": 1,
+            "max_timestamp": "2023-07-10T19:00:14Z"
         }
     ],
     "tourism": [
         {
             "Unnamed: 0": 0,
             "tourism": "guest_house",
-            "count": 55,
-            "max_timestamp": "2025-05-17T09:47:23Z"
+            "count": 56,
+            "max_timestamp": "2025-05-25T14:30:17Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1314,7 +1320,7 @@
             "Unnamed: 0": 9,
             "tourism": "artwork",
             "count": 1,
-            "max_timestamp": "2025-05-06T18:40:41Z"
+            "max_timestamp": "2025-05-27T15:04:26Z"
         }
     ],
     "craft": [
@@ -1422,6 +1428,12 @@
         },
         {
             "Unnamed: 0": 17,
+            "craft": "watchmaker",
+            "count": 1,
+            "max_timestamp": "2025-05-27T09:44:39Z"
+        },
+        {
+            "Unnamed: 0": 18,
             "craft": "window_construction",
             "count": 1,
             "max_timestamp": "2024-02-20T10:38:38Z"
@@ -1761,8 +1773,8 @@
         {
             "Unnamed: 0": 1,
             "guest_house": "guest_house",
-            "count": 7,
-            "max_timestamp": "2025-05-13T09:18:53Z"
+            "count": 8,
+            "max_timestamp": "2025-05-25T14:30:17Z"
         },
         {
             "Unnamed: 0": 2,

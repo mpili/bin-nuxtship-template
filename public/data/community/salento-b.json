@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 181.0,
+    "telegram_members": 183.0,
     "poi": [
         {
             "type": "node",
@@ -822,6 +822,26 @@
                 "payment:onchain": "yes",
                 "phone": "3270966653",
                 "website:menu": "https://sites.google.com/view/mozzare-pizzeria-lecce/home/menu?authuser=0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12861454515,
+            "lat": 40.3618767,
+            "lon": 18.1765364,
+            "timestamp": "2025-05-27T09:44:39Z",
+            "version": 2,
+            "changeset": 166816407,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "17",
+                "addr:postcode": "73100",
+                "addr:street": "Via di Pettorano",
+                "craft": "watchmaker",
+                "currency:XBT": "yes",
+                "name": "Il Tempio dell'orologeria"
             }
         },
         {
