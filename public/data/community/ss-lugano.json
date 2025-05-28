@@ -7,7 +7,7 @@
     "idlocalita": "lugano",
     "telegram_weburl": "https://web.telegram.org/a/#-1001928361933",
     "telegram_app": "https://t.me/SatoshiSpritzLugano",
-    "telegram_members": 927.0,
+    "telegram_members": 930.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3701,15 +3701,16 @@
         {
             "type": "node",
             "id": 10171914175,
-            "lat": 46.0337934,
-            "lon": 8.9379152,
-            "timestamp": "2022-11-09T18:04:41Z",
-            "version": 1,
-            "changeset": 128698651,
-            "user": "BSN21M",
-            "uid": 17441326,
+            "lat": 46.033804,
+            "lon": 8.9379201,
+            "timestamp": "2025-05-25T17:27:21Z",
+            "version": 2,
+            "changeset": 166744695,
+            "user": "spalinger",
+            "uid": 11567551,
             "tags": {
                 "addr:city": "Cadempino",
+                "addr:housenumber": "17a",
                 "addr:postcode": "6814",
                 "addr:street": "Via Ronchetto",
                 "currency:XBT": "yes",

@@ -14,6 +14,14 @@ definePageMeta({
 });
 
 const stores = [
+
+  {
+    nome: "LeosWatches",
+    titololink: "leoswatches.com",
+    url: "https://leoswatches.com/",
+    img: "/img/store/leoswatches1000x420.png",
+  },
+
   {
     nome: "TheBitcoinCompany",
     titololink: "thebitcoincompany.com",
