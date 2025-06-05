@@ -7,7 +7,7 @@
     "idlocalita": "biella",
     "telegram_weburl": "https://web.telegram.org/a/#-1001936455956",
     "telegram_app": "https://t.me/bitcoinbiella",
-    "telegram_members": 33.0,
+    "telegram_members": 32.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -48,11 +48,11 @@
             "id": 1472092588,
             "lat": 45.3247531,
             "lon": 8.4220877,
-            "timestamp": "2025-03-14T17:29:08Z",
-            "version": 20,
-            "changeset": 163619860,
-            "user": "Andrea Musuruane",
-            "uid": 90379,
+            "timestamp": "2025-06-03T15:59:29Z",
+            "version": 21,
+            "changeset": 167142065,
+            "user": "ivanbranco",
+            "uid": 11220113,
             "tags": {
                 "brand": "Doppelg\u00e4nger",
                 "brand:wikidata": "Q117451227",
@@ -69,7 +69,8 @@
                 "operator": "International Retail Development s.r.l.",
                 "phone": "+39 0161 249050",
                 "ref:vatin": "IT10471441005",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "no"
             }
         },
         {
@@ -826,11 +827,11 @@
             "id": 7482074548,
             "lat": 45.7501885,
             "lon": 7.6231462,
-            "timestamp": "2025-02-05T20:11:00Z",
-            "version": 4,
-            "changeset": 162181215,
-            "user": "nick1993",
-            "uid": 3335735,
+            "timestamp": "2025-05-29T17:18:02Z",
+            "version": 5,
+            "changeset": 166934416,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
             "tags": {
                 "addr:city": "Ch\u00e2tillon",
                 "addr:housenumber": "21",
@@ -843,7 +844,8 @@
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
                 "operator": "Conad",
-                "ref:msal": "9972"
+                "ref:msal": "9972",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1173,11 +1175,11 @@
         {
             "type": "way",
             "id": 165355030,
-            "timestamp": "2023-05-06T10:09:30Z",
-            "version": 4,
-            "changeset": 135770705,
-            "user": "glaesel",
-            "uid": 8129382,
+            "timestamp": "2025-05-29T17:17:55Z",
+            "version": 5,
+            "changeset": 166934412,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
             "nodes": [
                 1769046288,
                 8910129092,
@@ -1204,7 +1206,8 @@
                 "payment:cash": "yes",
                 "phone": "+39 0166 563267",
                 "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.008291.html"
+                "website": "https://www.conad.it/ricerca-negozi/negozio.008291.html",
+                "wheelchair": "yes"
             }
         },
         {

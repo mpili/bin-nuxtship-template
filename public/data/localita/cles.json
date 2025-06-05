@@ -1349,6 +1349,33 @@
             }
         },
         {
+            "type": "node",
+            "id": 12875456887,
+            "lat": 46.4396212,
+            "lon": 11.1367028,
+            "timestamp": "2025-05-30T15:21:57Z",
+            "version": 3,
+            "changeset": 166977700,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Fondo",
+                "addr:housenumber": "29",
+                "addr:postcode": "38013",
+                "addr:street": "Via Virgilio Inama",
+                "contact:facebook": "salone.pleinhair",
+                "contact:instagram": "salone_pleinhair",
+                "currency:XBT": "yes",
+                "name": "Plein Hair",
+                "payment:XBT:operator": "Bitcoinpos.it",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 463 832 491",
+                "shop": "hairdresser"
+            }
+        },
+        {
             "type": "way",
             "id": 71520579,
             "timestamp": "2024-07-12T12:16:22Z",

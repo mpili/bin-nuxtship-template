@@ -1832,6 +1832,32 @@
             }
         },
         {
+            "type": "node",
+            "id": 12877601758,
+            "lat": 43.8060938,
+            "lon": 11.1112171,
+            "timestamp": "2025-05-31T18:46:33Z",
+            "version": 2,
+            "changeset": 167024855,
+            "user": "Car mania Srl",
+            "uid": 22933880,
+            "tags": {
+                "addr:city": "Signa",
+                "addr:housenumber": "191",
+                "addr:postcode": "50058",
+                "addr:street": "via pistoiese",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "name": "carrozzeria Carmania srl",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "shop": "car_repair",
+                "survey:date": "2025-05-31",
+                "website": "https://www.carmania.it"
+            }
+        },
+        {
             "type": "way",
             "id": 156097273,
             "timestamp": "2024-10-14T08:30:54Z",

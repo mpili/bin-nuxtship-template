@@ -1,8 +1,13 @@
 {
-    "id": "biella",
-    "name": "Biella",
+    "id": "ss-biella",
+    "name": "Satoshi Spriz Biella",
     "lng": 45.5614642,
     "lat": 8.0557548,
+    "localita": "Biella",
+    "idlocalita": "biella",
+    "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSprizBiella",
+    "telegram_app": "https://t.me/SatoshiSprizBiella",
+    "telegram_members": 15.0,
     "poi": [
         {
             "type": "node",
@@ -1533,12 +1538,5 @@
             }
         }
     ],
-    "telegram": [
-        {
-            "telegram": "bitcoin-biella"
-        },
-        {
-            "telegram": "ss-biella"
-        }
-    ]
+    "telegram": []
 }
