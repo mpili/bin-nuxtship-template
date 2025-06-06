@@ -7,7 +7,7 @@
     "idlocalita": "rimini",
     "telegram_weburl": "https://web.telegram.org/a/#-1001887746692",
     "telegram_app": "https://t.me/SatoshiSpritzRimini",
-    "telegram_members": 119.0,
+    "telegram_members": 122.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1696,11 +1696,11 @@
             "id": 12701801168,
             "lat": 43.967739,
             "lon": 12.7318539,
-            "timestamp": "2025-03-26T09:34:25Z",
-            "version": 2,
-            "changeset": 164112793,
-            "user": "Marco Barulli",
-            "uid": 1768045,
+            "timestamp": "2025-05-29T18:51:36Z",
+            "version": 3,
+            "changeset": 166938410,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Cattolica",
                 "addr:housenumber": "115",
@@ -1713,7 +1713,6 @@
                 "internet_access": "yes",
                 "internet_access:fee": "no",
                 "name": "Hotel Boston",
-                "payment:bitcoin": "yes",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "+39 0541 961152",
