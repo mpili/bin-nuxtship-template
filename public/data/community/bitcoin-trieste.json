@@ -602,16 +602,17 @@
             "id": 10660645073,
             "lat": 45.3828315,
             "lon": 13.6980037,
-            "timestamp": "2024-10-01T14:48:08Z",
-            "version": 2,
-            "changeset": 157343249,
-            "user": "Dardy",
-            "uid": 1096195,
+            "timestamp": "2025-06-09T09:34:05Z",
+            "version": 3,
+            "changeset": 167386942,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Krasica, Gardossi",
+                "addr:housenumber": "47",
                 "addr:postcode": "52460",
                 "addr:street": "Gardossi",
-                "check_date:currency:XBT": "2023-02-15",
+                "check_date:currency:XBT": "2025-06-09",
                 "currency:XBT": "yes",
                 "guest_house": "bed_and_breakfast",
                 "name": "Al Merlo Olivo B&B",
@@ -619,7 +620,8 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+385 91 530 2745",
-                "tourism": "guest_house"
+                "tourism": "guest_house",
+                "website": "https://www.camelus.it/al-merlo-olivo/"
             }
         },
         {

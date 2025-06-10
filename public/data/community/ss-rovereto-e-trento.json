@@ -7,7 +7,7 @@
     "idlocalita": "rovereto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001781332904",
     "telegram_app": "https://t.me/SatoshiSpritzRovereto",
-    "telegram_members": 166.0,
+    "telegram_members": 168.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1790,6 +1790,23 @@
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
                 "operator": "MediaMarket S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9814229893,
+            "lat": 46.0588235,
+            "lon": 11.1143683,
+            "timestamp": "2025-06-06T16:40:47Z",
+            "version": 2,
+            "changeset": 167276367,
+            "user": "aboc",
+            "uid": 21696131,
+            "tags": {
+                "amenity": "cafe",
+                "name": "Con Sapore",
+                "operator": "Conad",
+                "outdoor_seating": "yes"
             }
         },
         {
