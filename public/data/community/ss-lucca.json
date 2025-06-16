@@ -153,13 +153,13 @@
         {
             "type": "node",
             "id": 1492502714,
-            "lat": 44.0341754,
-            "lon": 10.1372783,
-            "timestamp": "2025-01-03T15:40:58Z",
-            "version": 7,
-            "changeset": 160954725,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 44.0341804,
+            "lon": 10.1372733,
+            "timestamp": "2025-06-16T15:12:03Z",
+            "version": 8,
+            "changeset": 167699535,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
                 "addr:city": "Massa",
                 "addr:housenumber": "5",
@@ -1722,11 +1722,11 @@
             "id": 12657198832,
             "lat": 43.874066,
             "lon": 10.2462964,
-            "timestamp": "2025-05-08T03:10:46Z",
-            "version": 13,
-            "changeset": 165963525,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2025-06-12T07:17:24Z",
+            "version": 14,
+            "changeset": 167520019,
+            "user": "Bar Leone",
+            "uid": 22621748,
             "tags": {
                 "addr:city": "Viareggio",
                 "addr:housenumber": "279",
@@ -1744,8 +1744,7 @@
                 "payment:credit_cards": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "website": "https://b.massimotoscano.org/"
+                "payment:onchain": "yes"
             }
         },
         {

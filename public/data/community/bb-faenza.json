@@ -7,7 +7,7 @@
     "idlocalita": "faenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001836800144",
     "telegram_app": "https://t.me/bitcoinbeerfaenza",
-    "telegram_members": 253.0,
+    "telegram_members": 252.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -450,6 +450,32 @@
                 "phone": "+39 051 221640",
                 "survey:date": "2025-02-14",
                 "website": "https://farmaciadelpavaglione.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3645888439,
+            "lat": 44.4936143,
+            "lon": 11.3450924,
+            "timestamp": "2025-06-16T10:57:19Z",
+            "version": 2,
+            "changeset": 167687857,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "5",
+                "addr:postcode": "40124",
+                "addr:street": "Via Drapperie",
+                "contact:facebook": "https://www.facebook.com/AlbergoDelleDrapperie",
+                "contact:instagram": "https://www.instagram.com/albergodrapperie/",
+                "currency:XBT": "yes",
+                "email": "info@albergodrapperie.com",
+                "name": "Albergo delle Drapperie",
+                "payment:lightning": "yes",
+                "phone": "+39 051 223955",
+                "tourism": "hotel",
+                "website": "https://www.albergodrapperie.com/"
             }
         },
         {
@@ -1213,17 +1239,18 @@
             "id": 7507133420,
             "lat": 44.4840967,
             "lon": 11.3739435,
-            "timestamp": "2020-05-11T13:56:56Z",
-            "version": 2,
-            "changeset": 85029455,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "timestamp": "2025-06-11T19:26:42Z",
+            "version": 3,
+            "changeset": 167506206,
+            "user": "Marcodago26",
+            "uid": 22604600,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "6",
                 "addr:postcode": "40139",
                 "addr:street": "Via Emilia Levante",
                 "amenity": "pharmacy",
+                "check_date": "2025-06-11",
                 "dispensing": "no",
                 "healthcare": "pharmacy",
                 "name": "Parafarmacia Conad",
