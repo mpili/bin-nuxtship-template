@@ -1868,6 +1868,33 @@
         },
         {
             "type": "node",
+            "id": 3545129486,
+            "lat": 45.9511154,
+            "lon": 8.90733,
+            "timestamp": "2025-06-16T03:59:24Z",
+            "version": 3,
+            "changeset": 167674562,
+            "user": "pjw1965",
+            "uid": 17872,
+            "tags": {
+                "addr:city": "Figino",
+                "addr:housenumber": "59",
+                "addr:postcode": "6918",
+                "addr:street": "Via Cantonale",
+                "amenity": "restaurant",
+                "check_date": "2025-06-16",
+                "check_date:currency:XBT": "2025-06-16",
+                "currency:XBT": "yes",
+                "name": "Osteria Grotto del Paolin",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+41 91 995 26 96",
+                "website": "https://www.grottodelpaolin.ch/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3546453893,
             "lat": 45.6096903,
             "lon": 8.9635781,
@@ -2979,6 +3006,36 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6049547107,
+            "lat": 45.474732,
+            "lon": 8.6913603,
+            "timestamp": "2025-06-13T20:29:05Z",
+            "version": 3,
+            "changeset": 167591397,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Galliate",
+                "addr:housenumber": "9",
+                "addr:postcode": "28066",
+                "addr:street": "Via Novara",
+                "brand": "BMW",
+                "brand:wikidata": "Q249173",
+                "check_date:currency:XBT": "2025-06-13",
+                "currency:XBT": "yes",
+                "name": "Activ Motor",
+                "opening_hours": "Mo-Th 09:00-12:30, 15:00-18:00",
+                "operator": "BMW",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 0321 807074",
+                "shop": "motorcycle",
+                "website": "https://www.activmotor.it/"
             }
         },
         {
@@ -4380,12 +4437,18 @@
             "id": 10154541289,
             "lat": 45.8358611,
             "lon": 9.0288076,
-            "timestamp": "2022-11-05T07:44:16Z",
-            "version": 2,
-            "changeset": 128510631,
-            "user": "user_5359",
-            "uid": 5359,
+            "timestamp": "2025-06-12T04:14:59Z",
+            "version": 3,
+            "changeset": 167515714,
+            "user": "pjw1965",
+            "uid": 17872,
             "tags": {
+                "addr:city": "Chiasso",
+                "addr:housenumber": "1",
+                "addr:postcode": "6830",
+                "addr:street": "Via Valdani",
+                "check_date": "2025-06-12",
+                "check_date:currency:XBT": "2025-06-12",
                 "currency:XBT": "yes",
                 "name": "Natural Water",
                 "payment:lightning": "yes",
@@ -4393,7 +4456,7 @@
                 "payment:onchain": "yes",
                 "shop": "water",
                 "survey:date": "2022-11-03",
-                "website": "https://naturalwater.ch/"
+                "website": "https://www.naturalwater.ch"
             }
         },
         {
@@ -5017,21 +5080,27 @@
             "id": 10982745111,
             "lat": 45.954991,
             "lon": 8.9299404,
-            "timestamp": "2023-11-11T11:25:52Z",
-            "version": 2,
-            "changeset": 143895463,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2025-06-14T04:35:29Z",
+            "version": 3,
+            "changeset": 167598611,
+            "user": "pjw1965",
+            "uid": 17872,
             "tags": {
-                "check_date:currency:XBT": "2023-05-17",
+                "addr:city": "Carona",
+                "addr:housenumber": "2",
+                "addr:postcode": "6914",
+                "addr:street": "Via Mauri",
+                "check_date": "2025-06-14",
+                "check_date:currency:XBT": "2025-06-14",
                 "currency:XBT": "yes",
                 "leisure": "pitch",
                 "name": "Tennis Club Carona",
                 "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
                 "phone": "+41916499464",
                 "sport": "tennis",
-                "website": "https://www.tccarona.ch/"
+                "website": "https://tccarona.ch"
             }
         },
         {
@@ -5039,18 +5108,25 @@
             "id": 10982745112,
             "lat": 45.9548904,
             "lon": 8.9319722,
-            "timestamp": "2023-06-17T16:40:00Z",
-            "version": 1,
-            "changeset": 137454196,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2025-06-13T04:38:51Z",
+            "version": 2,
+            "changeset": 167558054,
+            "user": "pjw1965",
+            "uid": 17872,
             "tags": {
+                "addr:city": "Carona",
+                "addr:housenumber": "6",
+                "addr:postcode": "6914",
+                "addr:street": "Via Santa Marta",
                 "amenity": "restaurant",
-                "check_date:currency:XBT": "2023-05-17",
+                "check_date": "2025-06-13",
+                "check_date:currency:XBT": "2025-06-13",
                 "currency:XBT": "yes",
                 "name": "Ristorazione Piscina Carona",
                 "payment:lightning": "yes",
-                "payment:onchain": "no"
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "website": "https://tccarona.ch"
             }
         },
         {
@@ -6930,41 +7006,6 @@
                 "payment:mastercard": "yes",
                 "payment:visa": "yes",
                 "shop": "furniture",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 59468196,
-            "timestamp": "2024-12-28T15:45:53Z",
-            "version": 7,
-            "changeset": 160719124,
-            "user": "Mose53",
-            "uid": 20944140,
-            "nodes": [
-                737546080,
-                737546064,
-                1987375627,
-                1987375632,
-                1987375638,
-                737546092,
-                737545983,
-                737546080
-            ],
-            "tags": {
-                "addr:city": "Varese",
-                "addr:country": "IT",
-                "addr:housenumber": "13",
-                "addr:postcode": "21100",
-                "addr:street": "Via Filippo Corridoni",
-                "brand": "Eurospar",
-                "brand:wikidata": "Q12309283",
-                "building": "retail",
-                "check_date": "2024-12-28",
-                "disused:shop": "supermarket",
-                "name": "Eurospar",
-                "operator": "Despar",
-                "phone": "+39 0332 321072",
                 "wheelchair": "yes"
             }
         },

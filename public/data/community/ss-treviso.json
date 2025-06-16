@@ -7,7 +7,7 @@
     "idlocalita": "treviso",
     "telegram_weburl": "https://web.telegram.org/a/#-1001574094874",
     "telegram_app": "https://t.me/SatoshiSpritzTreviso",
-    "telegram_members": 111.0,
+    "telegram_members": 109.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -898,27 +898,34 @@
         {
             "type": "node",
             "id": 4234614970,
-            "lat": 45.4362405,
-            "lon": 12.3357088,
-            "timestamp": "2024-12-30T19:21:16Z",
-            "version": 8,
-            "changeset": 160805504,
-            "user": "DnaX",
-            "uid": 69259,
+            "lat": 45.4358303,
+            "lon": 12.3355256,
+            "timestamp": "2025-06-14T15:44:49Z",
+            "version": 9,
+            "changeset": 167618332,
+            "user": "Karthoo",
+            "uid": 3232636,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "4558",
+                "addr:place": "San Marco",
                 "addr:postcode": "30124",
                 "addr:street": "Campo San Luca",
                 "brand": "Doppelg\u00e4nger",
                 "brand:wikidata": "Q117451227",
-                "check_date": "2023-08-26",
+                "check_date": "2024-08-21",
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
                 "opening_hours": "Mo-Sa 09:30-19:30; Su 11:00-19:30",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
                 "phone": "0415209251",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "limited"
             }
         },
         {
