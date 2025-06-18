@@ -2973,6 +2973,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 12920124101,
+            "lat": 45.530323,
+            "lon": 10.0977618,
+            "timestamp": "2025-06-16T20:30:26Z",
+            "version": 1,
+            "changeset": 167712209,
+            "user": "Dedeil59",
+            "uid": 23000541,
+            "tags": {
+                "advertising": "sign",
+                "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12920124102,
+            "lat": 45.5290116,
+            "lon": 10.096777,
+            "timestamp": "2025-06-16T20:30:26Z",
+            "version": 1,
+            "changeset": 167712209,
+            "user": "Dedeil59",
+            "uid": 23000541,
+            "tags": {
+                "advertising": "sign",
+                "operator": "Conad"
+            }
+        },
+        {
             "type": "way",
             "id": 116520728,
             "timestamp": "2016-04-20T10:09:11Z",
@@ -3208,17 +3238,18 @@
         {
             "type": "way",
             "id": 562596017,
-            "timestamp": "2025-01-02T16:46:35Z",
-            "version": 4,
-            "changeset": 160916701,
-            "user": "demon_box",
-            "uid": 350864,
+            "timestamp": "2025-06-16T20:30:26Z",
+            "version": 5,
+            "changeset": 167712209,
+            "user": "Dedeil59",
+            "uid": 23000541,
             "nodes": [
                 5423507600,
                 5423507588,
                 5423507599,
                 5423507598,
                 5423507597,
+                12920123194,
                 5423507600
             ],
             "tags": {

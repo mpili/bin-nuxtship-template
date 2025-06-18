@@ -701,6 +701,25 @@
             }
         },
         {
+            "type": "node",
+            "id": 12923064735,
+            "lat": 40.3432509,
+            "lon": 18.1609172,
+            "timestamp": "2025-06-18T11:27:22Z",
+            "version": 1,
+            "changeset": 167777856,
+            "user": "Alessandro Nuzzo",
+            "uid": 18540025,
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "operator": "Conad",
+                "parking": "surface",
+                "surface": "asphalt"
+            }
+        },
+        {
             "type": "way",
             "id": 297196005,
             "timestamp": "2025-01-02T12:27:14Z",
@@ -970,6 +989,30 @@
                 "payment:onchain": "yes",
                 "phone": "3932224477",
                 "website": "http://www.yaamlecce.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1396196257,
+            "timestamp": "2025-06-18T11:27:22Z",
+            "version": 1,
+            "changeset": 167777856,
+            "user": "Alessandro Nuzzo",
+            "uid": 18540025,
+            "nodes": [
+                12923064732,
+                12923064733,
+                12923064734,
+                12923064735,
+                12923064732
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "fee": "no",
+                "operator": "Conad",
+                "parking": "surface",
+                "surface": "asphalt"
             }
         }
     ],
