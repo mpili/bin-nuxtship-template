@@ -7,7 +7,7 @@
     "idlocalita": "roma",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzRoma",
     "telegram_app": "https://t.me/SatoshiSpritzRoma",
-    "telegram_members": 407.0,
+    "telegram_members": 408.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -501,30 +501,6 @@
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:30,16:00-20:00",
                 "operator": "OVS",
                 "phone": "+39 06 4467232",
-                "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2109265210,
-            "lat": 41.8563361,
-            "lon": 12.4802863,
-            "timestamp": "2025-01-03T15:52:12Z",
-            "version": 7,
-            "changeset": 160955173,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:postcode": "00145",
-                "addr:street": "Largo Leonardo da Vinci",
-                "check_date": "2024-05-26",
-                "fax": "+39 06 54602097",
-                "name": "OVS",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:00,16:00-20:00",
-                "operator": "OVS",
-                "phone": "+39 06 5417515",
-                "ref:vatin": "IT04240010274",
                 "shop": "clothes"
             }
         },
@@ -1202,11 +1178,11 @@
             "id": 5486797113,
             "lat": 42.1545896,
             "lon": 12.2476169,
-            "timestamp": "2025-06-17T13:32:23Z",
-            "version": 4,
-            "changeset": 167739003,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-06-20T21:50:26Z",
+            "version": 5,
+            "changeset": 167891612,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "addr:city": "Trevignano Romano",
                 "addr:housenumber": "73",
@@ -1230,7 +1206,7 @@
                 "payment:satispay": "yes",
                 "phone": "+39 06 999 9026",
                 "reservation": "yes",
-                "website": "trattorialatavernetta.net",
+                "website": "https://trattorialatavernetta.net/",
                 "website:menu": "https://www.menudigitale.io/trattoria-la-tavernetta"
             }
         },

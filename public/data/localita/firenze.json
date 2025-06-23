@@ -353,28 +353,6 @@
         },
         {
             "type": "node",
-            "id": 2671167531,
-            "lat": 43.7715336,
-            "lon": 11.2599932,
-            "timestamp": "2024-07-05T19:20:02Z",
-            "version": 8,
-            "changeset": 153601671,
-            "user": "mauropili",
-            "uid": 1496865,
-            "tags": {
-                "addr:city": "Firenze",
-                "addr:housenumber": "16",
-                "addr:postcode": "50122",
-                "addr:street": "Borgo degli Albizi",
-                "currency:XBT": "yes",
-                "name": "Tuscan Smoking",
-                "shop": "e-cigarette",
-                "survey:date": "2022-08-24",
-                "website": "https://aziende.virgilio.it/smokies-fumare-digitale_3"
-            }
-        },
-        {
-            "type": "node",
             "id": 2982900042,
             "lat": 43.9304681,
             "lon": 10.9151299,
@@ -497,31 +475,6 @@
                 "start_date": "2020-11-14",
                 "survey:date": "2024-02-20",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.010155.html"
-            }
-        },
-        {
-            "type": "node",
-            "id": 3796135257,
-            "lat": 43.7715247,
-            "lon": 11.2599468,
-            "timestamp": "2024-04-16T13:07:28Z",
-            "version": 8,
-            "changeset": 150084634,
-            "user": "yhic4uw",
-            "uid": 2104834,
-            "tags": {
-                "addr:city": "Firenze",
-                "addr:housenumber": "72r",
-                "addr:postcode": "50122",
-                "addr:street": "Borgo degli Albizi",
-                "amenity": "atm",
-                "check_date": "2024-04-16",
-                "currency:XBT": "yes",
-                "description": "Bitcoin ATM di Chainblock, situato all'interno di Tuscan Smoking.",
-                "email": "info@chainblock.it",
-                "name": "Chainblock ATM",
-                "website": "https://chainblock.it",
-                "wheelchair": "yes"
             }
         },
         {
@@ -1302,21 +1255,26 @@
             "id": 12871226822,
             "lat": 43.4674847,
             "lon": 11.0433855,
-            "timestamp": "2025-05-28T14:48:02Z",
-            "version": 1,
-            "changeset": 166879724,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-06-22T12:50:46Z",
+            "version": 2,
+            "changeset": 167956564,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "San Gimignano",
                 "addr:housenumber": "6",
                 "addr:place": "Piazza della Cisterna",
                 "addr:postcode": "53037",
                 "amenity": "fast_food",
+                "check_date": "2025-06-22",
+                "check_date:currency:XBT": "2025-06-10",
                 "cuisine": "sandwich",
                 "currency:XBT": "yes",
                 "name": "Vinaino Fiorenza",
-                "phone": "+39 05771794432",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 577 179 4432",
                 "website": "https://www.vinainofiorenza.it/"
             }
         },
