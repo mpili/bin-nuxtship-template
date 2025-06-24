@@ -7,7 +7,7 @@
     "idlocalita": "bergamo",
     "telegram_weburl": "https://web.telegram.org/a/#-1001370434480",
     "telegram_app": "https://t.me/BitcoinBergamo",
-    "telegram_members": 15.0,
+    "telegram_members": 17.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1444,9 +1444,9 @@
             "id": 3991747275,
             "lat": 45.4563234,
             "lon": 9.1950218,
-            "timestamp": "2025-06-02T16:09:24Z",
-            "version": 7,
-            "changeset": 167099161,
+            "timestamp": "2025-06-21T09:48:36Z",
+            "version": 8,
+            "changeset": 167905722,
             "user": "aa30mom",
             "uid": 13840929,
             "tags": {
@@ -1461,7 +1461,7 @@
                 "currency:XBT": "yes",
                 "email": "ilcaffedellaterradiportaromana@gmail.com",
                 "name": "Il Caff\u00e8 della Terra di P.ta Romana",
-                "phone": "02 8348 0866",
+                "phone": "+39 02 83480866",
                 "website": "https://caffeterra.com"
             }
         },
@@ -6271,6 +6271,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 12928106870,
+            "lat": 45.5150103,
+            "lon": 9.14224,
+            "timestamp": "2025-06-20T12:39:13Z",
+            "version": 1,
+            "changeset": 167868777,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "10",
+                "addr:postcode": "20157",
+                "addr:street": "Via Giuseppe Ungaretti",
+                "check_date:currency:XBT": "2025-06-20",
+                "contact:email": "edilweb.pro@outlook.com",
+                "currency:XBT": "yes",
+                "description": "External Administrative Services Vies Registered V.A.T number: : IT 13291340969",
+                "name": "EDILWEB.PRO&PARTNER$ DI ALESSANDRO MARCO MAZZONE",
+                "office": "it",
+                "opening_hours": "Mo-Fr 09:00-18:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 33 918 70951",
+                "website": "https://edilweb.pro/"
+            }
+        },
+        {
             "type": "way",
             "id": 41947515,
             "timestamp": "2025-01-06T14:40:00Z",
@@ -6879,9 +6908,9 @@
         {
             "type": "way",
             "id": 562596017,
-            "timestamp": "2025-06-16T20:30:26Z",
-            "version": 5,
-            "changeset": 167712209,
+            "timestamp": "2025-06-23T19:49:15Z",
+            "version": 6,
+            "changeset": 168019487,
             "user": "Dedeil59",
             "uid": 23000541,
             "nodes": [
@@ -6891,6 +6920,8 @@
                 5423507598,
                 5423507597,
                 12920123194,
+                12947382573,
+                12947382572,
                 5423507600
             ],
             "tags": {
