@@ -52,12 +52,6 @@ const podcasts = [
     img: "/img/podcast/arancione-podcast.jpg",
   },
 
-  {
-    id: "cripto-il-sole-24-ore",
-    nome: "Cripto -  Il Sole 24 Ore",
-    url: "/podc/cripto-il-sole-24-ore",
-    img: "/img/podcast/cripto-il-sole-24-ore.jpg",
-  },
 ];
 
 const breadcrumb = computed(() => [
