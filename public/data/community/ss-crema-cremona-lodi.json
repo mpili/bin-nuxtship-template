@@ -2333,6 +2333,34 @@
         },
         {
             "type": "node",
+            "id": 5796793353,
+            "lat": 45.4558174,
+            "lon": 9.2043914,
+            "timestamp": "2025-06-29T18:07:06Z",
+            "version": 5,
+            "changeset": 168276917,
+            "user": "Ftedeschi76",
+            "uid": 23048211,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "25",
+                "addr:postcode": "20135",
+                "addr:street": "Viale Monte Nero",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "name": "ENTRATA Vino, Cucina e...",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "phone": "+390266048395",
+                "survey:date": "2025-06-27"
+            }
+        },
+        {
+            "type": "node",
             "id": 5818862265,
             "lat": 45.5317599,
             "lon": 9.1062491,
@@ -6754,31 +6782,6 @@
                 "opening_hours": "Mo-Sa 08:00-20:30, Su 09:00-13:00,15:00-19:00",
                 "operator": "Conad",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
-            "id": 353034100,
-            "timestamp": "2021-11-29T08:44:43Z",
-            "version": 3,
-            "changeset": 114351226,
-            "user": "f_gonella",
-            "uid": 8716397,
-            "nodes": [
-                228096868,
-                3588165152,
-                3588165141,
-                3588165150,
-                228096868
-            ],
-            "tags": {
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "brand:wikipedia": "en:Tamoil",
-                "demolished:building": "roof",
-                "disused:amenity": "fuel",
-                "name": "Tamoil",
-                "operator": "Tamoil"
             }
         },
         {

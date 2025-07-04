@@ -2227,6 +2227,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 12973260894,
+            "lat": 46.1577502,
+            "lon": 10.7639449,
+            "timestamp": "2025-07-03T09:50:59Z",
+            "version": 1,
+            "changeset": 168436334,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Pinzolo",
+                "addr:housenumber": "6",
+                "addr:postcode": "38086",
+                "addr:street": "Via Giacomo Matteotti",
+                "check_date": "2025-07-03",
+                "check_date:currency:XBT": "2025-07-03",
+                "contact:facebook": "lacasadeltortellinopinzolo",
+                "contact:instagram": "lacasadeltortellino_pinzolo",
+                "currency:XBT": "yes",
+                "email": "casadeltortellino.pinzolo@gmail.com",
+                "name": "La Casa del Tortellino",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 377 087 3383",
+                "shop": "deli"
+            }
+        },
+        {
             "type": "way",
             "id": 63222690,
             "timestamp": "2023-11-05T04:46:58Z",
@@ -2293,11 +2322,11 @@
         {
             "type": "way",
             "id": 71520579,
-            "timestamp": "2024-07-12T12:16:22Z",
-            "version": 13,
-            "changeset": 153853154,
-            "user": "xtronix",
-            "uid": 2892364,
+            "timestamp": "2025-06-30T10:51:32Z",
+            "version": 14,
+            "changeset": 168303720,
+            "user": "Be-em-Zett",
+            "uid": 18769536,
             "nodes": [
                 850786771,
                 2232004982,
@@ -2322,9 +2351,7 @@
                 "currency:XBT": "yes",
                 "name": "Impact Hub",
                 "office": "coworking",
-                "opening_hours": "Mo-Fr 08:00-18:00",
-                "operator": "inbitcoin.it",
-                "payment:bitcoin:operator": "inbitcoin.it"
+                "opening_hours": "Mo-Fr 08:00-18:00"
             }
         },
         {
