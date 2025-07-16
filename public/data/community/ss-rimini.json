@@ -7,7 +7,7 @@
     "idlocalita": "rimini",
     "telegram_weburl": "https://web.telegram.org/a/#-1001887746692",
     "telegram_app": "https://t.me/SatoshiSpritzRimini",
-    "telegram_members": 118.0,
+    "telegram_members": 116.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -290,17 +290,17 @@
         {
             "type": "node",
             "id": 2718119263,
-            "lat": 44.0394683,
-            "lon": 12.5664577,
-            "timestamp": "2024-12-03T20:32:52Z",
-            "version": 3,
-            "changeset": 159896063,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 44.0395994,
+            "lon": 12.5666881,
+            "timestamp": "2025-07-11T10:33:25Z",
+            "version": 4,
+            "changeset": 168788646,
+            "user": "Mirko Ferrari",
+            "uid": 10795314,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:country": "IT",
-                "addr:housenumber": "15",
+                "addr:housenumber": "15;15a",
                 "addr:postcode": "47923",
                 "addr:street": "Via Consolare Rimini-San Marino",
                 "brand": "Trony",
@@ -1518,28 +1518,6 @@
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics",
                 "survey:date": "2023-09-24"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11346255491,
-            "lat": 43.9121727,
-            "lon": 12.9052113,
-            "timestamp": "2025-01-02T22:10:22Z",
-            "version": 2,
-            "changeset": 160927973,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "310",
-                "addr:postcode": "61121",
-                "addr:street": "Corso Undici settembre",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "name": "Trony",
-                "operator": "Trony",
-                "shop": "electronics"
             }
         },
         {

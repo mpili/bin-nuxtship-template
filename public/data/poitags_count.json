@@ -4,7 +4,7 @@
             "Unnamed: 0": 0,
             "amenity": "pharmacy",
             "count": 140,
-            "max_timestamp": "2025-06-11T19:26:42Z"
+            "max_timestamp": "2025-07-11T19:23:18Z"
         },
         {
             "Unnamed: 0": 1,
@@ -16,12 +16,12 @@
             "Unnamed: 0": 2,
             "amenity": "restaurant",
             "count": 96,
-            "max_timestamp": "2025-06-29T18:07:06Z"
+            "max_timestamp": "2025-07-14T15:49:58Z"
         },
         {
             "Unnamed: 0": 3,
             "amenity": "parking",
-            "count": 67,
+            "count": 66,
             "max_timestamp": "2025-06-18T11:27:22Z"
         },
         {
@@ -33,20 +33,20 @@
         {
             "Unnamed: 0": 5,
             "amenity": "bar",
-            "count": 42,
-            "max_timestamp": "2025-06-20T20:27:57Z"
+            "count": 45,
+            "max_timestamp": "2025-07-15T08:42:25Z"
         },
         {
             "Unnamed: 0": 6,
             "amenity": "fast_food",
             "count": 34,
-            "max_timestamp": "2025-06-22T12:50:46Z"
+            "max_timestamp": "2025-07-15T09:56:12Z"
         },
         {
             "Unnamed: 0": 7,
             "amenity": "cafe",
             "count": 23,
-            "max_timestamp": "2025-06-21T09:48:36Z"
+            "max_timestamp": "2025-07-15T09:49:56Z"
         },
         {
             "Unnamed: 0": 8,
@@ -58,7 +58,7 @@
             "Unnamed: 0": 9,
             "amenity": "car_wash",
             "count": 14,
-            "max_timestamp": "2025-04-20T07:24:35Z"
+            "max_timestamp": "2025-07-13T16:52:47Z"
         },
         {
             "Unnamed: 0": 10,
@@ -281,26 +281,26 @@
         {
             "Unnamed: 0": 0,
             "shop": "electronics",
-            "count": 358,
-            "max_timestamp": "2025-07-01T12:36:34Z"
+            "count": 356,
+            "max_timestamp": "2025-07-13T16:59:26Z"
         },
         {
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 352,
-            "max_timestamp": "2025-07-03T06:07:46Z"
+            "max_timestamp": "2025-07-15T10:52:08Z"
         },
         {
             "Unnamed: 0": 2,
             "shop": "clothes",
             "count": 312,
-            "max_timestamp": "2025-06-28T11:03:18Z"
+            "max_timestamp": "2025-07-15T07:10:31Z"
         },
         {
             "Unnamed: 0": 3,
             "shop": "sports",
             "count": 80,
-            "max_timestamp": "2025-06-14T09:34:27Z"
+            "max_timestamp": "2025-07-15T10:52:08Z"
         },
         {
             "Unnamed: 0": 4,
@@ -336,7 +336,7 @@
             "Unnamed: 0": 9,
             "shop": "beauty",
             "count": 14,
-            "max_timestamp": "2025-05-06T10:11:56Z"
+            "max_timestamp": "2025-07-15T10:07:57Z"
         },
         {
             "Unnamed: 0": 10,
@@ -346,27 +346,27 @@
         },
         {
             "Unnamed: 0": 11,
+            "shop": "farm",
+            "count": 9,
+            "max_timestamp": "2025-07-11T15:46:49Z"
+        },
+        {
+            "Unnamed: 0": 12,
             "shop": "yes",
             "count": 9,
             "max_timestamp": "2025-06-13T08:46:02Z"
         },
         {
-            "Unnamed: 0": 12,
+            "Unnamed: 0": 13,
             "shop": "tobacco",
             "count": 9,
             "max_timestamp": "2025-06-17T13:17:25Z"
         },
         {
-            "Unnamed: 0": 13,
+            "Unnamed: 0": 14,
             "shop": "car_repair",
             "count": 8,
             "max_timestamp": "2025-05-31T18:46:33Z"
-        },
-        {
-            "Unnamed: 0": 14,
-            "shop": "farm",
-            "count": 8,
-            "max_timestamp": "2025-04-18T08:30:23Z"
         },
         {
             "Unnamed: 0": 15,
@@ -382,21 +382,21 @@
         },
         {
             "Unnamed: 0": 17,
+            "shop": "wine",
+            "count": 6,
+            "max_timestamp": "2025-07-09T08:21:23Z"
+        },
+        {
+            "Unnamed: 0": 18,
             "shop": "pet",
             "count": 6,
             "max_timestamp": "2025-01-22T06:58:59Z"
         },
         {
-            "Unnamed: 0": 18,
+            "Unnamed: 0": 19,
             "shop": "shoes",
             "count": 5,
             "max_timestamp": "2025-01-02T16:46:35Z"
-        },
-        {
-            "Unnamed: 0": 19,
-            "shop": "travel_agency",
-            "count": 5,
-            "max_timestamp": "2024-11-10T20:54:22Z"
         },
         {
             "Unnamed: 0": 20,
@@ -412,15 +412,15 @@
         },
         {
             "Unnamed: 0": 22,
-            "shop": "department_store",
+            "shop": "travel_agency",
             "count": 5,
-            "max_timestamp": "2025-04-19T09:12:05Z"
+            "max_timestamp": "2024-11-10T20:54:22Z"
         },
         {
             "Unnamed: 0": 23,
-            "shop": "wine",
+            "shop": "department_store",
             "count": 5,
-            "max_timestamp": "2025-02-22T15:22:26Z"
+            "max_timestamp": "2025-04-19T09:12:05Z"
         },
         {
             "Unnamed: 0": 24,
@@ -504,7 +504,7 @@
             "Unnamed: 0": 37,
             "shop": "cheese",
             "count": 2,
-            "max_timestamp": "2025-06-21T20:19:34Z"
+            "max_timestamp": "2025-07-09T09:22:30Z"
         },
         {
             "Unnamed: 0": 38,
@@ -660,7 +660,7 @@
             "Unnamed: 0": 63,
             "shop": "art",
             "count": 1,
-            "max_timestamp": "2025-05-04T13:42:00Z"
+            "max_timestamp": "2025-07-15T08:54:11Z"
         },
         {
             "Unnamed: 0": 64,
@@ -860,19 +860,19 @@
             "Unnamed: 0": 1,
             "cuisine": "italian",
             "count": 36,
-            "max_timestamp": "2025-06-29T18:07:06Z"
+            "max_timestamp": "2025-07-15T08:42:25Z"
         },
         {
             "Unnamed: 0": 2,
             "cuisine": "kebab",
             "count": 17,
-            "max_timestamp": "2025-06-05T10:11:12Z"
+            "max_timestamp": "2025-07-15T09:56:12Z"
         },
         {
             "Unnamed: 0": 3,
             "cuisine": "regional",
             "count": 16,
-            "max_timestamp": "2025-06-13T15:05:38Z"
+            "max_timestamp": "2025-07-09T22:48:00Z"
         },
         {
             "Unnamed: 0": 4,
@@ -884,13 +884,13 @@
             "Unnamed: 0": 5,
             "cuisine": "sandwich",
             "count": 7,
-            "max_timestamp": "2025-06-22T12:50:46Z"
+            "max_timestamp": "2025-07-15T08:42:25Z"
         },
         {
             "Unnamed: 0": 6,
             "cuisine": "burger",
             "count": 6,
-            "max_timestamp": "2025-05-01T19:47:03Z"
+            "max_timestamp": "2025-07-15T08:42:25Z"
         },
         {
             "Unnamed: 0": 7,
@@ -932,7 +932,7 @@
             "Unnamed: 0": 13,
             "cuisine": "pasta",
             "count": 2,
-            "max_timestamp": "2024-12-27T17:51:47Z"
+            "max_timestamp": "2025-07-15T08:42:25Z"
         },
         {
             "Unnamed: 0": 14,
@@ -948,69 +948,69 @@
         },
         {
             "Unnamed: 0": 16,
+            "cuisine": "mediterranean",
+            "count": 2,
+            "max_timestamp": "2025-07-14T15:49:58Z"
+        },
+        {
+            "Unnamed: 0": 17,
             "cuisine": "bistro",
             "count": 1,
             "max_timestamp": "2023-12-17T14:53:36Z"
         },
         {
-            "Unnamed: 0": 17,
+            "Unnamed: 0": 18,
             "cuisine": "frozen_yogurt",
             "count": 1,
             "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
-            "Unnamed: 0": 18,
+            "Unnamed: 0": 19,
             "cuisine": "noodle",
             "count": 1,
             "max_timestamp": "2024-09-01T20:09:37Z"
         },
         {
-            "Unnamed: 0": 19,
+            "Unnamed: 0": 20,
             "cuisine": "focaccia",
             "count": 1,
             "max_timestamp": "2025-06-05T10:11:12Z"
         },
         {
-            "Unnamed: 0": 20,
+            "Unnamed: 0": 21,
             "cuisine": "farinata",
             "count": 1,
             "max_timestamp": "2025-06-05T10:11:12Z"
         },
         {
-            "Unnamed: 0": 21,
+            "Unnamed: 0": 22,
             "cuisine": "pinsa",
             "count": 1,
             "max_timestamp": "2024-10-30T19:11:53Z"
         },
         {
-            "Unnamed: 0": 22,
+            "Unnamed: 0": 23,
             "cuisine": "fastfood",
             "count": 1,
             "max_timestamp": "2023-08-26T10:18:50Z"
         },
         {
-            "Unnamed: 0": 23,
+            "Unnamed: 0": 24,
             "cuisine": "streetfood",
             "count": 1,
             "max_timestamp": "2024-12-19T10:02:33Z"
         },
         {
-            "Unnamed: 0": 24,
+            "Unnamed: 0": 25,
             "cuisine": "hamburger",
             "count": 1,
             "max_timestamp": "2024-12-19T10:02:33Z"
         },
         {
-            "Unnamed: 0": 25,
+            "Unnamed: 0": 26,
             "cuisine": "barbecue",
             "count": 1,
             "max_timestamp": "2023-04-27T10:06:38Z"
-        },
-        {
-            "Unnamed: 0": 26,
-            "cuisine": "mediterranean",
-            "count": 1,
-            "max_timestamp": "2025-05-17T19:24:22Z"
         },
         {
             "Unnamed: 0": 27,
@@ -1265,8 +1265,8 @@
         {
             "Unnamed: 0": 2,
             "tourism": "apartment",
-            "count": 23,
-            "max_timestamp": "2025-05-29T16:58:16Z"
+            "count": 24,
+            "max_timestamp": "2025-07-08T13:52:47Z"
         },
         {
             "Unnamed: 0": 3,
@@ -1432,7 +1432,7 @@
             "Unnamed: 0": 0,
             "healthcare": "pharmacy",
             "count": 141,
-            "max_timestamp": "2025-06-11T19:26:42Z"
+            "max_timestamp": "2025-07-11T19:23:18Z"
         },
         {
             "Unnamed: 0": 1,

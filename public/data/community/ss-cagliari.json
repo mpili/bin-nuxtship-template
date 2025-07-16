@@ -7,7 +7,7 @@
     "idlocalita": "cagliari",
     "telegram_weburl": "https://web.telegram.org/a/#-1001802453419",
     "telegram_app": "https://t.me/SatoshiSpritzCagliari",
-    "telegram_members": 101.0,
+    "telegram_members": 102.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -731,11 +731,11 @@
             "id": 4471088139,
             "lat": 39.2336,
             "lon": 9.1871184,
-            "timestamp": "2023-12-30T00:00:58Z",
-            "version": 3,
-            "changeset": 145681044,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-07-15T08:52:17Z",
+            "version": 4,
+            "changeset": 168952124,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
             "tags": {
                 "addr:city": "Quartu Sant'Elena",
                 "addr:housenumber": "54",
@@ -749,7 +749,8 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {

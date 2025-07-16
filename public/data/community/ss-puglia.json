@@ -7,7 +7,7 @@
     "idlocalita": "puglia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001876214322",
     "telegram_app": "https://t.me/SatoshiSpritzPuglia",
-    "telegram_members": 31.0,
+    "telegram_members": 29.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -160,20 +160,20 @@
             "id": 2792033770,
             "lat": 41.1329206,
             "lon": 16.5450759,
-            "timestamp": "2024-12-31T18:23:42Z",
-            "version": 6,
-            "changeset": 160844212,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-07-09T16:39:39Z",
+            "version": 7,
+            "changeset": 168705179,
+            "user": "Clown Pennywise",
+            "uid": 23064242,
             "tags": {
                 "addr:city": "Terlizzi",
                 "addr:postcode": "70038",
                 "addr:street": "Viale dei Garofani",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
+                "disused:shop": "electronics",
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
-                "shop": "electronics",
                 "wheelchair": "yes"
             }
         },
@@ -455,11 +455,11 @@
             "id": 11751235309,
             "lat": 41.121726,
             "lon": 16.8739726,
-            "timestamp": "2025-05-04T13:42:00Z",
-            "version": 4,
-            "changeset": 165800855,
-            "user": "Caramell",
-            "uid": 21836575,
+            "timestamp": "2025-07-15T08:54:11Z",
+            "version": 5,
+            "changeset": 168952205,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
             "tags": {
                 "addr:city": "Bari",
                 "addr:housenumber": "24",
@@ -476,7 +476,8 @@
                 "payment:onchain": "yes",
                 "shop": "art",
                 "survey:date": "2024-03-21",
-                "website": "https://www.art-and-more.it/"
+                "website": "https://www.art-and-more.it/",
+                "wheelchair": "limited"
             }
         },
         {
