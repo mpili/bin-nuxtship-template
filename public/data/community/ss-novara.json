@@ -5267,11 +5267,11 @@
         {
             "type": "way",
             "id": 24037476,
-            "timestamp": "2025-01-06T14:38:45Z",
-            "version": 21,
-            "changeset": 161060939,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-07-18T07:26:05Z",
+            "version": 22,
+            "changeset": 169093777,
+            "user": "airon90",
+            "uid": 89897,
             "nodes": [
                 2085950441,
                 2085950440,
@@ -5330,15 +5330,19 @@
                 "addr:housenumber": "4",
                 "addr:postcode": "20094",
                 "addr:street": "Via Nuova Marchesi",
+                "branch": "Milano Corsico",
                 "brand": "IKEA",
                 "brand:wikidata": "Q54078",
                 "brand:wikipedia": "en:IKEA",
                 "building": "retail",
-                "building:levels": "1",
+                "building:levels": "0;1",
+                "contact:website": "https://www.ikea.com/it/it/stores/milano-corsico/",
+                "dog": "leashed",
                 "name": "IKEA",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "ref:vatin": "IT02992760963",
-                "shop": "furniture"
+                "shop": "furniture",
+                "toilets": "yes"
             }
         },
         {
