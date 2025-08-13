@@ -7,7 +7,7 @@
     "idlocalita": "cles",
     "telegram_weburl": "https://web.telegram.org/a/#-1002045744593",
     "telegram_app": "https://t.me/SatoshiSpritzCles",
-    "telegram_members": 26.0,
+    "telegram_members": 25.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -15,11 +15,11 @@
             "id": 288938675,
             "lat": 46.0647594,
             "lon": 11.1504525,
-            "timestamp": "2024-10-12T13:50:59Z",
-            "version": 17,
-            "changeset": 157796764,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-05T09:46:32Z",
+            "version": 19,
+            "changeset": 169995647,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "addr:city": "Trento",
                 "addr:housenumber": "10",
@@ -31,10 +31,13 @@
                 "contact:facebook": "https://www.facebook.com/orostube/",
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
+                "currency:XBT:discount": "10%",
                 "email": "INFO@OROSTUBE.IT",
                 "name": "Pizzeria OroStube",
                 "opening_hours": "Mo-Fr 11:45-14:00, 18:30-22:00; Sa 18:30-22:00",
-                "payment:bitcoin:operator": "inbitcoin.it",
+                "payment:lightning": "yes",
+                "payment:lightning:operator": "bitcoinpos.it; inbitcoin.it",
+                "payment:onchain": "yes",
                 "phone": "+39 0461 816073",
                 "website": "https://orostube.it/",
                 "wheelchair": "yes"
@@ -1168,6 +1171,28 @@
         },
         {
             "type": "node",
+            "id": 9069496632,
+            "lat": 45.9604728,
+            "lon": 10.9138168,
+            "timestamp": "2025-08-05T09:46:32Z",
+            "version": 3,
+            "changeset": 169995647,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "currency:XBT:discount": "10%",
+                "name": "Bar-ristorante-pizzeria Alfio S.r.l.",
+                "payment:lightning": "yes",
+                "payment:lightning:operator": "bitcoinpos.it",
+                "payment:onchain": "yes",
+                "phone": "+39 0464 543043"
+            }
+        },
+        {
+            "type": "node",
             "id": 9233668643,
             "lat": 46.4998866,
             "lon": 11.3499878,
@@ -1523,11 +1548,11 @@
         {
             "type": "way",
             "id": 464541121,
-            "timestamp": "2017-01-08T14:38:55Z",
-            "version": 1,
-            "changeset": 45001383,
-            "user": "Peilscheibe",
-            "uid": 35560,
+            "timestamp": "2025-08-05T05:52:58Z",
+            "version": 3,
+            "changeset": 169986122,
+            "user": "uuk1301",
+            "uid": 14493249,
             "nodes": [
                 4596410595,
                 4596410594,
@@ -1539,7 +1564,38 @@
             "tags": {
                 "access": "customers",
                 "amenity": "parking",
-                "operator": "Despar"
+                "fee": "no",
+                "operator": "Despar",
+                "parking": "surface"
+            }
+        },
+        {
+            "type": "way",
+            "id": 754555856,
+            "timestamp": "2025-08-09T13:00:43Z",
+            "version": 5,
+            "changeset": 170201344,
+            "user": "tyr_asd",
+            "uid": 115612,
+            "nodes": [
+                2110423278,
+                4170451300,
+                7121877722,
+                4170451299,
+                4170451305,
+                4170451298,
+                2110423280,
+                13059574787,
+                2110423278
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity:disabled": "3",
+                "operator": "Despar",
+                "operator:type": "business",
+                "parking": "surface",
+                "surface": "asphalt"
             }
         },
         {
@@ -1564,6 +1620,31 @@
                 "operator": "Despar",
                 "parking": "surface",
                 "surface": "asphalt"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1374128092,
+            "timestamp": "2025-08-09T09:50:59Z",
+            "version": 2,
+            "changeset": 170192532,
+            "user": "tyr_asd",
+            "uid": 115612,
+            "nodes": [
+                10042744876,
+                12723073176,
+                4170451301,
+                13059376704,
+                13059376701,
+                13059376702,
+                13059376703,
+                13059376704
+            ],
+            "tags": {
+                "access": "customers",
+                "highway": "service",
+                "operator": "Despar",
+                "service": "parking_aisle"
             }
         }
     ],

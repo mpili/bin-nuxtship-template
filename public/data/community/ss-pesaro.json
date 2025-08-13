@@ -583,11 +583,11 @@
             "id": 4495188701,
             "lat": 44.0022953,
             "lon": 12.6599613,
-            "timestamp": "2025-01-03T16:27:07Z",
-            "version": 6,
-            "changeset": 160956664,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-06T21:50:06Z",
+            "version": 7,
+            "changeset": 170079964,
+            "user": "Samuele Battarra",
+            "uid": 51179,
             "tags": {
                 "addr:city": "Riccione",
                 "addr:housenumber": "36",
@@ -595,7 +595,7 @@
                 "addr:street": "Viale Maria Boorman Ceccarini",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
-                "check_date": "2024-08-04",
+                "check_date": "2025-08-06",
                 "name": "OVS",
                 "operator": "OVS",
                 "shop": "clothes"
@@ -782,11 +782,11 @@
         {
             "type": "node",
             "id": 7512172489,
-            "lat": 43.9947328,
-            "lon": 12.4172392,
-            "timestamp": "2023-03-02T15:41:43Z",
-            "version": 7,
-            "changeset": 133217264,
+            "lat": 43.9947233,
+            "lon": 12.4172696,
+            "timestamp": "2025-08-01T07:46:53Z",
+            "version": 8,
+            "changeset": 169802750,
             "user": "Aluminum0173",
             "uid": 16035231,
             "tags": {
@@ -803,7 +803,7 @@
                 "payment:bancomat": "yes",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
-                "phone": "+390541678063",
+                "phone": "+39 0541 67 8063",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.009655.html",
                 "wheelchair": "yes"
@@ -1237,6 +1237,36 @@
                 "survey:date": "2025-03-26",
                 "tourism": "hotel",
                 "website": "https://www.hboston.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13036877299,
+            "lat": 43.8958288,
+            "lon": 12.9097443,
+            "timestamp": "2025-08-11T16:46:58Z",
+            "version": 4,
+            "changeset": 170303388,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "5",
+                "addr:postcode": "61122",
+                "addr:street": "Via Giovanni Giolitti",
+                "air_conditioning": "yes",
+                "check_date:currency:XBT": "2025-08-11",
+                "contact:facebook": "https://www.facebook.com/Paradiso.Pesaro",
+                "currency:XBT": "yes",
+                "name": "Bella Estetica",
+                "opening_hours": "Mo-Fr 09:00-19:30",
+                "operator": "Dayse Araujo",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 349 7874953",
+                "shop": "beauty",
+                "toilets": "yes"
             }
         },
         {

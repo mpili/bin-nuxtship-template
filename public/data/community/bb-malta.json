@@ -7,7 +7,7 @@
     "idlocalita": "malta",
     "telegram_weburl": "https://web.telegram.org/a/#-1001979747988",
     "telegram_app": "https://t.me/bitcoinmaltahub",
-    "telegram_members": 41.0,
+    "telegram_members": 42.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -386,18 +386,18 @@
             "id": 12137711089,
             "lat": 35.9565582,
             "lon": 14.3652009,
-            "timestamp": "2025-03-09T00:51:02Z",
-            "version": 2,
-            "changeset": 163384130,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-08-08T23:51:52Z",
+            "version": 5,
+            "changeset": 170179534,
+            "user": "tal-bajdKbar",
+            "uid": 13377098,
             "tags": {
                 "addr:city": "Mellie\u0127a",
                 "addr:housenumber": "66",
                 "addr:postcode": "MLH 2313",
                 "addr:street": "Triq il-Kbira",
                 "amenity": "cafe",
-                "check_date": "2025-03-09",
+                "check_date": "2025-08-08",
                 "contact:facebook": "https://www.facebook.com/profile.php?id=100066829402223",
                 "currency:XBT": "yes",
                 "name": "Freds Pies & More",
@@ -554,6 +554,27 @@
                 "payment:onchain": "yes",
                 "phone": "+356 79 231 717",
                 "website": "https://www.coffeecircus.com.mt/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13058928906,
+            "lat": 35.9507086,
+            "lon": 14.4102524,
+            "timestamp": "2025-08-09T00:09:58Z",
+            "version": 1,
+            "changeset": 170179798,
+            "user": "tal-bajdKbar",
+            "uid": 13377098,
+            "tags": {
+                "addr:city": "San Pawl il-Ba\u0127ar",
+                "addr:housenumber": "16",
+                "addr:street": "Triq Sant' Antnin",
+                "currency:XBT": "yes",
+                "facebook": "https://www.facebook.com/Ilonaerikagaspar",
+                "name": "Sisi Therapy Massage Salon",
+                "phone": "+356 99760082",
+                "shop": "massage"
             }
         }
     ],

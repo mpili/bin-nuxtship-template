@@ -674,26 +674,41 @@
             "id": 1832528981,
             "lat": 45.4686668,
             "lon": 9.1823737,
-            "timestamp": "2021-10-09T12:45:26Z",
-            "version": 10,
-            "changeset": 112299817,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-08-10T13:24:08Z",
+            "version": 11,
+            "changeset": 170245393,
+            "user": "c674a",
+            "uid": 13697350,
             "tags": {
                 "addr:city": "Milano",
                 "addr:country": "IT",
                 "addr:housenumber": "74/76",
                 "addr:postcode": "20121",
                 "addr:street": "Foro Buonaparte",
+                "air_conditioning": "yes",
                 "brand": "Decathlon",
                 "brand:wikidata": "Q509349",
                 "brand:wikipedia": "en:Decathlon (retailer)",
                 "contact:phone": "+39 02 80509755",
                 "name": "Decathlon",
                 "operator": "Decathlon",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:satispay": "yes",
                 "phone": "+39 02 80509755",
                 "ref:vatin": "IT11005760159",
+                "service:bicycle:cleaning": "yes",
+                "service:bicycle:ebike": "yes",
+                "service:bicycle:parts": "yes",
+                "service:bicycle:pump": "yes",
+                "service:bicycle:rental": "yes",
+                "service:bicycle:repair": "yes",
+                "service:bicycle:second_hand": "yes",
+                "service:bicycle:service": "yes",
                 "shop": "sports",
+                "sport": "fitness;climbing;basketball;swimming;soccer;yoga;tennis;gymnastics;volleyball;cycling;running;beachvolleyball",
                 "toilets:wheelchair": "yes",
                 "wheelchair": "yes"
             }
@@ -1304,20 +1319,22 @@
             "id": 3096402784,
             "lat": 45.5613439,
             "lon": 9.228458,
-            "timestamp": "2025-01-03T14:03:43Z",
-            "version": 3,
-            "changeset": 160950632,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-05T09:26:04Z",
+            "version": 4,
+            "changeset": 169994628,
+            "user": "airon90",
+            "uid": 89897,
             "tags": {
                 "addr:city": "Cinisello Balsamo",
                 "addr:country": "IT",
                 "addr:housenumber": "2",
                 "addr:postcode": "20092",
                 "addr:street": "Via Edmondo De Amicis",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "operator": "OVS",
-                "shop": "department_store"
+                "shop": "clothes"
             }
         },
         {
@@ -2364,26 +2381,6 @@
                 "payment:lightning_contactless": "yes",
                 "phone": "+390266048395",
                 "survey:date": "2025-06-27"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5818862265,
-            "lat": 45.5317599,
-            "lon": 9.1062491,
-            "timestamp": "2025-04-21T07:53:12Z",
-            "version": 3,
-            "changeset": 165224455,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Baranzate",
-                "addr:postcode": "20021",
-                "addr:street": "Via Stella Rosa",
-                "amenity": "bicycle_repair_station",
-                "name": "Decathlon",
-                "operator": "Decathlon",
-                "service:bicycle:pump": "yes"
             }
         },
         {
@@ -5149,6 +5146,25 @@
                 "name": "Leyla Food & Drink",
                 "opening_hours": "Mo-Sa 07:00-22:00; Su closed",
                 "phone": "+39 328 705 3652"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11510566323,
+            "lat": 45.4504673,
+            "lon": 9.2055195,
+            "timestamp": "2025-08-03T17:42:02Z",
+            "version": 3,
+            "changeset": 169917828,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "operator": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {

@@ -9,11 +9,11 @@
             "id": 288938675,
             "lat": 46.0647594,
             "lon": 11.1504525,
-            "timestamp": "2024-10-12T13:50:59Z",
-            "version": 17,
-            "changeset": 157796764,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-05T09:46:32Z",
+            "version": 19,
+            "changeset": 169995647,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "addr:city": "Trento",
                 "addr:housenumber": "10",
@@ -25,10 +25,13 @@
                 "contact:facebook": "https://www.facebook.com/orostube/",
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
+                "currency:XBT:discount": "10%",
                 "email": "INFO@OROSTUBE.IT",
                 "name": "Pizzeria OroStube",
                 "opening_hours": "Mo-Fr 11:45-14:00, 18:30-22:00; Sa 18:30-22:00",
-                "payment:bitcoin:operator": "inbitcoin.it",
+                "payment:lightning": "yes",
+                "payment:lightning:operator": "bitcoinpos.it; inbitcoin.it",
+                "payment:onchain": "yes",
                 "phone": "+39 0461 816073",
                 "website": "https://orostube.it/",
                 "wheelchair": "yes"
@@ -237,6 +240,39 @@
                 "payment:lightning": "yes",
                 "ref:vatin": "IT02431310222",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 903941484,
+            "lat": 45.8644376,
+            "lon": 11.0285258,
+            "timestamp": "2025-08-05T09:46:32Z",
+            "version": 9,
+            "changeset": 169995647,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:housenumber": "18",
+                "addr:street": "Viale del Lavoro",
+                "amenity": "restaurant",
+                "cuisine": "grill;italian;pizza",
+                "currency:XBT": "yes",
+                "currency:XBT:discount": "10%",
+                "email": "labrace@labrace.net",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "La Brace",
+                "opening_hours": "Mo-We 11:45-14:30,19:00-23:00; Th,Fr 11:45-14:30,19:00-23:30; Sa 18:00-24:00",
+                "operator": "ARVEDO s.a.s. di Biondi Flavio & C.",
+                "payment:lightning": "yes",
+                "payment:lightning:operator": "bitcoinpos.it",
+                "payment:onchain": "yes",
+                "phone": "+39 0464 874210",
+                "ref:vatin": "IT01291810222",
+                "smoking": "no",
+                "website": "https://www.labrace.net/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -703,11 +739,11 @@
             "id": 2151018561,
             "lat": 45.8881405,
             "lon": 11.0443447,
-            "timestamp": "2025-06-19T17:17:47Z",
-            "version": 14,
-            "changeset": 167837121,
-            "user": "Liongrass",
-            "uid": 1836965,
+            "timestamp": "2025-08-02T17:49:57Z",
+            "version": 15,
+            "changeset": 169874316,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Rovereto",
                 "addr:country": "IT",
@@ -715,6 +751,10 @@
                 "addr:postcode": "38068",
                 "addr:street": "Piazza Malfatti",
                 "amenity": "bar",
+                "check_date": "2025-08-02",
+                "check_date:currency:XBT": "2025-08-02",
+                "contact:facebook": "barmanialcielo",
+                "contact:instagram": "https://www.instagram.com/explore/locations/705295320/bar-mani-al-cielo-20/",
                 "currency:XBT": "yes",
                 "name": "Mani Al Cielo",
                 "operator": "Giampaolo Rossi",
@@ -723,9 +763,8 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "+39 340 5998774",
+                "phone": "+39 340 599 8774",
                 "survey:date": "2025-06-19",
-                "website": "https://www.facebook.com/barmanialcielo/",
                 "wheelchair": "yes"
             }
         },
@@ -1609,6 +1648,28 @@
         },
         {
             "type": "node",
+            "id": 9069496632,
+            "lat": 45.9604728,
+            "lon": 10.9138168,
+            "timestamp": "2025-08-05T09:46:32Z",
+            "version": 3,
+            "changeset": 169995647,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "currency:XBT:discount": "10%",
+                "name": "Bar-ristorante-pizzeria Alfio S.r.l.",
+                "payment:lightning": "yes",
+                "payment:lightning:operator": "bitcoinpos.it",
+                "payment:onchain": "yes",
+                "phone": "+39 0464 543043"
+            }
+        },
+        {
+            "type": "node",
             "id": 9814229893,
             "lat": 46.0588235,
             "lon": 11.1143683,
@@ -2258,6 +2319,38 @@
             }
         },
         {
+            "type": "node",
+            "id": 13058140565,
+            "lat": 45.8954341,
+            "lon": 11.0408092,
+            "timestamp": "2025-08-12T08:31:38Z",
+            "version": 4,
+            "changeset": 170328585,
+            "user": "Bmanity srl",
+            "uid": 23172525,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:housenumber": "4",
+                "addr:postcode": "38068",
+                "addr:street": "Via Piomarta",
+                "check_date": "2025-08-11",
+                "check_date:currency:XBT": "2025-08-11",
+                "contact:email": "mailto: pescheriatognotti.parisi@gmail.com",
+                "contact:facebook": "PescheriaTognotti",
+                "contact:instagram": "pescheria_tognotti_rovereto",
+                "currency:XBT": "yes",
+                "name": "Pescheria Tognotti",
+                "opening_hours": "Tu-Fr 08:30-13:00, 15:30-19:00; Sa 08:30-13:00",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:lightning": "yes",
+                "phone": "+39 0464 431 301",
+                "shop": "seafood",
+                "website": "https://www.pescheriatognotti.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 63222690,
             "timestamp": "2023-11-05T04:46:58Z",
@@ -2600,6 +2693,35 @@
         },
         {
             "type": "way",
+            "id": 754555856,
+            "timestamp": "2025-08-09T13:00:43Z",
+            "version": 5,
+            "changeset": 170201344,
+            "user": "tyr_asd",
+            "uid": 115612,
+            "nodes": [
+                2110423278,
+                4170451300,
+                7121877722,
+                4170451299,
+                4170451305,
+                4170451298,
+                2110423280,
+                13059574787,
+                2110423278
+            ],
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "capacity:disabled": "3",
+                "operator": "Despar",
+                "operator:type": "business",
+                "parking": "surface",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "way",
             "id": 758218973,
             "timestamp": "2025-01-04T14:30:54Z",
             "version": 5,
@@ -2634,6 +2756,59 @@
                 "payment:pos": "yes",
                 "phone": "+39 046 443 1551",
                 "website": "https://www.autoscuoleamadori.info/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1374128092,
+            "timestamp": "2025-08-09T09:50:59Z",
+            "version": 2,
+            "changeset": 170192532,
+            "user": "tyr_asd",
+            "uid": 115612,
+            "nodes": [
+                10042744876,
+                12723073176,
+                4170451301,
+                13059376704,
+                13059376701,
+                13059376702,
+                13059376703,
+                13059376704
+            ],
+            "tags": {
+                "access": "customers",
+                "highway": "service",
+                "operator": "Despar",
+                "service": "parking_aisle"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1421769143,
+            "timestamp": "2025-08-12T15:23:51Z",
+            "version": 1,
+            "changeset": 170347857,
+            "user": "DaniTrk99",
+            "uid": 21688385,
+            "nodes": [
+                13065548124,
+                13065548125,
+                13065548126,
+                13065548127,
+                2868127812,
+                13065548124
+            ],
+            "tags": {
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "4",
+                "capacity:disabled": "1",
+                "fee": "no",
+                "operator": "Despar",
+                "operator:type": "business",
+                "parking": "surface",
+                "surface": "asphalt"
             }
         }
     ],
