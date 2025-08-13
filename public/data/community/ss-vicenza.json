@@ -815,11 +815,11 @@
             "id": 4553774993,
             "lat": 45.4417537,
             "lon": 10.9988003,
-            "timestamp": "2023-11-08T18:03:05Z",
-            "version": 4,
-            "changeset": 143792303,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "timestamp": "2025-08-02T16:57:55Z",
+            "version": 5,
+            "changeset": 169872136,
+            "user": "garaolaza",
+            "uid": 1297,
             "tags": {
                 "addr:city": "Verona",
                 "addr:country": "IT",
@@ -827,6 +827,7 @@
                 "addr:street": "Via Stella",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
+                "check_date": "2025-08-02",
                 "description": "TuDay Conad, store senza casse a Verona. \u00c8 il primo supermercato con casse automatizzate e pagamenti digitali.",
                 "name": "Conad",
                 "opening_hours": "Mo-Su 07:30-22:00",
@@ -1296,13 +1297,13 @@
         {
             "type": "node",
             "id": 8455564266,
-            "lat": 45.4521146,
-            "lon": 12.0719097,
-            "timestamp": "2025-01-01T20:04:23Z",
-            "version": 3,
-            "changeset": 160883558,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 45.4521462,
+            "lon": 12.0718174,
+            "timestamp": "2025-08-06T09:19:26Z",
+            "version": 4,
+            "changeset": 170046101,
+            "user": "osm19",
+            "uid": 1717503,
             "tags": {
                 "addr:city": "Ball\u00f2",
                 "addr:housenumber": "80",
@@ -1420,9 +1421,9 @@
             "id": 10155200041,
             "lat": 45.3915973,
             "lon": 11.8928962,
-            "timestamp": "2025-03-21T09:17:46Z",
-            "version": 7,
-            "changeset": 163895785,
+            "timestamp": "2025-08-06T11:49:40Z",
+            "version": 8,
+            "changeset": 170053262,
             "user": "Comino",
             "uid": 6794624,
             "tags": {
@@ -1431,8 +1432,8 @@
                 "addr:postcode": "35127",
                 "addr:street": "Via Giuseppe Perin",
                 "amenity": "cafe",
-                "check_date": "2025-03-21",
-                "check_date:currency:XBT": "2025-03-21",
+                "check_date": "2025-08-06",
+                "check_date:currency:XBT": "2025-08-06",
                 "cuisine": "coffee_shop",
                 "currency:XBT": "yes",
                 "name": "20quadricafe'",
@@ -2243,6 +2244,32 @@
             }
         },
         {
+            "type": "node",
+            "id": 13041265715,
+            "lat": 45.5443812,
+            "lon": 11.5470777,
+            "timestamp": "2025-08-01T13:03:51Z",
+            "version": 1,
+            "changeset": 169817328,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Vicenza",
+                "addr:housenumber": "30",
+                "addr:postcode": "36100",
+                "addr:street": "Contra' Santi Apostoli",
+                "amenity": "pub",
+                "check_date:currency:XBT": "2025-08-01",
+                "currency:XBT": "yes",
+                "name": "Bar Caff\u00e8 Tabacchi Trentaseicento",
+                "opening_hours": "Mo-Fr 07:00-19:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 04 4423 5092"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-01-06T14:39:30Z",
@@ -2545,11 +2572,11 @@
         {
             "type": "way",
             "id": 1227411270,
-            "timestamp": "2023-11-28T18:04:45Z",
-            "version": 1,
-            "changeset": 144559341,
-            "user": "Tresho",
-            "uid": 6178157,
+            "timestamp": "2025-07-29T11:32:15Z",
+            "version": 2,
+            "changeset": 169667003,
+            "user": "airon90",
+            "uid": 89897,
             "nodes": [
                 11382082886,
                 11382082882,
@@ -2559,6 +2586,8 @@
                 11382082886
             ],
             "tags": {
+                "brand": "Nuvolari",
+                "brand:wikidata": "Q130702590",
                 "check_date": "2023-04-05",
                 "clothes": "men",
                 "currency:XBT": "yes",
@@ -2599,6 +2628,34 @@
                 "name": "Asilo nido \"I cuccioli\"",
                 "operator": "Calzedonia",
                 "operator:type": "private"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1421769143,
+            "timestamp": "2025-08-12T15:23:51Z",
+            "version": 1,
+            "changeset": 170347857,
+            "user": "DaniTrk99",
+            "uid": 21688385,
+            "nodes": [
+                13065548124,
+                13065548125,
+                13065548126,
+                13065548127,
+                2868127812,
+                13065548124
+            ],
+            "tags": {
+                "access": "yes",
+                "amenity": "parking",
+                "capacity": "4",
+                "capacity:disabled": "1",
+                "fee": "no",
+                "operator": "Despar",
+                "operator:type": "business",
+                "parking": "surface",
+                "surface": "asphalt"
             }
         }
     ],

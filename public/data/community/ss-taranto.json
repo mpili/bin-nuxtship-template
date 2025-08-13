@@ -7,7 +7,7 @@
     "idlocalita": "taranto",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzTaranto",
     "telegram_app": "https://t.me/SatoshiSpritzTaranto",
-    "telegram_members": 22.0,
+    "telegram_members": 20.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -136,11 +136,11 @@
             "id": 6867261335,
             "lat": 40.5366841,
             "lon": 17.4341804,
-            "timestamp": "2025-01-03T14:15:03Z",
-            "version": 2,
-            "changeset": 160951132,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-07T15:17:29Z",
+            "version": 3,
+            "changeset": 170112618,
+            "user": "OpenCode",
+            "uid": 1196207,
             "tags": {
                 "addr:city": "Grottaglie",
                 "addr:postcode": "74023",
@@ -150,6 +150,7 @@
                 "brand:wikipedia": "en:OVS (company)",
                 "clothes": "children",
                 "name": "OVS",
+                "opening_hours": "Mo-Sa 08:00-13:00,17:00-20:30",
                 "operator": "OVS",
                 "shop": "clothes"
             }

@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinapoli",
     "telegram_app": "https://t.me/bitcoinapoli",
-    "telegram_members": 20.0,
+    "telegram_members": 23.0,
     "poi": [
         {
             "type": "node",
@@ -47,26 +47,6 @@
                 "brand": "Tamoil",
                 "name": "Tamoil",
                 "operator": "Tamoil"
-            }
-        },
-        {
-            "type": "node",
-            "id": 227938311,
-            "lat": 40.8210783,
-            "lon": 14.1720593,
-            "timestamp": "2025-06-09T19:31:47Z",
-            "version": 9,
-            "changeset": 167415395,
-            "user": "Mateusz Konieczny",
-            "uid": 1722488,
-            "tags": {
-                "addr:city": "Napoli",
-                "addr:postcode": "80100",
-                "addr:street": "Viale della Liberazione",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "name": "Q8",
-                "operator": "Q8"
             }
         },
         {
@@ -112,16 +92,18 @@
             "id": 2245233906,
             "lat": 40.8436822,
             "lon": 14.2307269,
-            "timestamp": "2025-01-03T15:57:22Z",
-            "version": 7,
-            "changeset": 160955397,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-02T18:40:44Z",
+            "version": 8,
+            "changeset": 169876023,
+            "user": "c674a",
+            "uid": 13697350,
             "tags": {
                 "addr:city": "Napoli",
                 "addr:housenumber": "198",
                 "addr:postcode": "80132",
                 "addr:street": "Via Chiaia",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
                 "check_date": "2023-05-01",
                 "name": "OVS",
                 "operator": "OVS",

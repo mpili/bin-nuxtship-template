@@ -339,31 +339,6 @@
         },
         {
             "type": "node",
-            "id": 4228907426,
-            "lat": 39.2348096,
-            "lon": 9.097277,
-            "timestamp": "2025-04-20T08:53:40Z",
-            "version": 3,
-            "changeset": 165182882,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Cagliari",
-                "addr:housenumber": "1",
-                "addr:postcode": "09122",
-                "addr:street": "Viale Monastir",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "name": "Q8",
-                "operator": "Q8",
-                "self_service": "yes",
-                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
-            }
-        },
-        {
-            "type": "node",
             "id": 4228916757,
             "lat": 39.2227388,
             "lon": 9.124882,
@@ -1982,6 +1957,36 @@
                 "building": "yes",
                 "name": "Q8",
                 "operator": "Q8"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419721331,
+            "timestamp": "2025-08-03T21:31:57Z",
+            "version": 1,
+            "changeset": 169926336,
+            "user": "Andrea Alessioli",
+            "uid": 23126408,
+            "nodes": [
+                4228907426,
+                13046637193,
+                13046637194,
+                13046637195,
+                4228907426
+            ],
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "1",
+                "addr:postcode": "09122",
+                "addr:street": "Viale Monastir",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q4119207",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "name": "Q8",
+                "operator": "Q8",
+                "self_service": "yes",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
             }
         }
     ],
