@@ -7,7 +7,7 @@
     "idlocalita": "biella",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSprizBiella",
     "telegram_app": "https://t.me/SatoshiSprizBiella",
-    "telegram_members": 16.0,
+    "telegram_members": 14.0,
     "poi": [
         {
             "type": "node",
@@ -750,11 +750,11 @@
             "id": 7474511621,
             "lat": 45.4701178,
             "lon": 7.9073425,
-            "timestamp": "2024-03-31T17:46:01Z",
-            "version": 3,
-            "changeset": 149401467,
-            "user": "Andrea Musuruane",
-            "uid": 90379,
+            "timestamp": "2025-08-17T19:42:54Z",
+            "version": 4,
+            "changeset": 170584268,
+            "user": "Gianpiero Bianco",
+            "uid": 14339339,
             "tags": {
                 "addr:city": "Ivrea",
                 "addr:housenumber": "131",
@@ -764,8 +764,11 @@
                 "brand": "Parafarmacia Conad",
                 "dispensing": "no",
                 "healthcare": "pharmacy",
+                "level": "0",
                 "name": "Parafarmacia Conad",
-                "operator": "Conad"
+                "opening_hours": "Mo-Sa 08:30-19:00; Su 09:00-17:00; PH closed",
+                "operator": "Conad",
+                "wheelchair": "limited"
             }
         },
         {

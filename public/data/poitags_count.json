@@ -4,7 +4,7 @@
             "Unnamed: 0": 0,
             "amenity": "pharmacy",
             "count": 140,
-            "max_timestamp": "2025-08-11T12:47:00Z"
+            "max_timestamp": "2025-08-17T19:42:54Z"
         },
         {
             "Unnamed: 0": 1,
@@ -21,8 +21,8 @@
         {
             "Unnamed: 0": 3,
             "amenity": "parking",
-            "count": 68,
-            "max_timestamp": "2025-08-12T15:23:51Z"
+            "count": 70,
+            "max_timestamp": "2025-08-17T11:26:28Z"
         },
         {
             "Unnamed: 0": 4,
@@ -34,7 +34,7 @@
             "Unnamed: 0": 5,
             "amenity": "bar",
             "count": 46,
-            "max_timestamp": "2025-08-02T17:49:57Z"
+            "max_timestamp": "2025-08-14T20:45:59Z"
         },
         {
             "Unnamed: 0": 6,
@@ -52,7 +52,7 @@
             "Unnamed: 0": 8,
             "amenity": "pub",
             "count": 18,
-            "max_timestamp": "2025-08-01T13:09:58Z"
+            "max_timestamp": "2025-08-17T19:44:00Z"
         },
         {
             "Unnamed: 0": 9,
@@ -80,21 +80,21 @@
         },
         {
             "Unnamed: 0": 13,
-            "amenity": "doctors",
-            "count": 4,
-            "max_timestamp": "2025-01-17T14:24:17Z"
-        },
-        {
-            "Unnamed: 0": 14,
             "amenity": "taxi",
             "count": 4,
             "max_timestamp": "2025-01-08T17:12:54Z"
         },
         {
-            "Unnamed: 0": 15,
+            "Unnamed: 0": 14,
             "amenity": "veterinary",
             "count": 3,
             "max_timestamp": "2024-01-23T02:05:53Z"
+        },
+        {
+            "Unnamed: 0": 15,
+            "amenity": "doctors",
+            "count": 3,
+            "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
             "Unnamed: 0": 16,
@@ -116,51 +116,51 @@
         },
         {
             "Unnamed: 0": 19,
-            "amenity": "music_school",
-            "count": 2,
-            "max_timestamp": "2024-10-15T08:02:12Z"
-        },
-        {
-            "Unnamed: 0": 20,
             "amenity": "parking_entrance",
             "count": 2,
             "max_timestamp": "2025-04-19T08:58:21Z"
         },
         {
-            "Unnamed: 0": 21,
+            "Unnamed: 0": 20,
             "amenity": "trolley_bay",
             "count": 2,
             "max_timestamp": "2023-10-05T17:16:51Z"
         },
         {
-            "Unnamed: 0": 22,
+            "Unnamed: 0": 21,
             "amenity": "car_rental",
             "count": 2,
             "max_timestamp": "2024-09-23T12:43:23Z"
         },
         {
-            "Unnamed: 0": 23,
+            "Unnamed: 0": 22,
             "amenity": "charging_station",
             "count": 2,
             "max_timestamp": "2025-04-20T07:08:41Z"
         },
         {
-            "Unnamed: 0": 24,
+            "Unnamed: 0": 23,
             "amenity": "marketplace",
             "count": 2,
             "max_timestamp": "2025-02-07T02:18:07Z"
         },
         {
-            "Unnamed: 0": 25,
-            "amenity": "arts_centre",
-            "count": 1,
-            "max_timestamp": "2024-10-06T17:49:29Z"
+            "Unnamed: 0": 24,
+            "amenity": "music_school",
+            "count": 2,
+            "max_timestamp": "2024-10-15T08:02:12Z"
         },
         {
-            "Unnamed: 0": 26,
+            "Unnamed: 0": 25,
             "amenity": "bicycle_rental",
             "count": 1,
             "max_timestamp": "2024-07-10T11:06:14Z"
+        },
+        {
+            "Unnamed: 0": 26,
+            "amenity": "boat_rental",
+            "count": 1,
+            "max_timestamp": "2025-01-07T20:05:01Z"
         },
         {
             "Unnamed: 0": 27,
@@ -170,108 +170,114 @@
         },
         {
             "Unnamed: 0": 28,
-            "amenity": "animal_boarding",
-            "count": 1,
-            "max_timestamp": "2023-11-25T10:44:33Z"
-        },
-        {
-            "Unnamed: 0": 29,
             "amenity": "bureau_de_change",
             "count": 1,
             "max_timestamp": "2025-04-07T00:38:36Z"
         },
         {
+            "Unnamed: 0": 29,
+            "amenity": "arts_centre",
+            "count": 1,
+            "max_timestamp": "2024-10-06T17:49:29Z"
+        },
+        {
             "Unnamed: 0": 30,
+            "amenity": "animal_boarding",
+            "count": 1,
+            "max_timestamp": "2023-11-25T10:44:33Z"
+        },
+        {
+            "Unnamed: 0": 31,
             "amenity": "therapist",
             "count": 1,
             "max_timestamp": "2025-04-04T17:33:17Z"
         },
         {
-            "Unnamed: 0": 31,
-            "amenity": "nightclub",
+            "Unnamed: 0": 32,
+            "amenity": "prep_school",
             "count": 1,
-            "max_timestamp": "2025-05-02T09:59:36Z"
+            "max_timestamp": "2025-08-15T12:50:44Z"
         },
         {
-            "Unnamed: 0": 32,
+            "Unnamed: 0": 33,
             "amenity": "supermarket",
             "count": 1,
             "max_timestamp": "2023-11-13T08:06:55Z"
         },
         {
-            "Unnamed: 0": 33,
-            "amenity": "boat_rental",
+            "Unnamed: 0": 34,
+            "amenity": "nightclub",
             "count": 1,
-            "max_timestamp": "2025-01-07T20:05:01Z"
+            "max_timestamp": "2025-05-02T09:59:36Z"
         },
         {
-            "Unnamed: 0": 34,
+            "Unnamed: 0": 35,
             "amenity": "social_facility",
             "count": 1,
             "max_timestamp": "2024-10-10T20:56:52Z"
         },
         {
-            "Unnamed: 0": 35,
+            "Unnamed: 0": 36,
             "amenity": "waste_basket",
             "count": 1,
             "max_timestamp": "2025-04-20T07:44:33Z"
         },
         {
-            "Unnamed: 0": 36,
+            "Unnamed: 0": 37,
             "amenity": "bank",
             "count": 1,
             "max_timestamp": "2023-09-15T11:09:59Z"
         },
         {
-            "Unnamed: 0": 37,
+            "Unnamed: 0": 38,
             "amenity": "public_bookcase",
             "count": 1,
             "max_timestamp": "2022-07-22T19:39:32Z"
         },
         {
-            "Unnamed: 0": 38,
+            "Unnamed: 0": 39,
             "amenity": "university",
             "count": 1,
             "max_timestamp": "2024-10-11T20:19:09Z"
         },
         {
-            "Unnamed: 0": 39,
+            "Unnamed: 0": 40,
             "amenity": "dive_centre",
             "count": 1,
             "max_timestamp": "2023-11-17T20:03:03Z"
         },
         {
-            "Unnamed: 0": 40,
+            "Unnamed: 0": 41,
             "amenity": "language_school",
             "count": 1,
             "max_timestamp": "2023-04-22T19:29:40Z"
         },
         {
-            "Unnamed: 0": 41,
+            "Unnamed: 0": 42,
             "amenity": "motorcycle_rental",
             "count": 1,
             "max_timestamp": "2024-06-12T12:35:38Z"
         },
         {
-            "Unnamed: 0": 42,
+            "Unnamed: 0": 43,
             "amenity": "motorcycle_parking",
             "count": 1,
             "max_timestamp": "2025-04-21T07:48:23Z"
         },
         {
-            "Unnamed: 0": 43,
+            "Unnamed: 0": 44,
             "amenity": "bicycle_parking",
             "count": 1,
             "max_timestamp": "2025-01-06T12:21:47Z"
         },
         {
-            "Unnamed: 0": 44,
+            "Unnamed: 0": 45,
             "amenity": "drinking_water",
             "count": 1,
             "max_timestamp": "2025-04-20T06:33:43Z"
         },
         {
-            "Unnamed: 0": 45,
+            "Unnamed: 0": 46,
             "amenity": "childcare",
             "count": 1,
             "max_timestamp": "2024-09-10T09:02:16Z"
@@ -287,8 +293,8 @@
         {
             "Unnamed: 0": 1,
             "shop": "supermarket",
-            "count": 354,
-            "max_timestamp": "2025-08-11T12:46:58Z"
+            "count": 353,
+            "max_timestamp": "2025-08-18T21:53:15Z"
         },
         {
             "Unnamed: 0": 2,
@@ -376,21 +382,21 @@
         },
         {
             "Unnamed: 0": 16,
+            "shop": "butcher",
+            "count": 7,
+            "max_timestamp": "2025-08-16T00:30:13Z"
+        },
+        {
+            "Unnamed: 0": 17,
             "shop": "wine",
             "count": 6,
             "max_timestamp": "2025-07-22T11:29:39Z"
         },
         {
-            "Unnamed: 0": 17,
+            "Unnamed: 0": 18,
             "shop": "pet",
             "count": 6,
             "max_timestamp": "2025-01-22T06:58:59Z"
-        },
-        {
-            "Unnamed: 0": 18,
-            "shop": "butcher",
-            "count": 6,
-            "max_timestamp": "2025-05-29T11:18:07Z"
         },
         {
             "Unnamed: 0": 19,
@@ -1278,13 +1284,13 @@
             "Unnamed: 0": 0,
             "tourism": "guest_house",
             "count": 58,
-            "max_timestamp": "2025-08-08T15:09:12Z"
+            "max_timestamp": "2025-08-16T12:19:01Z"
         },
         {
             "Unnamed: 0": 1,
             "tourism": "hotel",
             "count": 33,
-            "max_timestamp": "2025-07-28T17:59:41Z"
+            "max_timestamp": "2025-08-16T12:19:01Z"
         },
         {
             "Unnamed: 0": 2,
@@ -1456,7 +1462,7 @@
             "Unnamed: 0": 0,
             "healthcare": "pharmacy",
             "count": 141,
-            "max_timestamp": "2025-08-11T12:47:00Z"
+            "max_timestamp": "2025-08-17T19:42:54Z"
         },
         {
             "Unnamed: 0": 1,
@@ -1473,14 +1479,14 @@
         {
             "Unnamed: 0": 3,
             "healthcare": "alternative",
-            "count": 6,
-            "max_timestamp": "2025-08-10T17:37:48Z"
+            "count": 7,
+            "max_timestamp": "2025-08-18T10:13:29Z"
         },
         {
             "Unnamed: 0": 4,
             "healthcare": "doctor",
-            "count": 4,
-            "max_timestamp": "2025-01-17T14:24:17Z"
+            "count": 3,
+            "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
             "Unnamed: 0": 5,
@@ -1804,7 +1810,7 @@
             "Unnamed: 0": 0,
             "guest_house": "bed_and_breakfast",
             "count": 31,
-            "max_timestamp": "2025-08-08T15:09:12Z"
+            "max_timestamp": "2025-08-16T12:19:01Z"
         },
         {
             "Unnamed: 0": 1,
