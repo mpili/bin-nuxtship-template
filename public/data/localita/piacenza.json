@@ -893,6 +893,24 @@
             }
         },
         {
+            "type": "node",
+            "id": 13075061675,
+            "lat": 45.0413215,
+            "lon": 9.7182658,
+            "timestamp": "2025-08-16T21:31:46Z",
+            "version": 1,
+            "changeset": 170542422,
+            "user": "Rensco",
+            "uid": 22933680,
+            "tags": {
+                "amenity": "parking",
+                "layer": "-1",
+                "operator": "Conad",
+                "operator:type": "private",
+                "parking": "underground"
+            }
+        },
+        {
             "type": "way",
             "id": 85703557,
             "timestamp": "2024-11-03T10:45:39Z",

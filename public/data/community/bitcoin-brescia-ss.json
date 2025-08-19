@@ -7,7 +7,7 @@
     "idlocalita": "brescia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001070935145",
     "telegram_app": "http://telegram.me/joinchat/AMVfUj_VLGlWoZTRMlQw-A",
-    "telegram_members": 193.0,
+    "telegram_members": 192.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -2979,6 +2979,24 @@
             "tags": {
                 "advertising": "sign",
                 "operator": "Conad"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13074051681,
+            "lat": 45.6357143,
+            "lon": 10.6011459,
+            "timestamp": "2025-08-16T11:05:00Z",
+            "version": 1,
+            "changeset": 170517813,
+            "user": "cesail",
+            "uid": 1711019,
+            "tags": {
+                "access": "customers",
+                "amenity": "parking",
+                "layer": "-1",
+                "operator": "Conad",
+                "parking": "underground"
             }
         },
         {

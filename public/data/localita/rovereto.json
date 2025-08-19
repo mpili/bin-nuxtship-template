@@ -1092,34 +1092,6 @@
         },
         {
             "type": "node",
-            "id": 2872848040,
-            "lat": 45.8777732,
-            "lon": 10.8908323,
-            "timestamp": "2024-02-06T05:23:27Z",
-            "version": 10,
-            "changeset": 147118892,
-            "user": "yhic4uw",
-            "uid": 2104834,
-            "tags": {
-                "addr:city": "Nago-Torbole",
-                "addr:housenumber": "82",
-                "addr:postcode": "38069",
-                "addr:street": "Via San Vigilio",
-                "check_date:currency:XBT": "2023-08-08",
-                "currency:EUR": "yes",
-                "currency:XBT": "yes",
-                "email": "conadnago@gmail.com",
-                "name": "Margherita Conad",
-                "opening_hours": "Mo-Sa 08:00-12:30,16:00-19:30; Su 08:00-12:30",
-                "payment:bitcoin:operator": "inbitcoin.it",
-                "payment:lightning": "yes",
-                "payment:onchain": "yes",
-                "phone": "+390464506218",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 3124213640,
             "lat": 46.0169997,
             "lon": 10.8202816,
@@ -2348,6 +2320,35 @@
                 "phone": "+39 0464 431 301",
                 "shop": "seafood",
                 "website": "https://www.pescheriatognotti.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13066488798,
+            "lat": 45.6920542,
+            "lon": 11.4322133,
+            "timestamp": "2025-08-15T12:50:44Z",
+            "version": 6,
+            "changeset": 170479626,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Marano Vicentino",
+                "addr:housenumber": "5/B",
+                "addr:postcode": "36035",
+                "addr:street": "Via Aldo Moro",
+                "amenity": "prep_school",
+                "check_date:currency:XBT": "2025-08-15",
+                "currency:XBT": "yes",
+                "description": "Insegnante di Matematica e Fisica per studenti delle scuole superiori e universit\u00e0",
+                "email": "studio.matematica.fisica@gmail.com",
+                "name": "prof. Denis Costalunga",
+                "operator": "Denis Costalunga",
+                "payment:bonifico_bancario": "yes",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "phone": "328 5811 570",
+                "website": "www.deniscostalunga.it"
             }
         },
         {

@@ -3373,6 +3373,35 @@
             }
         },
         {
+            "type": "node",
+            "id": 13066488798,
+            "lat": 45.6920542,
+            "lon": 11.4322133,
+            "timestamp": "2025-08-15T12:50:44Z",
+            "version": 6,
+            "changeset": 170479626,
+            "user": "Rockedf",
+            "uid": 7522075,
+            "tags": {
+                "addr:city": "Marano Vicentino",
+                "addr:housenumber": "5/B",
+                "addr:postcode": "36035",
+                "addr:street": "Via Aldo Moro",
+                "amenity": "prep_school",
+                "check_date:currency:XBT": "2025-08-15",
+                "currency:XBT": "yes",
+                "description": "Insegnante di Matematica e Fisica per studenti delle scuole superiori e universit\u00e0",
+                "email": "studio.matematica.fisica@gmail.com",
+                "name": "prof. Denis Costalunga",
+                "operator": "Denis Costalunga",
+                "payment:bonifico_bancario": "yes",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "phone": "328 5811 570",
+                "website": "www.deniscostalunga.it"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-01-06T14:39:30Z",
