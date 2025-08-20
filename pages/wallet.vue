@@ -79,7 +79,7 @@ const wo_android = {
 const wo_ios = {
   campo: "iOS",
   icona: "ic:baseline-apple",
-  colore: "black",
+  colore: "#39A4C6",
   titolo: "iOS",
   descrizione: "Disponibile l'app per iPhone e iPad",
 };
@@ -103,7 +103,7 @@ const wo_macos = {
 const wo_linux = {
   campo: "Linux",
   icona: "teenyicons:linux-alt-solid",
-  colore: "black",
+  colore: "#f0f",
   titolo: "Linux",
   descrizione: "Disponibile l'app per Linux",
 };
