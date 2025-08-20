@@ -15,6 +15,6 @@ export default {
 <template>
   <span class="w-4">
     <Icon v-if="campo == 's'" :name="att.icona" size="16" :color="att.colore" />
-    <Icon v-else :name="att.icona" size="16" color="neutral" />
+    <Icon v-else name="tabler:circle-dotted" size="16" color="#999" />
   </span>
 </template>
