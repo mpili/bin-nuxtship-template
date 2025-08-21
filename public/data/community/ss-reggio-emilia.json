@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 175.0,
+    "telegram_members": 174.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -904,11 +904,11 @@
             "id": 4769655683,
             "lat": 44.4776013,
             "lon": 11.011228,
-            "timestamp": "2023-11-25T10:50:17Z",
-            "version": 5,
-            "changeset": 144436836,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "timestamp": "2025-08-21T06:19:33Z",
+            "version": 6,
+            "changeset": 170758489,
+            "user": "mantocolumbro",
+            "uid": 23202821,
             "tags": {
                 "addr:city": "Vignola",
                 "addr:country": "IT",
@@ -918,14 +918,15 @@
                 "check_date": "2023-11-25",
                 "currency:XBT": "yes",
                 "description": "Parrucchiere con prodotti Vegetali Reali e Italiani (NATURALMENTE-ARTEC), Salone Ecosostenibile.",
+                "female:signed": "no",
+                "male:signed": "no",
                 "name": "Bio - Relax Parrucchieri",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "phone": "+393450702938",
                 "shop": "hairdresser",
-                "survey:date": "2023-06-25",
-                "unisex": "yes"
+                "survey:date": "2023-06-25"
             }
         },
         {
