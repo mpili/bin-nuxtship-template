@@ -1666,6 +1666,34 @@
             }
         },
         {
+            "type": "node",
+            "id": 13086295941,
+            "lat": 44.0603342,
+            "lon": 12.5657068,
+            "timestamp": "2025-08-21T07:15:37Z",
+            "version": 2,
+            "changeset": 170760746,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:housenumber": "16",
+                "addr:postcode": "47921",
+                "addr:street": "Piazza Cavour",
+                "check_date": "2025-08-21",
+                "check_date:currency:XBT": "2025-08-21",
+                "contact:email": "acasacavour@gmail.com",
+                "currency:XBT": "yes",
+                "name": "A Casa Cavour",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 370 123 1230",
+                "tourism": "chalet",
+                "website": "https://www.booking.com/hotel/it/appartamento-in-piazza-cavour-rimini.it.html"
+            }
+        },
+        {
             "type": "way",
             "id": 151931064,
             "timestamp": "2025-04-01T07:26:14Z",
@@ -1972,6 +2000,43 @@
                 "rer_edi_id:ref": "2da41d69-6a52-472e-888b-57e004e656ae",
                 "shop": "supermarket",
                 "source": "Regione Emilia Romagna"
+            }
+        },
+        {
+            "type": "way",
+            "id": 491648765,
+            "timestamp": "2025-08-19T13:39:09Z",
+            "version": 5,
+            "changeset": 170671421,
+            "user": "MvanderHeide",
+            "uid": 431046,
+            "nodes": [
+                4837251743,
+                4837251744,
+                4837251745,
+                4837251746,
+                4837251743
+            ],
+            "tags": {
+                "addr:city": "Modigliana",
+                "addr:housenumber": "91",
+                "addr:street": "Via Emiliana",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "check_date": "2025-08-19",
+                "name": "Conad",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:satispay": "yes",
+                "phone": "+44 546 940 578",
+                "second_hand": "no",
+                "shop": "supermarket",
+                "stroller": "yes",
+                "wheelchair": "yes"
             }
         },
         {

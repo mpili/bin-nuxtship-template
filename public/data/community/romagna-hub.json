@@ -7,6 +7,7 @@
     "idlocalita": "romagna",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBitcoinRomagnaHub",
     "telegram_app": "https://t.me/BitcoinRomagnaHub",
+    "telegram_members": 16.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1958,6 +1959,43 @@
                 "ref:vatin": "IT04297560403",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006892.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 491648765,
+            "timestamp": "2025-08-19T13:39:09Z",
+            "version": 5,
+            "changeset": 170671421,
+            "user": "MvanderHeide",
+            "uid": 431046,
+            "nodes": [
+                4837251743,
+                4837251744,
+                4837251745,
+                4837251746,
+                4837251743
+            ],
+            "tags": {
+                "addr:city": "Modigliana",
+                "addr:housenumber": "91",
+                "addr:street": "Via Emiliana",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "check_date": "2025-08-19",
+                "name": "Conad",
+                "operator": "Conad",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:satispay": "yes",
+                "phone": "+44 546 940 578",
+                "second_hand": "no",
+                "shop": "supermarket",
+                "stroller": "yes",
+                "wheelchair": "yes"
             }
         },
         {

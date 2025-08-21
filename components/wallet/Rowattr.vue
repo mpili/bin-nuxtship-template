@@ -35,33 +35,15 @@ export default {
       <span class="text-gray-500">{{ att.descrizione }}</span>
     </td>
   </tr>
-  <tr
-    v-if="att.campo == 'Android' && data['apk direct download']"
-    class="border-b border-gray-200"
-  >
-    <td></td>
-    <td>apk direct download</td>
-    <td>
-      <span class="text-blue-600 text-sm">
-        <a :href="data['apk direct download']" target="_blank">
-          {{ data["apk direct download"] }}
-        </a>
-      </span>
-    </td>
-  </tr>
 
-  <tr
-    v-if="att.campo == 'Android' && data['fdroid']"
-    class="border-b border-gray-200"
-  >
-    <td></td>
-    <td>fdroid</td>
-    <td>
-      <span class="text-blue-600 text-sm">
-        <a :href="data['fdroid']" target="_blank">
-          {{ data["fdroid"] }}
-        </a>
-      </span>
-    </td>
-  </tr>
+  <WalletAndroidaltplaystore
+    :att="att"
+    :data="data"
+    campo='apk direct download'
+  />
+  <WalletAndroidaltplaystore
+    :att="att"
+    :data="data"
+    campo='fdroid'
+  />
 </template>
