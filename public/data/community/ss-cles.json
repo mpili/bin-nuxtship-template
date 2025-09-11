@@ -7,7 +7,7 @@
     "idlocalita": "cles",
     "telegram_weburl": "https://web.telegram.org/a/#-1002045744593",
     "telegram_app": "https://t.me/SatoshiSpritzCles",
-    "telegram_members": 26.0,
+    "telegram_members": 25.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1452,6 +1452,24 @@
                 "payment:onchain": "yes",
                 "phone": "+39 377 087 3383",
                 "shop": "deli"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13097019959,
+            "lat": 46.0829271,
+            "lon": 11.1144318,
+            "timestamp": "2025-08-25T19:32:48Z",
+            "version": 1,
+            "changeset": 170994740,
+            "user": "paganella31",
+            "uid": 3277757,
+            "tags": {
+                "amenity": "vending_machine",
+                "operator": "Conad",
+                "operator:wikidata": "Q639075",
+                "payment:token": "yes",
+                "vending": "bottle_return"
             }
         },
         {

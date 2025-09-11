@@ -7,7 +7,7 @@
     "idlocalita": "umbria",
     "telegram_weburl": "https://web.telegram.org/a/#-1001984558936",
     "telegram_app": "https://t.me/satoshispritzumbria",
-    "telegram_members": 72.0,
+    "telegram_members": 78.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -423,11 +423,11 @@
             "id": 7513686164,
             "lat": 43.2340775,
             "lon": 12.7650597,
-            "timestamp": "2020-05-13T08:11:32Z",
-            "version": 2,
-            "changeset": 85129520,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "timestamp": "2025-08-31T12:43:12Z",
+            "version": 3,
+            "changeset": 171267564,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
             "tags": {
                 "addr:city": "Gualdo Tadino",
                 "addr:postcode": "06023",
@@ -435,13 +435,13 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
+                "contact:phone": "+39 075 914 0609",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-20:00",
                 "operator": "Conad",
                 "payment:bancomat": "yes",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
-                "phone": "+39 075 9140609",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.007884.html"
             }
@@ -713,6 +713,33 @@
                 "shop": "yes",
                 "source": "BTCmap add location form",
                 "website": "https://ianbricaire.wixsite.com/patris"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13089261895,
+            "lat": 43.3460597,
+            "lon": 12.575022,
+            "timestamp": "2025-08-27T08:57:25Z",
+            "version": 4,
+            "changeset": 171068131,
+            "user": "Luca Lombardini",
+            "uid": 23214482,
+            "tags": {
+                "addr:city": "Gubbio",
+                "addr:postcode": "06024",
+                "addr:street": "Via Don Giuseppe Diana",
+                "check_date": "2025-08-22",
+                "check_date:currency:XBT": "2025-08-22",
+                "contact:email": "l.lombardini@primaconsulenze.com",
+                "currency:XBT": "yes",
+                "name": "Luca Lombardini Dottore Commercialista e Revisore Legale",
+                "office": "accountant",
+                "opening_hours": "Mo-Fr 09:00-13:00, 15:00-18:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 393 207 2508"
             }
         },
         {

@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 174.0,
+    "telegram_members": 177.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -513,11 +513,11 @@
             "id": 4525313285,
             "lat": 44.6606931,
             "lon": 10.5891065,
-            "timestamp": "2024-01-03T18:57:59Z",
-            "version": 4,
-            "changeset": 145851439,
-            "user": "descubrebitcoin",
-            "uid": 17565129,
+            "timestamp": "2025-08-27T20:42:54Z",
+            "version": 5,
+            "changeset": 171103962,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Reggio nell'Emilia",
                 "addr:housenumber": "19/1",
@@ -525,7 +525,7 @@
                 "addr:street": "Via della Repubblica",
                 "check_date:currency:XBT": "2024-01-03",
                 "currency:XBT": "yes",
-                "name": "BS VILLAGE",
+                "name": "BS Village",
                 "operator": "BUSINESS SHOP S.r.l.",
                 "payment:onchain": "yes",
                 "phone": "+39 0522 153 6417",
@@ -620,11 +620,11 @@
             "id": 4690714434,
             "lat": 44.8011101,
             "lon": 10.3298744,
-            "timestamp": "2025-06-28T11:03:18Z",
-            "version": 5,
-            "changeset": 168222232,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2025-09-03T16:16:54Z",
+            "version": 6,
+            "changeset": 171415544,
+            "user": "ilias_",
+            "uid": 21853634,
             "tags": {
                 "addr:city": "Parma",
                 "addr:country": "IT",
@@ -639,7 +639,7 @@
                 "loc_ref": "0817",
                 "name": "Iliad",
                 "operator": "Calzedonia",
-                "shop": "mobile_phone",
+                "shop": "telecommunication",
                 "source": "survey",
                 "wheelchair": "limited"
             }
@@ -1995,11 +1995,11 @@
         {
             "type": "way",
             "id": 182153214,
-            "timestamp": "2025-01-06T14:42:01Z",
-            "version": 5,
-            "changeset": 161061073,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-27T18:13:47Z",
+            "version": 6,
+            "changeset": 171096810,
+            "user": "Mateusz Konieczny - bot account - ATP import",
+            "uid": 22544915,
             "nodes": [
                 1925004561,
                 1925004745,
@@ -2027,7 +2027,8 @@
                 "name": "IKEA",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "shop": "furniture",
-                "source": "Regione Emilia Romagna"
+                "source": "Regione Emilia Romagna",
+                "website": "https://www.ikea.com/it/it/stores/parma/"
             }
         },
         {
@@ -2500,11 +2501,11 @@
         {
             "type": "way",
             "id": 623944291,
-            "timestamp": "2024-05-08T13:20:58Z",
-            "version": 7,
-            "changeset": 151056074,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-09-03T15:52:30Z",
+            "version": 8,
+            "changeset": 171414359,
+            "user": "Stefano Manfredini",
+            "uid": 5721717,
             "nodes": [
                 5891725943,
                 5891725944,
@@ -2519,6 +2520,8 @@
                 "addr:housenumber": "537",
                 "addr:postcode": "41121",
                 "addr:street": "Via Nonantolana",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
                 "building": "retail",
                 "name": "Eurospar",
                 "operator": "Despar",

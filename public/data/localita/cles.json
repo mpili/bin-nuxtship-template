@@ -1449,6 +1449,24 @@
             }
         },
         {
+            "type": "node",
+            "id": 13097019959,
+            "lat": 46.0829271,
+            "lon": 11.1144318,
+            "timestamp": "2025-08-25T19:32:48Z",
+            "version": 1,
+            "changeset": 170994740,
+            "user": "paganella31",
+            "uid": 3277757,
+            "tags": {
+                "amenity": "vending_machine",
+                "operator": "Conad",
+                "operator:wikidata": "Q639075",
+                "payment:token": "yes",
+                "vending": "bottle_return"
+            }
+        },
+        {
             "type": "way",
             "id": 71520579,
             "timestamp": "2025-06-30T10:51:32Z",

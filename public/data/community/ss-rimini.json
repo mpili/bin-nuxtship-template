@@ -7,7 +7,7 @@
     "idlocalita": "rimini",
     "telegram_weburl": "https://web.telegram.org/a/#-1001887746692",
     "telegram_app": "https://t.me/SatoshiSpritzRimini",
-    "telegram_members": 122.0,
+    "telegram_members": 126.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -485,13 +485,13 @@
         {
             "type": "node",
             "id": 3673083531,
-            "lat": 43.800742,
-            "lon": 13.0118236,
-            "timestamp": "2025-01-03T14:05:27Z",
-            "version": 6,
-            "changeset": 160950703,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 43.8006487,
+            "lon": 13.0118385,
+            "timestamp": "2025-08-24T23:01:15Z",
+            "version": 7,
+            "changeset": 170948871,
+            "user": "Max Ciaone",
+            "uid": 3240268,
             "tags": {
                 "addr:city": "Fano",
                 "addr:housenumber": "30",
@@ -1572,11 +1572,11 @@
             "id": 12361647666,
             "lat": 44.2246763,
             "lon": 12.0494157,
-            "timestamp": "2024-11-21T13:34:29Z",
-            "version": 1,
-            "changeset": 159410359,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-08-27T20:57:43Z",
+            "version": 2,
+            "changeset": 171104389,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Forl\u00ec",
                 "addr:housenumber": "1",
@@ -1585,7 +1585,7 @@
                 "check_date": "2024-11-21",
                 "contact:email": "alexsintoni@libero.it",
                 "currency:XBT": "yes",
-                "name": "DOTT. SINTONI ALEX",
+                "name": "Dott. Sintoni Alex",
                 "office": "accountant",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
@@ -1758,6 +1758,37 @@
             }
         },
         {
+            "type": "node",
+            "id": 13116770288,
+            "lat": 43.8977366,
+            "lon": 12.9098829,
+            "timestamp": "2025-09-05T20:03:58Z",
+            "version": 2,
+            "changeset": 171515728,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "173",
+                "addr:postcode": "61122",
+                "addr:street": "Via Ettore Mancini",
+                "check_date": "2025-09-05",
+                "check_date:currency:XBT": "2025-09-05",
+                "contact:email": "fisioesteticapesaro@gmail.com",
+                "contact:facebook": "FisioesteticaPesaro",
+                "currency:XBT": "yes",
+                "healthcare": "physiotherapist",
+                "healthcare:speciality": "physiatry",
+                "name": "Fisioterapia Personal Trainer Fisioestetica",
+                "opening_hours": "Mo-Fr 09:00-19:00",
+                "operator": "Fisioestetica",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 393 1211 395"
+            }
+        },
+        {
             "type": "way",
             "id": 157925839,
             "timestamp": "2023-12-21T17:06:12Z",
@@ -1904,11 +1935,11 @@
         {
             "type": "way",
             "id": 223648945,
-            "timestamp": "2025-01-06T14:43:22Z",
-            "version": 4,
-            "changeset": 161061134,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-08-27T18:13:48Z",
+            "version": 5,
+            "changeset": 171096811,
+            "user": "Mateusz Konieczny - bot account - ATP import",
+            "uid": 22544915,
             "nodes": [
                 2325305532,
                 2325305762,
@@ -1939,7 +1970,8 @@
                 "building": "yes",
                 "name": "IKEA",
                 "operator": "Ikea Italia Retail S.r.l.",
-                "shop": "furniture"
+                "shop": "furniture",
+                "website": "https://www.ikea.com/it/it/stores/rimini/"
             }
         },
         {
@@ -1968,9 +2000,9 @@
         {
             "type": "way",
             "id": 223752445,
-            "timestamp": "2019-08-21T22:05:37Z",
-            "version": 3,
-            "changeset": 73598480,
+            "timestamp": "2025-08-31T20:55:08Z",
+            "version": 4,
+            "changeset": 171287695,
             "user": "Samuele Battarra",
             "uid": 51179,
             "nodes": [
@@ -1986,6 +2018,7 @@
             ],
             "tags": {
                 "building": "yes",
+                "check_date": "2025-08-31",
                 "name": "Conad City",
                 "operator": "Conad",
                 "rer_edi_id:ref": "2da41d69-6a52-472e-888b-57e004e656ae",
