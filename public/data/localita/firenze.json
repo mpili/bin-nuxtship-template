@@ -1327,6 +1327,34 @@
             }
         },
         {
+            "type": "node",
+            "id": 13151602852,
+            "lat": 44.1194654,
+            "lon": 11.3787814,
+            "timestamp": "2025-09-17T22:21:03Z",
+            "version": 3,
+            "changeset": 172087256,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Firenzuola",
+                "addr:housenumber": "72",
+                "addr:postcode": "50033",
+                "addr:street": "Via Giovanni Villani",
+                "amenity": "restaurant",
+                "check_date": "2025-09-17",
+                "check_date:currency:XBT": "2025-09-17",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Rapizza",
+                "opening_hours": "Mo-Sa 11:00-14:30, 17:00-22:30; Tu off; Su 17:00-22:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 331 982 1366"
+            }
+        },
+        {
             "type": "way",
             "id": 109770103,
             "timestamp": "2025-02-19T18:31:38Z",

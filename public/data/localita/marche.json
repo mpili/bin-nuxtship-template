@@ -931,6 +931,31 @@
             }
         },
         {
+            "type": "node",
+            "id": 13149527718,
+            "lat": 43.4335975,
+            "lon": 13.6071535,
+            "timestamp": "2025-09-17T13:07:45Z",
+            "version": 1,
+            "changeset": 172064083,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Loreto",
+                "addr:housenumber": "6",
+                "addr:postcode": "60025",
+                "addr:street": "Piazza Nazareth",
+                "check_date": "2025-09-17",
+                "currency:XBT": "yes",
+                "healthcare": "alternative",
+                "healthcare:speciality": "naturopathy",
+                "name": "Giuseppina Ferrandes - Specialista Naturopata",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "phone": "+39 3396564325"
+            }
+        },
+        {
             "type": "way",
             "id": 32397799,
             "timestamp": "2022-03-26T08:42:16Z",

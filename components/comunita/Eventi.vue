@@ -1,7 +1,11 @@
 <script setup>
 const props = defineProps(["idcomunita"]);
 
-const url_api = `https://bin-dev.pockethost.io/api/collections/eventi/records?filter=(id_comunita='${props.idcomunita}')`;
+const today = new Date();
+const formattedToday = today.toISOString().split('T')[0];
+
+// const url_api = `https://bin-dev.pockethost.io/api/collections/eventi/records?filter=(id_comunita='${props.idcomunita}')`;
+const url_api = `https://bin-dev.pockethost.io/api/collections/eventi/records?filter=(id_comunita='${props.idcomunita}' && data>="${formattedToday}")&sort=data`;
 
 const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
