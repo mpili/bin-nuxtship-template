@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 243.0,
+    "telegram_members": 247.0,
     "poi": [
         {
             "type": "node",
@@ -961,6 +961,33 @@
                 "operator": "Salento Bitcoin",
                 "payment:lightning": "yes",
                 "phone": "08321690598"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13147022302,
+            "lat": 40.3265789,
+            "lon": 18.181288,
+            "timestamp": "2025-09-17T13:16:18Z",
+            "version": 2,
+            "changeset": 172064486,
+            "user": "user_5359",
+            "uid": 5359,
+            "tags": {
+                "addr:city": "Castromediano",
+                "addr:housenumber": "22",
+                "addr:postcode": "73020",
+                "addr:street": "Via dei Bersaglieri",
+                "currency:XBT": "yes",
+                "email": "imperiumotus@gmail.com",
+                "leisure": "sports_hall",
+                "name": "Imperium Motus - Studio Calisthenics Lecce",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-12:30",
+                "operator": "Salento Bitcoin",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+393663752677",
+                "sport": "calisthenics"
             }
         },
         {

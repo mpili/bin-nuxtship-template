@@ -7,7 +7,7 @@
     "idlocalita": "varese",
     "telegram_weburl": "https://web.telegram.org/a/#-1001656890617",
     "telegram_app": "https://t.me/satoshispritzVarese",
-    "telegram_members": 125.0,
+    "telegram_members": 126.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -12088,12 +12088,16 @@
             "id": 12595499445,
             "lat": 46.0087141,
             "lon": 8.9573568,
-            "timestamp": "2025-07-29T05:27:56Z",
-            "version": 3,
-            "changeset": 169649590,
-            "user": "wies1",
-            "uid": 11002689,
+            "timestamp": "2025-09-22T12:41:46Z",
+            "version": 4,
+            "changeset": 172293061,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Lugano",
+                "addr:housenumber": "5",
+                "addr:postcode": "6900",
+                "addr:street": "Via Bertaro Lambertenghi",
                 "amenity": "restaurant",
                 "check_date": "2025-06-24",
                 "check_date:currency:XBT": "2025-06-24",
@@ -12853,6 +12857,36 @@
                 "ele": "320",
                 "name": "Service Lab",
                 "office": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13136806371,
+            "lat": 45.5625943,
+            "lon": 9.238833,
+            "timestamp": "2025-09-11T19:03:19Z",
+            "version": 1,
+            "changeset": 171799513,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Cinisello Balsamo",
+                "addr:housenumber": "93/95",
+                "addr:postcode": "20092",
+                "addr:street": "Via Margherita De Vizzi Vigan\u00f2",
+                "check_date": "2025-09-11",
+                "check_date:currency:XBT": "2025-09-11",
+                "contact:email": "info@sistemiopen.it",
+                "contact:facebook": "sistemiopen",
+                "currency:XBT": "yes",
+                "name": "Sistemi Open",
+                "office": "it",
+                "opening_hours": "Mo-Fr 09:00-13:00, 14:00-18:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 2 834 254 78",
+                "website": "https://www.sistemiopen.it/"
             }
         },
         {

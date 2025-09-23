@@ -7,7 +7,7 @@
     "idlocalita": "vicenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1002218397394",
     "telegram_app": "https://t.me/Bitcoin_Veneto",
-    "telegram_members": 1.0,
+    "telegram_members": 2.0,
     "poi": [
         {
             "type": "node",
@@ -1571,11 +1571,11 @@
             "id": 6528179526,
             "lat": 45.9053929,
             "lon": 12.3401467,
-            "timestamp": "2025-01-03T10:50:17Z",
-            "version": 3,
-            "changeset": 160942664,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-09-16T19:39:16Z",
+            "version": 4,
+            "changeset": 172032341,
+            "user": "Alberto-95",
+            "uid": 23294520,
             "tags": {
                 "addr:city": "San Martino",
                 "addr:housenumber": "19",
@@ -1587,7 +1587,9 @@
                 "name": "Decathlon",
                 "opening_hours": "Mo-Su 09:00-20:00",
                 "operator": "Decathlon",
-                "shop": "sports"
+                "phone": "+39 0438 167 3641",
+                "shop": "sports",
+                "website": "http://decathlon.it"
             }
         },
         {
