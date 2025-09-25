@@ -37,6 +37,14 @@ const podcasts = [
     descrizione:
       "Rikki e Guybrush ogni giovedì ci propongono un nuovo episodio del principale podcast italiano dedicato a Bitcoin.",
   },
+    {
+    id: "il-priorato-del-bitcoin",
+    nome: "Il priorato del Bitcoin",
+    url: "/podc/il-priorato-del-bitcoin",
+    img: "/img/podcast/il-priorato-del-bitcoin.jpg",
+    descrizione:
+      "Il Priorato del Bitcoin è un podcast in lingua italiana, condotto da Turtlecute, che si rivolge a un pubblico di appassionati e conoscitori del mondo Bitcoin, con un approccio definito tossicamente massimalista dallo stesso autore, si addentra nelle complessità di Bitcoin, trattando temi che spaziano dalla tecnologia blockchain alla privacy e alla sicurezza informatica",
+  },
   {
     id: "bitcoin-freedom",
     nome: "Bitcoin Freedom",
@@ -61,14 +69,7 @@ const podcasts = [
     descrizione:
       "Bcaucus è un'assemblea mensile dedicata al mondo di Bitcoin, criptovalute e blockchain. Esperti del settore si riuniscono per discutere e confrontarsi su queste tematiche, rispondendo a domande e analizzando le notizie più rilevanti. L'obiettivo è immaginare insieme il futuro della blockchain, partendo dall'analisi del presente.",
   },
-  {
-    id: "cultura-bitcoin",
-    nome: "Cultura Bitcoin",
-    url: "/podc/cultura-bitcoin",
-    img: "/img/podcast/cultura-bitcoin.jpg",
-    descrizione:
-      "Cultura Bitcoin nasce per contribuire ad accendere l'interesse tecno-socio-finanziario verso Bitcoin, la moneta decentralizzata che sta cambiando il mondo. Ogni settimana, un nuovo episodio con ospiti speciali e approfondimenti su Bitcoin e le sue applicazioni.",
-  },
+
   {
     id: "il-truffone",
     nome: "Il truffone",
@@ -113,7 +114,7 @@ const breadcrumb = computed(() => [
       <PodcastScheda v-for="item of podcasts" :podc="item" />
     </div>
     <NuxtLink to="/podcastarchivio">
-      <button class="btn">Archivio podcast non più aggiornati</button>
+      <button class="btn mt-4">Archivio podcast non più aggiornati</button>
     </NuxtLink>
   </LandingContainer>
 </template>

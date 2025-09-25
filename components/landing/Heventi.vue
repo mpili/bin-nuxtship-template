@@ -16,7 +16,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <EventiButton />
-  <EventiColosseum />
+  <!-- <EventiColosseum /> -->
   <div v-if="pending">
     <span class="loading loading-spinner loading-xs"></span>
   </div>
