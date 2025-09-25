@@ -233,6 +233,9 @@
 	<LMarker :lat-lng="[43.110717, 12.390828]">
 		<LPopup><NuxtLink to="/c/ss-umbria">Satoshi Spritz Umbria</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[39.214934, 9.119673]">
+		<LPopup><NuxtLink to="/c/b-sardegna">Associazione Bitcoin Sardegna</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.108, 7.2747]">
 		<LPopup><NuxtLink to="/c/ss-valdisusa">Val di Susa</NuxtLink></LPopup>
 	</LMarker>

@@ -167,6 +167,9 @@
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/l/savona">Savona</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[40.718668, 8.566414]">
+		<LPopup><NuxtLink to="/l/sassari">Sassari</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[43.3082, 11.3293]">
 		<LPopup><NuxtLink to="/l/siena">Siena</NuxtLink></LPopup>
 	</LMarker>

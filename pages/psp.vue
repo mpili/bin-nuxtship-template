@@ -14,22 +14,11 @@ definePageMeta({
 });
 
 const psp = [
-  {
-    nome: "Bitcoin People",
-    url: "/xt/psp/bitcoinpeople",
-    img: "/img/psp/bitcoinpeople.png",
-  },
   { nome: "Coinbar Pay", url: "/xt/psp/coinbar", img: "/img/psp/coinbar.png" },
-  {
-    nome: "inbitcoin",
-    url: "/xt/psp/inbitcoin",
-    img: "/img/psp/inbitcoin.png",
-  },
-  {
-    nome: "🇨🇭 Swiss Bitcoin Pay",
-    url: "/xt/psp/swissbitcoinpay",
-    img: "/img/psp/swissbitcoinpay.png",
-  },
+  { nome: "Villaggio Bitcoin", url: "/xt/psp/villaggiobitcoin", img: "/img/psp/villaggiobitcoin.png", },
+  { nome: "Bitcoin People", url: "/xt/psp/bitcoinpeople", img: "/img/psp/bitcoinpeople.png", },
+  { nome: "inbitcoin", url: "/xt/psp/inbitcoin", img: "/img/psp/inbitcoin.png", },
+  { nome: "🇨🇭 Swiss Bitcoin Pay", url: "/xt/psp/swissbitcoinpay", img: "/img/psp/swissbitcoinpay.png", },
 ];
 
 const breadcrumb = computed(() => [

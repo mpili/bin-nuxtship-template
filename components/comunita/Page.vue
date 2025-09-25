@@ -120,7 +120,6 @@ useHead({
     </LMap>
   </div>
 
-
   <ComunitaPoislist :datapois="data.poi" />
   <LandingDisclaimer />
 </template>

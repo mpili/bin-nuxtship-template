@@ -20,6 +20,14 @@ definePageMeta({
   layout: "main",
 });
 const podcasts = [
+    {
+    id: "cultura-bitcoin",
+    nome: "Cultura Bitcoin",
+    url: "/podc/cultura-bitcoin",
+    img: "/img/podcast/cultura-bitcoin.jpg",
+    descrizione:
+      "Cultura Bitcoin nasce per contribuire ad accendere l'interesse tecno-socio-finanziario verso Bitcoin, la moneta decentralizzata che sta cambiando il mondo. Ogni settimana, un nuovo episodio con ospiti speciali e approfondimenti su Bitcoin e le sue applicazioni.",
+  },
   {
     id: "bitcoin-d-asporto",
     nome: "Bitcoin d’Asporto",
@@ -32,13 +40,6 @@ const podcasts = [
     url: "/podc/sicurezza-bitcoin",
     img: "/img/podcast/sicurezza-bitcoin.jpg",
   },
-  {
-    id: "il-priorato-del-bitcoin",
-    nome: "Il priorato del Bitcoin",
-    url: "/podc/il-priorato-del-bitcoin",
-    img: "/img/podcast/il-priorato-del-bitcoin.jpg",
-  },
-
   {
     id: "the-bitcoin-theory",
     nome: "The Bitcoin Theory",
@@ -57,6 +58,10 @@ const podcasts = [
 const breadcrumb = computed(() => [
   {
     label: "podcast",
+        path: "/podcast",
+  },
+  {
+    label: "archivio",
   },
 ]);
 </script>
