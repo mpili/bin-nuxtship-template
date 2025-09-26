@@ -27,4 +27,5 @@ const { pending, data, error } = await useLazyFetch(url_api, {
       <EventiLista :eventi="data?.items" />
     </div>
   </div>
+  <LocalitaEventipassati :city="props.city" />
 </template>

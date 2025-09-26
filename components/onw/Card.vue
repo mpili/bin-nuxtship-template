@@ -1,3 +1,6 @@
+<script setup>
+const props = defineProps(["data"]);
+</script>
 <template>
   <div class="card bg-base-100 w-96 shadow-xl">
     <div class="card-body">
@@ -9,6 +12,3 @@
     <OsnMap :data="data" />
   </div>
 </template>
-<script setup>
-const props = defineProps(["data"]);
-</script>
