@@ -1,6 +1,6 @@
 <script setup>
 const props = defineProps(["datapois"]);
-const listaAccordion = ref(true)
+const listaAccordion = ref(false)
 
 </script>
 <template>

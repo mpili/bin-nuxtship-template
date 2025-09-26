@@ -3,6 +3,8 @@ export function usePoiStreet(poi) {
 		return poi.tags["addr:street"];
 	} else if (poi.tags["contact:street"]) {
 		return poi.tags["contact:street"];
+	} else if (poi.tags["addr:place"]) {
+		return poi.tags["addr:place"];
 	}
-	return '';
+	return 'N/D';
 }
