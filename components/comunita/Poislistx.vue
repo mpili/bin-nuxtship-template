@@ -7,18 +7,23 @@ const props = defineProps(["datapois"]);
 			<!-- head -->
 			<thead>
 				<tr>
-					<th>Tipo</th>
-					<th>Nome</th>
-					<th>Via</th>
-					<th>Città</th>
+					<th></th>
+					<th>indirizzo</th>
 				</tr>
 			</thead>
 			<tbody>
 			<tr v-for="poi in datapois" :key="poi.id">
-				<td>{{useTipovenue(poi.tags)}}</td>
-				<td class="font-bold"><NuxtLink :to="usePoiLink(poi)">{{poi.tags["name"]}}</NuxtLink></td>
-				<td>{{usePoiStreet(poi)}}</td>
-				<td>{{usePoiCitta(poi)}}</td>
+				<td>
+					<NuxtLink :to="usePoiLink(poi)">
+						<div class="text-xs">{{useTipovenue(poi.tags)}}</div>
+						<div class="font-bold">{{poi.tags["name"]}}</div>
+					</NuxtLink>
+				</td>
+				<td>
+					<div class="text-xs">{{usePoiStreet(poi)}}</div>
+					<div>{{usePoiCitta(poi)}}</div>
+				</td>
+				<td></td>
 			</tr>
 		</tbody>
 	  </table>

@@ -20,12 +20,6 @@ const props = defineProps(["data"]);
   />
   <OsnOperator v-if="data?.tags?.operator" :operator="data?.tags?.operator" />
 
-  <OnwTag
-    v-if="data?.tags?.brand"
-    icona="tabler:brand-pagekit"
-    etichetta="Brand"
-    :testo="data?.tags?.brand"
-  />
 
   <OnwTag
     v-if="data.tags['currency:XBT:discount']"
@@ -58,4 +52,16 @@ const props = defineProps(["data"]);
     :testo="data.tags['opening_hours']"
   />
   <div v-if="data?.tags?.note">{{ data?.tags?.note }}</div>
+
+  <OnwTag
+    v-if="data?.tags?.brand"
+    icona="tabler:brand-pagekit"
+    etichetta="Brand"
+    :testo="data?.tags?.brand"
+  />
+
+  <OnwBrandwikidata :data="data" />
+
+  <OnwBrandwikipedia :data="data" />
+
 </template>
