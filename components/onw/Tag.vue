@@ -3,7 +3,6 @@ export default {
   props: {
     icona: {
       type: String,
-      required: false,
     },
     etichetta: {
       type: String,
@@ -11,7 +10,6 @@ export default {
     },
     testo: {
       type: String,
-      required: true,
     },
   },
 };

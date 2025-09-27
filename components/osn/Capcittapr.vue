@@ -26,6 +26,5 @@ defineProps(["tags"]);
           > ({{ tags["addr:province"] }})</span
         >
 
-
 	</span>
 </template>

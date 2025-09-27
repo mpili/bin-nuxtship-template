@@ -1,5 +1,6 @@
 <script setup>
 const props = defineProps(["data"]);
+
 useHead({
   title: props?.data?.tags?.name + " | Bitcoin Italia Network",
   link: [
@@ -7,6 +8,21 @@ useHead({
       rel: "canonical",
       href: `https://bitcoinitalianetwork.com/osw/${props?.data?.id}`,
     },
+  ],
+  meta: [
+    { property: "og:title", content: props?.data?.tags?.name },
+    { property: "keywords", content: "bitcoin,merchant" },
+    {
+      property: "og:image",
+      content: `https://api.btcmap.org/og/element/node:${props?.data?.id}`,
+    },
+    { property: "author", content: "Bitcoin Italia Network" },
+    { property: "og:type", content: "website" },
+    {
+      property: "description",
+      content: "Gli esercenti che accettano pagamenti in Bitcoin in Italia",
+    },
+    { property: "og:url", content: `https://bitcoinitalianetwork.com/osw/${props?.data?.id}` },
   ],
 });
 
@@ -23,9 +39,7 @@ const {
 
 <template>
   <div v-if="data">
-    <!-- {{ data }} -->
     <div v-if="data.tags">
-      
       <LandingSectionhead>
         <template v-slot:title>{{ data?.tags?.name }}</template>
         <template v-slot:desc><OsnTipovenue :tags="data?.tags" /></template>

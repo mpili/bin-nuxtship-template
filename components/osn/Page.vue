@@ -75,8 +75,7 @@ const {
       <div v-if="data?.tags">
         <OsnCheckdate :tags="data.tags" />
       </div>
-    </div>
-    <!-- v if data.tags -->
-  </div>
-  <!-- v if data -->
+      
+    </div><!-- v if data.tags -->
+  </div><!-- v if data -->
 </template>
