@@ -18,7 +18,7 @@ const props = defineProps(["data"]);
     etichetta="Posti all'aperto"
     :testo="data.tags['outdoor_seating']"
   />
-  <OsnOperator v-if="data?.tags?.operator" :operator="data?.tags?.operator" />
+  <OnwOperator v-if="data?.tags?.operator" :operator="data?.tags?.operator" />
 
 
   <OnwTag
