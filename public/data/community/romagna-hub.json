@@ -7,7 +7,6 @@
     "idlocalita": "romagna",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBitcoinRomagnaHub",
     "telegram_app": "https://t.me/BitcoinRomagnaHub",
-    "telegram_members": 14.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -84,11 +83,11 @@
             "id": 269604393,
             "lat": 44.4391911,
             "lon": 12.2903665,
-            "timestamp": "2024-12-30T22:34:03Z",
-            "version": 3,
-            "changeset": 160812837,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-09-27T19:24:28Z",
+            "version": 4,
+            "changeset": 172541603,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "88",
@@ -97,6 +96,7 @@
                 "branch": "I Cigni",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "operator": "Conad",
                 "shop": "supermarket"

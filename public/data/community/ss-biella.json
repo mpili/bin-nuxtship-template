@@ -7,7 +7,7 @@
     "idlocalita": "biella",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSprizBiella",
     "telegram_app": "https://t.me/SatoshiSprizBiella",
-    "telegram_members": 15.0,
+    "telegram_members": 14.0,
     "poi": [
         {
             "type": "node",
@@ -735,19 +735,22 @@
             "id": 7193387157,
             "lat": 45.7485629,
             "lon": 8.2635788,
-            "timestamp": "2025-01-02T21:53:18Z",
-            "version": 2,
-            "changeset": 160927615,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-09-28T20:06:49Z",
+            "version": 3,
+            "changeset": 172583061,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
                 "addr:city": "Quarona",
                 "addr:housenumber": "1",
                 "addr:postcode": "13017",
                 "addr:street": "Regione Gibellino",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
                 "name": "Trony",
                 "operator": "Trony",
-                "shop": "appliance"
+                "shop": "electronics"
             }
         },
         {
