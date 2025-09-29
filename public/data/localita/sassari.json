@@ -6,6 +6,46 @@
     "poi": [
         {
             "type": "node",
+            "id": 228748959,
+            "lat": 40.718583,
+            "lon": 8.557663,
+            "timestamp": "2023-06-24T18:33:05Z",
+            "version": 6,
+            "changeset": 137731255,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "I.P. Service S.N.C. di Alessandro Idini e Francesco Pireddu",
+                "ref:mise": "38220"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228749201,
+            "lat": 40.7215358,
+            "lon": 8.5653306,
+            "timestamp": "2025-06-01T08:59:54Z",
+            "version": 8,
+            "changeset": 167040562,
+            "user": "aboc",
+            "uid": 21696131,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "TAMOIL",
+                "operator": "Marceddu Andrea",
+                "ref:mise": "19494"
+            }
+        },
+        {
+            "type": "node",
             "id": 793607390,
             "lat": 40.830098,
             "lon": 8.4140537,
@@ -32,17 +72,111 @@
         },
         {
             "type": "node",
-            "id": 1885880889,
-            "lat": 40.927217,
-            "lon": 8.8208985,
-            "timestamp": "2012-08-27T20:05:01Z",
-            "version": 1,
-            "changeset": 12884158,
-            "user": "SteveVG",
-            "uid": 37259,
+            "id": 1167085561,
+            "lat": 40.7292404,
+            "lon": 8.8142202,
+            "timestamp": "2022-03-18T12:47:40Z",
+            "version": 3,
+            "changeset": 118631616,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
             "tags": {
-                "amenity": "car_wash",
-                "operator": "Tamoil"
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Caffe' Rally di Luca Soddu",
+                "ref:mise": "39784"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1482252702,
+            "lat": 40.9040316,
+            "lon": 8.6879711,
+            "timestamp": "2021-11-10T16:10:22Z",
+            "version": 4,
+            "changeset": 113615263,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "tags": {
+                "addr:city": "Castelsardo",
+                "addr:housenumber": "29",
+                "addr:postcode": "07031",
+                "addr:street": "Corso Italia",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Car Service di Bitti Daniele e C. Snc",
+                "ref:mise": "33769"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1885880892,
+            "lat": 40.9272851,
+            "lon": 8.8207023,
+            "timestamp": "2024-11-20T16:27:29Z",
+            "version": 4,
+            "changeset": 159373464,
+            "user": "aboc",
+            "uid": 21696131,
+            "tags": {
+                "amenity": "fuel",
+                "automated": "yes",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel_service": "full",
+                "name": "Tamoil",
+                "operator": "F.lli Pala S.A.S. di Salvatore Andrea Pala e C.",
+                "ref:mise": "16014"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1931208573,
+            "lat": 40.9124005,
+            "lon": 8.715039,
+            "timestamp": "2025-01-20T11:48:40Z",
+            "version": 4,
+            "changeset": 161559693,
+            "user": "thetornado76",
+            "uid": 1624486,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "CONAD",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1973685935,
+            "lat": 40.800292,
+            "lon": 8.5744971,
+            "timestamp": "2024-05-03T16:00:35Z",
+            "version": 5,
+            "changeset": 150845042,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Sorso",
+                "addr:street": "Viale Marina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
             }
         },
         {
@@ -76,6 +210,67 @@
         },
         {
             "type": "node",
+            "id": 2197936303,
+            "lat": 40.7415648,
+            "lon": 8.6738719,
+            "timestamp": "2022-03-26T11:12:43Z",
+            "version": 3,
+            "changeset": 118942936,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "name": "Q8",
+                "operator": "Casula Giovanni Gavino",
+                "ref:mise": "33686"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2273250354,
+            "lat": 40.7276099,
+            "lon": 8.5478278,
+            "timestamp": "2024-12-10T14:42:23Z",
+            "version": 10,
+            "changeset": 160132284,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "1",
+                "addr:street": "Via Caniga",
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "name": "Carrefour",
+                "name:en": "Carrefour",
+                "opening_hours": "Mo-Su 08:00-00:00",
+                "shop": "supermarket",
+                "website": "https://www.carrefour.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2275205415,
+            "lat": 40.7208757,
+            "lon": 8.5585986,
+            "timestamp": "2023-06-24T18:33:05Z",
+            "version": 3,
+            "changeset": 137731255,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
             "id": 2278971102,
             "lat": 40.7374111,
             "lon": 8.5359587,
@@ -104,6 +299,47 @@
         },
         {
             "type": "node",
+            "id": 2394782793,
+            "lat": 40.7181584,
+            "lon": 8.5614667,
+            "timestamp": "2023-06-24T18:33:05Z",
+            "version": 4,
+            "changeset": 137731255,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Nuvoli Paolo",
+                "ref:mise": "37642"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2416144739,
+            "lat": 40.7450423,
+            "lon": 8.5556709,
+            "timestamp": "2024-03-20T11:29:42Z",
+            "version": 3,
+            "changeset": 148907218,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "8",
+                "addr:street": "Via Cristoforo Colombo",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 2422699726,
             "lat": 40.7155919,
             "lon": 8.5835674,
@@ -126,6 +362,57 @@
                 "phone": "+39 079 277282",
                 "tourism": "hotel",
                 "website": "http://www.hotelmarini.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2774886221,
+            "lat": 40.2755854,
+            "lon": 8.5501303,
+            "timestamp": "2022-02-10T10:20:00Z",
+            "version": 5,
+            "changeset": 117238693,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Carta Maria Grazia",
+                "ref:mise": "31475"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3057815551,
+            "lat": 40.7118496,
+            "lon": 8.55035,
+            "timestamp": "2021-08-01T17:12:27Z",
+            "version": 6,
+            "changeset": 108981735,
+            "user": "_Atlas_",
+            "uid": 1308756,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:postcode": "07100",
+                "addr:street": "Via Budapest",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-13:30,17:00-20:30",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39 079 212420",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.008099.html"
             }
         },
         {
@@ -159,6 +446,25 @@
         },
         {
             "type": "node",
+            "id": 4209862289,
+            "lat": 40.5697514,
+            "lon": 8.3212406,
+            "timestamp": "2024-03-15T19:34:22Z",
+            "version": 5,
+            "changeset": 148704733,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Alghero",
+                "addr:street": "Via Don Giovanni Minzoni",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4419249248,
             "lat": 40.7275617,
             "lon": 8.5482208,
@@ -177,6 +483,93 @@
                 "name": "Decathlon",
                 "operator": "Decathlon",
                 "shop": "sports"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4473478475,
+            "lat": 40.5497688,
+            "lon": 8.3266538,
+            "timestamp": "2024-04-24T10:50:17Z",
+            "version": 4,
+            "changeset": 150439447,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "addr:city": "Alghero",
+                "addr:housenumber": "13",
+                "addr:postcode": "07041",
+                "addr:street": "Via Enrico Berlinguer",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=5428"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4473542012,
+            "lat": 40.5708478,
+            "lon": 8.3213695,
+            "timestamp": "2024-03-15T19:34:22Z",
+            "version": 4,
+            "changeset": 148704733,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Alghero",
+                "addr:housenumber": "46",
+                "addr:postcode": "07041",
+                "addr:street": "Via Don Giovanni Minzoni",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5219586849,
+            "lat": 40.7124005,
+            "lon": 8.5448997,
+            "timestamp": "2022-01-14T10:04:51Z",
+            "version": 5,
+            "changeset": 116141315,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "19937"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5416218587,
+            "lat": 40.6611817,
+            "lon": 8.7246975,
+            "timestamp": "2024-09-20T13:28:24Z",
+            "version": 3,
+            "changeset": 156867994,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "30824"
             }
         },
         {
@@ -203,67 +596,41 @@
         },
         {
             "type": "node",
-            "id": 7504123638,
-            "lat": 40.7194985,
-            "lon": 8.578288,
-            "timestamp": "2020-05-10T18:31:05Z",
-            "version": 1,
-            "changeset": 84982486,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "id": 6327512622,
+            "lat": 40.7384615,
+            "lon": 8.5353785,
+            "timestamp": "2023-05-04T14:58:59Z",
+            "version": 2,
+            "changeset": 135705338,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
-                "addr:city": "Sassari",
-                "addr:housenumber": "1",
-                "addr:postcode": "07100",
-                "addr:street": "Via Antonio Gramsci",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad"
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "name": "H&M",
+                "shop": "clothes"
             }
         },
         {
             "type": "node",
-            "id": 7504139186,
-            "lat": 40.7118021,
-            "lon": 8.5501329,
-            "timestamp": "2020-05-10T18:27:45Z",
-            "version": 1,
-            "changeset": 84982387,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "id": 8118353721,
+            "lat": 40.7264319,
+            "lon": 8.5620608,
+            "timestamp": "2024-09-24T16:01:05Z",
+            "version": 4,
+            "changeset": 157046681,
+            "user": "aboc",
+            "uid": 21696131,
             "tags": {
                 "addr:city": "Sassari",
+                "addr:housenumber": "1a",
                 "addr:postcode": "07100",
-                "addr:street": "Via Budapest",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7985734277,
-            "lat": 40.737268,
-            "lon": 8.5357455,
-            "timestamp": "2020-10-07T18:25:58Z",
-            "version": 1,
-            "changeset": 92127656,
-            "user": "mascalzone67",
-            "uid": 1861652,
-            "tags": {
-                "addr:city": "Sassari",
-                "addr:postcode": "07100",
-                "addr:street": "Viale Porto Torres",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad",
-                "start_date": "2020-10-08"
+                "addr:street": "Via Luigi Luzzatti",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
             }
         },
         {
@@ -311,6 +678,45 @@
                 "name": "Intimissimi",
                 "operator": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9073897017,
+            "lat": 40.5566402,
+            "lon": 8.3158056,
+            "timestamp": "2022-11-09T20:19:24Z",
+            "version": 2,
+            "changeset": 128702743,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9877578139,
+            "lat": 40.5870649,
+            "lon": 9.0013852,
+            "timestamp": "2023-06-24T18:24:30Z",
+            "version": 2,
+            "changeset": 137730975,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil Sanna Mariarosa",
+                "ref:mise": "16288",
+                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -372,6 +778,24 @@
         },
         {
             "type": "node",
+            "id": 10316720830,
+            "lat": 40.2915043,
+            "lon": 8.5025405,
+            "timestamp": "2024-07-20T14:44:22Z",
+            "version": 2,
+            "changeset": 154182743,
+            "user": "aboc",
+            "uid": 21696131,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "clothes": "costumes;denim;men;swimwear;underwear;women",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10887466088,
             "lat": 40.5874384,
             "lon": 9.002794,
@@ -394,6 +818,25 @@
                 "phone": "+39 079 786009",
                 "shop": "clothes",
                 "website": "https://stores.ovs.it/it/italia/sardegna/sassari/ovs-ozieri"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11241166641,
+            "lat": 40.5587924,
+            "lon": 8.3140645,
+            "timestamp": "2024-09-14T10:40:14Z",
+            "version": 4,
+            "changeset": 156605835,
+            "user": "jeanl",
+            "uid": 839857,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "check_date": "2024-09-14",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
             }
         },
         {
@@ -481,6 +924,33 @@
         },
         {
             "type": "way",
+            "id": 279272456,
+            "timestamp": "2024-07-04T12:09:16Z",
+            "version": 2,
+            "changeset": 153543838,
+            "user": "aboc",
+            "uid": 21696131,
+            "nodes": [
+                2834893317,
+                2834893166,
+                2834893183,
+                2834893124,
+                2834893508,
+                2834893550,
+                2834893567,
+                2834893921,
+                2834893317
+            ],
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "building": "yes",
+                "name": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
             "id": 285942769,
             "timestamp": "2023-07-31T14:41:06Z",
             "version": 4,
@@ -504,6 +974,214 @@
                 "currency:XBT": "yes",
                 "name": "Mondo Convenienza",
                 "shop": "furniture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 304093022,
+            "timestamp": "2022-04-21T09:46:23Z",
+            "version": 6,
+            "changeset": 119991966,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "nodes": [
+                3086105639,
+                3086105640,
+                228271117,
+                3086105641,
+                3086105639
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "operator": "Centro Tamoil di Zidda Alessandro",
+                "ref:mise": "30778"
+            }
+        },
+        {
+            "type": "way",
+            "id": 540411442,
+            "timestamp": "2022-01-17T08:28:05Z",
+            "version": 4,
+            "changeset": 116242767,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "nodes": [
+                5228155826,
+                5228155825,
+                5228155824,
+                5228155823,
+                5228155822,
+                5228155821,
+                5228155020,
+                5228155019,
+                5228155018,
+                5228155017,
+                5228155016,
+                5228155826
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "23102"
+            }
+        },
+        {
+            "type": "way",
+            "id": 548950934,
+            "timestamp": "2022-10-08T14:13:38Z",
+            "version": 4,
+            "changeset": 127204301,
+            "user": "\u3071 \u3061\u3083\u306b",
+            "uid": 16256289,
+            "nodes": [
+                5302952476,
+                5302952475,
+                5302952474,
+                5302952473,
+                5302952476
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "operator": "Chesseddu Antonio",
+                "ref:mise": "17125"
+            }
+        },
+        {
+            "type": "way",
+            "id": 548950938,
+            "timestamp": "2022-10-08T14:13:38Z",
+            "version": 4,
+            "changeset": 127204301,
+            "user": "\u3071 \u3061\u3083\u306b",
+            "uid": 16256289,
+            "nodes": [
+                5302952493,
+                5302952492,
+                5302952491,
+                5302952490,
+                5302952493
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Q8",
+                "operator": "Fratelli Soro S.N.C.di Soro Giuseppe & C. Che Puo' Agire Sotto La sigla Fratelli Soro Snc",
+                "ref:mise": "26778"
+            }
+        },
+        {
+            "type": "way",
+            "id": 560282877,
+            "timestamp": "2022-08-30T20:59:43Z",
+            "version": 4,
+            "changeset": 125587109,
+            "user": "\u3071 \u3061\u3083\u306b",
+            "uid": 16256289,
+            "nodes": [
+                5403241743,
+                5403241741,
+                3057815619,
+                5403241742,
+                5403241743
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Q8",
+                "operator": "Irventi S.N.C. di Leonardo Ruda e Caterina Ruda",
+                "ref:mise": "25499"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1017462088,
+            "timestamp": "2022-08-16T13:10:10Z",
+            "version": 2,
+            "changeset": 124972197,
+            "user": "\u3071 \u3061\u3083\u306b",
+            "uid": 16256289,
+            "nodes": [
+                9384579408,
+                9384579409,
+                9815789349,
+                9384579410,
+                9384579411,
+                9384579408
+            ],
+            "tags": {
+                "addr:street": "Via Sassari",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1306743178,
+            "timestamp": "2024-08-10T09:02:18Z",
+            "version": 1,
+            "changeset": 155052697,
+            "user": "aboc",
+            "uid": 21696131,
+            "nodes": [
+                12101934302,
+                12101934303,
+                12101934304,
+                12101934305,
+                12101934306,
+                12101934307,
+                12101934308,
+                12101934309,
+                12101934302
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "area": "yes",
+                "automated": "yes",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "fuel_service": "full",
+                "landuse": "retail",
+                "name": "Tamoil",
+                "operator": "Centro Tamoil di Zidda Alessandro",
+                "ref:mise": "17491"
             }
         }
     ],

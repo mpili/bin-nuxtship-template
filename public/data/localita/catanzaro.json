@@ -6,6 +6,94 @@
     "poi": [
         {
             "type": "node",
+            "id": 227832183,
+            "lat": 38.957757,
+            "lon": 16.326585,
+            "timestamp": "2023-09-22T11:32:57Z",
+            "version": 5,
+            "changeset": 141600512,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Distributore di Carburanti Total Pandolfo Vincenzo",
+                "ref:mise": "16449"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227832375,
+            "lat": 38.932991,
+            "lon": 16.28751,
+            "timestamp": "2025-06-11T16:05:46Z",
+            "version": 5,
+            "changeset": 167498781,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Mazza Pietro",
+                "ref:mise": "30651"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227836686,
+            "lat": 38.9684019,
+            "lon": 16.149929,
+            "timestamp": "2024-03-14T12:25:54Z",
+            "version": 10,
+            "changeset": 148639056,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "check_date": "2024-03-14",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Spinelli Giuseppe",
+                "ref:mise": "36027",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 227836690,
+            "lat": 38.9390193,
+            "lon": 16.2032852,
+            "timestamp": "2024-03-17T10:20:56Z",
+            "version": 10,
+            "changeset": 148765157,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "C.C.M. S.N.C. di Campisano Luigi & C.",
+                "ref:mise": "9846",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 227841747,
             "lat": 38.9690858,
             "lon": 16.307474,
@@ -24,21 +112,268 @@
         },
         {
             "type": "node",
-            "id": 1856099793,
-            "lat": 38.8432754,
-            "lon": 16.6453743,
-            "timestamp": "2025-01-03T17:18:33Z",
-            "version": 7,
-            "changeset": 160958583,
-            "user": "mpbin",
-            "uid": 21850090,
+            "id": 1222221307,
+            "lat": 39.2647475,
+            "lon": 16.7141749,
+            "timestamp": "2024-04-10T11:37:05Z",
+            "version": 5,
+            "changeset": 149815558,
+            "user": "Flynn_",
+            "uid": 21081459,
             "tags": {
-                "brand": "MediaWorld",
-                "brand:wikidata": "Q76504823",
-                "name": "MediaWorld",
-                "operator": "MediaMarket S.p.A.",
-                "shop": "electronics",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:biodiesel": "yes",
+                "fuel:diesel": "yes",
+                "name": "Q8",
+                "operator": "Sodigest di Basile Pietro & C. S.A.S.",
+                "ref:mise": "11367"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1222221308,
+            "lat": 39.2681781,
+            "lon": 16.6788663,
+            "timestamp": "2024-08-14T07:26:16Z",
+            "version": 3,
+            "changeset": 155225503,
+            "user": "Blutz",
+            "uid": 413854,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1460398154,
+            "lat": 38.8428777,
+            "lon": 16.6475122,
+            "timestamp": "2023-12-14T18:21:59Z",
+            "version": 8,
+            "changeset": 145120525,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "name": "Tamoil",
+                "ref:mise": "37126",
+                "self_service": "yes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1787543076,
+            "lat": 38.9132833,
+            "lon": 16.5858344,
+            "timestamp": "2024-03-17T10:29:18Z",
+            "version": 5,
+            "changeset": 148765486,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Magro Rinaldo",
+                "ref:mise": "18756"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1822746749,
+            "lat": 38.9060954,
+            "lon": 16.5800915,
+            "timestamp": "2024-03-17T10:29:18Z",
+            "version": 6,
+            "changeset": 148765486,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1862935631,
+            "lat": 39.2541878,
+            "lon": 16.6915305,
+            "timestamp": "2024-04-10T11:35:19Z",
+            "version": 5,
+            "changeset": 149815463,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:biodiesel": "yes",
+                "fuel:diesel": "yes",
+                "name": "Q8",
+                "operator": "Bafaro Bernardo",
+                "ref:mise": "15119"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1874585376,
+            "lat": 38.9106029,
+            "lon": 16.588855,
+            "timestamp": "2024-03-17T10:29:18Z",
+            "version": 4,
+            "changeset": 148765486,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2448055365,
+            "lat": 38.6449666,
+            "lon": 16.3848457,
+            "timestamp": "2025-01-25T01:01:46Z",
+            "version": 3,
+            "changeset": 161732528,
+            "user": "evilworld",
+            "uid": 21490170,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Da.Co. di De Fazio Damiano",
+                "ref:mise": "8955"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2583555302,
+            "lat": 39.0799128,
+            "lon": 17.125616,
+            "timestamp": "2022-11-15T10:01:05Z",
+            "version": 4,
+            "changeset": 128930304,
+            "user": "Francesco Placco",
+            "uid": 354689,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2661009352,
+            "lat": 39.1219882,
+            "lon": 17.0930861,
+            "timestamp": "2024-09-13T07:15:33Z",
+            "version": 3,
+            "changeset": 156558433,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "name": "PittaRosso",
+                "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2683371839,
+            "lat": 39.1893343,
+            "lon": 16.8668811,
+            "timestamp": "2025-01-20T01:32:43Z",
+            "version": 5,
+            "changeset": 161545215,
+            "user": "evilworld",
+            "uid": 21490170,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "TAMOIL",
+                "operator": "Fratelli Biafora S.N.C.",
+                "ref:mise": "9337"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2696174157,
+            "lat": 38.9339873,
+            "lon": 16.8518726,
+            "timestamp": "2025-01-24T02:56:41Z",
+            "version": 7,
+            "changeset": 161695888,
+            "user": "evilworld",
+            "uid": 21490170,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Voci Salvatore",
+                "ref:mise": "32960",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2696208162,
+            "lat": 38.6996871,
+            "lon": 16.5360071,
+            "timestamp": "2023-09-14T09:06:05Z",
+            "version": 4,
+            "changeset": 141247229,
+            "user": "Francesco Placco",
+            "uid": 354689,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Easy Service S.R.L.",
+                "ref:mise": "39384"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2962309623,
+            "lat": 39.0133726,
+            "lon": 16.7268817,
+            "timestamp": "2020-06-03T13:30:44Z",
+            "version": 2,
+            "changeset": 86139118,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket"
             }
         },
         {
@@ -65,24 +400,384 @@
         },
         {
             "type": "node",
-            "id": 7504161120,
-            "lat": 38.9273179,
-            "lon": 16.5808459,
-            "timestamp": "2020-05-10T19:01:24Z",
-            "version": 1,
-            "changeset": 84983386,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "id": 4261190185,
+            "lat": 39.080431,
+            "lon": 17.1266544,
+            "timestamp": "2024-06-05T13:51:32Z",
+            "version": 3,
+            "changeset": 152289377,
+            "user": "Flynn_",
+            "uid": 21081459,
             "tags": {
-                "addr:city": "Catanzaro",
-                "addr:housenumber": "214",
-                "addr:postcode": "88100",
-                "addr:street": "Viale Papa Pio X",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad"
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4492896413,
+            "lat": 39.0774524,
+            "lon": 17.1265511,
+            "timestamp": "2020-03-22T20:33:36Z",
+            "version": 2,
+            "changeset": 82493903,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4613812297,
+            "lat": 38.902575,
+            "lon": 16.5986796,
+            "timestamp": "2024-03-16T13:05:44Z",
+            "version": 3,
+            "changeset": 148730887,
+            "user": "HaPe-CZ",
+            "uid": 11276832,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "F.lli Procopio S.N.C. di Vincenzo Procopio & C.",
+                "ref:mise": "24238"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4712211202,
+            "lat": 39.1156575,
+            "lon": 17.094442,
+            "timestamp": "2024-06-21T16:14:33Z",
+            "version": 5,
+            "changeset": 152999671,
+            "user": "Francesco Placco",
+            "uid": 354689,
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5280108646,
+            "lat": 39.0718332,
+            "lon": 17.1277972,
+            "timestamp": "2020-03-22T21:40:02Z",
+            "version": 2,
+            "changeset": 82495095,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5316791112,
+            "lat": 39.0819068,
+            "lon": 17.1262742,
+            "timestamp": "2024-06-05T13:51:32Z",
+            "version": 5,
+            "changeset": 152289377,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5413460473,
+            "lat": 39.0703204,
+            "lon": 16.0930085,
+            "timestamp": "2024-04-29T20:29:02Z",
+            "version": 4,
+            "changeset": 150680536,
+            "user": "Giorgio543143",
+            "uid": 16701886,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5678585622,
+            "lat": 39.0825382,
+            "lon": 17.1188376,
+            "timestamp": "2020-03-22T20:33:36Z",
+            "version": 3,
+            "changeset": 82493903,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "Carburanti di Porta Luciano",
+                "ref:mise": "29528"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851832928,
+            "lat": 39.2675394,
+            "lon": 16.7038631,
+            "timestamp": "2024-04-10T11:37:17Z",
+            "version": 2,
+            "changeset": 149815565,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Spina Salvatore",
+                "ref:mise": "39521"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851836064,
+            "lat": 38.8893741,
+            "lon": 16.7180693,
+            "timestamp": "2025-01-24T02:56:41Z",
+            "version": 6,
+            "changeset": 161695888,
+            "user": "evilworld",
+            "uid": 21490170,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "35559",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851837227,
+            "lat": 38.9471555,
+            "lon": 16.508173,
+            "timestamp": "2024-01-30T14:28:21Z",
+            "version": 3,
+            "changeset": 146866518,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "operator": "Sacco Antonio",
+                "ref:mise": "33010"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851837301,
+            "lat": 39.2176562,
+            "lon": 16.3066131,
+            "timestamp": "2025-05-25T19:03:11Z",
+            "version": 2,
+            "changeset": 166747933,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Piano Lago Centro Servizi e Carburanti di Francesco Adamo",
+                "ref:mise": "32626"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851843265,
+            "lat": 38.6787394,
+            "lon": 16.1024758,
+            "timestamp": "2023-12-28T18:51:24Z",
+            "version": 2,
+            "changeset": 145633057,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Gescom S.A.S. di D'Amato Fortunata",
+                "ref:mise": "18686"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851843934,
+            "lat": 38.6078202,
+            "lon": 16.3357754,
+            "timestamp": "2024-09-08T18:39:58Z",
+            "version": 2,
+            "changeset": 156365124,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Andreacchi Antonio",
+                "ref:mise": "16880"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7572402823,
+            "lat": 38.6869612,
+            "lon": 16.5516963,
+            "timestamp": "2025-06-08T12:02:03Z",
+            "version": 2,
+            "changeset": 167348271,
+            "user": "VRN32",
+            "uid": 21907021,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "check_date": "2025-06-08",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7572402828,
+            "lat": 38.6864917,
+            "lon": 16.5486654,
+            "timestamp": "2020-12-27T22:11:00Z",
+            "version": 2,
+            "changeset": 96500241,
+            "user": "Thaliesen",
+            "uid": 9083257,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7572609570,
+            "lat": 38.5840137,
+            "lon": 16.5637212,
+            "timestamp": "2023-12-16T10:40:41Z",
+            "version": 2,
+            "changeset": 145177636,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7572609589,
+            "lat": 38.6233969,
+            "lon": 16.551798,
+            "timestamp": "2023-12-16T09:37:46Z",
+            "version": 4,
+            "changeset": 145177636,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:postcode": "88060",
+                "addr:street": "Via Nazionale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "nohousenumber": "yes",
+                "operator": "Francesco Paoletti SRL",
+                "ref:vatin": "IT03206740791",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7589316003,
+            "lat": 38.8994471,
+            "lon": 16.34996,
+            "timestamp": "2020-06-03T11:46:17Z",
+            "version": 1,
+            "changeset": 86134200,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "brand:wikipedia": "fr:Carrefour (enseigne)",
+                "name": "Carrefour",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7589586170,
+            "lat": 38.9206123,
+            "lon": 16.79645,
+            "timestamp": "2023-12-15T09:10:46Z",
+            "version": 2,
+            "changeset": 145140530,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -114,14 +809,16 @@
             "id": 8090970557,
             "lat": 38.7166509,
             "lon": 16.290759,
-            "timestamp": "2020-11-07T14:43:55Z",
-            "version": 1,
-            "changeset": 93709151,
-            "user": "rugamarcus",
-            "uid": 95387,
+            "timestamp": "2025-09-29T11:05:08Z",
+            "version": 2,
+            "changeset": 172606965,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
                 "amenity": "fuel",
                 "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
                 "operator": "Tamoil"
             }
         },
@@ -155,6 +852,131 @@
         },
         {
             "type": "node",
+            "id": 9505386895,
+            "lat": 39.1065928,
+            "lon": 17.0965325,
+            "timestamp": "2024-01-15T14:48:09Z",
+            "version": 2,
+            "changeset": 146285729,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9752104478,
+            "lat": 39.1159783,
+            "lon": 17.0943926,
+            "timestamp": "2024-06-21T16:14:33Z",
+            "version": 3,
+            "changeset": 152999671,
+            "user": "Francesco Placco",
+            "uid": 354689,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9752104479,
+            "lat": 39.1155441,
+            "lon": 17.0944522,
+            "timestamp": "2024-06-21T16:14:33Z",
+            "version": 4,
+            "changeset": 152999671,
+            "user": "Francesco Placco",
+            "uid": 354689,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9786026817,
+            "lat": 38.9115992,
+            "lon": 16.585605,
+            "timestamp": "2024-03-17T10:29:18Z",
+            "version": 2,
+            "changeset": 148765486,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11078865521,
+            "lat": 38.7122189,
+            "lon": 16.1599698,
+            "timestamp": "2023-07-31T14:15:27Z",
+            "version": 1,
+            "changeset": 139256477,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11165842153,
+            "lat": 38.7106801,
+            "lon": 16.1206781,
+            "timestamp": "2024-03-13T09:46:10Z",
+            "version": 2,
+            "changeset": 148584635,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11169606223,
+            "lat": 38.4843367,
+            "lon": 16.5778334,
+            "timestamp": "2023-12-16T13:05:30Z",
+            "version": 2,
+            "changeset": 145177636,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Guardavalle",
+                "addr:postcode": "88065",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11171353817,
             "lat": 38.4758641,
             "lon": 16.5784307,
@@ -173,6 +995,42 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11417915338,
+            "lat": 38.8455696,
+            "lon": 16.6453959,
+            "timestamp": "2023-12-14T18:19:39Z",
+            "version": 2,
+            "changeset": 145120523,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "name": "Chicco",
+                "shop": "baby_goods",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11417937601,
+            "lat": 38.8455417,
+            "lon": 16.6459783,
+            "timestamp": "2023-12-14T18:19:45Z",
+            "version": 2,
+            "changeset": 145120523,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "shop": "clothes",
                 "wheelchair": "yes"
             }
         },
@@ -201,6 +1059,79 @@
         },
         {
             "type": "node",
+            "id": 11417939363,
+            "lat": 38.8451259,
+            "lon": 16.6454277,
+            "timestamp": "2023-12-14T18:19:43Z",
+            "version": 2,
+            "changeset": 145120523,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "name": "H&M",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11417944479,
+            "lat": 38.8446041,
+            "lon": 16.6453979,
+            "timestamp": "2023-12-14T18:19:06Z",
+            "version": 2,
+            "changeset": 145120523,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "name": "PittaRosso",
+                "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11417951595,
+            "lat": 38.8443547,
+            "lon": 16.6466322,
+            "timestamp": "2023-12-14T18:20:24Z",
+            "version": 2,
+            "changeset": 145120523,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "underwear;swimwear",
+                "name": "Tezenis",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11418074259,
+            "lat": 38.7169136,
+            "lon": 16.5312819,
+            "timestamp": "2023-12-15T17:03:16Z",
+            "version": 5,
+            "changeset": 145159204,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11419825830,
             "lat": 38.9373775,
             "lon": 16.8674516,
@@ -223,6 +1154,23 @@
         },
         {
             "type": "node",
+            "id": 11419874107,
+            "lat": 38.9199317,
+            "lon": 16.7963825,
+            "timestamp": "2023-12-15T09:10:57Z",
+            "version": 1,
+            "changeset": 145140688,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
             "id": 11419881030,
             "lat": 38.9203923,
             "lon": 16.7963814,
@@ -240,6 +1188,42 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11419881321,
+            "lat": 38.9199776,
+            "lon": 16.799271,
+            "timestamp": "2023-12-15T09:09:29Z",
+            "version": 2,
+            "changeset": 145140530,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11420081294,
+            "lat": 38.8305471,
+            "lon": 16.6278759,
+            "timestamp": "2023-12-15T11:32:44Z",
+            "version": 2,
+            "changeset": 145146851,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -289,6 +1273,59 @@
         },
         {
             "type": "node",
+            "id": 11730346634,
+            "lat": 38.9312892,
+            "lon": 16.2145169,
+            "timestamp": "2024-03-14T11:00:44Z",
+            "version": 3,
+            "changeset": 148633549,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11730828006,
+            "lat": 39.0698273,
+            "lon": 16.0926736,
+            "timestamp": "2024-05-02T14:03:19Z",
+            "version": 3,
+            "changeset": 150795950,
+            "user": "Giorgio543143",
+            "uid": 16701886,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11730888283,
+            "lat": 39.0707763,
+            "lon": 16.0915288,
+            "timestamp": "2024-04-30T07:47:09Z",
+            "version": 3,
+            "changeset": 150693673,
+            "user": "Giorgio543143",
+            "uid": 16701886,
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "name": "Expert",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12199068495,
             "lat": 38.9585406,
             "lon": 16.2854931,
@@ -307,6 +1344,427 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12236163609,
+            "lat": 38.6808299,
+            "lon": 16.1109754,
+            "timestamp": "2024-10-08T19:02:14Z",
+            "version": 1,
+            "changeset": 157642134,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 112964774,
+            "timestamp": "2023-04-19T16:34:12Z",
+            "version": 7,
+            "changeset": 135111225,
+            "user": "Francesco Placco",
+            "uid": 354689,
+            "nodes": [
+                1282632601,
+                1282632619,
+                1282632976,
+                1282633097,
+                1282632621,
+                1282632908,
+                1282632804,
+                1282632601
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 120290483,
+            "timestamp": "2023-12-14T15:43:58Z",
+            "version": 5,
+            "changeset": 145117227,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                1349115884,
+                1349115865,
+                1349115889,
+                1349115933,
+                1349115884
+            ],
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "brand:wikipedia": "en:Unieuro",
+                "building": "yes",
+                "name": "Unieuro",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 171204369,
+            "timestamp": "2022-10-17T15:36:37Z",
+            "version": 5,
+            "changeset": 127680132,
+            "user": "raccoss",
+            "uid": 305159,
+            "nodes": [
+                1822734657,
+                1822734631,
+                10109099552,
+                10109081213,
+                1822734586,
+                1822734640,
+                1822734660,
+                1822734657
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "level": "1",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 175518012,
+            "timestamp": "2023-12-15T11:25:36Z",
+            "version": 6,
+            "changeset": 145146851,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                1860944765,
+                1860944782,
+                1860944913,
+                1860944797,
+                10676657273,
+                1860944765
+            ],
+            "tags": {
+                "addr:city": "Catanzaro",
+                "addr:housenumber": "173",
+                "addr:postcode": "88100",
+                "addr:street": "Viale Crotone",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "building": "yes",
+                "name": "Expert",
+                "opening_hours": "Mo-Sa 09:30-13:00,16:15-19:00",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 210932531,
+            "timestamp": "2020-03-22T19:34:29Z",
+            "version": 3,
+            "changeset": 82492703,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "nodes": [
+                2209595380,
+                2209595396,
+                2209595429,
+                2209595526,
+                2209595533,
+                2209595445,
+                2209595380
+            ],
+            "tags": {
+                "brand": "Brico",
+                "brand:wikidata": "Q2510786",
+                "brand:wikipedia": "en:Brico",
+                "building": "yes",
+                "name": "Brico",
+                "shop": "doityourself"
+            }
+        },
+        {
+            "type": "way",
+            "id": 222822205,
+            "timestamp": "2025-01-24T02:56:41Z",
+            "version": 4,
+            "changeset": 161695888,
+            "user": "evilworld",
+            "uid": 21490170,
+            "nodes": [
+                2317663389,
+                2317663290,
+                2317663154,
+                2317663345,
+                2317663163,
+                2317663398,
+                2317663389
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:30-13:30, 16:30-20:30; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 252138530,
+            "timestamp": "2020-03-22T17:54:38Z",
+            "version": 4,
+            "changeset": 82490299,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "nodes": [
+                2582414534,
+                2582414532,
+                2582414530,
+                2582414537,
+                2582414534
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "building": "yes",
+                "name": "Q8",
+                "operator": "Easy Service S.R.L.",
+                "ref:mise": "38634",
+                "source:date": "2018-04-16"
+            }
+        },
+        {
+            "type": "way",
+            "id": 305842291,
+            "timestamp": "2020-03-22T23:06:10Z",
+            "version": 2,
+            "changeset": 82496289,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "nodes": [
+                3105289975,
+                3105289976,
+                3105289977,
+                3105289978,
+                3105289979,
+                3105288401,
+                3105289980,
+                3105289981,
+                3105289982,
+                3105289983,
+                3105289984,
+                3105289985,
+                3105289986,
+                3105289975
+            ],
+            "tags": {
+                "addr:city": "Isola di Capo Rizzuto",
+                "addr:postcode": "88841",
+                "addr:street": "Via Capo Rizzuto",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 307740695,
+            "timestamp": "2023-09-29T15:44:36Z",
+            "version": 3,
+            "changeset": 141919679,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                3129415949,
+                3129421438,
+                3129421437,
+                3129415950,
+                3129415961,
+                3129415951,
+                3129415954,
+                3129415955,
+                3129415952,
+                3129415949
+            ],
+            "tags": {
+                "addr:city": "Lamezia Terme",
+                "addr:housenumber": "374",
+                "addr:postcode": "88046",
+                "addr:street": "Via del Progresso",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "not:brand:wikidata": "Q639075",
+                "phone": "+39 0968 453 943",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 328580419,
+            "timestamp": "2023-12-15T15:06:22Z",
+            "version": 7,
+            "changeset": 145153247,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                3354014220,
+                3354014206,
+                3354014207,
+                3354014221,
+                3354014220
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "ref:mise": "22788",
+                "self_service": "yes",
+                "source:date": "2018-04-16",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 473808608,
+            "timestamp": "2024-03-17T10:33:36Z",
+            "version": 2,
+            "changeset": 148765647,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "nodes": [
+                4678497278,
+                4678498029,
+                4678498399,
+                4678498227,
+                4678498156,
+                4678498417,
+                4678497257,
+                4678498440,
+                4678498500,
+                4678497264,
+                4678497271,
+                4678498088,
+                4678498119,
+                4678497278
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 580221264,
+            "timestamp": "2024-10-05T12:35:28Z",
+            "version": 2,
+            "changeset": 157498739,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "nodes": [
+                5554967454,
+                5554967450,
+                5554967449,
+                5554967448,
+                5554967451,
+                5554967447,
+                5554967452,
+                5554967446,
+                5554967445,
+                5554967453,
+                5554967454
+            ],
+            "tags": {
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "building": "hangar",
+                "building:levels": "1",
+                "name": "Carrefour",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 687923215,
+            "timestamp": "2025-07-13T14:34:13Z",
+            "version": 3,
+            "changeset": 168876277,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "nodes": [
+                6449282698,
+                6449282705,
+                12227645951,
+                12227645950,
+                6449282706,
+                6449282698
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "fuel:diesel": "yes",
+                "fuel:e10": "yes",
+                "name": "Tamoil"
+            }
+        },
+        {
+            "type": "way",
+            "id": 691012390,
+            "timestamp": "2025-06-13T09:46:28Z",
+            "version": 2,
+            "changeset": 167567286,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "nodes": [
+                6483591631,
+                6483591635,
+                12912277765,
+                12912277764,
+                6483591636,
+                6483591637,
+                6483591632,
+                6483591631
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "39325"
             }
         },
         {
@@ -341,6 +1799,203 @@
                 "phone": "+39 0961 532892",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.009643.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 865103841,
+            "timestamp": "2023-12-15T09:28:27Z",
+            "version": 6,
+            "changeset": 145142734,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                8063422889,
+                11419869153,
+                11419869167,
+                11419869146,
+                11419869158,
+                8063422890,
+                8063422891,
+                8063422892,
+                8063422893,
+                8063422889
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "yes",
+                "landuse": "commercial",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Corea Nicola",
+                "ref:mise": "20624",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 865410519,
+            "timestamp": "2023-12-15T09:44:27Z",
+            "version": 6,
+            "changeset": 145143232,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                8066380593,
+                8066380594,
+                8066380596,
+                11419907117,
+                8066380597,
+                8066380593
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "landuse": "commercial",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Levato Amorino",
+                "ref:mise": "22270",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1147409950,
+            "timestamp": "2023-12-15T11:25:25Z",
+            "version": 2,
+            "changeset": 145146851,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                10676659934,
+                10676659935,
+                10676659936,
+                10676659937,
+                10676659934
+            ],
+            "tags": {
+                "addr:city": "Catanzaro",
+                "addr:postcode": "88100",
+                "addr:street": "Viale Crotone",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1198392118,
+            "timestamp": "2023-08-15T15:07:58Z",
+            "version": 1,
+            "changeset": 139920216,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "nodes": [
+                11116995671,
+                11116995675,
+                11116995679,
+                11116995672,
+                11116995673,
+                11116995674,
+                11116995671
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1265468479,
+            "timestamp": "2024-03-23T10:18:10Z",
+            "version": 1,
+            "changeset": 149044545,
+            "user": "HaPe-CZ",
+            "uid": 11276832,
+            "nodes": [
+                5851831463,
+                11755135466,
+                11755135467,
+                11755135468,
+                5851831463
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "yes",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia Srl",
+                "ref:mise": "6733"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1324355704,
+            "timestamp": "2024-10-16T12:48:44Z",
+            "version": 1,
+            "changeset": 157963100,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "nodes": [
+                3455806331,
+                3455806258,
+                3455806260,
+                3455806263,
+                3455806295,
+                3455806330,
+                3455806331
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L."
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8374609,
+            "timestamp": "2024-10-01T21:01:38Z",
+            "version": 3,
+            "changeset": 157357001,
+            "user": "DaveMzp",
+            "uid": 18785499,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 596698435,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 596698436,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "type": "multipolygon"
             }
         }
     ],

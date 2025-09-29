@@ -6,6 +6,402 @@
     "poi": [
         {
             "type": "node",
+            "id": 227707967,
+            "lat": 45.9567353,
+            "lon": 13.4662431,
+            "timestamp": "2023-03-28T11:48:03Z",
+            "version": 10,
+            "changeset": 134216990,
+            "user": "LB_Manzano",
+            "uid": 1730440,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "11611"
+            }
+        },
+        {
+            "type": "node",
+            "id": 228297663,
+            "lat": 45.6816568,
+            "lon": 13.417065,
+            "timestamp": "2024-10-12T17:11:34Z",
+            "version": 13,
+            "changeset": 157805947,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "check_date": "2024-10-12",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "23873",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 269056028,
+            "lat": 45.6669666,
+            "lon": 13.7712051,
+            "timestamp": "2021-11-27T09:39:32Z",
+            "version": 7,
+            "changeset": 114288053,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:30-20:00; PH off",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 277577258,
+            "lat": 45.6410281,
+            "lon": 13.7621303,
+            "timestamp": "2021-01-23T11:30:17Z",
+            "version": 3,
+            "changeset": 98016068,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 298373862,
+            "lat": 45.6495421,
+            "lon": 13.7676496,
+            "timestamp": "2024-07-17T14:57:58Z",
+            "version": 12,
+            "changeset": 154062586,
+            "user": "macieyw",
+            "uid": 19536390,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "3a",
+                "addr:postcode": "34121",
+                "addr:street": "Piazza Unit\u00e0 d'Italia",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "fax": "+39 040 3472677",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00; PH off; Su 09:00-19:00",
+                "operator": "Aspiag Service S.r.l.",
+                "phone": "+39 040 631064",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/punto-vendita-despar/812/trieste/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 599041721,
+            "lat": 45.7070495,
+            "lon": 13.8624686,
+            "timestamp": "2024-12-17T21:29:34Z",
+            "version": 10,
+            "changeset": 160323013,
+            "user": "MitjaJez",
+            "uid": 1553347,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 08:00-20:00",
+                "operator": "Spar Slovenija d.o.o.",
+                "phone": "+386 5 7300182",
+                "shop": "supermarket",
+                "website": "https://www.spar.si/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 798808119,
+            "lat": 45.6588911,
+            "lon": 13.7904933,
+            "timestamp": "2024-07-09T07:34:49Z",
+            "version": 6,
+            "changeset": 153732140,
+            "user": "paulbrunner",
+            "uid": 15541433,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "111",
+                "addr:postcode": "34127",
+                "addr:street": "Via Fabio Severo",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "check_date": "2024-07-09",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 854384827,
+            "lat": 45.6545923,
+            "lon": 13.800988,
+            "timestamp": "2021-08-13T17:37:34Z",
+            "version": 3,
+            "changeset": 109642241,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 854478781,
+            "lat": 45.6554241,
+            "lon": 13.802841,
+            "timestamp": "2021-08-13T17:37:34Z",
+            "version": 3,
+            "changeset": 109642241,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 973494349,
+            "lat": 45.6144709,
+            "lon": 13.8246522,
+            "timestamp": "2024-10-01T07:01:33Z",
+            "version": 7,
+            "changeset": 157324123,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "7",
+                "addr:postcode": "34147",
+                "addr:street": "Via Edgardo Morpurgo",
+                "branch": "Supermercato",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "fax": "+39 040 8324861",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:00, Su 08:30-20:00; PH off",
+                "operator": "Commercianti Indipendenti Associati Soc. Coop.",
+                "phone": "+39 040 281173",
+                "ref:vatin": "IT01269590327",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1115508564,
+            "lat": 45.7505979,
+            "lon": 13.6718323,
+            "timestamp": "2024-11-03T18:55:38Z",
+            "version": 9,
+            "changeset": 158712557,
+            "user": "mircozorzo",
+            "uid": 224342,
+            "tags": {
+                "addr:city": "Duino Aurisina / Devin - Nabre\u017eina",
+                "addr:housenumber": "106b",
+                "addr:place": "Aurisina / Nabre\u017eina",
+                "addr:postcode": "34011",
+                "branch": "Market Kukanja",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "email": "info@kukanja.it",
+                "name": "Despar",
+                "official_name": "Kukanja Pavel",
+                "opening_hours": "Mo,We 08:00-13:00; Tu-Sa 08:00-13:00,16:00-19:00; PH off",
+                "phone": "+39 040 200172",
+                "ref:vatin": "IT01076570322",
+                "shop": "supermarket",
+                "website": "http://www.kukanja.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1180457503,
+            "lat": 45.6247828,
+            "lon": 13.7920055,
+            "timestamp": "2025-07-15T09:20:55Z",
+            "version": 4,
+            "changeset": 168953598,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "operator": "DESPAR",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1561401046,
+            "lat": 45.646771,
+            "lon": 13.7865979,
+            "timestamp": "2025-09-19T21:33:00Z",
+            "version": 3,
+            "changeset": 172182923,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "34141",
+                "addr:street": "Via dei Leo",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "da:Eurospar",
+                "fax": "+39 040 3728097",
+                "name": "Eurospar",
+                "official_name": "Aspiag Service S.r.l.",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 09:00-13:00,16:00-19:00",
+                "phone": "+39 040 3728025",
+                "ref:vatin": "IT00882800212",
+                "shop": "supermarket",
+                "website": "http://www.edespar.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1569158341,
+            "lat": 45.6476628,
+            "lon": 13.7796293,
+            "timestamp": "2025-09-19T21:33:00Z",
+            "version": 5,
+            "changeset": 172182923,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "da:Eurospar",
+                "name": "Eurospar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1598955966,
+            "lat": 45.6501189,
+            "lon": 13.7701515,
+            "timestamp": "2021-09-19T11:38:27Z",
+            "version": 3,
+            "changeset": 111405082,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1725617859,
+            "lat": 45.7914486,
+            "lon": 14.3636105,
+            "timestamp": "2022-05-30T06:08:19Z",
+            "version": 6,
+            "changeset": 121692918,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Cerknica",
+                "addr:housenumber": "11",
+                "addr:postcode": "1380",
+                "addr:street": "Cesta na Jezero",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-12:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1801570428,
+            "lat": 45.6496534,
+            "lon": 13.773408,
+            "timestamp": "2021-09-19T15:36:06Z",
+            "version": 4,
+            "changeset": 111414152,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2061434733,
+            "lat": 45.5439948,
+            "lon": 13.7414006,
+            "timestamp": "2024-10-02T22:50:28Z",
+            "version": 5,
+            "changeset": 157397401,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Spar",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2213309239,
             "lat": 45.6521516,
             "lon": 13.7802433,
@@ -30,6 +426,211 @@
                 "ref:vatin": "IT04240010274",
                 "shop": "clothes",
                 "website": "https://negozi.ovs.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2420102106,
+            "lat": 45.2237545,
+            "lon": 13.5974524,
+            "timestamp": "2024-07-02T20:22:04Z",
+            "version": 10,
+            "changeset": 153475454,
+            "user": "paulbrunner",
+            "uid": 15541433,
+            "tags": {
+                "addr:city": "Pore\u010d",
+                "addr:country": "HR",
+                "addr:housenumber": "1a",
+                "addr:postcode": "52440",
+                "addr:street": "Rade Kon\u010dara",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "check_date": "2024-07-02",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-18:00",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:diners_club": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "payment:visa_debit": "yes",
+                "payment:visa_electron": "yes",
+                "phone": "+385 52 427 757",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2466490251,
+            "lat": 45.9432347,
+            "lon": 13.6204236,
+            "timestamp": "2025-01-15T23:04:24Z",
+            "version": 9,
+            "changeset": 161398668,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "OVS Kids",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "name": "OVS Kids",
+                "opening_hours": "Mo-Fr 08:30-12:30,15:30-19:30; Sa 09:00-12:30",
+                "phone": "+39 0481 531968",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2597261045,
+            "lat": 45.6497704,
+            "lon": 13.7744685,
+            "timestamp": "2021-11-21T17:04:36Z",
+            "version": 4,
+            "changeset": 114065659,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "18",
+                "addr:postcode": "34122",
+                "addr:street": "Corso Italia",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "brand:wikipedia": "it:UPIM",
+                "name": "Upim",
+                "phone": "+39 040 638192",
+                "shop": "department_store",
+                "website": "https://www.upim.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2793009487,
+            "lat": 45.6528663,
+            "lon": 13.7708434,
+            "timestamp": "2023-10-28T11:06:36Z",
+            "version": 5,
+            "changeset": 143255338,
+            "user": "Pheppu",
+            "uid": 20513536,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "check_date:opening_hours": "2023-10-28",
+                "name": "Despar Express",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-19:30",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3424506658,
+            "lat": 45.6768714,
+            "lon": 13.3874572,
+            "timestamp": "2025-08-01T20:18:58Z",
+            "version": 11,
+            "changeset": 169836559,
+            "user": "mtmail",
+            "uid": 8339,
+            "tags": {
+                "addr:city": "Grado",
+                "addr:housenumber": "35c",
+                "addr:postcode": "34073",
+                "addr:province": "Gorizia",
+                "addr:street": "Viale Europa Unita",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "contact:phone": "+39 0431 81237",
+                "name": "Despar",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3424506661,
+            "lat": 45.6798578,
+            "lon": 13.4036428,
+            "timestamp": "2024-06-25T18:17:56Z",
+            "version": 13,
+            "changeset": 153170021,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Grado",
+                "addr:housenumber": "28",
+                "addr:postcode": "34073",
+                "addr:street": "Viale John Fitzgerald Kennedy",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "check_date": "2024-06-25",
+                "internet_access": "no",
+                "name": "Despar",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "phone": "+39 390 431 8349",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/punto-vendita-despar/68/grado/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3451875267,
+            "lat": 45.9428988,
+            "lon": 13.6209136,
+            "timestamp": "2022-10-17T11:33:43Z",
+            "version": 6,
+            "changeset": 127666944,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "127",
+                "addr:postcode": "34170",
+                "addr:street": "Corso Giuseppe Verdi",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "fax": "+39 0481 546519",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00, Su 08:30-13:30",
+                "opening_hours:url": "https://www.despar.it/it/punto-vendita-despar/696/gorizia/",
+                "operator": "Despar Futura A.C.",
+                "phone": "+39 0481 547186",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3589764218,
+            "lat": 45.5443347,
+            "lon": 13.7331598,
+            "timestamp": "2022-05-07T15:44:11Z",
+            "version": 6,
+            "changeset": 120673378,
+            "user": "streetcreds",
+            "uid": 6533699,
+            "tags": {
+                "addr:city": "Koper / Capodistria",
+                "addr:housenumber": "3",
+                "addr:postcode": "6000",
+                "addr:street": "Ferrarska ulica / Via Ferrara",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "check_date:opening_hours": "2022-05-07",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 07:00-20:00",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -222,6 +823,106 @@
         },
         {
             "type": "node",
+            "id": 3661324188,
+            "lat": 45.6908885,
+            "lon": 13.1460433,
+            "timestamp": "2024-10-01T14:09:43Z",
+            "version": 4,
+            "changeset": 157338476,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Lignano Sabbiadoro",
+                "addr:housenumber": "16",
+                "addr:postcode": "33054",
+                "addr:street": "Via Udine",
+                "branch": "Uomo",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3661329062,
+            "lat": 45.6909429,
+            "lon": 13.145891,
+            "timestamp": "2024-10-08T06:37:07Z",
+            "version": 5,
+            "changeset": 157609426,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Lignano Sabbiadoro",
+                "addr:housenumber": "15",
+                "addr:postcode": "33054",
+                "addr:street": "Via Udine",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3688963052,
+            "lat": 45.887725,
+            "lon": 13.5007432,
+            "timestamp": "2019-04-08T20:16:58Z",
+            "version": 2,
+            "changeset": 69021678,
+            "user": "Capsia",
+            "uid": 9315401,
+            "tags": {
+                "addr:city": "Gradisca d'Isonzo",
+                "addr:housenumber": "11",
+                "addr:postcode": "34072",
+                "addr:street": "Viale Trieste",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "email": "vialetrieste@spesabrumat.it",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:30-13:00, Mo-Tu 16:30-19:30, Th-Sa 16:30-19:30",
+                "opening_hours:url": "https://www.despar.it/it/punto-vendita-despar/710/gradisca-d-isonzo/",
+                "phone": "+39 0481 961352",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3706386716,
+            "lat": 45.8883313,
+            "lon": 13.3127098,
+            "timestamp": "2025-08-01T20:03:21Z",
+            "version": 9,
+            "changeset": 169836012,
+            "user": "mtmail",
+            "uid": 8339,
+            "tags": {
+                "addr:city": "Bagnaria Arsa",
+                "addr:country": "IT",
+                "addr:postcode": "33050",
+                "addr:province": "Udine",
+                "addr:street": "Via Enrico Mattei",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "check_date": "2025-04-18",
+                "contact:website": "https://www.despar.it/",
+                "name": "Interspar",
+                "opening_hours": "Mo-Sa 08:30-20:00",
+                "phone": "+39 0432 929586",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3729193076,
             "lat": 45.8068114,
             "lon": 13.5039555,
@@ -251,6 +952,27 @@
         },
         {
             "type": "node",
+            "id": 3800010516,
+            "lat": 45.9430348,
+            "lon": 13.6205619,
+            "timestamp": "2025-01-15T23:04:24Z",
+            "version": 3,
+            "changeset": 161398668,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "129",
+                "addr:postcode": "34170",
+                "addr:street": "Corso Giuseppe Verdi",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
             "id": 3800033461,
             "lat": 45.9493005,
             "lon": 13.6280424,
@@ -272,6 +994,153 @@
                 "phone": "+39 0481 393011",
                 "shop": "butcher",
                 "survey:date": "2024-11-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3800034267,
+            "lat": 45.9438531,
+            "lon": 13.6208566,
+            "timestamp": "2025-01-15T23:04:24Z",
+            "version": 4,
+            "changeset": 161398668,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "66",
+                "addr:postcode": "34170",
+                "addr:street": "Corso Giuseppe Verdi",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3800034527,
+            "lat": 45.9437475,
+            "lon": 13.6207796,
+            "timestamp": "2025-01-15T23:04:24Z",
+            "version": 4,
+            "changeset": 161398668,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "70",
+                "addr:postcode": "34170",
+                "addr:street": "Corso Giuseppe Verdi",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4069049389,
+            "lat": 45.6411232,
+            "lon": 13.7899271,
+            "timestamp": "2025-05-18T22:07:09Z",
+            "version": 3,
+            "changeset": 166450429,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "9/1",
+                "addr:postcode": "34138",
+                "addr:street": "Via Pier Paolo Vergerio",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Tu-Sa 09:00-17:30; PH off",
+                "phone": "+39 040 391893",
+                "ref:vatin": "IT01268070321",
+                "shop": "supermarket",
+                "website": "http://www.novacoopts.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4370249055,
+            "lat": 45.652322,
+            "lon": 13.779922,
+            "timestamp": "2025-09-17T13:19:55Z",
+            "version": 8,
+            "changeset": 172064663,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "15",
+                "addr:postcode": "34125",
+                "addr:street": "Via Cesare Battisti",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "fax": "+39 040 7600974",
+                "level": "-1",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:30-21:00, Su 07:30-20:30; PH off",
+                "operator": "Dea Supermercati S.n.c.",
+                "phone": "+39 040 370636",
+                "ref:vatin": "IT02845960307",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=7231"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4450139128,
+            "lat": 45.8322901,
+            "lon": 13.2092134,
+            "timestamp": "2022-04-29T23:33:06Z",
+            "version": 2,
+            "changeset": 120367903,
+            "user": "Axeldt",
+            "uid": 6504197,
+            "tags": {
+                "addr:city": "San Giorgio di Nogaro",
+                "addr:postcode": "33058",
+                "addr:street": "Via Roma",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4745265585,
+            "lat": 45.6523826,
+            "lon": 13.7823748,
+            "timestamp": "2025-07-29T16:27:45Z",
+            "version": 6,
+            "changeset": 169682450,
+            "user": "Aiman",
+            "uid": 67550,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "28",
+                "addr:street": "Viale Venti Settembre",
+                "baby_feeding": "no",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "check_date:opening_hours": "2024-03-16",
+                "kids_area": "no",
+                "level": "0",
+                "name": "Despar",
+                "opening_hours": "Su 08:30-13:00; Mo-Sa 08:00-20:00",
+                "operator": "Spar",
+                "organic": "yes",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -353,6 +1222,136 @@
         },
         {
             "type": "node",
+            "id": 5535412321,
+            "lat": 45.6412076,
+            "lon": 13.7655272,
+            "timestamp": "2021-11-21T17:04:36Z",
+            "version": 3,
+            "changeset": 114065659,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "name:de": "Spar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5545054645,
+            "lat": 45.9934754,
+            "lon": 13.4449507,
+            "timestamp": "2022-05-24T10:28:35Z",
+            "version": 3,
+            "changeset": 121415717,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:housenumber": "66",
+                "addr:street": "Via papa Giovanni Ventitreesimo",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:30-13:00, 15:30-19:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5693012283,
+            "lat": 45.8233409,
+            "lon": 13.5061277,
+            "timestamp": "2024-10-01T09:53:22Z",
+            "version": 2,
+            "changeset": 157330929,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "level": "0",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6745559551,
+            "lat": 45.6583061,
+            "lon": 13.7897197,
+            "timestamp": "2024-09-18T23:11:36Z",
+            "version": 9,
+            "changeset": 156796338,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:country": "IT",
+                "addr:housenumber": "2a",
+                "addr:postcode": "34127",
+                "addr:street": "Via Luigi Pecenco",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "check_date": "2024-03-09",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00",
+                "operator": "DESPAR Pecenco srl",
+                "phone": "+39 040 2037754",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/punto-vendita-despar/979/trieste/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6835540301,
+            "lat": 45.6495521,
+            "lon": 13.7720365,
+            "timestamp": "2023-09-08T07:55:23Z",
+            "version": 6,
+            "changeset": 140973715,
+            "user": "Mateusz Konieczny - bot account",
+            "uid": 3199858,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "2",
+                "addr:postcode": "34121",
+                "addr:street": "Via del Teatro Romano",
+                "branch": "Teatro Romano",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
+                "operator": "Aspiag Service S.r.l.",
+                "phone": "+39 040 630843",
+                "ref:vatin": "IT00882800212",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7090795652,
+            "lat": 45.7704937,
+            "lon": 13.1675651,
+            "timestamp": "2022-05-24T05:48:34Z",
+            "version": 2,
+            "changeset": 121401147,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 7099334476,
             "lat": 45.9025134,
             "lon": 13.3112785,
@@ -402,6 +1401,152 @@
         },
         {
             "type": "node",
+            "id": 7752129215,
+            "lat": 45.6415752,
+            "lon": 13.7854425,
+            "timestamp": "2021-09-06T14:46:39Z",
+            "version": 4,
+            "changeset": 110807890,
+            "user": "fedezane95",
+            "uid": 14064041,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7830845224,
+            "lat": 45.6505715,
+            "lon": 13.7825999,
+            "timestamp": "2021-07-30T21:37:05Z",
+            "version": 4,
+            "changeset": 108911391,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:30-19:30",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7862973946,
+            "lat": 45.5930875,
+            "lon": 13.8077836,
+            "timestamp": "2024-05-26T19:30:16Z",
+            "version": 2,
+            "changeset": 151864945,
+            "user": "Bathyscapher",
+            "uid": 8889564,
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "brand:wikipedia": "en:H&M",
+                "check_date": "2024-05-26",
+                "name": "H&M",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7862973949,
+            "lat": 45.5928222,
+            "lon": 13.8078649,
+            "timestamp": "2020-08-31T21:20:13Z",
+            "version": 1,
+            "changeset": 90211468,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7862973950,
+            "lat": 45.5928285,
+            "lon": 13.8079719,
+            "timestamp": "2020-08-31T21:20:13Z",
+            "version": 1,
+            "changeset": 90211468,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7862973954,
+            "lat": 45.5934279,
+            "lon": 13.8077854,
+            "timestamp": "2020-08-31T21:20:13Z",
+            "version": 1,
+            "changeset": 90211468,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7862973960,
+            "lat": 45.5933549,
+            "lon": 13.8083323,
+            "timestamp": "2020-08-31T21:20:13Z",
+            "version": 1,
+            "changeset": 90211468,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7862973969,
+            "lat": 45.5940446,
+            "lon": 13.8075408,
+            "timestamp": "2023-09-20T20:53:03Z",
+            "version": 2,
+            "changeset": 141531652,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "name": "PittaRosso",
+                "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
             "id": 7862974216,
             "lat": 45.5941693,
             "lon": 13.8071195,
@@ -415,26 +1560,6 @@
                 "addr:housenumber": "119",
                 "addr:postcode": "34015",
                 "addr:street": "Via Flavia di Stramare",
-                "brand": "Unieuro",
-                "brand:wikidata": "Q4004687",
-                "brand:wikipedia": "en:Unieuro",
-                "name": "Unieuro",
-                "operator": "Unieuro S.p.A.",
-                "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7880878270,
-            "lat": 45.6504257,
-            "lon": 13.7758469,
-            "timestamp": "2025-01-01T20:14:00Z",
-            "version": 4,
-            "changeset": 160883832,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "branch": "City",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
                 "brand:wikipedia": "en:Unieuro",
@@ -460,6 +1585,143 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7881985601,
+            "lat": 45.6546973,
+            "lon": 13.7942237,
+            "timestamp": "2020-09-06T21:02:48Z",
+            "version": 1,
+            "changeset": 90493351,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8000483293,
+            "lat": 45.5401383,
+            "lon": 13.734504,
+            "timestamp": "2020-10-12T14:44:24Z",
+            "version": 1,
+            "changeset": 92362054,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "ref": "7",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8000483294,
+            "lat": 45.5400988,
+            "lon": 13.7343841,
+            "timestamp": "2020-10-12T14:44:24Z",
+            "version": 1,
+            "changeset": 92362054,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "ref": "6",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8000483327,
+            "lat": 45.5394057,
+            "lon": 13.7351476,
+            "timestamp": "2020-10-12T14:44:24Z",
+            "version": 1,
+            "changeset": 92362054,
+            "user": "patata_28",
+            "uid": 11166885,
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "brand:wikipedia": "en:H&M",
+                "name": "H&M",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8016725069,
+            "lat": 45.8409975,
+            "lon": 13.4886375,
+            "timestamp": "2023-10-09T20:40:08Z",
+            "version": 3,
+            "changeset": 142366042,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Brico",
+                "brand:wikidata": "Q2510786",
+                "brand:wikipedia": "en:Brico",
+                "check_date:opening_hours": "2022-12-24",
+                "name": "Brico",
+                "opening_hours:signed": "no",
+                "shop": "doityourself",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8408654624,
+            "lat": 45.6509826,
+            "lon": 13.7775506,
+            "timestamp": "2023-02-14T01:50:12Z",
+            "version": 2,
+            "changeset": 132515357,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "name": "Chicco",
+                "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8677062216,
+            "lat": 45.6516601,
+            "lon": 13.7796665,
+            "timestamp": "2025-09-26T19:59:55Z",
+            "version": 6,
+            "changeset": 172501445,
+            "user": "MrShoe",
+            "uid": 23324310,
+            "tags": {
+                "addr:housenumber": "15/a",
+                "addr:street": "Viale Venti Settembre",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "diet:gluten_free": "no",
+                "diet:halal": "no",
+                "diet:kosher": "no",
+                "name": "Despar",
+                "shop": "supermarket",
+                "start_date": "2025-01-16",
+                "wheelchair": "no"
             }
         },
         {
@@ -494,6 +1756,195 @@
         },
         {
             "type": "node",
+            "id": 8933571109,
+            "lat": 45.6495304,
+            "lon": 13.7747923,
+            "timestamp": "2025-04-30T10:28:30Z",
+            "version": 3,
+            "changeset": 165628438,
+            "user": "Solrayat",
+            "uid": 22526788,
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "brand:wikipedia": "en:H&M",
+                "name": "H&M",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9104754356,
+            "lat": 45.9220832,
+            "lon": 13.6414265,
+            "timestamp": "2023-07-09T15:35:26Z",
+            "version": 4,
+            "changeset": 138301015,
+            "user": "Bojan\ud83d\udcf7",
+            "uid": 792910,
+            "tags": {
+                "addr:city": "\u0160empeter pri Gorici",
+                "addr:housenumber": "79",
+                "addr:postcode": "5290",
+                "addr:street": "Vrtojbenska cesta",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+386 5 335 10 20",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9105231662,
+            "lat": 45.6501754,
+            "lon": 13.7703407,
+            "timestamp": "2024-09-30T11:50:02Z",
+            "version": 2,
+            "changeset": 157293458,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "brand:wikipedia": "ru:Tezenis",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9105683671,
+            "lat": 45.6496935,
+            "lon": 13.7730305,
+            "timestamp": "2021-09-19T15:36:06Z",
+            "version": 1,
+            "changeset": 111414152,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "brand:wikipedia": "en:Foot Locker",
+                "name": "Foot Locker",
+                "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9271991201,
+            "lat": 45.8858585,
+            "lon": 13.3428456,
+            "timestamp": "2022-05-19T17:40:21Z",
+            "version": 2,
+            "changeset": 121206192,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "contact:phone": "+39 0432 836399",
+                "contact:website": "www.calzedonia.it",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9338017365,
+            "lat": 45.6509399,
+            "lon": 13.7764216,
+            "timestamp": "2025-07-27T09:42:13Z",
+            "version": 4,
+            "changeset": 169547624,
+            "user": "Aiman",
+            "uid": 67550,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "6",
+                "addr:postcode": "34125",
+                "addr:state": "36",
+                "addr:street": "Piazza San Giovanni",
+                "baby_feeding": "no",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "contact:phone": "+39 040 636181",
+                "kids_area": "no",
+                "level": "0",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su closed; PH closed",
+                "operator": "ASPIAG Service srl",
+                "organic": "yes",
+                "ref:vatin": "IT00882800212",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9755200439,
+            "lat": 45.8859004,
+            "lon": 13.3429584,
+            "timestamp": "2023-04-11T14:12:17Z",
+            "version": 2,
+            "changeset": 134776431,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "contact:phone": "+39 0432 836399",
+                "contact:website": "www.intimissimi.it",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9802739823,
+            "lat": 45.639378,
+            "lon": 13.7847303,
+            "timestamp": "2022-06-07T22:37:03Z",
+            "version": 1,
+            "changeset": 122091976,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9802739830,
+            "lat": 45.6219912,
+            "lon": 13.8000854,
+            "timestamp": "2022-06-07T22:37:03Z",
+            "version": 1,
+            "changeset": 122091976,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 9887785800,
             "lat": 45.6404965,
             "lon": 13.8241553,
@@ -514,6 +1965,68 @@
                 "name": "Despar",
                 "operator": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9987329419,
+            "lat": 45.6906295,
+            "lon": 13.1455292,
+            "timestamp": "2024-10-08T06:38:49Z",
+            "version": 4,
+            "changeset": 157609479,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "opening_hours": "Mo-Su 09:30-23:30",
+                "phone": "+39 340 850 6434",
+                "shop": "clothes",
+                "website": "https://www.calzedonia.com/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9987329431,
+            "lat": 45.6909124,
+            "lon": 13.1458323,
+            "timestamp": "2024-10-01T14:12:49Z",
+            "version": 4,
+            "changeset": 157338476,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Lignano Sabbiadoro",
+                "addr:housenumber": "13",
+                "addr:postcode": "33054",
+                "addr:street": "Via Udine",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10132513173,
+            "lat": 45.9059945,
+            "lon": 13.3106052,
+            "timestamp": "2024-10-01T13:02:59Z",
+            "version": 2,
+            "changeset": 157338732,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "branch": "Kids",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -656,6 +2169,24 @@
         },
         {
             "type": "node",
+            "id": 10946235303,
+            "lat": 45.6503106,
+            "lon": 13.7734708,
+            "timestamp": "2024-07-20T16:11:29Z",
+            "version": 2,
+            "changeset": 154186155,
+            "user": "Cassini IV",
+            "uid": 6961897,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "opening_hours": "Tu-Sa 09:30-20:00; Su 10:00-20:00; Mo 09:30-13:00,15:30-20:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11069222577,
             "lat": 45.6443262,
             "lon": 13.7831124,
@@ -682,6 +2213,24 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "website": "https://ilcentrostudi.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11358063150,
+            "lat": 45.7716118,
+            "lon": 14.2030137,
+            "timestamp": "2025-05-19T14:07:55Z",
+            "version": 2,
+            "changeset": 166478947,
+            "user": "Vidserazin",
+            "uid": 14586021,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 08:00-20:00",
+                "shop": "supermarket"
             }
         },
         {
@@ -819,6 +2368,23 @@
         },
         {
             "type": "node",
+            "id": 11831268719,
+            "lat": 45.8969361,
+            "lon": 13.2332405,
+            "timestamp": "2024-04-19T16:09:50Z",
+            "version": 1,
+            "changeset": 150231000,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 11928367832,
             "lat": 45.5938527,
             "lon": 13.8075047,
@@ -868,6 +2434,79 @@
         },
         {
             "type": "node",
+            "id": 12155453201,
+            "lat": 45.5396,
+            "lon": 13.7351848,
+            "timestamp": "2024-10-02T22:46:57Z",
+            "version": 3,
+            "changeset": 157397401,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "level": "1",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Sa 09:00-21:00",
+                "shop": "sports",
+                "website": "https://www.decathlon.si/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12296323076,
+            "lat": 45.8218083,
+            "lon": 13.3360138,
+            "timestamp": "2024-10-29T11:45:43Z",
+            "version": 1,
+            "changeset": 158494150,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Cervignano del Friuli",
+                "addr:housenumber": "38",
+                "addr:postcode": "33052",
+                "addr:street": "Via Roma",
+                "branch": "spesa facile",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "level": "0",
+                "name": "Conad spesa facile",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12297709213,
+            "lat": 45.8342947,
+            "lon": 13.193985,
+            "timestamp": "2024-10-29T21:30:02Z",
+            "version": 1,
+            "changeset": 158517737,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Agip",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Agip",
+                "opening_hours": "24/7",
+                "operator": "Geff S.R.L.",
+                "ref:mise": "45246",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12853010134,
             "lat": 45.6889712,
             "lon": 13.137949,
@@ -890,6 +2529,153 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "source": "BTCmap add location form, confirmed by email with business owner"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13082333300,
+            "lat": 45.6530079,
+            "lon": 13.7788075,
+            "timestamp": "2025-08-19T18:20:09Z",
+            "version": 1,
+            "changeset": 170685882,
+            "user": "player_sgs",
+            "uid": 9466448,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "16a",
+                "addr:street": "Via San Francesco d'Assisi",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13147778501,
+            "lat": 45.6483696,
+            "lon": 13.7668272,
+            "timestamp": "2025-09-17T13:19:55Z",
+            "version": 6,
+            "changeset": 172064663,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:street": "Piazza di Cavana",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36363657,
+            "timestamp": "2024-10-01T10:07:58Z",
+            "version": 3,
+            "changeset": 157331483,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                424093562,
+                424093563,
+                424093564,
+                424093565,
+                424093566,
+                424093567,
+                424093568,
+                424093569,
+                424093570,
+                424093571,
+                424093572,
+                424093562
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "height": "9 m",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1A0",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36366583,
+            "timestamp": "2019-04-08T20:24:10Z",
+            "version": 5,
+            "changeset": 69021897,
+            "user": "Capsia",
+            "uid": 9315401,
+            "nodes": [
+                424130284,
+                424130286,
+                424130287,
+                424130289,
+                424130284
+            ],
+            "tags": {
+                "addr:city": "Gorizia",
+                "addr:housenumber": "4",
+                "addr:postcode": "34170",
+                "addr:street": "Via Brigata Campobasso",
+                "addr:unit": "A",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "yes",
+                "fax": "+39 0481 393398",
+                "height": "8 m",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1A0",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:30-13:00, 16:00-19:30",
+                "opening_hours:url": "https://www.despar.it/it/punto-vendita-despar/478/gorizia/",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 0481 392440",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36398333,
+            "timestamp": "2022-06-29T21:40:17Z",
+            "version": 8,
+            "changeset": 123020808,
+            "user": "fabiotofy",
+            "uid": 684800,
+            "nodes": [
+                424472572,
+                2532130014,
+                424472573,
+                424472574,
+                970523079,
+                424472575,
+                424472576,
+                2217400047,
+                424472572
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "official_name": "Nova S.r.l.",
+                "opening_hours": "Mo-Sa 08:30-19:30",
+                "phone": "+39 040 215433",
+                "ref:vatin": "IT01016760322",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
             }
         },
         {
@@ -946,189 +2732,1027 @@
         },
         {
             "type": "way",
-            "id": 36721663,
-            "timestamp": "2023-05-31T17:45:22Z",
-            "version": 11,
-            "changeset": 136799840,
-            "user": "DnaX",
-            "uid": 69259,
-            "nodes": [
-                426841035,
-                7515442986,
-                7515421537,
-                426841037,
-                2684976820,
-                426841040,
-                426841041,
-                426841042,
-                426841043,
-                426841044,
-                426841045,
-                426841035
-            ],
-            "tags": {
-                "addr:city": "Monfalcone",
-                "addr:housenumber": "52;61",
-                "addr:postcode": "34074",
-                "addr:street": "Via Arrigo Boito",
-                "brand": "Conad Superstore",
-                "brand:wikidata": "Q118129616",
-                "brand:wikipedia": "it:Conad",
-                "building": "yes",
-                "height": "5 m",
-                "it:fvg:ctrn:code": "4AED",
-                "it:fvg:ctrn:revision": "1AN",
-                "name": "Conad Superstore",
-                "opening_hours": "Su 08:30-20:00; Mo-Sa 07:30-20:30",
-                "operator": "Conad",
-                "parking": "yes",
-                "payment:bancomat": "yes",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "phone": "+39 0481 414040",
-                "ref:vatin": "IT08970540152",
-                "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.009842.html",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 365044194,
-            "timestamp": "2015-08-11T07:28:55Z",
+            "id": 36688305,
+            "timestamp": "2025-02-13T08:48:58Z",
             "version": 2,
-            "changeset": 33259390,
-            "user": "Claudio56GO",
-            "uid": 3121047,
-            "nodes": [
-                3690885436,
-                3690885437,
-                3690885438,
-                3690885439,
-                3690885440,
-                3690885441,
-                3690885442,
-                3690885443,
-                3690885436
-            ],
-            "tags": {
-                "access": "customers",
-                "amenity": "parking",
-                "fee": "no",
-                "name": "Parcheggio Conad",
-                "operator": "Conad",
-                "parking": "multi-storey"
-            }
-        },
-        {
-            "type": "way",
-            "id": 380623563,
-            "timestamp": "2025-01-06T15:36:01Z",
-            "version": 4,
-            "changeset": 161063403,
-            "user": "ivanbranco",
-            "uid": 11220113,
-            "nodes": [
-                3839415891,
-                3839415892,
-                3839415893,
-                3839415894,
-                3839415895,
-                3839415896,
-                3839415891
-            ],
-            "tags": {
-                "access": "yes",
-                "amenity": "parking",
-                "capacity": "50",
-                "fee": "no",
-                "operator": "Conad",
-                "operator:type": "business",
-                "parking": "surface",
-                "surface": "asphalt",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 459205402,
-            "timestamp": "2025-01-06T14:45:39Z",
-            "version": 5,
-            "changeset": 161061213,
-            "user": "mpbin",
-            "uid": 21850090,
-            "nodes": [
-                4551136951,
-                4551136985,
-                4551136964,
-                4551136953,
-                4551136951
-            ],
-            "tags": {
-                "brand": "IKEA",
-                "indoor": "area",
-                "level": "1",
-                "name": "IKEA",
-                "operator": "Ikea Italia Retail S.r.l.",
-                "ref": "1",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 461916903,
-            "timestamp": "2025-01-06T14:45:58Z",
-            "version": 3,
-            "changeset": 161061221,
-            "user": "mpbin",
-            "uid": 21850090,
-            "nodes": [
-                4573515404,
-                4573515403,
-                4573515402,
-                4573515401,
-                4573515404
-            ],
-            "tags": {
-                "indoor": "area",
-                "layer": "2",
-                "level": "2",
-                "name": "IKEA",
-                "operator": "Ikea Italia Retail S.r.l.",
-                "ref": "100",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1054717343,
-            "timestamp": "2022-04-25T12:26:48Z",
-            "version": 1,
-            "changeset": 120164375,
+            "changeset": 162457374,
             "user": "alessandrocarmeli",
             "uid": 12294600,
             "nodes": [
-                1472015889,
-                8996720490,
-                8996720491,
-                9692147227,
-                9692147228,
-                9692147229,
-                8996720442,
-                8996720472,
-                8996720440,
-                9692147225,
-                1472015884,
-                9692147224,
-                9692142813,
-                9692142814,
-                1472015889
+                12154000001,
+                426498501,
+                426498502,
+                426498503,
+                426498504,
+                426498506,
+                12154000001
             ],
             "tags": {
-                "access": "customers",
-                "amenity": "parking",
-                "operator": "Despar",
-                "parking": "surface"
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "industrial",
+                "height": "7 m",
+                "internet_access": "wlan",
+                "it:fvg:ctrn:code": "4AIN",
+                "it:fvg:ctrn:revision": "1A0",
+                "man_made": "works",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-19:30; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36689109,
+            "timestamp": "2024-11-02T18:28:23Z",
+            "version": 15,
+            "changeset": 158671562,
+            "user": "mircozorzo",
+            "uid": 224342,
+            "nodes": [
+                5301245329,
+                5301245298,
+                426507794,
+                426507795,
+                426507796,
+                426507797,
+                426507798,
+                426507799,
+                426507800,
+                426507801,
+                426507802,
+                426507803,
+                426507804,
+                426507805,
+                426507778,
+                426507779,
+                426507780,
+                5301244678,
+                5301244665,
+                426563660,
+                5301244668,
+                426563659,
+                426563658,
+                426563655,
+                5301244681,
+                5301244677,
+                5301244680,
+                5301245329
+            ],
+            "tags": {
+                "addr:city": "Duino Aurisina / Devin - Nabre\u017eina",
+                "addr:housenumber": "5f",
+                "addr:place": "Duino / Devin",
+                "addr:postcode": "34011",
+                "branch": "Superstore",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "commercial",
+                "facebook": "https://www.facebook.com/Conad/?fref=ts",
+                "height": "13 m",
+                "it:fvg:ctrn:code": "4AIN",
+                "it:fvg:ctrn:revision": "1AM",
+                "name": "Conad",
+                "official_name": "B2C Supermercati Sistiana S.a.S. di Bossi Alessandro e C.",
+                "opening_hours": "08:30-20:00",
+                "phone": "+39 040 208357",
+                "ref:vatin": "IT01318890322",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36695013,
+            "timestamp": "2022-07-21T17:27:54Z",
+            "version": 15,
+            "changeset": 123903335,
+            "user": "Cascafico",
+            "uid": 361003,
+            "nodes": [
+                426567425,
+                1421417966,
+                426567427,
+                426567428,
+                426567429,
+                426567430,
+                426567431,
+                426567432,
+                426567410,
+                426567412,
+                426567413,
+                426567414,
+                426567425
+            ],
+            "tags": {
+                "addr:city": "Duino Aurisina / Devin - Nabre\u017eina",
+                "addr:housenumber": "24h",
+                "addr:place": "Sistiana / Sesljan",
+                "addr:postcode": "34011",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "supermarket",
+                "fax": "+39 040 299231",
+                "height": "8 m",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1AN",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-19:30; PH off",
+                "operator": "B2C Supermercati Sistiana S.a.s.",
+                "phone": "+39 040 299465;+39 040 291496;+39 040 299231",
+                "ref:vatin": "IT01318890322",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36718512,
+            "timestamp": "2024-10-01T09:56:21Z",
+            "version": 3,
+            "changeset": 157331058,
+            "user": "Flight777",
+            "uid": 9925732,
+            "nodes": [
+                426810606,
+                426810607,
+                426810608,
+                426810609,
+                426810610,
+                426810606
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "height": "3 m",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1AN",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 133134627,
+            "timestamp": "2023-07-12T11:48:31Z",
+            "version": 8,
+            "changeset": 138419467,
+            "user": "Cascafico",
+            "uid": 361003,
+            "nodes": [
+                1464927909,
+                1464927870,
+                1464927852,
+                1464927850,
+                1464927846,
+                1464927843,
+                1464927841,
+                1464927838,
+                1464927845,
+                1464927896,
+                1674485197,
+                228115007,
+                1674485199,
+                1464927909
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_98": "yes",
+                "highway": "services",
+                "name": "Tamoil",
+                "old_name": "Repsol",
+                "ref:mise": "28291",
+                "toilets": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 133742289,
+            "timestamp": "2025-09-26T10:36:20Z",
+            "version": 10,
+            "changeset": 172478549,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "nodes": [
+                8996720443,
+                9692147223,
+                9692142812,
+                1472015855,
+                1472015853,
+                424647844,
+                424647843,
+                424647841,
+                8996720441,
+                8996720477,
+                8996720443
+            ],
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:housenumber": "102/1",
+                "addr:postcode": "34137",
+                "addr:street": "Via dell'Istria",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "da:Eurospar",
+                "building": "yes",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 08:30-20:00",
+                "shop": "supermarket",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "way",
+            "id": 193292092,
+            "timestamp": "2023-03-24T12:57:54Z",
+            "version": 10,
+            "changeset": 134066806,
+            "user": "damjang",
+            "uid": 97922,
+            "nodes": [
+                2038033625,
+                9013205981,
+                9013205979,
+                9013205978,
+                9013205980,
+                2038033628,
+                2038033624,
+                2038033626,
+                2038033632,
+                2038033631,
+                2038033629,
+                2038033630,
+                2038033625
+            ],
+            "tags": {
+                "addr:city": "Koper",
+                "addr:country": "SI",
+                "addr:housenumber": "30",
+                "addr:postcode": "6000",
+                "addr:street": "Ulica 15. maja / Via XV maggio",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "building": "supermarket",
+                "name": "Spar",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 303709836,
+            "timestamp": "2021-11-24T18:27:26Z",
+            "version": 4,
+            "changeset": 114193008,
+            "user": "weedek",
+            "uid": 8285024,
+            "nodes": [
+                3081152684,
+                3081152685,
+                9281200823,
+                9281200829,
+                3081152686,
+                9281200822,
+                3081152688,
+                3081152687,
+                3081152690,
+                3791983718,
+                3081152689,
+                3081152684
+            ],
+            "tags": {
+                "addr:city": "Pivka",
+                "addr:housenumber": "18a",
+                "addr:postcode": "6257",
+                "addr:street": "Postojnska cesta",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "building": "yes",
+                "name": "Spar",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 08:00-13:00",
+                "phone": "057570311",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 359408216,
+            "timestamp": "2024-12-19T14:02:00Z",
+            "version": 8,
+            "changeset": 160396436,
+            "user": "Pipi Ferry 99",
+            "uid": 20953706,
+            "nodes": [
+                3641307006,
+                3641307005,
+                3641307002,
+                3641307003,
+                3641307001,
+                8197594165,
+                8197594164,
+                8197594166,
+                3641307004,
+                3641307006
+            ],
+            "tags": {
+                "addr:city": "Ajdov\u0161\u010dina",
+                "addr:housenumber": "25",
+                "addr:postcode": "5270",
+                "addr:street": "Tovarni\u0161ka cesta",
+                "branch": "Ajdov\u0161\u010dina",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "yes",
+                "disused": "yes",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 8:00-20:00; Su 8:00-12:00",
+                "shop": "supermarket",
+                "source": "https://www.spar.si/sl_SI/trgovine/spar-ajdovscina.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 460066395,
+            "timestamp": "2025-01-06T14:19:50Z",
+            "version": 7,
+            "changeset": 161060101,
+            "user": "mpbin",
+            "uid": 21850090,
+            "nodes": [
+                4557487551,
+                4557487550,
+                4557487549,
+                4557487548,
+                4557487551
+            ],
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "MediaWorld",
+                "opening_hours:signed": "no",
+                "operator": "Mediamarket S.p.A.",
+                "ref": "27",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916825,
+            "timestamp": "2024-10-14T11:08:17Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515004,
+                4573515003,
+                4573515002,
+                4573515001,
+                4573515004
+            ],
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "2",
+                "level": "2",
+                "name": "Foot Locker",
+                "opening_hours:signed": "no",
+                "ref": "174",
+                "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916830,
+            "timestamp": "2024-10-14T11:07:03Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515029,
+                4573515028,
+                4573515027,
+                4573515026,
+                4573515025,
+                4573515024,
+                4573515023,
+                4573515022,
+                4573515029
+            ],
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "2",
+                "level": "2",
+                "name": "H&M",
+                "opening_hours:signed": "no",
+                "ref": "169",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916865,
+            "timestamp": "2024-10-14T11:07:29Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515209,
+                4573515208,
+                4573515207,
+                4573515206,
+                4573515205,
+                4573515204,
+                4573515203,
+                4573515202,
+                4573515201,
+                4573515200,
+                4573515209
+            ],
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "2",
+                "level": "2",
+                "name": "OVS",
+                "opening_hours:signed": "no",
+                "ref": "138",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916926,
+            "timestamp": "2024-10-14T10:22:01Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515554,
+                4573515553,
+                4573515552,
+                4573515551,
+                4573515550,
+                4573515549,
+                4573515548,
+                4573515547,
+                4573515546,
+                4573515545,
+                4573515544,
+                4573515543,
+                4573515542,
+                4573515541,
+                4573515554
+            ],
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "brand:wikipedia": "en:H&M",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "H&M",
+                "opening_hours:signed": "no",
+                "ref": "70",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916929,
+            "timestamp": "2024-10-14T10:42:23Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515567,
+                4573515566,
+                4573515565,
+                4573515564,
+                4573515567
+            ],
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "Calzedonia",
+                "opening_hours:signed": "no",
+                "ref": "89",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916931,
+            "timestamp": "2024-10-14T10:42:19Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515575,
+                4573515574,
+                4573515573,
+                4573515572,
+                4573515575
+            ],
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "check_date:opening_hours": "2024-10-14",
+                "clothes": "underwear",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "Intimissimi",
+                "opening_hours:signed": "no",
+                "ref": "87",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916956,
+            "timestamp": "2024-10-14T10:42:33Z",
+            "version": 6,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515700,
+                4573515699,
+                4573515698,
+                4573515697,
+                4573515696,
+                4573515695,
+                4573515694,
+                4573515693,
+                4573515700
+            ],
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "OVS",
+                "opening_hours:signed": "no",
+                "ref": "53",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916988,
+            "timestamp": "2024-10-14T10:17:40Z",
+            "version": 5,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515858,
+                4573515857,
+                4573515856,
+                4573515855,
+                4573515854,
+                4573515853,
+                4573515858
+            ],
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "Kasanova",
+                "opening_hours:signed": "no",
+                "ref": "3",
+                "shop": "houseware",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461917002,
+            "timestamp": "2024-10-14T10:24:07Z",
+            "version": 7,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515930,
+                4573515929,
+                4573515928,
+                4573515927,
+                4573515930
+            ],
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "check_date:opening_hours": "2024-10-14",
+                "clothes": "women;underwear;swimwear;men;children",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "Tezenis",
+                "opening_hours:signed": "no",
+                "ref": "17",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461917015,
+            "timestamp": "2024-05-24T21:10:42Z",
+            "version": 7,
+            "changeset": 151788519,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515990,
+                4573515987,
+                4573515988,
+                4573515989,
+                4573515990
+            ],
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "contact:phone": "+39 0481 069399",
+                "contact:website": "https://www.decathlon.it/",
+                "indoor": "room",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "layer": "1",
+                "level": "1",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:30-20:00",
+                "ref": "34",
+                "shop": "sports",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 556914003,
+            "timestamp": "2019-03-23T11:10:22Z",
+            "version": 3,
+            "changeset": 68441348,
+            "user": "Badojo",
+            "uid": 8189075,
+            "nodes": [
+                5620007721,
+                5371730728,
+                5371730727,
+                5371730729,
+                5620007721
+            ],
+            "tags": {
+                "addr:street": "Bujska",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "yes",
+                "name": "Spar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 821095346,
+            "timestamp": "2025-09-09T18:31:52Z",
+            "version": 4,
+            "changeset": 171700902,
+            "user": "Felixplore",
+            "uid": 20047316,
+            "nodes": [
+                7666609371,
+                12535109881,
+                12535109882,
+                7666609372,
+                12535109883,
+                12535109884,
+                7666609373,
+                7666609374,
+                12535109879,
+                12535109880,
+                7666609371
+            ],
+            "tags": {
+                "baby_feeding": "no",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "supermarket",
+                "check_date": "2025-09-08",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-21:00",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 842326702,
+            "timestamp": "2023-10-28T16:45:04Z",
+            "version": 4,
+            "changeset": 143271887,
+            "user": "DavidKarlas",
+            "uid": 12422736,
+            "nodes": [
+                7858206507,
+                7858206506,
+                11165609487,
+                11165609486,
+                7858206505,
+                7858206504,
+                11165609488,
+                11165609489,
+                7858206507
+            ],
+            "tags": {
+                "addr:city": "Logatec",
+                "addr:housenumber": "16",
+                "addr:postcode": "1370",
+                "addr:street": "Cesta talcev",
+                "branch": "Logatec",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "check_date": "2023-10-28",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+                "operator": "SPAR Slovenija",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+386 1 759 07 80",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 842866519,
+            "timestamp": "2023-08-12T15:55:23Z",
+            "version": 2,
+            "changeset": 139793331,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "nodes": [
+                2258065180,
+                7862974079,
+                7862974080,
+                7862974081,
+                7862974082,
+                7862974083,
+                7862973924,
+                7862974084,
+                7862974085,
+                7862974086,
+                7862974087,
+                2258065180
+            ],
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon Group",
+                "building:part": "yes",
+                "name": "Decathlon",
+                "shop": "sports"
+            }
+        },
+        {
+            "type": "way",
+            "id": 846227795,
+            "timestamp": "2020-09-10T21:04:19Z",
+            "version": 1,
+            "changeset": 90722686,
+            "user": "diomascio",
+            "uid": 11452467,
+            "nodes": [
+                424617536,
+                7895088034,
+                7895088035,
+                7895088036,
+                424617548,
+                424617547,
+                424617546,
+                424617545,
+                424617544,
+                424617543,
+                424617542,
+                424617541,
+                424617540,
+                424617539,
+                424617538,
+                424617537,
+                424617536
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "building": "yes",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 846248057,
+            "timestamp": "2024-09-18T14:59:44Z",
+            "version": 7,
+            "changeset": 156777964,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "nodes": [
+                7895239744,
+                7895239745,
+                7895239746,
+                7895239747,
+                7895239748,
+                7895239749,
+                7895239750,
+                7895239751,
+                7895239752,
+                7895239753,
+                3682303452,
+                3758987482,
+                3682303453,
+                3682303454,
+                7895239743,
+                7895239744
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "check_date": "2024-07-09",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "46821",
+                "self_service": "yes",
+                "toilets": "no"
+            }
+        },
+        {
+            "type": "way",
+            "id": 912172591,
+            "timestamp": "2023-12-02T00:22:43Z",
+            "version": 6,
+            "changeset": 144678751,
+            "user": "damjang",
+            "uid": 97922,
+            "nodes": [
+                8473608046,
+                11388700679,
+                8473608047,
+                8473608081,
+                8473608048,
+                528045590,
+                8473608050,
+                11388667767,
+                8473608051,
+                11388667766,
+                11388667768,
+                11388713869,
+                11388713870,
+                8473608052,
+                8473608083,
+                11388713871,
+                8473608082,
+                8473608046
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil Stazione di servizio 6234",
+                "opening_hours": "Mo-Fr 08:00-12:00,15:00-19:00; Sa,Su,PH off",
+                "operator": "T.D.M. S.r.l.",
+                "phone:IT": "800 113330",
+                "ref:mise": "47089",
+                "website": "https://www.tamoil.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 972050282,
+            "timestamp": "2025-09-12T19:38:08Z",
+            "version": 2,
+            "changeset": 171847997,
+            "user": "GBAB",
+            "uid": 3335899,
+            "nodes": [
+                4551136963,
+                1588236215,
+                1556912296,
+                8281490408,
+                4551136956,
+                4551136966,
+                4551228060,
+                4551136973,
+                8281490410,
+                4551228044,
+                4551136969,
+                4551136979,
+                4551136959,
+                4551136954,
+                4551136965,
+                4551136971,
+                4552225269,
+                4551136980,
+                4551136960,
+                8996648273,
+                4551136963
+            ],
+            "tags": {
+                "branch": "Villesse",
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "brand:wikipedia": "en:IKEA",
+                "building": "retail",
+                "building:levels": "3",
+                "name": "IKEA",
+                "opening_hours": "Mo-Fr 09:30-20:00; Sa,Su 09:30-20:30",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "shop": "furniture",
+                "website": "https://www.ikea.com/it/it/stores/gorizia-villesse/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1343780968,
+            "timestamp": "2024-12-19T14:02:00Z",
+            "version": 1,
+            "changeset": 160396436,
+            "user": "Pipi Ferry 99",
+            "uid": 20953706,
+            "nodes": [
+                12433554931,
+                12433554932,
+                12433554933,
+                12433554934,
+                12433554931
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Spar",
+                "shop": "supermarket"
             }
         },
         {
@@ -1166,6 +3790,300 @@
                 "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:00-14:00; Su off",
                 "operator": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 7395431,
+            "timestamp": "2019-05-24T22:57:52Z",
+            "version": 3,
+            "changeset": 70601216,
+            "user": "PelleB",
+            "uid": 221326,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 507676278,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676188,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676277,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676211,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "indoor": "room",
+                "level": "0",
+                "name": "OVS",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 7397339,
+            "timestamp": "2019-05-24T22:57:52Z",
+            "version": 3,
+            "changeset": 70601216,
+            "user": "PelleB",
+            "uid": 221326,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 507676225,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676281,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676282,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676241,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507842020,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676285,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "brand:wikipedia": "en:H&M",
+                "indoor": "room",
+                "level": "0",
+                "name": "H&M",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 7397358,
+            "timestamp": "2019-05-24T22:57:54Z",
+            "version": 3,
+            "changeset": 70601216,
+            "user": "PelleB",
+            "uid": 221326,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 507676195,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676297,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676301,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "indoor": "room",
+                "level": "0",
+                "name": "Calzedonia",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766313,
+            "timestamp": "2024-01-02T12:43:43Z",
+            "version": 2,
+            "changeset": 145796516,
+            "user": "wvdp",
+            "uid": 436419,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940479,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940448,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940478,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940438,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "indoor": "room",
+                "level": "0",
+                "name": "Intimissimi",
+                "ref": "9",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766315,
+            "timestamp": "2024-01-02T12:43:43Z",
+            "version": 2,
+            "changeset": 145796516,
+            "user": "wvdp",
+            "uid": 436419,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940479,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940449,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940481,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940437,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "indoor": "room",
+                "level": "0",
+                "name": "Calzedonia",
+                "ref": "7",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766324,
+            "timestamp": "2024-10-01T09:52:43Z",
+            "version": 3,
+            "changeset": 157330902,
+            "user": "Flight777",
+            "uid": 9925732,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940509,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940469,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940514,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940468,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "indoor": "room",
+                "level": "0",
+                "name": "Tezenis",
+                "ref": "3A",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766327,
+            "timestamp": "2024-01-02T12:43:43Z",
+            "version": 2,
+            "changeset": 145796516,
+            "user": "wvdp",
+            "uid": 436419,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940517,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940470,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940514,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940464,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "indoor": "room",
+                "level": "0",
+                "name": "Unieuro",
+                "ref": "44",
+                "shop": "electronics",
+                "type": "multipolygon"
             }
         }
     ],

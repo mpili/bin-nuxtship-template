@@ -79,22 +79,115 @@
         },
         {
             "type": "node",
-            "id": 1424271419,
-            "lat": 40.3640408,
-            "lon": 18.1476013,
-            "timestamp": "2025-04-20T06:54:30Z",
-            "version": 5,
-            "changeset": 165179205,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "id": 1112463816,
+            "lat": 40.3515936,
+            "lon": 17.7327063,
+            "timestamp": "2025-06-17T09:13:55Z",
+            "version": 3,
+            "changeset": 167728706,
+            "user": "Onyxbob",
+            "uid": 22295304,
             "tags": {
-                "addr:city": "Lecce",
-                "addr:postcode": "73100",
-                "addr:street": "Via Taranto",
+                "addr:city": "Avetrana",
+                "addr:housenumber": "75/79",
+                "addr:postcode": "74020",
+                "addr:street": "Via Magenta",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:30-13:15,16:45-20:30; Su 07:45-12:30",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-emilia-ang-via-magenta-75-79-74020-avetrana--007825"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2046175256,
+            "lat": 40.5368594,
+            "lon": 17.6473501,
+            "timestamp": "2021-08-12T21:54:27Z",
+            "version": 3,
+            "changeset": 109595490,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
                 "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
                 "name": "Q8",
-                "operator": "Q8",
-                "survey:date": "2021-10-24"
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "23081"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2522226694,
+            "lat": 40.5316061,
+            "lon": 17.4362472,
+            "timestamp": "2025-06-18T14:37:03Z",
+            "version": 4,
+            "changeset": 167785514,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "clothes": "children",
+                "name": "Kasanova",
+                "operator": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2920303864,
+            "lat": 40.3068577,
+            "lon": 18.2156793,
+            "timestamp": "2023-11-28T15:26:03Z",
+            "version": 9,
+            "changeset": 144553887,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Lizzanello",
+                "addr:housenumber": "149",
+                "addr:postcode": "73023",
+                "addr:street": "Via Martano",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "ref:mise": "40467",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3240819961,
+            "lat": 40.4974969,
+            "lon": 17.9944592,
+            "timestamp": "2025-02-18T22:57:05Z",
+            "version": 7,
+            "changeset": 162680285,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "39054",
+                "self_service": "yes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -125,6 +218,187 @@
         },
         {
             "type": "node",
+            "id": 3408904451,
+            "lat": 40.475383,
+            "lon": 17.9615883,
+            "timestamp": "2025-03-14T10:58:03Z",
+            "version": 4,
+            "changeset": 163605058,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "addr:city": "Cellino San Marco",
+                "addr:housenumber": "45",
+                "addr:postcode": "72020",
+                "addr:street": "Via Bari",
+                "branch": "City",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Arsieni Elettrodomestici",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3875327152,
+            "lat": 40.2943683,
+            "lon": 18.1972205,
+            "timestamp": "2023-11-28T16:58:02Z",
+            "version": 6,
+            "changeset": 144557211,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Cavallino",
+                "addr:postcode": "73020",
+                "addr:street": "Strada Statale 16 Adriatica",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "operator": "SGM Distribuzione S.r.l.",
+                "phone": "+39 0832 614644",
+                "ref:vatin": "IT00876320409",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3911006558,
+            "lat": 40.3536323,
+            "lon": 18.1773158,
+            "timestamp": "2025-03-18T18:44:55Z",
+            "version": 6,
+            "changeset": 163788050,
+            "user": "corfede",
+            "uid": 1960233,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "27",
+                "addr:postcode": "73100",
+                "addr:street": "Via Salvatore Trinchese",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "level": "0",
+                "name": "Tezenis",
+                "operator": "RCS Trading S.r.l.s.",
+                "phone": "+39 0832 332615",
+                "ref:vatin": "IT08066230726",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3932168163,
+            "lat": 40.3607181,
+            "lon": 18.1748296,
+            "timestamp": "2025-03-17T11:53:26Z",
+            "version": 2,
+            "changeset": 163728385,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "32c",
+                "addr:postcode": "73100",
+                "addr:street": "Via Alessandro Manzoni",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3999199768,
+            "lat": 40.3150262,
+            "lon": 17.5694196,
+            "timestamp": "2023-12-05T10:38:56Z",
+            "version": 8,
+            "changeset": 144786594,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Area Service S.R.L.",
+                "ref:mise": "27986",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3999199792,
+            "lat": 40.3161108,
+            "lon": 17.57552,
+            "timestamp": "2023-07-14T17:07:50Z",
+            "version": 3,
+            "changeset": 138516600,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "S.S.S. S.R.L.",
+                "ref:mise": "42499"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4157128389,
+            "lat": 40.3428996,
+            "lon": 18.173077,
+            "timestamp": "2025-03-17T13:13:17Z",
+            "version": 5,
+            "changeset": 163731690,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4159507489,
+            "lat": 40.3538728,
+            "lon": 18.1808171,
+            "timestamp": "2023-10-05T10:17:26Z",
+            "version": 3,
+            "changeset": 142182523,
+            "user": "Fradeve11",
+            "uid": 37791,
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "name": "Foot Locker",
+                "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4242939306,
             "lat": 40.7221146,
             "lon": 17.5776397,
@@ -144,6 +418,42 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4250677310,
+            "lat": 40.7271504,
+            "lon": 17.5792281,
+            "timestamp": "2025-03-25T14:09:18Z",
+            "version": 2,
+            "changeset": 164079084,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "branch": "Cannillo Srl",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4254259856,
+            "lat": 40.726958,
+            "lon": 17.5763062,
+            "timestamp": "2025-03-25T14:09:18Z",
+            "version": 2,
+            "changeset": 164079084,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
             }
         },
         {
@@ -224,6 +534,116 @@
         },
         {
             "type": "node",
+            "id": 4393540219,
+            "lat": 40.6358406,
+            "lon": 17.9419743,
+            "timestamp": "2022-07-02T20:00:03Z",
+            "version": 2,
+            "changeset": 123131838,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "addr:city": "Brindisi",
+                "addr:street": "Piazza Cairoli",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4431323930,
+            "lat": 40.354535,
+            "lon": 18.179993,
+            "timestamp": "2024-06-28T22:54:50Z",
+            "version": 3,
+            "changeset": 153312956,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "44c",
+                "addr:postcode": "73100",
+                "addr:street": "Via Cesare Battisti",
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "clothes": "children",
+                "entrance": "yes",
+                "name": "Chicco",
+                "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4453078457,
+            "lat": 40.1206438,
+            "lon": 18.2987816,
+            "timestamp": "2024-10-16T15:36:41Z",
+            "version": 3,
+            "changeset": 157970949,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Maglie",
+                "addr:housenumber": "2",
+                "addr:postcode": "73024",
+                "addr:street": "Via Trento e Trieste",
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "entrance": "yes",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4487303327,
+            "lat": 40.6594793,
+            "lon": 17.7123762,
+            "timestamp": "2022-10-12T15:31:26Z",
+            "version": 4,
+            "changeset": 127423391,
+            "user": "itzshoummo",
+            "uid": 16800209,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "D'Adamo Salvatore",
+                "ref:mise": "41240"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4539970176,
+            "lat": 40.1217615,
+            "lon": 18.2982091,
+            "timestamp": "2024-04-04T21:52:13Z",
+            "version": 5,
+            "changeset": 149588964,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "contact:city": "Maglie",
+                "contact:housenumber": "28",
+                "contact:postcode": "73024",
+                "contact:street": "Via Roma",
+                "email": "reactsrl@legalmail.it",
+                "level": "0",
+                "name": "Calzedonia",
+                "operator": "React S.r.l.",
+                "phone": "+39 0836 483992",
+                "ref:vatin": "IT05476740963",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5216221125,
             "lat": 40.7271146,
             "lon": 17.5763196,
@@ -245,6 +665,44 @@
                 "phone": "+39 3208818751",
                 "shop": "jewelry",
                 "website": "http://www.clamagioielli.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5300559246,
+            "lat": 40.3762589,
+            "lon": 18.1437096,
+            "timestamp": "2023-11-27T18:05:33Z",
+            "version": 5,
+            "changeset": 144516763,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "name": "Foot Locker",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5300716135,
+            "lat": 40.3755019,
+            "lon": 18.1446202,
+            "timestamp": "2023-11-27T18:00:08Z",
+            "version": 7,
+            "changeset": 144516763,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "houseware",
+                "wheelchair": "yes"
             }
         },
         {
@@ -275,6 +733,49 @@
         },
         {
             "type": "node",
+            "id": 5300716154,
+            "lat": 40.3762947,
+            "lon": 18.1444964,
+            "timestamp": "2023-11-27T18:02:31Z",
+            "version": 5,
+            "changeset": 144516763,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "phone": "+39 0832 334088",
+                "shop": "clothes",
+                "website": "http://www.calzedonia.it",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5300716164,
+            "lat": 40.3764236,
+            "lon": 18.144299,
+            "timestamp": "2023-11-27T18:03:57Z",
+            "version": 6,
+            "changeset": 144516763,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "name": "H&M",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "phone": "+39 06 32832447",
+                "shop": "clothes",
+                "website": "https://www.hm.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5311134812,
             "lat": 40.3594004,
             "lon": 18.1839147,
@@ -294,6 +795,53 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5440539622,
+            "lat": 40.5392458,
+            "lon": 17.4366529,
+            "timestamp": "2019-11-05T15:16:32Z",
+            "version": 3,
+            "changeset": 76655729,
+            "user": "LorC",
+            "uid": 1545666,
+            "tags": {
+                "addr:city": "Grottaglie",
+                "addr:housenumber": "5",
+                "addr:postcode": "74023",
+                "addr:street": "Via Vitantonio La Sorte",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5468797260,
+            "lat": 40.3957922,
+            "lon": 17.5568204,
+            "timestamp": "2025-07-31T12:07:16Z",
+            "version": 2,
+            "changeset": 169767114,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "tags": {
+                "addr:city": "Sava",
+                "addr:housenumber": "67",
+                "addr:postcode": "74028",
+                "addr:street": "Corso Francia",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "contact:facebook": "https://www.facebook.com/EurosparSava/",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Sa 08:00-13:00,16:30-20:00; Su off",
+                "phone": "+39 0999721641",
+                "shop": "supermarket",
+                "website": "https://www.mydespar.it/pdv/md-punto-tre-srl-corso-francia-67-sava-2906"
             }
         },
         {
@@ -325,18 +873,137 @@
             "id": 5660407521,
             "lat": 40.2950741,
             "lon": 17.8548774,
-            "timestamp": "2024-12-30T23:05:53Z",
-            "version": 2,
-            "changeset": 160813566,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-09-29T09:24:41Z",
+            "version": 3,
+            "changeset": 172602406,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
                 "addr:city": "Porto Cesareo",
                 "addr:housenumber": "SNC",
                 "addr:postcode": "73010",
                 "addr:street": "Via Giacomo Zanella",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851833403,
+            "lat": 40.545801,
+            "lon": 17.953997,
+            "timestamp": "2025-03-25T10:28:32Z",
+            "version": 2,
+            "changeset": 164069900,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "39042"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851833444,
+            "lat": 40.7009184,
+            "lon": 17.4929816,
+            "timestamp": "2024-04-16T19:32:58Z",
+            "version": 2,
+            "changeset": 150100489,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Emporium S.A.S. di Leo Maria & C.",
+                "ref:mise": "38760"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5981675807,
+            "lat": 40.353358,
+            "lon": 18.1732565,
+            "timestamp": "2023-04-02T19:02:14Z",
+            "version": 3,
+            "changeset": 134426452,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "5",
+                "addr:postcode": "73100",
+                "addr:street": "Via Salvatore Trinchese",
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "entrance": "yes",
+                "name": "Kasanova",
+                "operator": "Kasanova S.p.a.",
+                "ref:vatin": "IT00743020968",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6341799788,
+            "lat": 40.3756441,
+            "lon": 18.1397546,
+            "timestamp": "2023-02-21T21:41:47Z",
+            "version": 2,
+            "changeset": 132854794,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "name": "Expert",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6431140178,
+            "lat": 40.6359212,
+            "lon": 17.943354,
+            "timestamp": "2022-07-02T20:00:03Z",
+            "version": 3,
+            "changeset": 123131838,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "addr:housenumber": "77",
+                "addr:street": "Corso Umberto primo",
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "name": "Foot Locker",
+                "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6516189186,
+            "lat": 40.4177791,
+            "lon": 17.8324823,
+            "timestamp": "2025-01-08T14:24:50Z",
+            "version": 2,
+            "changeset": 161135707,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "addr:street": "Via Taranto",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
                 "shop": "supermarket"
             }
         },
@@ -366,25 +1033,211 @@
         },
         {
             "type": "node",
-            "id": 7505642383,
-            "lat": 40.2933259,
-            "lon": 18.1976235,
-            "timestamp": "2023-11-28T16:58:02Z",
-            "version": 5,
-            "changeset": 144557211,
+            "id": 6875833764,
+            "lat": 40.0703424,
+            "lon": 18.0061447,
+            "timestamp": "2023-12-03T11:48:55Z",
+            "version": 4,
+            "changeset": 144715943,
             "user": "\u0110uro Ji\u0159\u00ed",
             "uid": 14617702,
             "tags": {
-                "addr:city": "Cavallino",
-                "addr:postcode": "73020",
-                "addr:street": "Strada Statale 16 Adriatica",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
-                "operator": "Conad",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "opening_hours": "Mo-Sa 09:30-20:30; Su 09:30-13:30",
+                "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6974993145,
+            "lat": 40.3537761,
+            "lon": 18.1776215,
+            "timestamp": "2023-02-23T09:06:32Z",
+            "version": 2,
+            "changeset": 132914899,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "44a",
+                "addr:street": "Via Salvatore Trinchese",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6991022907,
+            "lat": 40.4461236,
+            "lon": 17.735207,
+            "timestamp": "2025-06-10T09:58:50Z",
+            "version": 2,
+            "changeset": 167436339,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "tags": {
+                "addr:city": "Erchie",
+                "addr:housenumber": "92",
+                "addr:postcode": "72020",
+                "addr:street": "Via Prov.le Erchie",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "internet_access": "yes",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-13:00,17:00-21:00; Su 08:00-13:00; ",
+                "phone": "0831 759102",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-provle-erchie-torre-ss-92-snc-72020-erchie--007831"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7152286011,
+            "lat": 40.6359791,
+            "lon": 17.9430051,
+            "timestamp": "2022-07-03T12:53:50Z",
+            "version": 9,
+            "changeset": 123150429,
+            "user": "Ale_Zena_IT",
+            "uid": 22290,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "organic": "unknown",
+                "second_hand": "no",
+                "shop": "department_store",
+                "start_date": "2020-11-26",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7522008332,
+            "lat": 40.7042973,
+            "lon": 17.6637988,
+            "timestamp": "2020-05-15T09:47:45Z",
+            "version": 1,
+            "changeset": 85251808,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7522008339,
+            "lat": 40.7107589,
+            "lon": 17.6590781,
+            "timestamp": "2020-05-15T09:47:45Z",
+            "version": 1,
+            "changeset": 85251808,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7522774533,
+            "lat": 40.2631647,
+            "lon": 17.9004133,
+            "timestamp": "2020-05-15T12:45:59Z",
+            "version": 1,
+            "changeset": 85262131,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7522774535,
+            "lat": 40.2560565,
+            "lon": 17.9051858,
+            "timestamp": "2023-12-04T09:07:45Z",
+            "version": 2,
+            "changeset": 144744527,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7960840686,
+            "lat": 40.3367338,
+            "lon": 18.1778628,
+            "timestamp": "2025-03-17T13:13:17Z",
+            "version": 2,
+            "changeset": 163731690,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8365490751,
+            "lat": 40.6227173,
+            "lon": 17.9171374,
+            "timestamp": "2023-11-26T06:58:15Z",
+            "version": 3,
+            "changeset": 144461296,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8493001139,
+            "lat": 40.4875721,
+            "lon": 18.0514102,
+            "timestamp": "2025-01-13T16:21:37Z",
+            "version": 2,
+            "changeset": 161316348,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {
@@ -443,6 +1296,35 @@
         },
         {
             "type": "node",
+            "id": 9229593177,
+            "lat": 40.6180171,
+            "lon": 17.9015463,
+            "timestamp": "2023-11-26T17:29:32Z",
+            "version": 5,
+            "changeset": 144479410,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "air_conditioning": "yes",
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "check_date": "2023-07-07",
+                "clothes": "women;men;children",
+                "currency:EUR": "yes",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "level": "0",
+                "name": "H&M",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "clothes",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9312694973,
             "lat": 40.4904917,
             "lon": 17.6528245,
@@ -464,6 +1346,108 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "no",
                 "survey:date": "2025-05-19"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9715977424,
+            "lat": 40.3777448,
+            "lon": 18.0532243,
+            "timestamp": "2024-08-01T08:15:40Z",
+            "version": 2,
+            "changeset": 154681292,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:street": "Via Luigi Cadorna",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-13:30,16:30-20:30; Su 08:30-12:30",
+                "phone": "+39 0832 714078",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10796849636,
+            "lat": 40.5542805,
+            "lon": 17.7156627,
+            "timestamp": "2023-07-11T14:45:56Z",
+            "version": 2,
+            "changeset": 138384102,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10879204658,
+            "lat": 40.3525486,
+            "lon": 18.1823121,
+            "timestamp": "2025-03-17T11:53:26Z",
+            "version": 2,
+            "changeset": 163728385,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "addr:housenumber": "15",
+                "addr:street": "Via Giuseppe Zanardelli",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10982416083,
+            "lat": 40.3562655,
+            "lon": 18.1847357,
+            "timestamp": "2024-12-31T01:22:46Z",
+            "version": 3,
+            "changeset": 160816061,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "3a",
+                "addr:street": "Viale Japigia",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:15-20:30",
+                "phone": "0832 396916",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-viale-japigia-3-a-73100-lecce--009564"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11033049430,
+            "lat": 40.6191098,
+            "lon": 17.9028594,
+            "timestamp": "2023-11-26T17:36:51Z",
+            "version": 4,
+            "changeset": 144479410,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "check_date": "2023-07-07",
+                "level": "0",
+                "name": "Tezenis",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -521,23 +1505,169 @@
         },
         {
             "type": "node",
-            "id": 11378022881,
-            "lat": 40.6184381,
-            "lon": 17.9020525,
-            "timestamp": "2025-04-21T08:38:09Z",
-            "version": 4,
-            "changeset": 165226320,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "id": 11365056262,
+            "lat": 40.482166,
+            "lon": 18.0044272,
+            "timestamp": "2025-03-17T17:08:08Z",
+            "version": 3,
+            "changeset": 163741809,
+            "user": "evillz",
+            "uid": 22552063,
             "tags": {
-                "addr:city": "Mesagne",
-                "addr:postcode": "72100",
-                "addr:street": "Strada per lo Spada",
-                "brand": "Intimissimi",
-                "clothes": "underwear",
-                "name": "Intimissimi",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11373953499,
+            "lat": 40.5805332,
+            "lon": 17.837017,
+            "timestamp": "2025-04-02T11:10:03Z",
+            "version": 4,
+            "changeset": 164415956,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11373959499,
+            "lat": 40.5806314,
+            "lon": 17.8361556,
+            "timestamp": "2025-04-02T11:09:11Z",
+            "version": 4,
+            "changeset": 164415914,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11380217452,
+            "lat": 40.3761615,
+            "lon": 18.1451763,
+            "timestamp": "2023-12-28T14:36:31Z",
+            "version": 4,
+            "changeset": 145622950,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
-                "operator": "Intimissimi",
+                "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381146117,
+            "lat": 40.3373648,
+            "lon": 18.1775675,
+            "timestamp": "2023-11-28T10:17:43Z",
+            "version": 1,
+            "changeset": 144539475,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381297467,
+            "lat": 40.2932304,
+            "lon": 18.1976689,
+            "timestamp": "2024-04-04T22:06:09Z",
+            "version": 5,
+            "changeset": 149589372,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "name": "PittaRosso",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381305670,
+            "lat": 40.2927903,
+            "lon": 18.1980014,
+            "timestamp": "2024-04-04T22:06:09Z",
+            "version": 4,
+            "changeset": 149589372,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381305680,
+            "lat": 40.2942369,
+            "lon": 18.1971976,
+            "timestamp": "2024-04-04T22:06:09Z",
+            "version": 5,
+            "changeset": 149589372,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "houseware",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381305690,
+            "lat": 40.2927743,
+            "lon": 18.1976293,
+            "timestamp": "2024-12-09T10:19:56Z",
+            "version": 4,
+            "changeset": 160085916,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "OVS Kids",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "name": "OVS Kids",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "clothes",
                 "wheelchair": "yes"
             }
@@ -577,6 +1707,23 @@
         },
         {
             "type": "node",
+            "id": 11691248109,
+            "lat": 40.1776512,
+            "lon": 18.0347464,
+            "timestamp": "2025-01-10T09:34:54Z",
+            "version": 2,
+            "changeset": 161197634,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11775351701,
             "lat": 40.5281371,
             "lon": 17.5842733,
@@ -601,6 +1748,59 @@
                 "phone": "+39 32 8151 6560",
                 "tourism": "guest_house",
                 "website": "https://www.vacation-bookings.com/d/54687750?locale=it_IT&utm_source=web_share&utm_term=CLIPBOARD"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11850848522,
+            "lat": 40.6303044,
+            "lon": 17.9339908,
+            "timestamp": "2024-10-16T15:21:09Z",
+            "version": 2,
+            "changeset": 157970266,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11947130955,
+            "lat": 40.7249319,
+            "lon": 17.5821409,
+            "timestamp": "2025-04-08T16:27:25Z",
+            "version": 3,
+            "changeset": 164687538,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-13:30, 17:00-21:00; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12033823168,
+            "lat": 40.1799235,
+            "lon": 18.0338595,
+            "timestamp": "2025-01-10T09:34:54Z",
+            "version": 2,
+            "changeset": 161197634,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -655,6 +1855,84 @@
                 "payment:onchain": "yes",
                 "rooms": "3",
                 "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12492983950,
+            "lat": 40.4520745,
+            "lon": 17.5082328,
+            "timestamp": "2025-01-16T16:32:11Z",
+            "version": 3,
+            "changeset": 161425441,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "tags": {
+                "addr:city": "San Marzano di San Giuseppe",
+                "addr:housenumber": "133",
+                "addr:postcode": "74020",
+                "addr:street": "Via Vittorio Emanuele",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "phone": "+39 0999571044",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-vittorio-emanuele-133-74020-san-marzano-di-san-giuseppe--007603",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12507298140,
+            "lat": 40.4542975,
+            "lon": 17.509635,
+            "timestamp": "2025-01-16T16:32:11Z",
+            "version": 1,
+            "changeset": 161425441,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "tags": {
+                "addr:city": "San Marzano di San Giuseppe",
+                "addr:housenumber": "18",
+                "addr:postcode": "74020",
+                "addr:street": "Via Archita",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 7:30-20:30; Su 08:00-13:00",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39  099 9574231",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-archita-18-74020-san-marzano-di-san-giuseppe--007814",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12558788947,
+            "lat": 40.5246097,
+            "lon": 17.584131,
+            "timestamp": "2025-02-05T12:34:16Z",
+            "version": 1,
+            "changeset": 162163610,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "tags": {
+                "addr:city": "Francavilla Fontana",
+                "addr:housenumber": "54",
+                "addr:postcode": "72021",
+                "addr:street": "Viale V. Lilla",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:30-20:30; Su off; ",
+                "phone": "+39 08311622919",
+                "shop": "clothes",
+                "website": "https://www.intimissimi.com/it/negozi/puglia/brindisi/francavilla_fontana_viale_vincenzo_lilla_54/8557.html"
             }
         },
         {
@@ -822,6 +2100,23 @@
         },
         {
             "type": "node",
+            "id": 12736827773,
+            "lat": 40.635776,
+            "lon": 17.9360182,
+            "timestamp": "2025-04-07T15:28:57Z",
+            "version": 1,
+            "changeset": 164640620,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 12748254096,
             "lat": 40.3410681,
             "lon": 18.1611092,
@@ -865,25 +2160,6 @@
                 "craft": "watchmaker",
                 "currency:XBT": "yes",
                 "name": "Il Tempio dell'orologeria"
-            }
-        },
-        {
-            "type": "node",
-            "id": 12923064735,
-            "lat": 40.3432509,
-            "lon": 18.1609172,
-            "timestamp": "2025-06-18T11:27:22Z",
-            "version": 1,
-            "changeset": 167777856,
-            "user": "Alessandro Nuzzo",
-            "uid": 18540025,
-            "tags": {
-                "access": "customers",
-                "amenity": "parking",
-                "fee": "no",
-                "operator": "Conad",
-                "parking": "surface",
-                "surface": "asphalt"
             }
         },
         {
@@ -974,6 +2250,74 @@
         },
         {
             "type": "node",
+            "id": 13033816288,
+            "lat": 40.4044945,
+            "lon": 17.5634116,
+            "timestamp": "2025-09-23T10:31:59Z",
+            "version": 2,
+            "changeset": 172336291,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "addr:city": "Sava",
+                "addr:housenumber": "110",
+                "addr:postcode": "74028",
+                "addr:street": "Corso Umberto Primo",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "contact:facebook": "https://www.facebook.com/UnieuroSava/",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:30-20:30; Su off",
+                "phone": "+39 0999721890",
+                "shop": "electronics",
+                "website": "https://www.unieuro.it/online/negozi/Unieuro-Sava"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13049983345,
+            "lat": 40.4047786,
+            "lon": 17.5588601,
+            "timestamp": "2025-09-23T10:31:59Z",
+            "version": 2,
+            "changeset": 172336291,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "addr:city": "Sava",
+                "addr:housenumber": "8",
+                "addr:postcode": "74028",
+                "addr:street": "Corso Umberto Primo",
+                "brand": "OVS Kids",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "contact:facebook": "https://www.facebook.com/OvsKidsSAVA/",
+                "name": "OVS Kids",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:30-20:00",
+                "phone": "+39 0996611660",
+                "shop": "clothes",
+                "website": "https://www.ovs.it/it/it/stores/italia/puglia/taranto/sava"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13056531974,
+            "lat": 40.5369996,
+            "lon": 17.4323213,
+            "timestamp": "2025-08-07T16:48:12Z",
+            "version": 1,
+            "changeset": 170112178,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
             "id": 13147022302,
             "lat": 40.3265789,
             "lon": 18.181288,
@@ -997,6 +2341,74 @@
                 "payment:onchain": "yes",
                 "phone": "+393663752677",
                 "sport": "calisthenics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 140856099,
+            "timestamp": "2023-11-27T17:26:07Z",
+            "version": 8,
+            "changeset": 144516769,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                1542278375,
+                1542278379,
+                1542278394,
+                1542278387,
+                1542278391,
+                1542278383,
+                1542278375
+            ],
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:postcode": "73100",
+                "addr:street": "Via Almirante Unit\u00e0 Italia",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "building": "retail",
+                "building:levels": "1",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:30-20:30",
+                "phone": "+39 0832 277986",
+                "ref:vatin": "IT11005760159",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "shop": "sports",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 278000428,
+            "timestamp": "2023-11-29T10:50:33Z",
+            "version": 9,
+            "changeset": 144581352,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                2824320017,
+                2824320018,
+                2824320019,
+                2824320020,
+                2824320017
+            ],
+            "tags": {
+                "addr:city": "San Foca",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Oil Service di Pedone Luigi",
+                "ref:mise": "15070",
+                "self_service": "yes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1039,6 +2451,109 @@
         },
         {
             "type": "way",
+            "id": 321120243,
+            "timestamp": "2023-07-14T17:07:50Z",
+            "version": 5,
+            "changeset": 138516600,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                3278374400,
+                3278374401,
+                3278374402,
+                3278374403,
+                3278374400
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Natale Emilio",
+                "ref:mise": "4967"
+            }
+        },
+        {
+            "type": "way",
+            "id": 346893105,
+            "timestamp": "2023-11-28T10:38:43Z",
+            "version": 8,
+            "changeset": 144542577,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                3533446241,
+                3533446240,
+                3533446237,
+                3533446233,
+                3533446235,
+                3533446231,
+                3533446232,
+                3533446241
+            ],
+            "tags": {
+                "addr:city": "Cavallino",
+                "addr:postcode": "73020",
+                "addr:street": "Via Maglie",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "ref:mise": "11093",
+                "self_service": "yes",
+                "source:date": "2018-04-16",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 355830378,
+            "timestamp": "2021-08-12T21:50:23Z",
+            "version": 6,
+            "changeset": 109595402,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                3613729132,
+                3613729133,
+                3613729134,
+                3613729137,
+                3613729138,
+                3613729136,
+                3613729135,
+                3613729125,
+                3613729122,
+                3613729119,
+                3613729113,
+                3613729106,
+                3613729111,
+                3613729123,
+                3613729132
+            ],
+            "tags": {
+                "addr:city": "Lecce",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Est Service S.r.l.",
+                "ref:mise": "15192"
+            }
+        },
+        {
+            "type": "way",
             "id": 387706241,
             "timestamp": "2025-08-02T05:36:37Z",
             "version": 5,
@@ -1071,6 +2586,68 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "phone": "0832726892"
+            }
+        },
+        {
+            "type": "way",
+            "id": 391009072,
+            "timestamp": "2025-03-17T13:13:17Z",
+            "version": 4,
+            "changeset": 163731690,
+            "user": "evillz",
+            "uid": 22552063,
+            "nodes": [
+                3941657109,
+                3037583098,
+                3037583108,
+                3898036262,
+                3941657120,
+                3037584058,
+                3037583931,
+                3941657119,
+                3941657109
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "De Vitis Pietro Luigi",
+                "ref:mise": "21316"
+            }
+        },
+        {
+            "type": "way",
+            "id": 394916003,
+            "timestamp": "2025-07-31T12:07:16Z",
+            "version": 2,
+            "changeset": 169767114,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "nodes": [
+                3978033811,
+                3978033669,
+                3978033689,
+                3978033707,
+                3978033659,
+                13039208289,
+                13039208290,
+                3978033849,
+                3978033830,
+                3978033811
+            ],
+            "tags": {
+                "addr:city": "Sava",
+                "addr:housenumber": "67",
+                "addr:postcode": "74028",
+                "addr:street": "Corso Francia",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Eurospar",
+                "shop": "supermarket"
             }
         },
         {
@@ -1109,62 +2686,514 @@
         },
         {
             "type": "way",
-            "id": 552636796,
-            "timestamp": "2018-01-13T07:54:09Z",
-            "version": 2,
-            "changeset": 55400165,
-            "user": "PMJx",
-            "uid": 4889506,
+            "id": 403720367,
+            "timestamp": "2025-07-11T10:01:48Z",
+            "version": 3,
+            "changeset": 168787258,
+            "user": "Begavil84",
+            "uid": 1725439,
             "nodes": [
-                5335305738,
-                5335305737,
-                5335305736,
-                5335305735,
-                5335305734,
-                5335305733,
-                5335305732,
-                5335305724,
-                5335305722,
-                5335305723,
-                5335305762,
-                5335305761,
-                5335305760,
-                5335305759,
-                5335305758,
-                5335305757,
-                5335305756,
-                5335305731,
-                5335305730,
-                5335305729,
-                5335305728,
-                5335305727,
-                5335305726,
-                5335305755,
-                5335305754,
-                5335305753,
-                5335305752,
-                5335305751,
-                5335305750,
-                5335305725,
-                5335305749,
-                5335305748,
-                5335305747,
-                5335305746,
-                5335305745,
-                5335305744,
-                5335305743,
-                5335305742,
-                5335305741,
-                5335305740,
-                5335305739,
-                5335305738
+                4060504005,
+                4060504040,
+                4060504041,
+                4060504007,
+                4060504005
             ],
             "tags": {
-                "building": "apartments",
-                "building:levels": "3",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 417702596,
+            "timestamp": "2023-10-29T15:08:34Z",
+            "version": 4,
+            "changeset": 143316429,
+            "user": "procuste",
+            "uid": 1211315,
+            "nodes": [
+                926355399,
+                4182003854,
+                4182003855,
+                4182003856,
+                4182003859,
+                4182003858,
+                926355399
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Fegi S.R.L.",
+                "ref:mise": "40418"
+            }
+        },
+        {
+            "type": "way",
+            "id": 420420626,
+            "timestamp": "2025-06-10T09:58:50Z",
+            "version": 2,
+            "changeset": 167436339,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "nodes": [
+                4203521683,
+                12901754141,
+                4203521461,
+                4203521439,
+                4203521441,
+                4203521464,
+                4203521465,
+                4203521501,
+                4203521542,
+                4203521536,
+                4203521632,
+                4203521683
+            ],
+            "tags": {
+                "addr:city": "Erchie",
+                "addr:housenumber": "92",
+                "addr:postcode": "72020",
+                "addr:street": "Via Prov.le Erchie",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 422357678,
+            "timestamp": "2023-11-26T07:08:07Z",
+            "version": 12,
+            "changeset": 144461326,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4220922258,
+                4220921724,
+                4220922594,
+                4220923503,
+                4220922258
+            ],
+            "tags": {
+                "addr:city": "Brindisi",
+                "addr:postcode": "72100",
+                "addr:street": "Strada Statale 7 Appia",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "building": "retail",
+                "building:levels": "1",
+                "check_date:opening_hours": "2023-11-26",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "phone": "0831 508255",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "shop": "sports",
+                "sport": "multi",
+                "survey:date": "2023-11-25",
+                "website": "https://www.decathlon.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 422908840,
+            "timestamp": "2019-10-29T14:07:51Z",
+            "version": 4,
+            "changeset": 76348767,
+            "user": "LorC",
+            "uid": 1545666,
+            "nodes": [
+                4226348837,
+                4226348730,
+                4226348743,
+                4226348844,
+                4226348837
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "operator": "San Ciro S.A.S. di Migiani Rita e C.",
+                "ref:mise": "20540"
+            }
+        },
+        {
+            "type": "way",
+            "id": 423860713,
+            "timestamp": "2023-02-26T07:44:15Z",
+            "version": 3,
+            "changeset": 133031583,
+            "user": "mastino0x14",
+            "uid": 18021392,
+            "nodes": [
+                4233784499,
+                4233784394,
+                4233784457,
+                4233784456,
+                4233784802,
+                4233784926,
+                4233784542,
+                4233784539,
+                4233784499
+            ],
+            "tags": {
+                "addr:city": "Galatina",
+                "addr:housenumber": "32",
+                "addr:postcode": "73013",
+                "addr:street": "via kennedy",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "industrial",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 424650569,
+            "timestamp": "2021-10-15T16:50:52Z",
+            "version": 2,
+            "changeset": 112550867,
+            "user": "alyssialugibello05",
+            "uid": 14296994,
+            "nodes": [
+                4240442897,
+                4240442933,
+                4240442861,
+                4240442868,
+                4240442873,
+                4240442887,
+                4240442916,
+                4240442934,
+                4240443259,
+                4240443256,
+                4240444033,
+                4240444024,
+                4240442897
+            ],
+            "tags": {
+                "addr:city": "Melendugno",
+                "addr:postcode": "73026",
+                "addr:street": "Via Fra' Giuseppe da Melendugno",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 425436891,
+            "timestamp": "2024-07-26T07:53:43Z",
+            "version": 3,
+            "changeset": 154429604,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                4247564484,
+                4247564443,
+                4247564451,
+                4247564407,
+                4247564434,
+                4247563649,
+                4247563638,
+                4247563484,
+                4247563473,
+                4247563443,
+                4247563395,
+                4247563413,
+                4247563405,
+                4247563460,
+                4247563429,
+                4247564308,
+                4247564334,
+                4247564379,
+                4247564391,
+                4247564428,
+                4247564484
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 425576107,
+            "timestamp": "2020-07-13T14:10:48Z",
+            "version": 3,
+            "changeset": 87928639,
+            "user": "corfede",
+            "uid": 1960233,
+            "nodes": [
+                4248606089,
+                4248606341,
+                4248607024,
+                4248607451,
+                7710921681,
+                7710921680,
+                4248608026,
+                4248608141,
+                7710921678,
+                7710921679,
+                4248606333,
+                4248606089
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "retail",
                 "name": "Conad City",
-                "opening_hours": "Mo,Tu,We,Fr,Sa 07:30-13:30,16:30-20:00; Th 07:30-13:30",
-                "operator": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 425642183,
+            "timestamp": "2025-03-17T13:13:17Z",
+            "version": 4,
+            "changeset": 163731690,
+            "user": "evillz",
+            "uid": 22552063,
+            "nodes": [
+                4249323234,
+                4249323236,
+                4249323235,
+                4249323233,
+                4249323234
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 489069732,
+            "timestamp": "2023-07-14T17:07:50Z",
+            "version": 4,
+            "changeset": 138516600,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4813505877,
+                4813505876,
+                4234807053,
+                4234807261,
+                4234807502,
+                4813505875,
+                4813505877
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Daversa Cosimo & Daversa Massimo Societ\u00e0 in Nome Collettivo",
+                "ref:mise": "11313"
+            }
+        },
+        {
+            "type": "way",
+            "id": 513538063,
+            "timestamp": "2019-10-05T15:33:52Z",
+            "version": 3,
+            "changeset": 75321644,
+            "user": "mascalzone67",
+            "uid": 1861652,
+            "nodes": [
+                5019558639,
+                5019558638,
+                5019558637,
+                5019558636,
+                5019558639
+            ],
+            "tags": {
+                "addr:city": "Monteroni di Lecce",
+                "addr:postcode": "73047",
+                "addr:street": "Dalla Lecce-Arnesano per Leverano",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:cng": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su, PH 07:00-12:00, 15:00-20:00",
+                "operator": "Ma.Mi. S.R.L.",
+                "phone": "+39 340 7655340",
+                "ref:mise": "41297"
+            }
+        },
+        {
+            "type": "way",
+            "id": 542260939,
+            "timestamp": "2023-11-27T15:21:00Z",
+            "version": 10,
+            "changeset": 144512383,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                5242719786,
+                5242719785,
+                5242719784,
+                5242719783,
+                5242719782,
+                5242719781,
+                5242719786
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "ref:mise": "33222",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 648830366,
+            "timestamp": "2025-06-03T13:47:40Z",
+            "version": 3,
+            "changeset": 167136597,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "nodes": [
+                6090647975,
+                6090647974,
+                6090647973,
+                6090647972,
+                6090647975
+            ],
+            "tags": {
+                "addr:city": "Brindisi",
+                "addr:housenumber": "46",
+                "addr:postcode": "72100",
+                "addr:street": "Via Dalmazia",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:30; Su 08:30-13:00",
+                "phone": "0831607885",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-dalmazia-angolo-via-moro-46-72100-brindisi--009599"
+            }
+        },
+        {
+            "type": "way",
+            "id": 993692675,
+            "timestamp": "2021-10-18T15:56:25Z",
+            "version": 1,
+            "changeset": 112659316,
+            "user": "corfede",
+            "uid": 1960233,
+            "nodes": [
+                4240443597,
+                4240443382,
+                4240442930,
+                4240442922,
+                4240443664,
+                4240443621,
+                4240443597
+            ],
+            "tags": {
+                "addr:city": "Melendugno",
+                "addr:postcode": "73026",
+                "addr:street": "Via Fra' Giuseppe da Melendugno",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1082084493,
+            "timestamp": "2023-08-30T14:47:13Z",
+            "version": 2,
+            "changeset": 140592958,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                9917040027,
+                9917040028,
+                9917040029,
+                11156218359,
+                9917040030,
+                9917040027
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "yes",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1282641672,
+            "timestamp": "2024-05-13T22:56:28Z",
+            "version": 2,
+            "changeset": 151288388,
+            "user": "Piersoft",
+            "uid": 1362028,
+            "nodes": [
+                11902406286,
+                11902406287,
+                11902406288,
+                11902406289,
+                11902406290,
+                11902406291,
+                11902406292,
+                11902406293,
+                11902406286
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Despar",
                 "shop": "supermarket"
             }
         },
@@ -1241,26 +3270,63 @@
         },
         {
             "type": "way",
-            "id": 1396196257,
-            "timestamp": "2025-06-18T11:27:22Z",
+            "id": 1410032264,
+            "timestamp": "2025-06-27T11:17:24Z",
             "version": 1,
-            "changeset": 167777856,
-            "user": "Alessandro Nuzzo",
-            "uid": 18540025,
+            "changeset": 168180584,
+            "user": "Begavil84",
+            "uid": 1725439,
             "nodes": [
-                12923064732,
-                12923064733,
-                12923064734,
-                12923064735,
-                12923064732
+                12956323515,
+                12956323516,
+                12956323517,
+                12956323518,
+                12956323519,
+                12956323520,
+                12956323515
             ],
             "tags": {
-                "access": "customers",
-                "amenity": "parking",
-                "fee": "no",
-                "operator": "Conad",
-                "parking": "surface",
-                "surface": "asphalt"
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1418320631,
+            "timestamp": "2025-07-29T12:28:43Z",
+            "version": 1,
+            "changeset": 169670076,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "nodes": [
+                3975027919,
+                13033816280,
+                13033816281,
+                13033816282,
+                13033816283,
+                13033816284,
+                13033816285,
+                13033816286,
+                13033816287,
+                3975027089,
+                3975027586,
+                13033816278,
+                13033816279,
+                3975027919
+            ],
+            "tags": {
+                "addr:city": "Sava",
+                "addr:housenumber": "110",
+                "addr:postcode": "74028",
+                "addr:street": "Corso Umberto I",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "building": "yes",
+                "name": "Unieuro",
+                "shop": "electronics"
             }
         }
     ],

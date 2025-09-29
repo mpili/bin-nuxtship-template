@@ -6,6 +6,31 @@
     "poi": [
         {
             "type": "node",
+            "id": 228011550,
+            "lat": 42.515393,
+            "lon": 11.1944697,
+            "timestamp": "2024-02-21T10:10:31Z",
+            "version": 8,
+            "changeset": 147726099,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Orbetello",
+                "addr:postcode": "58015",
+                "addr:street": "Via Aurelia",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "fuel:GTL_diesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Magarotto Roberto & Berardi Donatella - S.N.C.",
+                "ref:mise": "7314"
+            }
+        },
+        {
+            "type": "node",
             "id": 491586391,
             "lat": 43.1193902,
             "lon": 11.2356878,
@@ -47,6 +72,78 @@
         },
         {
             "type": "node",
+            "id": 1396067421,
+            "lat": 42.9214612,
+            "lon": 10.7569623,
+            "timestamp": "2023-07-18T13:33:55Z",
+            "version": 5,
+            "changeset": 138670263,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "9",
+                "addr:postcode": "58022",
+                "addr:street": "Via Roma",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "clothes": "underwear",
+                "entrance": "yes",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1814506650,
+            "lat": 42.9306193,
+            "lon": 10.5260661,
+            "timestamp": "2020-09-27T22:38:13Z",
+            "version": 4,
+            "changeset": 91599408,
+            "user": "Lllll0",
+            "uid": 10268239,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Ma.Be. S.N.C. di Pallecchi Massimiliano & C.",
+                "ref:mise": "42221"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2431750190,
+            "lat": 42.927349,
+            "lon": 10.7470123,
+            "timestamp": "2023-01-18T00:04:27Z",
+            "version": 10,
+            "changeset": 131400031,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "81b",
+                "addr:postcode": "58022",
+                "addr:street": "Via Litoranea",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "contact:phone": "+39 0566 44004",
+                "entrance": "yes",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:30-20:30; Su 08:00-20:30",
+                "shop": "supermarket",
+                "url": "https://www.conad.it/ricerca-negozi/conad-city-via-litoranea-81-58022-follonica--003702"
+            }
+        },
+        {
+            "type": "node",
             "id": 2488719223,
             "lat": 42.7606342,
             "lon": 11.1133712,
@@ -66,6 +163,153 @@
                 "name": "OVS",
                 "operator": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2497651517,
+            "lat": 43.0266618,
+            "lon": 10.6101762,
+            "timestamp": "2021-08-24T20:27:50Z",
+            "version": 3,
+            "changeset": 110192673,
+            "user": "Prt_An",
+            "uid": 1248925,
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "brand:wikipedia": "en:Expert (company)",
+                "name": "Expert",
+                "operator": "Bucciantini",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2556988981,
+            "lat": 42.7636079,
+            "lon": 11.1044637,
+            "timestamp": "2022-03-27T10:07:12Z",
+            "version": 5,
+            "changeset": 118974842,
+            "user": "iz5ufp",
+            "uid": 11331823,
+            "tags": {
+                "addr:city": "Grosseto",
+                "addr:housenumber": "21",
+                "addr:street": "Via Coclite",
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "brand:wikipedia": "fr:Carrefour (enseigne)",
+                "name": "Carrefour",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3102449701,
+            "lat": 42.4429784,
+            "lon": 11.2225797,
+            "timestamp": "2023-04-22T18:15:39Z",
+            "version": 3,
+            "changeset": 135238730,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3102616327,
+            "lat": 42.3937161,
+            "lon": 11.2040808,
+            "timestamp": "2020-06-11T17:00:10Z",
+            "version": 2,
+            "changeset": 86527869,
+            "user": "trekker48",
+            "uid": 961387,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:Spar (retailer)",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4069732167,
+            "lat": 42.7801098,
+            "lon": 11.1086457,
+            "timestamp": "2021-08-02T15:56:52Z",
+            "version": 4,
+            "changeset": 109041957,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "addr:city": "Grosseto",
+                "addr:street": "Via Senegal",
+                "branch": "Superstore",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4184895257,
+            "lat": 42.9193287,
+            "lon": 10.7633462,
+            "timestamp": "2023-01-18T00:04:27Z",
+            "version": 7,
+            "changeset": 131400031,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "14",
+                "addr:postcode": "58022",
+                "addr:street": "Via Spagna",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "contact:phone": "+39 0566 269783",
+                "entrance": "main",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 07:30-20:30; Su 07:30-20:00",
+                "shop": "supermarket",
+                "url": "https://www.conad.it/ricerca-negozi/conad-city-via-spagna-14-58022-follonica--006321"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4184898805,
+            "lat": 42.9202571,
+            "lon": 10.7728442,
+            "timestamp": "2024-05-24T13:28:39Z",
+            "version": 5,
+            "changeset": 151770125,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "58022",
+                "addr:street": "Via Praga",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:00; Su 08:00-13:00",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -99,65 +343,276 @@
         },
         {
             "type": "node",
-            "id": 4985963079,
-            "lat": 43.0258131,
-            "lon": 10.6097349,
-            "timestamp": "2025-04-19T08:12:43Z",
+            "id": 4370466793,
+            "lat": 42.7450701,
+            "lon": 11.1161623,
+            "timestamp": "2025-04-13T17:53:06Z",
+            "version": 7,
+            "changeset": 164906645,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Piazzi Gianni",
+                "ref:mise": "8477",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4372637140,
+            "lat": 42.9289215,
+            "lon": 11.2657995,
+            "timestamp": "2024-06-26T05:19:56Z",
+            "version": 6,
+            "changeset": 153183970,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:cng": "yes",
+                "fuel:lpg": "yes",
+                "name": "Eni",
+                "name:it": "Tamoil",
+                "operator": "Sirtam S.R.L.",
+                "ref:mise": "8297"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851831505,
+            "lat": 42.7782036,
+            "lon": 11.1005849,
+            "timestamp": "2023-09-10T04:58:20Z",
+            "version": 2,
+            "changeset": 141046931,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia Srl",
+                "ref:mise": "6572"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851836386,
+            "lat": 42.9288484,
+            "lon": 10.5203238,
+            "timestamp": "2024-03-17T14:58:29Z",
+            "version": 3,
+            "changeset": 148775994,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "35447",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851837511,
+            "lat": 42.3594239,
+            "lon": 10.9208761,
+            "timestamp": "2024-02-10T17:37:26Z",
+            "version": 2,
+            "changeset": 147301938,
+            "user": "Tag Upgrade Bot",
+            "uid": 20033850,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Bancala' Emanuele",
+                "ref:mise": "31928"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851837752,
+            "lat": 42.7597625,
+            "lon": 11.1224923,
+            "timestamp": "2024-04-09T15:27:45Z",
+            "version": 7,
+            "changeset": 149782630,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "compressed_air": "yes",
+                "name": "Q8",
+                "opening_hours": "24/7",
+                "operator": "Landi Giorgio",
+                "ref:mise": "30095",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851845540,
+            "lat": 42.7769303,
+            "lon": 11.1017946,
+            "timestamp": "2023-09-10T04:58:20Z",
+            "version": 2,
+            "changeset": 141046931,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "11613"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6492131758,
+            "lat": 42.9223618,
+            "lon": 10.7590249,
+            "timestamp": "2021-01-09T19:22:34Z",
+            "version": 3,
+            "changeset": 97225975,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "66",
+                "addr:postcode": "58022",
+                "addr:street": "Via Roma",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "entrance": "yes",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6496440359,
+            "lat": 42.9214963,
+            "lon": 10.7572695,
+            "timestamp": "2024-05-24T13:28:39Z",
+            "version": 4,
+            "changeset": 151770125,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "18",
+                "addr:postcode": "58022",
+                "addr:street": "Via Roma",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "entrance": "yes",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6742717285,
+            "lat": 42.9245442,
+            "lon": 10.5284133,
+            "timestamp": "2024-05-19T07:08:30Z",
+            "version": 3,
+            "changeset": 151521255,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "addr:housenumber": "38",
+                "addr:street": "Corso Italia",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7272893864,
+            "lat": 43.0265928,
+            "lon": 10.6104067,
+            "timestamp": "2023-04-11T12:46:22Z",
+            "version": 2,
+            "changeset": 134772685,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7272893865,
+            "lat": 43.0258473,
+            "lon": 10.6092217,
+            "timestamp": "2025-08-10T16:38:49Z",
             "version": 5,
-            "changeset": 165142040,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "changeset": 170254778,
+            "user": "steinm",
+            "uid": 35349,
             "tags": {
                 "addr:city": "Campiglia Marittima",
                 "addr:housenumber": "9",
                 "addr:postcode": "57021",
                 "addr:street": "Via dell'Agricoltura",
-                "amenity": "parking_entrance",
-                "covered": "yes",
-                "maxheight": "2.10",
-                "operator": "Conad",
-                "parking": "underground"
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "check_date": "2025-08-10",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:30; Su 07:30-20:00",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
             "type": "node",
-            "id": 7513623817,
-            "lat": 42.7648744,
-            "lon": 11.0996993,
-            "timestamp": "2020-05-13T07:50:53Z",
+            "id": 7422240103,
+            "lat": 42.923719,
+            "lon": 10.52797,
+            "timestamp": "2020-04-19T19:26:54Z",
             "version": 1,
-            "changeset": 85128388,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "changeset": 83783368,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
-                "addr:city": "Grosseto",
-                "addr:postcode": "58100",
-                "addr:street": "Via Clodia",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8309292130,
-            "lat": 42.8700036,
-            "lon": 11.5408238,
-            "timestamp": "2024-12-31T09:21:11Z",
-            "version": 2,
-            "changeset": 160824319,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Arcidosso",
-                "addr:housenumber": "76",
-                "addr:postcode": "58031",
-                "addr:street": "Via Risorgimento",
-                "name": "Conad Upim",
-                "operator": "Conad",
-                "shop": "supermarket"
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "shop": "clothes"
             }
         },
         {
@@ -222,25 +677,19 @@
         },
         {
             "type": "node",
-            "id": 9072284451,
-            "lat": 42.7621462,
-            "lon": 11.1331086,
-            "timestamp": "2025-04-19T08:58:21Z",
-            "version": 3,
-            "changeset": 165143619,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "id": 9078254949,
+            "lat": 42.7726187,
+            "lon": 11.1056093,
+            "timestamp": "2022-10-04T07:03:51Z",
+            "version": 2,
+            "changeset": 126975778,
+            "user": "feathered_ouul",
+            "uid": 16643939,
             "tags": {
-                "access": "customers",
-                "addr:city": "Grosseto",
-                "addr:postcode": "58100",
-                "addr:street": "Via Scansanese",
-                "amenity": "parking_entrance",
-                "capacity:disabled": "yes",
-                "level": "-1",
-                "name": "parcheggio clienti Conad",
-                "operator": "Conad",
-                "parking": "underground"
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
             }
         },
         {
@@ -331,6 +780,34 @@
         },
         {
             "type": "node",
+            "id": 10676157528,
+            "lat": 43.0485338,
+            "lon": 10.8938206,
+            "timestamp": "2025-03-14T15:12:41Z",
+            "version": 2,
+            "changeset": 163614217,
+            "user": "NicolaMW",
+            "uid": 15444043,
+            "tags": {
+                "addr:city": "Massa Marittima",
+                "addr:postcode": "58024",
+                "addr:street": "Via Antonio Gramsci",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "check_date:opening_hours": "2025-03-14",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:30, Su 08:00-20:00",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket",
+                "start_date": "2020-11-12",
+                "website": "https://www.conad.it/ricerca-negozi/negozio.010151.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 10974559676,
             "lat": 42.9387386,
             "lon": 11.2837042,
@@ -389,6 +866,23 @@
         },
         {
             "type": "node",
+            "id": 11806829583,
+            "lat": 42.7619067,
+            "lon": 10.8795319,
+            "timestamp": "2024-04-10T09:59:14Z",
+            "version": 1,
+            "changeset": 149808785,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11980315851,
             "lat": 42.7652105,
             "lon": 10.8723377,
@@ -417,6 +911,83 @@
                 "survey:date": "2024-11-03",
                 "tourism": "apartment",
                 "website": "https://www.airbnb.it/rooms/911401039919882337?guests=1&adults=1&s=67&unique_share_id=773655d3-2be8-484c-80b5-0cbaee021789"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13061568115,
+            "lat": 42.437735,
+            "lon": 11.2103441,
+            "timestamp": "2025-08-10T10:25:04Z",
+            "version": 1,
+            "changeset": 170237051,
+            "user": "natolh",
+            "uid": 641880,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13061568117,
+            "lat": 42.4382131,
+            "lon": 11.2111396,
+            "timestamp": "2025-08-10T10:25:04Z",
+            "version": 1,
+            "changeset": 170237051,
+            "user": "natolh",
+            "uid": 641880,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13061568124,
+            "lat": 42.4381933,
+            "lon": 11.2110826,
+            "timestamp": "2025-08-10T10:25:04Z",
+            "version": 1,
+            "changeset": 170237051,
+            "user": "natolh",
+            "uid": 641880,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13179783046,
+            "lat": 42.43938,
+            "lon": 11.1155157,
+            "timestamp": "2025-09-29T07:28:54Z",
+            "version": 1,
+            "changeset": 172597292,
+            "user": "white_sheep",
+            "uid": 21982929,
+            "tags": {
+                "addr:city": "Porto Santo Stefano",
+                "addr:housenumber": "15",
+                "addr:postcode": "58019",
+                "addr:street": "Piazzle dei Rioni",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "contact:instagram": "https://www.instagram.com/calzedonia.portosantostefano?igsh=MWtyYmo1OWUwcXZsaQ%3D%3D&utm_source=qr",
+                "name": "Calzedonia",
+                "opening_hours": "Mattina 10:00 - 13:00 Pomeriggio 17:00 - 23:30",
+                "phone": "+393519781437",
+                "shop": "clothes"
             }
         },
         {
@@ -453,6 +1024,35 @@
         },
         {
             "type": "way",
+            "id": 167160368,
+            "timestamp": "2024-03-17T14:58:29Z",
+            "version": 5,
+            "changeset": 148775994,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "nodes": [
+                1785636500,
+                1785636488,
+                1785636460,
+                1785636493,
+                1785636500
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "6565",
+                "source": "MISE - Ministero Sviluppo Economico",
+                "source:date": "2018-04-16"
+            }
+        },
+        {
+            "type": "way",
             "id": 202188978,
             "timestamp": "2024-12-19T22:12:51Z",
             "version": 5,
@@ -475,30 +1075,6 @@
                 "height": "7",
                 "name": "Mondo Convenienza",
                 "shop": "furniture"
-            }
-        },
-        {
-            "type": "way",
-            "id": 568452478,
-            "timestamp": "2023-02-18T13:07:24Z",
-            "version": 8,
-            "changeset": 132714225,
-            "user": "frasty",
-            "uid": 549825,
-            "nodes": [
-                5468865733,
-                8423923190,
-                8423923191,
-                8524799307,
-                5468866007,
-                10676157541,
-                5468866054,
-                5468865733
-            ],
-            "tags": {
-                "building": "retail",
-                "building:levels": "1",
-                "operator": "Conad"
             }
         },
         {
@@ -539,32 +1115,424 @@
         },
         {
             "type": "relation",
-            "id": 13181779,
-            "timestamp": "2021-09-08T01:03:31Z",
-            "version": 1,
-            "changeset": 110883694,
+            "id": 12602936,
+            "timestamp": "2024-06-21T15:42:05Z",
+            "version": 4,
+            "changeset": 152998394,
             "user": "frasty",
             "uid": 549825,
             "members": [
                 {
-                    "type": "node",
-                    "ref": 9072315515,
-                    "role": ""
+                    "type": "way",
+                    "ref": 932266385,
+                    "role": "outer"
                 },
                 {
-                    "type": "node",
-                    "ref": 9072284451,
-                    "role": ""
+                    "type": "way",
+                    "ref": 742020381,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 932629908,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 932629909,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 932629907,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 932629906,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 932266408,
+                    "role": "outer"
                 }
             ],
             "tags": {
-                "amenity": "parking",
-                "capacity:disabled": "yes",
-                "name": "parcheggio clienti Conad",
-                "operator": "Conad",
-                "parking": "underground",
-                "site": "parking",
-                "type": "site"
+                "addr:city": "Follonica",
+                "addr:housename": "Centro Commerciale Coop",
+                "addr:postcode": "58022",
+                "addr:street": "Via Mario Chirici",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "clothes": "children;babies",
+                "indoor": "room",
+                "level": "0",
+                "name": "Blukids",
+                "note": "this is a clothing store named Blukids, not a UPIM department_store",
+                "opening_hours": "Mo-Sa 09:00-13:00, 16:00-20:00; Su, PH off",
+                "operator": "UPIM",
+                "shop": "clothes",
+                "start_date": "2021-09",
+                "type": "multipolygon",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 13302683,
+            "timestamp": "2023-06-12T22:33:42Z",
+            "version": 3,
+            "changeset": 137262326,
+            "user": "frasty",
+            "uid": 549825,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 991006691,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 520134996,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "en:OVS (company)",
+                "name": "OVS",
+                "opening_hours": "Mo-Su,PH 09:00-20:30",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 13302689,
+            "timestamp": "2024-10-08T17:21:52Z",
+            "version": 6,
+            "changeset": 157637594,
+            "user": "frasty",
+            "uid": 549825,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 991006703,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991370051,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991370122,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991006700,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991006702,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991370081,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991006706,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991006704,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "indoor": "room",
+                "level": "0",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "sports",
+                "type": "multipolygon",
+                "website": "https://www.decathlon.it/store-view/-grosseto-0070152401524",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 13308293,
+            "timestamp": "2023-06-12T22:33:42Z",
+            "version": 3,
+            "changeset": 137262326,
+            "user": "frasty",
+            "uid": 549825,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 991588926,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588951,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588950,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "clothes": "underwear;women",
+                "indoor": "room",
+                "level": "0",
+                "name": "Calzedonia",
+                "opening_hours": "Mo-Su,PH 09:00-20:30",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 13308294,
+            "timestamp": "2024-10-16T16:36:30Z",
+            "version": 4,
+            "changeset": 157973846,
+            "user": "DnaX",
+            "uid": 69259,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 991588954,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588925,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588951,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588949,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588906,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588955,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "brand:wikipedia": "ru:Tezenis",
+                "clothes": "women;underwear;swimwear;men;children",
+                "indoor": "room",
+                "level": "0",
+                "name": "Tezenis",
+                "opening_hours": "Mo-Su,PH 09:00-20:30",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 13308302,
+            "timestamp": "2024-05-15T11:36:19Z",
+            "version": 3,
+            "changeset": 151356266,
+            "user": "DnaX",
+            "uid": 69259,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 991588916,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588960,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588908,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588959,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "indoor": "room",
+                "level": "0",
+                "name": "Kasanova",
+                "opening_hours": "Mo-Su,PH 09:00-20:30",
+                "shop": "houseware",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 13308306,
+            "timestamp": "2023-06-12T22:33:42Z",
+            "version": 3,
+            "changeset": 137262326,
+            "user": "frasty",
+            "uid": 549825,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 991588913,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991370115,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991370114,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588911,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 991588932,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "en:Intimissimi",
+                "clothes": "underwear",
+                "indoor": "room",
+                "level": "0",
+                "name": "Intimissimi",
+                "opening_hours": "Mo-Su,PH 09:00-20:30",
+                "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 15613961,
+            "timestamp": "2024-05-15T11:40:22Z",
+            "version": 4,
+            "changeset": 151356491,
+            "user": "DnaX",
+            "uid": 69259,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 1155114816,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 1155114815,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 1155114762,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 298765341,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "indoor": "room",
+                "level": "0",
+                "name": "Kasanova",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "houseware",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 15613967,
+            "timestamp": "2023-03-18T00:07:10Z",
+            "version": 3,
+            "changeset": 133807962,
+            "user": "frasty",
+            "uid": 549825,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 1155114828,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 298765347,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 1155114827,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 1155114825,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "indoor": "area",
+                "level": "0",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "phone": "+39 0564 395111",
+                "shop": "electronics",
+                "type": "multipolygon"
             }
         }
     ],

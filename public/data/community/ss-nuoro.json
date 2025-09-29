@@ -12,26 +12,6 @@
     "poi": [
         {
             "type": "node",
-            "id": 226951843,
-            "lat": 40.025384,
-            "lon": 9.168579,
-            "timestamp": "2025-06-02T08:16:01Z",
-            "version": 7,
-            "changeset": 167080105,
-            "user": "kr\u00e4ckel",
-            "uid": 1092114,
-            "tags": {
-                "addr:city": "Tonara",
-                "addr:postcode": "08039",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q4119207",
-                "name": "Q8",
-                "operator": "Q8"
-            }
-        },
-        {
-            "type": "node",
             "id": 775971539,
             "lat": 40.3276157,
             "lon": 9.3393533,
@@ -55,12 +35,49 @@
         },
         {
             "type": "node",
+            "id": 2980798190,
+            "lat": 40.4381179,
+            "lon": 9.7661402,
+            "timestamp": "2022-10-18T13:43:39Z",
+            "version": 3,
+            "changeset": 127728704,
+            "user": "habi",
+            "uid": 15671,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3465129683,
+            "lat": 40.2815326,
+            "lon": 9.6312265,
+            "timestamp": "2024-10-20T16:57:23Z",
+            "version": 5,
+            "changeset": 158137440,
+            "user": "Aebo",
+            "uid": 6311454,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "opening_hours": "Mo-Su 07:00-20:30",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4207201109,
             "lat": 40.32105,
             "lon": 9.3312468,
-            "timestamp": "2025-04-20T20:53:57Z",
-            "version": 5,
-            "changeset": 165212102,
+            "timestamp": "2025-09-29T07:24:22Z",
+            "version": 6,
+            "changeset": 172597130,
             "user": "btcitnet",
             "uid": 22525435,
             "tags": {
@@ -70,6 +87,7 @@
                 "addr:street": "Corso Giuseppe Garibaldi",
                 "brand": "Calzedonia",
                 "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "it:Oniverse",
                 "clothes": "underwear",
                 "name": "Calzedonia",
                 "operator": "Calzedonia",
@@ -77,6 +95,31 @@
                 "shop": "clothes",
                 "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
                 "website": "https://it.calzedonia.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4207229094,
+            "lat": 40.3210743,
+            "lon": 9.3326541,
+            "timestamp": "2024-03-16T08:46:03Z",
+            "version": 5,
+            "changeset": 148721259,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Nuoro",
+                "addr:housenumber": "133",
+                "addr:postcode": "08100",
+                "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "underwear;swimwear",
+                "name": "Tezenis",
+                "phone": "+39 0784 32855",
+                "shop": "clothes",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
+                "website": "https://it.tezenis.com/"
             }
         },
         {
@@ -102,6 +145,61 @@
                 "shop": "clothes",
                 "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
                 "website": "https://it.intimissimi.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5416474948,
+            "lat": 40.2470574,
+            "lon": 9.1792366,
+            "timestamp": "2022-09-30T09:10:32Z",
+            "version": 2,
+            "changeset": 126813734,
+            "user": "woy_cb",
+            "uid": 284094,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Masini Simone",
+                "ref:mise": "21036"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5416491817,
+            "lat": 40.0659853,
+            "lon": 8.9477038,
+            "timestamp": "2022-09-26T11:44:22Z",
+            "version": 2,
+            "changeset": 126652327,
+            "user": "woy_cb",
+            "uid": 284094,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Sulis Alessandra",
+                "ref:mise": "34441"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5879448885,
+            "lat": 40.3160895,
+            "lon": 9.3207558,
+            "timestamp": "2024-03-16T08:44:13Z",
+            "version": 2,
+            "changeset": 148721194,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {
@@ -160,23 +258,24 @@
         },
         {
             "type": "node",
-            "id": 7503750848,
-            "lat": 40.324457,
-            "lon": 9.3136797,
-            "timestamp": "2020-05-10T15:49:38Z",
-            "version": 1,
-            "changeset": 84976671,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "id": 9877578139,
+            "lat": 40.5870649,
+            "lon": 9.0013852,
+            "timestamp": "2023-06-24T18:24:30Z",
+            "version": 2,
+            "changeset": 137730975,
+            "user": "Linfindel",
+            "uid": 12507004,
             "tags": {
-                "addr:city": "Nuoro",
-                "addr:postcode": "08100",
-                "addr:street": "Via Biscollai",
-                "amenity": "pharmacy",
-                "dispensing": "no",
-                "healthcare": "pharmacy",
-                "name": "Parafarmacia Conad",
-                "operator": "Conad"
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Tamoil Sanna Mariarosa",
+                "ref:mise": "16288",
+                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -236,6 +335,80 @@
             }
         },
         {
+            "type": "node",
+            "id": 11190532436,
+            "lat": 40.5796881,
+            "lon": 9.7039487,
+            "timestamp": "2025-09-14T14:39:38Z",
+            "version": 2,
+            "changeset": 171921616,
+            "user": "mingo23",
+            "uid": 1902578,
+            "tags": {
+                "addr:city": "Siniscola",
+                "addr:postcode": "08029",
+                "addr:street": "Via Giacomo Matteotti",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "Juntos Srl",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 0784 267532",
+                "ref:vatin": "IT01607620919",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-matteotti-snc-08029-siniscola--010488"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11211802738,
+            "lat": 40.3242847,
+            "lon": 9.3296922,
+            "timestamp": "2024-03-16T08:49:06Z",
+            "version": 4,
+            "changeset": 148721344,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:postcode": "01800",
+                "addr:street": "Viale Europa",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "name:de": "CONAD",
+                "name:en": "CONAD",
+                "opening_hours": "Su-Fr 07:30-20:30; Sa 08:30-13:30",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12855173529,
+            "lat": 40.3947715,
+            "lon": 9.6330083,
+            "timestamp": "2025-05-22T10:27:27Z",
+            "version": 1,
+            "changeset": 166605865,
+            "user": "aboc",
+            "uid": 21696131,
+            "tags": {
+                "addr:city": "Galtell\u00ec",
+                "addr:postcode": "08020",
+                "addr:street": "Strada Statale 129 Trasversale Sarda",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:lpg": "yes",
+                "name": "Tamoil",
+                "operator": "Solinas Dario",
+                "ref:mise": "32223"
+            }
+        },
+        {
             "type": "way",
             "id": 62201186,
             "timestamp": "2024-08-09T18:42:00Z",
@@ -292,55 +465,149 @@
         },
         {
             "type": "way",
-            "id": 267200635,
-            "timestamp": "2025-05-19T07:27:21Z",
-            "version": 6,
-            "changeset": 166461028,
-            "user": "kr\u00e4ckel",
-            "uid": 1092114,
+            "id": 221232682,
+            "timestamp": "2022-02-08T07:40:46Z",
+            "version": 3,
+            "changeset": 117147499,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
             "nodes": [
-                2726703555,
-                2726703556,
-                2726703557,
-                2726703558,
-                2726703555
+                2302806482,
+                2302806481,
+                2302806474,
+                2302806472,
+                2302806466,
+                2302806464,
+                2302806446,
+                2302806448,
+                2302806468,
+                2302806470,
+                2302806482
             ],
             "tags": {
-                "addr:city": "Nuoro",
-                "addr:postcode": "08100",
-                "addr:street": "Via Lombardia",
+                "addr:city": "Macomer",
+                "addr:housenumber": "2",
+                "addr:postcode": "08015",
+                "addr:street": "Viale Antonio Gramsci",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 256132418,
+            "timestamp": "2025-05-14T10:29:26Z",
+            "version": 3,
+            "changeset": 166248073,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                2618277327,
+                2618277326,
+                2618277309,
+                2618277310,
+                2618277327
+            ],
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "building": "yes",
+                "name": "Expert",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 295518022,
+            "timestamp": "2023-09-23T07:44:14Z",
+            "version": 3,
+            "changeset": 141632019,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "nodes": [
+                2992505080,
+                2992505066,
+                2992505070,
+                2992505081,
+                2992505080
+            ],
+            "tags": {
+                "addr:city": "Sorgono",
+                "addr:postcode": "08038",
+                "addr:street": "Corso 4 Novembre",
                 "amenity": "fuel",
                 "brand": "Q8",
-                "brand:wikidata": "Q4119207",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "brand:wikidata": "Q1634762",
                 "name": "Q8",
-                "operator": "Q8",
-                "ref:mise": "6697",
+                "operator": "Arru Francesca",
+                "ref:mise": "33663",
                 "source:date": "2018-04-16"
             }
         },
         {
             "type": "way",
-            "id": 1212500811,
-            "timestamp": "2023-10-02T12:10:16Z",
-            "version": 1,
-            "changeset": 142036246,
-            "user": "dbrgn",
-            "uid": 317694,
+            "id": 296550184,
+            "timestamp": "2020-06-12T09:09:40Z",
+            "version": 2,
+            "changeset": 86556580,
+            "user": "giuseppec",
+            "uid": 2492839,
             "nodes": [
-                2370553432,
-                11233581401,
-                11233581402,
-                11233581403,
-                2370553432
+                3003441689,
+                3003441688,
+                3003441945,
+                3003441949,
+                3003442004,
+                3003442012,
+                3003441955,
+                3003441689
             ],
             "tags": {
-                "access": "customers",
-                "amenity": "parking",
-                "fee": "no",
-                "operator": "Despar",
-                "parking": "surface",
-                "surface": "asphalt"
+                "addr:street": "Viale Stazione",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 824931251,
+            "timestamp": "2025-03-19T15:31:16Z",
+            "version": 3,
+            "changeset": 163822942,
+            "user": "aboc",
+            "uid": 21696131,
+            "nodes": [
+                7702897294,
+                7702897295,
+                7702897296,
+                7702897297,
+                7702897294
+            ],
+            "tags": {
+                "addr:street": "Via Giacomo Matteotti",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "en:Tamoil",
+                "building": "roof",
+                "fuel:diesel": "yes",
+                "fuel:super": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Fronteddu Lorenzo & C. S.N.C.",
+                "ref:mise": "19967"
             }
         }
     ],

@@ -6,6 +6,50 @@
     "poi": [
         {
             "type": "node",
+            "id": 3263294786,
+            "lat": 35.8432155,
+            "lon": 14.5412616,
+            "timestamp": "2024-07-18T12:58:19Z",
+            "version": 4,
+            "changeset": 154100966,
+            "user": "samuelzammit",
+            "uid": 21459242,
+            "tags": {
+                "addr:city": "Marsaxlokk",
+                "addr:country": "MT",
+                "addr:postcode": "MXK9044",
+                "addr:street": "Triq I\u017c-\u017bejtun",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Spar",
+                "opening_hours": "Mo-Su 07:00-21:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5174220552,
+            "lat": 35.8742086,
+            "lon": 14.4483703,
+            "timestamp": "2022-03-29T21:14:08Z",
+            "version": 2,
+            "changeset": 119088889,
+            "user": "Strubbl",
+            "uid": 536583,
+            "tags": {
+                "branch": "Cucine",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Spar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
             "id": 5641889022,
             "lat": 35.9009144,
             "lon": 14.4892857,
@@ -37,6 +81,28 @@
         },
         {
             "type": "node",
+            "id": 5896564791,
+            "lat": 35.9095412,
+            "lon": 14.5073442,
+            "timestamp": "2024-11-18T14:02:18Z",
+            "version": 6,
+            "changeset": 159284847,
+            "user": "SloGIS",
+            "uid": 565483,
+            "tags": {
+                "addr:street": "Triq Tign\u00e9",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "en:SPAR (retailer)",
+                "name": "Spar",
+                "opening_hours": "Mo-Su 07:00-22:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 6037246303,
             "lat": 35.923766,
             "lon": 14.4892642,
@@ -62,6 +128,46 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6170511185,
+            "lat": 35.9095853,
+            "lon": 14.5057474,
+            "timestamp": "2020-12-23T10:57:29Z",
+            "version": 2,
+            "changeset": 96318686,
+            "user": "topius",
+            "uid": 2903947,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7058225070,
+            "lat": 35.8795988,
+            "lon": 14.4834665,
+            "timestamp": "2022-03-29T20:43:22Z",
+            "version": 3,
+            "changeset": 119088061,
+            "user": "Strubbl",
+            "uid": 536583,
+            "tags": {
+                "addr:street": "Triq It-tigrija Al, Qormi MRS 2912",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "description": "Sports and outdoors store",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+                "phone": "2095 9400",
+                "shop": "sports"
             }
         },
         {
@@ -195,6 +301,24 @@
         },
         {
             "type": "node",
+            "id": 10064536050,
+            "lat": 35.8991156,
+            "lon": 14.4922686,
+            "timestamp": "2025-06-27T12:39:03Z",
+            "version": 3,
+            "changeset": 168183986,
+            "user": "Gremxul_abjad",
+            "uid": 22320231,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 07:00-22:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 10300874313,
             "lat": 35.9036742,
             "lon": 14.4875202,
@@ -249,6 +373,25 @@
                 "shop": "hairdresser",
                 "survey:date": "2025-03-08",
                 "website": "https://www.planbbarber.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11343436970,
+            "lat": 35.950839,
+            "lon": 14.4122504,
+            "timestamp": "2024-02-10T14:09:27Z",
+            "version": 2,
+            "changeset": 147294121,
+            "user": "Tag Upgrade Bot",
+            "uid": 20033850,
+            "tags": {
+                "addr:street": "Triq ix-Xitwa",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Spar",
+                "opening_hours": "24/7",
+                "shop": "supermarket"
             }
         },
         {

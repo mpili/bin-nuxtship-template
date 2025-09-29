@@ -6,6 +6,42 @@
     "poi": [
         {
             "type": "node",
+            "id": 2092088318,
+            "lat": 36.9023027,
+            "lon": 15.1174924,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 9,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Interspar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2254952661,
+            "lat": 36.9204359,
+            "lon": 14.8225393,
+            "timestamp": "2024-10-11T22:13:51Z",
+            "version": 5,
+            "changeset": 157775019,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 2556522498,
             "lat": 36.8563032,
             "lon": 15.1094128,
@@ -22,6 +58,237 @@
                 "phone": "+39 338 7138087",
                 "tourism": "apartment",
                 "website": "https://www.hiresicily.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4159559071,
+            "lat": 37.0860248,
+            "lon": 14.7741748,
+            "timestamp": "2022-10-23T23:09:09Z",
+            "version": 3,
+            "changeset": 127975805,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "it:Tamoil",
+                "fuel:cng": "no",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "no",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Scollo Marco",
+                "ref:mise": "34251",
+                "self_service": "yes",
+                "source": "https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv",
+                "source:date": "2022-10-23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5003435318,
+            "lat": 37.0822836,
+            "lon": 15.2761887,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 12,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Eurospar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5273510522,
+            "lat": 36.7119325,
+            "lon": 15.0919299,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 9,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "opening_hours": "Mo-Su 08:00-13:00; Mo-Sa 17:00-20:00",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5308279706,
+            "lat": 37.4470401,
+            "lon": 15.0360675,
+            "timestamp": "2025-06-06T13:41:59Z",
+            "version": 5,
+            "changeset": 167267783,
+            "user": "GiovanniPen",
+            "uid": 21378857,
+            "tags": {
+                "amenity": "cafe",
+                "branch": "Ristorante",
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "cuisine": "coffee_shop",
+                "name": "IKEA Caf\u00e9",
+                "opening_hours": "Mo-Fr 12:00-15:00; Sa-Su11:30-16:00",
+                "takeaway": "yes",
+                "website": "https://www.ikea.com/it/it/store/catania/ristorante"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851837674,
+            "lat": 36.9167604,
+            "lon": 14.8207685,
+            "timestamp": "2022-10-23T23:09:09Z",
+            "version": 4,
+            "changeset": 127975805,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "brand:wikipedia": "it:Tamoil",
+                "fuel:cng": "no",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "no",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil Pienok",
+                "operator": "Tdm srl",
+                "ref:mise": "43487",
+                "self_service": "only",
+                "source": "https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv",
+                "source:date": "2022-10-23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5984033986,
+            "lat": 36.7195796,
+            "lon": 15.0971222,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 8,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Fr 08:30-14:00, 16:00-20:00; Sa 08:30-20:30; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6058232631,
+            "lat": 37.0601854,
+            "lon": 14.902485,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 6,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6136156366,
+            "lat": 37.0952075,
+            "lon": 15.2588143,
+            "timestamp": "2024-05-02T14:06:01Z",
+            "version": 9,
+            "changeset": 150796065,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6204633409,
+            "lat": 37.0850773,
+            "lon": 15.2891006,
+            "timestamp": "2023-11-02T23:46:26Z",
+            "version": 5,
+            "changeset": 143552715,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "it:Gruppo Calzedonia",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6211004452,
+            "lat": 37.1108863,
+            "lon": 15.2284398,
+            "timestamp": "2024-02-23T16:15:27Z",
+            "version": 13,
+            "changeset": 147823448,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "brand:wikipedia": "it:Foot Locker",
+                "clothes": "sports",
+                "name": "Foot Locker",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6211004453,
+            "lat": 37.1106254,
+            "lon": 15.2280938,
+            "timestamp": "2023-12-29T10:30:18Z",
+            "version": 7,
+            "changeset": 145653022,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "clothes": "underwear",
+                "name": "Calzedonia",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -44,6 +311,162 @@
                 "operator": "Intimissimi",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6211004458,
+            "lat": 37.1109523,
+            "lon": 15.2275955,
+            "timestamp": "2024-05-07T13:07:42Z",
+            "version": 18,
+            "changeset": 151010271,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "it:OVS",
+                "name": "Ovs",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6304756493,
+            "lat": 37.0705939,
+            "lon": 15.2847654,
+            "timestamp": "2022-12-03T02:47:20Z",
+            "version": 2,
+            "changeset": 129664406,
+            "user": "DiogoBaptista98",
+            "uid": 1193685,
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "name": "Chicco",
+                "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6434291536,
+            "lat": 37.0629148,
+            "lon": 15.2741933,
+            "timestamp": "2025-01-03T14:40:40Z",
+            "version": 4,
+            "changeset": 160952250,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro spa",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6546231341,
+            "lat": 37.0697512,
+            "lon": 15.2627311,
+            "timestamp": "2024-03-28T22:43:44Z",
+            "version": 8,
+            "changeset": 149290050,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "underwear;swimwear",
+                "level": "0",
+                "name": "Tezenis",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6546231367,
+            "lat": 37.0691365,
+            "lon": 15.2622561,
+            "timestamp": "2023-12-26T11:42:07Z",
+            "version": 6,
+            "changeset": 145530122,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "it:Gruppo Calzedonia",
+                "clothes": "underwear",
+                "level": "0",
+                "name": "Calzedonia",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6546231370,
+            "lat": 37.0692671,
+            "lon": 15.2628947,
+            "timestamp": "2023-12-26T11:42:07Z",
+            "version": 7,
+            "changeset": 145530122,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "H&M",
+                "brand:wikidata": "Q188326",
+                "brand:wikipedia": "it:H&M",
+                "level": "0",
+                "name": "H&M",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6590889885,
+            "lat": 37.2891173,
+            "lon": 14.9940146,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 7,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-13:00, 17:00-20:30",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6590889886,
+            "lat": 37.2683993,
+            "lon": 15.0115578,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 7,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-13:00, 17:00-20:30; Su 08:00-13:00",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
             }
         },
         {
@@ -73,20 +496,294 @@
         },
         {
             "type": "node",
-            "id": 7826354073,
-            "lat": 37.1115886,
-            "lon": 15.2285323,
-            "timestamp": "2025-04-19T14:15:59Z",
-            "version": 14,
-            "changeset": 165155820,
+            "id": 7629951745,
+            "lat": 37.0695382,
+            "lon": 15.2617648,
+            "timestamp": "2024-05-27T15:18:39Z",
+            "version": 19,
+            "changeset": 151904868,
             "user": "fayor",
             "uid": 743479,
             "tags": {
-                "name": "Parafarmacia Conad",
-                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
-                "operator": "Conad",
-                "shop": "chemist",
-                "wheelchair": "yes"
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "brand:wikipedia": "it:OVS",
+                "level": "0",
+                "name": "Ovs",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7776054676,
+            "lat": 37.0598302,
+            "lon": 14.9099996,
+            "timestamp": "2024-10-13T17:44:25Z",
+            "version": 8,
+            "changeset": 157846028,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7782537387,
+            "lat": 37.298499,
+            "lon": 14.9965431,
+            "timestamp": "2022-12-03T02:47:20Z",
+            "version": 2,
+            "changeset": 129664406,
+            "user": "DiogoBaptista98",
+            "uid": 1193685,
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "name": "Chicco",
+                "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7956459966,
+            "lat": 37.2974941,
+            "lon": 15.0084722,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8260811485,
+            "lat": 36.6805433,
+            "lon": 15.1317707,
+            "timestamp": "2025-01-27T17:31:47Z",
+            "version": 6,
+            "changeset": 161828096,
+            "user": "fabfab38",
+            "uid": 8493663,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Fr 07:30-13:30, 16:30-20:00; Sa 08:00-20:30; Su 08:00-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329092,
+            "lat": 37.1620266,
+            "lon": 15.0286451,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329093,
+            "lat": 36.7162429,
+            "lon": 15.0894897,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 4,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329094,
+            "lat": 37.119691,
+            "lon": 14.9374936,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329095,
+            "lat": 37.1053981,
+            "lon": 14.9472977,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329097,
+            "lat": 37.1254969,
+            "lon": 14.8516757,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329098,
+            "lat": 37.1572378,
+            "lon": 15.0275695,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 6,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad Margherita",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329099,
+            "lat": 37.1622981,
+            "lon": 15.0295249,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad Margherita",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329100,
+            "lat": 37.1635912,
+            "lon": 15.0355022,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262329101,
+            "lat": 37.164349,
+            "lon": 15.0376949,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 4,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262385821,
+            "lat": 37.222265,
+            "lon": 14.8680351,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8262385822,
+            "lat": 37.2294485,
+            "lon": 15.2228585,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 5,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "check_date": "2024-06-27",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {
@@ -109,6 +806,100 @@
                 "payment:onchain": "yes",
                 "phone": "+44 7894438974",
                 "website": "https://cryptolocalatm.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8739655885,
+            "lat": 37.111662,
+            "lon": 15.2290534,
+            "timestamp": "2023-12-29T10:43:35Z",
+            "version": 7,
+            "changeset": 145653022,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "shop": "houseware",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8776768527,
+            "lat": 37.0704321,
+            "lon": 15.2833934,
+            "timestamp": "2023-09-19T15:08:30Z",
+            "version": 4,
+            "changeset": 141473743,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9132399838,
+            "lat": 37.110853,
+            "lon": 15.2274623,
+            "timestamp": "2025-01-03T14:40:40Z",
+            "version": 8,
+            "changeset": 160952250,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "operator": "Unieuro spa",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9380538791,
+            "lat": 37.2987379,
+            "lon": 14.9987511,
+            "timestamp": "2025-01-06T19:01:36Z",
+            "version": 4,
+            "changeset": 161070923,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro spa",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9715965362,
+            "lat": 37.1107569,
+            "lon": 15.2279685,
+            "timestamp": "2024-02-22T20:16:44Z",
+            "version": 6,
+            "changeset": 147788268,
+            "user": "Tag Upgrade Bot",
+            "uid": 20033850,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "underwear;swimwear",
+                "name": "Tezenis",
+                "opening_hours": "Mo,Su 10:00-21:00; Tu-Sa 09:30-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -140,6 +931,146 @@
         },
         {
             "type": "node",
+            "id": 10224221000,
+            "lat": 37.4789216,
+            "lon": 15.0777858,
+            "timestamp": "2025-06-06T13:41:59Z",
+            "version": 4,
+            "changeset": 167267783,
+            "user": "GiovanniPen",
+            "uid": 21378857,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro spa",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425519,
+            "lat": 37.4712528,
+            "lon": 15.0485283,
+            "timestamp": "2024-01-09T20:19:40Z",
+            "version": 5,
+            "changeset": 146079470,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "clothes": "sports",
+                "level": "1",
+                "name": "Foot Locker",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425529,
+            "lat": 37.4719022,
+            "lon": 15.0488254,
+            "timestamp": "2024-01-09T19:28:00Z",
+            "version": 10,
+            "changeset": 146078109,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "level": "1",
+                "name": "Upim",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425530,
+            "lat": 37.4717549,
+            "lon": 15.0485661,
+            "timestamp": "2024-01-09T19:28:16Z",
+            "version": 9,
+            "changeset": 146078158,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "level": "1",
+                "name": "OVS",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425531,
+            "lat": 37.4715468,
+            "lon": 15.0482543,
+            "timestamp": "2025-01-07T16:53:29Z",
+            "version": 7,
+            "changeset": 161103345,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "level": "1",
+                "name": "Unieuro",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Unieuro spa",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425575,
+            "lat": 37.4718912,
+            "lon": 15.0494725,
+            "timestamp": "2024-01-11T19:21:49Z",
+            "version": 4,
+            "changeset": 146155696,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "level": "0",
+                "name": "Kasanova",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "houseware",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261425580,
+            "lat": 37.4710807,
+            "lon": 15.0483203,
+            "timestamp": "2024-01-12T20:19:43Z",
+            "version": 4,
+            "changeset": 146193907,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "level": "0",
+                "name": "Tezenis",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10261425627,
             "lat": 37.4698737,
             "lon": 15.0479306,
@@ -158,6 +1089,474 @@
                 "opening_hours": "Mo-Su 09:00-21:00",
                 "shop": "furniture",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577836077,
+            "lat": 37.1622799,
+            "lon": 14.754868,
+            "timestamp": "2023-10-24T17:48:57Z",
+            "version": 2,
+            "changeset": 143076746,
+            "user": "MapSpot",
+            "uid": 10183030,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577836093,
+            "lat": 37.16368,
+            "lon": 14.7609043,
+            "timestamp": "2023-10-24T17:48:57Z",
+            "version": 2,
+            "changeset": 143076746,
+            "user": "MapSpot",
+            "uid": 10183030,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11210306351,
+            "lat": 37.0892357,
+            "lon": 14.766227,
+            "timestamp": "2024-10-11T22:13:51Z",
+            "version": 3,
+            "changeset": 157775019,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-13:00,16:30-20:00; We 08:00-13:00",
+                "shop": "convenience",
+                "website": "https://desparsicilia.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11459714396,
+            "lat": 36.8840116,
+            "lon": 15.0776377,
+            "timestamp": "2024-10-23T16:08:28Z",
+            "version": 5,
+            "changeset": 158261224,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11492444715,
+            "lat": 36.9278554,
+            "lon": 14.8361242,
+            "timestamp": "2024-10-12T22:00:22Z",
+            "version": 2,
+            "changeset": 157814462,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11963665182,
+            "lat": 37.0626669,
+            "lon": 15.293164,
+            "timestamp": "2024-06-08T00:32:13Z",
+            "version": 1,
+            "changeset": 152396585,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "brand:wikipedia": "it:Intimissimi",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12085525269,
+            "lat": 37.2861185,
+            "lon": 15.0016071,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 2,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12244675062,
+            "lat": 36.7869016,
+            "lon": 14.9071048,
+            "timestamp": "2024-10-11T18:09:03Z",
+            "version": 1,
+            "changeset": 157768431,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad Margherita",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12244675081,
+            "lat": 36.786125,
+            "lon": 14.8991252,
+            "timestamp": "2024-10-11T18:09:03Z",
+            "version": 1,
+            "changeset": 157768431,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Su 08:00-13:00, 17:00-20:30",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12244675082,
+            "lat": 36.7843045,
+            "lon": 14.9029836,
+            "timestamp": "2024-10-11T18:09:03Z",
+            "version": 1,
+            "changeset": 157768431,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12245038025,
+            "lat": 37.0460947,
+            "lon": 14.7940933,
+            "timestamp": "2024-10-11T22:13:51Z",
+            "version": 1,
+            "changeset": 157775019,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "name": "Despar",
+                "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12638751245,
+            "lat": 37.0945117,
+            "lon": 15.2769222,
+            "timestamp": "2025-04-11T14:53:24Z",
+            "version": 4,
+            "changeset": 164820159,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-20:00",
+                "phone": "+39 0931 311422",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13176042404,
+            "lat": 37.1617936,
+            "lon": 15.0326107,
+            "timestamp": "2025-09-28T00:01:24Z",
+            "version": 1,
+            "changeset": 172547739,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Unieuro spa",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 52135634,
+            "timestamp": "2025-06-06T13:41:59Z",
+            "version": 16,
+            "changeset": 167267783,
+            "user": "GiovanniPen",
+            "uid": 21378857,
+            "nodes": [
+                1902740759,
+                1902740782,
+                1902740812,
+                1902740863,
+                1902740871,
+                1902740880,
+                1902740885,
+                1902740889,
+                1902740914,
+                1902740927,
+                664319809,
+                1902740926,
+                1902740917,
+                1902740895,
+                1902740913,
+                1902740922,
+                1902740923,
+                1902740916,
+                1902823585,
+                1902740879,
+                1902740838,
+                1902740794,
+                1902823399,
+                1902740771,
+                1902740739,
+                1902740729,
+                520410242,
+                1902860900,
+                664319806,
+                10925258045,
+                10925258044,
+                10925258043,
+                10925258042,
+                10925258041,
+                1902740759
+            ],
+            "tags": {
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "internet_access": "wlan",
+                "name": "IKEA",
+                "opening_hours": "Mo-Su 10:00-21:00",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "shop": "furniture",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.ikea.com/it/it/store/catania",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 178826006,
+            "timestamp": "2024-05-02T14:06:01Z",
+            "version": 10,
+            "changeset": 150796065,
+            "user": "fayor",
+            "uid": 743479,
+            "nodes": [
+                1891805761,
+                1891805766,
+                1891805764,
+                1891805765,
+                1891805760,
+                1891805757,
+                1891805759,
+                1891805755,
+                1891805761
+            ],
+            "tags": {
+                "branch": "Melilli",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "it:Decathlon (azienda)",
+                "building": "commercial",
+                "building:levels": "1",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:30-20:30",
+                "phone": "+39 0931 765626",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "shop": "sports",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 203237406,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 6,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "nodes": [
+                2132246497,
+                2132246489,
+                2132246484,
+                2132246478,
+                2132246491,
+                2132246495,
+                2132246410,
+                2132246412,
+                2132246497
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "building": "retail",
+                "check_date": "2024-01-02",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 503809054,
+            "timestamp": "2022-12-03T02:47:20Z",
+            "version": 3,
+            "changeset": 129664406,
+            "user": "DiogoBaptista98",
+            "uid": 1193685,
+            "nodes": [
+                4940649643,
+                4940649642,
+                4940649641,
+                4940649640,
+                4940649643
+            ],
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "building": "yes",
+                "name": "Chicco",
+                "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "way",
+            "id": 888703681,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 2,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "nodes": [
+                8262329105,
+                8262329104,
+                8262329103,
+                8262329102,
+                8262329105
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 888703683,
+            "timestamp": "2024-10-09T21:39:37Z",
+            "version": 2,
+            "changeset": 157690762,
+            "user": "fayor",
+            "uid": 743479,
+            "nodes": [
+                2920748819,
+                8262329113,
+                8262329111,
+                8262329110,
+                8262329112,
+                8262329116,
+                8262329115,
+                8262329114,
+                2920748819
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "brand:wikipedia": "it:Conad",
+                "building": "yes",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1389596661,
+            "timestamp": "2025-05-25T16:52:55Z",
+            "version": 1,
+            "changeset": 166743433,
+            "user": "fayor",
+            "uid": 743479,
+            "nodes": [
+                12862905221,
+                12862905145,
+                12862905146,
+                12862905220,
+                12862905219,
+                12862905218,
+                12862905221
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:SPAR",
+                "building": "supermarket",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-13:00, 17:00-20:00; Su 08:00-13:00",
+                "shop": "supermarket"
             }
         }
     ],
