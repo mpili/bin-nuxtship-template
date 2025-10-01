@@ -47,6 +47,8 @@ const {
 
       <OnwImmagine :pending="pending" :dbdata="dbdata" />
 
+      <!-- <WikidataLogo :data="data" /> -->
+
       <div v-if="data?.tags?.description" class="pb-4">
         {{ data?.tags?.description }}
       </div>
