@@ -131,6 +131,9 @@
 	<LMarker :lat-lng="[45.0535, 9.6947]">
 		<LPopup><NuxtLink to="/l/piacenza">Piacenza</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[43.70462, 10.39113]">
+		<LPopup><NuxtLink to="/l/pisa">Pisa</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.9628504, 12.6551973]">
 		<LPopup><NuxtLink to="/l/pordenone">Pordenone</NuxtLink></LPopup>
 	</LMarker>

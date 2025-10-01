@@ -53,9 +53,6 @@
 	<LMarker :lat-lng="[46.365271, 11.033176]">
 		<LPopup><NuxtLink to="/c/ss-cles">Satoshi Spritz Cles</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.36264, 9.68176]">
-		<LPopup><NuxtLink to="/c/ss-crema-cremona-lodi">Satoshi Spritz Crema Cremona Lodi</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[45.13637, 10.02835]">
 		<LPopup><NuxtLink to="/c/b-cremona">BitcoinCremona</NuxtLink></LPopup>
 	</LMarker>
@@ -68,11 +65,11 @@
 	<LMarker :lat-lng="[44.83599085, 11.61868934]">
 		<LPopup><NuxtLink to="/c/ss-ferrara">Bitcoin Ferrara</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[43.7695604, 11.2558136]">
-		<LPopup><NuxtLink to="/c/ss-firenze">Satoshi Spritz Firenze</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[43.7632, 11.2033]">
 		<LPopup><NuxtLink to="/c/bitcoin-firenze-toscana">Bitcoin Firenze & Toscana</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.7695604, 11.2558136]">
+		<LPopup><NuxtLink to="/c/ss-firenze">Satoshi Spritz Firenze</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.1844464, 12.135094]">
 		<LPopup><NuxtLink to="/c/bb-forli-cesena">Bitcoin Beer Forlì Cesena</NuxtLink></LPopup>
@@ -84,16 +81,22 @@
 		<LPopup><NuxtLink to="/c/bb-gargano">Bitcoin Beer Gargano</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.4046185, 8.9484919]">
-		<LPopup><NuxtLink to="/c/ss-genova">Satoshi Spritz Genova</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bitcoin-genova">Bitcoin Genova</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.4046185, 8.9484919]">
-		<LPopup><NuxtLink to="/c/bitcoin-genova">Bitcoin Genova</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/ss-genova">Satoshi Spritz Genova</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[41.673, 12.704]">
 		<LPopup><NuxtLink to="/c/bb-genzano-roma">Bitcoin Beer Genzano Roma</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[43.3186614, 11.3305135]">
+		<LPopup><NuxtLink to="/c/ss-toscana-sud">Satoshi Spritz Toscana-Sud</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.2922106, 13.9070363]">
 		<LPopup><NuxtLink to="/c/bb-istria">Bitcoin Beer Istria</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[40.39725, 17.92136]">
+		<LPopup><NuxtLink to="/c/salento-b">Salento Bitcoin</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.8365, 10.52112]">
 		<LPopup><NuxtLink to="/c/bb-lucca">Bitcoin Beer Lucca</NuxtLink></LPopup>
@@ -135,6 +138,9 @@
 		<LPopup><NuxtLink to="/c/ss-monza">Satoshi Spritz Monza</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[40.7951762, 14.3694801]">
+		<LPopup><NuxtLink to="/c/bb-paesi-vesuviani">Bitcoin Beer Paesi Vesuviani</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[40.7951762, 14.3694801]">
 		<LPopup><NuxtLink to="/c/bh-napoli">Bitcoin Hub Napoli</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[40.8517746, 14.2681244]">
@@ -152,9 +158,6 @@
 	<LMarker :lat-lng="[45.40692987, 11.87608719]">
 		<LPopup><NuxtLink to="/c/ss-padova">Satoshi Spritz Padova</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[40.7951762, 14.3694801]">
-		<LPopup><NuxtLink to="/c/bb-paesi-vesuviani">Bitcoin Beer Paesi Vesuviani</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[38.11569725, 13.36235675]">
 		<LPopup><NuxtLink to="/c/ss-palermo-e-sicilia-occ">Satoshi Spritz Palermo (e Sicilia Occidentale)</NuxtLink></LPopup>
 	</LMarker>
@@ -164,20 +167,20 @@
 	<LMarker :lat-lng="[45.052621, 9.692984]">
 		<LPopup><NuxtLink to="/c/ss-parma-e-piacenza">Satoshi Spritz Parma e Piacenza</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[43.90921, 12.9164]">
-		<LPopup><NuxtLink to="/c/ss-pesaro">Satoshi Spritz Pesaro</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[45.9628504, 12.6551973]">
 		<LPopup><NuxtLink to="/c/bitcoin-pordenone">Bitcoin Pordenone</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.70462, 10.39113]">
+		<LPopup><NuxtLink to="/c/pisa-bitcoin-meetup">Pisa Bitcoin Meetup</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.1802884, 13.7746607]">
 		<LPopup><NuxtLink to="/c/bitticcistation">Bitticci Station</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.8926686, 11.1049362]">
-		<LPopup><NuxtLink to="/c/ss-prato">Satoshi Spritz Prato</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bb-prato">BitcoinBeer Firenze-Prato</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[43.8926686, 11.1049362]">
-		<LPopup><NuxtLink to="/c/bb-prato">BitcoinBeer Firenze-Prato</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/ss-prato">Satoshi Spritz Prato</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[41.12559562, 16.86737016]">
 		<LPopup><NuxtLink to="/c/ss-puglia">Satoshi Spritz Puglia</NuxtLink></LPopup>
@@ -200,11 +203,8 @@
 	<LMarker :lat-lng="[45.8596, 11.0608]">
 		<LPopup><NuxtLink to="/c/ss-rovereto-e-trento">SatoshiSpritz Rovereto e Trento (TN)</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.07107288, 11.79007]">
-		<LPopup><NuxtLink to="/c/ss-rovigo">Satoshi Spritz Rovigo</NuxtLink></LPopup>
-	</LMarker>
-	<LMarker :lat-lng="[40.39725, 17.92136]">
-		<LPopup><NuxtLink to="/c/salento-b">Salento Bitcoin</NuxtLink></LPopup>
+	<LMarker :lat-lng="[39.214934, 9.119673]">
+		<LPopup><NuxtLink to="/c/b-sardegna">Associazione Bitcoin Sardegna</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/c/ss-savona">Satoshi Spritz Savona</NuxtLink></LPopup>
@@ -221,9 +221,6 @@
 	<LMarker :lat-lng="[45.0732745, 7.68068748]">
 		<LPopup><NuxtLink to="/c/ss-torino">Satoshi Spritz Torino</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[43.3186614, 11.3305135]">
-		<LPopup><NuxtLink to="/c/ss-toscana-sud">Satoshi Spritz Toscana-Sud</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[45.6675457, 12.24507364]">
 		<LPopup><NuxtLink to="/c/ss-treviso">Satoshi Spritz Treviso</NuxtLink></LPopup>
 	</LMarker>
@@ -233,31 +230,37 @@
 	<LMarker :lat-lng="[43.110717, 12.390828]">
 		<LPopup><NuxtLink to="/c/ss-umbria">Satoshi Spritz Umbria</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[39.214934, 9.119673]">
-		<LPopup><NuxtLink to="/c/b-sardegna">Associazione Bitcoin Sardegna</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[45.108, 7.2747]">
 		<LPopup><NuxtLink to="/c/ss-valdisusa">Val di Susa</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.8182, 8.82733]">
 		<LPopup><NuxtLink to="/c/ss-varese">Satoshi Spritz Varese</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.43490484, 12.33845214]">
-		<LPopup><NuxtLink to="/c/ss-venezia">Satoshi Spritz Venezia</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[45.4321393, 12.3346526]">
 		<LPopup><NuxtLink to="/c/bitcoin-in-venice">Bacari & Bitcoin</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.43490484, 12.33845214]">
+		<LPopup><NuxtLink to="/c/ss-venezia">Satoshi Spritz Venezia</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.43839046, 10.99352685]">
 		<LPopup><NuxtLink to="/c/ss-verona">Satoshi Spritz Verona</NuxtLink></LPopup>
 	</LMarker>
-	<LMarker :lat-lng="[45.54749699, 11.54597109]">
-		<LPopup><NuxtLink to="/c/ss-vicenza">Satoshi Spritz Vicenza</NuxtLink></LPopup>
-	</LMarker>
 	<LMarker :lat-lng="[45.647873, 11.86767]">
 		<LPopup><NuxtLink to="/c/b-veneto">Bitcoin EDU Veneto</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[45.54749699, 11.54597109]">
+		<LPopup><NuxtLink to="/c/ss-vicenza">Satoshi Spritz Vicenza</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[44.4836, 11.0131]">
 		<LPopup><NuxtLink to="/c/ss-vignola">Satoshi Spritz Vignola</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.36264, 9.68176]">
+		<LPopup><NuxtLink to="/c/ss-crema-cremona-lodi">Satoshi Spritz Crema Cremona Lodi</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[43.90921, 12.9164]">
+		<LPopup><NuxtLink to="/c/ss-pesaro">Satoshi Spritz Pesaro</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.07107288, 11.79007]">
+		<LPopup><NuxtLink to="/c/ss-rovigo">Satoshi Spritz Rovigo</NuxtLink></LPopup>
 	</LMarker>
 </template>
