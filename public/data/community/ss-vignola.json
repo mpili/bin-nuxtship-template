@@ -7,7 +7,7 @@
     "idlocalita": "vignola",
     "telegram_weburl": "https://web.telegram.org/a/#-1001509357282",
     "telegram_app": "https://t.me/SatoshiSpritzVignola",
-    "telegram_members": 130.0,
+    "telegram_members": 131.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -4218,12 +4218,16 @@
             "id": 9019374216,
             "lat": 44.5973838,
             "lon": 10.7987702,
-            "timestamp": "2021-08-19T08:33:32Z",
-            "version": 1,
-            "changeset": 109917597,
-            "user": "bvivi",
-            "uid": 124550,
+            "timestamp": "2025-10-02T06:05:36Z",
+            "version": 2,
+            "changeset": 172733063,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Formigine",
+                "addr:housenumber": "74",
+                "addr:postcode": "41043",
+                "addr:street": "Via Don Giuseppe Franchini",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
@@ -5863,11 +5867,11 @@
         {
             "type": "way",
             "id": 115491605,
-            "timestamp": "2024-03-01T05:29:38Z",
-            "version": 4,
-            "changeset": 148080866,
-            "user": "Byenin",
-            "uid": 20432726,
+            "timestamp": "2025-10-03T08:35:29Z",
+            "version": 5,
+            "changeset": 172778548,
+            "user": "elementare",
+            "uid": 23357195,
             "nodes": [
                 1304678821,
                 11680858883,
@@ -5898,12 +5902,19 @@
                 1304678821
             ],
             "tags": {
+                "addr:city": "Modena",
+                "addr:postcode": "41126",
+                "addr:street": "Viale Leonardo da Vinci",
+                "addr:unit": "60",
+                "air_conditioning": "yes",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
-                "building": "yes",
+                "building": "retail",
                 "name": "Conad",
-                "shop": "supermarket"
+                "opening_hours": "Mo-Sat 8:00-20:00 Sun 9:00-13:00",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {

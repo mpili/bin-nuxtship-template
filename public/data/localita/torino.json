@@ -395,12 +395,16 @@
             "id": 227546289,
             "lat": 45.12606,
             "lon": 7.7039,
-            "timestamp": "2024-04-21T20:27:11Z",
-            "version": 8,
-            "changeset": 150317799,
-            "user": "nick1993",
-            "uid": 3335735,
+            "timestamp": "2025-10-01T20:00:13Z",
+            "version": 9,
+            "changeset": 172722992,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "102",
+                "addr:postcode": "10100",
+                "addr:street": "Strada di Cuorgn\u00e8",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -1230,30 +1234,6 @@
                 "operator": "Trg Service S.A.S.",
                 "ref:mise": "43526",
                 "source": "MISE - Ministero Sviluppo Economico"
-            }
-        },
-        {
-            "type": "node",
-            "id": 228028263,
-            "lat": 44.982864,
-            "lon": 7.671,
-            "timestamp": "2024-01-16T17:28:22Z",
-            "version": 7,
-            "changeset": 146332268,
-            "user": "nick1993",
-            "uid": 3335735,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "fuel:GTL_diesel": "yes",
-                "fuel:diesel": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_100": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Corleone S.A.S. di Corleone Sergio Vasco & C.",
-                "ref:mise": "33827"
             }
         },
         {
@@ -5453,12 +5433,16 @@
             "id": 9431473112,
             "lat": 45.13692,
             "lon": 7.1602895,
-            "timestamp": "2022-01-19T16:22:34Z",
-            "version": 1,
-            "changeset": 116349465,
-            "user": "Massimo Longo",
-            "uid": 14158449,
+            "timestamp": "2025-10-02T06:18:20Z",
+            "version": 2,
+            "changeset": 172733395,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Chianocco",
+                "addr:housenumber": "10",
+                "addr:postcode": "10050",
+                "addr:street": "Via Vernetto",
                 "brand": "Upim",
                 "brand:wikidata": "Q1414836",
                 "brand:wikipedia": "it:UPIM",
@@ -9276,6 +9260,33 @@
                 "operator": "Decathlon",
                 "payment:satispay": "yes",
                 "shop": "sports"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1434855133,
+            "timestamp": "2025-10-02T13:01:10Z",
+            "version": 1,
+            "changeset": 172748176,
+            "user": "cartomatto",
+            "uid": 1976047,
+            "nodes": [
+                13188721368,
+                13188721369,
+                13188721370,
+                13188721371,
+                13188721372,
+                13188721373,
+                13188721368
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:lpg": "yes",
+                "name": "Tamoil",
+                "ref:mise": "58403",
+                "self_service": "yes"
             }
         },
         {
