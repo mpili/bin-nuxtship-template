@@ -105,13 +105,15 @@
             "id": 227950462,
             "lat": 40.8472185,
             "lon": 14.2417229,
-            "timestamp": "2025-09-27T07:11:19Z",
-            "version": 15,
-            "changeset": 172512649,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-10-05T08:20:56Z",
+            "version": 16,
+            "changeset": 172857594,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Napoli",
                 "addr:housenumber": "539",
+                "addr:postcode": "80135",
                 "addr:street": "Corso Vittorio Emanuele",
                 "amenity": "fuel",
                 "brand": "Tamoil",
@@ -1162,6 +1164,29 @@
                 "name": "H&M",
                 "opening_hours": "09:00-22:00",
                 "phone": "+39 081 850 8056",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4043404351,
+            "lat": 40.7412263,
+            "lon": 14.5039921,
+            "timestamp": "2024-09-10T11:02:34Z",
+            "version": 2,
+            "changeset": 156434539,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "addr:city": "Pompei",
+                "addr:housenumber": "22",
+                "addr:postcode": "80045",
+                "addr:street": "Via Macello",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "clothes": "children",
+                "name": "Guess",
+                "phone": "+39 081 8503833",
                 "shop": "clothes"
             }
         },
@@ -3954,6 +3979,29 @@
         },
         {
             "type": "node",
+            "id": 8264022528,
+            "lat": 41.0075348,
+            "lon": 14.3217714,
+            "timestamp": "2023-01-02T11:53:37Z",
+            "version": 2,
+            "changeset": 130784144,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Marcianise",
+                "addr:street": "Strada Statale Sannitica",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "brand:wikipedia": "en:Guess (clothing)",
+                "name": "Guess",
+                "opening_hours": "Mo-Su 10:00-21:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 8296605034,
             "lat": 40.9259735,
             "lon": 14.1763779,
@@ -4462,6 +4510,31 @@
                 "name": "Petstore Conad",
                 "operator": "Conad",
                 "shop": "pet"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9036216096,
+            "lat": 41.0033585,
+            "lon": 14.3276266,
+            "timestamp": "2021-08-31T13:15:57Z",
+            "version": 2,
+            "changeset": 110514748,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Marcianise",
+                "addr:housenumber": "87",
+                "addr:postcode": "81025",
+                "addr:street": "Localit\u00e0 Aurno",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "brand:wikipedia": "en:Guess (clothing)",
+                "clothes": "women;men",
+                "level": "1",
+                "name": "Guess",
+                "opening_hours": "Mo-Su 10:00-22:00",
+                "shop": "clothes"
             }
         },
         {
@@ -5909,6 +5982,27 @@
         },
         {
             "type": "node",
+            "id": 9760613641,
+            "lat": 40.9495143,
+            "lon": 14.4895338,
+            "timestamp": "2022-05-21T21:47:14Z",
+            "version": 1,
+            "changeset": 121299163,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Nola",
+                "addr:postcode": "80035",
+                "addr:street": "Centro Commerciale Vulcano Buono",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "level": "0",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9760613644,
             "lat": 40.9504747,
             "lon": 14.4894071,
@@ -6516,6 +6610,24 @@
         },
         {
             "type": "node",
+            "id": 10928093466,
+            "lat": 41.0037056,
+            "lon": 14.3285061,
+            "timestamp": "2023-05-26T07:53:27Z",
+            "version": 1,
+            "changeset": 136573357,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "level": "0",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10929885754,
             "lat": 41.0206062,
             "lon": 14.3467471,
@@ -6699,6 +6811,33 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11160614093,
+            "lat": 40.8522681,
+            "lon": 14.2725432,
+            "timestamp": "2024-12-26T21:35:13Z",
+            "version": 2,
+            "changeset": 160654414,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:postcode": "80142",
+                "addr:street": "Piazza Giuseppe Garibaldi",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "check_date": "2024-12-26",
+                "clothes": "women",
+                "level": "0",
+                "name": "Guess",
+                "official_name": "Guess Accessories Napoli Grandistazioni",
+                "operator": "GUESS ITALIA Srl",
+                "phone": "+39 081 553 4604",
+                "ref:vatin": "IT02168430482",
+                "shop": "clothes"
             }
         },
         {
@@ -9644,29 +9783,6 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "name": "Tamoil"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1424396851,
-            "timestamp": "2025-08-23T12:59:12Z",
-            "version": 1,
-            "changeset": 170879669,
-            "user": "DaveMzp",
-            "uid": 18785499,
-            "nodes": [
-                13092431385,
-                13092431386,
-                13092431387,
-                13092431388,
-                13092431385
-            ],
-            "tags": {
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "building": "yes",
-                "name": "Carrefour",
-                "shop": "supermarket"
             }
         },
         {

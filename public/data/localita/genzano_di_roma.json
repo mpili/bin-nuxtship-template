@@ -106,12 +106,15 @@
             "id": 227748810,
             "lat": 41.8710008,
             "lon": 12.4606639,
-            "timestamp": "2025-10-01T12:55:17Z",
-            "version": 7,
-            "changeset": 172705411,
-            "user": "mau59",
-            "uid": 257767,
+            "timestamp": "2025-10-04T18:41:40Z",
+            "version": 8,
+            "changeset": 172842382,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00152",
+                "addr:street": "Via Quirino Majorana",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -241,12 +244,14 @@
             "id": 228138632,
             "lat": 41.927757,
             "lon": 12.73809,
-            "timestamp": "2024-05-04T10:00:12Z",
-            "version": 5,
-            "changeset": 150871809,
-            "user": "Flynn_",
-            "uid": 21081459,
+            "timestamp": "2025-10-04T18:42:43Z",
+            "version": 6,
+            "changeset": 172842417,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00132",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -451,12 +456,16 @@
             "id": 590053563,
             "lat": 41.9445438,
             "lon": 12.4737019,
-            "timestamp": "2025-05-09T20:16:17Z",
-            "version": 6,
-            "changeset": 166045088,
-            "user": "mau59",
-            "uid": 257767,
+            "timestamp": "2025-10-05T11:12:59Z",
+            "version": 7,
+            "changeset": 172862205,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "44",
+                "addr:postcode": "00191",
+                "addr:street": "Via Citt\u00e0 della Pieve",
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
                 "name": "Carrefour",
@@ -721,6 +730,28 @@
                 "name": "Liguori",
                 "shop": "jewelry",
                 "website": "https://www.liguorigioielli.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 925227221,
+            "lat": 41.8998486,
+            "lon": 12.491674,
+            "timestamp": "2021-12-10T09:17:19Z",
+            "version": 7,
+            "changeset": 114776122,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "198",
+                "addr:postcode": "00184",
+                "addr:street": "Via Nazionale",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "brand:wikipedia": "en:Guess (clothing)",
+                "name": "Guess",
+                "shop": "clothes"
             }
         },
         {
@@ -5748,6 +5779,41 @@
         },
         {
             "type": "node",
+            "id": 8892501123,
+            "lat": 41.7610717,
+            "lon": 12.959995,
+            "timestamp": "2022-08-30T07:01:23Z",
+            "version": 2,
+            "changeset": 125552480,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "branch": "accessories",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8892780018,
+            "lat": 41.7614304,
+            "lon": 12.9602625,
+            "timestamp": "2022-11-02T11:17:49Z",
+            "version": 2,
+            "changeset": 128386368,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 8977619575,
             "lat": 41.8912992,
             "lon": 12.5345443,
@@ -6477,6 +6543,23 @@
         },
         {
             "type": "node",
+            "id": 9773490549,
+            "lat": 41.7180762,
+            "lon": 12.4457678,
+            "timestamp": "2023-07-17T17:46:07Z",
+            "version": 2,
+            "changeset": 138632654,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9779572708,
             "lat": 41.9085904,
             "lon": 12.4577725,
@@ -7166,6 +7249,23 @@
                 "phone": "0687768218",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10861953692,
+            "lat": 41.8077777,
+            "lon": 12.2951379,
+            "timestamp": "2023-05-02T08:53:08Z",
+            "version": 1,
+            "changeset": 135605973,
+            "user": "Antanicus",
+            "uid": 8799619,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
             }
         },
         {
@@ -9026,6 +9126,25 @@
         },
         {
             "type": "node",
+            "id": 12895401124,
+            "lat": 41.9004815,
+            "lon": 12.5010714,
+            "timestamp": "2025-06-07T17:54:10Z",
+            "version": 1,
+            "changeset": 167321669,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "check_date": "2025-06-07",
+                "level": "0",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 13039907959,
             "lat": 41.9005935,
             "lon": 12.4267397,
@@ -10395,6 +10514,56 @@
                 "building": "yes",
                 "name": "Carrefour",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 321995578,
+            "timestamp": "2022-06-01T06:43:31Z",
+            "version": 7,
+            "changeset": 121795669,
+            "user": "SekeRob",
+            "uid": 1940323,
+            "nodes": [
+                3287626471,
+                3287626491,
+                3287626482,
+                3287626456,
+                3287626471
+            ],
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "building": "commercial",
+                "name": "Guess",
+                "ref": "35",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 321995643,
+            "timestamp": "2024-11-05T11:41:04Z",
+            "version": 6,
+            "changeset": 158775497,
+            "user": "AlCeRoma",
+            "uid": 12770453,
+            "nodes": [
+                3287626503,
+                3287626518,
+                3287626526,
+                3287626512,
+                3287626504,
+                3287626503
+            ],
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "building": "commercial",
+                "clothes": "children",
+                "name": "Guess kids",
+                "ref": "93",
+                "shop": "clothes"
             }
         },
         {
@@ -12264,6 +12433,58 @@
         },
         {
             "type": "way",
+            "id": 873362937,
+            "timestamp": "2024-11-05T11:41:04Z",
+            "version": 4,
+            "changeset": 158775497,
+            "user": "AlCeRoma",
+            "uid": 12770453,
+            "nodes": [
+                8133283008,
+                12314136877,
+                8133283007,
+                8133283006,
+                8133283001,
+                8133283005,
+                8133283004,
+                10877885450,
+                10877885451,
+                10877885452,
+                10877885453,
+                10877885454,
+                10877885455,
+                10877885456,
+                10877885457,
+                10877885458,
+                10877885459,
+                10877885460,
+                10877885461,
+                10877885462,
+                10877885476,
+                10877885475,
+                10877885474,
+                10877885473,
+                10877885472,
+                10877885471,
+                10877885470,
+                10877885469,
+                10877885468,
+                10877885467,
+                10877885466,
+                10877885465,
+                10877885464,
+                10877885463,
+                8133283008
+            ],
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "brand:wikipedia": "en:Guess (clothing)",
+                "building": "retail"
+            }
+        },
+        {
+            "type": "way",
             "id": 879956551,
             "timestamp": "2023-11-07T22:34:51Z",
             "version": 2,
@@ -12953,6 +13174,38 @@
         },
         {
             "type": "way",
+            "id": 1132719833,
+            "timestamp": "2025-07-30T12:48:38Z",
+            "version": 5,
+            "changeset": 169719385,
+            "user": "wavez",
+            "uid": 22825318,
+            "nodes": [
+                10561886992,
+                10561886985,
+                10561886986,
+                10561886987,
+                10561886992
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "865",
+                "addr:postcode": "00143",
+                "addr:street": "Via Laurentina",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "email": "romamaximo.jeans@guess.eu",
+                "indoor": "room",
+                "level": "0",
+                "name": "Guess",
+                "opening_hours": "Mo-Su 10:00-21:00",
+                "phone": "+39 06 94358320",
+                "shop": "clothes",
+                "website": "https://www.guess.eu/"
+            }
+        },
+        {
+            "type": "way",
             "id": 1132719835,
             "timestamp": "2025-07-30T12:48:38Z",
             "version": 4,
@@ -13223,6 +13476,31 @@
                 "brand:wikidata": "Q1634762",
                 "building": "commercial",
                 "name": "Q8 GNL - Metano"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1204398969,
+            "timestamp": "2024-05-14T10:59:54Z",
+            "version": 4,
+            "changeset": 151307385,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                11162763416,
+                11162763415,
+                11162763414,
+                11162763413,
+                11164866070,
+                11162763416
+            ],
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "indoor": "room",
+                "level": "1",
+                "name": "Guess Accessories",
+                "shop": "fashion_accessories"
             }
         },
         {

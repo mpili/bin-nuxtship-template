@@ -60,7 +60,7 @@ const props = defineProps(["data"]);
     :testo="data?.tags?.brand"
   />
 
-  <OnwBrandwikidata :data="data" />
+  <OnwBrandwikidatatag :data="data" />
 
   <OnwBrandwikipedia :data="data" />
 

@@ -41,12 +41,15 @@
             "id": 227539738,
             "lat": 43.5190913,
             "lon": 13.5288281,
-            "timestamp": "2025-03-08T08:52:09Z",
-            "version": 14,
-            "changeset": 163354354,
-            "user": "totera",
-            "uid": 123412,
+            "timestamp": "2025-10-05T07:58:28Z",
+            "version": 15,
+            "changeset": 172856891,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Camerano",
+                "addr:postcode": "60021",
+                "addr:street": "Via Farfisa",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -95,12 +98,16 @@
             "id": 227894834,
             "lat": 43.4462138,
             "lon": 13.5540438,
-            "timestamp": "2020-09-27T21:34:34Z",
-            "version": 8,
-            "changeset": 91598382,
-            "user": "sorcrosc",
-            "uid": 160229,
+            "timestamp": "2025-10-05T11:14:15Z",
+            "version": 10,
+            "changeset": 172862238,
+            "user": "totera",
+            "uid": 123412,
             "tags": {
+                "addr:city": "Castelfidardo",
+                "addr:milestone": "5",
+                "addr:postcode": "60022",
+                "addr:street": "Via Jesina",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -109,8 +116,10 @@
                 "fuel:lpg": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Q8",
+                "nohousenumber": "yes",
                 "operator": "Servizi & Gestioni Italia Srl",
-                "ref:mise": "6602"
+                "ref:mise": "6602",
+                "self_service": "yes"
             }
         },
         {
@@ -504,12 +513,13 @@
             "id": 1268117617,
             "lat": 43.4890684,
             "lon": 13.4934801,
-            "timestamp": "2020-05-13T12:05:42Z",
-            "version": 4,
-            "changeset": 85144032,
-            "user": "marchemap",
-            "uid": 4624362,
+            "timestamp": "2025-10-05T08:02:16Z",
+            "version": 5,
+            "changeset": 172857007,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Osimo",
                 "addr:housenumber": "16",
                 "addr:postcode": "60027",
                 "addr:street": "Via Vecchia Fornace",
@@ -720,24 +730,6 @@
                 "operator": "T.D.M. S.R.L.",
                 "ref:mise": "27708",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1962703672,
-            "lat": 43.2372762,
-            "lon": 13.689256,
-            "timestamp": "2020-06-07T15:20:33Z",
-            "version": 3,
-            "changeset": 86311239,
-            "user": "totera",
-            "uid": 123412,
-            "tags": {
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "name": "Conad",
-                "shop": "supermarket"
             }
         },
         {
@@ -2797,6 +2789,29 @@
         },
         {
             "type": "node",
+            "id": 12271289401,
+            "lat": 42.8455072,
+            "lon": 13.6227437,
+            "timestamp": "2025-01-06T00:18:38Z",
+            "version": 2,
+            "changeset": 161040656,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "check_date": "2024-10-20",
+                "name": "Guess",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12271289404,
             "lat": 42.8462005,
             "lon": 13.6241076,
@@ -4316,6 +4331,34 @@
                 "indoor": "room",
                 "level": "0",
                 "name": "Calzedonia",
+                "opening_hours": "Mo-Su,PH 09:00-21:00",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1207229799,
+            "timestamp": "2025-09-28T12:55:13Z",
+            "version": 4,
+            "changeset": 172565555,
+            "user": "jeawrong",
+            "uid": 179966,
+            "nodes": [
+                11186258343,
+                7991359757,
+                11186257958,
+                11186258937,
+                11186258069,
+                11186257793,
+                11186257681,
+                11186258343
+            ],
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "indoor": "room",
+                "level": "0",
+                "name": "Guess",
                 "opening_hours": "Mo-Su,PH 09:00-21:00",
                 "shop": "clothes"
             }

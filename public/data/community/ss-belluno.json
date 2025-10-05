@@ -567,6 +567,27 @@
         },
         {
             "type": "node",
+            "id": 1586852383,
+            "lat": 45.9453415,
+            "lon": 12.7247094,
+            "timestamp": "2025-10-05T15:24:25Z",
+            "version": 9,
+            "changeset": 172873237,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Fiume Veneto",
+                "addr:postcode": "33080",
+                "addr:street": "Via Maestri del Lavoro",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1748853004,
             "lat": 45.8788895,
             "lon": 12.3073428,
@@ -656,6 +677,25 @@
                 "name": "Conad City",
                 "shop": "supermarket",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2721631644,
+            "lat": 46.5379058,
+            "lon": 12.1360943,
+            "timestamp": "2025-10-05T16:04:30Z",
+            "version": 4,
+            "changeset": 172875008,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Cortina d'Ampezzo",
+                "addr:postcode": "32043",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
             }
         },
         {
