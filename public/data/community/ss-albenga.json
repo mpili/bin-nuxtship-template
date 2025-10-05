@@ -1018,6 +1018,35 @@
         },
         {
             "type": "node",
+            "id": 5234597374,
+            "lat": 44.2668249,
+            "lon": 8.433098,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "version": 6,
+            "changeset": 107218913,
+            "user": "AxelBoldt",
+            "uid": 175702,
+            "tags": {
+                "addr:city": "Vado Ligure",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "17047",
+                "addr:street": "Via Montegrappa",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "brand:wikipedia": "en:Guess (clothing)",
+                "level": "0",
+                "name": "Guess",
+                "opening_hours": "Mo-Su 09:00-20:00; PH closed",
+                "phone": "+39 019 886864",
+                "shop": "clothes",
+                "survey:date": "2017-10-17",
+                "website": "https://www.guess.eu/it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5442597802,
             "lat": 44.3384181,
             "lon": 8.5107652,
@@ -1412,11 +1441,11 @@
             "id": 9663613308,
             "lat": 44.120628,
             "lon": 8.2259756,
-            "timestamp": "2022-04-13T15:26:08Z",
-            "version": 1,
-            "changeset": 119673864,
-            "user": "jokien",
-            "uid": 208052,
+            "timestamp": "2025-10-05T15:02:41Z",
+            "version": 2,
+            "changeset": 172872130,
+            "user": "Paolitosss",
+            "uid": 20900475,
             "tags": {
                 "addr:city": "Toirano",
                 "addr:housenumber": "6",
@@ -1425,6 +1454,7 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
+                "check_date": "2025-10-05",
                 "email": "GestisavToirano_L492132B@di-net.it",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00, 16:00-20:00",
@@ -1435,6 +1465,23 @@
                 "phone": "+39 0182 921992",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.009130.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9981924837,
+            "lat": 43.8157149,
+            "lon": 7.774389,
+            "timestamp": "2023-02-14T01:41:41Z",
+            "version": 2,
+            "changeset": 132515267,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
             }
         },
         {

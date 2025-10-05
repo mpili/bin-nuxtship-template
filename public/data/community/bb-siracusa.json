@@ -7,7 +7,7 @@
     "idlocalita": "siracusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002018694442",
     "telegram_app": "https://t.me/bitcoinbeersiracusa",
-    "telegram_members": 12.0,
+    "telegram_members": 8.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -51,12 +51,15 @@
             "id": 2556522498,
             "lat": 36.8563032,
             "lon": 15.1094128,
-            "timestamp": "2024-10-15T20:53:55Z",
-            "version": 18,
-            "changeset": 157938656,
-            "user": "fayor",
-            "uid": 743479,
+            "timestamp": "2025-10-05T07:19:41Z",
+            "version": 19,
+            "changeset": 172855926,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Lido di Noto",
+                "addr:postcode": "96017",
+                "addr:street": "Via Gaetano Martino",
                 "check_date:currency:XBT": "2023-07-10",
                 "currency:XBT": "yes",
                 "ele": "20",
@@ -955,6 +958,26 @@
                 "name": "Unieuro",
                 "operator": "Unieuro spa",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261408492,
+            "lat": 37.4722759,
+            "lon": 15.0494245,
+            "timestamp": "2023-12-22T17:47:59Z",
+            "version": 4,
+            "changeset": 145415097,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "level": "1",
+                "name": "Guess",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
