@@ -228,6 +228,30 @@
         },
         {
             "type": "node",
+            "id": 3413069721,
+            "lat": 40.353623,
+            "lon": 18.1729047,
+            "timestamp": "2025-09-03T16:42:49Z",
+            "version": 6,
+            "changeset": 171414929,
+            "user": "Superchilum",
+            "uid": 4903102,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "9",
+                "addr:postcode": "73100",
+                "addr:street": "Via Templari",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2025-09-03",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Fr 09:00-21:00, Sa 09:00-24:00; Su 10:00-22:00",
+                "shop": "books",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3875327152,
             "lat": 40.2943683,
             "lon": 18.1972205,
@@ -276,6 +300,27 @@
                 "ref:vatin": "IT08066230726",
                 "shop": "clothes",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3932075366,
+            "lat": 40.3628831,
+            "lon": 18.1806404,
+            "timestamp": "2025-10-06T12:48:56Z",
+            "version": 2,
+            "changeset": 172912669,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "8",
+                "addr:postcode": "73100",
+                "addr:street": "Via Vincenzo Monti",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -418,6 +463,27 @@
         },
         {
             "type": "node",
+            "id": 4248791722,
+            "lat": 40.7279821,
+            "lon": 17.5740732,
+            "timestamp": "2025-10-06T11:08:10Z",
+            "version": 3,
+            "changeset": 172908031,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Ostuni",
+                "addr:housenumber": "3",
+                "addr:postcode": "72017",
+                "addr:street": "Viale Pola",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4250677310,
             "lat": 40.7271504,
             "lon": 17.5792281,
@@ -454,6 +520,24 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4254263957,
+            "lat": 40.7272901,
+            "lon": 17.5751594,
+            "timestamp": "2025-03-25T14:09:18Z",
+            "version": 2,
+            "changeset": 164079084,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -636,6 +720,30 @@
                 "phone": "+39 0832 244352",
                 "shop": "clothes",
                 "website": "https://it.intimissimi.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5300716147,
+            "lat": 40.3758714,
+            "lon": 18.1445892,
+            "timestamp": "2025-10-06T11:16:13Z",
+            "version": 6,
+            "changeset": 172908378,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Surbo",
+                "addr:housenumber": "1",
+                "addr:postcode": "73010",
+                "addr:street": "Via Brindisi",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "cosmetics",
+                "website": "https://www.bottegaverde.it/",
                 "wheelchair": "yes"
             }
         },
@@ -870,6 +978,24 @@
         },
         {
             "type": "node",
+            "id": 6088245385,
+            "lat": 40.6351468,
+            "lon": 17.9415745,
+            "timestamp": "2022-07-02T20:00:03Z",
+            "version": 2,
+            "changeset": 123131838,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "branch": "Point",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 6341799788,
             "lat": 40.3756441,
             "lon": 18.1397546,
@@ -1022,6 +1148,46 @@
         },
         {
             "type": "node",
+            "id": 7360112704,
+            "lat": 40.6353257,
+            "lon": 17.9427343,
+            "timestamp": "2022-07-02T20:00:03Z",
+            "version": 2,
+            "changeset": 123131838,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7390235214,
+            "lat": 40.6368993,
+            "lon": 17.9451652,
+            "timestamp": "2025-04-05T18:49:36Z",
+            "version": 3,
+            "changeset": 164564348,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "addr:housenumber": "20",
+                "addr:street": "Corso Umberto primo",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date": "2023-06-21",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 7522008332,
             "lat": 40.7042973,
             "lon": 17.6637988,
@@ -1141,6 +1307,42 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8733820356,
+            "lat": 40.4893004,
+            "lon": 17.9966958,
+            "timestamp": "2023-11-27T12:26:29Z",
+            "version": 2,
+            "changeset": 144505403,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8941577510,
+            "lat": 40.3536111,
+            "lon": 18.1771326,
+            "timestamp": "2023-02-23T09:06:32Z",
+            "version": 2,
+            "changeset": 132914899,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -1483,6 +1685,43 @@
         },
         {
             "type": "node",
+            "id": 11378022897,
+            "lat": 40.6185844,
+            "lon": 17.9018201,
+            "timestamp": "2024-10-28T18:35:03Z",
+            "version": 4,
+            "changeset": 158468713,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "cosmetics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11379501716,
+            "lat": 40.490439,
+            "lon": 17.9965347,
+            "timestamp": "2023-11-27T12:23:50Z",
+            "version": 1,
+            "changeset": 144505559,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 11380217452,
             "lat": 40.3761615,
             "lon": 18.1451763,
@@ -1533,6 +1772,28 @@
                 "name": "PittaRosso",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381297468,
+            "lat": 40.2929525,
+            "lon": 18.197792,
+            "timestamp": "2025-10-06T13:20:11Z",
+            "version": 6,
+            "changeset": 172914129,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Cavallino",
+                "addr:postcode": "73020",
+                "addr:street": "Strada Statale 16 Adriatica",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "cosmetics",
                 "wheelchair": "yes"
             }
         },
@@ -2145,6 +2406,154 @@
                 "payment:onchain": "yes",
                 "phone": "+393663752677",
                 "sport": "calisthenics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13197851253,
+            "lat": 40.3577332,
+            "lon": 18.1622606,
+            "timestamp": "2025-10-06T13:41:28Z",
+            "version": 1,
+            "changeset": 172915189,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:postcode": "73100",
+                "addr:street": "Via Luigi Pappacoda angolo Via Salvemini",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "0832269965",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13197886432,
+            "lat": 40.3554051,
+            "lon": 18.160567,
+            "timestamp": "2025-10-06T13:51:02Z",
+            "version": 1,
+            "changeset": 172915638,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "1",
+                "addr:postcode": "73100",
+                "addr:street": "Via Francesco Saverio Casavola",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "+3908321561167",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13197910775,
+            "lat": 40.3666352,
+            "lon": 18.1700183,
+            "timestamp": "2025-10-06T13:59:04Z",
+            "version": 1,
+            "changeset": 172916047,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "7",
+                "addr:postcode": "73100",
+                "addr:street": "Via Vincenzo Cuoco",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "+393917474723",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13197917141,
+            "lat": 40.3502384,
+            "lon": 18.1791999,
+            "timestamp": "2025-10-06T14:51:52Z",
+            "version": 1,
+            "changeset": 172918945,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "3",
+                "addr:postcode": "73100",
+                "addr:street": "Via Salvatore Grande",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13197938875,
+            "lat": 40.3915104,
+            "lon": 18.2972526,
+            "timestamp": "2025-10-06T14:18:15Z",
+            "version": 1,
+            "changeset": 172917116,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "San Cataldo",
+                "addr:housenumber": "139",
+                "addr:postcode": "73100",
+                "addr:street": "Via Pigafetta",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "+390832650618",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13198005162,
+            "lat": 40.35735,
+            "lon": 18.1813931,
+            "timestamp": "2025-10-06T15:27:17Z",
+            "version": 1,
+            "changeset": 172920707,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:postcode": "73100",
+                "addr:street": "Via Don Luigi Sturzo",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "+390832312342",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13198034603,
+            "lat": 40.339627,
+            "lon": 18.1767441,
+            "timestamp": "2025-10-06T15:08:52Z",
+            "version": 1,
+            "changeset": 172919772,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:street": "Via di Leuca",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "+390832344663",
+                "shop": "supermarket"
             }
         },
         {

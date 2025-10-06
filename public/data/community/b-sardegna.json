@@ -734,6 +734,31 @@
         },
         {
             "type": "node",
+            "id": 4229079492,
+            "lat": 39.216118,
+            "lon": 9.1150768,
+            "timestamp": "2025-03-31T15:36:38Z",
+            "version": 4,
+            "changeset": 164336816,
+            "user": "bluemywn",
+            "uid": 17079474,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "23",
+                "addr:street": "Via Giuseppe Manno",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "check_date:opening_hours": "2025-03-26",
+                "name": "United Colors of Benetton",
+                "opening_hours:signed": "no",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+            }
+        },
+        {
+            "type": "node",
             "id": 4229085549,
             "lat": 39.2160861,
             "lon": 9.1147839,
@@ -860,6 +885,30 @@
                 "phone": "3939002098",
                 "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
                 "website": "https://www.insulaere.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4229660095,
+            "lat": 39.222593,
+            "lon": 9.1252598,
+            "timestamp": "2023-11-15T20:38:29Z",
+            "version": 5,
+            "changeset": 144068140,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "87a",
+                "addr:street": "Via Dante Alighieri",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "clothes": "children",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
             }
         },
         {
@@ -1418,6 +1467,30 @@
         },
         {
             "type": "node",
+            "id": 8688792744,
+            "lat": 39.2873006,
+            "lon": 9.0085698,
+            "timestamp": "2021-05-01T19:43:47Z",
+            "version": 1,
+            "changeset": 103971870,
+            "user": "oliando",
+            "uid": 13174127,
+            "tags": {
+                "addr:city": "Assemini",
+                "addr:housenumber": "17",
+                "addr:postcode": "09032",
+                "addr:street": "Via Sardegna",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "phone": "+390709435157",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 9577452291,
             "lat": 39.3363488,
             "lon": 8.9165235,
@@ -1505,6 +1578,45 @@
                 "brand:wikipedia": "en:Foot Locker",
                 "name": "Foot Locker",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9597692785,
+            "lat": 39.2455081,
+            "lon": 9.1655577,
+            "timestamp": "2022-03-24T15:22:01Z",
+            "version": 2,
+            "changeset": 118869670,
+            "user": "DDeL",
+            "uid": 8377693,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "level": "0",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9597692786,
+            "lat": 39.2453578,
+            "lon": 9.1652548,
+            "timestamp": "2022-03-24T15:22:01Z",
+            "version": 2,
+            "changeset": 118869670,
+            "user": "DDeL",
+            "uid": 8377693,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "level": "0",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "website": "https://it.benetton.com"
             }
         },
         {
@@ -1668,6 +1780,25 @@
                 "level": "1",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10239868177,
+            "lat": 39.305142,
+            "lon": 9.0664405,
+            "timestamp": "2022-12-05T10:36:26Z",
+            "version": 1,
+            "changeset": 129735859,
+            "user": "DDeL",
+            "uid": 8377693,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "level": "1",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -1867,6 +1998,52 @@
                 "payment:visa": "yes",
                 "payment:visa_debit": "yes",
                 "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11175496105,
+            "lat": 39.2126829,
+            "lon": 9.1148387,
+            "timestamp": "2023-09-13T11:37:56Z",
+            "version": 4,
+            "changeset": 141206556,
+            "user": "Fradeve11",
+            "uid": 37791,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2023-09-12",
+                "name": "La Feltrinelli",
+                "payment:american_express": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11180811940,
+            "lat": 39.2166082,
+            "lon": 9.1140505,
+            "timestamp": "2023-09-13T21:33:25Z",
+            "version": 4,
+            "changeset": 141230912,
+            "user": "Fradeve11",
+            "uid": 37791,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "74",
+                "addr:street": "Via Giuseppe Manno",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date": "2023-09-12",
+                "clothes": "underwear",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -2320,11 +2497,11 @@
         {
             "type": "way",
             "id": 281459337,
-            "timestamp": "2023-10-08T11:56:18Z",
-            "version": 8,
-            "changeset": 142301617,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2025-10-06T11:43:46Z",
+            "version": 9,
+            "changeset": 172909554,
+            "user": "Comino",
+            "uid": 6794624,
             "nodes": [
                 2854114059,
                 2854114000,
@@ -2351,7 +2528,6 @@
                 "mobile": "+39 342 1982874",
                 "name": "Mirkoshop.com",
                 "operator": "Mirko",
-                "payment:cryptocurrencies": "yes",
                 "payment:visa": "yes",
                 "shop": "variety_store",
                 "website": "http://www.mirkoshop.com"
@@ -2552,6 +2728,35 @@
                 "name": "Q8",
                 "operator": "Q8",
                 "ref:mise": "28271",
+                "source:date": "2018-04-16"
+            }
+        },
+        {
+            "type": "way",
+            "id": 544817029,
+            "timestamp": "2025-10-05T19:00:37Z",
+            "version": 3,
+            "changeset": 172881872,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "nodes": [
+                5266135491,
+                5266135490,
+                5266135489,
+                5266135488,
+                5266135491
+            ],
+            "tags": {
+                "addr:city": "Ballao",
+                "addr:postcode": "09040",
+                "addr:street": "Via Flumendosa",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "layer": "1",
+                "name": "Tamoil",
+                "ref:mise": "22658",
                 "source:date": "2018-04-16"
             }
         },

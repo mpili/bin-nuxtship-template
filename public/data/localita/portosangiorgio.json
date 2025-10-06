@@ -474,6 +474,31 @@
         },
         {
             "type": "node",
+            "id": 945519654,
+            "lat": 42.845328,
+            "lon": 13.6242355,
+            "timestamp": "2025-01-06T00:18:38Z",
+            "version": 4,
+            "changeset": 161040656,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "check_date": "2024-10-21",
+                "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 945519740,
             "lat": 42.8464104,
             "lon": 13.6225391,
@@ -729,6 +754,30 @@
         },
         {
             "type": "node",
+            "id": 1962703672,
+            "lat": 43.2372762,
+            "lon": 13.689256,
+            "timestamp": "2025-10-06T11:02:21Z",
+            "version": 6,
+            "changeset": 172907791,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Sant'Elpidio a Mare",
+                "addr:housenumber": "132",
+                "addr:postcode": "63811",
+                "addr:street": "Via Porta Romana",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "Mo-Sa 08:30-13:00,16:30-20:00",
+                "phone": "+39 0734 253811",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-porta-romana-132-63811-santelpidio-a-mare--001824"
+            }
+        },
+        {
+            "type": "node",
             "id": 1974988739,
             "lat": 43.2968881,
             "lon": 13.7056795,
@@ -761,12 +810,16 @@
             "id": 2120124973,
             "lat": 43.3091288,
             "lon": 13.7271727,
-            "timestamp": "2020-06-08T16:19:07Z",
-            "version": 2,
-            "changeset": 86363395,
-            "user": "totera",
-            "uid": 123412,
+            "timestamp": "2025-10-06T10:59:09Z",
+            "version": 3,
+            "changeset": 172907654,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Civitanova Marche",
+                "addr:housenumber": "109",
+                "addr:postcode": "62012",
+                "addr:street": "Corso Umberto I",
                 "brand": "Calzedonia",
                 "brand:wikidata": "Q1027874",
                 "brand:wikipedia": "en:Calzedonia",
@@ -1300,6 +1353,29 @@
         },
         {
             "type": "node",
+            "id": 5497258400,
+            "lat": 43.4047348,
+            "lon": 13.5476948,
+            "timestamp": "2020-05-13T12:05:42Z",
+            "version": 5,
+            "changeset": 85144032,
+            "user": "marchemap",
+            "uid": 4624362,
+            "tags": {
+                "addr:city": "Recanati",
+                "addr:housenumber": "32",
+                "addr:postcode": "62019",
+                "addr:street": "Corso Persiani",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 5550211600,
             "lat": 43.4048565,
             "lon": 13.5606909,
@@ -1755,6 +1831,28 @@
                 "name": "Conad City",
                 "opening_hours": "Mo-Sa 08:15-13:00,16:45-20:00",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6896322177,
+            "lat": 43.2999663,
+            "lon": 13.4529136,
+            "timestamp": "2021-10-21T10:13:48Z",
+            "version": 2,
+            "changeset": 112784572,
+            "user": "SimoGine",
+            "uid": 11449631,
+            "tags": {
+                "addr:city": "Macerata",
+                "addr:housenumber": "4",
+                "addr:postcode": "62100",
+                "addr:street": "Corso della Repubblica",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "phone": "199151173",
+                "shop": "books"
             }
         },
         {
@@ -2234,6 +2332,25 @@
         },
         {
             "type": "node",
+            "id": 11351377005,
+            "lat": 43.2875203,
+            "lon": 13.735028,
+            "timestamp": "2023-11-16T17:01:26Z",
+            "version": 5,
+            "changeset": 144104797,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "shop": "cosmetics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11351377009,
             "lat": 43.2873935,
             "lon": 13.7357871,
@@ -2476,6 +2593,32 @@
         },
         {
             "type": "node",
+            "id": 11843242873,
+            "lat": 43.5530125,
+            "lon": 13.5145633,
+            "timestamp": "2024-12-03T23:27:50Z",
+            "version": 2,
+            "changeset": 159900104,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "6",
+                "addr:postcode": "60131",
+                "addr:street": "Via Franco Scataglini",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "check_date": "2024-04-24",
+                "local_ref": "n23",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "phone": "+39 071 2861416",
+                "shop": "cosmetics",
+                "website": "https://www.bottegaverde.com/it-it/storelocator/ancona/piane_baracola_an_cc_conero"
+            }
+        },
+        {
+            "type": "node",
             "id": 11874406150,
             "lat": 43.4896528,
             "lon": 13.4958801,
@@ -2701,6 +2844,25 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0734 675306",
                 "shop": "hairdresser"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12134519587,
+            "lat": 42.8550138,
+            "lon": 13.573992,
+            "timestamp": "2025-06-07T13:12:38Z",
+            "version": 3,
+            "changeset": 167309510,
+            "user": "clamemmel",
+            "uid": 21864105,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2942,6 +3104,29 @@
                 "phone": "+39 071 7202046",
                 "ref:vatin": "IT02106250398",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12468465727,
+            "lat": 42.8453112,
+            "lon": 13.6240616,
+            "timestamp": "2025-01-06T00:18:38Z",
+            "version": 2,
+            "changeset": 161040656,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "check_date": "2025-01-02",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "cosmetics"
             }
         },
         {
@@ -3545,6 +3730,34 @@
         },
         {
             "type": "way",
+            "id": 320379961,
+            "timestamp": "2023-09-20T20:35:34Z",
+            "version": 2,
+            "changeset": 141531099,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                3268905509,
+                3268905506,
+                3268905496,
+                3268905498,
+                3268905502,
+                3268905509
+            ],
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "buildingpart": "room",
+                "level": "0",
+                "name": "United Colors of Benetton",
+                "ref": "27",
+                "room": "shop",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "way",
             "id": 320383970,
             "timestamp": "2020-06-09T13:24:47Z",
             "version": 4,
@@ -3572,6 +3785,32 @@
                 "room": "shop",
                 "shop": "clothes",
                 "website": "https://www.tezenis.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 320383975,
+            "timestamp": "2023-09-20T20:35:34Z",
+            "version": 2,
+            "changeset": 141531099,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                3268945964,
+                3268945963,
+                3268945965,
+                3268945968,
+                3268945964
+            ],
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "buildingpart": "room",
+                "level": "0",
+                "name": "Bottega Verde",
+                "ref": "35",
+                "room": "shop",
+                "shop": "cosmetics"
             }
         },
         {
@@ -4189,6 +4428,32 @@
                 "phone": "+39 348 3654472",
                 "shop": "clothes",
                 "temporary": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1096729216,
+            "timestamp": "2023-01-15T02:24:13Z",
+            "version": 4,
+            "changeset": 131284609,
+            "user": "totera",
+            "uid": 123412,
+            "nodes": [
+                10042880892,
+                10042880890,
+                10042880889,
+                10036631363,
+                10042880892
+            ],
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "indoor": "room",
+                "level": "0",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "phone": "+39 0861 714465",
+                "shop": "cosmetics"
             }
         },
         {

@@ -34,11 +34,11 @@
             "id": 491586391,
             "lat": 43.1193902,
             "lon": 11.2356878,
-            "timestamp": "2025-09-13T12:57:24Z",
-            "version": 7,
-            "changeset": 171874250,
-            "user": "benedmarc",
-            "uid": 23288319,
+            "timestamp": "2025-10-06T11:58:01Z",
+            "version": 8,
+            "changeset": 172910202,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "access": "permissive",
                 "addr:city": "Iesa",
@@ -60,7 +60,6 @@
                 "payment:cash": "yes",
                 "payment:contactless": "no",
                 "payment:credit_cards": "yes",
-                "payment:cryptocurrencies": "yes",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "payment:paypal": "yes",
@@ -143,6 +142,25 @@
                 "opening_hours": "Mo-Sa 07:30-20:30; Su 08:00-20:30",
                 "shop": "supermarket",
                 "url": "https://www.conad.it/ricerca-negozi/conad-city-via-litoranea-81-58022-follonica--003702"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2488719218,
+            "lat": 42.7606838,
+            "lon": 11.1131696,
+            "timestamp": "2019-09-03T16:02:42Z",
+            "version": 2,
+            "changeset": 74049039,
+            "user": "bvivi",
+            "uid": 124550,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -588,6 +606,25 @@
         },
         {
             "type": "node",
+            "id": 7272676872,
+            "lat": 43.0282666,
+            "lon": 10.6026657,
+            "timestamp": "2021-08-24T20:27:50Z",
+            "version": 2,
+            "changeset": 110192673,
+            "user": "Prt_An",
+            "uid": 1248925,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 7272893864,
             "lat": 43.0265928,
             "lon": 10.6104067,
@@ -958,6 +995,39 @@
                 "survey:date": "2024-11-03",
                 "tourism": "apartment",
                 "website": "https://www.airbnb.it/rooms/911401039919882337?guests=1&adults=1&s=67&unique_share_id=773655d3-2be8-484c-80b5-0cbaee021789"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12761893827,
+            "lat": 42.4384189,
+            "lon": 11.1192944,
+            "timestamp": "2025-06-26T09:38:56Z",
+            "version": 4,
+            "changeset": 168130913,
+            "user": "white_sheep",
+            "uid": 21982929,
+            "tags": {
+                "addr:city": "Porto Santo Stefano",
+                "addr:housenumber": "86",
+                "addr:postcode": "58019",
+                "addr:street": "Corso Umberto I",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "clothes": "children",
+                "contact:facebook": "https://www.facebook.com/profile.php?id=100057631951649",
+                "description": "Il nostro punto di forza \u00e8 saper capire le esigenze del cliente e grazie all\u2019ampio assortimento riusciamo a soddisfare le richieste sia per quanto riguarda l\u2019abbigliamento di tutti i giorni sia per gli eventi particolari come le cerimonie.",
+                "email": "roxele2014@gmail.com",
+                "instagram": "https://www.instagram.com/benetton_012portosantostefano/",
+                "internet_access": "yes",
+                "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Sa 9:30-13:00 16:30-19:30 Su 9:30-13:00",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "phone": "+393282634164",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "yes"
             }
         },
         {

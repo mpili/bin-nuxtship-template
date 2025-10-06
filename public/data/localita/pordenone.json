@@ -367,12 +367,16 @@
             "id": 374317527,
             "lat": 45.9091303,
             "lon": 12.8636485,
-            "timestamp": "2024-01-15T14:56:02Z",
-            "version": 6,
-            "changeset": 146286047,
-            "user": "user_8y978a",
-            "uid": 20552772,
+            "timestamp": "2025-10-05T19:12:08Z",
+            "version": 7,
+            "changeset": 172882267,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "San Vito al Tagliamento",
+                "addr:housenumber": "60/7",
+                "addr:postcode": "33078",
+                "addr:street": "Via Guglielmo Oberdan",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
@@ -427,6 +431,25 @@
                 "brand:wikidata": "Q610492",
                 "name": "Despar",
                 "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 600014638,
+            "lat": 45.9150401,
+            "lon": 12.855835,
+            "timestamp": "2022-05-18T14:57:34Z",
+            "version": 3,
+            "changeset": 121151967,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
                 "wheelchair": "yes"
             }
         },
@@ -493,6 +516,24 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1105343638,
+            "lat": 46.0619559,
+            "lon": 13.232923,
+            "timestamp": "2025-09-24T18:53:43Z",
+            "version": 3,
+            "changeset": 172408139,
+            "user": "dellared",
+            "uid": 8620567,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2025-09-24",
+                "name": "La Feltrinelli",
+                "shop": "books"
             }
         },
         {
@@ -822,6 +863,26 @@
         },
         {
             "type": "node",
+            "id": 2349962646,
+            "lat": 45.6657071,
+            "lon": 12.2464618,
+            "timestamp": "2024-05-01T10:11:52Z",
+            "version": 3,
+            "changeset": 150742493,
+            "user": "eltstrym",
+            "uid": 14366386,
+            "tags": {
+                "addr:housenumber": "5",
+                "addr:postcode": "31100",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 2487093320,
             "lat": 46.0557955,
             "lon": 13.2234078,
@@ -858,6 +919,30 @@
                 "name": "Spar",
                 "ref:vatin": "IT00882800212",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2589634616,
+            "lat": 45.6670787,
+            "lon": 12.2429479,
+            "timestamp": "2023-10-01T21:01:03Z",
+            "version": 6,
+            "changeset": 142005104,
+            "user": "Tresho",
+            "uid": 6178157,
+            "tags": {
+                "addr:city": "Treviso",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "31100",
+                "addr:street": "Via Antonio Canova",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2023-10-01",
+                "name": "La Feltrinelli",
+                "ref:vatin": "IT04628790968",
+                "shop": "books"
             }
         },
         {
@@ -984,6 +1069,24 @@
                 "brand:wikidata": "Q610492",
                 "name": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3033183417,
+            "lat": 45.6715328,
+            "lon": 12.5355711,
+            "timestamp": "2023-04-11T14:06:56Z",
+            "version": 3,
+            "changeset": 134776199,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -1598,11 +1701,11 @@
             "id": 4531859723,
             "lat": 45.6794051,
             "lon": 12.2274499,
-            "timestamp": "2025-01-06T02:31:47Z",
-            "version": 6,
-            "changeset": 161042433,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-10-06T13:16:22Z",
+            "version": 7,
+            "changeset": 172913969,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Treviso",
                 "addr:country": "IT",
@@ -1617,7 +1720,6 @@
                 "opening_hours": "Tu-Su 18:00-21:30",
                 "payment:cash": "yes",
                 "payment:contactless": "yes",
-                "payment:cryptocurrencies": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:mastercard": "yes",
@@ -1772,12 +1874,16 @@
             "id": 5074901962,
             "lat": 45.6362399,
             "lon": 13.0594657,
-            "timestamp": "2024-04-23T12:28:02Z",
-            "version": 5,
-            "changeset": 150390499,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-06T14:08:10Z",
+            "version": 6,
+            "changeset": 172916599,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "San Michele Al Tagliamento",
+                "addr:housenumber": "10/A 2",
+                "addr:postcode": "30028",
+                "addr:street": "Viale delle Costellazioni",
                 "brand": "Chicco",
                 "brand:wikidata": "Q27897515",
                 "name": "Chicco",
@@ -1827,6 +1933,24 @@
                 "brand:wikipedia": "en:Spar (retailer)",
                 "name": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5316635156,
+            "lat": 45.6664578,
+            "lon": 12.2439911,
+            "timestamp": "2022-09-25T09:25:57Z",
+            "version": 4,
+            "changeset": 126608069,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "alt_name": "L'Erbolario",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -2158,6 +2282,29 @@
         },
         {
             "type": "node",
+            "id": 6047084027,
+            "lat": 46.062588,
+            "lon": 13.2333823,
+            "timestamp": "2023-09-04T18:37:22Z",
+            "version": 3,
+            "changeset": 140818925,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Udine",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "33100",
+                "addr:street": "Via Paolo Canciani",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 6071619817,
             "lat": 46.0623767,
             "lon": 13.2347877,
@@ -2477,6 +2624,24 @@
         },
         {
             "type": "node",
+            "id": 7179860064,
+            "lat": 45.8785247,
+            "lon": 12.3147582,
+            "timestamp": "2025-01-13T17:46:21Z",
+            "version": 4,
+            "changeset": 161319314,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 7179860067,
             "lat": 45.8787735,
             "lon": 12.3149456,
@@ -2650,6 +2815,25 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8432670707,
+            "lat": 46.1390371,
+            "lon": 12.2182308,
+            "timestamp": "2025-04-29T09:42:14Z",
+            "version": 3,
+            "changeset": 165583329,
+            "user": "diegomodolo",
+            "uid": 8109808,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "disused:shop": "yes",
+                "name": "United Colors of Benetton",
+                "short_name": "Benetton"
             }
         },
         {
@@ -3457,6 +3641,27 @@
         },
         {
             "type": "node",
+            "id": 9962662584,
+            "lat": 45.791471,
+            "lon": 12.8164486,
+            "timestamp": "2023-10-16T19:31:53Z",
+            "version": 4,
+            "changeset": 142680656,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 10:00-20:00",
+                "phone": "+39 0421 760647",
+                "shop": "cosmetics",
+                "website": "https://www.bottegaverde.com/it",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9965944446,
             "lat": 45.640023,
             "lon": 12.5968305,
@@ -3474,6 +3679,33 @@
                 "phone": "+39 0421 229065",
                 "shop": "clothes",
                 "website": "https://www.calzedonia.com/it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9965944454,
+            "lat": 45.6402848,
+            "lon": 12.5968631,
+            "timestamp": "2025-10-06T13:06:57Z",
+            "version": 7,
+            "changeset": 172913517,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "San Don\u00e0 di Piave",
+                "addr:housenumber": "59",
+                "addr:postcode": "30027",
+                "addr:street": "Via Iseo",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "check_date:opening_hours": "2023-09-24",
+                "email": "nego0260@bottegaverde.com",
+                "name": "Bottega Verde",
+                "opening_hours:signed": "no",
+                "phone": "+39 0421 222709",
+                "shop": "cosmetics",
+                "website": "https://www.bottegaverde.it/",
                 "wheelchair": "yes"
             }
         },
@@ -3634,6 +3866,24 @@
         },
         {
             "type": "node",
+            "id": 10098029847,
+            "lat": 45.7758583,
+            "lon": 12.8382267,
+            "timestamp": "2024-05-14T10:37:27Z",
+            "version": 2,
+            "changeset": 151306084,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 10098029858,
             "lat": 45.7744442,
             "lon": 12.8383377,
@@ -3731,6 +3981,42 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10560584773,
+            "lat": 45.8860237,
+            "lon": 12.2977309,
+            "timestamp": "2023-01-17T00:36:36Z",
+            "version": 1,
+            "changeset": 131357518,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10560584774,
+            "lat": 45.8857392,
+            "lon": 12.2964772,
+            "timestamp": "2023-05-07T12:33:11Z",
+            "version": 2,
+            "changeset": 135809382,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -3877,6 +4163,24 @@
         },
         {
             "type": "node",
+            "id": 11212250050,
+            "lat": 45.7765586,
+            "lon": 12.9948932,
+            "timestamp": "2023-09-23T12:23:58Z",
+            "version": 1,
+            "changeset": 141642563,
+            "user": "Latisana992",
+            "uid": 4179361,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 11222299089,
             "lat": 45.5797127,
             "lon": 12.6793623,
@@ -3899,6 +4203,31 @@
                 "phone": "+39 20231595",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-city-via-carlo-goldoni-2-30020--eraclea--001939",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11255288402,
+            "lat": 46.0225974,
+            "lon": 13.2742382,
+            "timestamp": "2025-10-06T13:15:45Z",
+            "version": 6,
+            "changeset": 172913926,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Pradamano",
+                "addr:housenumber": "108",
+                "addr:postcode": "33040",
+                "addr:street": "Via Nazionale",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "cosmetics",
+                "survey:date": "2023-10-13",
+                "website": "https://www.bottegaverde.com/",
                 "wheelchair": "yes"
             }
         },
@@ -4436,11 +4765,11 @@
             "id": 12475760667,
             "lat": 45.8930405,
             "lon": 12.3236976,
-            "timestamp": "2025-01-11T23:13:14Z",
-            "version": 3,
-            "changeset": 161257177,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2025-10-06T13:16:07Z",
+            "version": 4,
+            "changeset": 172913955,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Conegliano",
                 "addr:housenumber": "159",
@@ -4455,7 +4784,6 @@
                 "opening_hours": "Mo-We 09:00-16:00; Th 09:00-12:45,15:00-19:00",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
-                "payment:cryptocurrencies": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
@@ -4518,6 +4846,27 @@
                 "payment:onchain": "yes",
                 "phone": "+39 392 9173243",
                 "website": "https://www.linkedin.com/in/daniele-momi-849073102/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12623094406,
+            "lat": 46.2659009,
+            "lon": 13.1134896,
+            "timestamp": "2025-10-06T13:34:23Z",
+            "version": 2,
+            "changeset": 172914855,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Gemona del Friuli",
+                "addr:housenumber": "209",
+                "addr:postcode": "33013",
+                "addr:street": "Via Osoppo",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
