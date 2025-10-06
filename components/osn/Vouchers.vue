@@ -1,14 +1,14 @@
-<script>
-export default {
-  props: {
-    pending: {
-      required: true,
-    },
-    dbdata: {
-      required: true,
-    },
-  },
-};
+<script setup>
+const props = defineProps(["brandwikidata"]);
+const url_api_vouchers = `https://bin-dev.pockethost.io/api/collections/vouchers/records?filter=(value='${props.brandwikidata}')`;
+const {
+  pending: pending,
+  data: dbdata,
+  error: error,
+} = await useLazyFetch(url_api_vouchers, {
+  lazy: true,
+  server: false,
+});
 </script>
 
 <template>

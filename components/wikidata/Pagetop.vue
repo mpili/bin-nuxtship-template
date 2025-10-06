@@ -2,8 +2,7 @@
 const props = defineProps(["brandwikidata"]);
 
 const brand_wikidata = props.brandwikidata;
-const apiUrl = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${brand_wikidata}&format=json&props=labels|descriptions&origin=*`;
-// const apiUrl = `https://www.wikidata.org/w/api.php?action=wbgetentities&amp;ids=${brand_wikidata}&amp;format=json`;
+const apiUrl = useApiWikidata(brand_wikidata);
 
 const {
   pending: pending,
@@ -18,17 +17,13 @@ const {
 <template>
 	<div>
 		<div v-if="pending">
-			<p>pending: {{pending}} ... </p>
+			<div class="flex w-52 flex-col gap-4">
+			<div class="skeleton h-4 w-full"></div>
+			<div class="skeleton h-4 w-full"></div>
+			</div>
 		</div>
 		<div v-else>
-			<LandingSectionhead>
-			<template v-slot:title>
-				{{wikidata?.entities[brand_wikidata]?.labels?.it?.value}}
-			</template>
-			<template v-slot:desc>
-					{{wikidata?.entities[brand_wikidata]?.descriptions?.it?.value}}
-			</template>
-			</LandingSectionhead>
+			<WikidataSectionhead :wikidataentities="wikidata?.entities[brand_wikidata]" />
 
 			<!-- <div tabindex="0" class="collapse bg-base-100 border-base-300 border my-4">
 				<div class="collapse-title text-gray-400">Dettaglio dati wikidata</div>

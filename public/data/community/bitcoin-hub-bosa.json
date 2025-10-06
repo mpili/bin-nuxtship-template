@@ -355,6 +355,25 @@
         },
         {
             "type": "node",
+            "id": 3048961260,
+            "lat": 39.9062616,
+            "lon": 8.5895867,
+            "timestamp": "2021-12-14T07:32:03Z",
+            "version": 3,
+            "changeset": 114910209,
+            "user": "Fabiano Peddis",
+            "uid": 1096017,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 3057815551,
             "lat": 40.7118496,
             "lon": 8.55035,
@@ -1503,6 +1522,44 @@
                 "shop": "clothes",
                 "type": "multipolygon",
                 "website": "https://www.ovs.it/"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 7621423,
+            "timestamp": "2023-09-20T20:54:31Z",
+            "version": 2,
+            "changeset": 141531695,
+            "user": "DnaX",
+            "uid": 69259,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 529280241,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 529280239,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 529280204,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "indoor": "room",
+                "level": "0",
+                "name": "United Colors of Benetton",
+                "phone": "+39 0783 211369",
+                "ref": "23",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "type": "multipolygon"
             }
         }
     ],

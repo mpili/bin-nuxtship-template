@@ -400,6 +400,23 @@
         },
         {
             "type": "node",
+            "id": 3397179612,
+            "lat": 38.1175953,
+            "lon": 13.3632633,
+            "timestamp": "2024-02-08T13:29:41Z",
+            "version": 3,
+            "changeset": 147209701,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 3430583701,
             "lat": 38.1416113,
             "lon": 13.3479987,
@@ -801,6 +818,34 @@
         },
         {
             "type": "node",
+            "id": 5429709777,
+            "lat": 38.1216742,
+            "lon": 13.3587166,
+            "timestamp": "2024-04-26T07:27:17Z",
+            "version": 6,
+            "changeset": 150524366,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "133",
+                "addr:postcode": "90133",
+                "addr:street": "Via Camillo Benso Conte di Cavour",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "contact:facebook": "LaFeltrinelliPalermo",
+                "description": "Libri, fumetti, DVD, Blu-ray e giochi di societ\u00e0",
+                "description:en": "Books, Comics, DVD, Blu-ray and board games",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Sa 09:30-20:30; Su 10:00-13:30, 16:00-20:30",
+                "phone": "+39 02 9194 7777",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 5429712370,
             "lat": 38.1150234,
             "lon": 13.3645299,
@@ -861,6 +906,25 @@
                 "phone": "+39 091 271 9275",
                 "shop": "clothes",
                 "website": "https://stores.ovs.it/it/italia/sicilia/palermo/ovs-palermo-ruggero-vii",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5451557175,
+            "lat": 38.123066,
+            "lon": 13.3568564,
+            "timestamp": "2023-02-14T01:38:38Z",
+            "version": 4,
+            "changeset": 132515231,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
                 "wheelchair": "yes"
             }
         },
@@ -1437,6 +1501,23 @@
                 "brand:wikidata": "Q116214505",
                 "name": "Kasanova",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7369034076,
+            "lat": 38.0789721,
+            "lon": 13.5116433,
+            "timestamp": "2024-10-16T15:34:17Z",
+            "version": 2,
+            "changeset": 157970841,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -2205,6 +2286,24 @@
         },
         {
             "type": "node",
+            "id": 11509239395,
+            "lat": 38.18496,
+            "lon": 13.3075078,
+            "timestamp": "2024-01-11T20:35:04Z",
+            "version": 2,
+            "changeset": 146155595,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11509251760,
             "lat": 38.1847245,
             "lon": 13.3077098,
@@ -2218,6 +2317,24 @@
                 "brand:wikidata": "Q1027874",
                 "name": "Calzedonia",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11509272608,
+            "lat": 38.1827329,
+            "lon": 13.3090405,
+            "timestamp": "2024-01-11T20:36:38Z",
+            "version": 2,
+            "changeset": 146155595,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books",
                 "wheelchair": "yes"
             }
         },
@@ -2721,6 +2838,43 @@
         },
         {
             "type": "way",
+            "id": 201333681,
+            "timestamp": "2024-01-24T19:48:31Z",
+            "version": 5,
+            "changeset": 146643988,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                2112899455,
+                2112899449,
+                2112899443,
+                2112899438,
+                2112899432,
+                2112899425,
+                2112899419,
+                2112899477,
+                2112899468,
+                1576023807,
+                2112899508,
+                2112899483,
+                2112899493,
+                2112899466,
+                2112899455
+            ],
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "indoor": "room",
+                "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "ref": "14",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 201333686,
             "timestamp": "2024-01-24T19:43:03Z",
             "version": 6,
@@ -2770,6 +2924,33 @@
                 "opening_hours": "Mo-Su 09:00-21:00",
                 "ref": "76",
                 "shop": "baby_goods",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 201333708,
+            "timestamp": "2024-01-24T19:45:23Z",
+            "version": 5,
+            "changeset": 146643988,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                2112899554,
+                2112899539,
+                2112899553,
+                2112899559,
+                2112899566,
+                2112899554
+            ],
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "indoor": "room",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "ref": "38",
+                "shop": "cosmetics",
                 "wheelchair": "yes"
             }
         },

@@ -152,6 +152,26 @@
         },
         {
             "type": "node",
+            "id": 1448697526,
+            "lat": 40.586319,
+            "lon": 17.1197752,
+            "timestamp": "2020-12-28T11:02:09Z",
+            "version": 3,
+            "changeset": 96529768,
+            "user": "Domenico D'Erchia",
+            "uid": 10192503,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "clothes": "children",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 2046175256,
             "lat": 40.5368594,
             "lon": 17.6473501,
@@ -299,6 +319,27 @@
         },
         {
             "type": "node",
+            "id": 4248791722,
+            "lat": 40.7279821,
+            "lon": 17.5740732,
+            "timestamp": "2025-10-06T11:08:10Z",
+            "version": 3,
+            "changeset": 172908031,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Ostuni",
+                "addr:housenumber": "3",
+                "addr:postcode": "72017",
+                "addr:street": "Viale Pola",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4250677310,
             "lat": 40.7271504,
             "lon": 17.5792281,
@@ -335,6 +376,24 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4254263957,
+            "lat": 40.7272901,
+            "lon": 17.5751594,
+            "timestamp": "2025-03-25T14:09:18Z",
+            "version": 2,
+            "changeset": 164079084,
+            "user": "evillz",
+            "uid": 22552063,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -1020,6 +1079,25 @@
         },
         {
             "type": "node",
+            "id": 9822563761,
+            "lat": 40.4708624,
+            "lon": 17.2435621,
+            "timestamp": "2022-06-16T12:13:49Z",
+            "version": 1,
+            "changeset": 122461831,
+            "user": "\u014b\u018e\u014b",
+            "uid": 8630714,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 9822563764,
             "lat": 40.4715401,
             "lon": 17.2422816,
@@ -1052,6 +1130,28 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9860173627,
+            "lat": 40.4611296,
+            "lon": 17.3000348,
+            "timestamp": "2025-10-06T13:05:42Z",
+            "version": 3,
+            "changeset": 172913469,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Taranto",
+                "addr:postcode": "74121",
+                "addr:street": "Via per San Giorgio",
+                "beauty": "cosmetics",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "phone": "+39 099 779 7448",
+                "shop": "cosmetics"
             }
         },
         {
@@ -1398,6 +1498,29 @@
                 "name": "Despar",
                 "opening_hours": "Mo-Sa 08:00-13:30, 17:00-21:00; Su 08:30-13:00",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12020070141,
+            "lat": 40.4709151,
+            "lon": 17.245538,
+            "timestamp": "2024-06-29T11:34:31Z",
+            "version": 1,
+            "changeset": 153328270,
+            "user": "LorC",
+            "uid": 1545666,
+            "tags": {
+                "addr:city": "Taranto",
+                "addr:housenumber": "25",
+                "addr:postcode": "74123",
+                "addr:street": "Via Di Palma",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2023-09-24",
+                "level": "1",
+                "name": "La Feltrinelli",
+                "shop": "books"
             }
         },
         {

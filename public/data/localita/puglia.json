@@ -132,6 +132,41 @@
         },
         {
             "type": "node",
+            "id": 2335104809,
+            "lat": 41.1232368,
+            "lon": 16.869419,
+            "timestamp": "2024-11-16T22:04:19Z",
+            "version": 9,
+            "changeset": 159224083,
+            "user": "Caramell",
+            "uid": 21836575,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housename": "Palazzo Mincuzzi",
+                "addr:housenumber": "65",
+                "addr:postcode": "70121",
+                "addr:street": "Via Nicol\u00f2 Putignani",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date": "2024-11-16",
+                "clothes": "women;men;children",
+                "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Sa 09:30-20:30; Su 10:00-20:30",
+                "operator": "Primavera Retail s.r.l.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39 080 2194611",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "source": "survey",
+                "stroller": "yes",
+                "website": "https://it.benetton.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2740095500,
             "lat": 41.1180877,
             "lon": 16.5501038,
@@ -238,6 +273,29 @@
                 "name": "Conad City",
                 "operator": "CONAD La Perla S.R.L.",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4407114789,
+            "lat": 41.1225422,
+            "lon": 16.8712829,
+            "timestamp": "2025-04-29T08:34:54Z",
+            "version": 9,
+            "changeset": 165580431,
+            "user": "Caramell",
+            "uid": 21836575,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "119",
+                "addr:postcode": "70121",
+                "addr:street": "Via Melo da Bari",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "contact:phone": "+30 02 91947777",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su,PH 10:00-21:00",
+                "shop": "books"
             }
         },
         {
@@ -354,6 +412,24 @@
         },
         {
             "type": "node",
+            "id": 5026721776,
+            "lat": 41.2152525,
+            "lon": 16.5478486,
+            "timestamp": "2024-01-01T15:52:50Z",
+            "version": 2,
+            "changeset": 145766681,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 5026887065,
             "lat": 41.2177986,
             "lon": 16.5453455,
@@ -408,6 +484,29 @@
                 "shop": "clothes",
                 "website": "https://www.hm.com",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5666387462,
+            "lat": 41.1213138,
+            "lon": 16.8723309,
+            "timestamp": "2024-06-01T12:56:22Z",
+            "version": 4,
+            "changeset": 152120125,
+            "user": "Alexis04132",
+            "uid": 20509407,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "153",
+                "addr:postcode": "70121",
+                "addr:street": "Corso Cavour",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "phone": "+39 0805248245",
+                "shop": "cosmetics",
+                "website": "https://www.bottegaverde.com/it-it/storelocator/bari/bari_ba_cso_cavour_153"
             }
         },
         {
@@ -876,6 +975,32 @@
         },
         {
             "type": "node",
+            "id": 9963236683,
+            "lat": 41.1304164,
+            "lon": 16.5474292,
+            "timestamp": "2024-09-06T13:42:30Z",
+            "version": 2,
+            "changeset": 156275956,
+            "user": "Fradeve11",
+            "uid": 37791,
+            "tags": {
+                "addr:city": "Terlizzi",
+                "addr:postcode": "70038",
+                "addr:street": "Viale Roma",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date": "2024-09-05",
+                "name": "United Colors of Benetton",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "payment:visa_debit": "yes",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 9963582755,
             "lat": 41.1304126,
             "lon": 16.547735,
@@ -1182,6 +1307,28 @@
         },
         {
             "type": "node",
+            "id": 11187718881,
+            "lat": 41.0985024,
+            "lon": 16.8283859,
+            "timestamp": "2023-11-22T20:38:52Z",
+            "version": 5,
+            "changeset": 144342473,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:street": "Strada Santa Caterina",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "level": "0",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "books",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11369400599,
             "lat": 41.0980605,
             "lon": 16.8280621,
@@ -1235,6 +1382,25 @@
                 "name": "Intimissimi",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11369414740,
+            "lat": 41.0975334,
+            "lon": 16.8282948,
+            "timestamp": "2023-11-22T20:24:41Z",
+            "version": 4,
+            "changeset": 144341788,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "cosmetics",
                 "wheelchair": "yes"
             }
         },
@@ -1361,6 +1527,27 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11476409144,
+            "lat": 41.204866,
+            "lon": 16.5526628,
+            "timestamp": "2025-10-06T13:21:32Z",
+            "version": 2,
+            "changeset": 172914200,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Molfetta",
+                "addr:housenumber": "1",
+                "addr:postcode": "70056",
+                "addr:street": "Via Adriano Olivetti",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -1750,6 +1937,27 @@
         },
         {
             "type": "node",
+            "id": 12386277008,
+            "lat": 41.2746045,
+            "lon": 16.4202991,
+            "timestamp": "2025-10-06T13:33:39Z",
+            "version": 2,
+            "changeset": 172914826,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Trani",
+                "addr:housenumber": "45",
+                "addr:postcode": "76125",
+                "addr:street": "Piazza della Repubblica",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 12386277012,
             "lat": 41.2737142,
             "lon": 16.4220633,
@@ -1789,11 +1997,11 @@
             "id": 12393849251,
             "lat": 41.1081883,
             "lon": 16.8762336,
-            "timestamp": "2024-12-05T18:12:34Z",
-            "version": 11,
-            "changeset": 159967184,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-10-06T14:21:26Z",
+            "version": 12,
+            "changeset": 172917271,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Bari",
                 "addr:housenumber": "14sub 6",
@@ -1805,7 +2013,6 @@
                 "opening_hours": "solo su appuntamento olisticum.com",
                 "operator": "Homabio",
                 "payment:contanti": "yes",
-                "payment:cryptocurrencies": "yes",
                 "phone": "+39 389 623 9098",
                 "shop": "massage",
                 "website": "olisticum.com"
@@ -1816,9 +2023,9 @@
             "id": 12393849252,
             "lat": 41.1081906,
             "lon": 16.8762117,
-            "timestamp": "2025-05-29T17:59:50Z",
-            "version": 8,
-            "changeset": 166936320,
+            "timestamp": "2025-10-06T14:06:10Z",
+            "version": 9,
+            "changeset": 172916478,
             "user": "Comino",
             "uid": 6794624,
             "tags": {
@@ -1829,7 +2036,6 @@
                 "currency:XBT": "yes",
                 "name": "Galleria 1957",
                 "opening_hours": "galleria1957.it",
-                "payment:cryptocurrencies": "yes",
                 "tourism": "gallery",
                 "website": "galleria1957.it"
             }
@@ -1839,11 +2045,11 @@
             "id": 12393905390,
             "lat": 41.0064476,
             "lon": 17.1587436,
-            "timestamp": "2024-12-08T12:23:01Z",
-            "version": 4,
-            "changeset": 160054899,
-            "user": "mueschel",
-            "uid": 616774,
+            "timestamp": "2025-10-06T14:06:25Z",
+            "version": 5,
+            "changeset": 172916521,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Polignano a Mare",
                 "addr:housenumber": "342",
@@ -1852,7 +2058,6 @@
                 "name": "Studio Olisticum outdoor",
                 "opening_hours": "solo su appuntamento",
                 "operator": "Homabio",
-                "payment:cryptocurrencies": "yes",
                 "phone": "+39 389 623 9098",
                 "shop": "massage"
             }

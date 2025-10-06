@@ -303,6 +303,27 @@
         },
         {
             "type": "node",
+            "id": 1620381481,
+            "lat": 45.6503078,
+            "lon": 13.7746452,
+            "timestamp": "2025-07-28T20:39:37Z",
+            "version": 4,
+            "changeset": 169635695,
+            "user": "Aiman",
+            "uid": 67550,
+            "tags": {
+                "addr:city": "Trieste",
+                "addr:postcode": "34122",
+                "addr:state": "36",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 1801570428,
             "lat": 45.6496534,
             "lon": 13.773408,
@@ -540,6 +561,28 @@
         },
         {
             "type": "node",
+            "id": 3671580384,
+            "lat": 45.4330354,
+            "lon": 13.5218636,
+            "timestamp": "2022-05-13T13:46:00Z",
+            "version": 2,
+            "changeset": 120937298,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Umag",
+                "addr:postcode": "52470",
+                "addr:street": "Ulica 1. Svibnja",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "operator": "Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 4069049389,
             "lat": 45.6411232,
             "lon": 13.7899271,
@@ -745,6 +788,68 @@
                 "name:de": "Spar",
                 "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6178630870,
+            "lat": 45.2269524,
+            "lon": 13.5950338,
+            "timestamp": "2019-07-03T09:59:23Z",
+            "version": 2,
+            "changeset": 71852122,
+            "user": "jogemu",
+            "uid": 4453208,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "clothes": "children",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6178955226,
+            "lat": 45.2273451,
+            "lon": 13.5964676,
+            "timestamp": "2019-07-03T09:59:23Z",
+            "version": 2,
+            "changeset": 71852122,
+            "user": "jogemu",
+            "uid": 4453208,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "clothes": "underwear",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6178955227,
+            "lat": 45.2272049,
+            "lon": 13.5963747,
+            "timestamp": "2024-07-02T22:14:49Z",
+            "version": 6,
+            "changeset": 153478265,
+            "user": "paulbrunner",
+            "uid": 15541433,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "check_date": "2024-07-02",
+                "clothes": "women;men",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "no"
             }
         },
         {
@@ -1274,6 +1379,24 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9105264976,
+            "lat": 45.6498349,
+            "lon": 13.7691277,
+            "timestamp": "2021-11-21T17:04:36Z",
+            "version": 3,
+            "changeset": 114065659,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "brand:wikipedia": "it:Bottega Verde",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {

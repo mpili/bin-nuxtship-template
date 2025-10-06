@@ -611,6 +611,29 @@
         },
         {
             "type": "node",
+            "id": 311359527,
+            "lat": 44.4061584,
+            "lon": 8.9363404,
+            "timestamp": "2025-08-29T10:36:54Z",
+            "version": 9,
+            "changeset": 171176161,
+            "user": "Superchilum",
+            "uid": 4903102,
+            "tags": {
+                "addr:housenumber": "22 rosso",
+                "addr:street": "Via Ceccardo Roccatagliata Ceccardi",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2025-08-29",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+                "second_hand": "no",
+                "shop": "books",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 329993713,
             "lat": 44.1509334,
             "lon": 8.2881155,
@@ -963,6 +986,27 @@
         },
         {
             "type": "node",
+            "id": 1387115158,
+            "lat": 44.0035882,
+            "lon": 8.17025,
+            "timestamp": "2025-06-10T15:27:56Z",
+            "version": 5,
+            "changeset": 167449900,
+            "user": "Seandebasti",
+            "uid": 550560,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date:opening_hours": "2025-06-10",
+                "name": "United Colors of Benetton",
+                "opening_hours:signed": "no",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 1440699648,
             "lat": 44.2663544,
             "lon": 8.4320694,
@@ -1057,6 +1101,27 @@
                 "name": "Conad",
                 "operator": "Conad Margherita",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1547148845,
+            "lat": 44.4062914,
+            "lon": 8.9402969,
+            "timestamp": "2025-10-06T11:06:14Z",
+            "version": 6,
+            "changeset": 172907958,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "191 R",
+                "addr:postcode": "16121",
+                "addr:street": "Via San Vincenzo",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -1393,6 +1458,25 @@
         },
         {
             "type": "node",
+            "id": 3423362279,
+            "lat": 44.3077454,
+            "lon": 8.4802319,
+            "timestamp": "2023-09-13T11:49:06Z",
+            "version": 5,
+            "changeset": 141207148,
+            "user": "Fradeve11",
+            "uid": 37791,
+            "tags": {
+                "addr:housenumber": "9r",
+                "addr:street": "Via Cristoforo Astengo",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 3431855680,
             "lat": 44.3106397,
             "lon": 8.4778595,
@@ -1492,12 +1576,16 @@
             "id": 3743001045,
             "lat": 43.9521925,
             "lon": 8.1414417,
-            "timestamp": "2024-10-18T21:49:23Z",
-            "version": 2,
-            "changeset": 158069062,
-            "user": "nick1993",
-            "uid": 3335735,
+            "timestamp": "2025-10-06T15:30:47Z",
+            "version": 3,
+            "changeset": 172920905,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Andora",
+                "addr:housenumber": "48",
+                "addr:postcode": "17051",
+                "addr:street": "Via Cavour",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
@@ -1547,6 +1635,27 @@
                 "operator": "OVS",
                 "shop": "supermarket",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3781263628,
+            "lat": 44.4028091,
+            "lon": 8.9520505,
+            "timestamp": "2025-09-11T06:39:17Z",
+            "version": 4,
+            "changeset": 171767102,
+            "user": "Superchilum",
+            "uid": 4903102,
+            "tags": {
+                "branch": "Benetton Baby",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "check_date": "2025-09-11",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -1700,12 +1809,15 @@
             "id": 3867211141,
             "lat": 44.3073436,
             "lon": 8.4869257,
-            "timestamp": "2024-07-29T22:01:51Z",
-            "version": 4,
-            "changeset": 154582260,
-            "user": "bubix",
-            "uid": 1967477,
+            "timestamp": "2025-10-06T15:31:55Z",
+            "version": 5,
+            "changeset": 172920994,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Savona",
+                "addr:postcode": "17100",
+                "addr:street": "Piazza Luigi Calabresi",
                 "brand": "DESPAR",
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "it:SPAR",
@@ -1823,12 +1935,16 @@
             "id": 4611470064,
             "lat": 44.3128443,
             "lon": 8.4728662,
-            "timestamp": "2024-05-01T01:01:37Z",
-            "version": 3,
-            "changeset": 150731256,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-06T15:33:11Z",
+            "version": 4,
+            "changeset": 172921062,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Savona",
+                "addr:housenumber": "203",
+                "addr:postcode": "17100",
+                "addr:street": "Corso Agostino Ricci",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
                 "level": "0",
@@ -3487,6 +3603,28 @@
                 "name": "Kasanova",
                 "phone": "+39 0182 555421",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12318720577,
+            "lat": 44.0553044,
+            "lon": 8.1961166,
+            "timestamp": "2025-10-06T13:32:49Z",
+            "version": 4,
+            "changeset": 172914781,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Albenga",
+                "addr:housenumber": "37",
+                "addr:postcode": "17031",
+                "addr:street": "Regione Bagnoli",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics",
+                "wheelchair": "yes"
             }
         },
         {

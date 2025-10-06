@@ -378,6 +378,24 @@
         },
         {
             "type": "node",
+            "id": 1456840227,
+            "lat": 43.4706174,
+            "lon": 12.230791,
+            "timestamp": "2024-05-17T14:10:04Z",
+            "version": 2,
+            "changeset": 151456626,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 1545562345,
             "lat": 43.4627371,
             "lon": 12.2524005,
@@ -548,6 +566,32 @@
                 "operator": "OVS",
                 "shop": "clothes",
                 "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1962273549,
+            "lat": 43.4618,
+            "lon": 11.8792607,
+            "timestamp": "2023-06-22T13:03:35Z",
+            "version": 5,
+            "changeset": 137647080,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:country": "IT",
+                "addr:housenumber": "207",
+                "addr:postcode": "52100",
+                "addr:street": "Corso Italia",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "entrance": "yes",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "source": "survey",
+                "survey:date": "2012-10-11"
             }
         },
         {
@@ -1168,6 +1212,69 @@
         },
         {
             "type": "node",
+            "id": 8255892437,
+            "lat": 43.3195641,
+            "lon": 11.3312911,
+            "timestamp": "2024-04-29T22:25:20Z",
+            "version": 4,
+            "changeset": 150683360,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "21",
+                "addr:postcode": "53100",
+                "addr:street": "Banchi di Sopra",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8255967520,
+            "lat": 43.3204053,
+            "lon": 11.3311337,
+            "timestamp": "2024-04-09T12:34:29Z",
+            "version": 3,
+            "changeset": 149775607,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "52",
+                "addr:postcode": "53100",
+                "addr:street": "Banchi di Sopra",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8255967521,
+            "lat": 43.3206865,
+            "lon": 11.33094,
+            "timestamp": "2023-07-26T09:39:45Z",
+            "version": 3,
+            "changeset": 139028134,
+            "user": "aldoct",
+            "uid": 923271,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "64, 66",
+                "addr:postcode": "53100",
+                "addr:street": "Banchi di Sopra",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 8255967525,
             "lat": 43.3208186,
             "lon": 11.3306477,
@@ -1186,6 +1293,29 @@
                 "brand:wikipedia": "en:Foot Locker",
                 "name": "Foot Locker",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8373332335,
+            "lat": 43.3204958,
+            "lon": 11.3310836,
+            "timestamp": "2024-05-01T10:12:42Z",
+            "version": 3,
+            "changeset": 150742523,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "54;56;58;60",
+                "addr:postcode": "53100",
+                "addr:street": "Banchi di Sopra",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -1494,9 +1624,9 @@
             "id": 11071694522,
             "lat": 43.4635311,
             "lon": 11.8790102,
-            "timestamp": "2024-10-08T17:43:58Z",
-            "version": 4,
-            "changeset": 157638637,
+            "timestamp": "2025-10-05T20:12:21Z",
+            "version": 5,
+            "changeset": 172884353,
             "user": "Bota87",
             "uid": 19327867,
             "tags": {
@@ -1506,7 +1636,7 @@
                 "addr:postcode": "52100",
                 "addr:street": "Via Guido Monaco",
                 "check_date": "2024-09-23",
-                "check_date:currency:XBT": "2024-09-23",
+                "check_date:currency:XBT": "2025-10-03",
                 "currency:XBT": "yes",
                 "description": "Intermediazione e consulenza assicurativa",
                 "email": "assicurazioni.bartolozzi@gmail.com",
@@ -1827,6 +1957,27 @@
         },
         {
             "type": "node",
+            "id": 12073681908,
+            "lat": 43.5645102,
+            "lon": 11.5306993,
+            "timestamp": "2025-10-06T13:31:21Z",
+            "version": 3,
+            "changeset": 172914701,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "San Giovanni Valdarno",
+                "addr:housenumber": "111/C",
+                "addr:postcode": "52027",
+                "addr:street": "Corso Italia",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 12550106324,
             "lat": 43.4624968,
             "lon": 11.8768274,
@@ -1902,6 +2053,38 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13196452172,
+            "lat": 43.4679795,
+            "lon": 11.8503857,
+            "timestamp": "2025-10-05T20:32:22Z",
+            "version": 1,
+            "changeset": 172885051,
+            "user": "Bota87",
+            "uid": 19327867,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:housenumber": "20",
+                "addr:postcode": "52100",
+                "addr:street": "Via Ferraris",
+                "check_date:currency:XBT": "2025-09-24",
+                "contact:facebook": "https://www.facebook.com/ilgommaiosrls",
+                "currency:XBT": "yes",
+                "description": "Soccorso stradale Gommista",
+                "email": "s.gomma@libero.it",
+                "name": "Gommaio S'Gomma",
+                "opening_hours": "Mo-Sa 08:30-12:30; Mo-Fr 14:30-18:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0575 493955",
+                "phone:mobile": "+39 327 625 9254",
+                "ref:vatin": "02375110513",
+                "shop": "tyres",
+                "survey:date": "2025-09-24"
             }
         },
         {

@@ -336,6 +336,28 @@
         },
         {
             "type": "node",
+            "id": 1932859594,
+            "lat": 44.3832906,
+            "lon": 7.5411457,
+            "timestamp": "2025-03-21T11:13:46Z",
+            "version": 5,
+            "changeset": 163900571,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:housenumber": "26",
+                "addr:street": "Piazza Europa",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "clothes": "children",
+                "clothes:for": "0-12",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 3180506130,
             "lat": 44.5998988,
             "lon": 7.8701716,
@@ -491,6 +513,23 @@
         },
         {
             "type": "node",
+            "id": 4343768042,
+            "lat": 44.7101831,
+            "lon": 7.8361203,
+            "timestamp": "2023-09-12T21:21:13Z",
+            "version": 2,
+            "changeset": 141182110,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 4601828798,
             "lat": 44.4197719,
             "lon": 7.8545701,
@@ -556,6 +595,27 @@
                 "operator": "Unieuro S.p.A.",
                 "phone": "+39 0174 40423",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5139832622,
+            "lat": 44.5466721,
+            "lon": 7.7218473,
+            "timestamp": "2023-01-06T15:10:54Z",
+            "version": 3,
+            "changeset": 130951716,
+            "user": "Botaler",
+            "uid": 492756,
+            "tags": {
+                "addr:housenumber": "38",
+                "addr:postcode": "12045",
+                "addr:street": "Piazza Romanisio",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -776,6 +836,27 @@
         },
         {
             "type": "node",
+            "id": 6124649132,
+            "lat": 44.3865588,
+            "lon": 7.5445913,
+            "timestamp": "2019-10-24T12:54:29Z",
+            "version": 3,
+            "changeset": 76153365,
+            "user": "adriespo",
+            "uid": 1791267,
+            "tags": {
+                "addr:housenumber": "30",
+                "addr:street": "Corso Nizza",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 6124669914,
             "lat": 44.3851703,
             "lon": 7.5431336,
@@ -821,6 +902,26 @@
         },
         {
             "type": "node",
+            "id": 6170876934,
+            "lat": 44.391278,
+            "lon": 7.5493852,
+            "timestamp": "2023-09-07T21:26:18Z",
+            "version": 6,
+            "changeset": 140959122,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:housenumber": "62",
+                "addr:street": "Via Roma",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 6170876935,
             "lat": 44.3909324,
             "lon": 7.5490902,
@@ -837,6 +938,27 @@
                 "brand:wikipedia": "en:Guess (clothing)",
                 "name": "Guess",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6247484393,
+            "lat": 44.3922485,
+            "lon": 7.5507034,
+            "timestamp": "2025-10-06T12:54:13Z",
+            "version": 4,
+            "changeset": 172912926,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Cuneo",
+                "addr:housenumber": "33/A",
+                "addr:postcode": "12100",
+                "addr:street": "Via Roma",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -1116,33 +1238,6 @@
         },
         {
             "type": "node",
-            "id": 9363464490,
-            "lat": 44.6965687,
-            "lon": 7.8450746,
-            "timestamp": "2024-11-29T23:43:07Z",
-            "version": 4,
-            "changeset": 159759785,
-            "user": "Botaler",
-            "uid": 492756,
-            "tags": {
-                "addr:city": "Bra",
-                "addr:housenumber": "82",
-                "addr:postcode": "12042",
-                "addr:street": "Piazza Giovanni Giolitti",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "29342",
-                "self_service": "yes",
-                "source": "MISE - Ministero Sviluppo Economico"
-            }
-        },
-        {
-            "type": "node",
             "id": 9367545947,
             "lat": 44.5410716,
             "lon": 7.8246018,
@@ -1234,6 +1329,31 @@
                 "phone": "0175 85831",
                 "ref:vatin": "03552540043",
                 "shop": "bakery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936225426,
+            "lat": 44.4225797,
+            "lon": 7.8544449,
+            "timestamp": "2025-01-17T21:36:09Z",
+            "version": 2,
+            "changeset": 161471867,
+            "user": "PaoloLombardi",
+            "uid": 7113202,
+            "tags": {
+                "addr:housenumber": "47",
+                "addr:street": "Piazza Giovanni Jemina",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "clothes": "underwear",
+                "name": "United Colors of Benetton",
+                "phone": "+39 0174 529695",
+                "ref:vatin": "IT00633850169",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1383,12 +1503,16 @@
             "id": 12919635803,
             "lat": 44.3930888,
             "lon": 7.5824329,
-            "timestamp": "2025-07-03T20:45:50Z",
-            "version": 2,
-            "changeset": 168460707,
-            "user": "nick1993",
-            "uid": 3335735,
+            "timestamp": "2025-10-05T18:28:06Z",
+            "version": 3,
+            "changeset": 172880847,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Cuneo",
+                "addr:housenumber": "8",
+                "addr:postcode": "12100",
+                "addr:street": "Via Margarita",
                 "baby_feeding": "no",
                 "brand": "IKEA",
                 "brand:wikidata": "Q54078",

@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinapoli",
     "telegram_app": "https://t.me/bitcoinapoli",
-    "telegram_members": 23.0,
+    "telegram_members": 22.0,
     "poi": [
         {
             "type": "node",
@@ -518,12 +518,14 @@
             "id": 1387484818,
             "lat": 40.6828808,
             "lon": 14.7730984,
-            "timestamp": "2021-11-10T19:59:10Z",
-            "version": 4,
-            "changeset": 113624180,
-            "user": "Italian Technology",
-            "uid": 10622815,
+            "timestamp": "2025-10-05T18:12:26Z",
+            "version": 5,
+            "changeset": 172880298,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Salerno",
+                "addr:postcode": "84126",
                 "branch": "Silvarin",
                 "brand": "Expert",
                 "brand:wikidata": "Q680990",
@@ -697,6 +699,35 @@
                 "brand:wikipedia": "en:Expert (company)",
                 "name": "Expert",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2231525788,
+            "lat": 40.8520875,
+            "lon": 14.2724363,
+            "timestamp": "2024-08-12T07:16:46Z",
+            "version": 10,
+            "changeset": 155133020,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "email": "napoli-garibaldi@lafeltrinelli.it",
+                "level": "-1;0",
+                "name": "La Feltrinelli Express",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "operator": "FINLIBRI S.r.l.",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 081 225281",
+                "ref:vatin": "IT02309440283",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/punto-vendita/napoli/ls-napoli/806"
             }
         },
         {
@@ -920,6 +951,28 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3250009976,
+            "lat": 40.6780117,
+            "lon": 14.7632,
+            "timestamp": "2024-10-14T18:15:34Z",
+            "version": 3,
+            "changeset": 157890746,
+            "user": "paulbrunner",
+            "uid": 15541433,
+            "tags": {
+                "addr:city": "Salerno",
+                "addr:housenumber": "230",
+                "addr:street": "Corso Vittorio Emanuele",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2024-10-14",
+                "name": "La Feltrinelli",
+                "shop": "books",
+                "wheelchair": "no"
             }
         },
         {
@@ -1166,6 +1219,28 @@
                 "opening_hours": "09:00-22:00",
                 "phone": "+39 081 850 8056",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4043328543,
+            "lat": 40.7417565,
+            "lon": 14.5045936,
+            "timestamp": "2023-03-16T10:22:44Z",
+            "version": 2,
+            "changeset": 133742491,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Pompei",
+                "addr:housenumber": "22",
+                "addr:postcode": "80045",
+                "addr:street": "Via Macello",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "phone": "+39 081 8501181",
+                "shop": "cosmetics"
             }
         },
         {
@@ -1747,6 +1822,29 @@
         },
         {
             "type": "node",
+            "id": 5256543423,
+            "lat": 40.8416415,
+            "lon": 14.2492644,
+            "timestamp": "2023-04-28T19:41:22Z",
+            "version": 4,
+            "changeset": 135482401,
+            "user": "baprischka",
+            "uid": 974272,
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:housenumber": "70;72;74;76",
+                "addr:postcode": "80133",
+                "addr:street": "Via dei Greci",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2023-04-28",
+                "name": "La Feltrinelli",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it"
+            }
+        },
+        {
+            "type": "node",
             "id": 5257721032,
             "lat": 40.8387556,
             "lon": 14.2482341,
@@ -1981,6 +2079,31 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5782939782,
+            "lat": 41.0792927,
+            "lon": 14.2563179,
+            "timestamp": "2022-08-02T14:05:54Z",
+            "version": 2,
+            "changeset": 124394091,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Santa Maria Capua Vetere",
+                "addr:housenumber": "93",
+                "addr:postcode": "81055",
+                "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Sa 09:00-13:00, 16:00-20:30",
+                "phone": "+39 0823 890278",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "website": "https://it.benetton.com/"
             }
         },
         {
@@ -3363,6 +3486,24 @@
         },
         {
             "type": "node",
+            "id": 6429052916,
+            "lat": 40.6759245,
+            "lon": 14.7693533,
+            "timestamp": "2022-12-04T13:40:24Z",
+            "version": 2,
+            "changeset": 129705078,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 6561554808,
             "lat": 40.9170045,
             "lon": 14.2079362,
@@ -3635,6 +3776,25 @@
                 "phone": "+39 08 1551 8188",
                 "tourism": "hotel",
                 "website": "https://www.decumani.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7230768118,
+            "lat": 40.8365199,
+            "lon": 14.237536,
+            "timestamp": "2023-03-28T10:11:10Z",
+            "version": 3,
+            "changeset": 134213260,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date": "2022-07-03",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -4238,6 +4398,30 @@
         },
         {
             "type": "node",
+            "id": 8296863428,
+            "lat": 40.934468,
+            "lon": 14.3582229,
+            "timestamp": "2022-08-16T07:44:33Z",
+            "version": 3,
+            "changeset": 124958069,
+            "user": "alesarrett",
+            "uid": 1716320,
+            "tags": {
+                "branch": "Village",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "contact:city": "Afragola",
+                "contact:housenumber": "1",
+                "contact:postcode": "80121",
+                "contact:street": "Via Santa Maria la Nova",
+                "name": "La Feltrinelli Village",
+                "opening_hours": "Mo-Su 10:00-20:30; Sa 10:00-21:00",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/punto-vendita/marzasiepe-(afragola)/fl-napoli-leporte/769"
+            }
+        },
+        {
+            "type": "node",
             "id": 8296863434,
             "lat": 40.9334171,
             "lon": 14.3539997,
@@ -4338,6 +4522,25 @@
                 "name": "OVS",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8446464922,
+            "lat": 40.9417624,
+            "lon": 14.2721585,
+            "timestamp": "2021-02-22T17:08:17Z",
+            "version": 1,
+            "changeset": 99761789,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -4507,6 +4710,32 @@
                 "operator": "Sommella srl",
                 "ref:vatin": "IT08162931219",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8724233825,
+            "lat": 40.9420769,
+            "lon": 14.2733074,
+            "timestamp": "2022-01-13T23:06:44Z",
+            "version": 2,
+            "changeset": 116128022,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "addr:city": "Frattamaggiore",
+                "addr:housenumber": "213",
+                "addr:postcode": "80027",
+                "addr:street": "Corso Francesco Durante",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "brand:wikipedia": "it:Bottega Verde",
+                "contact:facebook": "https://www.facebook.com/1269.bottegaverde.smariacapuavetere.ce.it/",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-13:00,16:00-20:00",
+                "phone": "+39 081 836 9598",
+                "shop": "cosmetics",
+                "website": "https://www.bottegaverde.it"
             }
         },
         {
@@ -5272,6 +5501,23 @@
         },
         {
             "type": "node",
+            "id": 9111889092,
+            "lat": 40.9120102,
+            "lon": 14.3905323,
+            "timestamp": "2021-09-21T20:37:45Z",
+            "version": 1,
+            "changeset": 111514113,
+            "user": "Vesevius",
+            "uid": 14064622,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 9112103162,
             "lat": 40.9082825,
             "lon": 14.3944111,
@@ -5468,6 +5714,30 @@
         },
         {
             "type": "node",
+            "id": 9216478523,
+            "lat": 41.0720249,
+            "lon": 14.3337818,
+            "timestamp": "2024-11-24T17:36:19Z",
+            "version": 2,
+            "changeset": 159543116,
+            "user": "baprischka",
+            "uid": 974272,
+            "tags": {
+                "addr:city": "Caserta",
+                "addr:housenumber": "113",
+                "addr:postcode": "81100",
+                "addr:street": "Corso Trieste",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "check_date": "2024-11-24",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 9216478529,
             "lat": 41.0718605,
             "lon": 14.3334233,
@@ -5488,6 +5758,32 @@
                 "name": "OVS",
                 "operator": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9216478534,
+            "lat": 41.0717196,
+            "lon": 14.3369138,
+            "timestamp": "2024-11-24T20:20:29Z",
+            "version": 2,
+            "changeset": 159548458,
+            "user": "baprischka",
+            "uid": 974272,
+            "tags": {
+                "addr:city": "Caserta",
+                "addr:housenumber": "154",
+                "addr:postcode": "81100",
+                "addr:street": "Corso Trieste",
+                "branch": "Librerie",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2024-11-24",
+                "name": "La Feltrinelli",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "books"
             }
         },
         {
@@ -5550,6 +5846,27 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9250836604,
+            "lat": 41.0587011,
+            "lon": 14.6502054,
+            "timestamp": "2021-11-14T16:14:39Z",
+            "version": 1,
+            "changeset": 113769636,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Montesarchio",
+                "addr:street": "Via Benevento",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "brand:wikipedia": "en:Benetton Group",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -5673,6 +5990,28 @@
         },
         {
             "type": "node",
+            "id": 9316522050,
+            "lat": 40.92423,
+            "lon": 14.4602892,
+            "timestamp": "2025-10-06T13:01:58Z",
+            "version": 2,
+            "changeset": 172913288,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Marigliano",
+                "addr:housenumber": "477",
+                "addr:postcode": "80034",
+                "addr:street": "Corso Umberto I",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "brand:wikipedia": "it:Bottega Verde",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
             "id": 9332800504,
             "lat": 40.8694829,
             "lon": 14.3884001,
@@ -5745,6 +6084,53 @@
                 "level": "0",
                 "name": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9349045559,
+            "lat": 40.9108732,
+            "lon": 14.397916,
+            "timestamp": "2025-10-06T13:02:46Z",
+            "version": 2,
+            "changeset": 172913329,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Pomigliano d'Arco",
+                "addr:housenumber": "159",
+                "addr:postcode": "80038",
+                "addr:street": "Via Felice Terracciano",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "brand:wikipedia": "it:Bottega Verde",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9370349307,
+            "lat": 40.8345962,
+            "lon": 14.2423469,
+            "timestamp": "2024-12-20T00:38:52Z",
+            "version": 4,
+            "changeset": 160415144,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:housenumber": "23",
+                "addr:postcode": "80133",
+                "addr:street": "Via Santa Caterina",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2024-12-20",
+                "name": "La Feltrinelli",
+                "operator": "Feltrinelli S.p.A.",
+                "ref:vatin": "IT04628790968",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/punto-vendita/napoli/ms-napoli/550"
             }
         },
         {
@@ -6175,6 +6561,26 @@
         },
         {
             "type": "node",
+            "id": 9727321393,
+            "lat": 40.8782563,
+            "lon": 14.2833006,
+            "timestamp": "2024-07-15T10:59:00Z",
+            "version": 4,
+            "changeset": 153966248,
+            "user": "demetrio_m",
+            "uid": 196617,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "check_date": "2023-05-14",
+                "level": "1",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Su 06:00-20:30",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 9735724835,
             "lat": 40.9098731,
             "lon": 14.3927571,
@@ -6339,6 +6745,31 @@
                 "payment:credit_cards": "yes",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10009189170,
+            "lat": 41.0059786,
+            "lon": 14.3202092,
+            "timestamp": "2022-09-30T20:48:48Z",
+            "version": 2,
+            "changeset": 126840079,
+            "user": "lovelyfurball88",
+            "uid": 12424494,
+            "tags": {
+                "addr:city": "Marcianise",
+                "addr:postcode": "81025",
+                "addr:street": "Strada Statale Sannitica",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Su 10:00-20:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 3313612558",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -6716,6 +7147,27 @@
         },
         {
             "type": "node",
+            "id": 10237862193,
+            "lat": 40.6778286,
+            "lon": 14.7636403,
+            "timestamp": "2023-12-28T22:51:34Z",
+            "version": 3,
+            "changeset": 145639941,
+            "user": "salernomapping",
+            "uid": 20778157,
+            "tags": {
+                "addr:city": "Salerno",
+                "addr:postcode": "84122",
+                "addr:street": "Corso Vittorio Emanuele",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 10267359822,
             "lat": 40.6504235,
             "lon": 14.8198807,
@@ -6735,6 +7187,50 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10607947177,
+            "lat": 40.6315746,
+            "lon": 14.4095443,
+            "timestamp": "2023-02-05T12:41:12Z",
+            "version": 1,
+            "changeset": 132107517,
+            "user": "DomenicoCacace",
+            "uid": 10704165,
+            "tags": {
+                "addr:city": "Piano di Sorrento",
+                "addr:country": "IT",
+                "addr:housenumber": "54-58",
+                "addr:postcode": "80063",
+                "addr:street": "Corso Italia",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10607956633,
+            "lat": 40.6317247,
+            "lon": 14.4100989,
+            "timestamp": "2023-02-05T12:41:12Z",
+            "version": 1,
+            "changeset": 132107517,
+            "user": "DomenicoCacace",
+            "uid": 10704165,
+            "tags": {
+                "addr:city": "Piano di Sorrento",
+                "addr:country": "IT",
+                "addr:housenumber": "139",
+                "addr:postcode": "80063",
+                "addr:street": "Corso Italia",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -6805,12 +7301,16 @@
             "id": 10712389481,
             "lat": 40.9418441,
             "lon": 14.2660655,
-            "timestamp": "2023-03-05T15:13:31Z",
-            "version": 1,
-            "changeset": 133329084,
-            "user": "Acheloo",
-            "uid": 11366923,
+            "timestamp": "2025-10-06T14:10:11Z",
+            "version": 2,
+            "changeset": 172916692,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Frattamaggiore",
+                "addr:housenumber": "34",
+                "addr:postcode": "80027",
+                "addr:street": "Corso Vittorio Emanuele III",
                 "brand": "Chicco",
                 "brand:wikidata": "Q27897515",
                 "name": "Chicco",
@@ -6840,15 +7340,37 @@
         },
         {
             "type": "node",
+            "id": 10828979589,
+            "lat": 41.0167738,
+            "lon": 14.2238129,
+            "timestamp": "2025-09-21T13:34:42Z",
+            "version": 3,
+            "changeset": 172245848,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Teverola",
+                "addr:postcode": "81030",
+                "addr:street": "Strada Consortile Aversa Nord",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 10831573172,
             "lat": 40.9100138,
             "lon": 14.2230785,
-            "timestamp": "2023-04-22T09:58:11Z",
-            "version": 2,
-            "changeset": 135221984,
-            "user": "pippo6",
-            "uid": 11052147,
+            "timestamp": "2025-10-05T18:41:33Z",
+            "version": 3,
+            "changeset": 172881323,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Mugnano di Napoli",
                 "amenity": "cafe",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
@@ -6859,6 +7381,28 @@
                 "opening_hours": "Mo-Su 09:00-21:00",
                 "operator": "DGS s.r.l.",
                 "ref:vatin": "IT09587821217"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10832180472,
+            "lat": 40.9110662,
+            "lon": 14.2228541,
+            "timestamp": "2025-10-06T13:12:37Z",
+            "version": 3,
+            "changeset": 172913790,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Mugnano di Napoli",
+                "addr:housenumber": "54",
+                "addr:postcode": "80018",
+                "addr:street": "Via Pietro Nenni",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "level": "0",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
@@ -7397,6 +7941,47 @@
         },
         {
             "type": "node",
+            "id": 11403277300,
+            "lat": 40.9134768,
+            "lon": 14.785912,
+            "timestamp": "2023-12-08T14:15:50Z",
+            "version": 1,
+            "changeset": 144905598,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Avellino",
+                "addr:postcode": "83100",
+                "addr:street": "Corso Vittorio Emanuele II",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11403277306,
+            "lat": 40.9138236,
+            "lon": 14.7886114,
+            "timestamp": "2023-12-08T14:15:50Z",
+            "version": 1,
+            "changeset": 144905598,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Avellino",
+                "addr:postcode": "83100",
+                "addr:street": "Corso Vittorio Emanuele II",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 11403277313,
             "lat": 40.9126931,
             "lon": 14.7881194,
@@ -7576,6 +8161,28 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11677473362,
+            "lat": 40.8520289,
+            "lon": 14.2723679,
+            "timestamp": "2024-04-06T08:08:08Z",
+            "version": 2,
+            "changeset": 149643574,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "check_date": "2023-09-05",
+                "level": "-1",
+                "name": "Bottega Verde",
+                "operator": "Bottega Verde s.r.l.",
+                "phone": "+39 081 203 371",
+                "ref:vatin": "IT00823350525",
+                "shop": "cosmetics"
             }
         },
         {
@@ -8058,6 +8665,23 @@
         },
         {
             "type": "node",
+            "id": 12121079713,
+            "lat": 40.8515286,
+            "lon": 14.2723765,
+            "timestamp": "2024-10-28T18:38:09Z",
+            "version": 2,
+            "changeset": 158468850,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 12422859431,
             "lat": 40.875188,
             "lon": 14.1224591,
@@ -8285,6 +8909,23 @@
                 "name": "Upim",
                 "shop": "department_store",
                 "toilets": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12809264440,
+            "lat": 40.7487868,
+            "lon": 14.599318,
+            "timestamp": "2025-05-04T11:50:16Z",
+            "version": 2,
+            "changeset": 165794995,
+            "user": "Venom88",
+            "uid": 2177199,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {
