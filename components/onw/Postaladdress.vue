@@ -26,7 +26,7 @@ const props = defineProps(["tags"]);
           {{ tags["addr:suburb"] }}
         </span>
       </p>
-      <p><OsnCapcittapr :tags="tags" /></p>
+      <p><OnwCapcittapr :tags="tags" /></p>
       <!-- <p v-if="tags['addr:postcode']">
         <span>
           {{ tags["addr:postcode"] }}

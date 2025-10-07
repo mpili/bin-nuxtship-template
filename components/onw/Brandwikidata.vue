@@ -6,8 +6,6 @@ const props = defineProps(["brandwikidata"]);
 	<NuxtLink
 		v-if="brandwikidata"
 		:to="`/oswd/${brandwikidata}`"
-		target="_blank"
-		rel="noopener"
 		class="text-primary font-bold hover:underline"
 	>
 		<OnwTag

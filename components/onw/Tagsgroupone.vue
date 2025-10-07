@@ -2,7 +2,7 @@
 const props = defineProps(["data"]);
 </script>
 <template>
-  <OsnPostaladdress :tags="data?.tags" />
+  <OnwPostaladdress :tags="data?.tags" />
   <OsnTelefoni :tags="data?.tags" />
   <!-- <OsnEventi :idnodosm="data?.id" /> -->
   <OsnTagyesno
@@ -52,6 +52,13 @@ const props = defineProps(["data"]);
     :testo="data.tags['opening_hours']"
   />
   <div v-if="data?.tags?.note">{{ data?.tags?.note }}</div>
+
+  <OnwTag
+    v-if="data?.tags['ref:msal']"
+    icona="tabler:hexagon-letter-h"
+    etichetta="codice Ministero della Salute (MSAL)"
+    :testo="data?.tags['ref:msal']"
+  />
 
   <OnwTag
     v-if="data?.tags?.brand"

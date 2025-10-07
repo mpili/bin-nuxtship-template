@@ -65,7 +65,7 @@ useHead({
       <ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
     </LMap>
   </div>
-
-  <ComunitaPoislist :datapois="data.poi" />
+  
+  <OnwListapoi :datapois="data.poi" />
   <LandingDisclaimer />
 </template>

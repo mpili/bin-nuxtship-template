@@ -11,6 +11,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div class="py-2">
+    mappa
     <div v-if="pending">
       <span class="loading loading-spinner loading-xs"></span>
     </div>

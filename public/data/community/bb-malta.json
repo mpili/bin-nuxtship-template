@@ -7,7 +7,7 @@
     "idlocalita": "malta",
     "telegram_weburl": "https://web.telegram.org/a/#-1001979747988",
     "telegram_app": "https://t.me/bitcoinmaltahub",
-    "telegram_members": 41.0,
+    "telegram_members": 42.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -404,9 +404,9 @@
             "id": 10926232059,
             "lat": 35.9146866,
             "lon": 14.4961673,
-            "timestamp": "2025-07-15T18:01:54Z",
-            "version": 5,
-            "changeset": 168978369,
+            "timestamp": "2025-10-07T18:57:55Z",
+            "version": 6,
+            "changeset": 172973762,
             "user": "Rockedf",
             "uid": 7522075,
             "tags": {
@@ -420,6 +420,7 @@
                 "currency:XBT": "yes",
                 "email": "info@planbbarber.com",
                 "name": "Plan B Balluta Bay",
+                "payment:blink": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",

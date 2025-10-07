@@ -305,27 +305,6 @@
         },
         {
             "type": "node",
-            "id": 3932168163,
-            "lat": 40.3607181,
-            "lon": 18.1748296,
-            "timestamp": "2025-03-17T11:53:26Z",
-            "version": 2,
-            "changeset": 163728385,
-            "user": "evillz",
-            "uid": 22552063,
-            "tags": {
-                "addr:city": "Lecce",
-                "addr:housenumber": "32c",
-                "addr:postcode": "73100",
-                "addr:street": "Via Alessandro Manzoni",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 4157128389,
             "lat": 40.3428996,
             "lon": 18.173077,
@@ -2462,11 +2441,11 @@
         {
             "type": "node",
             "id": 13197938875,
-            "lat": 40.3915104,
-            "lon": 18.2972526,
-            "timestamp": "2025-10-06T14:18:15Z",
-            "version": 1,
-            "changeset": 172917116,
+            "lat": 40.3914409,
+            "lon": 18.2968717,
+            "timestamp": "2025-10-07T10:05:01Z",
+            "version": 2,
+            "changeset": 172951316,
             "user": "angdev",
             "uid": 23366657,
             "tags": {
@@ -2519,6 +2498,29 @@
                 "name": "Conad",
                 "phone": "+390832344663",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13200394611,
+            "lat": 40.3538454,
+            "lon": 18.1729417,
+            "timestamp": "2025-10-07T09:27:57Z",
+            "version": 1,
+            "changeset": 172949709,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "13",
+                "addr:postcode": "73100",
+                "addr:street": "Via Templari",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "opening_hours": "Mo-Sa 09:30-20:30 Su 10:00-20:30",
+                "phone": "+3908321565060",
+                "shop": "department_store"
             }
         },
         {

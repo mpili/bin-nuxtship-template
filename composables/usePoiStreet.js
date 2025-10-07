@@ -6,5 +6,5 @@ export function usePoiStreet(poi) {
 	} else if (poi.tags["addr:place"]) {
 		return poi.tags["addr:place"];
 	}
-	return 'N/D';
+	return '';
 }
