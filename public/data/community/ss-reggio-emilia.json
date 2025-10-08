@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 179.0,
+    "telegram_members": 178.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1577,6 +1577,30 @@
         },
         {
             "type": "node",
+            "id": 4712517940,
+            "lat": 44.6470238,
+            "lon": 10.9255695,
+            "timestamp": "2025-01-14T10:44:55Z",
+            "version": 6,
+            "changeset": 161340062,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Modena",
+                "addr:country": "IT",
+                "addr:housenumber": "150",
+                "addr:postcode": "41121",
+                "addr:street": "Via Emilia Centro",
+                "addr:suburb": "Centro Storico",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician",
+                "source": "dati.emilia-romagna.it"
+            }
+        },
+        {
+            "type": "node",
             "id": 4712517944,
             "lat": 44.6469689,
             "lon": 10.925682,
@@ -2997,6 +3021,23 @@
         },
         {
             "type": "node",
+            "id": 9465613419,
+            "lat": 45.0882753,
+            "lon": 10.8560787,
+            "timestamp": "2025-01-14T15:08:38Z",
+            "version": 2,
+            "changeset": 161348779,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 9732393851,
             "lat": 44.8591105,
             "lon": 10.0879228,
@@ -3182,12 +3223,13 @@
             "id": 11216132037,
             "lat": 44.7907412,
             "lon": 10.8937717,
-            "timestamp": "2025-07-16T15:12:01Z",
-            "version": 2,
-            "changeset": 169018953,
-            "user": "balle0",
-            "uid": 22291818,
+            "timestamp": "2025-10-08T20:36:52Z",
+            "version": 3,
+            "changeset": 173022724,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Carpi",
                 "addr:housenumber": "72",
                 "addr:postcode": "41012",
                 "addr:street": "Via Franklin Delano Roosevelt",
@@ -4008,6 +4050,23 @@
                 "opening_hours": "Mo-Sa 07:30-21:00 Su 08:00-20:00",
                 "shop": "supermarket",
                 "website": "https://www.esselunga.it/it-it/negozi/negozio.esselunga-della-via-emilia-parma.pae.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12397673395,
+            "lat": 44.7989294,
+            "lon": 10.3412507,
+            "timestamp": "2025-01-14T10:33:48Z",
+            "version": 2,
+            "changeset": 161339635,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -5401,17 +5460,19 @@
         {
             "type": "way",
             "id": 454052114,
-            "timestamp": "2024-04-09T14:49:51Z",
-            "version": 4,
-            "changeset": 149781014,
-            "user": "Martin Ligabue",
-            "uid": 8305310,
+            "timestamp": "2025-10-08T09:53:43Z",
+            "version": 5,
+            "changeset": 172995077,
+            "user": "Gabri84",
+            "uid": 139148,
             "nodes": [
                 4506879156,
                 4506879157,
                 4506879158,
                 4506879159,
                 4506879160,
+                13202400910,
+                13202400911,
                 4506879161,
                 4506879156
             ],
@@ -5950,6 +6011,40 @@
                 "level": "0",
                 "name": "Foot Locker",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 571472754,
+            "timestamp": "2025-04-28T14:23:19Z",
+            "version": 7,
+            "changeset": 165551645,
+            "user": "damianeue",
+            "uid": 10124288,
+            "nodes": [
+                5492216375,
+                1786797721,
+                5492216379,
+                5494281157,
+                5492216380,
+                5492216377,
+                5492216376,
+                5492216375
+            ],
+            "tags": {
+                "addr:city": "Modena",
+                "addr:housenumber": "1480",
+                "addr:postcode": "41100",
+                "addr:street": "Via Emilia Ovest",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "description": "In Ottica GrandVision By Avanzi Grandemilia a Modena trovi uno staff di ottici qualificati che ti aiuteranno a trovare a Modena gli occhiali da sole, gli occhiali da vista o le lenti a contatto pi\u00f9 adatte a te. Prenota gratis il test ottico della vista al",
+                "indoor": "room",
+                "level": "0",
+                "name": "GrandVision",
+                "phone": "+39 059 886 0210",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/"
             }
         },
         {

@@ -30,15 +30,21 @@
 		"url": "/ost/healthcare/alternative"
 	},
 	{
-		"nome": "Veterinario",
-		"cta": "veterinario",
-		"img": "/img/spendere/veterinario.jpg",
-		"url": "/ost/amenity/veterinary"
-	},
-	{
 		"nome": "Centro fitness",
 		"cta": "centro fitness",
 		"img": "/img/spendere/centrofitness.jpg",
 		"url": "/ost/leisure/fitness_centre"
+	},
+	{
+		"nome": "Beauty center",
+		"cta": "beauty center",
+		"img": "/img/spendere/beautycenter.jpg",
+		"url": "/ost/shop/beauty"
+	},
+	{
+		"nome": "Veterinario",
+		"cta": "veterinario",
+		"img": "/img/spendere/veterinario.jpg",
+		"url": "/ost/amenity/veterinary"
 	}
 ]

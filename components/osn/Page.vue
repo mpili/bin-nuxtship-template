@@ -46,7 +46,7 @@ const {
       </LandingSectionhead>
 
       <OnwImmagine :pending="pending" :dbdata="dbdata" />
-
+      <OnwTagimage :tags="data?.tags" />
       <!-- <WikidataLogo :data="data" /> -->
 
       <div v-if="data?.tags?.description" class="pb-4">
@@ -69,7 +69,6 @@ const {
       <OsnXtagsx :idnodosm="data?.id" />
 
       <OsnMap :data="data" />
-
       <OsnXmaps :data="data" :pending="pending" :dbdata="dbdata" />
 
       <OsnOsmbtcmap :data="data" />

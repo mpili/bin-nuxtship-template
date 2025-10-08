@@ -1024,11 +1024,11 @@
             "id": 3652739203,
             "lat": 45.8118143,
             "lon": 13.5147518,
-            "timestamp": "2025-10-06T14:05:47Z",
-            "version": 6,
-            "changeset": 172916464,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-10-08T13:07:44Z",
+            "version": 7,
+            "changeset": 173004076,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
                 "addr:city": "Monfalcone",
                 "addr:housenumber": "11",
@@ -1040,7 +1040,6 @@
                 "currency:XBT": "yes",
                 "email": "info@bbdaleo.it",
                 "guest_house": "bed_and_breakfast",
-                "image": "https://www.bbdaleo.it/wp-content/uploads/2019/12/download-11-1.jpg",
                 "internet_access": "wlan",
                 "internet_access:fee": "no",
                 "name": "B&B da Leo",
@@ -2447,6 +2446,23 @@
         },
         {
             "type": "node",
+            "id": 7881985608,
+            "lat": 45.6547196,
+            "lon": 13.7939053,
+            "timestamp": "2025-01-14T10:43:06Z",
+            "version": 2,
+            "changeset": 161339990,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 8000483293,
             "lat": 45.5401383,
             "lon": 13.734504,
@@ -3371,6 +3387,31 @@
                 "name": "United Colors of Benetton",
                 "shop": "clothes",
                 "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11255288388,
+            "lat": 46.0221071,
+            "lon": 13.2746051,
+            "timestamp": "2025-10-08T20:32:05Z",
+            "version": 6,
+            "changeset": 173022587,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Pradamano",
+                "addr:housenumber": "108",
+                "addr:postcode": "33040",
+                "addr:street": "Via Nazionale",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "optician",
+                "survey:date": "2023-10-13",
+                "website": "https://www.grandvision.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -4881,6 +4922,34 @@
                 "opening_hours:signed": "no",
                 "ref": "138",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461916901,
+            "timestamp": "2025-01-14T10:44:48Z",
+            "version": 8,
+            "changeset": 161340056,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4573515394,
+                4573515393,
+                4573515392,
+                4573515391,
+                4573515394
+            ],
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "2",
+                "level": "2",
+                "name": "GrandVision",
+                "opening_hours:signed": "no",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },

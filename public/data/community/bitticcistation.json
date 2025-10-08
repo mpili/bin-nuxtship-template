@@ -1496,9 +1496,9 @@
             "id": 5851831304,
             "lat": 42.8522462,
             "lon": 13.5544869,
-            "timestamp": "2022-10-26T14:44:40Z",
-            "version": 7,
-            "changeset": 128088424,
+            "timestamp": "2025-10-08T11:53:44Z",
+            "version": 8,
+            "changeset": 173000530,
             "user": "totera",
             "uid": 123412,
             "tags": {
@@ -1512,9 +1512,10 @@
                 "brand:wikipedia": "en:Tamoil",
                 "fuel:diesel": "yes",
                 "fuel:octane_95": "yes",
-                "name": "Stazione di Servizio Bar Tamoil di Amatucci Claudio",
-                "operator": "Amatucci Claudio",
-                "ref:mise": "8499"
+                "name": "Stazione di Servizio Bar Tamoil",
+                "operator": "Claudio Amatucci",
+                "ref:mise": "8499",
+                "self_service": "yes"
             }
         },
         {
@@ -2244,12 +2245,16 @@
             "id": 11101515276,
             "lat": 43.5125887,
             "lon": 13.5277251,
-            "timestamp": "2023-11-14T16:12:27Z",
-            "version": 4,
-            "changeset": 144016987,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-08T20:51:00Z",
+            "version": 5,
+            "changeset": 173023177,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Osimo",
+                "addr:housenumber": "22",
+                "addr:postcode": "60027",
+                "addr:street": "Via Sbrozzola",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -2386,15 +2391,38 @@
         },
         {
             "type": "node",
+            "id": 11351377013,
+            "lat": 43.2874254,
+            "lon": 13.7348138,
+            "timestamp": "2025-01-14T12:01:07Z",
+            "version": 5,
+            "changeset": 161342515,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11351377016,
             "lat": 43.2874658,
             "lon": 13.7349007,
-            "timestamp": "2025-08-20T13:39:46Z",
-            "version": 6,
-            "changeset": 170727659,
-            "user": "damianeue",
-            "uid": 10124288,
+            "timestamp": "2025-10-08T20:20:41Z",
+            "version": 7,
+            "changeset": 173022166,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Porto Sant'Elpidio",
+                "addr:housenumber": "41",
+                "addr:postcode": "63018",
+                "addr:street": "Via Fratte",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
                 "clothes": "women;underwear;swimwear;men;children",
@@ -3045,6 +3073,33 @@
         },
         {
             "type": "node",
+            "id": 12365153134,
+            "lat": 43.5535164,
+            "lon": 13.5146223,
+            "timestamp": "2025-01-14T10:43:32Z",
+            "version": 3,
+            "changeset": 161340005,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "6",
+                "addr:postcode": "60131",
+                "addr:street": "Via Franco Scataglini",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2024-11-22",
+                "local_ref": "n8",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "phone": "+39 071 2868093",
+                "ref": "K115",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K115"
+            }
+        },
+        {
+            "type": "node",
             "id": 12365182932,
             "lat": 43.5531507,
             "lon": 13.5143041,
@@ -3167,6 +3222,29 @@
                 "name": "Intimissimi",
                 "opening_hours": "Mo-Su 09:00-21:00",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12468465751,
+            "lat": 42.8456784,
+            "lon": 13.6235368,
+            "timestamp": "2025-01-14T15:37:25Z",
+            "version": 3,
+            "changeset": 161349723,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-01-02",
+                "name": "GrandVision by Optissimo",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "optician"
             }
         },
         {
@@ -4357,6 +4435,37 @@
         },
         {
             "type": "way",
+            "id": 1096729182,
+            "timestamp": "2025-01-14T12:23:08Z",
+            "version": 5,
+            "changeset": 161343180,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                10042880821,
+                10036631397,
+                10043178210,
+                10042880800,
+                10042880799,
+                10042880798,
+                10042880797,
+                10042880796,
+                10042880821
+            ],
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "indoor": "room",
+                "level": "0",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "GrandVision by Avanzi c/o Val Vibrata",
+                "phone": "+39 0861 753582",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "way",
             "id": 1096729202,
             "timestamp": "2023-01-15T02:24:13Z",
             "version": 3,
@@ -4637,6 +4746,31 @@
                 "name": "Guess",
                 "opening_hours": "Mo-Su,PH 09:00-21:00",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1207229812,
+            "timestamp": "2025-01-14T15:09:35Z",
+            "version": 5,
+            "changeset": 161348838,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                11186257794,
+                11186257687,
+                11186257801,
+                11186257686,
+                11186257688,
+                11186257794
+            ],
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "indoor": "room",
+                "level": "0",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {

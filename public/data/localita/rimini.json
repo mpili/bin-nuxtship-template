@@ -2100,6 +2100,26 @@
         },
         {
             "type": "node",
+            "id": 4495188706,
+            "lat": 44.0022558,
+            "lon": 12.6602432,
+            "timestamp": "2025-08-06T21:50:06Z",
+            "version": 6,
+            "changeset": 170079964,
+            "user": "Samuele Battarra",
+            "uid": 51179,
+            "tags": {
+                "addr:housenumber": "31",
+                "addr:street": "Viale Maria Boorman Ceccarini",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-08-06",
+                "name": "Sailmoraghi & Vigan\u014d",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 4495277477,
             "lat": 43.9935931,
             "lon": 12.6578543,
@@ -2529,6 +2549,30 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4766459479,
+            "lat": 44.2226085,
+            "lon": 12.0393959,
+            "timestamp": "2025-01-14T10:36:18Z",
+            "version": 4,
+            "changeset": 161339720,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Forl\u00ec",
+                "addr:housenumber": "3",
+                "addr:postcode": "47121",
+                "addr:street": "Piazzetta San Crispino",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Fr 09:30-12:30,15:30-19:30; Sa 09:30-12:30; Su 10:00-13:00,15:00-19:00",
+                "phone": "+39 0543 371178",
+                "shop": "optician",
+                "wheelchair": "yes"
             }
         },
         {
@@ -3800,6 +3844,23 @@
         },
         {
             "type": "node",
+            "id": 10034146211,
+            "lat": 44.4182689,
+            "lon": 12.2020706,
+            "timestamp": "2025-01-14T12:25:59Z",
+            "version": 2,
+            "changeset": 161343287,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 10162799750,
             "lat": 44.3309194,
             "lon": 12.1329818,
@@ -4275,12 +4336,16 @@
             "id": 11307826554,
             "lat": 44.4232824,
             "lon": 12.2301073,
-            "timestamp": "2024-02-20T12:53:18Z",
-            "version": 4,
-            "changeset": 147691254,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-08T20:28:49Z",
+            "version": 5,
+            "changeset": 173022479,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Ravenna",
+                "addr:housenumber": "18",
+                "addr:postcode": "48122",
+                "addr:street": "Via Manlio Travaglini",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",

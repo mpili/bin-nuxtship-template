@@ -5553,6 +5553,32 @@
         },
         {
             "type": "node",
+            "id": 2375349273,
+            "lat": 45.5811702,
+            "lon": 9.273542,
+            "timestamp": "2025-01-14T15:58:54Z",
+            "version": 9,
+            "changeset": 161350438,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Monza",
+                "addr:country": "IT",
+                "addr:housenumber": "48",
+                "addr:postcode": "20052",
+                "addr:street": "Via Italia",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 10:30-12:30,15:30-19:00",
+                "phone": "+390392315234",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/store-locator/monza/ottica-grandvision-by-optissimo-via-italia-monza",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 2375413565,
             "lat": 45.5842427,
             "lon": 9.2770234,
@@ -8940,6 +8966,48 @@
         },
         {
             "type": "node",
+            "id": 4221161879,
+            "lat": 45.5644814,
+            "lon": 9.0509344,
+            "timestamp": "2024-12-23T16:30:56Z",
+            "version": 15,
+            "changeset": 160545286,
+            "user": "mingo23",
+            "uid": 1902578,
+            "tags": {
+                "addr:city": "Arese",
+                "addr:housenumber": "11",
+                "addr:postcode": "20044",
+                "addr:street": "Via Giuseppe Eugenio Luraghi",
+                "air_conditioning": "yes",
+                "branch": "Milano \u2013 Il Centro",
+                "brand": "Primark",
+                "brand:wikidata": "Q137023",
+                "brand:wikipedia": "en:Primark",
+                "clothes": "women;children;underwear;men",
+                "contact:city": "Arese",
+                "contact:housenumber": "11",
+                "contact:phone": "+39 02 23369034",
+                "contact:street": "Viale Giuseppe Eugenio Luraghi",
+                "contact:tripadvisor": "https://www.tripadvisor.com/19377241",
+                "contact:website": "https://stores.primark.com/it_it/italia/arese/via-giuseppe-eugenio-luraghi-11",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "PRIMARK_PUBLIC",
+                "level": "0;1",
+                "name": "Primark",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "operator": "Primark Italy Srl",
+                "payment:cash": "yes",
+                "ref:vatin": "IT02584500181",
+                "second_hand": "no",
+                "shop": "clothes",
+                "website": "https://www.primark.com/it-it/stores/arese/centro-commerciale-il-centro",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 4223495433,
             "lat": 45.5644868,
             "lon": 9.0505522,
@@ -10112,6 +10180,28 @@
                 "name": "Q8",
                 "operator": "Servizi & Gestioni Italia Srl",
                 "ref:mise": "6435"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4952154916,
+            "lat": 45.5218497,
+            "lon": 9.2153263,
+            "timestamp": "2021-02-23T18:16:11Z",
+            "version": 2,
+            "changeset": 99847240,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:postcode": "20126",
+                "addr:street": "Viale Sarca",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "contact:phone": "+39 02 83971274",
+                "level": "0",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -11460,6 +11550,23 @@
         },
         {
             "type": "node",
+            "id": 5658024100,
+            "lat": 45.473951,
+            "lon": 9.1870835,
+            "timestamp": "2025-01-14T15:12:36Z",
+            "version": 3,
+            "changeset": 161348944,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 5669663534,
             "lat": 45.9981916,
             "lon": 8.94381,
@@ -11886,6 +11993,28 @@
                 "operator": "Servizi & Gestioni Italia Srl",
                 "ref:mise": "11566",
                 "self_service": "partially"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5875317811,
+            "lat": 45.5939353,
+            "lon": 8.9184831,
+            "timestamp": "2025-01-14T16:13:04Z",
+            "version": 2,
+            "changeset": 161350874,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Legnano",
+                "addr:country": "IT",
+                "addr:housenumber": "21",
+                "addr:postcode": "20025",
+                "addr:street": "Corso Magenta",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -12320,6 +12449,23 @@
                 "brand:wikidata": "Q217599",
                 "name": "Carrefour",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6167150110,
+            "lat": 45.8049273,
+            "lon": 9.2210936,
+            "timestamp": "2025-01-14T15:12:46Z",
+            "version": 5,
+            "changeset": 161348954,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -14233,6 +14379,28 @@
         },
         {
             "type": "node",
+            "id": 8928313301,
+            "lat": 45.4782034,
+            "lon": 9.1563562,
+            "timestamp": "2025-01-14T15:59:41Z",
+            "version": 4,
+            "changeset": 161350463,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "contact:city": "Milano",
+                "contact:housenumber": "1",
+                "contact:postcode": "20145",
+                "contact:street": "Piazza Tre Torri",
+                "fixme": "posizione",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 8953557082,
             "lat": 45.4536509,
             "lon": 9.2001468,
@@ -14326,6 +14494,38 @@
                 "phone": "+39 02 83642999",
                 "shop": "clothes",
                 "website": "https://stores.ovs.it/it/italia/lombardia/milano/ovs-milano-via-adriano?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Milano_4776"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9306248725,
+            "lat": 45.4614884,
+            "lon": 9.185636,
+            "timestamp": "2024-05-25T12:33:23Z",
+            "version": 7,
+            "changeset": 151809296,
+            "user": "CJJ2501",
+            "uid": 8922202,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "45",
+                "addr:postcode": "20123",
+                "addr:street": "Via Torino",
+                "brand": "Primark",
+                "brand:wikidata": "Q137023",
+                "brand:wikipedia": "en:Primark",
+                "check_date": "2024-05-25",
+                "clothes": "women;men;underwear;children",
+                "level": "3;2;1;0;-1",
+                "name": "Primark",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "operator": "Primark Italy S.R.L.",
+                "phone": "+39 02 2331 3230",
+                "ref:vatin": "IT02584500181",
+                "shop": "clothes",
+                "start_date": "2022-04-06",
+                "toilets": "yes",
+                "website": "https://stores.primark.com/it_it/italia/milan/via-torino-45"
             }
         },
         {
@@ -15705,6 +15905,30 @@
                 "phone": "+41588663030",
                 "shop": "shoes",
                 "survey:date": "2022-11-09"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10181557887,
+            "lat": 45.4567339,
+            "lon": 9.1746207,
+            "timestamp": "2025-01-14T15:59:19Z",
+            "version": 4,
+            "changeset": 161350455,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "24",
+                "addr:postcode": "20123",
+                "addr:street": "Corso Genova",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "phone": "+390283241824",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/store-locator/Milano/ottica-grandvision-by-avanzi-corso-genova-milano",
+                "wheelchair": "limited"
             }
         },
         {
@@ -17241,12 +17465,16 @@
             "id": 10832112709,
             "lat": 45.479035,
             "lon": 9.0634565,
-            "timestamp": "2023-04-22T15:57:11Z",
-            "version": 1,
-            "changeset": 135233917,
-            "user": "Sciking",
-            "uid": 18970157,
+            "timestamp": "2025-10-07T22:00:52Z",
+            "version": 2,
+            "changeset": 172979296,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Settimo Milanese",
+                "addr:housenumber": "12",
+                "addr:postcode": "20019",
+                "addr:street": "Via Guglielmo Reiss Romoli",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -19150,12 +19378,16 @@
             "id": 11224951075,
             "lat": 45.9358406,
             "lon": 8.5742671,
-            "timestamp": "2025-08-16T09:09:01Z",
-            "version": 5,
-            "changeset": 170513067,
-            "user": "PiaVespRoll",
-            "uid": 13391003,
+            "timestamp": "2025-10-08T20:36:27Z",
+            "version": 6,
+            "changeset": 173022713,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Intra",
+                "addr:housenumber": "8",
+                "addr:place": "Piazza Daniele Ranzoni",
+                "addr:postcode": "28921",
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
                 "check_date": "2025-08-12",
@@ -19426,12 +19658,16 @@
             "id": 11375793005,
             "lat": 45.8831597,
             "lon": 8.5391223,
-            "timestamp": "2024-07-24T13:13:01Z",
-            "version": 3,
-            "changeset": 154349828,
-            "user": "Spi102",
-            "uid": 16203854,
+            "timestamp": "2025-10-08T20:13:30Z",
+            "version": 4,
+            "changeset": 173021928,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Stresa",
+                "addr:housenumber": "11",
+                "addr:postcode": "28838",
+                "addr:street": "Via Roma",
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
                 "name": "Carrefour",
@@ -21559,6 +21795,28 @@
         },
         {
             "type": "node",
+            "id": 11937464277,
+            "lat": 45.4467356,
+            "lon": 8.601001,
+            "timestamp": "2025-06-23T16:18:12Z",
+            "version": 6,
+            "changeset": 168011302,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-06-23",
+                "level": "0",
+                "name": "GrandVision",
+                "opening_hours": "Mo 10:00-20:00; Tu-Su 09:00-20:00",
+                "ref": "2",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11937464289,
             "lat": 45.4460651,
             "lon": 8.6001789,
@@ -21835,6 +22093,24 @@
                 "level": "0",
                 "name": "Foot Locker",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12055867433,
+            "lat": 45.5135643,
+            "lon": 9.0976118,
+            "timestamp": "2025-01-14T10:47:43Z",
+            "version": 2,
+            "changeset": 161340178,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "level": "0",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -22597,6 +22873,30 @@
                 "phone": "+39 0332 535942",
                 "shop": "electronics",
                 "website": "https://www.unieuro.it/online/negozi/Unieuro-Germignaga"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12501016741,
+            "lat": 45.8512271,
+            "lon": 9.39674,
+            "timestamp": "2025-01-14T15:51:46Z",
+            "version": 1,
+            "changeset": 161350213,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Lecco",
+                "addr:housenumber": "51",
+                "addr:postcode": "23900",
+                "addr:street": "Via Giovanni Amendola",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "description": "Per occhiali a Lecco delle migliori marche vieni da Ottica GrandVision By Optissimo La Meridiana. In questo negozio ottico trovi promozioni su occhiali da vista Gucci, Tom Ford o Liu Jo, occhiali da sole Ray-Ban, Persol, Polaroid e Oakley, su lenti a cont",
+                "name": "GrandVision",
+                "phone": "+39 0341 353236",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/"
             }
         },
         {
@@ -28167,11 +28467,11 @@
         {
             "type": "way",
             "id": 300287682,
-            "timestamp": "2021-03-03T08:17:43Z",
-            "version": 5,
-            "changeset": 100330778,
-            "user": "Asdrubaleblu89",
-            "uid": 10246424,
+            "timestamp": "2025-10-08T11:48:00Z",
+            "version": 6,
+            "changeset": 173000288,
+            "user": "Beretz",
+            "uid": 20241483,
             "nodes": [
                 3043827567,
                 3043827568,
@@ -28186,8 +28486,10 @@
                 "brand:wikipedia": "en:Kuwait Petroleum Corporation",
                 "building": "yes",
                 "name": "Q8",
+                "not:brand:wikidata": "Q4119207",
                 "operator": "Valli Mario & C. S.N.C. di Bruno e Marco",
                 "ref:mise": "25582",
+                "self_service": "yes",
                 "source:date": "2018-04-16"
             }
         },
@@ -30516,6 +30818,42 @@
                 "phone": "+39 02 39 00 52 85",
                 "shop": "clothes",
                 "website": "https://www.tezenis.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 653486183,
+            "timestamp": "2025-01-14T10:47:25Z",
+            "version": 5,
+            "changeset": 161340161,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                6124308297,
+                6124959986,
+                6124307878,
+                6124307876,
+                6124307873,
+                6124307874,
+                6124307875,
+                6124307872,
+                6124308297
+            ],
+            "tags": {
+                "addr:city": "Novate Milanese",
+                "addr:housenumber": "1",
+                "addr:postcode": "20026",
+                "addr:street": "Via Carlo Amoretti",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+                "phone": "+39 02 39 00 32 90",
+                "shop": "optician",
+                "website": "https://www.grandvision.it"
             }
         },
         {

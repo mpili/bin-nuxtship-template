@@ -20,5 +20,10 @@ const listaAccordion = ref(false)
 		<div class="tab-content bg-base-100 border-base-300 p-6">
 			<ComunitaPoislista :datapois="datapois" />
 		</div>
+
+		<input type="radio" name="my_tabs_6" class="tab" aria-label="Città" />
+		<div class="tab-content bg-base-100 border-base-300 p-6">
+			<ComunitaPoiscitta :datapois="datapois" />
+		</div>
 	</div>
 </template>

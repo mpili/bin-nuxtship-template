@@ -46,6 +46,7 @@ const {
       </LandingSectionhead>
 
       <OnwImmagine :pending="pending" :dbdata="dbdata" />
+      <OnwTagimage :tags="data?.tags" />
 
       <div v-if="data?.tags?.description" class="pb-4">
         {{ data?.tags?.description }}
