@@ -1,5 +1,9 @@
 <script setup>
-defineProps(["tags"]);
+import { useTagsCitta } from '~/composables/useTagCitta';
+
+const props = defineProps(["tags"]);
+
+const citta = useTagsCitta(props.tags);
 </script>
 <template>
 	<span>
@@ -11,14 +15,9 @@ defineProps(["tags"]);
         }}</span>
         &nbsp;
         <span class="text-primary font-bold">
-          <span v-if="tags['addr:city']" itemprop="addressLocality">
-            <OsnTaglink tag="addr:city" :valore="tags['addr:city']">
-              <template v-slot:testo>{{ tags["addr:city"] }}</template>
-            </OsnTaglink>
-          </span>
-          <span v-else-if="tags['contact:city']" itemprop="addressLocality">
-            <OsnTaglink tag="contact:city" :valore="tags['contact:city']">
-              <template v-slot:testo>{{ tags["contact:city"] }}</template>
+          <span v-if="citta" itemprop="addressLocality">
+            <OsnTaglink tag="addr:city" :valore="citta">
+              <template v-slot:testo>{{ citta }}</template>
             </OsnTaglink>
           </span>
         </span>

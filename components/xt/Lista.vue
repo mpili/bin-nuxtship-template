@@ -70,6 +70,6 @@ onMounted(() => {
     <!-- <div v-for="poi in allElements" :key="poi.id">
       <OsnLinelink :poi="poi" />
     </div> -->
-    <ComunitaPoislist :datapois="allElements" />
+    <OnwListapoi :datapois="allElements" />
   </div>
 </template>

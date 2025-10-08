@@ -9,31 +9,6 @@ const groupedPois = computed(() => {
     // Get amenity tag or use 'other' as default category
     var categoria;
 
-    // const tagsPriority = [
-    //   "amenity",
-    //   "leisure",
-    //   "shop",
-    //   "office",
-    //   "tourism",
-    //   "healthcare",
-    //   "craft",
-    //   "industrial",
-    //   "club",
-    // ];
-
-    // for (const tag of tagsPriority) {
-    //   if (poi?.tags) {
-    //     if (poi.tags[tag]) {
-    //       categoria = useTagtraduciit(tag, poi.tags[tag]);
-    //       break;
-    //     }
-    //   }
-    // }
-
-    // if (!categoria) {
-    //   categoria = "Altro";
-    // }
-
     categoria = useTipovenue(poi.tags);
 
     // Initialize array for this categoria if it doesn't exist
