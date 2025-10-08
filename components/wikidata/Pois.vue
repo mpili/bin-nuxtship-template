@@ -16,8 +16,10 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     </div>
 	<div v-else class="my-6">
 		<OstMap :pois="data.elements" />
-		<div v-for="poi in data.elements">
+
+		<OnwListapoi :datapois="data.elements" />
+		<!-- <div v-for="poi in data.elements">
 			<OsnLinelink :poi="poi" />
-		</div>
+		</div> -->
 	</div>
 </template>

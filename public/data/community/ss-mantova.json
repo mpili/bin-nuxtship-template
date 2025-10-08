@@ -7,7 +7,7 @@
     "idlocalita": "mantova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001795422137",
     "telegram_app": "https://t.me/SatoshiSpritzMantova",
-    "telegram_members": 98.0,
+    "telegram_members": 100.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1983,6 +1983,24 @@
         },
         {
             "type": "node",
+            "id": 4273303431,
+            "lat": 45.1592569,
+            "lon": 10.7955603,
+            "timestamp": "2025-05-19T09:13:38Z",
+            "version": 3,
+            "changeset": 166465351,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-05-05",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 4310595393,
             "lat": 45.3261386,
             "lon": 10.6584141,
@@ -3017,6 +3035,28 @@
         },
         {
             "type": "node",
+            "id": 9236309747,
+            "lat": 45.44317,
+            "lon": 10.9959393,
+            "timestamp": "2025-06-22T10:46:27Z",
+            "version": 7,
+            "changeset": 167944287,
+            "user": "Emiliano Vavassori",
+            "uid": 2374241,
+            "tags": {
+                "addr:housenumber": "13a",
+                "addr:street": "Corso Porta Borsari",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-06-22",
+                "check_date:opening_hours": "2025-06-22",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Su 10:00-19:30",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 9236312877,
             "lat": 45.4420234,
             "lon": 10.9972868,
@@ -3134,6 +3174,23 @@
                 "clothes": "underwear",
                 "name": "Calzedonia",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9465613419,
+            "lat": 45.0882753,
+            "lon": 10.8560787,
+            "timestamp": "2025-01-14T15:08:38Z",
+            "version": 2,
+            "changeset": 161348779,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -3317,6 +3374,24 @@
                 "check_date": "2025-04-02",
                 "name": "Foot Locker",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10032039215,
+            "lat": 45.4416779,
+            "lon": 10.9969053,
+            "timestamp": "2025-04-02T09:24:47Z",
+            "version": 6,
+            "changeset": 164409687,
+            "user": "VRN32",
+            "uid": 21907021,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-04-02",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -3558,12 +3633,13 @@
             "id": 11216132037,
             "lat": 44.7907412,
             "lon": 10.8937717,
-            "timestamp": "2025-07-16T15:12:01Z",
-            "version": 2,
-            "changeset": 169018953,
-            "user": "balle0",
-            "uid": 22291818,
+            "timestamp": "2025-10-08T20:36:52Z",
+            "version": 3,
+            "changeset": 173022724,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Carpi",
                 "addr:housenumber": "72",
                 "addr:postcode": "41012",
                 "addr:street": "Via Franklin Delano Roosevelt",
@@ -3965,6 +4041,25 @@
         },
         {
             "type": "node",
+            "id": 11926043319,
+            "lat": 45.168228,
+            "lon": 10.8229522,
+            "timestamp": "2025-01-14T15:12:27Z",
+            "version": 5,
+            "changeset": 161348941,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 09:00-20:00",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11926043332,
             "lat": 45.1683784,
             "lon": 10.8225471,
@@ -4067,6 +4162,25 @@
                 "name": "Intimissimi",
                 "opening_hours": "Mo-Su 09:00-20:30",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11928530018,
+            "lat": 45.1532526,
+            "lon": 10.7253676,
+            "timestamp": "2025-01-10T09:54:44Z",
+            "version": 5,
+            "changeset": 161198233,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -5879,6 +5993,30 @@
         },
         {
             "type": "way",
+            "id": 1227411290,
+            "timestamp": "2025-01-14T15:08:26Z",
+            "version": 3,
+            "changeset": 161348775,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                11382082937,
+                11382082936,
+                11382082935,
+                11382082938,
+                11382082937
+            ],
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "indoor": "room",
+                "level": "1",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "way",
             "id": 1227411311,
             "timestamp": "2023-11-28T18:04:45Z",
             "version": 1,
@@ -5933,6 +6071,43 @@
                 "level": "1",
                 "name": "H&M",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1227411321,
+            "timestamp": "2025-10-08T15:54:25Z",
+            "version": 3,
+            "changeset": 173012341,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "nodes": [
+                11382083258,
+                11382083259,
+                11382083035,
+                11382083034,
+                11382080961,
+                11382083033,
+                11382083032,
+                11382083031,
+                11382083257,
+                11382083258
+            ],
+            "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "1",
+                "addr:postcode": "37135",
+                "addr:street": "Viale delle Nazioni",
+                "branch": "Verona - Adigeo",
+                "brand": "Primark",
+                "brand:wikidata": "Q137023",
+                "indoor": "room",
+                "level": "1",
+                "name": "Primark",
+                "opening_hours": "09:00-22:00",
+                "phone": "+39 045 502584",
+                "shop": "clothes",
+                "website": "https://www.primark.com/it-it/stores/verona/centro-commerciale-adigeo"
             }
         },
         {

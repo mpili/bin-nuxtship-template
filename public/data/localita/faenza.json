@@ -941,6 +941,35 @@
         },
         {
             "type": "node",
+            "id": 1704747782,
+            "lat": 44.5008228,
+            "lon": 11.3441521,
+            "timestamp": "2025-03-26T16:34:16Z",
+            "version": 9,
+            "changeset": 164129801,
+            "user": "stk_ulm",
+            "uid": 43217,
+            "tags": {
+                "addr:country": "IT",
+                "addr:district": "Porto",
+                "addr:housenumber": "60b",
+                "addr:postcode": "40137",
+                "addr:street": "Via dell'Indipendenza",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2025-03-26",
+                "check_date:opening_hours": "2025-03-26",
+                "description": "Dal 1981 Ottica GrandVision vende i migliori occhiali da sole, occhiali da vista e lenti a contatto di Bologna. Vieni da ottico GrandVision By Avanzi in Via dell'Indipendenza 60, Bologna, IT. Scopri di pi\u00f9 sulle promozioni occhiali a Bologna: chiama lo 05",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:30-20:00; Su 10:00-19:30",
+                "phone": "+39 051 247358",
+                "shop": "optician",
+                "source": "Comune di Bologna",
+                "website": "https://www.grandvision.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 1736131905,
             "lat": 44.2571056,
             "lon": 11.3796437,
@@ -2258,6 +2287,24 @@
         },
         {
             "type": "node",
+            "id": 4535727201,
+            "lat": 44.4904324,
+            "lon": 11.4220613,
+            "timestamp": "2025-01-14T15:23:17Z",
+            "version": 3,
+            "changeset": 161349250,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision by Avanzi",
+                "name:it": "GrandVision by Avanzi",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 4535727208,
             "lat": 44.4915612,
             "lon": 11.4239056,
@@ -3065,6 +3112,30 @@
         },
         {
             "type": "node",
+            "id": 4766459479,
+            "lat": 44.2226085,
+            "lon": 12.0393959,
+            "timestamp": "2025-01-14T10:36:18Z",
+            "version": 4,
+            "changeset": 161339720,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Forl\u00ec",
+                "addr:housenumber": "3",
+                "addr:postcode": "47121",
+                "addr:street": "Piazzetta San Crispino",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Fr 09:30-12:30,15:30-19:30; Sa 09:30-12:30; Su 10:00-13:00,15:00-19:00",
+                "phone": "+39 0543 371178",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4774359494,
             "lat": 44.0076899,
             "lon": 11.9386283,
@@ -3536,6 +3607,25 @@
         },
         {
             "type": "node",
+            "id": 5446072063,
+            "lat": 44.3621363,
+            "lon": 11.6986379,
+            "timestamp": "2025-09-05T10:22:11Z",
+            "version": 5,
+            "changeset": 171490548,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2024-02-12",
+                "level": "0",
+                "name": "Grandvision by Avanzi",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 5446072065,
             "lat": 44.3620232,
             "lon": 11.698516,
@@ -3603,6 +3693,23 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "phone": "+39 339 813 5772"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5598719821,
+            "lat": 44.4978379,
+            "lon": 11.3906435,
+            "timestamp": "2025-01-14T16:12:35Z",
+            "version": 3,
+            "changeset": 161350862,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision Avanzi",
+                "shop": "optician"
             }
         },
         {
@@ -4082,12 +4189,16 @@
             "id": 8186476478,
             "lat": 43.8582125,
             "lon": 11.977526,
-            "timestamp": "2020-12-02T08:27:27Z",
-            "version": 1,
-            "changeset": 95140492,
-            "user": "Maurizio Melani (forwalk)",
-            "uid": 1669056,
+            "timestamp": "2025-10-08T18:19:08Z",
+            "version": 2,
+            "changeset": 173018002,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "San Piero in Bagno",
+                "addr:housenumber": "8/10",
+                "addr:postcode": "47026",
+                "addr:street": "via Guglielmo Marconi",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "en:Spar (retailer)",
@@ -4455,6 +4566,23 @@
         },
         {
             "type": "node",
+            "id": 10034146211,
+            "lat": 44.4182689,
+            "lon": 12.2020706,
+            "timestamp": "2025-01-14T12:25:59Z",
+            "version": 2,
+            "changeset": 161343287,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 10162799750,
             "lat": 44.3309194,
             "lon": 12.1329818,
@@ -4693,6 +4821,24 @@
                 "name": "Conad City",
                 "phone": "+39 0541 344167",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10676938413,
+            "lat": 44.4784716,
+            "lon": 11.3676258,
+            "timestamp": "2025-01-14T12:05:23Z",
+            "version": 2,
+            "changeset": 161342646,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2023-02-18",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
@@ -4980,12 +5126,16 @@
             "id": 11307826554,
             "lat": 44.4232824,
             "lon": 12.2301073,
-            "timestamp": "2024-02-20T12:53:18Z",
-            "version": 4,
-            "changeset": 147691254,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-08T20:28:49Z",
+            "version": 5,
+            "changeset": 173022479,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Ravenna",
+                "addr:housenumber": "18",
+                "addr:postcode": "48122",
+                "addr:street": "Via Manlio Travaglini",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -5041,12 +5191,16 @@
             "id": 11358406794,
             "lat": 44.2981054,
             "lon": 11.8855883,
-            "timestamp": "2023-11-17T15:34:03Z",
-            "version": 1,
-            "changeset": 144144164,
-            "user": "gabriele_sani",
-            "uid": 7078274,
+            "timestamp": "2025-10-08T20:18:41Z",
+            "version": 2,
+            "changeset": 173022089,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Faenza",
+                "addr:housenumber": "28",
+                "addr:postcode": "48018",
+                "addr:street": "Via della Costituzione",
                 "brand": "Upim",
                 "brand:wikidata": "Q1414836",
                 "name": "Upim",
@@ -5408,6 +5562,26 @@
         },
         {
             "type": "node",
+            "id": 11760834357,
+            "lat": 44.3528273,
+            "lon": 11.7138268,
+            "timestamp": "2025-01-14T15:08:55Z",
+            "version": 2,
+            "changeset": 161348798,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "24",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2024-03-25",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 11778258372,
             "lat": 44.4943798,
             "lon": 11.346416,
@@ -5430,6 +5604,24 @@
                 "payment:visa": "yes",
                 "shop": "books",
                 "website": "https://www.lafeltrinelli.it/punto-vendita/bologna/lf-bologna-ravegnana/3"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11876181365,
+            "lat": 44.4954877,
+            "lon": 11.3379354,
+            "timestamp": "2025-09-18T12:47:40Z",
+            "version": 3,
+            "changeset": 172111311,
+            "user": "Plaintelive",
+            "uid": 11644547,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2024-05-03",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {

@@ -883,6 +883,30 @@
         },
         {
             "type": "node",
+            "id": 5451557136,
+            "lat": 38.1229885,
+            "lon": 13.3569024,
+            "timestamp": "2025-01-14T16:01:58Z",
+            "version": 4,
+            "changeset": 161350558,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "55",
+                "addr:postcode": "90139",
+                "addr:street": "Via Ruggero Settimo",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "description": "In Ottica GrandVision By Optissimo in Via Ruggero Settimo a Palermo trovi uno staff di ottici qualificati che ti aiuteranno a trovare a Palermo gli occhiali da sole, gli occhiali da vista o le lenti a contatto pi\u00f9 adatte a te. Prenota gratis il test ottic",
+                "name": "GrandVision",
+                "phone": "+39 091 774 4756",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 5451557160,
             "lat": 38.1216688,
             "lon": 13.3574256,
@@ -1442,6 +1466,36 @@
         },
         {
             "type": "node",
+            "id": 6364695332,
+            "lat": 38.1290398,
+            "lon": 13.3383063,
+            "timestamp": "2025-01-14T10:40:42Z",
+            "version": 3,
+            "changeset": 161339871,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:floor": "0",
+                "addr:housenumber": "20",
+                "addr:street": "Via Giovan Battista Lulli",
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2024-11-08",
+                "internet_access": "no",
+                "level": "0",
+                "name": "GrandVision",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:00-20:00",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 091 683 6429",
+                "shop": "optician",
+                "website": "https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K147&cid=yext_GMB_website_K147",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 6368030236,
             "lat": 38.1049471,
             "lon": 13.3352594,
@@ -1937,6 +1991,24 @@
         },
         {
             "type": "node",
+            "id": 10201985706,
+            "lat": 38.1494182,
+            "lon": 13.3329918,
+            "timestamp": "2025-01-14T10:41:17Z",
+            "version": 2,
+            "changeset": 161339900,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "check_date": "2022-11-19",
+                "name": "GrandVision",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 10219606281,
             "lat": 38.1185185,
             "lon": 13.3478971,
@@ -2181,12 +2253,15 @@
             "id": 11323727428,
             "lat": 37.7775828,
             "lon": 13.7145417,
-            "timestamp": "2025-06-25T07:14:59Z",
-            "version": 2,
-            "changeset": 168079689,
-            "user": "kr\u00e4ckel",
-            "uid": 1092114,
+            "timestamp": "2025-10-08T20:26:47Z",
+            "version": 3,
+            "changeset": 173022396,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Alia",
+                "addr:postcode": "90021",
+                "addr:street": "Via Armando Diaz",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "name": "Despar",
@@ -2259,6 +2334,24 @@
                 "brand:wikidata": "Q2470307",
                 "name": "Guess",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11509203056,
+            "lat": 38.1842664,
+            "lon": 13.3079229,
+            "timestamp": "2025-01-14T12:24:05Z",
+            "version": 3,
+            "changeset": 161343220,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -2583,6 +2676,23 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12451453531,
+            "lat": 38.0804794,
+            "lon": 13.5040122,
+            "timestamp": "2025-01-14T16:13:25Z",
+            "version": 2,
+            "changeset": 161350892,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision Optissimo",
+                "shop": "optician"
             }
         },
         {

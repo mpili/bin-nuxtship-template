@@ -7,7 +7,7 @@
     "idlocalita": "istria",
     "telegram_weburl": "https://web.telegram.org/a/#-1001828207471",
     "telegram_app": "http://t.me/BitcoinIstria",
-    "telegram_members": 13.0,
+    "telegram_members": 14.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1220,6 +1220,23 @@
                 "brand:wikipedia": "en:OVS (company)",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7881985608,
+            "lat": 45.6547196,
+            "lon": 13.7939053,
+            "timestamp": "2025-01-14T10:43:06Z",
+            "version": 2,
+            "changeset": 161339990,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "GrandVision",
+                "brand:wikidata": "Q105644278",
+                "name": "GrandVision",
+                "shop": "optician"
             }
         },
         {
