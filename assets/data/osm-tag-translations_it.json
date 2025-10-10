@@ -368,6 +368,10 @@
         "message": "Ospizio-Casa di riposo RSA",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
+    "tag:amenity=parcel_locker": {
+        "message": "Punti di ritiro",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
     "tag:amenity=parking": {
         "message": "Posteggio",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
@@ -423,6 +427,10 @@
     "tag:amenity=restaurant": {
         "message": "Ristorante",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
+    },
+    "tag:amenity=retail": {
+        "message": "Vendita al dettaglio",
+        "description": "Tag \"amenity=retail\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=retail"
     },
     "tag:amenity=school": {
         "message": "Scuole",
@@ -4959,7 +4967,7 @@
         "description": "Tag \"shop=antiques\". See https://wiki.openstreetmap.org/wiki/Tag:shop=antiques"
     },
     "tag:shop=appliance": {
-        "message": "",
+        "message": "Elettrodomestici",
         "description": "Tag \"shop=appliance\". See https://wiki.openstreetmap.org/wiki/Tag:shop=appliance"
     },
     "tag:shop=art": {
@@ -4991,11 +4999,11 @@
         "description": "Tag \"shop=beverages\". See https://wiki.openstreetmap.org/wiki/Tag:shop=beverages"
     },
     "tag:shop=bicycle": {
-        "message": "Negozi di biciclette",
+        "message": "Negozio di biciclette",
         "description": "Tag \"shop=bicycle\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bicycle"
     },
     "tag:shop=books": {
-        "message": "",
+        "message": "Libreria",
         "description": "Tag \"shop=books\". See https://wiki.openstreetmap.org/wiki/Tag:shop=books"
     },
     "tag:shop=boutique": {
@@ -5099,11 +5107,11 @@
         "description": "Tag \"shop=deli\". See https://wiki.openstreetmap.org/wiki/Tag:shop=deli"
     },
     "tag:shop=department_store": {
-        "message": "",
+        "message": "Grandi magazzini",
         "description": "Tag \"shop=department_store\". See https://wiki.openstreetmap.org/wiki/Tag:shop=department_store"
     },
     "tag:shop=doityourself": {
-        "message": "",
+        "message": "Fai da te",
         "description": "Tag \"shop=doityourself\". See https://wiki.openstreetmap.org/wiki/Tag:shop=doityourself"
     },
     "tag:shop=doors": {
@@ -5145,6 +5153,10 @@
     "tag:shop=fashion": {
         "message": "Moda",
         "description": "Tag \"shop=fashion\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fashion"
+    },
+    "tag:shop=fashion_accessories": {
+        "message": "Accessori di abbigliamento",
+        "description": "Tag \"shop=fashion_accessories\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fashion_accessories"
     },
     "tag:shop=fish": {
         "message": "Pescherie",
@@ -5253,7 +5265,7 @@
         "description": "Tag \"shop=honey\". See https://wiki.openstreetmap.org/wiki/Tag:shop=honey"
     },
     "tag:shop=houseware": {
-        "message": "",
+        "message": "Articoli per la casa",
         "description": "Tag \"shop=houseware\". See https://wiki.openstreetmap.org/wiki/Tag:shop=houseware"
     },
     "tag:shop=ice_cream": {
