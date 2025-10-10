@@ -1,5 +1,5 @@
 <script setup>
-const props = defineProps(["daticomune"]);
+const props = defineProps(["daticomune", "center"]);
 const d = props.daticomune.elements[0];
 const lat = d.center.lat;
 const lon = d.center.lon;
