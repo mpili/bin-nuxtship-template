@@ -759,11 +759,11 @@
             "id": 9930307175,
             "lat": 40.2951116,
             "lon": 8.5056193,
-            "timestamp": "2025-09-25T15:28:03Z",
-            "version": 3,
-            "changeset": 172445779,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-10T12:54:59Z",
+            "version": 4,
+            "changeset": 173093695,
+            "user": "Rockedf",
+            "uid": 7522075,
             "tags": {
                 "addr:city": "Bosa",
                 "addr:housenumber": "1A",
@@ -775,6 +775,7 @@
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
                 "name": "Civico Uno Bosa",
+                "payment:blink": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
@@ -1117,11 +1118,11 @@
         {
             "type": "way",
             "id": 285942769,
-            "timestamp": "2023-07-31T14:41:06Z",
-            "version": 4,
-            "changeset": 139257764,
-            "user": "BTC Map",
-            "uid": 18545877,
+            "timestamp": "2025-10-10T11:09:13Z",
+            "version": 5,
+            "changeset": 173088935,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2895834758,
                 2895834606,
@@ -1132,6 +1133,7 @@
                 2895834758
             ],
             "tags": {
+                "addr:city": "Sassari",
                 "brand": "Mondo Convenienza",
                 "brand:wikidata": "Q55830962",
                 "building": "industrial",
@@ -1311,11 +1313,11 @@
         {
             "type": "way",
             "id": 1306743178,
-            "timestamp": "2024-08-10T09:02:18Z",
-            "version": 1,
-            "changeset": 155052697,
-            "user": "aboc",
-            "uid": 21696131,
+            "timestamp": "2025-10-10T11:09:55Z",
+            "version": 2,
+            "changeset": 173088962,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 12101934302,
                 12101934303,
@@ -1328,6 +1330,7 @@
                 12101934302
             ],
             "tags": {
+                "addr:city": "Sassari",
                 "amenity": "fuel",
                 "area": "yes",
                 "automated": "yes",
