@@ -2,7 +2,7 @@
 defineProps(["data"]);
 </script>
 <template>
-  <NuxtLink :to="`/regione/${data.id}`">
+  <NuxtLink :to="`/provincia/${data.id}`">
     <UiCard
     :title="useTagsnameit(data.tags)"
 		:imageSrc="'https://unsplash.it/640/400?' + data.id"

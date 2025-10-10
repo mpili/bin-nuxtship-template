@@ -90,7 +90,6 @@ definePageMeta({
           <p class="text-error-content font-mono text-sm">
             {{error}}
           </p>
-          <p></p>
 				</div>
 			</div>
     </div>
