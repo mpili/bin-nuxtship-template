@@ -1,7 +1,8 @@
 <script setup>
 const { id } = useRoute().params;
 
-const url_api = useOverpass(useOverpassadminloc(id, "6"));
+// const url_api = useOverpass(useOverpassadminloc(id, "6"));
+const url_api  = `/data/regioni/${id}.json`;
 
 const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
