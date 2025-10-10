@@ -1,0 +1,6 @@
+export function usePoiLat(poi) {
+	if (poi.center) {
+		return poi.center.lat;
+	}
+	return poi.lat;
+}
