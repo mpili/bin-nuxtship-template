@@ -1,7 +1,8 @@
 <script setup>
 const { id } = useRoute().params;
 
-const url_api = useOverpass(useOverpassadminloc(id, "6"));
+// const url_api = useOverpass(useOverpassadminloc(id, "6"));
+const url_api  = `/data/regioni/${id}.json`;
 
 const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
@@ -23,26 +24,21 @@ definePageMeta({
 <template>
 	<LandingContainer>
 		<LandingBreadcrumb :voci="breadcrumb" />
-		
+		<RegioneHead :id="id" />
+
 		<div v-if="pending">
-			<UiSkeleton />
+			<div class="flex w-52 flex-col gap-4">
+				<div class="skeleton h-4 w-full"></div>
+				<div class="skeleton h-4 w-full"></div>
+			</div>
 		</div>
 		<div v-else>
-			<ul class="list bg-base-100 rounded-box shadow-md">
-				<li class="p-4 pb-2 text-xs opacity-60 tracking-wide">Province</li>
-				
-				<li  v-for="provincia in data?.elements" :key="provincia.id" class="list-row">
-					<div><img class="size-10 rounded-box" src="https://placehold.co/94"/></div>
-					<div>
-						<NuxtLink :to="`/provincia/${provincia.id}`">
-							{{useTagsnameit(provincia.tags)}}
-						</NuxtLink>		
-					</div>
-				</li>
-			</ul>
+			<RegionePage :data="data" />
+			<!-- <UiRivela title="dati" :description="data" /> -->
 		</div>
 		<div v-if="error">
-			{{error}}
+			<UiRivela title="errore" :description="error" />
 		</div>
+		<!-- <UiRivela title="api" :description="url_api" /> -->
 	</LandingContainer>
 </template>

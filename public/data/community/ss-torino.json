@@ -7,7 +7,7 @@
     "idlocalita": "torino",
     "telegram_weburl": "https://web.telegram.org/a/#-1001385365071",
     "telegram_app": "https://t.me/SatoshiSpritzTorino",
-    "telegram_members": 821.0,
+    "telegram_members": 822.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -8063,6 +8063,23 @@
                 "brand:wikidata": "Q63335",
                 "name": "Foot Locker",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13202005572,
+            "lat": 45.1195445,
+            "lon": 7.7208163,
+            "timestamp": "2025-10-08T21:45:10Z",
+            "version": 2,
+            "changeset": 173024639,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "Primark",
+                "brand:wikidata": "Q137023",
+                "name": "Primark",
+                "shop": "clothes"
             }
         },
         {

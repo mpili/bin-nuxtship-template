@@ -4437,13 +4437,15 @@
             "id": 8855332502,
             "lat": 43.5508522,
             "lon": 10.3097783,
-            "timestamp": "2024-12-19T15:16:04Z",
-            "version": 3,
-            "changeset": 160399094,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-10T21:18:27Z",
+            "version": 4,
+            "changeset": 173113655,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Livorno",
                 "addr:housenumber": "133",
+                "addr:postcode": "57123",
                 "addr:street": "Via Grande",
                 "brand": "Bottega Verde",
                 "brand:wikidata": "Q894870",
@@ -6010,6 +6012,23 @@
                 "mapillary": "644347571469762",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13207196308,
+            "lat": 43.6623795,
+            "lon": 10.6373422,
+            "timestamp": "2025-10-10T17:04:27Z",
+            "version": 1,
+            "changeset": 173105193,
+            "user": "ElectrosphereX",
+            "uid": 21336399,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {

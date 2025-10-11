@@ -4,10 +4,11 @@ defineProps(["poi"]);
 </script>
 
 <template>
-  <LMarker :lat-lng="[poi.lat, poi.lon]">
+  <LMarker :lat-lng="[usePoiLat(poi), usePoiLon(poi)]">
     <LPopup v-if="poi.tags">
       <div v-if="poi.tags.name">
-        <NuxtLink :to="'/osn/' + poi.id">
+        <!-- <NuxtLink :to="'/osn/' + poi.id"> -->
+        <NuxtLink :to="usePoislug(poi)">
           <span class="text-blue-700 font-semibold">
             {{ poi.tags.name }}
           </span>

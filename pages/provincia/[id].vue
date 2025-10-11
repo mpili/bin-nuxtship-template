@@ -27,29 +27,13 @@ definePageMeta({
 	 -->
 	<LandingContainer>
 		<LandingBreadcrumb :voci="breadcrumb" />
+		<ProvinciaHead :id="id" />
+
 		<div v-if="pending">
 				<UiSkeleton />
 			</div>
 		<div v-else>
-			<ul class="list bg-base-100 rounded-box shadow-md">
-				<li class="p-4 pb-2 text-xs opacity-60 tracking-wide">Comuni</li>
-		
-				<li  v-for="comune in data?.elements" :key="comune.id" class="list-row">
-					<div><img class="size-10 rounded-box" src="https://placehold.co/94"/></div>
-					<div>
-						<NuxtLink :to="`/comune/${comune.id}`">
-							{{useTagsnameit(comune.tags)}}
-						</NuxtLink>
-					</div>
-				</li>
-			</ul>
-			<!--
-			<div v-for="comune in data?.elements" :key="comune.id">
-				<NuxtLink :to="`/comune/${comune.id}`">
-					comune: {{comune.tags['name']}}
-				</NuxtLink>
-			</div>
-			-->
+			<ProvinciaPage :data="data" />
 		  </div>
 	</LandingContainer>
 </template>

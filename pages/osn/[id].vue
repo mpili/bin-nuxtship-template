@@ -1,6 +1,9 @@
 <script setup>
 const { id } = useRoute().params;
-const url_api = `https://overpass-api.de/api/interpreter?data=[out:json];nwr(id:${id});out meta;`;
+// const url_api = `https://overpass-api.de/api/interpreter?data=[out:json];nwr(id:${id});out meta;`;
+
+const pars = `nwr(id:${id})`;
+const url_api = useOverpass(pars);
 
 /* This call is performed before hydration */
 // var { data } = await useFetch(url_api);

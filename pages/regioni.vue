@@ -10,7 +10,7 @@
 //   server: false,
 // });
 
-import regioni from "~/assets/data/regioni.json";
+import data from "~/assets/data/regioni.json";
 
 definePageMeta({
   layout: "main",
@@ -20,28 +20,11 @@ definePageMeta({
 
 <template>
 	<LandingContainer>
-		<!-- 
-			<div v-if="pending">
-				<UiSkeleton />
-			</div>
-			<div v-else>
-			-->
-			<!-- <div v-for="regione in data?.elements" :key="regione.id"> -->
 
+		<LandingSectionhead>
+		<template v-slot:title>Regioni</template>
+		</LandingSectionhead>
 
-		<ul class="list bg-base-100 rounded-box shadow-md">
-			<li class="p-4 pb-2 text-xs opacity-60 tracking-wide">Regioni</li>
-			
-			<li  v-for="regione in regioni.elements" :key="regione.id" class="list-row">
-				<div><img class="size-10 rounded-box" src="https://placehold.co/94"/></div>
-				<div>
-					<NuxtLink :to="`/regione/${regione.id}`">
-						<RegioniScheda :regione="regione" />
-					</NuxtLink>		
-				</div>
-			</li>
-		</ul>
-
-			<!-- </div> -->
+		<RegioniPage :data="data" />
 	</LandingContainer>
 </template>

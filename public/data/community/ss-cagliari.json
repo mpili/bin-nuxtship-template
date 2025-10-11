@@ -1520,6 +1520,23 @@
         },
         {
             "type": "node",
+            "id": 8987540393,
+            "lat": 39.6530518,
+            "lon": 9.130731,
+            "timestamp": "2025-10-10T20:26:12Z",
+            "version": 2,
+            "changeset": 173112108,
+            "user": "Cri_Mar",
+            "uid": 23384113,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 9577452291,
             "lat": 39.3363488,
             "lon": 8.9165235,
@@ -1865,9 +1882,9 @@
             "id": 10586224767,
             "lat": 39.4905968,
             "lon": 8.7617439,
-            "timestamp": "2025-09-13T21:29:27Z",
-            "version": 4,
-            "changeset": 171894379,
+            "timestamp": "2025-10-10T09:17:52Z",
+            "version": 5,
+            "changeset": 173084068,
             "user": "FredPencil",
             "uid": 21089936,
             "tags": {
@@ -1877,6 +1894,7 @@
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
                 "name": "Unieuro",
+                "opening_hours": "Mo-Su 08:30-20:30",
                 "operator": "Unieuro S.p.A.",
                 "phone": "+39 070 931 1034",
                 "shop": "electronics",

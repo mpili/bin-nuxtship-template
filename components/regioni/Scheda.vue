@@ -1,13 +1,11 @@
-<script>
-export default {
-  props: {
-    regione: {
-      required: true,
-    },
-  },
-};
+<script setup>
+defineProps(["data"]);
 </script>
-
 <template>
-  {{useTagsnameit(regione.tags)}}
+  <NuxtLink :to="`/regione/${data.id}`">
+    <UiCard
+    :title="useTagsnameit(data.tags)"
+		:imageSrc="'/img/regione/' + data.id + '.png'"
+	/>
+  </NuxtLink>
 </template>

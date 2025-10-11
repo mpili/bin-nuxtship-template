@@ -17,7 +17,7 @@ definePageMeta({
 <template>
 	<LandingContainer>
 		<LandingBreadcrumb :voci="breadcrumb" />
-		
-		<ComunePois :id="id" />
+    <ComunePage :id="id" />
+
 	</LandingContainer>
 </template>
