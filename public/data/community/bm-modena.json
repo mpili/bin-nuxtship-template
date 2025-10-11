@@ -954,11 +954,11 @@
             "id": 417856704,
             "lat": 45.8751426,
             "lon": 11.0335673,
-            "timestamp": "2024-07-10T19:39:42Z",
-            "version": 5,
-            "changeset": 153798421,
-            "user": "mauropili",
-            "uid": 1496865,
+            "timestamp": "2025-10-11T17:32:05Z",
+            "version": 6,
+            "changeset": 173148276,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Rovereto",
                 "addr:housenumber": "76",
@@ -973,7 +973,7 @@
                 "opening_hours": "Tu-Su 08:30-23:30",
                 "payment:XBT:operator": "bitcoinpos.it",
                 "payment:lightning": "yes",
-                "phone": "0464 432521",
+                "phone": "+39 0464 432521",
                 "website": "https://www.pizzeriabotti.it/",
                 "wheelchair": "yes"
             }
@@ -6200,6 +6200,38 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "shop": "coffee"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13194579999,
+            "lat": 45.6554315,
+            "lon": 10.4206713,
+            "timestamp": "2025-10-11T10:15:23Z",
+            "version": 4,
+            "changeset": 173129960,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Sabbio Chiese",
+                "addr:housenumber": "12",
+                "addr:postcode": "25070",
+                "addr:street": "Via Antonio Zani",
+                "craft": "handicraft",
+                "currency:XBT": "yes",
+                "description": "Vendita articoli personalizzati Tazze, Mug, Portachiavi ecc...",
+                "name": "Kikera",
+                "opening_hours": "Mo-Sa 09:00-18:00",
+                "payment:bancomat": "yes",
+                "payment:binance": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:lightning": "no",
+                "payment:onchain": "yes",
+                "payment:polygon": "yes",
+                "payment:tron": "yes",
+                "phone": "+39 3511119911",
+                "website": "https://kikera.com/"
             }
         },
         {

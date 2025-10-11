@@ -18,22 +18,21 @@ const breadcrumb = computed(() => [
 definePageMeta({
   layout: "main",
 });
-
 </script>
 <template>
 	<!--
-	 <p>{{id}}</p>
-	<p>{{url_api}}</p>
+		<p>{{id}}</p>
+		<p>{{url_api}}</p>
 	 -->
 	<LandingContainer>
 		<LandingBreadcrumb :voci="breadcrumb" />
 		<ProvinciaHead :id="id" />
 
 		<div v-if="pending">
-				<UiSkeleton />
-			</div>
+			<UiSkeleton />
+		</div>
 		<div v-else>
 			<ProvinciaPage :data="data" />
-		  </div>
+		</div>
 	</LandingContainer>
 </template>

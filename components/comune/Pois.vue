@@ -32,6 +32,6 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 		<OnwListapoi :datapois="data.elements" />
 	</div>
 	<div v-if="error">
-		<pre>{{ error }}</pre>
+		<UiRivela title="errore" :description="error" />
 	</div>
 </template>

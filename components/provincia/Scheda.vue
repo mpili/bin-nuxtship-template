@@ -5,7 +5,7 @@ defineProps(["data"]);
   <NuxtLink :to="`/comune/${data.id}`">
     <UiCard
     :title="useTagsnameit(data.tags)"
-		:imageSrc="'https://unsplash.it/640/400?' + data.id"
+		:imageSrc="'https://unsplash.it/640/400?' + useTagsnameit(data.tags)"
 	/>
   </NuxtLink>
 </template>

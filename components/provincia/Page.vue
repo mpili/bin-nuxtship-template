@@ -2,6 +2,7 @@
 defineProps(["data"]);
 </script>
 <template>
+	<ProvinciaMap :data="data" />
 	<div class="flex flex-wrap">
 		<ProvinciaScheda
 			class="m-2"

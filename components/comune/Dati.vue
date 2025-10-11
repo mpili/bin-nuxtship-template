@@ -11,7 +11,6 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 </script>
 <template>
-	{{center}}
 	<div class="my-6">
 		<div v-if="pending">
 			<UiSkeleton />
@@ -20,7 +19,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 			<ComunePoisaround :daticomune="data" :center="center" />
 		</div>
 		<div v-if="error">
-			<pre>{{ error }}</pre>
-		</div>	
+			<UiRivela title="errore" :description="error" />
+		</div>
 	</div>
 </template>
