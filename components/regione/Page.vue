@@ -1,7 +1,9 @@
 <script setup>
-defineProps(["data"]);
+defineProps(["data","id"]);
 </script>
 <template>
+	<RegioneHead :id="id" />
+
 	<div class="flex flex-wrap">
 		<RegioneScheda
 			class="m-2"

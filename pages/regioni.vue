@@ -12,6 +12,28 @@
 
 import data from "~/assets/data/regioni.json";
 
+useHead({
+  title: "Regioni" + " | Bitcoin Italia Network",
+  meta: [
+    {
+      name: "description",
+      content: "Le regioni italiane per trovare dove acuistare pagando in Bitcoin",
+    },
+  ],
+  link: [
+    {
+      rel: "canonical",
+      href: "https://bitcoinitalianetwork.com/regioni",
+    },
+  ],
+});
+
+const breadcrumb = computed(() => [
+  {
+    label: "Regioni",
+  },
+]);
+
 definePageMeta({
   layout: "main",
 });
@@ -20,6 +42,7 @@ definePageMeta({
 
 <template>
 	<LandingContainer>
+		<LandingBreadcrumb :voci="breadcrumb" />
 
 		<LandingSectionhead>
 		<template v-slot:title>Regioni</template>

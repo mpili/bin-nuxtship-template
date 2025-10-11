@@ -3,7 +3,7 @@ const props = defineProps(["evento"]);
 
 const breadcrumb = computed(() => [
   {
-    label: "eventi",
+    label: "Eventi",
     path: "/eventi",
   },
   {

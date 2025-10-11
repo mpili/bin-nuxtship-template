@@ -12,6 +12,10 @@ const vocimenu = [
         path: "/categorie",
       },
       {
+        titolo: "Comuni",
+        path: "/regioni",
+      },
+      {
         titolo: "Altre mappe",
         path: "/altremappe",
       },
