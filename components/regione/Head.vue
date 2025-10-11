@@ -1,7 +1,9 @@
 <script setup>
-const { id } = useRoute().params;
+// const { id } = useRoute().params;
+const props = defineProps(["id"]);
+// const id = props.id;
 
-const url_api = useOverpass("nwr(id:" + id + ")");
+const url_api = useOverpass("nwr(id:" + props.id + ")");
 
 const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
@@ -17,6 +19,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 			</div>
 		</div>
 		<div v-else>
+			<RegioneBreadcrumb :data="data.elements[0]" />
 			<LandingSectionhead>
 				<template v-slot:title>{{useTagsnameit(data.elements[0].tags)}}</template>
 				<template v-slot:desc>Province della regione</template>

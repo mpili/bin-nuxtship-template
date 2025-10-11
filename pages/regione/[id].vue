@@ -23,9 +23,6 @@ definePageMeta({
 </script>
 <template>
 	<LandingContainer>
-		<LandingBreadcrumb :voci="breadcrumb" />
-		<RegioneHead :id="id" />
-
 		<div v-if="pending">
 			<div class="flex w-52 flex-col gap-4">
 				<div class="skeleton h-4 w-full"></div>
@@ -33,7 +30,7 @@ definePageMeta({
 			</div>
 		</div>
 		<div v-else>
-			<RegionePage :data="data" />
+			<RegionePage :data="data" :id="id" />
 			<!-- <UiRivela title="dati" :description="data" /> -->
 		</div>
 		<div v-if="error">
