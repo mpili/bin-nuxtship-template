@@ -6441,16 +6441,17 @@
             "id": 12224103163,
             "lat": 45.0981728,
             "lon": 7.5813495,
-            "timestamp": "2025-10-05T18:43:46Z",
-            "version": 4,
-            "changeset": 172881380,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-11T16:32:19Z",
+            "version": 5,
+            "changeset": 173145861,
+            "user": "adriespo",
+            "uid": 1791267,
             "tags": {
                 "addr:city": "Collegno",
                 "addr:housenumber": "1",
                 "addr:postcode": "10093",
                 "addr:street": "Viale Svezia",
+                "alt_name": "Bottega Svedese",
                 "amenity": "fast_food",
                 "brand": "IKEA",
                 "brand:wikidata": "Q54078",
@@ -6467,7 +6468,8 @@
                 "payment:maestro": "yes",
                 "payment:mastercard": "yes",
                 "payment:satispay": "yes",
-                "payment:ticket_restaurant": "yes"
+                "payment:ticket_restaurant": "yes",
+                "takeaway": "yes"
             }
         },
         {

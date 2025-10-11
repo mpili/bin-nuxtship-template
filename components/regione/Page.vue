@@ -3,6 +3,7 @@ defineProps(["data","id"]);
 </script>
 <template>
 	<RegioneHead :id="id" />
+	<RegioneMap :data="data" />
 
 	<div class="flex flex-wrap">
 		<RegioneScheda

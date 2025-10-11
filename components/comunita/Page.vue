@@ -110,12 +110,7 @@ useHead({
       :center="[data?.lng, data?.lat]"
       :use-global-leaflet="false"
     >
-      <LTileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution='&amp;copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
-        layer-type="base"
-        name="OpenStreetMap"
-      />
+      <MainLTileLayer />
       <ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
     </LMap>
   </div>

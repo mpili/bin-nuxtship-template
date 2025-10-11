@@ -7518,6 +7518,38 @@
             }
         },
         {
+            "type": "node",
+            "id": 13194579999,
+            "lat": 45.6554315,
+            "lon": 10.4206713,
+            "timestamp": "2025-10-11T10:15:23Z",
+            "version": 4,
+            "changeset": 173129960,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Sabbio Chiese",
+                "addr:housenumber": "12",
+                "addr:postcode": "25070",
+                "addr:street": "Via Antonio Zani",
+                "craft": "handicraft",
+                "currency:XBT": "yes",
+                "description": "Vendita articoli personalizzati Tazze, Mug, Portachiavi ecc...",
+                "name": "Kikera",
+                "opening_hours": "Mo-Sa 09:00-18:00",
+                "payment:bancomat": "yes",
+                "payment:binance": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:lightning": "no",
+                "payment:onchain": "yes",
+                "payment:polygon": "yes",
+                "payment:tron": "yes",
+                "phone": "+39 3511119911",
+                "website": "https://kikera.com/"
+            }
+        },
+        {
             "type": "way",
             "id": 25531574,
             "timestamp": "2025-09-22T11:23:45Z",

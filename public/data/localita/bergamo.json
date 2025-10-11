@@ -1375,12 +1375,15 @@
             "id": 227986425,
             "lat": 45.4079487,
             "lon": 9.2626797,
-            "timestamp": "2022-03-22T19:14:47Z",
-            "version": 8,
-            "changeset": 118791304,
-            "user": "Sunset2001",
-            "uid": 10356690,
+            "timestamp": "2025-10-11T07:09:40Z",
+            "version": 9,
+            "changeset": 173123862,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "San Donato Milanese",
+                "addr:postcode": "20097",
+                "addr:street": "Via Bruno Buozzi",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -4438,11 +4441,11 @@
             "id": 2096701036,
             "lat": 45.4768082,
             "lon": 9.1843784,
-            "timestamp": "2025-01-03T14:01:38Z",
-            "version": 11,
-            "changeset": 160950553,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-10-11T12:52:06Z",
+            "version": 12,
+            "changeset": 173135804,
+            "user": "Danysan95",
+            "uid": 4425563,
             "tags": {
                 "addr:city": "Milano",
                 "addr:country": "IT",
@@ -4453,6 +4456,7 @@
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
+                "check_date": "2025-10-11",
                 "name": "OVS",
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:00,15:00-19:30",
                 "operator": "OVS",
@@ -17864,11 +17868,11 @@
         {
             "type": "way",
             "id": 27627074,
-            "timestamp": "2025-05-23T16:33:15Z",
-            "version": 18,
-            "changeset": 166664832,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2025-10-10T22:47:07Z",
+            "version": 19,
+            "changeset": 173115572,
+            "user": "c674a",
+            "uid": 13697350,
             "nodes": [
                 303404794,
                 2943609228,
@@ -17882,7 +17886,9 @@
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "86",
+                "addr:postcode": "20153",
                 "addr:street": "Via Novara",
+                "air_conditioning": "yes",
                 "branch": "SAN SIRO",
                 "brand": "Esselunga",
                 "brand:wikidata": "Q1059636",
@@ -17891,7 +17897,13 @@
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-14:00",
                 "operator": "Esselunga",
-                "shop": "supermarket"
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:food_voucher": "yes",
+                "shop": "supermarket",
+                "toilets": "yes"
             }
         },
         {
@@ -24088,9 +24100,9 @@
         {
             "type": "way",
             "id": 659554196,
-            "timestamp": "2025-07-27T21:49:51Z",
-            "version": 2,
-            "changeset": 169582037,
+            "timestamp": "2025-10-10T22:47:07Z",
+            "version": 3,
+            "changeset": 173115572,
             "user": "c674a",
             "uid": 13697350,
             "nodes": [
@@ -24109,7 +24121,9 @@
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "15",
+                "addr:postcode": "20148",
                 "addr:street": "Via Mario Morgantini",
+                "air_conditioning": "yes",
                 "branch": "Morgantini",
                 "brand": "Esselunga",
                 "brand:wikidata": "Q1059636",
@@ -24120,7 +24134,8 @@
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
                 "payment:food_voucher": "yes",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "toilets": "yes"
             }
         },
         {
