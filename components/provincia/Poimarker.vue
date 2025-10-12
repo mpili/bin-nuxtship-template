@@ -5,7 +5,7 @@ defineProps(["poi"]);
 	<LCircle
 		:lat-lng="[usePoiLat(poi), usePoiLon(poi)]"
 		:radius="800"
-    	:color="'red'"
+    	:color="'blue'"
 	>
 		<LPopup v-if="poi.tags">
 			<NuxtLink :to="`/comune/${poi.id}`">

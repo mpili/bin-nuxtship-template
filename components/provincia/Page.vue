@@ -1,5 +1,5 @@
 <script setup>
-defineProps(["data"]);
+const props = defineProps(["data","id"]);
 </script>
 <template>
 	<ProvinciaMap :data="data" />

@@ -5,8 +5,8 @@ defineProps(["data"]);
 <template>
     <LMap
       style="height: 300px"
-      :zoom="5"
-      :center="[41.8879, 12.4838]"
+      :zoom="6"
+      :center="[usePoiLat(data.elements[0]), usePoiLon(data.elements[0])]"
       :use-global-leaflet="false"
     >
       <MainLTileLayer />

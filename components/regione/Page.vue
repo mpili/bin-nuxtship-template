@@ -1,10 +1,8 @@
 <script setup>
-defineProps(["data","id"]);
+const props = defineProps(["data","id"]);
 </script>
 <template>
-	<RegioneHead :id="id" />
 	<RegioneMap :data="data" />
-
 	<div class="flex flex-wrap">
 		<RegioneScheda
 			class="m-2"

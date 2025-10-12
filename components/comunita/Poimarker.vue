@@ -7,6 +7,11 @@ defineProps(["poi"]);
   <LCircle v-if="poi?.tags['currency:XBT']=='yes'"
     :lat-lng="[usePoiLat(poi), usePoiLon(poi)]"
     :radius="100"
+    :color="'yellow'"
+  />
+  <LCircle v-if="poi?.tags['currency:XBT']=='yes'"
+    :lat-lng="[usePoiLat(poi), usePoiLon(poi)]"
+    :radius="10"
     :color="'orange'"
   />
   <LMarker :lat-lng="[usePoiLat(poi), usePoiLon(poi)]">
