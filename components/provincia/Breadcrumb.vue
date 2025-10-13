@@ -8,7 +8,7 @@ const breadcrumb = computed(() => [
 		path: "/regioni",
 	},
 	{ label: "...", },
-	{ label: props.name, },
+	{ label: "Provincia di "+props.name, },
 ]);
 </script>
 

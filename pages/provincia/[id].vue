@@ -18,7 +18,7 @@ definePageMeta({
 			<UiSkeletonlines />
 		</div>
 		<div v-else>
-			<ProvinciaPage :data="data" :id="id" />
+			<ProvinciaPage :data="data" />
 		</div>
 		<div v-if="error">
 			<UiRivela title="errore" :description="error" />

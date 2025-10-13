@@ -4,17 +4,25 @@ defineProps(["poi"]);
 </script>
 
 <template>
-  <LCircle v-if="poi?.tags['currency:XBT']=='yes'"
+  <!-- <LCircle v-if="poi?.tags['currency:XBT']=='yes'"
     :lat-lng="[usePoiLat(poi), usePoiLon(poi)]"
     :radius="100"
     :color="'yellow'"
-  />
-  <LCircle v-if="poi?.tags['currency:XBT']=='yes'"
+  /> -->
+  <!-- <LCircle v-if="poi?.tags['currency:XBT']=='yes'"
     :lat-lng="[usePoiLat(poi), usePoiLon(poi)]"
     :radius="10"
     :color="'orange'"
-  />
+  /> -->
   <LMarker :lat-lng="[usePoiLat(poi), usePoiLon(poi)]">
+    <LIcon  v-if="poi?.tags['currency:XBT']=='yes'"
+      icon-url="/img/poimarkerorange.png"
+      :icon-size="[25, 41]"
+    />
+   <LIcon v-else
+      icon-url="/img/poimarker.png"
+      :icon-size="[25, 41]"
+    />
     <LPopup v-if="poi.tags">
       <div v-if="poi.tags.name">
         <!-- <NuxtLink :to="'/osn/' + poi.id"> -->

@@ -2,7 +2,7 @@
 defineProps(["poi"]);
 </script>
 <template>
-	<LCircle
+	<LCircle v-if="poi"
 		:lat-lng="[usePoiLat(poi), usePoiLon(poi)]"
 		:radius="800"
     	:color="'blue'"
