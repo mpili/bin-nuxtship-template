@@ -1,6 +1,5 @@
 <script setup>
 const { id } = useRoute().params;
-
 const url_api = useOverpass(useOverpassadminloc(id, "8"));
 
 const { pending, data, error } = await useLazyFetch(url_api, {
@@ -8,31 +7,21 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
-const breadcrumb = computed(() => [
-  {
-    label: "Regioni",
-    path: "/regioni",
-  },
-]);
-
 definePageMeta({
   layout: "main",
 });
 </script>
 <template>
-	<!--
-		<p>{{id}}</p>
-		<p>{{url_api}}</p>
-	 -->
 	<LandingContainer>
-		<LandingBreadcrumb :voci="breadcrumb" />
 		<ProvinciaHead :id="id" />
-
 		<div v-if="pending">
-			<UiSkeleton />
+			<UiSkeletonlines />
 		</div>
 		<div v-else>
-			<ProvinciaPage :data="data" />
+			<ProvinciaPage :data="data" :id="id" />
+		</div>
+		<div v-if="error">
+			<UiRivela title="errore" :description="error" />
 		</div>
 	</LandingContainer>
 </template>

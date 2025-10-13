@@ -2,6 +2,7 @@
 const { id } = useRoute().params;
 
 // const url_api = useOverpass(useOverpassadminloc(id, "6"));
+// staticizato in /data/regioni/*.json
 const url_api  = `/data/regioni/${id}.json`;
 
 const { pending, data, error } = await useLazyFetch(url_api, {
@@ -9,25 +10,15 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
-const breadcrumb = computed(() => [
-  {
-    label: "Regioni",
-    path: "/regioni",
-  },
-]);
-
 definePageMeta({
   layout: "main",
 });
-
 </script>
 <template>
 	<LandingContainer>
+		<RegioneHead :id="id" />
 		<div v-if="pending">
-			<div class="flex w-52 flex-col gap-4">
-				<div class="skeleton h-4 w-full"></div>
-				<div class="skeleton h-4 w-full"></div>
-			</div>
+			<UiSkeletonlines />
 		</div>
 		<div v-else>
 			<RegionePage :data="data" :id="id" />

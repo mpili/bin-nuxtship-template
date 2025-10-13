@@ -7,7 +7,7 @@
     "idlocalita": "prato",
     "telegram_weburl": "https://web.telegram.org/a/#-1001612667136",
     "telegram_app": "https://t.me/bitcoinpratohub",
-    "telegram_members": 143.0,
+    "telegram_members": 144.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -6713,6 +6713,41 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13227257029,
+            "lat": 43.6640112,
+            "lon": 10.6327801,
+            "timestamp": "2025-10-12T07:45:03Z",
+            "version": 1,
+            "changeset": 173166549,
+            "user": "ElectrosphereX",
+            "uid": 21336399,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13227263882,
+            "lat": 43.6637611,
+            "lon": 10.6356536,
+            "timestamp": "2025-10-12T07:45:11Z",
+            "version": 2,
+            "changeset": 173166550,
+            "user": "ElectrosphereX",
+            "uid": 21336399,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "opening_hours": "Mo 10:00-13:00,16:00-19:30; Tu-Sa 09:00-13:00,16:00-19:30; Su 16:00-19:30",
+                "shop": "clothes"
             }
         },
         {
