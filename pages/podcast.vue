@@ -33,11 +33,26 @@ const podcasts = [
     nome: "Bitcoin Italia Podcast",
     url: "/podc/bitcoin-italia-podcast",
     img: "/img/podcast/bitcoin-italia-podcast.jpg",
-    id: "bitcoin-italia-podcast",
     descrizione:
       "Rikki e Guybrush ogni giovedì ci propongono un nuovo episodio del principale podcast italiano dedicato a Bitcoin.",
   },
-    {
+  {
+    id: "block-time",
+    nome: "Bitcoin Italia Podcast",
+    url: "/podc/block-time",
+    img: "/img/podcast/block-time.jpg",
+    descrizione:
+      "Marco Costanza per Unspent.it",
+  },
+  {
+    id: "bitcoin-monfalcone-podcast",
+    nome: "Bitcoin Monfalcone Podcast",
+    url: "/podc/bitcoin-monfalcone-podcast",
+    img: "/img/podcast/bitcoin-monfalcone-podcast.jpg",
+    descrizione:
+      "È il podcast nato dai meetup Bitcoin Monfalcone Podcast",
+  },
+  {
     id: "il-priorato-del-bitcoin",
     nome: "Il priorato del Bitcoin",
     url: "/podc/il-priorato-del-bitcoin",

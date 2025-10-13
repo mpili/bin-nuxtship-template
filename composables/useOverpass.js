@@ -5,7 +5,7 @@
 // out center;
 
 export function useOverpass(pars) {
-	return 'https://overpass-api.de/api/interpreter?data=[out:json][timeout:60];'
+	return 'https://overpass-api.de/api/interpreter?data=[out:json][timeout:120];'
 	+pars
 	+ ";out center;" // ";out meta;"
 }
