@@ -1,0 +1,1024 @@
+{
+  "type": "relation",
+  "id": 39157,
+  "center": {
+    "lat": 36.912623,
+    "lon": 14.6725611
+  },
+  "members": [
+    {
+      "type": "node",
+      "ref": 67253706,
+      "role": "admin_centre"
+    },
+    {
+      "type": "way",
+      "ref": 110521373,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 917724786,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 917724789,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447357,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 339845170,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447396,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 340313592,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 646807973,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447406,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294970262,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294966964,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294898960,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 338528032,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294442115,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294615725,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294779072,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 498125107,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294781044,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447443,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1002389182,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294778363,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294565766,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294563308,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 294563305,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447411,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 54052931,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 51256543,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 54052926,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 54052927,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447430,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112447446,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 420621882,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 54052928,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 54052929,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 10368814,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 108120298,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 108120296,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 108120297,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 435163069,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 435163068,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 54293497,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "ISO3166-2": "IT-RG",
+    "admin_level": "6",
+    "alt_name:ar": "رغوص;راغوزا;راجوسا",
+    "boundary": "administrative",
+    "name": "Ragusa",
+    "name:ar": "رغوس",
+    "name:el": "Ραγκούζα",
+    "name:fr": "Raguse",
+    "name:it": "Ragusa",
+    "name:ko": "라구사",
+    "name:lt": "Ragūza",
+    "name:ru": "Рагуза",
+    "name:scn": "Raùsa",
+    "name:uk": "Рагуза",
+    "name:zh": "拉古萨",
+    "official_name": "Libero Consorzio Comunale di Ragusa",
+    "population": "319377",
+    "ref:ISTAT": "088",
+    "ref:nuts": "ITG18",
+    "ref:nuts:3": "ITG18",
+    "short_name": "RG",
+    "source:population": "Istat febbraio 2024",
+    "type": "boundary",
+    "wikidata": "Q26160405",
+    "wikipedia": "it:Libero consorzio comunale di Ragusa"
+  },
+  "regione": {
+    "id": 39152,
+    "name": "Sicilia",
+    "slug": "sicilia"
+  },
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-14T20:43:14Z",
+    "timestamp_areas_base": "2025-10-14T16:10:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 39156,
+      "center": {
+        "lat": 36.7554104,
+        "lon": 14.9344743
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 54052931,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447411,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294563305,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294563308,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294565766,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294778363,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447397,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 108120298,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 108120296,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 108120297,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 67256794,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 435163069,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 435163068,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 54293497,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Ispica",
+        "postal_code": "97014",
+        "ref:ISTAT": "088005",
+        "ref:catasto": "E366",
+        "type": "boundary",
+        "wikidata": "Q34092",
+        "wikipedia": "it:Ispica"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39158,
+      "center": {
+        "lat": 36.871169,
+        "lon": 14.8253852
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67256924,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 112447427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447445,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 54052926,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447413,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1120797801,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 922186374,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294781044,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447443,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1002389182,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 338528031,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 338528033,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 338528032,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294442115,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294615725,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294779072,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Modica",
+        "postal_code": "97010;97015",
+        "ref:ISTAT": "088006",
+        "ref:catasto": "F258",
+        "type": "boundary",
+        "wikidata": "Q34102",
+        "wikipedia": "it:Modica"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39159,
+      "center": {
+        "lat": 36.73417,
+        "lon": 14.8584072
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 112447445,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 51256543,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447397,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 67256916,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Pozzallo",
+        "postal_code": "97016",
+        "ref:ISTAT": "088008",
+        "ref:catasto": "G953",
+        "type": "boundary",
+        "wikidata": "Q34111",
+        "wikipedia": "it:Pozzallo"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39161,
+      "center": {
+        "lat": 36.7748341,
+        "lon": 14.6841423
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67256807,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 112447413,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1120797801,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 54052927,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Scicli",
+        "postal_code": "97018",
+        "ref:ISTAT": "088011",
+        "ref:catasto": "I535",
+        "type": "boundary",
+        "wikidata": "Q34123",
+        "wikipedia": "it:Scicli"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39162,
+      "center": {
+        "lat": 36.907808,
+        "lon": 14.6577243
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67253706,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 112447433,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 340208733,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 581772456,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447428,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 494822388,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 54052928,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 420621882,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447403,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447430,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 922186374,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 498125107,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 338528031,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "alt_name:ar": "رغوص;راغوزا;راجوسا",
+        "boundary": "administrative",
+        "name": "Ragusa",
+        "name:ar": "رغوس",
+        "postal_code": "97100",
+        "ref:ISTAT": "088009",
+        "ref:catasto": "H163",
+        "type": "boundary",
+        "wikidata": "Q13674",
+        "wikimedia_commons": "Category:Ragusa",
+        "wikipedia": "it:Ragusa"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39164,
+      "center": {
+        "lat": 36.8225658,
+        "lon": 14.5221076
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 112447446,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447403,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 67256820,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Santa Croce Camerina",
+        "postal_code": "97017",
+        "ref:ISTAT": "088010",
+        "ref:catasto": "I178",
+        "type": "boundary",
+        "wikidata": "Q34117",
+        "wikimedia_commons": "Category:Santa Croce Camerina",
+        "wikipedia": "it:Santa Croce Camerina"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39167,
+      "center": {
+        "lat": 36.9636007,
+        "lon": 14.4925072
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 499366858,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 54052929,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 494822388,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447444,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447360,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 67256910,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Vittoria",
+        "postal_code": "97019",
+        "ref:ISTAT": "088012",
+        "ref:catasto": "M088",
+        "type": "boundary",
+        "wikidata": "Q34130",
+        "wikipedia": "it:Vittoria (Italia)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39170,
+      "center": {
+        "lat": 36.9714259,
+        "lon": 14.5896144
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 112447428,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447444,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447426,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 67256855,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Comiso",
+        "postal_code": "97013",
+        "ref:ISTAT": "088003",
+        "ref:catasto": "C927",
+        "type": "boundary",
+        "wikidata": "Q34072",
+        "wikipedia": "it:Comiso"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39171,
+      "center": {
+        "lat": 37.0127173,
+        "lon": 14.4406041
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67256798,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 10368814,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 110521373,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 917724786,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 917724789,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447357,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 339845170,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 496183782,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 499366858,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Acate",
+        "postal_code": "97011",
+        "ref:ISTAT": "088001",
+        "ref:catasto": "A014",
+        "type": "boundary",
+        "wikidata": "Q34058",
+        "wikipedia": "it:Acate"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39172,
+      "center": {
+        "lat": 37.0460551,
+        "lon": 14.6394337
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67256861,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 340313592,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447396,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 496183782,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447360,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447426,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 581772456,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1018564175,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1288249362,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 340313612,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Chiaramonte Gulfi",
+        "postal_code": "97012",
+        "ref:ISTAT": "088002",
+        "ref:catasto": "C612",
+        "type": "boundary",
+        "wikidata": "Q34066",
+        "wikipedia": "it:Chiaramonte Gulfi"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39173,
+      "center": {
+        "lat": 37.0739004,
+        "lon": 14.8081904
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67256846,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 294966964,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294970262,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447406,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 916393341,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112447433,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 338528033,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 294898960,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Giarratana",
+        "postal_code": "97010",
+        "ref:ISTAT": "088004",
+        "ref:catasto": "E016",
+        "type": "boundary",
+        "wikidata": "Q34083",
+        "wikipedia": "it:Giarratana"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 39176,
+      "center": {
+        "lat": 37.0739545,
+        "lon": 14.7328202
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 67256833,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 340208733,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1018564175,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1288249362,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 340313612,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 646807973,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 916393341,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Monterosso Almo",
+        "postal_code": "97010",
+        "ref:ISTAT": "088007",
+        "ref:catasto": "F610",
+        "type": "boundary",
+        "wikidata": "Q34107",
+        "wikipedia": "it:Monterosso Almo"
+      }
+    }
+  ],
+  "name": "Ragusa",
+  "slug": "ragusa"
+}

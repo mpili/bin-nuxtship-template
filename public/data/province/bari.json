@@ -1,0 +1,3037 @@
+{
+  "type": "relation",
+  "id": 40707,
+  "center": {
+    "lat": 40.9612288,
+    "lon": 16.8010686
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 10271036,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 438832443,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 442458192,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 442458193,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 316357763,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 172252055,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 548373922,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 548373920,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 320737982,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 173495635,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 10271068,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 438832445,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 29132579,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967421,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967400,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967302,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967363,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967362,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967258,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967265,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967253,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967115,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967159,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967156,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967214,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967235,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967269,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967266,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967082,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967489,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967622,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967784,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002884,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002883,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27968169,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002880,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002879,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002878,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002867,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002866,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27968619,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1232002868,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 26788812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 10271039,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967248,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 27967305,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27967317,
+      "role": "outer"
+    },
+    {
+      "type": "node",
+      "ref": 68528585,
+      "role": "admin_centre"
+    }
+  ],
+  "tags": {
+    "ISO3166-2": "IT-BA",
+    "admin_level": "6",
+    "boundary": "administrative",
+    "name": "Bari",
+    "name:ar": "باري",
+    "name:fa": "باری",
+    "name:ko": "바리",
+    "name:ks": "باری",
+    "name:ru": "Бари",
+    "name:ur": "باری",
+    "official_name": "Città Metropolitana di Bari",
+    "ref:ISTAT": "072",
+    "ref:nuts": "ITF47",
+    "ref:nuts:3": "ITF47",
+    "short_name": "BA",
+    "type": "boundary",
+    "wikidata": "Q18241854",
+    "wikipedia": "it:Città metropolitana di Bari"
+  },
+  "regione": {
+    "id": 40095,
+    "name": "Puglia",
+    "slug": "puglia"
+  },
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-14T20:27:00Z",
+    "timestamp_areas_base": "2025-10-14T16:10:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 40706,
+      "center": {
+        "lat": 40.8536255,
+        "lon": 16.366715
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967082,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967489,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967975,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002883,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968141,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967951,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967266,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528748,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Gravina in Puglia",
+        "name:ru": "Гравина-ин-Пулья",
+        "ref:ISTAT": "072023",
+        "ref:catasto": "E155",
+        "type": "boundary",
+        "wikidata": "Q51829",
+        "wikipedia": "it:Gravina in Puglia"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40721,
+      "center": {
+        "lat": 40.7778464,
+        "lon": 16.9115008
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967364,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967347,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967238,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967159,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967115,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967253,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967387,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967507,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967510,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967515,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967519,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967573,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528652,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Gioia del Colle",
+        "ref:ISTAT": "072021",
+        "ref:catasto": "E038",
+        "type": "boundary",
+        "wikidata": "Q51827",
+        "wikipedia": "it:Gioia del Colle"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40728,
+      "center": {
+        "lat": 40.7802787,
+        "lon": 16.752877
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967364,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967348,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967238,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967156,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967214,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967453,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967522,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967501,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967495,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967404,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 27967484,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967414,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528704,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Santeramo in Colle",
+        "ref:ISTAT": "072041",
+        "ref:catasto": "I330",
+        "type": "boundary",
+        "wikidata": "Q51851",
+        "wikipedia": "it:Santeramo in Colle"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40743,
+      "center": {
+        "lat": 40.8528969,
+        "lon": 16.5217049
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967269,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967235,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967453,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967694,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967835,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967878,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968053,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968052,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967951,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967248,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528719,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Altamura",
+        "name:ru": "Альтамура",
+        "ref:ISTAT": "072004",
+        "ref:catasto": "A225",
+        "type": "boundary",
+        "wikidata": "Q19306",
+        "wikipedia": "it:Altamura"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40747,
+      "center": {
+        "lat": 40.8644514,
+        "lon": 16.8377421
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967495,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967669,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967680,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967874,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968033,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968034,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967973,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967598,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967573,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967347,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967348,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967955,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967404,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967586,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967414,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528711,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Acquaviva delle Fonti",
+        "ref:ISTAT": "072001",
+        "ref:catasto": "A048",
+        "type": "boundary",
+        "wikidata": "Q51810",
+        "wikipedia": "it:Acquaviva delle Fonti"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40749,
+      "center": {
+        "lat": 40.7918329,
+        "lon": 17.2472785
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 2280875727,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27967362,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967258,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967392,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967438,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967450,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967451,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967449,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967445,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967446,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967394,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967382,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Alberobello",
+        "ref:ISTAT": "072003",
+        "ref:catasto": "A149",
+        "type": "boundary",
+        "wikidata": "Q51812",
+        "wikipedia": "it:Alberobello"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40751,
+      "center": {
+        "lat": 40.763137,
+        "lon": 17.102439
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967392,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967265,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967387,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967417,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967397,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528764,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Noci",
+        "ref:ISTAT": "072031",
+        "ref:catasto": "F915",
+        "type": "boundary",
+        "wikidata": "Q51836",
+        "wikipedia": "it:Noci (Italia)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40761,
+      "center": {
+        "lat": 40.773681,
+        "lon": 17.3390079
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967302,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967363,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967394,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967400,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967305,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967317,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528767,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Locorotondo",
+        "ref:ISTAT": "072025",
+        "ref:catasto": "E645",
+        "type": "boundary",
+        "wikidata": "Q51822",
+        "wikipedia": "it:Locorotondo"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40791,
+      "center": {
+        "lat": 40.8615288,
+        "lon": 17.1874306
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967797,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967650,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967397,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967438,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967475,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967451,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967729,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967817,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967382,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967445,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 964357581,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967795,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 965441247,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 965441246,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528612,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Castellana Grotte",
+        "ref:ISTAT": "072017",
+        "ref:catasto": "C134",
+        "type": "boundary",
+        "wikidata": "Q51821",
+        "wikipedia": "it:Castellana Grotte"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40798,
+      "center": {
+        "lat": 40.846879,
+        "lon": 17.0876296
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967507,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967417,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967650,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967687,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967638,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967515,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967516,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528790,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Putignano",
+        "ref:ISTAT": "072036",
+        "ref:catasto": "H096",
+        "type": "boundary",
+        "wikidata": "Q51846",
+        "wikipedia": "it:Putignano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40804,
+      "center": {
+        "lat": 40.8996417,
+        "lon": 17.2883925
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 10271068,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438832445,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 29132579,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967446,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 964357581,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967449,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967729,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968051,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967450,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967475,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 965441247,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 965441246,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528761,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Monopoli",
+        "name:ru": "Монополи",
+        "ref:ISTAT": "072030",
+        "ref:catasto": "F376",
+        "type": "boundary",
+        "wikidata": "Q51835",
+        "wikipedia": "it:Monopoli (Italia)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40815,
+      "center": {
+        "lat": 40.8828549,
+        "lon": 16.7532836
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967501,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967669,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967680,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967874,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967876,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967875,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967796,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967694,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967522,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967586,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 27967484,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 347423687,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Cassano delle Murge",
+        "ref:ISTAT": "072016",
+        "ref:catasto": "B998",
+        "type": "boundary",
+        "wikidata": "Q51820",
+        "wikipedia": "it:Cassano delle Murge"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40822,
+      "center": {
+        "lat": 40.901914,
+        "lon": 17.0111358
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967510,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967516,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967519,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967741,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967930,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967952,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967953,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967638,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528801,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Turi",
+        "ref:ISTAT": "072047",
+        "ref:catasto": "L472",
+        "type": "boundary",
+        "wikidata": "Q51855",
+        "wikipedia": "it:Turi"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40834,
+      "center": {
+        "lat": 40.8789532,
+        "lon": 16.9487661
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967741,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967751,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967598,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528776,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Sammichele di Bari",
+        "ref:ISTAT": "072039",
+        "ref:catasto": "H749",
+        "type": "boundary",
+        "wikidata": "Q51849",
+        "wikipedia": "it:Sammichele di Bari"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40853,
+      "center": {
+        "lat": 40.9504975,
+        "lon": 17.1001055
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967797,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967687,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967953,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968122,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968214,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968215,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967896,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 27967857,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 27967795,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528738,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Conversano",
+        "ref:ISTAT": "072019",
+        "ref:catasto": "C975",
+        "type": "boundary",
+        "wikidata": "Q51825",
+        "wikipedia": "it:Conversano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40888,
+      "center": {
+        "lat": 40.9429779,
+        "lon": 16.9283413
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968146,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967973,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967751,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967930,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968098,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968127,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968160,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968158,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528753,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Casamassima",
+        "ref:ISTAT": "072015",
+        "ref:catasto": "B923",
+        "type": "boundary",
+        "wikidata": "Q51819",
+        "wikipedia": "it:Casamassima"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40899,
+      "center": {
+        "lat": 40.9211173,
+        "lon": 16.2492855
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967784,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967975,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002884,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528687,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Poggiorsini",
+        "ref:ISTAT": "072034",
+        "ref:catasto": "G769",
+        "type": "boundary",
+        "wikidata": "Q51840",
+        "wikipedia": "it:Poggiorsini"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40901,
+      "center": {
+        "lat": 40.9588817,
+        "lon": 16.6909014
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27967796,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968030,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968195,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968163,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967835,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968187,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528665,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Grumo Appula",
+        "ref:ISTAT": "072024",
+        "ref:catasto": "E223",
+        "type": "boundary",
+        "wikidata": "Q51830",
+        "wikipedia": "it:Grumo Appula"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40908,
+      "center": {
+        "lat": 40.9662667,
+        "lon": 17.1998804
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 10271039,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967817,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968051,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 173495635,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 320737982,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 548373920,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 548373922,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 29067092,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968215,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967896,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967857,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528684,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Polignano a Mare",
+        "ref:ISTAT": "072035",
+        "ref:catasto": "G787",
+        "type": "boundary",
+        "wikidata": "Q51842",
+        "wikipedia": "it:Polignano a Mare"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40927,
+      "center": {
+        "lat": 40.9751634,
+        "lon": 16.7784181
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968226,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968117,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968030,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967875,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967876,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968033,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968156,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968208,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967955,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528690,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Sannicandro di Bari",
+        "ref:ISTAT": "072040",
+        "ref:catasto": "I053",
+        "type": "boundary",
+        "wikidata": "Q51850",
+        "wikipedia": "it:Sannicandro di Bari"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40929,
+      "center": {
+        "lat": 40.9740952,
+        "lon": 16.6192105
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968114,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968070,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967878,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968163,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968176,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968175,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528606,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Toritto",
+        "ref:ISTAT": "072044",
+        "ref:catasto": "L220",
+        "type": "boundary",
+        "wikidata": "Q51853",
+        "wikipedia": "it:Toritto"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40953,
+      "center": {
+        "lat": 40.9968766,
+        "lon": 17.0060665
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968264,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968122,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27967952,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968098,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968268,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968240,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528794,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Rutigliano",
+        "ref:ISTAT": "072037",
+        "ref:catasto": "H643",
+        "type": "boundary",
+        "wikidata": "Q51847",
+        "wikipedia": "it:Rutigliano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40970,
+      "center": {
+        "lat": 40.9910804,
+        "lon": 16.8757389
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968034,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968156,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968168,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968224,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968225,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968146,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528708,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Adelfia",
+        "ref:ISTAT": "072002",
+        "ref:catasto": "A055",
+        "type": "boundary",
+        "wikidata": "Q51811",
+        "wikipedia": "it:Adelfia"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40975,
+      "center": {
+        "lat": 41.0569862,
+        "lon": 16.3888409
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968293,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968052,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968141,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968169,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002880,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968605,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002866,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968601,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 371161596,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968402,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 27968403,
+          "role": "inner"
+        },
+        {
+          "type": "node",
+          "ref": 68528694,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Ruvo di Puglia",
+        "ref:ISTAT": "072038",
+        "ref:catasto": "H645",
+        "type": "boundary",
+        "wikidata": "Q51848",
+        "wikipedia": "it:Ruvo di Puglia"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 40976,
+      "center": {
+        "lat": 41.0500379,
+        "lon": 16.6141093
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 68528730,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27968608,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968530,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968293,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968053,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968070,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968129,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968444,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968407,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968524,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458190,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968609,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Bitonto",
+        "name:ru": "Битонто",
+        "ref:ISTAT": "072011",
+        "ref:catasto": "A893",
+        "type": "boundary",
+        "wikidata": "Q19278",
+        "wikipedia": "it:Bitonto"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41000,
+      "center": {
+        "lat": 41.0078419,
+        "lon": 16.6552813
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 4369955448,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27968117,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968195,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968176,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968275,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968276,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968114,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968129,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968130,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968187,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Binetto",
+        "ref:ISTAT": "072008",
+        "ref:catasto": "A874",
+        "type": "boundary",
+        "wikidata": "Q51813",
+        "wikipedia": "it:Binetto"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41003,
+      "center": {
+        "lat": 41.0388682,
+        "lon": 16.9896775
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968292,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968242,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968127,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968268,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968409,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968446,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968445,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528680,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Noicattaro",
+        "ref:ISTAT": "072032",
+        "ref:catasto": "F923",
+        "type": "boundary",
+        "wikidata": "Q51837",
+        "wikipedia": "it:Noicàttaro"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41004,
+      "center": {
+        "lat": 41.0430675,
+        "lon": 16.65268
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968130,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968444,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968399,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968275,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968175,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528676,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Palo del Colle",
+        "ref:ISTAT": "072033",
+        "ref:catasto": "G291",
+        "type": "boundary",
+        "wikidata": "Q51838",
+        "wikipedia": "it:Palo del Colle"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41010,
+      "center": {
+        "lat": 41.0402123,
+        "lon": 17.0841726
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968264,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968214,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 29067092,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 172252055,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1376749903,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 29067091,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968409,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968240,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528772,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Mola di Bari",
+        "ref:ISTAT": "072028",
+        "ref:catasto": "F280",
+        "type": "boundary",
+        "wikidata": "Q51834",
+        "wikipedia": "it:Mola di Bari"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41011,
+      "center": {
+        "lat": 41.0348854,
+        "lon": 16.8854085
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968225,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968369,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105622942,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528798,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Valenzano",
+        "ref:ISTAT": "072048",
+        "ref:catasto": "L571",
+        "type": "boundary",
+        "wikidata": "Q51857",
+        "wikipedia": "it:Valenzano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41012,
+      "center": {
+        "lat": 41.0371532,
+        "lon": 16.9261489
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968292,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968241,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968158,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968369,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 900964677,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968367,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528727,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Capurso",
+        "ref:ISTAT": "072014",
+        "ref:catasto": "B716",
+        "type": "boundary",
+        "wikidata": "Q51818",
+        "wikipedia": "it:Capurso"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41013,
+      "center": {
+        "lat": 41.0173449,
+        "lon": 16.9342377
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968241,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968160,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968242,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528757,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Cellamare",
+        "ref:ISTAT": "072018",
+        "ref:catasto": "C436",
+        "type": "boundary",
+        "wikidata": "Q496456",
+        "wikipedia": "it:Cellamare"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41017,
+      "center": {
+        "lat": 41.037823,
+        "lon": 16.8240282
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 68528735,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27968288,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968208,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968168,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968382,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968389,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1090275541,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Bitritto",
+        "ref:ISTAT": "072012",
+        "ref:catasto": "A894",
+        "type": "boundary",
+        "wikidata": "Q51816",
+        "wikipedia": "it:Bitritto"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41027,
+      "center": {
+        "lat": 41.0368208,
+        "lon": 16.7639759
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968288,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968226,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968276,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968399,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968407,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968408,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528642,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Bitetto",
+        "ref:ISTAT": "072010",
+        "ref:catasto": "A892",
+        "type": "boundary",
+        "wikidata": "Q51815",
+        "wikipedia": "it:Bitetto"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41038,
+      "center": {
+        "lat": 41.0929211,
+        "lon": 16.8753242
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 68528585,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27968609,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968631,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1228501782,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1227968647,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438832443,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458190,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1121168225,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1222704312,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1246945292,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1246945297,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1222615637,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1231457306,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968536,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458200,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968382,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968224,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105622942,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 900964677,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458196,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968461,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968446,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 29067091,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1376749903,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 316357763,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458193,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458192,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Bari",
+        "name:ar": "باري",
+        "name:fa": "باری",
+        "name:it": "Bari",
+        "name:ks": "باری",
+        "name:la": "Barium",
+        "name:ur": "باری",
+        "ref:ISTAT": "072006",
+        "ref:catasto": "A662",
+        "type": "boundary",
+        "wikidata": "Q3519",
+        "wikipedia": "it:Bari"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41075,
+      "center": {
+        "lat": 41.0691722,
+        "lon": 16.9402482
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968461,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458196,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968367,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968445,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528805,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Triggiano",
+        "ref:ISTAT": "072046",
+        "ref:catasto": "L425",
+        "type": "boundary",
+        "wikidata": "Q51854",
+        "wikipedia": "it:Triggiano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41079,
+      "center": {
+        "lat": 41.0819019,
+        "lon": 16.7891688
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 68528673,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27968389,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442458200,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968536,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1231457306,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1222615637,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1246945297,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1246945292,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1222704312,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1121168225,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968524,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968408,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1090275541,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Modugno",
+        "ref:ISTAT": "072027",
+        "ref:catasto": "F262",
+        "type": "boundary",
+        "wikidata": "Q51833",
+        "wikipedia": "it:Modugno"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41082,
+      "center": {
+        "lat": 41.103339,
+        "lon": 16.5591223
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968569,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968530,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 371161596,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968601,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968619,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968620,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968610,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968402,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968403,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528780,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Terlizzi",
+        "ref:ISTAT": "072043",
+        "ref:catasto": "L109",
+        "type": "boundary",
+        "wikidata": "Q51852",
+        "wikipedia": "it:Terlizzi"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41116,
+      "center": {
+        "lat": 41.1559814,
+        "lon": 16.6639631
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 68528657,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 10271036,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1227968647,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1228501782,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968631,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968672,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968569,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968608,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Giovinazzo",
+        "ref:ISTAT": "072022",
+        "ref:catasto": "E047",
+        "type": "boundary",
+        "wikidata": "Q51828",
+        "wikipedia": "it:Giovinazzo"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41127,
+      "center": {
+        "lat": 41.0942898,
+        "lon": 16.3657785
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1232002867,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968605,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002879,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002878,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 587737578,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Corato",
+        "ref:ISTAT": "072020",
+        "ref:catasto": "C983",
+        "type": "boundary",
+        "wikidata": "Q51826",
+        "wikipedia": "it:Corato"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 41130,
+      "center": {
+        "lat": 41.1838059,
+        "lon": 16.5744404
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27968610,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968672,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 26788812,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1232002868,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27968620,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 68528668,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Molfetta",
+        "name:ru": "Мольфетта",
+        "ref:ISTAT": "072029",
+        "ref:catasto": "F284",
+        "type": "boundary",
+        "wikidata": "Q19300",
+        "wikipedia": "it:Molfetta"
+      }
+    }
+  ],
+  "name": "Bari",
+  "slug": "bari"
+}

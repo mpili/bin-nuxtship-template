@@ -16,12 +16,11 @@ definePageMeta({
 </script>
 <template>
 	<LandingContainer>
-		<RegioneHead :id="id" />
 		<div v-if="pending">
 			<UiSkeletonlines />
 		</div>
 		<div v-else>
-			<RegionePage :data="data" :id="id" />
+			<RegionePage :data="data" />
 			<!-- <UiRivela title="dati" :description="data" /> -->
 		</div>
 		<div v-if="error">

@@ -37,7 +37,6 @@ const breadcrumb = computed(() => [
 definePageMeta({
   layout: "main",
 });
-
 </script>
 
 <template>
