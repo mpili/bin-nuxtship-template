@@ -7,7 +7,7 @@ const breadcrumb = computed(() => [
 		path: "/regioni",
 	},
 	{
-		label: useTagsnameit(props.data.tags),
+		label: props.data['name'],
 	},
 ]);
 </script>

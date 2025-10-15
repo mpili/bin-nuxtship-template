@@ -1,6 +1,7 @@
 <script setup>
 const { id } = useRoute().params;
-const url_api = useOverpass(useOverpassadminloc(id, "8"));
+// const url_api = useOverpass(useOverpassadminloc(id, "8"));
+const url_api  = `/data/province/${id}.json`;
 
 const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
@@ -13,7 +14,7 @@ definePageMeta({
 </script>
 <template>
 	<LandingContainer>
-		<ProvinciaHead :id="id" />
+		<!-- <UiRivela title="api" :description="url_api" /> -->
 		<div v-if="pending">
 			<UiSkeletonlines />
 		</div>

@@ -1,0 +1,684 @@
+{
+  "type": "relation",
+  "id": 42619,
+  "center": {
+    "lat": 43.9355319,
+    "lon": 11.0868504
+  },
+  "members": [
+    {
+      "type": "node",
+      "ref": 61753372,
+      "role": "admin_centre"
+    },
+    {
+      "type": "way",
+      "ref": 40032511,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 40013987,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1282441082,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 52609178,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 45050387,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 45050386,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473406,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473422,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473407,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1365361477,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473426,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 943528870,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473420,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473414,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473423,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473421,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473419,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27973953,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 26449394,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27973880,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 454970812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27973770,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 575245863,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473413,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473417,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473405,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1070219688,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1070219690,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473424,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 442318485,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "ISO3166-2": "IT-PO",
+    "admin_level": "6",
+    "boundary": "administrative",
+    "name": "Prato",
+    "name:ko": "프라토",
+    "name:ru": "Прато",
+    "official_name": "Provincia di Prato",
+    "ref:ISTAT": "100",
+    "ref:nuts": "ITI15",
+    "ref:nuts:3": "ITI15",
+    "short_name": "PO",
+    "type": "boundary",
+    "wikidata": "Q16250",
+    "wikipedia": "it:Provincia di Prato"
+  },
+  "regione": {
+    "id": 41977,
+    "name": "Toscana",
+    "slug": "toscana"
+  },
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-14T20:30:03Z",
+    "timestamp_areas_base": "2025-10-14T16:42:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 42618,
+      "center": {
+        "lat": 43.7998611,
+        "lon": 11.021624
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753687,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 113473416,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442318491,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973770,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 575245863,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473413,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473417,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473405,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1070219688,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1070219690,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473424,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Carmignano",
+        "ref:ISTAT": "100002",
+        "ref:catasto": "B794",
+        "type": "boundary",
+        "wikidata": "Q20385",
+        "wikipedia": "it:Carmignano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42653,
+      "center": {
+        "lat": 43.8154577,
+        "lon": 11.0441184
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 40032511,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442318485,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473416,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973745,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 61753683,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Poggio a Caiano",
+        "ref:ISTAT": "100004",
+        "ref:catasto": "G754",
+        "type": "boundary",
+        "wikidata": "Q20387",
+        "wikipedia": "it:Poggio a Caiano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42725,
+      "center": {
+        "lat": 43.9396458,
+        "lon": 11.0569122
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753689,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 52609158,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1271822266,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 44871462,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 352267451,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 585466623,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 585466622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473419,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973953,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Montemurlo",
+        "ref:ISTAT": "100003",
+        "ref:catasto": "F572",
+        "type": "boundary",
+        "wikidata": "Q20389",
+        "wikipedia": "it:Montemurlo"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42764,
+      "center": {
+        "lat": 43.9483638,
+        "lon": 11.1282247
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753684,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 45050386,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45050387,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 512738096,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1271822266,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 44871462,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45050385,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Vaiano",
+        "ref:ISTAT": "100006",
+        "ref:catasto": "L537",
+        "type": "boundary",
+        "wikidata": "Q20392",
+        "wikipedia": "it:Vaiano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42784,
+      "center": {
+        "lat": 44.0327663,
+        "lon": 11.0956301
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753688,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 113473421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 585466622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 585466623,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 352267451,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45050385,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473423,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473414,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473420,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 943528870,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 385126897,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1249161638,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 844527042,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 846046746,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 844527041,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473406,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Cantagallo",
+        "ref:ISTAT": "100001",
+        "ref:catasto": "B626",
+        "type": "boundary",
+        "wikidata": "Q20382",
+        "wikipedia": "it:Cantagallo (Italia)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42857,
+      "center": {
+        "lat": 44.0611165,
+        "lon": 11.1513088
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753685,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 844527041,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 846046746,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 844527042,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1249161638,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 385126897,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473426,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1365361477,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473407,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473422,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Vernio",
+        "ref:ISTAT": "100007",
+        "ref:catasto": "L775",
+        "type": "boundary",
+        "wikidata": "Q20397",
+        "wikipedia": "it:Vernio"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 280245,
+      "center": {
+        "lat": 43.8826186,
+        "lon": 11.0913927
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 52609158,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 26449394,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973880,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 454970812,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 442318491,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973745,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 40013987,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1282441082,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 52609178,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 512738096,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 61753372,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Prato",
+        "name:it": "Prato",
+        "name:la": "Pratum",
+        "ref:ISTAT": "100005",
+        "ref:catasto": "G999",
+        "type": "boundary",
+        "wikidata": "Q13377",
+        "wikipedia": "it:Prato (Italia)"
+      }
+    }
+  ],
+  "name": "Prato",
+  "slug": "prato"
+}

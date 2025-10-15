@@ -1,14 +1,16 @@
 <script setup>
-const props = defineProps(["name"]);
-const name = props.name;
+const props = defineProps(["data"]);
 
 const breadcrumb = computed(() => [
 	{
 		label: "Regioni",
 		path: "/regioni",
 	},
-	{ label: "...", },
-	{ label: "Provincia di "+props.name, },
+	{
+		label: props.data.regione.name,
+		path: "/regione/"+props.data.regione.slug,
+	},
+	{ label: "Provincia di "+props.data.name, },
 ]);
 </script>
 

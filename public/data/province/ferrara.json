@@ -1,0 +1,1558 @@
+{
+  "type": "relation",
+  "id": 43292,
+  "center": {
+    "lat": 44.7667776,
+    "lon": 11.8166921
+  },
+  "members": [
+    {
+      "type": "node",
+      "ref": 259855860,
+      "role": "admin_centre"
+    },
+    {
+      "type": "way",
+      "ref": 910529448,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 910528213,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977634,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977409,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977101,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 448471151,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 733679738,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976703,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976468,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976708,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976801,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 560523151,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 560523150,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976592,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976479,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976480,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976386,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976310,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976077,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27975905,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27975857,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27975899,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27975996,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27975775,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27976150,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 38632660,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 438352313,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 28272219,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 187385639,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 620379895,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 187385651,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 187385661,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977822,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977846,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977738,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977768,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977687,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977619,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977493,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 187076054,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977552,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977541,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27977620,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "ISO3166-2": "IT-FE",
+    "admin_level": "6",
+    "boundary": "administrative",
+    "name": "Ferrara",
+    "name:egl": "Fràra",
+    "name:ko": "페라라",
+    "name:ru": "Феррара",
+    "official_name": "Provincia di Ferrara",
+    "ref:ISTAT": "038",
+    "ref:nuts": "ITH56",
+    "ref:nuts:3": "ITH56",
+    "short_name": "FE",
+    "type": "boundary",
+    "wikidata": "Q16168",
+    "wikimedia_commons": "Category:Province of Ferrara",
+    "wikipedia": "it:Provincia di Ferrara"
+  },
+  "regione": {
+    "id": 42611,
+    "name": "Emilia-Romagna",
+    "slug": "emilia-romagna"
+  },
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-14T20:21:52Z",
+    "timestamp_areas_base": "2025-10-14T16:42:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 43291,
+      "center": {
+        "lat": 44.6379316,
+        "lon": 11.8856254
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27975899,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27975857,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27975905,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976077,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976310,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976386,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 277060302,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 277183894,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976500,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976263,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27975775,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27975996,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300225,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Argenta",
+        "name:egl": "Arzénta",
+        "postal_code": "44011",
+        "ref:ISTAT": "038001",
+        "ref:catasto": "A393",
+        "type": "boundary",
+        "wikidata": "Q95090",
+        "wikipedia": "it:Argenta"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43410,
+      "center": {
+        "lat": 44.6855346,
+        "lon": 12.1227045
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27976263,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976150,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38632660,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977009,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976959,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976669,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976323,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300283,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Comacchio",
+        "name:egl": "Cmâc",
+        "postal_code": "44022",
+        "ref:ISTAT": "038006",
+        "ref:catasto": "C912",
+        "type": "boundary",
+        "wikidata": "Q95097",
+        "wikipedia": "it:Comacchio"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43456,
+      "center": {
+        "lat": 44.7061925,
+        "lon": 11.8537692
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27976685,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976500,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976323,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976707,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976710,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 941316117,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Portomaggiore",
+        "name:egl": "Portmagiòr",
+        "postal_code": "44015",
+        "ref:ISTAT": "038019",
+        "ref:catasto": "G916",
+        "type": "boundary",
+        "wikidata": "Q95137",
+        "wikipedia": "it:Portomaggiore"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43506,
+      "center": {
+        "lat": 44.7720263,
+        "lon": 11.3166629
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 69300302,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27977098,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977072,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976708,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976468,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976703,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733679738,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 448471151,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977101,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Cento",
+        "name:egl": "Zènt",
+        "postal_code": "44042",
+        "ref:ISTAT": "038004",
+        "ref:catasto": "C469",
+        "type": "boundary",
+        "wikidata": "Q95094",
+        "wikipedia": "it:Cento (Italia)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43511,
+      "center": {
+        "lat": 44.7644407,
+        "lon": 11.4953232
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 560523150,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976592,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976479,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276977297,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977008,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976901,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300335,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Poggio Renatico",
+        "name:egl": "Al Puz",
+        "postal_code": "44028",
+        "ref:ISTAT": "038018",
+        "ref:catasto": "G768",
+        "type": "boundary",
+        "wikidata": "Q95135",
+        "wikipedia": "it:Poggio Renatico"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43512,
+      "center": {
+        "lat": 44.8055721,
+        "lon": 11.6700417
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 259855860,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 276502410,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 277183895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 277060302,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976480,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276977297,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276209919,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977541,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977552,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 187076054,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977493,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276975635,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276749240,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276749239,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276519963,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Ferrara",
+        "name:egl": "Fràra",
+        "name:it": "Ferrara",
+        "name:la": "Ferraria",
+        "postal_code": "44121-44124",
+        "ref:ISTAT": "038008",
+        "ref:catasto": "D548",
+        "source": "http://servizi.comune.fe.it/attach/redazioneurp/docs/comunefe_circoscrizioni.pdf",
+        "type": "boundary",
+        "wikidata": "Q13362",
+        "wikimedia_commons": "Category:Ferrara",
+        "wikipedia": "it:Ferrara"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43541,
+      "center": {
+        "lat": 44.7598617,
+        "lon": 11.7409525
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 277183894,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976685,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 277183895,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300258,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Voghiera",
+        "name:egl": "Vughièra",
+        "postal_code": "44019",
+        "ref:ISTAT": "038023",
+        "ref:catasto": "M110",
+        "type": "boundary",
+        "wikidata": "Q95147",
+        "wikipedia": "it:Voghiera"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43573,
+      "center": {
+        "lat": 44.7284469,
+        "lon": 11.970556
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 659520741,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976802,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976671,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976669,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976707,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276501819,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276519963,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300275,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Ostellato",
+        "name:egl": "Ustlà",
+        "postal_code": "44020",
+        "ref:ISTAT": "038017",
+        "ref:catasto": "G184",
+        "type": "boundary",
+        "wikidata": "Q95131",
+        "wikipedia": "it:Ostellato"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43574,
+      "center": {
+        "lat": 44.7722567,
+        "lon": 12.1406648
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27976959,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976671,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976900,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976960,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300292,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Lagosanto",
+        "name:egl": "Lagh",
+        "postal_code": "44023",
+        "ref:ISTAT": "038011",
+        "ref:catasto": "E410",
+        "type": "boundary",
+        "wikidata": "Q95107",
+        "wikipedia": "it:Lagosanto"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43581,
+      "center": {
+        "lat": 44.7840571,
+        "lon": 11.7936873
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27976710,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276501819,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276502410,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976895,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300288,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Masi Torello",
+        "name:egl": "Màs Turèl",
+        "postal_code": "44020",
+        "ref:ISTAT": "038012",
+        "ref:catasto": "F016",
+        "type": "boundary",
+        "wikidata": "Q95109",
+        "wikipedia": "it:Masi Torello"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43655,
+      "center": {
+        "lat": 44.8570428,
+        "lon": 12.1424475
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 438352313,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977009,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976960,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977087,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977504,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977511,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977512,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977032,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300284,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Codigoro",
+        "name:egl": "Codgòr",
+        "postal_code": "44021",
+        "ref:ISTAT": "038005",
+        "ref:catasto": "C814",
+        "type": "boundary",
+        "wikidata": "Q95095",
+        "wikipedia": "it:Codigoro"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43665,
+      "center": {
+        "lat": 44.7999248,
+        "lon": 11.4086348
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27977109,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976901,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 560523151,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976801,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977072,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977102,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300254,
+          "role": "admin_centre"
+        },
+        {
+          "type": "node",
+          "ref": 4583987861,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Terre del Reno",
+        "postal_code": "44047",
+        "ref:ISTAT": "038028",
+        "ref:catasto": "M381",
+        "type": "boundary",
+        "wikidata": "Q28091309",
+        "wikipedia": "it:Terre del Reno"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43672,
+      "center": {
+        "lat": 44.8549385,
+        "lon": 11.4936581
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27977008,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977109,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276209918,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1432516055,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977421,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300313,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Vigarano Mainarda",
+        "name:egl": "Vigaràn",
+        "postal_code": "44049",
+        "ref:ISTAT": "038022",
+        "ref:catasto": "L868",
+        "type": "boundary",
+        "wikidata": "Q95146",
+        "wikipedia": "it:Vigarano Mainarda"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43680,
+      "center": {
+        "lat": 44.8392036,
+        "lon": 12.3251876
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 69300263,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 28272219,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 187385639,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 620379895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977032,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977360,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Goro",
+        "name:egl": "Gòr",
+        "postal_code": "44020",
+        "ref:ISTAT": "038025",
+        "ref:catasto": "E107",
+        "type": "boundary",
+        "wikidata": "Q95104",
+        "wikipedia": "it:Goro"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43697,
+      "center": {
+        "lat": 44.880931,
+        "lon": 11.9828184
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27977233,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977084,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977504,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520747,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977598,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300237,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Jolanda di Savoia",
+        "name:egl": "Jôlánda",
+        "postal_code": "44037",
+        "ref:ISTAT": "038010",
+        "ref:catasto": "E320",
+        "type": "boundary",
+        "wikidata": "Q95106",
+        "wikipedia": "it:Jolanda di Savoia (Italia)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43702,
+      "center": {
+        "lat": 44.8970908,
+        "lon": 11.3641359
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 910529448,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 910528213,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977102,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977098,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977409,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977634,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977620,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276209919,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1432516055,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276209918,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300305,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Bondeno",
+        "name:egl": "Bundén",
+        "postal_code": "44012",
+        "ref:ISTAT": "038003",
+        "ref:catasto": "A965",
+        "type": "boundary",
+        "wikidata": "Q95093",
+        "wikipedia": "it:Bondeno"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43753,
+      "center": {
+        "lat": 44.8918812,
+        "lon": 11.8709558
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27977598,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977268,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276749240,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520746,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300229,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Copparo",
+        "name:egl": "Cupàr",
+        "postal_code": "44034",
+        "ref:ISTAT": "038007",
+        "ref:catasto": "C980",
+        "type": "boundary",
+        "wikidata": "Q95098",
+        "wikipedia": "it:Copparo"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 43776,
+      "center": {
+        "lat": 44.8928589,
+        "lon": 12.1970967
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27977360,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977512,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520748,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 187385651,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300322,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Mesola",
+        "name:egl": "La Mésula",
+        "postal_code": "44026",
+        "ref:ISTAT": "038014",
+        "ref:catasto": "F156",
+        "type": "boundary",
+        "wikidata": "Q95118",
+        "wikipedia": "it:Mesola"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3411580,
+      "center": {
+        "lat": 44.7926061,
+        "lon": 12.0017457
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 4407589566,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 27976802,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520742,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977084,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977087,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27976900,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300300,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Fiscaglia",
+        "name:egl": "Fiscàja",
+        "population": "9438",
+        "postal_code": "44020",
+        "ref:ISTAT": "038027",
+        "ref:catasto": "M323",
+        "type": "boundary",
+        "wikidata": "Q15527957",
+        "wikipedia": "it:Fiscaglia"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 9171193,
+      "center": {
+        "lat": 44.8229763,
+        "lon": 11.8921882
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 6174909303,
+          "role": "label"
+        },
+        {
+          "type": "node",
+          "ref": 69300262,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27977233,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520742,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520741,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276749239,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977268,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Tresignana",
+        "postal_code": "44035",
+        "ref:ISTAT": "038030",
+        "ref:catasto": "M409",
+        "type": "boundary",
+        "wikidata": "Q60323929",
+        "wikipedia": "it:Tresignana"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 9171194,
+      "center": {
+        "lat": 44.9401277,
+        "lon": 11.9184948
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 6174909304,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 659520746,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520747,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977511,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 659520748,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 187385661,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977822,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977846,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977738,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977768,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977687,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27977619,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 276975635,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 69300296,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Riva del Po",
+        "postal_code": "44033",
+        "ref:ISTAT": "038029",
+        "ref:catasto": "M410",
+        "type": "boundary",
+        "wikidata": "Q60583627",
+        "wikipedia": "it:Riva del Po"
+      }
+    }
+  ],
+  "name": "Ferrara",
+  "slug": "ferrara"
+}

@@ -6,7 +6,7 @@ defineProps(["data"]);
 	<div class="flex flex-wrap">
 		<RegioniScheda
 			class="m-2"
-			v-for="item in data.elements" :data="item"
+			v-for="item in data" :data="item"
 		/>
 	</div>
 </template>

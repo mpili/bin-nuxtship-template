@@ -1,0 +1,1447 @@
+{
+  "type": "relation",
+  "id": 42637,
+  "center": {
+    "lat": 43.9741369,
+    "lon": 10.8462015
+  },
+  "members": [
+    {
+      "type": "node",
+      "ref": 61753370,
+      "role": "admin_centre"
+    },
+    {
+      "type": "way",
+      "ref": 77145315,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 522897446,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27974540,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 82827347,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928645,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 443400702,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 522852242,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 618051767,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928662,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928648,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928626,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 943528869,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928655,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473414,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473423,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473421,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113473419,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27973953,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 26449394,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27973880,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 454970812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27973770,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907634,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907142,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907536,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907763,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907473,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907706,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129907152,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928698,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928649,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129928625,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784325418,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27974296,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 76761948,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 77145316,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27974516,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1039037171,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 76766380,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784321144,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "ISO3166-2": "IT-PT",
+    "admin_level": "6",
+    "boundary": "administrative",
+    "name": "Pistoia",
+    "name:ko": "피스토이아",
+    "name:oc": "Pistòia",
+    "name:ru": "Пистоя",
+    "official_name": "Provincia di Pistoia",
+    "ref:ISTAT": "047",
+    "ref:nuts": "ITI13",
+    "ref:nuts:3": "ITI13",
+    "short_name": "PT",
+    "type": "boundary",
+    "wikidata": "Q16245",
+    "wikipedia": "it:Provincia di Pistoia"
+  },
+  "regione": {
+    "id": 41977,
+    "name": "Toscana",
+    "slug": "toscana"
+  },
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-14T20:32:03Z",
+    "timestamp_areas_base": "2025-10-14T16:10:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 42636,
+      "center": {
+        "lat": 43.8278835,
+        "lon": 10.8578792
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 303997983,
+          "role": "admin_centre"
+        },
+        {
+          "type": "node",
+          "ref": 61753669,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 129928620,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129907763,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129907473,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928617,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928700,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161422,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Larciano",
+        "ref:ISTAT": "047006",
+        "ref:catasto": "E451",
+        "type": "boundary",
+        "wikidata": "Q102609",
+        "wikipedia": "it:Larciano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42642,
+      "center": {
+        "lat": 43.8203052,
+        "lon": 10.8835738
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753657,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928656,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928620,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129907536,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129907142,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Lamporecchio",
+        "ref:ISTAT": "047005",
+        "ref:catasto": "E432",
+        "type": "boundary",
+        "wikidata": "Q102599",
+        "wikipedia": "it:Lamporecchio"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42649,
+      "center": {
+        "lat": 43.8295689,
+        "lon": 10.770951
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 129907706,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928617,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928641,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928657,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928693,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928652,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928699,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 61753663,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Ponte Buggianese",
+        "ref:ISTAT": "047016",
+        "ref:catasto": "G833",
+        "type": "boundary",
+        "wikidata": "Q49603",
+        "wikipedia": "it:Ponte Buggianese"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42652,
+      "center": {
+        "lat": 43.8380837,
+        "lon": 10.7160901
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 129928665,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 333870212,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928644,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928699,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129907152,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928698,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928649,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 61753661,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Chiesina Uzzanese",
+        "ref:ISTAT": "047022",
+        "ref:catasto": "C631",
+        "type": "boundary",
+        "wikidata": "Q102578",
+        "wikipedia": "it:Chiesina Uzzanese"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42657,
+      "center": {
+        "lat": 43.8521562,
+        "lon": 10.9732168
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753662,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27973880,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 454970812,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973770,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129907634,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928656,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928702,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928660,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161420,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Quarrata",
+        "ref:ISTAT": "047017",
+        "ref:catasto": "H109",
+        "type": "boundary",
+        "wikidata": "Q102716",
+        "wikipedia": "it:Quarrata"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42669,
+      "center": {
+        "lat": 43.8538008,
+        "lon": 10.8312762
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753697,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928700,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928641,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254166194,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161417,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161423,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Monsummano Terme",
+        "ref:ISTAT": "047009",
+        "ref:catasto": "F384",
+        "type": "boundary",
+        "wikidata": "Q102634",
+        "wikipedia": "it:Monsummano Terme"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42685,
+      "center": {
+        "lat": 43.888516,
+        "lon": 10.8725277
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753692,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 1254161421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161424,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161423,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161422,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928642,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 272816156,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928634,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161425,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161420,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Serravalle Pistoiese",
+        "ref:ISTAT": "047020",
+        "ref:catasto": "I660",
+        "type": "boundary",
+        "wikidata": "Q102780",
+        "wikipedia": "it:Serravalle Pistoiese"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42690,
+      "center": {
+        "lat": 43.8683931,
+        "lon": 10.793928
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753665,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928657,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161424,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161417,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254166194,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Pieve a Nievole",
+        "ref:ISTAT": "047013",
+        "ref:catasto": "G636",
+        "type": "boundary",
+        "wikidata": "Q102677",
+        "wikipedia": "it:Pieve a Nievole"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42692,
+      "center": {
+        "lat": 43.8902399,
+        "lon": 10.7884738
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753695,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928693,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928618,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161425,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928647,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "alt_name": "Montecatini-Terme",
+        "boundary": "administrative",
+        "name": "Montecatini Terme",
+        "ref:ISTAT": "047011",
+        "ref:catasto": "A561",
+        "type": "boundary",
+        "wikidata": "Q49605",
+        "wikipedia": "it:Montecatini Terme"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42696,
+      "center": {
+        "lat": 43.8959579,
+        "lon": 10.7407984
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 4400102143,
+          "role": "label"
+        },
+        {
+          "type": "node",
+          "ref": 3068106844,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 1254127004,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161419,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928644,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928652,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928647,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161418,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Buggiano",
+        "ref:ISTAT": "047003",
+        "ref:catasto": "B251",
+        "type": "boundary",
+        "wikidata": "Q102566",
+        "wikipedia": "it:Buggiano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42703,
+      "center": {
+        "lat": 43.9394776,
+        "lon": 10.7013513
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753667,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 27974296,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 784325418,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928625,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928665,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127005,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127004,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127003,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127006,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127011,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 784321144,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Pescia",
+        "postal_code": "51017",
+        "ref:ISTAT": "047012",
+        "ref:catasto": "G491",
+        "type": "boundary",
+        "wikidata": "Q102661",
+        "wikipedia": "it:Pescia"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42704,
+      "center": {
+        "lat": 43.8890107,
+        "lon": 10.7088162
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 4400102152,
+          "role": "label"
+        },
+        {
+          "type": "node",
+          "ref": 61753675,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 333870212,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127005,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161419,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Uzzano",
+        "ref:ISTAT": "047021",
+        "ref:catasto": "L522",
+        "type": "boundary",
+        "wikidata": "Q102791",
+        "wikipedia": "it:Uzzano"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42722,
+      "center": {
+        "lat": 43.9864733,
+        "lon": 10.9103098
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753370,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928642,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928702,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928696,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928629,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 952423427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473423,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928662,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 618051767,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 522852242,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 443400702,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928645,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127009,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127008,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 272816156,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127007,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Pistoia",
+        "ref:ISTAT": "047014",
+        "ref:catasto": "G713",
+        "type": "boundary",
+        "wikidata": "Q13376",
+        "wikipedia": "it:Pistoia"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42723,
+      "center": {
+        "lat": 43.8956685,
+        "lon": 11.0018985
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 26449394,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27973953,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928663,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928696,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928660,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 61753659,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Agliana",
+        "ref:ISTAT": "047002",
+        "ref:catasto": "A071",
+        "type": "boundary",
+        "wikidata": "Q102555",
+        "wikipedia": "it:Agliana"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42742,
+      "center": {
+        "lat": 43.8996416,
+        "lon": 10.7496243
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 1528865818,
+          "role": "admin_centre"
+        },
+        {
+          "type": "node",
+          "ref": 61753672,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 1254127003,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928618,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161418,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161426,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Massa e Cozzile",
+        "ref:ISTAT": "047008",
+        "ref:catasto": "F025",
+        "type": "boundary",
+        "wikidata": "Q102623",
+        "wikipedia": "it:Massa e Cozzile"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42743,
+      "center": {
+        "lat": 43.9480452,
+        "lon": 11.0329957
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753693,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928663,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928629,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 952423427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473421,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 113473419,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Montale",
+        "ref:ISTAT": "047010",
+        "ref:catasto": "F410",
+        "type": "boundary",
+        "wikidata": "Q102652",
+        "wikipedia": "it:Montale"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42750,
+      "center": {
+        "lat": 43.9597533,
+        "lon": 10.7892231
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753696,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 129928634,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127006,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127010,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127008,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161426,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254161427,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Marliana",
+        "ref:ISTAT": "047007",
+        "ref:catasto": "E960",
+        "type": "boundary",
+        "wikidata": "Q102615",
+        "wikipedia": "it:Marliana"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42829,
+      "center": {
+        "lat": 44.0717686,
+        "lon": 10.9859311
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 3647147348,
+          "role": "admin_centre"
+        },
+        {
+          "type": "node",
+          "ref": 61753671,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 113473414,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928655,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 943528869,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928626,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 129928648,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127007,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Sambuca Pistoiese",
+        "ref:ISTAT": "047018",
+        "ref:catasto": "H744",
+        "type": "boundary",
+        "wikidata": "Q102725",
+        "wikipedia": "it:Sambuca Pistoiese"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42846,
+      "center": {
+        "lat": 44.0499135,
+        "lon": 10.8046007
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753691,
+          "role": "admin_centre"
+        },
+        {
+          "type": "node",
+          "ref": 4583996909,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 82827347,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27974540,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27974539,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127010,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 76761948,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127011,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1254127009,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "San Marcello Piteglio",
+        "postal_code": "51028",
+        "ref:ISTAT": "047024",
+        "ref:catasto": "M377",
+        "type": "boundary",
+        "wikidata": "Q28090981",
+        "wikipedia": "it:San Marcello Piteglio"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 42848,
+      "center": {
+        "lat": 44.1185332,
+        "lon": 10.7020326
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 61753668,
+          "role": "admin_centre"
+        },
+        {
+          "type": "node",
+          "ref": 4583987860,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 77145315,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 522897446,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27974539,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 77145316,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27974516,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1039037171,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 76766380,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Abetone Cutigliano",
+        "postal_code": "51024",
+        "ref:ISTAT": "047023",
+        "ref:catasto": "M376",
+        "type": "boundary",
+        "wikidata": "Q28090947",
+        "wikipedia": "it:Abetone Cutigliano"
+      }
+    }
+  ],
+  "name": "Pistoia",
+  "slug": "pistoia"
+}
