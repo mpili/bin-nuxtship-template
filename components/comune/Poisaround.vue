@@ -26,7 +26,5 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 		<OstMap :pois="data.elements" />
 		<OnwListapoi :datapois="data.elements" />
 	</div>
-	<div v-if="error">
-		<UiRivela title="errore" :description="error" />
-	</div>
+	<MainRivelaerror :error="error" />
 </template>
