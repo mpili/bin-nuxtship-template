@@ -9,7 +9,6 @@ definePageMeta({
 </script>
 <template>
 	<LandingContainer>
-    <ComunePage :id="id" />
-
+    	<ComunePage :id="id" />
 	</LandingContainer>
 </template>

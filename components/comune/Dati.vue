@@ -12,14 +12,14 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 </script>
 <template>
 	<div class="my-6">
+		<!-- <UiRivela title="api" :description="url_api" /> -->
 		<div v-if="pending">
 			<UiSkeleton />
 		</div>
 		<div v-else>
-			<ComunePoisaround :daticomune="data" :center="center" />
+			<ComunePoisaround :daticomune="data" :center="data.elements[0].center" />
+			<!-- <UiRivela title="dati" :description="data.elements[0].center" /> -->
 		</div>
-		<div v-if="error">
-			<UiRivela title="errore" :description="error" />
-		</div>
+		<MainRivelaerror :error="error" />
 	</div>
 </template>

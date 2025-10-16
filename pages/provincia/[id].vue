@@ -21,8 +21,6 @@ definePageMeta({
 		<div v-else>
 			<ProvinciaPage :data="data" />
 		</div>
-		<div v-if="error">
-			<UiRivela title="errore" :description="error" />
-		</div>
+		<MainRivelaerror :error="error" />
 	</LandingContainer>
 </template>

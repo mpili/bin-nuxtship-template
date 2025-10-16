@@ -23,9 +23,7 @@ definePageMeta({
 			<RegionePage :data="data" />
 			<!-- <UiRivela title="dati" :description="data" /> -->
 		</div>
-		<div v-if="error">
-			<UiRivela title="errore" :description="error" />
-		</div>
+		<MainRivelaerror :error="error" />
 		<!-- <UiRivela title="api" :description="url_api" /> -->
 	</LandingContainer>
 </template>
