@@ -5,8 +5,7 @@ defineProps(["poi"]);
 <template>
   <div v-if="poi?.tags">
   <NuxtLink :to="usePoiLink(poi)">
-      <div class="indicator">
-        <span v-if="poi?.tags['currency:XBT']=='yes'" class="indicator-item indicator-start status status-warning"></span>
+      <OnwXbtindicator :tags="poi?.tags">
         <div class="flex flex-wrap p-2 border-1 my-2 rounded shadow">
           <div class="text-primary font-bold pr-2">
             {{ poi?.tags?.name }}
@@ -28,7 +27,7 @@ defineProps(["poi"]);
             <OsnTipovenue :tags="poi?.tags" />
           </div> -->
         </div>
-      </div>
+      </OnwXbtindicator>
     </NuxtLink>
   </div>
 </template>
