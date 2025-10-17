@@ -1,9 +1,10 @@
 <script setup>
-const props = defineProps(["daticomune", "center"]);
+const props = defineProps(["daticomune", "center", "km"]);
 const d = props.daticomune.elements[0];
+const km = props.km;
 const lat = d.center.lat;
 const lon = d.center.lon;
-const around = "(around:20000,"+lat+","+lon+")";
+const around = "(around:"+km+"000,"+lat+","+lon+")";
 const osn_tipo =  "nwr";
 const q1 = `${osn_tipo}["currency:XBT"="yes"]`+around;
 

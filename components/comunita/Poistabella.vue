@@ -24,7 +24,9 @@ const sortedPois = computed(() =>
 				<td>
 					<NuxtLink :to="usePoiLink(poi)">
 						<div class="text-xs">{{useTipovenue(poi.tags)}}</div>
-						<div class="font-bold">{{poi.tags["name"]}}</div>
+						<OnwXbtindicator :tags="poi.tags">
+							<div class="font-bold">{{poi.tags["name"]}}</div>
+						</OnwXbtindicator>
 					</NuxtLink>
 				</td>
 				<td>
