@@ -1271,6 +1271,27 @@
         },
         {
             "type": "node",
+            "id": 4916291276,
+            "lat": 43.2697973,
+            "lon": 13.4797654,
+            "timestamp": "2021-11-11T15:24:49Z",
+            "version": 3,
+            "changeset": 113656398,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Corridonia",
+                "addr:postcode": "62014",
+                "addr:street": "Via Enrico Mattei",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 4916325898,
             "lat": 43.2701137,
             "lon": 13.4830309,
@@ -1925,6 +1946,32 @@
         },
         {
             "type": "node",
+            "id": 7877818516,
+            "lat": 42.9519865,
+            "lon": 13.8829001,
+            "timestamp": "2024-08-03T10:41:50Z",
+            "version": 2,
+            "changeset": 154768574,
+            "user": "barbaralu",
+            "uid": 12191123,
+            "tags": {
+                "addr:city": "San Benedetto del Tronto",
+                "addr:housenumber": "2",
+                "addr:postcode": "63074",
+                "addr:street": "Via Antonio Gramsci",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "contact:phone": "+39 0735 592494",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-13:00,15:30-24:00+",
+                "operator": "Zelig Spa",
+                "ref:vatin": "IT02574880403",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 7924846919,
             "lat": 42.845985,
             "lon": 13.6224252,
@@ -1999,6 +2046,35 @@
                 "phone": "+39 0736 342570",
                 "shop": "houseware",
                 "website": "https://www.kasanova.com/it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7924866512,
+            "lat": 42.8454191,
+            "lon": 13.6234811,
+            "timestamp": "2025-01-06T00:18:38Z",
+            "version": 8,
+            "changeset": 161040656,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "check_date": "2025-01-02",
+                "contact:facebook": "https://www.facebook.com/mondadoriascolipiceno/",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Zelig S.p.A.",
+                "phone": "+39 0736 44272",
+                "ref:vatin": "IT02574880403",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/"
             }
         },
         {
@@ -2480,6 +2556,24 @@
         },
         {
             "type": "node",
+            "id": 11351584816,
+            "lat": 43.4402862,
+            "lon": 13.6263378,
+            "timestamp": "2023-11-15T17:21:14Z",
+            "version": 2,
+            "changeset": 144059089,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11417096286,
             "lat": 43.1604826,
             "lon": 13.7877303,
@@ -2896,6 +2990,24 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0734 675306",
                 "shop": "hairdresser"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12124767372,
+            "lat": 43.1620294,
+            "lon": 13.717109,
+            "timestamp": "2024-08-21T14:47:34Z",
+            "version": 1,
+            "changeset": 155562512,
+            "user": "LorenzoPesci",
+            "uid": 5328797,
+            "tags": {
+                "addr:street": "Corso Cefalonia",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -3331,6 +3443,29 @@
         },
         {
             "type": "node",
+            "id": 12531398282,
+            "lat": 42.8576255,
+            "lon": 13.7097222,
+            "timestamp": "2025-03-12T11:18:20Z",
+            "version": 3,
+            "changeset": 163522937,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-03-12",
+                "level": "1",
+                "local_ref": "5bpp",
+                "mobile": "+39 370 3002924",
+                "name": "Mondadori",
+                "opening_hours": "10:00-20:00",
+                "phone": "+39 0736 812653",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 12632957186,
             "lat": 43.1608261,
             "lon": 13.7089557,
@@ -3412,6 +3547,24 @@
                 "check_date": "2025-03-29",
                 "name": "Expert",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12741748360,
+            "lat": 43.5224995,
+            "lon": 13.5246878,
+            "timestamp": "2025-04-09T15:41:36Z",
+            "version": 1,
+            "changeset": 164730950,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-04-09",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -4474,6 +4627,37 @@
                 "operator": "GrandVision by Avanzi c/o Val Vibrata",
                 "phone": "+39 0861 753582",
                 "shop": "optician"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1096729200,
+            "timestamp": "2023-01-15T02:24:13Z",
+            "version": 3,
+            "changeset": 131284609,
+            "user": "totera",
+            "uid": 123412,
+            "nodes": [
+                10042880869,
+                10036631380,
+                10042880847,
+                10042880846,
+                10035152626,
+                10042880849,
+                10042880850,
+                10042880848,
+                10042880869
+            ],
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "indoor": "room",
+                "level": "0",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Mondadori Bookstore C/o Val Vibrata",
+                "phone": "+39 0861 710318",
+                "shop": "books"
             }
         },
         {

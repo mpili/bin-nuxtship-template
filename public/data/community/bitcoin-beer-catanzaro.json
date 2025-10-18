@@ -200,6 +200,24 @@
         },
         {
             "type": "node",
+            "id": 1662145986,
+            "lat": 39.0790378,
+            "lon": 17.1253901,
+            "timestamp": "2020-03-22T20:33:36Z",
+            "version": 4,
+            "changeset": 82493903,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 1787543076,
             "lat": 38.9132833,
             "lon": 16.5858344,
@@ -498,6 +516,28 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3774671872,
+            "lat": 38.9692953,
+            "lon": 16.3195134,
+            "timestamp": "2024-03-17T10:23:34Z",
+            "version": 2,
+            "changeset": 148765257,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Lamezia Terme",
+                "addr:housenumber": "165",
+                "addr:postcode": "88046",
+                "addr:street": "Corso Giovanni Nicotera",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "operator": "Mondadori",
+                "shop": "books"
             }
         },
         {

@@ -214,6 +214,27 @@
         },
         {
             "type": "node",
+            "id": 5959839626,
+            "lat": 36.9102571,
+            "lon": 15.1388079,
+            "timestamp": "2024-10-28T15:40:46Z",
+            "version": 4,
+            "changeset": 158461597,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "branch": "Avola",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori Bookstore",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:00-20:00; Su 10:30-13:00,17:00-20:00",
+                "phone": "+39 0931 581795",
+                "shop": "books",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5984033986,
             "lat": 36.7195796,
             "lon": 15.0971222,
@@ -1332,6 +1353,26 @@
         },
         {
             "type": "node",
+            "id": 11269864263,
+            "lat": 37.0837139,
+            "lon": 15.2915512,
+            "timestamp": "2024-10-28T15:40:46Z",
+            "version": 2,
+            "changeset": 158461597,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "branch": "Siracusa",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori Bookstore",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:00-20:00",
+                "phone": "+39 0931 454353",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 11459714396,
             "lat": 36.8840116,
             "lon": 15.0776377,
@@ -1475,6 +1516,26 @@
                 "brand:wikipedia": "it:SPAR",
                 "name": "Despar",
                 "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12294141327,
+            "lat": 37.2284709,
+            "lon": 15.2204438,
+            "timestamp": "2024-10-28T15:40:46Z",
+            "version": 1,
+            "changeset": 158461597,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "branch": "Augusta",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori Bookstore",
+                "opening_hours": "Mo 15:30-19:30; Tu-Sa 09:00-13:00,15:30-19:30",
+                "phone": "+39 0931 975743",
+                "shop": "books"
             }
         },
         {

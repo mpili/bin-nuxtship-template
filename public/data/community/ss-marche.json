@@ -1611,6 +1611,32 @@
         },
         {
             "type": "node",
+            "id": 4340538433,
+            "lat": 43.6187942,
+            "lon": 13.511185,
+            "timestamp": "2025-03-16T12:52:27Z",
+            "version": 8,
+            "changeset": 163687484,
+            "user": "Neonkaaaaa",
+            "uid": 9660877,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "29",
+                "addr:postcode": "60121",
+                "addr:street": "Corso Giuseppe Mazzini",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Libreria Gulliver Mondadori",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "phone": "+39 071 53215",
+                "ref:vatin": "IT02681770406",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Ancona-Mazzini/1117/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 4770534421,
             "lat": 43.2656779,
             "lon": 13.3482256,
@@ -1632,6 +1658,27 @@
                 "operator": "Pad Multienergy S.P.A",
                 "phone": "+39 0733 549042",
                 "ref:mise": "47321"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4916291276,
+            "lat": 43.2697973,
+            "lon": 13.4797654,
+            "timestamp": "2021-11-11T15:24:49Z",
+            "version": 3,
+            "changeset": 113656398,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Corridonia",
+                "addr:postcode": "62014",
+                "addr:street": "Via Enrico Mattei",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -1688,16 +1735,18 @@
             "id": 5052344579,
             "lat": 43.6174211,
             "lon": 13.5152029,
-            "timestamp": "2025-03-22T10:05:06Z",
-            "version": 7,
-            "changeset": 163939228,
-            "user": "Neonkaaaaa",
-            "uid": 9660877,
+            "timestamp": "2025-10-17T17:27:58Z",
+            "version": 8,
+            "changeset": 173421604,
+            "user": "totera",
+            "uid": 123412,
             "tags": {
+                "addr:housenumber": "107",
+                "addr:street": "Corso Giuseppe Garibaldi",
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "brand:wikipedia": "en:H&M",
-                "check_date": "2024-12-17",
+                "check_date": "2025-10-17",
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-20:00",
                 "operator": "H&M Hennes & Mauritz S.R.L",
@@ -1961,6 +2010,31 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5893162487,
+            "lat": 43.8431624,
+            "lon": 13.0173768,
+            "timestamp": "2024-11-03T21:22:26Z",
+            "version": 5,
+            "changeset": 158717856,
+            "user": "mircozorzo",
+            "uid": 224342,
+            "tags": {
+                "addr:housenumber": "184",
+                "addr:postcode": "61032",
+                "addr:street": "Corso Giacomo Matteotti",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "contact:email": "mondadoribookstorefano@gmail.com",
+                "contact:mobile": "+39 339 7419163",
+                "contact:phone": "+39 0721 846997",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-13:00,16:00-20:00",
+                "shop": "books"
             }
         },
         {
@@ -2527,6 +2601,24 @@
         },
         {
             "type": "node",
+            "id": 11351584816,
+            "lat": 43.4402862,
+            "lon": 13.6263378,
+            "timestamp": "2023-11-15T17:21:14Z",
+            "version": 2,
+            "changeset": 144059089,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11422445303,
             "lat": 43.763346,
             "lon": 13.146821,
@@ -2548,6 +2640,23 @@
                 "name": "Tamoil Mondolfo",
                 "operator": "Tamoil",
                 "ref:mise": "52138"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11694719728,
+            "lat": 43.5990328,
+            "lon": 13.3269955,
+            "timestamp": "2024-03-05T18:29:13Z",
+            "version": 1,
+            "changeset": 148263137,
+            "user": "dp7",
+            "uid": 4188272,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -3052,6 +3161,24 @@
                 "check_date": "2025-03-29",
                 "name": "Expert",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12741748360,
+            "lat": 43.5224995,
+            "lon": 13.5246878,
+            "timestamp": "2025-04-09T15:41:36Z",
+            "version": 1,
+            "changeset": 164730950,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-04-09",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

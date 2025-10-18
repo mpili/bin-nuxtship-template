@@ -4514,6 +4514,48 @@
         },
         {
             "type": "relation",
+            "id": 8766320,
+            "timestamp": "2024-01-02T12:43:43Z",
+            "version": 2,
+            "changeset": 145796516,
+            "user": "wvdp",
+            "uid": 436419,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940460,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940459,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940511,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940535,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "branch": "Book Store",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "indoor": "room",
+                "level": "0",
+                "name": "Mondadori",
+                "ref": "42",
+                "shop": "books",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
             "id": 8766324,
             "timestamp": "2024-10-01T09:52:43Z",
             "version": 3,

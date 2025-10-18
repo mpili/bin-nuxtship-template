@@ -3,6 +3,7 @@
     "name": "Brindisi",
     "lng": 40.635512,
     "lat": 17.942211,
+    "idcomune": 40545.0,
     "poi": [
         {
             "type": "node",
@@ -438,6 +439,28 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4248769716,
+            "lat": 40.7261353,
+            "lon": 17.578169,
+            "timestamp": "2025-10-18T17:09:53Z",
+            "version": 4,
+            "changeset": 173460155,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Ostuni",
+                "addr:housenumber": "30",
+                "addr:postcode": "72017",
+                "addr:street": "Piazza Italia",
+                "branch": "Point",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -975,6 +998,24 @@
         },
         {
             "type": "node",
+            "id": 6088270485,
+            "lat": 40.6378241,
+            "lon": 17.9467305,
+            "timestamp": "2022-07-02T20:00:03Z",
+            "version": 2,
+            "changeset": 123131838,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "branch": "bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 6341799788,
             "lat": 40.3756441,
             "lon": 18.1397546,
@@ -1033,6 +1074,37 @@
                 "brand:wikidata": "Q610492",
                 "name": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6867261330,
+            "lat": 40.5361172,
+            "lon": 17.4335032,
+            "timestamp": "2025-07-10T10:35:43Z",
+            "version": 6,
+            "changeset": 168735866,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "addr:city": "Grottaglie",
+                "addr:housenumber": "35",
+                "addr:postcode": "74023",
+                "addr:street": "Viale Giacomo Matteotti",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "email": "libreriamondadorigrottaglie@gmail.com",
+                "internet_access": "no",
+                "name": "Mondadori",
+                "opening_hours": "Mo 09:00-13:00, 16:30-20:30; Tu-Fr 09:30-13:00, 16:30-20:30; Sa 09:00-13:00, 17:00-21:00; Su 10:00-13:00, 17:00-21:00; PH off",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:qr_code": "no",
+                "phone": "+39 099 566 1186",
+                "second_hand": "no",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/negozi/libreria/mondadori-bookstore-grottaglie/MFR05K"
             }
         },
         {
@@ -1260,12 +1332,15 @@
             "id": 8365490751,
             "lat": 40.6227173,
             "lon": 17.9171374,
-            "timestamp": "2023-11-26T06:58:15Z",
-            "version": 3,
-            "changeset": 144461296,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-17T19:21:29Z",
+            "version": 4,
+            "changeset": 173425306,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Brindisi",
+                "addr:postcode": "72100",
+                "addr:street": "Viale Caduti di Via Fani",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -2054,6 +2129,30 @@
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-city-via-archita-18-74020-san-marzano-di-san-giuseppe--007814",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12531943237,
+            "lat": 40.5265219,
+            "lon": 17.5834657,
+            "timestamp": "2025-01-25T15:56:43Z",
+            "version": 1,
+            "changeset": 161751800,
+            "user": "Onyxbob",
+            "uid": 22295304,
+            "tags": {
+                "addr:city": "Francavilla Fontana",
+                "addr:housenumber": "10",
+                "addr:postcode": "72021",
+                "addr:street": "Viale V. Lilla",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:00-13:00,16:30-20:30; Su off",
+                "phone": "+39 08311527599",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/"
             }
         },
         {

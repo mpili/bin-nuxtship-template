@@ -3,6 +3,7 @@
     "name": "Bardonecchia",
     "lng": 45.07462,
     "lat": 6.69888,
+    "idcomune": 44251.0,
     "poi": [
         {
             "type": "node",
@@ -873,12 +874,15 @@
             "id": 5851834960,
             "lat": 45.0817211,
             "lon": 6.7109707,
-            "timestamp": "2025-05-15T12:37:46Z",
-            "version": 5,
-            "changeset": 166302740,
-            "user": "Lomba93",
-            "uid": 11957071,
+            "timestamp": "2025-10-17T20:13:33Z",
+            "version": 6,
+            "changeset": 173427165,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Bardonecchia",
+                "addr:postcode": "10052",
+                "addr:street": "Autostrada del Frejus",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",

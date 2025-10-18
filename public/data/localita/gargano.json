@@ -3,6 +3,7 @@
     "name": "Gargano",
     "lng": 41.8399626,
     "lat": 15.5605492,
+    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -395,6 +396,25 @@
         },
         {
             "type": "node",
+            "id": 5398729994,
+            "lat": 41.687104,
+            "lon": 15.3831056,
+            "timestamp": "2020-07-06T20:59:11Z",
+            "version": 2,
+            "changeset": 87619289,
+            "user": "Gerd Waldmann",
+            "uid": 1729508,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "description": "Libreria Mondadori accetta buonispesa",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 5410276434,
             "lat": 41.9365479,
             "lon": 15.9505981,
@@ -494,12 +514,14 @@
             "id": 9964363667,
             "lat": 41.6451973,
             "lon": 15.938268,
-            "timestamp": "2023-03-07T09:33:45Z",
-            "version": 2,
-            "changeset": 133395305,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-17T18:36:02Z",
+            "version": 3,
+            "changeset": 173423884,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Manfredonia",
+                "addr:postcode": "71043",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "email": "manfredonia@ovs.it",

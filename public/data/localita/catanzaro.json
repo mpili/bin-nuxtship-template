@@ -3,6 +3,7 @@
     "name": "Catanzaro",
     "lng": 38.9075,
     "lat": 16.5962,
+    "idcomune": 39727.0,
     "poi": [
         {
             "type": "node",
@@ -190,6 +191,28 @@
                 "ref:mise": "37126",
                 "self_service": "yes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1662145986,
+            "lat": 39.0790378,
+            "lon": 17.1253901,
+            "timestamp": "2025-10-18T17:03:39Z",
+            "version": 5,
+            "changeset": 173459955,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Crotone",
+                "addr:housenumber": "64",
+                "addr:postcode": "88900",
+                "addr:street": "Via Roma",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -492,6 +515,28 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3774671872,
+            "lat": 38.9692953,
+            "lon": 16.3195134,
+            "timestamp": "2024-03-17T10:23:34Z",
+            "version": 2,
+            "changeset": 148765257,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Lamezia Terme",
+                "addr:housenumber": "165",
+                "addr:postcode": "88046",
+                "addr:street": "Corso Giovanni Nicotera",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "operator": "Mondadori",
+                "shop": "books"
             }
         },
         {

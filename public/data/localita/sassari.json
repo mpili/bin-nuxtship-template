@@ -3,6 +3,7 @@
     "name": "Sassari",
     "lng": 40.718668,
     "lat": 8.566414,
+    "idcomune": 40683.0,
     "poi": [
         {
             "type": "node",
@@ -698,6 +699,28 @@
                 "name": "Intimissimi",
                 "operator": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8118353738,
+            "lat": 40.7269293,
+            "lon": 8.5622452,
+            "timestamp": "2020-11-14T11:34:17Z",
+            "version": 1,
+            "changeset": 94102657,
+            "user": "Molko",
+            "uid": 251688,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "17",
+                "addr:postcode": "07100",
+                "addr:street": "Largo Felice Cavallotti",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

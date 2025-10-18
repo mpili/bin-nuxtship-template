@@ -3,6 +3,7 @@
     "name": "Cagliari",
     "lng": 39.21721,
     "lat": 9.11335,
+    "idcomune": 39837.0,
     "poi": [
         {
             "type": "node",
@@ -697,6 +698,27 @@
         },
         {
             "type": "node",
+            "id": 4229005318,
+            "lat": 39.2185612,
+            "lon": 9.1101337,
+            "timestamp": "2023-10-04T12:30:24Z",
+            "version": 4,
+            "changeset": 142143518,
+            "user": "Fradeve11",
+            "uid": 37791,
+            "tags": {
+                "addr:city": "Cagliari",
+                "addr:housenumber": "160",
+                "addr:street": "Corso Vittorio Emanuele II",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
+                "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+            }
+        },
+        {
+            "type": "node",
             "id": 4229034861,
             "lat": 39.213179,
             "lon": 9.1151683,
@@ -1099,12 +1121,15 @@
             "id": 4910975902,
             "lat": 39.2936825,
             "lon": 9.0685015,
-            "timestamp": "2022-03-29T09:44:17Z",
-            "version": 3,
-            "changeset": 119060219,
-            "user": "DDeL",
-            "uid": 8377693,
+            "timestamp": "2025-10-18T16:34:45Z",
+            "version": 4,
+            "changeset": 173458706,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Sestu",
+                "addr:postcode": "09028",
+                "addr:street": "Ex Strada Statale 131",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
                 "brand:wikipedia": "en:Unieuro",
@@ -1786,6 +1811,24 @@
                 "payment:onchain": "yes",
                 "phone": "+39 3388821215",
                 "website": "https://www.alexitalia.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10239868170,
+            "lat": 39.3039325,
+            "lon": 9.0663264,
+            "timestamp": "2022-12-05T10:36:26Z",
+            "version": 1,
+            "changeset": 129735859,
+            "user": "DDeL",
+            "uid": 8377693,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "level": "0",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -2498,6 +2541,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13050046258,
+            "lat": 39.2166848,
+            "lon": 9.1139377,
+            "timestamp": "2025-08-05T12:53:52Z",
+            "version": 1,
+            "changeset": 170005156,
+            "user": "Lorenzo Zucca",
+            "uid": 10721323,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
             "type": "way",
             "id": 227571364,
             "timestamp": "2020-10-16T10:15:51Z",
@@ -2903,11 +2963,11 @@
         {
             "type": "way",
             "id": 561272847,
-            "timestamp": "2020-06-01T12:14:01Z",
-            "version": 3,
-            "changeset": 86046202,
-            "user": "Mapofall",
-            "uid": 7189845,
+            "timestamp": "2025-10-18T16:35:46Z",
+            "version": 4,
+            "changeset": 173458745,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 5412363685,
                 5412363684,
@@ -2915,6 +2975,9 @@
                 5412363685
             ],
             "tags": {
+                "addr:city": "Selargius",
+                "addr:postcode": "09047",
+                "addr:street": "Via Trieste",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",

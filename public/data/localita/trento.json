@@ -3,6 +3,7 @@
     "name": "Trento",
     "lng": 46.0664,
     "lat": 11.1261,
+    "idcomune": 46663.0,
     "poi": [
         {
             "type": "node",
@@ -1696,6 +1697,35 @@
                 "shop": "electronics",
                 "website": "https://www.trony.it/online",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1198858737,
+            "lat": 46.0697802,
+            "lon": 11.1245056,
+            "timestamp": "2022-08-19T15:08:00Z",
+            "version": 8,
+            "changeset": 125112465,
+            "user": "Peter van der Veeken",
+            "uid": 2385407,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "38122",
+                "addr:street": "Via San Pietro",
+                "branch": "Bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "contact:email": "mondadoritrento@gmail.com",
+                "contact:phone": "+39 0461 263828",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:00-13:00,15:00-19:00",
+                "operator": "Griso S.r.l.",
+                "ref:vatin": "IT01633210198",
+                "shop": "books",
+                "wheelchair": "limited"
             }
         },
         {
@@ -4305,6 +4335,31 @@
                 "payment:lightning:operator": "bitcoinpos.it",
                 "payment:onchain": "yes",
                 "phone": "+39 0464 543043"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9176581961,
+            "lat": 45.8828659,
+            "lon": 10.8535289,
+            "timestamp": "2022-07-06T10:05:21Z",
+            "version": 2,
+            "changeset": 123270513,
+            "user": "CCCGGG",
+            "uid": 6098724,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "5",
+                "addr:postcode": "38066",
+                "addr:street": "Via Padova",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "operator": "Libreria Colibr\u00ec",
+                "phone": "+390464553617",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Riva-Del-Garda/2161/"
             }
         },
         {

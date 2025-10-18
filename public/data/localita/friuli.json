@@ -3,6 +3,7 @@
     "name": "Friuli",
     "lng": 45.6494354,
     "lat": 13.7681366,
+    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -4313,6 +4314,56 @@
             }
         },
         {
+            "type": "way",
+            "id": 1396232335,
+            "timestamp": "2025-10-18T00:40:33Z",
+            "version": 6,
+            "changeset": 173431714,
+            "user": "Latisana992",
+            "uid": 4179361,
+            "nodes": [
+                426681763,
+                12923327055,
+                426681767,
+                426681769,
+                9995495829,
+                9995495835,
+                426681756,
+                426681757,
+                426681759,
+                426681762,
+                426681763
+            ],
+            "tags": {
+                "addr:housenumber": "10",
+                "addr:street": "Via Tirrenia",
+                "air_conditioning": "yes",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "changing_table": "no",
+                "check_date": "2025-09-27",
+                "check_date:diet:gluten_free": "2025-06-16",
+                "check_date:opening_hours": "2025-09-27",
+                "currency:EUR": "yes",
+                "diet:gluten_free": "yes",
+                "internet_access": "no",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1A0",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "organic": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:qr_code": "no",
+                "phone": "+39 390 431 7057",
+                "second_hand": "no",
+                "shop": "supermarket",
+                "stroller": "yes",
+                "website": "https://www.despar.it/",
+                "wheelchair": "designated"
+            }
+        },
+        {
             "type": "relation",
             "id": 7395431,
             "timestamp": "2019-05-24T22:57:52Z",
@@ -4520,6 +4571,48 @@
                 "name": "Calzedonia",
                 "ref": "7",
                 "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766320,
+            "timestamp": "2024-01-02T12:43:43Z",
+            "version": 2,
+            "changeset": 145796516,
+            "user": "wvdp",
+            "uid": 436419,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940460,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940459,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940511,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940535,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "branch": "Book Store",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "indoor": "room",
+                "level": "0",
+                "name": "Mondadori",
+                "ref": "42",
+                "shop": "books",
                 "type": "multipolygon"
             }
         },

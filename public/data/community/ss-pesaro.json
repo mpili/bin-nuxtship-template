@@ -1266,6 +1266,29 @@
         },
         {
             "type": "node",
+            "id": 2718201402,
+            "lat": 44.0701507,
+            "lon": 12.5781986,
+            "timestamp": "2022-07-01T11:55:56Z",
+            "version": 3,
+            "changeset": 123083334,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "47921",
+                "addr:street": "Viale Amerigo Vespucci",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "contact:email": "mondadorimare@gmail.com",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 2718202304,
             "lat": 44.0582513,
             "lon": 12.5668867,
@@ -1796,6 +1819,29 @@
         },
         {
             "type": "node",
+            "id": 4358978095,
+            "lat": 44.0589697,
+            "lon": 12.5686679,
+            "timestamp": "2025-04-20T17:35:22Z",
+            "version": 6,
+            "changeset": 165205720,
+            "user": "Simone Gliori",
+            "uid": 1467637,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:housenumber": "6",
+                "addr:postcode": "47921",
+                "addr:street": "Piazza Tre Martiri",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:00,15:00-20:00",
+                "shop": "books",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 4358994390,
             "lat": 44.0584595,
             "lon": 12.5698346,
@@ -1955,6 +2001,28 @@
                 "check_date": "2025-08-06",
                 "name": "Sailmoraghi & Vigan\u014d",
                 "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4495195080,
+            "lat": 44.0028224,
+            "lon": 12.6579678,
+            "timestamp": "2025-08-11T21:19:14Z",
+            "version": 8,
+            "changeset": 170313783,
+            "user": "Samuele Battarra",
+            "uid": 51179,
+            "tags": {
+                "addr:housenumber": "46",
+                "addr:street": "Viale Dante Alighieri",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-08-11",
+                "name": "Mondadori",
+                "phone": "+39 0541 697164",
+                "shop": "books",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2458,12 +2526,15 @@
             "id": 5851845227,
             "lat": 43.6858971,
             "lon": 12.7854734,
-            "timestamp": "2023-10-28T07:41:49Z",
-            "version": 4,
-            "changeset": 143246239,
-            "user": "totera",
-            "uid": 123412,
+            "timestamp": "2025-10-17T20:05:14Z",
+            "version": 5,
+            "changeset": 173426862,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Fossombrone",
+                "addr:postcode": "61034",
+                "addr:street": "Via Flaminia",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -2524,6 +2595,31 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5893162487,
+            "lat": 43.8431624,
+            "lon": 13.0173768,
+            "timestamp": "2024-11-03T21:22:26Z",
+            "version": 5,
+            "changeset": 158717856,
+            "user": "mircozorzo",
+            "uid": 224342,
+            "tags": {
+                "addr:housenumber": "184",
+                "addr:postcode": "61032",
+                "addr:street": "Corso Giacomo Matteotti",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "contact:email": "mondadoribookstorefano@gmail.com",
+                "contact:mobile": "+39 339 7419163",
+                "contact:phone": "+39 0721 846997",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-13:00,16:00-20:00",
+                "shop": "books"
             }
         },
         {
@@ -2593,6 +2689,32 @@
                 "name": "Tamoil",
                 "operator": "Forini S.p.A.",
                 "ref:mise": "43332"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7439804881,
+            "lat": 43.9105688,
+            "lon": 12.9134785,
+            "timestamp": "2024-11-25T16:38:30Z",
+            "version": 4,
+            "changeset": 159581389,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "33",
+                "addr:postcode": "61121",
+                "addr:street": "Via Gioacchino Rossini",
+                "branch": "Bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "contact:email": "ordini@libreriacampus.it",
+                "contact:mobile": "+39 349 1044709",
+                "contact:phone": "+39 0721 31438",
+                "contact:website": "https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Pesaro-Rossini/1444/",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -2869,6 +2991,31 @@
         },
         {
             "type": "node",
+            "id": 9859741590,
+            "lat": 43.7261493,
+            "lon": 12.6365632,
+            "timestamp": "2023-10-07T07:09:57Z",
+            "version": 3,
+            "changeset": 142257249,
+            "user": "Aluminum0173",
+            "uid": 16035231,
+            "tags": {
+                "addr:city": "Urbino",
+                "addr:housenumber": "2",
+                "addr:postcode": "61029",
+                "addr:street": "Piazza della Repubblica",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Th 08:30-20:00; Fr,Sa 08:30-13:30,15:30-20:00; Su 10:00-13:00,16:00-20:00",
+                "phone": "+390722329523",
+                "shop": "books",
+                "survey:date": "2023-10-07",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 10248794382,
             "lat": 44.0606818,
             "lon": 12.5670552,
@@ -2986,6 +3133,24 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586735248,
+            "lat": 44.1578842,
+            "lon": 12.4284358,
+            "timestamp": "2025-06-03T08:02:46Z",
+            "version": 2,
+            "changeset": 167121890,
+            "user": "Godot",
+            "uid": 29874,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-06-03",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -3308,6 +3473,23 @@
                 "name": "Tamoil Mondolfo",
                 "operator": "Tamoil",
                 "ref:mise": "52138"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11694719728,
+            "lat": 43.5990328,
+            "lon": 13.3269955,
+            "timestamp": "2024-03-05T18:29:13Z",
+            "version": 1,
+            "changeset": 148263137,
+            "user": "dp7",
+            "uid": 4188272,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

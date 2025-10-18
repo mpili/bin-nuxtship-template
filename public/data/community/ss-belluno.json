@@ -1265,12 +1265,15 @@
             "id": 5851831557,
             "lat": 45.9299326,
             "lon": 12.3761722,
-            "timestamp": "2025-10-07T13:18:18Z",
-            "version": 8,
-            "changeset": 172957068,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-17T20:34:41Z",
+            "version": 9,
+            "changeset": 173427866,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Godega di Sant'Urbano",
+                "addr:postcode": "31010",
+                "addr:street": "Via Colombo",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -1586,12 +1589,16 @@
             "id": 8434840125,
             "lat": 46.1397505,
             "lon": 12.2168317,
-            "timestamp": "2021-02-18T12:26:34Z",
-            "version": 1,
-            "changeset": 99523878,
-            "user": "diegomodolo",
-            "uid": 8109808,
+            "timestamp": "2025-10-17T19:20:43Z",
+            "version": 2,
+            "changeset": 173425289,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Belluno",
+                "addr:housenumber": "56",
+                "addr:postcode": "32100",
+                "addr:street": "Piazza dei Martiri",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
@@ -1626,12 +1633,16 @@
             "id": 8434840130,
             "lat": 46.139748,
             "lon": 12.2170885,
-            "timestamp": "2021-02-18T12:26:34Z",
-            "version": 1,
-            "changeset": 99523878,
-            "user": "diegomodolo",
-            "uid": 8109808,
+            "timestamp": "2025-10-17T19:20:03Z",
+            "version": 2,
+            "changeset": 173425274,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Belluno",
+                "addr:housenumber": "56",
+                "addr:postcode": "32100",
+                "addr:street": "Piazza dei Martiri",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
@@ -1677,6 +1688,24 @@
                 "brand:wikidata": "Q116214505",
                 "name": "Kasanova",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8476827173,
+            "lat": 46.1381825,
+            "lon": 12.2187238,
+            "timestamp": "2021-03-01T18:56:45Z",
+            "version": 1,
+            "changeset": 100225867,
+            "user": "diegomodolo",
+            "uid": 8109808,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -1975,6 +2004,23 @@
                 "phone": "+39 0434 177 7825",
                 "shop": "clothes",
                 "website": "https://www.valbershop.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10875761582,
+            "lat": 45.8852257,
+            "lon": 12.2950198,
+            "timestamp": "2025-10-08T09:53:49Z",
+            "version": 3,
+            "changeset": 172994631,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

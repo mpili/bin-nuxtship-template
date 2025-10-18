@@ -3,6 +3,6 @@
 </script>
 <template>
 	<div v-if="error">
-		<UiRivela title="errore" :description="error" />
+		<!-- <UiRivela title="errore" :description="error" /> -->
 	</div>
 </template>

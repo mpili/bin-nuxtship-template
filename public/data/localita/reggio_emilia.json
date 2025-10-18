@@ -3,6 +3,7 @@
     "name": "Reggio Emilia",
     "lng": 44.699,
     "lat": 10.6297,
+    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -1457,6 +1458,33 @@
         },
         {
             "type": "node",
+            "id": 4690737133,
+            "lat": 44.7976727,
+            "lon": 10.3315135,
+            "timestamp": "2022-09-07T23:01:51Z",
+            "version": 3,
+            "changeset": 125920443,
+            "user": "Keyser Bante",
+            "uid": 14466541,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "1/b",
+                "addr:postcode": "43121",
+                "addr:street": "Borgo Regale",
+                "branch": "Point",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0814",
+                "name": "Mondadori",
+                "shop": "books",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
             "id": 4690737138,
             "lat": 44.7979984,
             "lon": 10.3309581,
@@ -1481,6 +1509,32 @@
                 "shop": "supermarket",
                 "source": "survey",
                 "warehouse": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4712420534,
+            "lat": 44.6587341,
+            "lon": 10.9205108,
+            "timestamp": "2021-03-31T16:56:39Z",
+            "version": 4,
+            "changeset": 102069460,
+            "user": "jakp3",
+            "uid": 1178459,
+            "tags": {
+                "addr:city": "Modena",
+                "addr:country": "IT",
+                "addr:housenumber": "36",
+                "addr:postcode": "41122",
+                "addr:street": "Via Bartolomeo Paganelli",
+                "addr:suburb": "Crocetta-San Lazzaro-Modena Est",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "operator": "Mondadori",
+                "shop": "books",
+                "source": "dati.emilia-romagna.it"
             }
         },
         {
@@ -2233,12 +2287,15 @@
             "id": 5851832251,
             "lat": 45.0983883,
             "lon": 10.6990166,
-            "timestamp": "2022-10-17T20:01:14Z",
-            "version": 2,
-            "changeset": 127691401,
-            "user": "bbgg",
-            "uid": 4126696,
+            "timestamp": "2025-10-17T20:30:16Z",
+            "version": 3,
+            "changeset": 173427749,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Curtatone",
+                "addr:postcode": "46010",
+                "addr:street": "Via Torre d'Oglio",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -2252,12 +2309,16 @@
             "id": 5851832947,
             "lat": 44.769763,
             "lon": 10.7845002,
-            "timestamp": "2024-06-26T11:58:39Z",
-            "version": 8,
-            "changeset": 153198870,
-            "user": "Martin Ligabue",
-            "uid": 8305310,
+            "timestamp": "2025-10-17T20:24:51Z",
+            "version": 9,
+            "changeset": 173427570,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Correggio",
+                "addr:housenumber": "13a",
+                "addr:postcode": "42015",
+                "addr:street": "Via Vittorio Saltini",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -2279,12 +2340,15 @@
             "id": 5851833426,
             "lat": 45.0506416,
             "lon": 10.5503102,
-            "timestamp": "2022-01-07T17:30:41Z",
-            "version": 2,
-            "changeset": 115885676,
-            "user": "GiovanniC83",
-            "uid": 9622178,
+            "timestamp": "2025-10-17T20:23:17Z",
+            "version": 3,
+            "changeset": 173427515,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Commessaggio",
+                "addr:postcode": "46010",
+                "addr:street": "Viale della Libert\u00e0",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -2514,12 +2578,15 @@
             "id": 5851845370,
             "lat": 44.8214448,
             "lon": 10.9429327,
-            "timestamp": "2023-06-22T17:31:53Z",
-            "version": 2,
-            "changeset": 137656787,
-            "user": "ivanbranco",
-            "uid": 11220113,
+            "timestamp": "2025-10-18T16:20:36Z",
+            "version": 3,
+            "changeset": 173458054,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Novi di Modena",
+                "addr:postcode": "41016",
+                "addr:street": "SP468R",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -3392,6 +3459,23 @@
         },
         {
             "type": "node",
+            "id": 11543731789,
+            "lat": 44.6975643,
+            "lon": 10.6341746,
+            "timestamp": "2024-01-23T17:48:49Z",
+            "version": 1,
+            "changeset": 146602523,
+            "user": "PaoloRE1981",
+            "uid": 821025,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 11547020030,
             "lat": 44.6994578,
             "lon": 10.6285035,
@@ -3675,6 +3759,24 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11900992718,
+            "lat": 44.7829647,
+            "lon": 10.8846561,
+            "timestamp": "2024-05-13T12:38:23Z",
+            "version": 3,
+            "changeset": 151262044,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
                 "wheelchair": "yes"
             }
         },
@@ -6411,6 +6513,31 @@
                 "name": "MediaWorld",
                 "operator": "Mediamarket S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 760001974,
+            "timestamp": "2023-03-16T13:38:35Z",
+            "version": 2,
+            "changeset": 133749578,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                7099641477,
+                7099641475,
+                7099641473,
+                7099641394,
+                7099641476,
+                7099641477
+            ],
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "indoor": "room",
+                "level": "0",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

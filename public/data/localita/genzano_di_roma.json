@@ -3,6 +3,7 @@
     "name": "Genzano di Roma",
     "lng": 41.673,
     "lat": 12.704,
+    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -1331,6 +1332,31 @@
         },
         {
             "type": "node",
+            "id": 1542636118,
+            "lat": 41.8680629,
+            "lon": 12.467499,
+            "timestamp": "2024-05-12T16:11:56Z",
+            "version": 2,
+            "changeset": 151232566,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housename": "Galleria Guglielmo Marconi",
+                "addr:housenumber": "70",
+                "addr:street": "Viale Guglielmo Marconi",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "operator": "Mondadori Direct S.p.a. business unit Mondolibri",
+                "phone": "+39 06 5576207",
+                "ref:vatin": "IT11022370156",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 1548183113,
             "lat": 41.7325823,
             "lon": 12.6519557,
@@ -1769,6 +1795,43 @@
         },
         {
             "type": "node",
+            "id": 2021729373,
+            "lat": 41.9086647,
+            "lon": 12.4669259,
+            "timestamp": "2022-02-01T17:33:47Z",
+            "version": 5,
+            "changeset": 116878225,
+            "user": "random_citizen",
+            "uid": 14858789,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "81/83",
+                "addr:postcode": "00192",
+                "addr:street": "Piazza Cola di Rienzo",
+                "branch": "Bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "contact:facebook": "https://it-it.facebook.com/MondadoriRomaCola/",
+                "contact:instagram": "https://www.instagram.com/mondadoricoladirienzoroma/",
+                "delivery": "yes",
+                "email": "libreria.romacola@mondadori.it",
+                "name": "Mondadori",
+                "opening_hours": "Su-Fr 10:00-20:00; Sa 10:00-21:00",
+                "operator": "Arnoldo Mondadori Editore S.p.A.",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:diners_club": "yes",
+                "payment:mastercard": "yes",
+                "payment:postepay": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 063220188",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/app/storeLocator/detail?pickUpPoint=1512"
+            }
+        },
+        {
+            "type": "node",
             "id": 2104225979,
             "lat": 41.8744553,
             "lon": 12.4782378,
@@ -2180,6 +2243,32 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 06 9320944"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2628531881,
+            "lat": 41.8603767,
+            "lon": 12.5563896,
+            "timestamp": "2025-01-15T23:24:06Z",
+            "version": 8,
+            "changeset": 161399024,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housenumber": "771",
+                "addr:postcode": "00174",
+                "addr:street": "Via Tuscolana",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "email": "info@mondadorituscolanaroma.it",
+                "name": "Mondadori",
+                "phone": "+39 06 7615654",
+                "shop": "books",
+                "website": "http://www.mondadorituscolanaroma.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -3673,6 +3762,34 @@
         },
         {
             "type": "node",
+            "id": 4847967975,
+            "lat": 41.8843865,
+            "lon": 12.5113075,
+            "timestamp": "2025-07-30T17:03:52Z",
+            "version": 3,
+            "changeset": 169731505,
+            "user": "divanettoooo",
+            "uid": 22482620,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "51",
+                "addr:postcode": "00182",
+                "addr:street": "Via Appia Nuova",
+                "books": "comic;adults;textbook;children;religion",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "operator": "Mondadori Retail S.p.A.",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "phone": "067003690",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/negozi/libreria/mondadori-bookstore-roma-appia-nuova/MXV928"
+            }
+        },
+        {
+            "type": "node",
             "id": 4864437083,
             "lat": 41.9085617,
             "lon": 12.5369297,
@@ -4450,12 +4567,16 @@
             "id": 5851832901,
             "lat": 41.7237922,
             "lon": 12.6078373,
-            "timestamp": "2023-08-18T15:40:07Z",
-            "version": 2,
-            "changeset": 140063703,
-            "user": "Italian Technology",
-            "uid": 10622815,
+            "timestamp": "2025-10-17T20:26:47Z",
+            "version": 3,
+            "changeset": 173427641,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Albano Laziale",
+                "addr:housenumber": "70/72",
+                "addr:postcode": "00040",
+                "addr:street": "Via del Mare",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -4561,12 +4682,16 @@
             "id": 5851844918,
             "lat": 41.939707,
             "lon": 12.4945718,
-            "timestamp": "2020-07-08T11:02:20Z",
-            "version": 2,
-            "changeset": 87706191,
-            "user": "Guidus",
-            "uid": 417672,
+            "timestamp": "2025-10-18T16:22:29Z",
+            "version": 3,
+            "changeset": 173458147,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "502",
+                "addr:postcode": "00197",
+                "addr:street": "Via del Foro Italico",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -4949,12 +5074,15 @@
             "id": 6566766788,
             "lat": 41.5797501,
             "lon": 12.6463117,
-            "timestamp": "2019-06-24T00:52:53Z",
-            "version": 1,
-            "changeset": 71543880,
-            "user": "360RSI",
-            "uid": 4437832,
+            "timestamp": "2025-10-17T19:30:19Z",
+            "version": 2,
+            "changeset": 173425590,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Aprilia",
+                "addr:postcode": "04011",
+                "addr:street": "Via del Commercio",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
@@ -5517,6 +5645,28 @@
                 "phone": "+39065817537",
                 "shop": "electronics",
                 "website": "https://www.unieuro.it/online/negozi/Unieuro-Roma---Viale-Trastevere"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7659482500,
+            "lat": 41.7390575,
+            "lon": 12.2798555,
+            "timestamp": "2024-08-20T12:59:53Z",
+            "version": 4,
+            "changeset": 155508344,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housenumber": "169",
+                "addr:postcode": "00121",
+                "addr:street": "Via delle Baleniere",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -6444,6 +6594,27 @@
                 "phone": "+39 06 48905630",
                 "shop": "optician",
                 "website": "https://www.grandvision.it/store-locator/roma/ottica-grandvision-by-optissimo-forum-st.-roma-termini-roma"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8971681491,
+            "lat": 41.8991076,
+            "lon": 12.5323036,
+            "timestamp": "2021-08-01T10:36:56Z",
+            "version": 1,
+            "changeset": 108968840,
+            "user": "Patrick Bous",
+            "uid": 223763,
+            "tags": {
+                "branch": "Bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "phone": "+39 06 9451581",
+                "shop": "books"
             }
         },
         {
@@ -8329,15 +8500,36 @@
         },
         {
             "type": "node",
+            "id": 11478760849,
+            "lat": 41.8938788,
+            "lon": 12.5037643,
+            "timestamp": "2024-09-23T15:16:07Z",
+            "version": 2,
+            "changeset": 157000494,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 11481060816,
             "lat": 41.9127761,
             "lon": 12.5184138,
-            "timestamp": "2024-10-16T15:52:10Z",
-            "version": 2,
-            "changeset": 157971720,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-17T18:08:30Z",
+            "version": 3,
+            "changeset": 173422964,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "5",
+                "addr:postcode": "00161",
+                "addr:street": "Largo Ravenna",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "check_date": "2024-01-02",
@@ -8597,6 +8789,26 @@
         },
         {
             "type": "node",
+            "id": 11702015205,
+            "lat": 41.7272667,
+            "lon": 12.6602889,
+            "timestamp": "2024-03-07T20:43:50Z",
+            "version": 1,
+            "changeset": 148359419,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Albano Laziale",
+                "addr:postcode": "00041",
+                "addr:street": "Corso Giacomo Matteotti",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 11703473708,
             "lat": 41.7605384,
             "lon": 12.9585812,
@@ -8648,6 +8860,23 @@
                 "name": "United Colors of Benetton",
                 "shop": "clothes",
                 "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11704267720,
+            "lat": 41.7081355,
+            "lon": 12.6874619,
+            "timestamp": "2024-03-08T14:46:39Z",
+            "version": 1,
+            "changeset": 148387523,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -8726,16 +8955,37 @@
             "id": 11772119553,
             "lat": 41.8823808,
             "lon": 12.5603691,
-            "timestamp": "2024-03-29T18:05:53Z",
-            "version": 1,
-            "changeset": 149324845,
-            "user": "AlCeRoma",
-            "uid": 12770453,
+            "timestamp": "2025-10-17T18:03:43Z",
+            "version": 2,
+            "changeset": 173422824,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "194",
+                "addr:postcode": "00172",
+                "addr:street": "Viale della Primavera",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11775278119,
+            "lat": 41.4587862,
+            "lon": 12.6576467,
+            "timestamp": "2024-03-31T12:32:42Z",
+            "version": 1,
+            "changeset": 149387384,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -8771,6 +9021,24 @@
                 "brand:wikidata": "Q63335",
                 "name": "Foot Locker",
                 "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11778524773,
+            "lat": 41.7983329,
+            "lon": 12.2985483,
+            "timestamp": "2024-04-01T16:32:15Z",
+            "version": 2,
+            "changeset": 149440853,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
                 "wheelchair": "yes"
             }
         },
@@ -11198,6 +11466,44 @@
         },
         {
             "type": "way",
+            "id": 211927685,
+            "timestamp": "2023-09-10T09:04:54Z",
+            "version": 3,
+            "changeset": 141053140,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "nodes": [
+                2218549927,
+                2218550002,
+                2218550004,
+                2218550151,
+                2218550181,
+                2218550211,
+                2218550210,
+                2218550185,
+                2218550175,
+                2218550025,
+                2218550012,
+                2218549923,
+                2218549924,
+                2218549927
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00173",
+                "addr:street": "Via Enrico Ferri",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "buildingpart": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "way",
             "id": 211927700,
             "timestamp": "2021-12-10T09:17:19Z",
             "version": 2,
@@ -11507,11 +11813,11 @@
         {
             "type": "way",
             "id": 316106948,
-            "timestamp": "2020-02-15T16:47:44Z",
-            "version": 2,
-            "changeset": 81048313,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-10-18T12:06:17Z",
+            "version": 3,
+            "changeset": 173447236,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
             "nodes": [
                 3222161185,
                 3222161190,
@@ -11520,7 +11826,6 @@
                 3222161185
             ],
             "tags": {
-                "area": "yes",
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
                 "brand:wikipedia": "fr:Carrefour (enseigne)",
@@ -14343,6 +14648,40 @@
                 "phone": "+39 06 83984301",
                 "shop": "optician",
                 "website": "https://www.grandvision.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1132982095,
+            "timestamp": "2025-07-30T12:48:38Z",
+            "version": 4,
+            "changeset": 169719385,
+            "user": "wavez",
+            "uid": 22825318,
+            "nodes": [
+                10563509672,
+                10563509670,
+                10563509669,
+                10563509666,
+                10563509665,
+                10563509668,
+                10563509667,
+                10563509672
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "865",
+                "addr:postcode": "00143",
+                "addr:street": "Via Laurentina",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "email": "maximo@mabooks.it",
+                "indoor": "room",
+                "level": "1",
+                "name": "Mabook Store",
+                "opening_hours": "Mo-Su 10:00-21:00",
+                "phone": "+39 06 66739595",
+                "shop": "books"
             }
         },
         {
