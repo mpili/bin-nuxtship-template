@@ -1907,6 +1907,27 @@
         },
         {
             "type": "node",
+            "id": 4291465969,
+            "lat": 44.4050412,
+            "lon": 8.94363,
+            "timestamp": "2025-09-12T15:36:58Z",
+            "version": 5,
+            "changeset": 171838256,
+            "user": "Superchilum",
+            "uid": 4903102,
+            "tags": {
+                "addr:housenumber": "27 rosso",
+                "addr:street": "Via Venti Settembre",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "check_date": "2025-09-12",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 4357199023,
             "lat": 44.0500286,
             "lon": 8.2126895,
@@ -2119,13 +2140,15 @@
             "id": 5139913596,
             "lat": 44.4092671,
             "lon": 8.9317474,
-            "timestamp": "2025-10-02T16:30:54Z",
-            "version": 7,
-            "changeset": 172756645,
-            "user": "Superchilum",
-            "uid": 4903102,
+            "timestamp": "2025-10-17T19:44:43Z",
+            "version": 8,
+            "changeset": 173426104,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Genova",
                 "addr:housenumber": "75",
+                "addr:postcode": "16123",
                 "addr:street": "Via di Soziglia",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
@@ -2468,12 +2491,16 @@
             "id": 5851845557,
             "lat": 44.7204277,
             "lon": 8.2952456,
-            "timestamp": "2022-03-06T17:54:46Z",
-            "version": 4,
-            "changeset": 118169117,
-            "user": "ivanbranco",
-            "uid": 11220113,
+            "timestamp": "2025-10-18T16:13:17Z",
+            "version": 5,
+            "changeset": 173457755,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Canelli",
+                "addr:housenumber": "12",
+                "addr:postcode": "14053",
+                "addr:street": "Viale Italia",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -2847,6 +2874,24 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "website": "https://kebhouze.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9757907695,
+            "lat": 44.408653,
+            "lon": 8.954374,
+            "timestamp": "2023-06-11T17:29:36Z",
+            "version": 3,
+            "changeset": 137213602,
+            "user": "Som",
+            "uid": 80203,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "books"
             }
         },
         {
@@ -3909,6 +3954,29 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13144323127,
+            "lat": 44.048059,
+            "lon": 8.2156852,
+            "timestamp": "2025-09-30T17:40:55Z",
+            "version": 3,
+            "changeset": 172672066,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:floor": "EG",
+                "addr:housenumber": "12",
+                "addr:street": "Viale Martiri della Libert\u00e0",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-09-15",
+                "level": "0",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:00-12:30,15:30-19:30; Su 10:00-12:30,15:30-19:00",
+                "shop": "books"
             }
         },
         {

@@ -31,7 +31,6 @@ export default defineNuxtConfig({
           '/comunita',
           '/contattaci',
           '/documentazione',
-          '/altremappe',
           '/eventi',
           '/formazione',
           '/hwallet',
@@ -39,17 +38,18 @@ export default defineNuxtConfig({
           '/libriamazon',
           '/meetups',
           '/podcast',
-          '/prezzi',
+          '/podcastarchivio',
           '/psp',
+          '/regioni',
           '/shop',
           '/wallet',
         ],
       },
       index: [
         { sitemap: 'https://bitcoinitalianetwork.com/sitemap_osn.xml' },
+        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_ost.xml' },
         { sitemap: 'https://bitcoinitalianetwork.com/sitemap_l.xml' },
         { sitemap: 'https://bitcoinitalianetwork.com/sitemap_c.xml' },
-        { sitemap: 'https://bitcoinitalianetwork.com/sitemap_ost.xml' }
       ]
     }
   },

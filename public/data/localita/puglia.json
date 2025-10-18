@@ -3,6 +3,7 @@
     "name": "Puglia",
     "lng": 41.12559562,
     "lat": 16.86737016,
+    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -897,12 +898,16 @@
             "id": 9767657581,
             "lat": 40.9669067,
             "lon": 16.9243681,
-            "timestamp": "2024-01-01T14:24:48Z",
-            "version": 3,
-            "changeset": 145763829,
-            "user": "Ale_Zena_IT",
-            "uid": 22290,
+            "timestamp": "2025-10-17T18:43:15Z",
+            "version": 4,
+            "changeset": 173424106,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Casamassima",
+                "addr:housenumber": "2",
+                "addr:postcode": "70010",
+                "addr:street": "Via Noicattaro",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -1143,12 +1148,16 @@
             "id": 10706888604,
             "lat": 40.8959974,
             "lon": 16.843459,
-            "timestamp": "2024-12-23T12:16:40Z",
-            "version": 3,
-            "changeset": 160535957,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-17T18:16:42Z",
+            "version": 4,
+            "changeset": 173423261,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Acquaviva delle Fonti",
+                "addr:housenumber": "5/6/7",
+                "addr:postcode": "70021",
+                "addr:street": "Piazza Vittorio Emanuele",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -1502,6 +1511,23 @@
         },
         {
             "type": "node",
+            "id": 11428941282,
+            "lat": 40.8793902,
+            "lon": 17.1676585,
+            "timestamp": "2023-12-18T13:29:01Z",
+            "version": 1,
+            "changeset": 145251576,
+            "user": "Ilario De Michele",
+            "uid": 20164968,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 11455302986,
             "lat": 41.1122902,
             "lon": 16.6921325,
@@ -1818,6 +1844,31 @@
                 "survey:date": "2024-03-21",
                 "website": "https://www.art-and-more.it/",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11833907099,
+            "lat": 41.1197063,
+            "lon": 16.868439,
+            "timestamp": "2024-06-19T10:34:54Z",
+            "version": 3,
+            "changeset": 152889303,
+            "user": "Alexis04132",
+            "uid": 20509407,
+            "tags": {
+                "addr:city": "Bari",
+                "addr:housenumber": "16",
+                "addr:postcode": "70122",
+                "addr:street": "Via Scipione Crisanzio",
+                "branch": "Point",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "email": "libreria@monbook.it",
+                "name": "Mondadori",
+                "phone": "+39 0805212142",
+                "shop": "books",
+                "website": "https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Point-Bari/37822/"
             }
         },
         {
@@ -2197,6 +2248,24 @@
                 "clothes": "underwear",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12549038065,
+            "lat": 41.2749429,
+            "lon": 16.4228101,
+            "timestamp": "2025-02-01T13:41:34Z",
+            "version": 1,
+            "changeset": 162011250,
+            "user": "Caramell",
+            "uid": 21836575,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-02-01",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

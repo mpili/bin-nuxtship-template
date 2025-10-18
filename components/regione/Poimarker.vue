@@ -8,9 +8,11 @@ defineProps(["poi"]);
     	:color="'green'"
 	>
 		<LPopup v-if="poi.tags">
-			<NuxtLink :to="`/provincia/${poi.id}`">
+			<RegioneProvincialink :tags="poi.tags">
 				Provincia di {{useTagsnameit(poi.tags)}}
-			</NuxtLink>
+			</RegioneProvincialink>
+			<!-- <NuxtLink :to="`/provincia/${poi.id}`">
+			</NuxtLink> -->
 		</LPopup>
 	</LCircle>
 </template>

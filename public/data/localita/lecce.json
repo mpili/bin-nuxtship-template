@@ -3,6 +3,7 @@
     "name": "Lecce",
     "lng": 40.354948,
     "lat": 18.174879,
+    "idcomune": 40442.0,
     "poi": [
         {
             "type": "node",
@@ -839,6 +840,24 @@
         },
         {
             "type": "node",
+            "id": 6088270485,
+            "lat": 40.6378241,
+            "lon": 17.9467305,
+            "timestamp": "2022-07-02T20:00:03Z",
+            "version": 2,
+            "changeset": 123131838,
+            "user": "Linfindel",
+            "uid": 12507004,
+            "tags": {
+                "branch": "bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 6341799788,
             "lat": 40.3756441,
             "lon": 18.1397546,
@@ -1197,12 +1216,15 @@
             "id": 8365490751,
             "lat": 40.6227173,
             "lon": 17.9171374,
-            "timestamp": "2023-11-26T06:58:15Z",
-            "version": 3,
-            "changeset": 144461296,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-17T19:21:29Z",
+            "version": 4,
+            "changeset": 173425306,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Brindisi",
+                "addr:postcode": "72100",
+                "addr:street": "Viale Caduti di Via Fani",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -1571,6 +1593,25 @@
                 "toilets:access": "customers",
                 "toilets:wheelchair": "yes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11200126315,
+            "lat": 39.9299149,
+            "lon": 18.3601331,
+            "timestamp": "2024-05-02T10:07:49Z",
+            "version": 2,
+            "changeset": 150785975,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "13",
+                "addr:street": "Via Stella d'Italia",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

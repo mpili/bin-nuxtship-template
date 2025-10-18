@@ -3,6 +3,7 @@
     "name": "Bosa",
     "lng": 40.29857,
     "lat": 8.49247,
+    "idcomune": 40405.0,
     "poi": [
         {
             "type": "node",
@@ -397,6 +398,28 @@
         },
         {
             "type": "node",
+            "id": 3275219194,
+            "lat": 39.9017275,
+            "lon": 8.5918872,
+            "timestamp": "2020-09-24T19:28:40Z",
+            "version": 4,
+            "changeset": 91463474,
+            "user": "francians",
+            "uid": 9006927,
+            "tags": {
+                "addr:city": "Oristano",
+                "addr:housenumber": "19",
+                "addr:postcode": "09170",
+                "addr:street": "Piazza Giuseppe Manno",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 3275220565,
             "lat": 39.906483,
             "lon": 8.5910649,
@@ -732,6 +755,28 @@
                 "name": "Intimissimi",
                 "operator": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8118353738,
+            "lat": 40.7269293,
+            "lon": 8.5622452,
+            "timestamp": "2020-11-14T11:34:17Z",
+            "version": 1,
+            "changeset": 94102657,
+            "user": "Molko",
+            "uid": 251688,
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "17",
+                "addr:postcode": "07100",
+                "addr:street": "Largo Felice Cavallotti",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

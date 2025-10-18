@@ -3,6 +3,7 @@
     "name": "Malta",
     "lng": 35.886192,
     "lat": 14.4508814,
+    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -788,11 +789,11 @@
             "id": 13190155371,
             "lat": 35.9503895,
             "lon": 14.4120463,
-            "timestamp": "2025-10-17T06:43:18Z",
-            "version": 8,
-            "changeset": 173394616,
-            "user": "Gemini Bar",
-            "uid": 23356985,
+            "timestamp": "2025-10-17T19:46:01Z",
+            "version": 9,
+            "changeset": 173426149,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Bugibba",
                 "addr:postcode": "SPB 2575",
@@ -815,7 +816,6 @@
                 "outdoor_seating": "yes",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
-                "payment:cryptocurrencies": "yes",
                 "payment:debit_cards": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",

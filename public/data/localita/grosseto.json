@@ -3,6 +3,7 @@
     "name": "Grosseto",
     "lng": 42.7402,
     "lat": 11.0555,
+    "idcomune": 42153.0,
     "poi": [
         {
             "type": "node",
@@ -373,6 +374,31 @@
         },
         {
             "type": "node",
+            "id": 4209783329,
+            "lat": 42.9230292,
+            "lon": 10.7575052,
+            "timestamp": "2024-05-24T13:28:39Z",
+            "version": 5,
+            "changeset": 151770125,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "4a",
+                "addr:postcode": "58022",
+                "addr:street": "Via Cristoforo Colombo",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "entrance": "yes",
+                "name": "Mondadori",
+                "opening_hours": "Tu-Su 09:00-13:00,16:00-20:00; Mo,PH off",
+                "phone": "+39 0566 44449",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 4370466793,
             "lat": 42.7450701,
             "lon": 11.1161623,
@@ -558,6 +584,32 @@
                 "entrance": "yes",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6493249750,
+            "lat": 42.922179,
+            "lon": 10.7583849,
+            "timestamp": "2023-07-18T11:47:16Z",
+            "version": 6,
+            "changeset": 138665365,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Follonica",
+                "addr:country": "IT",
+                "addr:housenumber": "57",
+                "addr:postcode": "58022",
+                "addr:street": "Via Roma",
+                "branch": "Bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "entrance": "yes",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-13:30,16:00-20:00; PH off",
+                "phone": "+39 0566 464755",
+                "shop": "books"
             }
         },
         {
@@ -1029,6 +1081,37 @@
                 "phone": "+393282634164",
                 "shop": "clothes",
                 "short_name": "Benetton",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12833969941,
+            "lat": 42.7604935,
+            "lon": 11.1133736,
+            "timestamp": "2025-05-13T17:25:55Z",
+            "version": 3,
+            "changeset": 166214989,
+            "user": "frasty",
+            "uid": 549825,
+            "tags": {
+                "addr:city": "Grosseto",
+                "addr:housenumber": "9",
+                "addr:postcode": "58100",
+                "addr:street": "Corso Carducci",
+                "books": "adults;children;comic;textbook",
+                "branch": "Bookstore (libreria)",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Libreria Mondadori",
+                "opening_hours": "Mo-Fr 09:00-19:30; Sat 09:00-13:00, 15:30-20:00; Sun 10:30-12:30, 16:00-19:00; PH off",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39 0564 22329",
+                "shop": "books",
+                "stroller": "yes",
                 "wheelchair": "yes"
             }
         },

@@ -7,7 +7,7 @@
     "idlocalita": "prato",
     "telegram_weburl": "https://web.telegram.org/a/#-1001612667136",
     "telegram_app": "https://t.me/bitcoinpratohub",
-    "telegram_members": 149.0,
+    "telegram_members": 150.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1536,6 +1536,32 @@
         },
         {
             "type": "node",
+            "id": 1463859737,
+            "lat": 43.8426235,
+            "lon": 10.5038242,
+            "timestamp": "2025-09-17T10:15:39Z",
+            "version": 6,
+            "changeset": 172056196,
+            "user": "scai",
+            "uid": 118134,
+            "tags": {
+                "addr:city": "Lucca",
+                "addr:housenumber": "20",
+                "addr:postcode": "55100",
+                "addr:street": "Via Roma",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "check_date": "2025-09-17",
+                "name": "Mondadori",
+                "shop": "books",
+                "toilets": "yes",
+                "wheelchair": "no",
+                "wheelchair:description": "Entrata Via Cenami con campanello assistenza. Entrance Via Cenami with assistance bell."
+            }
+        },
+        {
+            "type": "node",
             "id": 1528817899,
             "lat": 43.8545225,
             "lon": 10.7459761,
@@ -1621,6 +1647,28 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1719823215,
+            "lat": 43.8835204,
+            "lon": 10.7712433,
+            "timestamp": "2025-10-18T17:04:25Z",
+            "version": 4,
+            "changeset": 173459977,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Montecatini Terme",
+                "addr:housenumber": "1b",
+                "addr:postcode": "51016",
+                "addr:street": "Viale Giuseppe Verdi",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2124,28 +2172,6 @@
         },
         {
             "type": "node",
-            "id": 2565632350,
-            "lat": 43.826275,
-            "lon": 11.2123214,
-            "timestamp": "2025-10-17T15:15:42Z",
-            "version": 6,
-            "changeset": 173416139,
-            "user": "mileslovesyou",
-            "uid": 23335174,
-            "tags": {
-                "addr:city": "Firenze",
-                "addr:housenumber": "544",
-                "addr:street": "Via Gramsci",
-                "branch": "SESTO FIORENTINO",
-                "brand": "Esselunga",
-                "brand:wikidata": "Q1059636",
-                "name": "Esselunga",
-                "operator": "Esselunga",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 2575758955,
             "lat": 43.7910313,
             "lon": 10.709964,
@@ -2206,11 +2232,11 @@
         {
             "type": "node",
             "id": 2584338897,
-            "lat": 43.8264994,
-            "lon": 11.2128428,
-            "timestamp": "2025-10-17T15:15:42Z",
-            "version": 3,
-            "changeset": 173416139,
+            "lat": 43.826537,
+            "lon": 11.2127676,
+            "timestamp": "2025-10-17T17:53:10Z",
+            "version": 4,
+            "changeset": 173422451,
             "user": "mileslovesyou",
             "uid": 23335174,
             "tags": {
@@ -3760,12 +3786,16 @@
             "id": 5801140565,
             "lat": 43.7843772,
             "lon": 11.2727771,
-            "timestamp": "2023-09-10T18:22:19Z",
-            "version": 3,
-            "changeset": 141076184,
-            "user": "Martin Ligabue",
-            "uid": 8305310,
+            "timestamp": "2025-10-17T19:38:43Z",
+            "version": 4,
+            "changeset": 173425883,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Firenze",
+                "addr:housenumber": "140",
+                "addr:postcode": "50131",
+                "addr:street": "Viale dei Mille",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -3812,6 +3842,24 @@
                 "name": "Tezenis",
                 "shop": "clothes",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5809044476,
+            "lat": 43.6175329,
+            "lon": 11.4728389,
+            "timestamp": "2021-08-18T08:40:56Z",
+            "version": 2,
+            "changeset": 109858554,
+            "user": "SimoGine",
+            "uid": 11449631,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -4272,12 +4320,16 @@
             "id": 7483053532,
             "lat": 43.7706138,
             "lon": 11.272417,
-            "timestamp": "2021-04-03T07:13:06Z",
-            "version": 2,
-            "changeset": 102224668,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-10-17T19:27:01Z",
+            "version": 3,
+            "changeset": 173425483,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Firenze",
+                "addr:housenumber": "158/160r",
+                "addr:postcode": "50121",
+                "addr:street": "Via Vincenzo Gioberti",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
@@ -4408,12 +4460,15 @@
             "id": 8365269756,
             "lat": 43.618808,
             "lon": 11.1876905,
-            "timestamp": "2022-10-31T20:20:57Z",
-            "version": 4,
-            "changeset": 128315718,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-10-17T21:48:14Z",
+            "version": 5,
+            "changeset": 173429467,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "San Casciano in Val di Pesa",
+                "addr:postcode": "50026",
+                "addr:street": "Raccordo Autostradale 3 Siena-Firenze",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -5098,12 +5153,16 @@
             "id": 10751080377,
             "lat": 43.7240028,
             "lon": 10.8006799,
-            "timestamp": "2023-10-13T11:35:08Z",
-            "version": 2,
-            "changeset": 142519967,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-17T18:15:44Z",
+            "version": 3,
+            "changeset": 173423229,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Fucecchio",
+                "addr:housenumber": "7",
+                "addr:postcode": "50054",
+                "addr:street": "Via di Fucecchiello",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -5273,6 +5332,37 @@
                 "shop": "supermarket",
                 "toilets:wheelchair": "yes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10804728977,
+            "lat": 43.7754646,
+            "lon": 11.2552211,
+            "timestamp": "2024-07-14T15:06:08Z",
+            "version": 2,
+            "changeset": 153934577,
+            "user": "BlauMapleSyrup",
+            "uid": 14874890,
+            "tags": {
+                "addr:city": "Firenze",
+                "addr:country": "IT",
+                "addr:housenumber": "19 rosso",
+                "addr:postcode": "50123",
+                "addr:street": "Via dei Ginori",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2024-07-14",
+                "email": "libreria.firenzeginori@mondadori.it",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 10:30-19:00; Su 15:00-19:00",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 055 2647773",
+                "shop": "books",
+                "source": "Comune di Firenze",
+                "website": "https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-firenze-Ginori/16442/",
+                "wheelchair": "limited"
             }
         },
         {
@@ -6671,6 +6761,23 @@
                 "brand:wikidata": "Q27897515",
                 "name": "Chicco",
                 "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13109368903,
+            "lat": 43.6637458,
+            "lon": 10.6366325,
+            "timestamp": "2025-10-13T18:45:08Z",
+            "version": 3,
+            "changeset": 173242952,
+            "user": "ElectrosphereX",
+            "uid": 21336399,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -8846,6 +8953,40 @@
                 "payment:visa_electron": "yes",
                 "phone": "+39 055 301245",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1442875593,
+            "timestamp": "2025-10-17T18:10:16Z",
+            "version": 2,
+            "changeset": 173423013,
+            "user": "mileslovesyou",
+            "uid": 23335174,
+            "nodes": [
+                13239487214,
+                13239487304,
+                13239487402,
+                13239480107,
+                13239487702,
+                13239487305,
+                13239487703,
+                13239487208,
+                13239487209,
+                13239487306,
+                13239487214
+            ],
+            "tags": {
+                "addr:city": "Firenze",
+                "addr:housenumber": "544",
+                "addr:street": "Via Gramsci",
+                "branch": "SESTO FIORENTINO",
+                "brand": "Esselunga",
+                "brand:wikidata": "Q1059636",
+                "level": "0",
+                "name": "Esselunga",
+                "operator": "Esselunga",
+                "shop": "supermarket"
             }
         }
     ],

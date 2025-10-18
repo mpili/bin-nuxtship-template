@@ -2045,6 +2045,27 @@
         },
         {
             "type": "node",
+            "id": 4291465969,
+            "lat": 44.4050412,
+            "lon": 8.94363,
+            "timestamp": "2025-09-12T15:36:58Z",
+            "version": 5,
+            "changeset": 171838256,
+            "user": "Superchilum",
+            "uid": 4903102,
+            "tags": {
+                "addr:housenumber": "27 rosso",
+                "addr:street": "Via Venti Settembre",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "check_date": "2025-09-12",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 4556554517,
             "lat": 44.2749126,
             "lon": 9.3985485,
@@ -2292,13 +2313,15 @@
             "id": 5139913596,
             "lat": 44.4092671,
             "lon": 8.9317474,
-            "timestamp": "2025-10-02T16:30:54Z",
-            "version": 7,
-            "changeset": 172756645,
-            "user": "Superchilum",
-            "uid": 4903102,
+            "timestamp": "2025-10-17T19:44:43Z",
+            "version": 8,
+            "changeset": 173426104,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Genova",
                 "addr:housenumber": "75",
+                "addr:postcode": "16123",
                 "addr:street": "Via di Soziglia",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
@@ -3121,6 +3144,24 @@
         },
         {
             "type": "node",
+            "id": 9757907695,
+            "lat": 44.408653,
+            "lon": 8.954374,
+            "timestamp": "2023-06-11T17:29:36Z",
+            "version": 3,
+            "changeset": 137213602,
+            "user": "Som",
+            "uid": 80203,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 9757907698,
             "lat": 44.4094568,
             "lon": 8.9545155,
@@ -3350,12 +3391,16 @@
             "id": 10237934264,
             "lat": 44.3147021,
             "lon": 9.3295301,
-            "timestamp": "2025-02-05T11:14:20Z",
-            "version": 2,
-            "changeset": 162160811,
-            "user": "damianeue",
-            "uid": 10124288,
+            "timestamp": "2025-10-17T18:25:52Z",
+            "version": 3,
+            "changeset": 173423604,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Chiavari",
+                "addr:housenumber": "17",
+                "addr:postcode": "16043",
+                "addr:street": "Piazza Roma",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -3582,6 +3627,26 @@
                 "phone": "+39 333 247 1926",
                 "shop": "cosmetics",
                 "website": "https://www.bagnisliguria.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11009726518,
+            "lat": 44.2708548,
+            "lon": 9.3952611,
+            "timestamp": "2025-07-31T16:02:46Z",
+            "version": 2,
+            "changeset": 169778210,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:housenumber": "71",
+                "addr:street": "Via XXV Aprile 1945",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-07-31",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -4026,6 +4091,24 @@
                 "check_date": "2025-08-02",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13042745082,
+            "lat": 44.3492382,
+            "lon": 9.2315081,
+            "timestamp": "2025-08-02T10:10:51Z",
+            "version": 1,
+            "changeset": 169855421,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-08-02",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

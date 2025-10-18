@@ -3,6 +3,7 @@
     "name": "Monfalcone",
     "lng": 45.8050923,
     "lat": 13.5329932,
+    "idcomune": 179271.0,
     "poi": [
         {
             "type": "node",
@@ -1628,6 +1629,41 @@
         },
         {
             "type": "node",
+            "id": 4958779928,
+            "lat": 45.6681763,
+            "lon": 13.1069465,
+            "timestamp": "2025-10-18T00:40:33Z",
+            "version": 9,
+            "changeset": 173431714,
+            "user": "Latisana992",
+            "uid": 4179361,
+            "tags": {
+                "addr:city": "Lignano Sabbiadoro",
+                "addr:housenumber": "1",
+                "addr:postcode": "33054",
+                "addr:street": "Arco della Tartana",
+                "addr:suburb": "Lignano Pineta",
+                "air_conditioning": "yes",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "changing_table": "no",
+                "check_date": "2024-08-07",
+                "currency:EUR": "yes",
+                "internet_access": "no",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Su 08:00-23:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "seasonal": "summer",
+                "shop": "supermarket",
+                "source": "local knowledge",
+                "stroller": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5074901393,
             "lat": 45.6362595,
             "lon": 13.0587173,
@@ -1976,11 +2012,11 @@
             "id": 6149774432,
             "lat": 46.0619273,
             "lon": 13.2308742,
-            "timestamp": "2025-10-01T15:17:39Z",
-            "version": 3,
-            "changeset": 172711695,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-18T17:06:50Z",
+            "version": 4,
+            "changeset": 173459943,
+            "user": "Gabriele Dri",
+            "uid": 3821761,
             "tags": {
                 "addr:city": "Udine",
                 "addr:housenumber": "68",
@@ -1990,6 +2026,7 @@
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "en:Spar (retailer)",
                 "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-20:00",
                 "shop": "supermarket"
             }
         },
@@ -2160,6 +2197,25 @@
                 "name": "PittaRosso",
                 "name:en": "PittaRosso",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6810005048,
+            "lat": 46.0850603,
+            "lon": 13.183618,
+            "timestamp": "2024-04-25T22:14:33Z",
+            "version": 2,
+            "changeset": 150515809,
+            "user": "Gabriele Dri",
+            "uid": 3821761,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "level": "0",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -2860,12 +2916,15 @@
             "id": 9277788159,
             "lat": 46.0941659,
             "lon": 13.2346105,
-            "timestamp": "2023-10-13T05:52:18Z",
-            "version": 4,
-            "changeset": 142505341,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-17T18:49:30Z",
+            "version": 5,
+            "changeset": 173424304,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Udine",
+                "addr:postcode": "33100",
+                "addr:street": "Via Tricesimo",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
@@ -5762,6 +5821,46 @@
         },
         {
             "type": "way",
+            "id": 1189856694,
+            "timestamp": "2025-10-18T00:40:33Z",
+            "version": 6,
+            "changeset": 173431714,
+            "user": "Latisana992",
+            "uid": 4179361,
+            "nodes": [
+                11048055576,
+                11048055574,
+                11048262388,
+                11048055581,
+                11048055584,
+                11048055579,
+                11048055578,
+                11048055573,
+                11048055577,
+                11048055582,
+                11048055575,
+                11048055576
+            ],
+            "tags": {
+                "addr:city": "Bibione",
+                "addr:housenumber": "33",
+                "addr:postcode": "30020",
+                "addr:province": "Venezia",
+                "addr:street": "Via Orsa Maggiore",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "supermarket",
+                "contact:phone": "+39 390 431 4373",
+                "contact:website": "https://www.despar.it/it/punto-vendita-eurospar/920/san-michele-al-tagliamento/",
+                "level": "0",
+                "name": "Eurospar",
+                "opening_hours": "Nov-Apr: Mo-Sa 08:00-19:30; Nov-Apr: Su 08:00-13:00; May-Oct: Mo-Su 07:30-21:00",
+                "shop": "supermarket",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "way",
             "id": 1343780968,
             "timestamp": "2024-12-19T14:02:00Z",
             "version": 1,
@@ -5818,6 +5917,56 @@
                 "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:00-14:00; Su off",
                 "operator": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1396232335,
+            "timestamp": "2025-10-18T00:40:33Z",
+            "version": 6,
+            "changeset": 173431714,
+            "user": "Latisana992",
+            "uid": 4179361,
+            "nodes": [
+                426681763,
+                12923327055,
+                426681767,
+                426681769,
+                9995495829,
+                9995495835,
+                426681756,
+                426681757,
+                426681759,
+                426681762,
+                426681763
+            ],
+            "tags": {
+                "addr:housenumber": "10",
+                "addr:street": "Via Tirrenia",
+                "air_conditioning": "yes",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "changing_table": "no",
+                "check_date": "2025-09-27",
+                "check_date:diet:gluten_free": "2025-06-16",
+                "check_date:opening_hours": "2025-09-27",
+                "currency:EUR": "yes",
+                "diet:gluten_free": "yes",
+                "internet_access": "no",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1A0",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "organic": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:qr_code": "no",
+                "phone": "+39 390 431 7057",
+                "second_hand": "no",
+                "shop": "supermarket",
+                "stroller": "yes",
+                "website": "https://www.despar.it/",
+                "wheelchair": "designated"
             }
         },
         {
@@ -6028,6 +6177,48 @@
                 "name": "Calzedonia",
                 "ref": "7",
                 "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766320,
+            "timestamp": "2024-01-02T12:43:43Z",
+            "version": 2,
+            "changeset": 145796516,
+            "user": "wvdp",
+            "uid": 436419,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940460,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940459,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940511,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940535,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "branch": "Book Store",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "indoor": "room",
+                "level": "0",
+                "name": "Mondadori",
+                "ref": "42",
+                "shop": "books",
                 "type": "multipolygon"
             }
         },

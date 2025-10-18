@@ -1815,6 +1815,29 @@
         },
         {
             "type": "node",
+            "id": 722546938,
+            "lat": 43.8674977,
+            "lon": 10.2428743,
+            "timestamp": "2025-10-18T16:59:52Z",
+            "version": 5,
+            "changeset": 173459827,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Viareggio",
+                "addr:housenumber": "30",
+                "addr:postcode": "55049",
+                "addr:street": "Viale Regina Margherita",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "check_date": "2023-04-12",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 732121997,
             "lat": 44.0390518,
             "lon": 10.9495505,
@@ -1949,6 +1972,32 @@
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-city-via-enea-colzi-13-17-51031-agliana--008148",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1463859737,
+            "lat": 43.8426235,
+            "lon": 10.5038242,
+            "timestamp": "2025-09-17T10:15:39Z",
+            "version": 6,
+            "changeset": 172056196,
+            "user": "scai",
+            "uid": 118134,
+            "tags": {
+                "addr:city": "Lucca",
+                "addr:housenumber": "20",
+                "addr:postcode": "55100",
+                "addr:street": "Via Roma",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "check_date": "2025-09-17",
+                "name": "Mondadori",
+                "shop": "books",
+                "toilets": "yes",
+                "wheelchair": "no",
+                "wheelchair:description": "Entrata Via Cenami con campanello assistenza. Entrance Via Cenami with assistance bell."
             }
         },
         {
@@ -2175,6 +2224,24 @@
                 "shop": "supermarket",
                 "source": "http://www.esselunga.it/cms/negozi/ricerca-negozi.ISA.html",
                 "website": "https://www.esselunga.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1719823215,
+            "lat": 43.8835204,
+            "lon": 10.7712433,
+            "timestamp": "2024-04-30T17:40:05Z",
+            "version": 3,
+            "changeset": 150720036,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
+                "wheelchair": "yes"
             }
         },
         {
@@ -4147,6 +4214,24 @@
         },
         {
             "type": "node",
+            "id": 4341016990,
+            "lat": 43.9592459,
+            "lon": 10.2291201,
+            "timestamp": "2024-08-26T10:41:15Z",
+            "version": 3,
+            "changeset": 155775306,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2023-09-17",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 4346545014,
             "lat": 43.5499642,
             "lon": 10.3072559,
@@ -4431,6 +4516,24 @@
         },
         {
             "type": "node",
+            "id": 4838099639,
+            "lat": 44.0392677,
+            "lon": 10.038113,
+            "timestamp": "2025-09-15T10:26:47Z",
+            "version": 2,
+            "changeset": 171957738,
+            "user": "notmyproblem1",
+            "uid": 22242779,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "mapillary": "756697420290050",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 4845725084,
             "lat": 44.0386993,
             "lon": 10.0389703,
@@ -4503,6 +4606,31 @@
                 "phone": "+39 0585 779618",
                 "ref:anncsu": "3300",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4934403313,
+            "lat": 44.0779991,
+            "lon": 10.0992596,
+            "timestamp": "2024-09-27T09:59:41Z",
+            "version": 7,
+            "changeset": 157163110,
+            "user": "adster546",
+            "uid": 18624923,
+            "tags": {
+                "addr:city": "Carrara",
+                "addr:country": "IT",
+                "addr:housenumber": "1a",
+                "addr:postcode": "54033",
+                "addr:province": "Massa-Carrara",
+                "addr:street": "Via Roma",
+                "branch": "bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "ref:anncsu": "4510",
+                "shop": "books"
             }
         },
         {
@@ -5284,6 +5412,26 @@
         },
         {
             "type": "node",
+            "id": 8857741108,
+            "lat": 43.5498661,
+            "lon": 10.3069754,
+            "timestamp": "2024-08-22T12:29:54Z",
+            "version": 5,
+            "changeset": 155603490,
+            "user": "MarcoR",
+            "uid": 175882,
+            "tags": {
+                "addr:housenumber": "197",
+                "addr:street": "Via Grande",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori store",
+                "old_name": "Exc\u00e9lsa",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 8857741110,
             "lat": 43.5499956,
             "lon": 10.3073456,
@@ -5989,12 +6137,16 @@
             "id": 10751080377,
             "lat": 43.7240028,
             "lon": 10.8006799,
-            "timestamp": "2023-10-13T11:35:08Z",
-            "version": 2,
-            "changeset": 142519967,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-17T18:15:44Z",
+            "version": 3,
+            "changeset": 173423229,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Fucecchio",
+                "addr:housenumber": "7",
+                "addr:postcode": "50054",
+                "addr:street": "Via di Fucecchiello",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
@@ -7030,6 +7182,23 @@
                 "brand:wikidata": "Q1634762",
                 "name": "Svolta Q8",
                 "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13109368903,
+            "lat": 43.6637458,
+            "lon": 10.6366325,
+            "timestamp": "2025-10-13T18:45:08Z",
+            "version": 3,
+            "changeset": 173242952,
+            "user": "ElectrosphereX",
+            "uid": 21336399,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

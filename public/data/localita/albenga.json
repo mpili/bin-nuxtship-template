@@ -3,6 +3,7 @@
     "name": "Albenga",
     "lng": 44.049114,
     "lat": 8.213017,
+    "idcomune": 42816.0,
     "poi": [
         {
             "type": "node",
@@ -672,6 +673,32 @@
                 "operator": "Trony",
                 "shop": "electronics",
                 "website": "https://www.trony.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3319637388,
+            "lat": 43.8892827,
+            "lon": 8.0411049,
+            "timestamp": "2024-01-29T17:20:26Z",
+            "version": 7,
+            "changeset": 146831046,
+            "user": "LucianoC63",
+            "uid": 20673751,
+            "tags": {
+                "addr:city": "Imperia",
+                "addr:housenumber": "42",
+                "addr:postcode": "18100",
+                "addr:street": "Via Silvio Bonfante",
+                "branch": "Bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "contact:email": "librialmare.imperia@gmail.com",
+                "contact:phone": "+39 0183 449902",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00,15:30-19:30",
+                "operator": "Nadia Schiavini",
+                "shop": "books"
             }
         },
         {
@@ -2275,6 +2302,29 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13144323127,
+            "lat": 44.048059,
+            "lon": 8.2156852,
+            "timestamp": "2025-09-30T17:40:55Z",
+            "version": 3,
+            "changeset": 172672066,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "addr:floor": "EG",
+                "addr:housenumber": "12",
+                "addr:street": "Viale Martiri della Libert\u00e0",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-09-15",
+                "level": "0",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:00-12:30,15:30-19:30; Su 10:00-12:30,15:30-19:00",
+                "shop": "books"
             }
         },
         {

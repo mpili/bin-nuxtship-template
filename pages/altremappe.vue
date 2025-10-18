@@ -14,6 +14,15 @@ const mappe = [
     tags: ["openstreetmap"],
   },
   {
+    nome: "Pagine Arancio",
+    titololink: "paginearancio.it",
+    url: "https://paginearancio.it/",
+    img: "/img/dove/paginearancio1000x420.png",
+    descrizione:
+      "La directory italiana delle attività che accettano Bitcoin",
+    tags: ["btcmap"],
+  },
+  {
     nome: "Coinmap it",
     titololink: "coinmap.it",
     url: "https://coinmap.it/",

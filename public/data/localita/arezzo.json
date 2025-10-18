@@ -3,6 +3,7 @@
     "name": "Arezzo",
     "lng": 43.4632928,
     "lat": 11.8800925,
+    "idcomune": 42414.0,
     "poi": [
         {
             "type": "node",
@@ -532,6 +533,31 @@
         },
         {
             "type": "node",
+            "id": 1962273529,
+            "lat": 43.4619709,
+            "lon": 11.8794648,
+            "timestamp": "2023-06-22T13:03:35Z",
+            "version": 5,
+            "changeset": 137647080,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:country": "IT",
+                "addr:housenumber": "193",
+                "addr:postcode": "52100",
+                "addr:street": "Corso Italia",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "entrance": "yes",
+                "name": "Mondadori",
+                "shop": "books",
+                "source": "survey",
+                "survey:date": "2012-10-11"
+            }
+        },
+        {
+            "type": "node",
             "id": 1962273539,
             "lat": 43.4614836,
             "lon": 11.8787694,
@@ -894,6 +920,24 @@
         },
         {
             "type": "node",
+            "id": 5809044476,
+            "lat": 43.6175329,
+            "lon": 11.4728389,
+            "timestamp": "2021-08-18T08:40:56Z",
+            "version": 2,
+            "changeset": 109858554,
+            "user": "SimoGine",
+            "uid": 11449631,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 5864236231,
             "lat": 43.5585411,
             "lon": 11.5362088,
@@ -960,6 +1004,24 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6764273724,
+            "lat": 43.4625207,
+            "lon": 11.8790698,
+            "timestamp": "2023-09-11T13:02:48Z",
+            "version": 3,
+            "changeset": 141112212,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "opening_hours": "Mo-Sa 09:15-19:10; Su 15:00-19:00",
+                "shop": "books"
             }
         },
         {
