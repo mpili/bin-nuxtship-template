@@ -3,7 +3,6 @@
     "name": "Puglia",
     "lng": 41.12559562,
     "lat": 16.86737016,
-    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -48,25 +47,6 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1460038011,
-            "lat": 41.123557,
-            "lon": 16.833601,
-            "timestamp": "2023-10-26T19:36:38Z",
-            "version": 3,
-            "changeset": 143178117,
-            "user": "MapSpot",
-            "uid": 10183030,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Bluebell S.R.L.",
-                "ref:mise": "39928"
             }
         },
         {
@@ -593,12 +573,15 @@
             "id": 5851837746,
             "lat": 40.8544552,
             "lon": 17.1146233,
-            "timestamp": "2023-01-29T00:29:31Z",
-            "version": 2,
-            "changeset": 131826463,
-            "user": "ivanbranco",
-            "uid": 11220113,
+            "timestamp": "2025-10-18T22:00:07Z",
+            "version": 3,
+            "changeset": 173469072,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Putignano",
+                "addr:postcode": "70017",
+                "addr:street": "Via Turi",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",

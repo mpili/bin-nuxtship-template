@@ -3,7 +3,7 @@
     "name": "Mantova",
     "lng": 45.15726772,
     "lat": 10.79277363,
-    "idcomune": 44232.0,
+    "idcomune": 44232,
     "poi": [
         {
             "type": "node",
@@ -1697,12 +1697,16 @@
             "id": 3446479674,
             "lat": 45.4415271,
             "lon": 10.9960162,
-            "timestamp": "2024-11-09T11:31:17Z",
-            "version": 8,
-            "changeset": 158928944,
-            "user": "giubar",
-            "uid": 416478,
+            "timestamp": "2025-10-20T21:31:04Z",
+            "version": 9,
+            "changeset": 173556878,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Verona",
+                "addr:housenumber": "2",
+                "addr:postcode": "37121",
+                "addr:street": "Via Quattro Spade",
                 "brand": "La Feltrinelli",
                 "brand:wikidata": "Q96311190",
                 "brand:wikipedia": "it:LaFeltrinelli",
@@ -3945,12 +3949,16 @@
             "id": 11900866552,
             "lat": 44.7797315,
             "lon": 10.8597071,
-            "timestamp": "2024-05-13T11:13:40Z",
-            "version": 2,
-            "changeset": 151261833,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-20T21:17:07Z",
+            "version": 3,
+            "changeset": 173556537,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Carpi",
+                "addr:housenumber": "8",
+                "addr:postcode": "41012",
+                "addr:street": "Via dell'Industria",
                 "brand": "Upim",
                 "brand:wikidata": "Q1414836",
                 "name": "Upim",
@@ -4190,6 +4198,25 @@
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:00-20:00",
                 "shop": "optician",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11926043331,
+            "lat": 45.1684935,
+            "lon": 10.8231435,
+            "timestamp": "2025-10-19T22:12:51Z",
+            "version": 3,
+            "changeset": 173512124,
+            "user": "Gabbo",
+            "uid": 521651,
+            "tags": {
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "phone": "+39 0376 1762857",
+                "shop": "cosmetics"
             }
         },
         {
@@ -4613,12 +4640,16 @@
             "id": 12912037843,
             "lat": 45.1585298,
             "lon": 10.7936077,
-            "timestamp": "2025-06-13T06:15:35Z",
-            "version": 1,
-            "changeset": 167560239,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-10-18T17:38:24Z",
+            "version": 2,
+            "changeset": 173461183,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Mantua",
+                "addr:housenumber": "2",
+                "addr:postcode": "46100",
+                "addr:street": "Via Giuseppe Verdi",
                 "brand": "Mondadori",
                 "brand:wikidata": "Q85355",
                 "check_date": "2025-06-13",
@@ -6650,6 +6681,29 @@
                 "phone": "+39 045 4155833",
                 "shop": "shoes",
                 "website": "https://www.footlocker.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1443694854,
+            "timestamp": "2025-10-21T12:34:31Z",
+            "version": 1,
+            "changeset": 173580166,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "nodes": [
+                13074072448,
+                13247763238,
+                13247763239,
+                13247763240,
+                13074072448
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
             }
         },
         {

@@ -3,7 +3,6 @@
     "name": "Friuli",
     "lng": 45.6494354,
     "lat": 13.7681366,
-    "idcomune": NaN,
     "poi": [
         {
             "type": "node",
@@ -893,11 +892,11 @@
             "id": 3652778478,
             "lat": 45.8101544,
             "lon": 13.5240874,
-            "timestamp": "2025-10-17T09:51:22Z",
-            "version": 5,
-            "changeset": 173402007,
-            "user": "BitcoinMonfalcone",
-            "uid": 20605179,
+            "timestamp": "2025-10-20T11:14:42Z",
+            "version": 6,
+            "changeset": 173531082,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Monfalcone",
                 "addr:housenumber": "51",
@@ -915,7 +914,7 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
                 "phone": "+39 481 710 379",
-                "shop": "clothes",
+                "shop": "erotic",
                 "survey:date": "2023-11-29",
                 "website": "https://www.sexyshoplolas.it/"
             }
@@ -1313,6 +1312,26 @@
                 "payment:onchain": "yes",
                 "phone": "0402337190",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5050032079,
+            "lat": 45.817053,
+            "lon": 13.2136673,
+            "timestamp": "2025-10-18T17:56:36Z",
+            "version": 4,
+            "changeset": 173461710,
+            "user": "Latisana992",
+            "uid": 4179361,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Fr 08:30-20:00; Su 08:30-13:00",
+                "phone": "+39 390 431 6217",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/"
             }
         },
         {

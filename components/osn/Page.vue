@@ -2,7 +2,7 @@
 const props = defineProps(["data"]);
 
 useHead({
-  title: props?.data?.tags?.name + " | Bitcoin Italia Network",
+  title: useTagsname(props?.data?.tags) + " | Bitcoin Italia Network",
   link: [
     {
       rel: "canonical",
@@ -10,7 +10,7 @@ useHead({
     },
   ],
   meta: [
-    { property: "og:title", content: props?.data?.tags?.name },
+    { property: "og:title", content: useTagsname(props?.data?.tags) },
     { property: "keywords", content: "bitcoin,merchant" },
     {
       property: "og:image",
@@ -41,7 +41,7 @@ const {
   <div v-if="data">
     <div v-if="data.tags">
       <LandingSectionhead>
-        <template v-slot:title>{{ data?.tags?.name }}</template>
+        <template v-slot:title>{{ useTagsname(data?.tags) }}</template>
         <template v-slot:desc><OsnTipovenue :tags="data?.tags" /></template>
       </LandingSectionhead>
 

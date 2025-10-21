@@ -3,7 +3,7 @@
     "name": "Bosa",
     "lng": 40.29857,
     "lat": 8.49247,
-    "idcomune": 40405.0,
+    "idcomune": 40405,
     "poi": [
         {
             "type": "node",
@@ -962,6 +962,37 @@
                 "payment:onchain": "yes",
                 "phone": "+39 339 286 6198",
                 "website": "https://manahub.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13232816739,
+            "lat": 40.5781202,
+            "lon": 8.3212233,
+            "timestamp": "2025-10-21T07:36:48Z",
+            "version": 4,
+            "changeset": 173568128,
+            "user": "Heart of Sardinia",
+            "uid": 23396275,
+            "tags": {
+                "addr:city": "Alghero",
+                "addr:housenumber": "8",
+                "addr:postcode": "07041",
+                "addr:street": "Via Tiziano Vecellio",
+                "air_conditioning": "yes",
+                "currency:XBT": "yes",
+                "email": "heartofsardinia@outlook.com",
+                "guest_house": "apartment",
+                "internet_access": "wlan",
+                "internet_access:fee": "customers",
+                "name": "Heart of Sardinia",
+                "operator": "Antonio",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "phone": "+44 7488911525",
+                "rooms": "2",
+                "tourism": "guest_house",
+                "website": "https://www.airbnb.it/rooms/865638294258665345?source_impression_id=p3_1760448465_P3vvrcw4RI5s_6jQ"
             }
         },
         {
