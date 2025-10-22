@@ -12,7 +12,7 @@ defineProps(["data"]);
     >
       <MainLTileLayer />
       <LMarker :lat-lng="[data.lat, data.lon]" >
-        <LPopup v-if="data?.tags?.name">{{data.tags.name}}</LPopup>
+        <LPopup>{{useTagsname(data.tags)}}</LPopup>
       </LMarker>
     </LMap>
     

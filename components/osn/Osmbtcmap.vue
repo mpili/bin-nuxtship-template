@@ -3,7 +3,8 @@ const props = defineProps(["data"]);
 </script>
 <template>
   <div class="flex gap-2 py-2">
-    <a
+    <OnwOsm :id="data.id" />
+    <!-- <a
       :href="'https://www.openstreetmap.org/node/' + data.id"
       target="_blank"
       class="text-sm"
@@ -12,7 +13,7 @@ const props = defineProps(["data"]);
         icona="simple-icons:openstreetmap"
         testo="openstreetmap"
       />
-    </a>
+    </a> -->
     <a
       v-if="data.tags['currency:XBT'] === 'yes'"
       :href="'https://btcmap.org/merchant/node:' + data.id"

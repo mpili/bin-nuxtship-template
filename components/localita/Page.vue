@@ -37,12 +37,15 @@ useHead({
     </LandingSectionhead>
     <div class="grid place-items-center pt-4">
       <NuxtImg
-        :src="`/img/l/${data.id}.jpg`"
-        format="webp"
-        class="aspect-square max-h-96 rounded-md"
+      :src="`/img/l/${data.id}.jpg`"
+      format="webp"
+      class="aspect-square max-h-96 rounded-md"
       />
     </div>
-    <LandingBreadcrumb :voci="breadcrumb" />
+    <!-- <LocalitaBreadcrumb v-if="data.idcomune" :idcomune="data.idcomune" /> -->
+    <LocalitaBreadcrumb v-if="data.idcomune" :idcomune="data.idcomune" />
+    <LandingBreadcrumb v-else :voci="breadcrumb" />
+    <!-- <LocalitaLinkcomune v-if="data.idcomune" :idcomune="data.idcomune" /> -->
   </div>
 
   <LocalitaEventi :city="data?.name" />

@@ -27,7 +27,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
           <MainLTileLayer />
 
           <LMarker :lat-lng="[data.elements[0].lat, data.elements[0].lon]">
-              <LPopup v-if="data?.tags?.name">{{ data?.tags?.name }}</LPopup>
+              <LPopup>{{ useTagsname(data?.tags) }}</LPopup>
           </LMarker>
 
           <LPolygon
