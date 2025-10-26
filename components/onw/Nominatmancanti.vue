@@ -2,7 +2,7 @@
 const props = defineProps(["address", "tags"]);
 </script>
 <template>
-    <div v-if="address" class="font-mono">
+    <div v-if="address" class="font-mono p-4 bg-primary text-primary-content">
       <p
         v-if="
           address.postcode &&

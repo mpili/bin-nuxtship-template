@@ -11,12 +11,12 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     <span></span>
   </div>
   <div v-else>
+    <OnwPosizione v-if="data?.address" :address="data.address" :tags="tags" />
+
     <!-- <OnwNominatmancanti v-if="data?.address" :address="data.address" :tags="tags" /> -->
     <!-- <OnwNominatvalori v-if="data?.address" :address="data.address" /> -->
 
     <!-- <div class="font-mono text-xs m-8">{{ url_api }}</div> -->
-
-    <OnwNominatdelta v-if="data?.address" :address="data.address" :tags="tags" />
 
     <!-- <UiRivela title="dati" :description="data" /> -->
   </div>

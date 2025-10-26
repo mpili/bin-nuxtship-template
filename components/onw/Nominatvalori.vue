@@ -2,7 +2,7 @@
 const props = defineProps(["address"]);
 </script>
 <template>
-    <div class="font-mono text-sm m-4">
+    <div class="font-mono text-sm m-4 p-2  bg-neutral text-neutral-content">
       <p v-if="address.house_number">house_number: {{ address.house_number }}</p>
       <p v-if="address.road">road: {{ address.road }}</p>
       <p v-if="address.neighbourhood">neighbourhood: {{ address.neighbourhood }}</p>
