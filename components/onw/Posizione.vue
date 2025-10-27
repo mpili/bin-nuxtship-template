@@ -10,7 +10,7 @@ const props = defineProps(["address", "tags"]);
         address.postcode !== tags['addr:postcode']
       "
     >
-      CAP {{ address.postcode }}
+      <OnwLabelslot label="CAP">{{ address.postcode }}</OnwLabelslot>
     </p>
     <p
       v-if="
@@ -25,7 +25,9 @@ const props = defineProps(["address", "tags"]);
       <OnwLabelslot label="Borgo">{{ address.hamlet }}</OnwLabelslot>
     </p>
     <p v-if="address.village">
-      <OnwLabelslot label="Villaggio">{{ address.village }}</OnwLabelslot>
+      <OnwLabelslot label="Paese/Villaggio">
+        <OnwCittalink :citta="address.village" />
+      </OnwLabelslot>
     </p>
     <p
       v-if="
@@ -37,7 +39,7 @@ const props = defineProps(["address", "tags"]);
       {{ address.house_number }}
     </p>
     <p v-if="address.suburb">
-      <OnwLabelslot label="Sobborgo">{{ address.suburb }}</OnwLabelslot>
+      <OnwLabelslot label="Quartiere">{{ address.suburb }}</OnwLabelslot>
     </p>
 
     <p
@@ -47,7 +49,9 @@ const props = defineProps(["address", "tags"]);
         address.city !== tags['addr:city']
       "
     >
-      Città: {{ address.city }}
+      <OnwLabelslot label="Città">
+        <OnwCittalink :citta="address.city" />
+      </OnwLabelslot>
     </p>
 
     <p
@@ -57,10 +61,14 @@ const props = defineProps(["address", "tags"]);
         address.town !== tags['addr:city']
       "
     >
-      Paese: {{ address.town }}
+      <OnwLabelslot label="Paese">
+        <OnwCittalink :citta="address.town" />
+      </OnwLabelslot>
     </p>
 
-    <p v-if="address.neighbourhood">Vicinato: {{ address.neighbourhood }}</p>
+    <p v-if="address.neighbourhood">
+      <OnwLabelslot label="Vicinato">{{ address.neighbourhood }}</OnwLabelslot>
+    </p>
 
     <div v-if="address.country === 'Italia'">
       <p v-if="address.county">

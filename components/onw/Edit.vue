@@ -1,14 +1,16 @@
 <script setup>
-const props = defineProps(["data","lat","lon"]);
+const props = defineProps(["dataosm","lat","lon","datanomninatim", "tags"]);
+const address = props.datanomninatim?.address;
 </script>
 <template>
-	<OnwNominatim :lat="lat" :lon="lon" :tags="data.tags" />
-	<!-- <NuxtLink
-		:to="`https://www.openstreetmap.org/edit?${data.type}=${data.id}`"
+	<OnwNominatmancanti v-if="address" :address="address" :tags="tags" />
+	<OnwNominatvalori v-if="address" :address="address" />
+	<NuxtLink
+		:to="`https://www.openstreetmap.org/edit?${dataosm.type}=${dataosm.id}`"
 		class="text-sm text-blue-600 hover:underline"
 		target="_blank"
 		rel="noopener noreferrer">
 		<button class="btn">OsnMap</button>
-	</NuxtLink> -->
-	<!-- <OsnXmaps :data="data" :pending="pending" :dbdata="dbdata" /> -->
+	</NuxtLink>
+	<OsnXmaps :data="dataosm" :pending="pending" :dbdata="dbdata" />
 </template>
