@@ -1,5 +1,7 @@
 <script setup>
 const props = defineProps(["tags"]);
+const city = useAddrcity(props.tags);
+const comuneid = useComuneid(city);
 </script>
 <template>
   <OnwDove titolo="Indirizzo">
@@ -45,14 +47,22 @@ const props = defineProps(["tags"]);
     <p v-if="tags['addr:postcode']">
       <OnwLabelslot label="CAP">{{ tags["addr:postcode"] }}</OnwLabelslot>
     </p>
-    <p v-if="tags['addr:town']">addr:town: {{ tags["addr:town"] }}</p>
+    <p v-if="tags['addr:town']">
+      <OnwLabelslot label="Città">{{ tags["addr:town"] }}</OnwLabelslot>
+    </p>
 
-    <div class="font-bold">
+    <!-- <div class="font-bold">
       <p v-if="tags['addr:city:it']">{{ tags["addr:city:it"] }}</p>
-      <p v-else-if="tags['addr:city']">{{ tags["addr:city"] }}</p>
+      <p v-else-if="tags['addr:city']">
+        <ComuneLink :nome="tags['addr:city']" class="text-primary font-bold">
+          {{ tags["addr:city"] }}
+        </ComuneLink>
+      </p>
       <p v-else-if="tags['addr:city:de']">{{ tags["addr:city:de"] }}</p>
       <p v-else-if="tags['addr:city:fr']">{{ tags["addr:city:fr"] }}</p>
-    </div>
+    </div> -->
+
+    <OnwCittalink :citta="city" />
 
     <p v-if="tags['addr:province']">
       <span class="text-info">(</span>{{ tags["addr:province"]

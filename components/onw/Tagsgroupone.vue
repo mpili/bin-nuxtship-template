@@ -3,7 +3,6 @@ const props = defineProps(["data"]);
 </script>
 <template>
 
-  <!-- <OnwNominatim :lat="usePoiLat(data)" :lon="usePoiLon(data)" /> -->
   <p v-if="data?.tags['disused:amenity']" class="text-red-600 font-bold">
     Attività dismessa
   </p>
@@ -11,7 +10,8 @@ const props = defineProps(["data"]);
     Attività dismessa
   </p>
   <OnwPostaladdress :tags="data?.tags" />
-  <OnwEdit :data="data" :lat="usePoiLat(data)" :lon="usePoiLon(data)" />
+  <OnwNominatim :lat="usePoiLat(data)" :lon="usePoiLon(data)" :dataosm="data" />
+  <!-- <OnwEdit :data="data" :lat="usePoiLat(data)" :lon="usePoiLon(data)" /> -->
   
   <OsnTelefoni :tags="data?.tags" />
   <!-- <OsnEventi :idnodosm="data?.id" /> -->
