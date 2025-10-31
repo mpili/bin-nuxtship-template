@@ -12,6 +12,6 @@ const sortedPois = computed(() =>
 </script>
 <template>
 	<div v-for="poi in sortedPois" :key="poi.id">
-		<OsnLinelink :poi="poi" />
+		<OnwLinelink :poi="poi" />
 	</div>
 </template>

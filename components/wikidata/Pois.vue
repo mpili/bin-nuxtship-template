@@ -19,7 +19,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 		<OnwListapoi :datapois="data.elements" />
 		<!-- <div v-for="poi in data.elements">
-			<OsnLinelink :poi="poi" />
+			<OnwLinelink :poi="poi" />
 		</div> -->
 	</div>
 </template>

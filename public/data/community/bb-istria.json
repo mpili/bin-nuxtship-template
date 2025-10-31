@@ -7,7 +7,7 @@
     "idlocalita": "istria",
     "telegram_weburl": "https://web.telegram.org/a/#-1001828207471",
     "telegram_app": "http://t.me/BitcoinIstria",
-    "telegram_members": 13.0,
+    "telegram_members": 14.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -286,11 +286,11 @@
             "id": 1598955966,
             "lat": 45.6501189,
             "lon": 13.7701515,
-            "timestamp": "2025-09-30T11:08:55Z",
-            "version": 4,
-            "changeset": 172655287,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-26T18:19:32Z",
+            "version": 5,
+            "changeset": 173807351,
+            "user": "Aiman",
+            "uid": 67550,
             "tags": {
                 "addr:city": "Trieste",
                 "addr:housenumber": "5",
@@ -301,17 +301,18 @@
                 "brand:wikipedia": "en:Calzedonia",
                 "clothes": "underwear",
                 "name": "Calzedonia",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "limited"
             }
         },
         {
             "type": "node",
             "id": 1620381481,
-            "lat": 45.6503078,
-            "lon": 13.7746452,
-            "timestamp": "2025-10-25T08:17:27Z",
-            "version": 5,
-            "changeset": 173745192,
+            "lat": 45.6502474,
+            "lon": 13.7748534,
+            "timestamp": "2025-10-28T13:26:48Z",
+            "version": 6,
+            "changeset": 173883641,
             "user": "Aiman",
             "uid": 67550,
             "tags": {
@@ -1393,11 +1394,11 @@
             "id": 9105231662,
             "lat": 45.6501754,
             "lon": 13.7703407,
-            "timestamp": "2025-10-04T21:35:25Z",
-            "version": 3,
-            "changeset": 172847486,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-26T18:19:32Z",
+            "version": 4,
+            "changeset": 173807351,
+            "user": "Aiman",
+            "uid": 67550,
             "tags": {
                 "addr:city": "Trieste",
                 "addr:housenumber": "7",
@@ -1408,7 +1409,8 @@
                 "brand:wikipedia": "ru:Tezenis",
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {

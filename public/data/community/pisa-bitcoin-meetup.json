@@ -6347,6 +6347,25 @@
         },
         {
             "type": "node",
+            "id": 13071232654,
+            "lat": 43.844211,
+            "lon": 10.5041194,
+            "timestamp": "2025-10-28T21:52:17Z",
+            "version": 2,
+            "changeset": 173903725,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "check_date": "2025-08-14",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 13109368903,
             "lat": 43.6637458,
             "lon": 10.6366325,
@@ -6738,11 +6757,11 @@
         {
             "type": "way",
             "id": 128221640,
-            "timestamp": "2020-11-11T18:54:28Z",
-            "version": 7,
-            "changeset": 93947128,
-            "user": "SimoGine",
-            "uid": 11449631,
+            "timestamp": "2025-10-26T16:57:52Z",
+            "version": 8,
+            "changeset": 173804259,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 1417452392,
                 1417452408,
@@ -6751,6 +6770,10 @@
                 1417452392
             ],
             "tags": {
+                "addr:city": "Viareggio",
+                "addr:housenumber": "106",
+                "addr:postcode": "55049",
+                "addr:street": "Via Marco Polo",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
