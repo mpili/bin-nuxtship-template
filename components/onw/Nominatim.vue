@@ -20,5 +20,5 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
     <!-- <UiRivela title="dati" :description="data" /> -->
   </div>
-  <MainRivelaerror :error="error" />
+  <!-- <MainRivelaerror :error="error" /> -->
 </template>

@@ -198,6 +198,23 @@
         },
         {
             "type": "node",
+            "id": 1872529976,
+            "lat": 38.082093,
+            "lon": 13.5010173,
+            "timestamp": "2025-10-25T23:05:20Z",
+            "version": 4,
+            "changeset": 173775342,
+            "user": "Carruzzu99",
+            "uid": 23428853,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 1875816155,
             "lat": 38.0900153,
             "lon": 13.5047978,
@@ -217,30 +234,6 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1876030328,
-            "lat": 38.0860017,
-            "lon": 13.505656,
-            "timestamp": "2025-10-05T14:32:39Z",
-            "version": 5,
-            "changeset": 172870492,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Bagheria",
-                "addr:postcode": "90011",
-                "addr:street": "Corso Butera",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Mancino Francesco",
-                "ref:mise": "34702"
             }
         },
         {
@@ -499,6 +492,70 @@
         },
         {
             "type": "node",
+            "id": 4385132188,
+            "lat": 38.0903863,
+            "lon": 13.5131055,
+            "timestamp": "2025-10-29T18:38:30Z",
+            "version": 6,
+            "changeset": 173943704,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "level": "1",
+                "name": "PittaRosso",
+                "phone": "+39 091 900453",
+                "shop": "shoes",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4385133489,
+            "lat": 38.0904517,
+            "lon": 13.5127997,
+            "timestamp": "2025-10-26T15:02:25Z",
+            "version": 7,
+            "changeset": 173798775,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bagheria",
+                "addr:postcode": "90011",
+                "addr:street": "Via Catullo",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "level": "0",
+                "name": "Eurospar",
+                "shop": "supermarket",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4385133490,
+            "lat": 38.0904411,
+            "lon": 13.5131271,
+            "timestamp": "2025-10-25T22:34:26Z",
+            "version": 5,
+            "changeset": 173774685,
+            "user": "Carruzzu99",
+            "uid": 23428853,
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "level": "0",
+                "name": "Expert",
+                "shop": "electronics",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4407844506,
             "lat": 38.1717052,
             "lon": 13.2161802,
@@ -640,6 +697,30 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4917578948,
+            "lat": 38.0889048,
+            "lon": 13.5041152,
+            "timestamp": "2025-10-25T23:26:37Z",
+            "version": 7,
+            "changeset": 173775693,
+            "user": "Carruzzu99",
+            "uid": 23428853,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "ref:mise": "20078",
+                "self_service": "yes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -860,12 +941,16 @@
             "id": 5429712370,
             "lat": 38.1150234,
             "lon": 13.3645299,
-            "timestamp": "2024-02-15T14:02:53Z",
-            "version": 3,
-            "changeset": 147486146,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-26T18:10:59Z",
+            "version": 4,
+            "changeset": 173807083,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "147",
+                "addr:postcode": "90133",
+                "addr:street": "Via Roma",
                 "brand": "PittaRosso",
                 "brand:wikidata": "Q105643314",
                 "name": "PittaRosso",
@@ -2635,12 +2720,17 @@
             "id": 11509272608,
             "lat": 38.1827329,
             "lon": 13.3090405,
-            "timestamp": "2024-01-11T20:36:38Z",
-            "version": 2,
-            "changeset": 146155595,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-26T08:54:46Z",
+            "version": 3,
+            "changeset": 173784048,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "1963",
+                "addr:postcode": "90147",
+                "addr:street": "Viale Cesare Brandi",
+                "addr:suburb": "Zen",
                 "brand": "La Feltrinelli",
                 "brand:wikidata": "Q96311190",
                 "name": "La Feltrinelli",
@@ -3169,6 +3259,38 @@
                 "phone": "+39 333 7800 160",
                 "rooms": "3",
                 "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13273016060,
+            "lat": 38.1228618,
+            "lon": 13.3094714,
+            "timestamp": "2025-10-31T21:01:15Z",
+            "version": 1,
+            "changeset": 174038666,
+            "user": "moophasa",
+            "uid": 23457588,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "80",
+                "addr:postcode": "90135",
+                "addr:street": "Via Roccazzo",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "08:00 - 14:00 / 16:00 - 21:00",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:notes": "yes",
+                "payment:visa": "yes",
+                "phone": "+39091403368",
+                "shop": "supermarket"
             }
         },
         {
@@ -3901,11 +4023,11 @@
         {
             "type": "way",
             "id": 930966486,
-            "timestamp": "2021-04-15T10:18:08Z",
-            "version": 1,
-            "changeset": 102985983,
-            "user": "Robitabu",
-            "uid": 222966,
+            "timestamp": "2025-10-30T21:29:45Z",
+            "version": 2,
+            "changeset": 173996200,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 8631797997,
                 8631798002,
@@ -3916,6 +4038,9 @@
                 8631797997
             ],
             "tags": {
+                "addr:city": "Monreale",
+                "addr:postcode": "90131",
+                "addr:street": "Via Circonvallazione",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -4141,6 +4266,29 @@
                 "brand:wikidata": "Q639075",
                 "building": "yes",
                 "layer": "1",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1444850265,
+            "timestamp": "2025-10-26T08:03:22Z",
+            "version": 1,
+            "changeset": 173782589,
+            "user": "Alt7706",
+            "uid": 20964566,
+            "nodes": [
+                13257253048,
+                13257253049,
+                13257253050,
+                13257253051,
+                13257253048
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
                 "name": "Conad",
                 "shop": "supermarket"
             }

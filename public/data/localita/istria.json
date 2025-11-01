@@ -280,11 +280,11 @@
             "id": 1598955966,
             "lat": 45.6501189,
             "lon": 13.7701515,
-            "timestamp": "2025-09-30T11:08:55Z",
-            "version": 4,
-            "changeset": 172655287,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-26T18:19:32Z",
+            "version": 5,
+            "changeset": 173807351,
+            "user": "Aiman",
+            "uid": 67550,
             "tags": {
                 "addr:city": "Trieste",
                 "addr:housenumber": "5",
@@ -295,17 +295,18 @@
                 "brand:wikipedia": "en:Calzedonia",
                 "clothes": "underwear",
                 "name": "Calzedonia",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "limited"
             }
         },
         {
             "type": "node",
             "id": 1620381481,
-            "lat": 45.6503078,
-            "lon": 13.7746452,
-            "timestamp": "2025-10-25T08:17:27Z",
-            "version": 5,
-            "changeset": 173745192,
+            "lat": 45.6502474,
+            "lon": 13.7748534,
+            "timestamp": "2025-10-28T13:26:48Z",
+            "version": 6,
+            "changeset": 173883641,
             "user": "Aiman",
             "uid": 67550,
             "tags": {
@@ -1387,11 +1388,11 @@
             "id": 9105231662,
             "lat": 45.6501754,
             "lon": 13.7703407,
-            "timestamp": "2025-10-04T21:35:25Z",
-            "version": 3,
-            "changeset": 172847486,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-10-26T18:19:32Z",
+            "version": 4,
+            "changeset": 173807351,
+            "user": "Aiman",
+            "uid": 67550,
             "tags": {
                 "addr:city": "Trieste",
                 "addr:housenumber": "7",
@@ -1402,7 +1403,8 @@
                 "brand:wikipedia": "ru:Tezenis",
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2542,6 +2544,39 @@
                 "name": "Spar",
                 "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 08:00-13:00",
                 "phone": "057570311",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 375831697,
+            "timestamp": "2025-10-30T10:26:01Z",
+            "version": 6,
+            "changeset": 173968344,
+            "user": "Bojan\ud83d\udcf7",
+            "uid": 792910,
+            "nodes": [
+                3791720592,
+                3791720589,
+                3791720584,
+                3791720580,
+                3791720566,
+                3791720574,
+                3791720585,
+                3791720587,
+                3791720592
+            ],
+            "tags": {
+                "addr:city": "Ilirska Bistrica",
+                "addr:housenumber": "18",
+                "addr:postcode": "6250",
+                "addr:street": "Vilharjeva cesta",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Spar",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-20:00, Su 08:00-13:00",
+                "phone": "05 710 08 06",
                 "shop": "supermarket"
             }
         },

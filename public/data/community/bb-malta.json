@@ -7,7 +7,7 @@
     "idlocalita": "malta",
     "telegram_weburl": "https://web.telegram.org/a/#-1001979747988",
     "telegram_app": "https://t.me/bitcoinmaltahub",
-    "telegram_members": 41.0,
+    "telegram_members": 43.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -776,11 +776,11 @@
             "id": 13190155371,
             "lat": 35.9503895,
             "lon": 14.4120463,
-            "timestamp": "2025-10-17T19:46:01Z",
-            "version": 9,
-            "changeset": 173426149,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-10-27T15:22:55Z",
+            "version": 10,
+            "changeset": 173843899,
+            "user": "mapman555",
+            "uid": 22805046,
             "tags": {
                 "addr:city": "Bugibba",
                 "addr:postcode": "SPB 2575",
@@ -795,6 +795,7 @@
                 "contact:facebook": "https://www.facebook.com/Gemini.Bugibba/",
                 "cuisine": "coffee_shop;pub;snackbar",
                 "currency:XBT": "yes",
+                "indoor_seating": "yes",
                 "internet_access": "wlan",
                 "internet_access:fee": "no",
                 "min_age": "0",
