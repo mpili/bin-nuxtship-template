@@ -48,7 +48,7 @@ const groupedPois = computed(() => {
       </div>
       <div class="collapse-content">
         <div v-for="poi in pois" :key="poi.id" class="rounded">
-          <OsnLinelink :poi="poi" />
+          <OnwLinelink :poi="poi" />
         </div>
       </div>
     </div>

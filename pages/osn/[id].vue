@@ -25,10 +25,7 @@ definePageMeta({
 <template>
   <LandingContainer>
     <div v-if="pending">
-      <UiSkeleton />
-      <div class="flex gap-2 py-2">
-        <OnwOsm :id="id" />
-      </div>
+      <OnwPending :id="id" />
     </div>
     <div v-else>
       <OsnPage v-if="data?.elements.length > 0" :data="data?.elements[0]" />

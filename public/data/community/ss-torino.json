@@ -7,7 +7,11 @@
     "idlocalita": "torino",
     "telegram_weburl": "https://web.telegram.org/a/#-1001385365071",
     "telegram_app": "https://t.me/SatoshiSpritzTorino",
+<<<<<<< HEAD
     "telegram_members": 848.0,
+=======
+    "telegram_members": 847.0,
+>>>>>>> origin/main
     "network": "satoshispritz",
     "poi": [
         {
@@ -8547,9 +8551,15 @@
             "id": 13256732599,
             "lat": 45.0284684,
             "lon": 7.9685795,
+<<<<<<< HEAD
             "timestamp": "2025-10-31T21:10:05Z",
             "version": 2,
             "changeset": 174038909,
+=======
+            "timestamp": "2025-10-25T22:49:23Z",
+            "version": 1,
+            "changeset": 173775045,
+>>>>>>> origin/main
             "user": "nick1993",
             "uid": 3335735,
             "tags": {
@@ -8558,7 +8568,11 @@
                 "name": "Upim",
                 "operator": "Magnone Piu' Srl",
                 "phone": "+390119876529",
+<<<<<<< HEAD
                 "ref:vatin": "IT01166010056",
+=======
+                "ref:vatin": "01166010056",
+>>>>>>> origin/main
                 "shop": "department_store",
                 "wheelchair": "yes"
             }

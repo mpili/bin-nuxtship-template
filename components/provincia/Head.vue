@@ -7,5 +7,7 @@ const props = defineProps(["data"]);
 		<template v-slot:title>{{data.name}}</template>
 		<template v-slot:desc>Comuni della provincia di {{data.name}}</template>
 	</LandingSectionhead>
+	<ProvinciaEventi :provincia="data.slug" />
+
 	<!-- <UiRivela title="dati" :description="data" /> -->
 </template>

@@ -9120,6 +9120,39 @@
         },
         {
             "type": "way",
+<<<<<<< HEAD
+=======
+            "id": 525928324,
+            "timestamp": "2025-10-28T18:34:28Z",
+            "version": 5,
+            "changeset": 173897280,
+            "user": "Curculion",
+            "uid": 21796089,
+            "nodes": [
+                5115473856,
+                5115473857,
+                5115473858,
+                5115473859,
+                5115473860,
+                5115473861,
+                5115473856
+            ],
+            "tags": {
+                "addr:city": "Rodengo Saiano",
+                "addr:housenumber": "8",
+                "addr:postcode": "25050",
+                "addr:street": "Via Industriale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "check_date": "2025-10-28",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+>>>>>>> origin/main
             "id": 528117910,
             "timestamp": "2025-05-23T16:06:00Z",
             "version": 7,

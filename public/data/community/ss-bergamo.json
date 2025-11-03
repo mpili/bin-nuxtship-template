@@ -2591,11 +2591,19 @@
             "id": 611595906,
             "lat": 45.4490027,
             "lon": 9.1800037,
+<<<<<<< HEAD
             "timestamp": "2025-11-01T16:24:38Z",
             "version": 10,
             "changeset": 174070692,
             "user": "aa30mom",
             "uid": 13840929,
+=======
+            "timestamp": "2025-10-27T16:26:43Z",
+            "version": 9,
+            "changeset": 173846883,
+            "user": "btcitnet",
+            "uid": 22525435,
+>>>>>>> origin/main
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "29",
@@ -23696,11 +23704,19 @@
         {
             "type": "way",
             "id": 345386806,
+<<<<<<< HEAD
             "timestamp": "2025-11-01T16:25:23Z",
             "version": 11,
             "changeset": 174070720,
             "user": "aa30mom",
             "uid": 13840929,
+=======
+            "timestamp": "2025-10-29T20:42:17Z",
+            "version": 10,
+            "changeset": 173948020,
+            "user": "btcitnet",
+            "uid": 22525435,
+>>>>>>> origin/main
             "nodes": [
                 3520737160,
                 3520737166,
@@ -24312,6 +24328,39 @@
         },
         {
             "type": "way",
+<<<<<<< HEAD
+=======
+            "id": 525928324,
+            "timestamp": "2025-10-28T18:34:28Z",
+            "version": 5,
+            "changeset": 173897280,
+            "user": "Curculion",
+            "uid": 21796089,
+            "nodes": [
+                5115473856,
+                5115473857,
+                5115473858,
+                5115473859,
+                5115473860,
+                5115473861,
+                5115473856
+            ],
+            "tags": {
+                "addr:city": "Rodengo Saiano",
+                "addr:housenumber": "8",
+                "addr:postcode": "25050",
+                "addr:street": "Via Industriale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "check_date": "2025-10-28",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+>>>>>>> origin/main
             "id": 528117910,
             "timestamp": "2025-05-23T16:06:00Z",
             "version": 7,
