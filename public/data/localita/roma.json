@@ -8389,15 +8389,20 @@
             "id": 11075254547,
             "lat": 41.9074771,
             "lon": 12.4698919,
-            "timestamp": "2023-07-29T15:49:48Z",
-            "version": 1,
-            "changeset": 139179015,
-            "user": "beflow",
-            "uid": 16644573,
+            "timestamp": "2025-10-31T12:38:44Z",
+            "version": 2,
+            "changeset": 174019212,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "39",
+                "addr:postcode": "00193",
+                "addr:street": "Via Lucrezio Caro",
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
                 "name": "Carrefour",
+                "phone": "+39 06 8947 9811",
                 "shop": "supermarket"
             }
         },
@@ -13107,11 +13112,11 @@
         {
             "type": "way",
             "id": 553515205,
-            "timestamp": "2021-04-16T14:51:56Z",
-            "version": 2,
-            "changeset": 103067358,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-10-30T21:37:31Z",
+            "version": 3,
+            "changeset": 173996391,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 5766743753,
                 5342806571,
@@ -13120,6 +13125,10 @@
                 5766743753
             ],
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "964",
+                "addr:postcode": "00163",
+                "addr:street": "Via della Pisana",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -13351,11 +13360,11 @@
         {
             "type": "way",
             "id": 610281152,
-            "timestamp": "2023-10-05T12:40:22Z",
-            "version": 5,
-            "changeset": 142188228,
-            "user": "Iveta_vas",
-            "uid": 20007152,
+            "timestamp": "2025-10-30T21:50:33Z",
+            "version": 6,
+            "changeset": 173996696,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 5779861041,
                 5779861042,
@@ -13365,6 +13374,9 @@
                 5779861041
             ],
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "2154",
+                "addr:postcode": "00123",
                 "addr:street": "Via Cassia",
                 "amenity": "fuel",
                 "brand": "Q8",
@@ -14234,11 +14246,11 @@
         {
             "type": "way",
             "id": 923383448,
-            "timestamp": "2021-03-29T13:15:36Z",
-            "version": 1,
-            "changeset": 101919990,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-10-30T21:26:07Z",
+            "version": 2,
+            "changeset": 173996113,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 5851845522,
                 8571770565,
@@ -14247,6 +14259,10 @@
                 5851845522
             ],
             "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "1240",
+                "addr:postcode": "00131",
+                "addr:street": "Via Tiburtina",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",

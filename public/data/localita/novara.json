@@ -2760,18 +2760,26 @@
             "id": 611595906,
             "lat": 45.4490027,
             "lon": 9.1800037,
+<<<<<<< HEAD
+            "timestamp": "2025-11-01T16:24:38Z",
+            "version": 10,
+            "changeset": 174070692,
+            "user": "aa30mom",
+            "uid": 13840929,
+=======
             "timestamp": "2025-10-27T16:26:43Z",
             "version": 9,
             "changeset": 173846883,
             "user": "btcitnet",
             "uid": 22525435,
+>>>>>>> origin/main
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "29",
                 "addr:postcode": "20136",
                 "addr:street": "Corso San Gottardo",
                 "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
+                "brand:wikidata": "Q639075",
                 "contact:phone": "+39 02 89404979",
                 "level": "-1",
                 "name": "Conad City",
@@ -20184,11 +20192,11 @@
         {
             "type": "way",
             "id": 248295215,
-            "timestamp": "2022-01-08T09:35:57Z",
-            "version": 6,
-            "changeset": 115902372,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-10-30T10:01:31Z",
+            "version": 8,
+            "changeset": 173967338,
+            "user": "andrimap",
+            "uid": 23415755,
             "nodes": [
                 2550977387,
                 2550977388,
@@ -20206,6 +20214,8 @@
                 "brand:wikidata": "Q1059636",
                 "brand:wikipedia": "en:Esselunga",
                 "building": "retail",
+                "contact:facebook": "Esselunga",
+                "contact:instagram": "esselunga",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-20:00",
                 "operator": "Esselunga",
@@ -20214,7 +20224,7 @@
                 "payment:credit_cards": "yes",
                 "phone": "+39 0331 635548",
                 "shop": "supermarket",
-                "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.CZA.html"
+                "website": "https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-castellanza.CZA.html"
             }
         },
         {
@@ -21075,11 +21085,19 @@
         {
             "type": "way",
             "id": 345386806,
+<<<<<<< HEAD
+            "timestamp": "2025-11-01T16:25:23Z",
+            "version": 11,
+            "changeset": 174070720,
+            "user": "aa30mom",
+            "uid": 13840929,
+=======
             "timestamp": "2025-10-29T20:42:17Z",
             "version": 10,
             "changeset": 173948020,
             "user": "btcitnet",
             "uid": 22525435,
+>>>>>>> origin/main
             "nodes": [
                 3520737160,
                 3520737166,
@@ -21094,7 +21112,7 @@
                 "addr:street": "Via Ettore Ponti",
                 "barrier": "fence",
                 "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
+                "brand:wikidata": "Q639075",
                 "building": "retail",
                 "contact:phone": "+39 02 8915 9253",
                 "name": "Conad City",
@@ -23136,6 +23154,30 @@
                 "opening_hours": "Mo-Su 10:00-19:30",
                 "shop": "clothes",
                 "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1144302339,
+            "timestamp": "2025-11-01T10:32:51Z",
+            "version": 2,
+            "changeset": 174054945,
+            "user": "Francoerbi41",
+            "uid": 4982687,
+            "nodes": [
+                10651306669,
+                10651306668,
+                10651306667,
+                10651306666,
+                10651306669
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {

@@ -2878,11 +2878,11 @@
         {
             "type": "way",
             "id": 378154449,
-            "timestamp": "2023-09-12T13:22:55Z",
-            "version": 4,
-            "changeset": 141163653,
-            "user": "arcanma",
-            "uid": 1211510,
+            "timestamp": "2025-10-30T21:42:56Z",
+            "version": 5,
+            "changeset": 173996509,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 3815726335,
                 11167112425,
@@ -2894,6 +2894,9 @@
                 3815726335
             ],
             "tags": {
+                "addr:city": "Gualdo Tadino",
+                "addr:postcode": "06023",
+                "addr:street": "Via Flaminia",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",

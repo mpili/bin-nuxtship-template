@@ -1210,11 +1210,11 @@
             "id": 367036060,
             "lat": 46.0040121,
             "lon": 8.9515108,
-            "timestamp": "2025-08-31T15:21:35Z",
-            "version": 14,
-            "changeset": 171274527,
-            "user": "Employed",
-            "uid": 21379376,
+            "timestamp": "2025-10-30T19:29:39Z",
+            "version": 15,
+            "changeset": 173992429,
+            "user": "sampeto",
+            "uid": 9517052,
             "tags": {
                 "addr:city": "Lugano",
                 "addr:housenumber": "10",
@@ -1232,7 +1232,7 @@
                 "name": "Tango",
                 "opening_hours": "Mo-Su 09:00-01:00",
                 "payment:lightning": "yes",
-                "phone": "+41-91-922 27 01",
+                "phone": "+41 91 922 27 01",
                 "survey:date": "2022-10-27",
                 "website": "https://www.tango-ti.ch/"
             }
@@ -1388,11 +1388,11 @@
             "id": 373420246,
             "lat": 46.0057527,
             "lon": 8.9550285,
-            "timestamp": "2025-06-30T05:41:48Z",
-            "version": 11,
-            "changeset": 168291880,
-            "user": "pjw1965",
-            "uid": 17872,
+            "timestamp": "2025-10-30T19:29:39Z",
+            "version": 12,
+            "changeset": 173992429,
+            "user": "sampeto",
+            "uid": 9517052,
             "tags": {
                 "addr:city": "Lugano",
                 "addr:housenumber": "9",
@@ -1403,7 +1403,7 @@
                 "email": "info@pestalozzi-lugano.ch",
                 "name": "Pestalozzi",
                 "payment:lightning": "yes",
-                "phone": "+41 (0)91 921 46 46",
+                "phone": "+41 91 921 46 46",
                 "survey:date": "2022-10-27",
                 "tourism": "hotel",
                 "website": "https://www.pestalozzi-lugano.ch/",
@@ -2753,11 +2753,11 @@
             "id": 2288386755,
             "lat": 46.001309,
             "lon": 8.9773451,
-            "timestamp": "2025-08-21T06:09:16Z",
-            "version": 5,
-            "changeset": 170758092,
-            "user": "wies1",
-            "uid": 11002689,
+            "timestamp": "2025-10-30T19:29:39Z",
+            "version": 6,
+            "changeset": 173992429,
+            "user": "sampeto",
+            "uid": 9517052,
             "tags": {
                 "check_date": "2025-06-16",
                 "check_date:currency:XBT": "2025-06-16",
@@ -2767,7 +2767,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "phone": "091 226 35 15",
+                "phone": "+41 91 226 35 15",
                 "tourism": "hotel",
                 "website": "https://www.locandacastagnola.ch/it"
             }
@@ -5141,6 +5141,8 @@
         },
         {
             "type": "node",
+<<<<<<< HEAD
+=======
             "id": 4577939990,
             "lat": 46.004562,
             "lon": 8.9502441,
@@ -5174,6 +5176,7 @@
         },
         {
             "type": "node",
+>>>>>>> origin/main
             "id": 4679194724,
             "lat": 45.6434072,
             "lon": 9.2052792,
@@ -5649,11 +5652,11 @@
             "id": 5072974692,
             "lat": 46.0042505,
             "lon": 8.9501037,
-            "timestamp": "2025-06-15T04:26:55Z",
-            "version": 3,
-            "changeset": 167635492,
-            "user": "pjw1965",
-            "uid": 17872,
+            "timestamp": "2025-10-30T19:29:39Z",
+            "version": 4,
+            "changeset": 173992429,
+            "user": "sampeto",
+            "uid": 9517052,
             "tags": {
                 "addr:city": "Lugano",
                 "addr:country": "CH",
@@ -5669,7 +5672,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "phone": "41 91 921 34 70",
+                "phone": "+41 91 921 34 70",
                 "tourism": "hotel",
                 "website": "https://www.gabbani.com/home/",
                 "wikidata": "Q111875043"
@@ -17240,11 +17243,11 @@
         {
             "type": "way",
             "id": 248295215,
-            "timestamp": "2022-01-08T09:35:57Z",
-            "version": 6,
-            "changeset": 115902372,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-10-30T10:01:31Z",
+            "version": 8,
+            "changeset": 173967338,
+            "user": "andrimap",
+            "uid": 23415755,
             "nodes": [
                 2550977387,
                 2550977388,
@@ -17262,6 +17265,8 @@
                 "brand:wikidata": "Q1059636",
                 "brand:wikipedia": "en:Esselunga",
                 "building": "retail",
+                "contact:facebook": "Esselunga",
+                "contact:instagram": "esselunga",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-20:00",
                 "operator": "Esselunga",
@@ -17270,7 +17275,7 @@
                 "payment:credit_cards": "yes",
                 "phone": "+39 0331 635548",
                 "shop": "supermarket",
-                "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.CZA.html"
+                "website": "https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-castellanza.CZA.html"
             }
         },
         {
@@ -17363,11 +17368,11 @@
         {
             "type": "way",
             "id": 259338174,
-            "timestamp": "2025-08-01T19:45:50Z",
-            "version": 24,
-            "changeset": 169835428,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-10-30T10:00:10Z",
+            "version": 25,
+            "changeset": 173967261,
+            "user": "wies1",
+            "uid": 11002689,
             "nodes": [
                 2647337541,
                 13030918557,
@@ -17377,6 +17382,8 @@
                 5239748093,
                 13030918560,
                 13030918561,
+                13269952404,
+                13269952405,
                 2647337547,
                 9153014790,
                 6111731588,

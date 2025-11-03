@@ -3516,18 +3516,26 @@
             "id": 611595906,
             "lat": 45.4490027,
             "lon": 9.1800037,
+<<<<<<< HEAD
+            "timestamp": "2025-11-01T16:24:38Z",
+            "version": 10,
+            "changeset": 174070692,
+            "user": "aa30mom",
+            "uid": 13840929,
+=======
             "timestamp": "2025-10-27T16:26:43Z",
             "version": 9,
             "changeset": 173846883,
             "user": "btcitnet",
             "uid": 22525435,
+>>>>>>> origin/main
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "29",
                 "addr:postcode": "20136",
                 "addr:street": "Corso San Gottardo",
                 "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
+                "brand:wikidata": "Q639075",
                 "contact:phone": "+39 02 89404979",
                 "level": "-1",
                 "name": "Conad City",
@@ -17425,12 +17433,16 @@
             "id": 10693302231,
             "lat": 45.1857852,
             "lon": 9.1535748,
-            "timestamp": "2024-07-25T17:03:32Z",
-            "version": 2,
-            "changeset": 154403981,
-            "user": "Flynn_",
-            "uid": 21081459,
+            "timestamp": "2025-10-30T19:34:53Z",
+            "version": 3,
+            "changeset": 173992603,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Pavia",
+                "addr:housenumber": "9",
+                "addr:postcode": "27100",
+                "addr:street": "Corso Cavour",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
                 "clothes": "women;underwear;swimwear;men;children",
@@ -25738,11 +25750,11 @@
         {
             "type": "way",
             "id": 230856278,
-            "timestamp": "2021-04-08T20:19:19Z",
-            "version": 4,
-            "changeset": 102588583,
-            "user": "pyram",
-            "uid": 497849,
+            "timestamp": "2025-10-30T09:14:09Z",
+            "version": 5,
+            "changeset": 173964985,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2392913474,
                 2392913481,
@@ -25753,11 +25765,16 @@
                 2392913474
             ],
             "tags": {
+                "addr:city": "Codogno",
+                "addr:housenumber": "2",
+                "addr:postcode": "26845",
+                "addr:street": "Via dei Mulini",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "building": "yes",
                 "name": "Conad",
+                "phone": "+39 377 435 507",
                 "shop": "supermarket"
             }
         },
@@ -26060,11 +26077,11 @@
         {
             "type": "way",
             "id": 248295215,
-            "timestamp": "2022-01-08T09:35:57Z",
-            "version": 6,
-            "changeset": 115902372,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-10-30T10:01:31Z",
+            "version": 8,
+            "changeset": 173967338,
+            "user": "andrimap",
+            "uid": 23415755,
             "nodes": [
                 2550977387,
                 2550977388,
@@ -26082,6 +26099,8 @@
                 "brand:wikidata": "Q1059636",
                 "brand:wikipedia": "en:Esselunga",
                 "building": "retail",
+                "contact:facebook": "Esselunga",
+                "contact:instagram": "esselunga",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-20:00",
                 "operator": "Esselunga",
@@ -26090,7 +26109,7 @@
                 "payment:credit_cards": "yes",
                 "phone": "+39 0331 635548",
                 "shop": "supermarket",
-                "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.CZA.html"
+                "website": "https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-castellanza.CZA.html"
             }
         },
         {
@@ -26917,11 +26936,11 @@
         {
             "type": "way",
             "id": 318895833,
-            "timestamp": "2024-11-03T11:36:39Z",
-            "version": 8,
-            "changeset": 158694846,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-30T09:15:20Z",
+            "version": 9,
+            "changeset": 173965039,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 3252926154,
                 3252926142,
@@ -26954,6 +26973,10 @@
                 3252926154
             ],
             "tags": {
+                "addr:city": "Orio Litta",
+                "addr:postcode": "26063",
+                "addr:street": "Strada provinciale ex SS 234 Codognese",
+                "addr:village": "Orio Litta",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -26971,11 +26994,11 @@
         {
             "type": "way",
             "id": 318895842,
-            "timestamp": "2024-11-03T19:25:31Z",
-            "version": 8,
-            "changeset": 158713771,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-30T09:17:03Z",
+            "version": 9,
+            "changeset": 173965111,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 3252926130,
                 3252926122,
@@ -26984,6 +27007,9 @@
                 3252926130
             ],
             "tags": {
+                "addr:city": "Codogno",
+                "addr:postcode": "26845",
+                "addr:street": "Via Emilia",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -27005,11 +27031,11 @@
         {
             "type": "way",
             "id": 318895845,
-            "timestamp": "2025-09-30T20:42:34Z",
-            "version": 4,
-            "changeset": 172678752,
-            "user": "mmhuz",
-            "uid": 23206027,
+            "timestamp": "2025-10-30T09:18:08Z",
+            "version": 5,
+            "changeset": 173965166,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 3252926067,
                 3252926072,
@@ -27028,12 +27054,17 @@
                 3252926067
             ],
             "tags": {
+                "addr:city": "Codogno",
+                "addr:housenumber": "31",
+                "addr:postcode": "26845",
+                "addr:street": "Viale Leonardo da Vinci",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "compressed_air": "yes",
                 "name": "Tamoil",
                 "operator": "Inzadi Giovanna",
+                "phone": "+39 0377 32103",
                 "ref:mise": "10768",
                 "source": "geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)",
                 "source:date": "2018-04-16"
@@ -27042,11 +27073,11 @@
         {
             "type": "way",
             "id": 318895846,
-            "timestamp": "2024-11-03T19:27:05Z",
-            "version": 10,
-            "changeset": 158713828,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-30T09:19:13Z",
+            "version": 11,
+            "changeset": 173965222,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 3252926263,
                 3252926236,
@@ -27058,6 +27089,9 @@
                 3252926263
             ],
             "tags": {
+                "addr:city": "Casalpusterlengo",
+                "addr:postcode": "26841",
+                "addr:street": "Via Emilia",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -27292,11 +27326,19 @@
         {
             "type": "way",
             "id": 345386806,
+<<<<<<< HEAD
+            "timestamp": "2025-11-01T16:25:23Z",
+            "version": 11,
+            "changeset": 174070720,
+            "user": "aa30mom",
+            "uid": 13840929,
+=======
             "timestamp": "2025-10-29T20:42:17Z",
             "version": 10,
             "changeset": 173948020,
             "user": "btcitnet",
             "uid": 22525435,
+>>>>>>> origin/main
             "nodes": [
                 3520737160,
                 3520737166,
@@ -27311,7 +27353,7 @@
                 "addr:street": "Via Ettore Ponti",
                 "barrier": "fence",
                 "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
+                "brand:wikidata": "Q639075",
                 "building": "retail",
                 "contact:phone": "+39 02 8915 9253",
                 "name": "Conad City",
@@ -29613,11 +29655,11 @@
         {
             "type": "way",
             "id": 963990885,
-            "timestamp": "2023-09-12T13:06:12Z",
-            "version": 3,
-            "changeset": 141162855,
-            "user": "lgsp0",
-            "uid": 712033,
+            "timestamp": "2025-10-30T21:41:59Z",
+            "version": 4,
+            "changeset": 173996495,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 426744267,
                 8916835417,
@@ -29632,6 +29674,9 @@
                 426744267
             ],
             "tags": {
+                "addr:city": "Segrate",
+                "addr:postcode": "20090",
+                "addr:street": "Via Monzese",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",

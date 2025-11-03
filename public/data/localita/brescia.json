@@ -3533,12 +3533,16 @@
             "id": 5413280439,
             "lat": 45.1423277,
             "lon": 10.0591425,
-            "timestamp": "2024-11-02T19:05:07Z",
-            "version": 8,
-            "changeset": 158672934,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-10-30T19:28:18Z",
+            "version": 9,
+            "changeset": 173992399,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Cremona",
+                "addr:housenumber": "66a",
+                "addr:postcode": "26100",
+                "addr:street": "Via Mantova",
                 "amenity": "fuel",
                 "brand": "Q8 Easy",
                 "brand:wikidata": "Q1634762",
@@ -7217,16 +7221,20 @@
             "id": 12305217121,
             "lat": 45.1534596,
             "lon": 10.0988992,
-            "timestamp": "2024-12-09T10:24:12Z",
-            "version": 3,
-            "changeset": 160086067,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-10-30T19:40:07Z",
+            "version": 4,
+            "changeset": 173992782,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "San Marino",
+                "addr:postcode": "26030",
+                "addr:street": "SS10 Padana Inferiore",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
+                "phone": "+39 351 649 8070",
                 "shop": "clothes",
                 "wheelchair": "yes"
             }
@@ -7807,6 +7815,24 @@
                 "payment:tron": "yes",
                 "phone": "+39 3511119911",
                 "website": "https://kikera.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13269605494,
+            "lat": 45.579773,
+            "lon": 10.1182834,
+            "timestamp": "2025-10-30T08:02:28Z",
+            "version": 2,
+            "changeset": 173961923,
+            "user": "demon_box",
+            "uid": 350864,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "check_date": "2025-10-28",
+                "name": "Conad",
+                "shop": "supermarket"
             }
         },
         {
@@ -9117,6 +9143,8 @@
         },
         {
             "type": "way",
+<<<<<<< HEAD
+=======
             "id": 525928324,
             "timestamp": "2025-10-28T18:34:28Z",
             "version": 5,
@@ -9147,6 +9175,7 @@
         },
         {
             "type": "way",
+>>>>>>> origin/main
             "id": 528117910,
             "timestamp": "2025-05-23T16:06:00Z",
             "version": 7,

@@ -7,7 +7,7 @@
     "idlocalita": "trieste",
     "telegram_weburl": "https://web.telegram.org/a/#-1001054825457",
     "telegram_app": "https://t.me/bitcointrieste",
-    "telegram_members": 104.0,
+    "telegram_members": 103.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -3593,6 +3593,39 @@
                 "opening_hours": "Mo-Sa 8:00-20:00; Su 8:00-12:00",
                 "shop": "supermarket",
                 "source": "https://www.spar.si/sl_SI/trgovine/spar-ajdovscina.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 375831697,
+            "timestamp": "2025-10-30T10:26:01Z",
+            "version": 6,
+            "changeset": 173968344,
+            "user": "Bojan\ud83d\udcf7",
+            "uid": 792910,
+            "nodes": [
+                3791720592,
+                3791720589,
+                3791720584,
+                3791720580,
+                3791720566,
+                3791720574,
+                3791720585,
+                3791720587,
+                3791720592
+            ],
+            "tags": {
+                "addr:city": "Ilirska Bistrica",
+                "addr:housenumber": "18",
+                "addr:postcode": "6250",
+                "addr:street": "Vilharjeva cesta",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Spar",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-20:00, Su 08:00-13:00",
+                "phone": "05 710 08 06",
+                "shop": "supermarket"
             }
         },
         {

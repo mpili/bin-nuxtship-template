@@ -3980,15 +3980,20 @@
             "id": 11521678716,
             "lat": 45.2002685,
             "lon": 7.7746628,
-            "timestamp": "2024-01-17T18:30:57Z",
-            "version": 2,
-            "changeset": 146376617,
-            "user": "nick1993",
-            "uid": 3335735,
+            "timestamp": "2025-10-30T07:53:12Z",
+            "version": 3,
+            "changeset": 173961585,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Volpiano",
+                "addr:housenumber": "2",
+                "addr:postcode": "10088",
+                "addr:street": "Via Po",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
+                "phone": "+39 353 435 0644",
                 "shop": "clothes"
             }
         },
@@ -6275,6 +6280,30 @@
                 "opening_hours": "Mo-Su 10:00-19:30",
                 "shop": "clothes",
                 "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1144302339,
+            "timestamp": "2025-11-01T10:32:51Z",
+            "version": 2,
+            "changeset": 174054945,
+            "user": "Francoerbi41",
+            "uid": 4982687,
+            "nodes": [
+                10651306669,
+                10651306668,
+                10651306667,
+                10651306666,
+                10651306669
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Despar",
+                "operator": "Despar",
+                "shop": "supermarket"
             }
         },
         {

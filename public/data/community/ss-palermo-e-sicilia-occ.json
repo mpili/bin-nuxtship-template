@@ -3262,6 +3262,38 @@
             }
         },
         {
+            "type": "node",
+            "id": 13273016060,
+            "lat": 38.1228618,
+            "lon": 13.3094714,
+            "timestamp": "2025-10-31T21:01:15Z",
+            "version": 1,
+            "changeset": 174038666,
+            "user": "moophasa",
+            "uid": 23457588,
+            "tags": {
+                "addr:city": "Palermo",
+                "addr:housenumber": "80",
+                "addr:postcode": "90135",
+                "addr:street": "Via Roccazzo",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "opening_hours": "08:00 - 14:00 / 16:00 - 21:00",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:notes": "yes",
+                "payment:visa": "yes",
+                "phone": "+39091403368",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "way",
             "id": 81411582,
             "timestamp": "2023-06-12T21:36:27Z",
@@ -3991,11 +4023,11 @@
         {
             "type": "way",
             "id": 930966486,
-            "timestamp": "2021-04-15T10:18:08Z",
-            "version": 1,
-            "changeset": 102985983,
-            "user": "Robitabu",
-            "uid": 222966,
+            "timestamp": "2025-10-30T21:29:45Z",
+            "version": 2,
+            "changeset": 173996200,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 8631797997,
                 8631798002,
@@ -4006,6 +4038,9 @@
                 8631797997
             ],
             "tags": {
+                "addr:city": "Monreale",
+                "addr:postcode": "90131",
+                "addr:street": "Via Circonvallazione",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",

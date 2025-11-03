@@ -1,18 +1,12 @@
 <script setup>
-defineProps(["data"]);
+const props = defineProps(["data"]);
+const urlimg = useProvinceimgurl(useSlugify(useTagsnameit(props.data.tags)));
 </script>
 <template>
   <RegioneProvincialink :tags="data.tags">
     <UiCard
     :title="useTagsnameit(data.tags)"
-		:imageSrc="'https://unsplash.it/640/400?' + data.id"
+		:imageSrc="urlimg"
 	/>
   </RegioneProvincialink>
-
-  <!-- <NuxtLink :to="`/provincia/${useSlugify(useTagsnameit(data.tags))}`">
-    <UiCard
-    :title="useTagsnameit(data.tags)"
-		:imageSrc="'https://unsplash.it/640/400?' + data.id"
-	/>
-  </NuxtLink> -->
 </template>

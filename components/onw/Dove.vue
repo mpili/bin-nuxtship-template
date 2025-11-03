@@ -7,7 +7,7 @@ const props = defineProps(["titolo"]);
 			{{titolo}}
 		</h2>
 		<div class="p-2">
-			<slot></slot> <!-- Qui va il content passato dall'esterno -->
+			<slot></slot>
 		</div>
 	</div>
 </template>

@@ -2893,11 +2893,11 @@
         {
             "type": "way",
             "id": 212100702,
-            "timestamp": "2025-09-11T20:12:25Z",
-            "version": 7,
-            "changeset": 171801798,
-            "user": "Urbis13",
-            "uid": 9558563,
+            "timestamp": "2025-10-31T17:31:37Z",
+            "version": 8,
+            "changeset": 174031638,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2219919414,
                 2219919432,
@@ -2912,6 +2912,9 @@
                 2219919414
             ],
             "tags": {
+                "addr:city": "Santa Giustina",
+                "addr:postcode": "32035",
+                "addr:street": "Viale dei Tigli",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",

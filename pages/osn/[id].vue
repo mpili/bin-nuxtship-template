@@ -30,7 +30,8 @@ definePageMeta({
     <div v-else>
       <OsnPage v-if="data?.elements.length > 0" :data="data?.elements[0]" />
     </div>
-    <MainRivelaerror :error="error" />
+    <!-- </div> -->
+     <!-- <MainRivelaerror v-if="error" :error="error" /> -->
     <LandingDisclaimer />
   </LandingContainer>
 </template>

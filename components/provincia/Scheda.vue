@@ -1,11 +1,12 @@
 <script setup>
-defineProps(["data"]);
+const props = defineProps(["data"]);
+const urlimg = useProvinceimgurl(useTagsnameit(props.data.tags));
 </script>
 <template>
   <NuxtLink :to="`/comune/${data.id}`">
     <UiCard
     :title="useTagsnameit(data.tags)"
-		:imageSrc="'https://unsplash.it/640/400?' + useTagsnameit(data.tags)"
+		:imageSrc="useProvinceimgurl(useTagsnameit(data.tags))"
 	/>
   </NuxtLink>
 </template>
