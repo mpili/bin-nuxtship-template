@@ -2530,6 +2530,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 13267121902,
+            "lat": 45.7040901,
+            "lon": 12.2197943,
+            "timestamp": "2025-11-02T15:47:01Z",
+            "version": 3,
+            "changeset": 174109331,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Ponzano Veneto",
+                "addr:housenumber": "1/A",
+                "addr:postcode": "31050",
+                "addr:street": "Via Piave",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "fee": "yes",
+                "leisure": "fitness_centre",
+                "name": "Postura",
+                "opening_hours": "Mo-Fr 08:30-20:00",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 34 7689 7473",
+                "sport": "ginnastica_posturale",
+                "survey:date": "2025-11-01"
+            }
+        },
+        {
             "type": "way",
             "id": 36053469,
             "timestamp": "2023-11-13T08:06:55Z",

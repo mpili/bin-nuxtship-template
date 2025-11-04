@@ -4,5 +4,5 @@ const props = defineProps(["data"]);
 <template>
 	<ProvinciaHead :data="data" />
 	<ProvinciaMap :data="data" />
-	<ProvinciaSchede :data="data" />
+	<ProvinciaSchede :items="data.elements" />
 </template>

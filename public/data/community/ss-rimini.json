@@ -1213,11 +1213,11 @@
             "id": 2585157686,
             "lat": 44.4181227,
             "lon": 12.2013265,
-            "timestamp": "2025-10-07T21:35:59Z",
-            "version": 3,
-            "changeset": 172978607,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-04T13:56:06Z",
+            "version": 4,
+            "changeset": 174195208,
+            "user": "Milziade",
+            "uid": 22909472,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "14",
@@ -1226,6 +1226,7 @@
                 "brand": "La Feltrinelli",
                 "brand:wikidata": "Q96311190",
                 "name": "La Feltrinelli",
+                "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-20:00; Su 10:00-13:30,15:30-19:30",
                 "shop": "books"
             }
         },
@@ -2765,9 +2766,9 @@
             "id": 5031195828,
             "lat": 43.8186234,
             "lon": 12.992404,
-            "timestamp": "2023-07-30T23:03:34Z",
-            "version": 4,
-            "changeset": 139228940,
+            "timestamp": "2025-11-02T22:00:19Z",
+            "version": 5,
+            "changeset": 174123539,
             "user": "Fronzi Matteo",
             "uid": 11206543,
             "tags": {
@@ -2777,7 +2778,7 @@
                 "addr:street": "Via Giusto Cespi",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
-                "check_date": "2023-07-31",
+                "check_date": "2025-11-02",
                 "contact:phone": "+39 0721 864112",
                 "name": "Conad City",
                 "operator": "Vagnini Ketti",
@@ -5425,6 +5426,23 @@
                 "name": "Expert",
                 "shop": "electronics",
                 "website": "https://www.expert.it/it/it/exp/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13279984423,
+            "lat": 44.418114,
+            "lon": 12.2017648,
+            "timestamp": "2025-11-04T13:56:03Z",
+            "version": 1,
+            "changeset": 174195206,
+            "user": "Milziade",
+            "uid": 22909472,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
             }
         },
         {

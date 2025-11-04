@@ -6594,11 +6594,11 @@
             "id": 10296719986,
             "lat": 45.410309,
             "lon": 11.9083833,
-            "timestamp": "2025-01-03T17:31:59Z",
-            "version": 4,
-            "changeset": 160959082,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-11-02T14:05:43Z",
+            "version": 5,
+            "changeset": 174104499,
+            "user": "nycelikbas",
+            "uid": 23462005,
             "tags": {
                 "addr:city": "Padova",
                 "addr:housenumber": "98",
@@ -6608,6 +6608,7 @@
                 "brand:wikidata": "Q2381223",
                 "fixme": "The website says that the postcode is 35129 and I don't know which postcode is correct",
                 "name": "MediaWorld",
+                "opening_hours": "Su 09:00-19:30; Mo-Sa 09:00-20:00",
                 "operator": "MediaMarket S.p.A.",
                 "shop": "electronics",
                 "website": "https://www.mediaworld.it/it/store/padova-2126"
@@ -8587,6 +8588,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 13267121902,
+            "lat": 45.7040901,
+            "lon": 12.2197943,
+            "timestamp": "2025-11-02T15:47:01Z",
+            "version": 3,
+            "changeset": 174109331,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Ponzano Veneto",
+                "addr:housenumber": "1/A",
+                "addr:postcode": "31050",
+                "addr:street": "Via Piave",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "fee": "yes",
+                "leisure": "fitness_centre",
+                "name": "Postura",
+                "opening_hours": "Mo-Fr 08:30-20:00",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 34 7689 7473",
+                "sport": "ginnastica_posturale",
+                "survey:date": "2025-11-01"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-10-23T10:23:41Z",
@@ -9257,11 +9288,11 @@
         {
             "type": "way",
             "id": 246653151,
-            "timestamp": "2025-04-29T13:35:05Z",
-            "version": 5,
-            "changeset": 165593044,
-            "user": "user_8y978a",
-            "uid": 20552772,
+            "timestamp": "2025-11-03T19:01:52Z",
+            "version": 6,
+            "changeset": 174162438,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2536621442,
                 2536621437,
@@ -9272,6 +9303,9 @@
                 2536621442
             ],
             "tags": {
+                "addr:city": "Villotta Di Chions",
+                "addr:postcode": "33083",
+                "addr:street": "Via Primo Maggio",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",

@@ -1,4 +1,6 @@
 <script setup>
+import { computed } from 'vue';
+
 const props = defineProps(["items"]);
 
 const sortedItems = computed(() => {
@@ -10,13 +12,14 @@ const sortedItems = computed(() => {
   });
 });
 </script>
+
 <template>
-	<div class="flex flex-wrap">
-		<ProvinciaScheda
-			class="m-2"
-			v-for="item in sortedItems"
+    <div class="flex flex-wrap">
+        <RegioneScheda
+            class="m-2"
+            v-for="item in sortedItems"
             :data="item"
             :key="item.id || item.slug || item.name"
-		/>
-	</div>
+        />
+    </div>
 </template>

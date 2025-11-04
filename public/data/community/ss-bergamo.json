@@ -2591,19 +2591,11 @@
             "id": 611595906,
             "lat": 45.4490027,
             "lon": 9.1800037,
-<<<<<<< HEAD
             "timestamp": "2025-11-01T16:24:38Z",
             "version": 10,
             "changeset": 174070692,
             "user": "aa30mom",
             "uid": 13840929,
-=======
-            "timestamp": "2025-10-27T16:26:43Z",
-            "version": 9,
-            "changeset": 173846883,
-            "user": "btcitnet",
-            "uid": 22525435,
->>>>>>> origin/main
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "29",
@@ -8852,6 +8844,29 @@
         },
         {
             "type": "node",
+            "id": 4715316264,
+            "lat": 45.4826017,
+            "lon": 9.1687579,
+            "timestamp": "2025-11-01T20:00:37Z",
+            "version": 2,
+            "changeset": 174078401,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "48",
+                "addr:postcode": "20154",
+                "addr:street": "Via Giulio Cesare Procaccini",
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware",
+                "website": "https://www.kasanova.com/it/negozi-outlet-del-kasalingo/?utm_source=googlemybusiness&utm_campaign=localmarketing&utm_medium=localrecord"
+            }
+        },
+        {
+            "type": "node",
             "id": 4802326579,
             "lat": 45.4715463,
             "lon": 9.184226,
@@ -9191,13 +9206,13 @@
         {
             "type": "node",
             "id": 5116736610,
-            "lat": 45.4900761,
-            "lon": 9.1463271,
-            "timestamp": "2025-10-06T11:15:17Z",
-            "version": 4,
-            "changeset": 172908345,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.4900612,
+            "lon": 9.1463108,
+            "timestamp": "2025-11-03T15:35:50Z",
+            "version": 5,
+            "changeset": 174153671,
+            "user": "aa30mom",
+            "uid": 13840929,
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "79",
@@ -9212,13 +9227,13 @@
         {
             "type": "node",
             "id": 5116748657,
-            "lat": 45.4903733,
-            "lon": 9.1467243,
-            "timestamp": "2020-11-30T00:59:05Z",
-            "version": 3,
-            "changeset": 95007186,
-            "user": "dega180",
-            "uid": 454306,
+            "lat": 45.4902419,
+            "lon": 9.1466121,
+            "timestamp": "2025-11-03T15:35:50Z",
+            "version": 4,
+            "changeset": 174153671,
+            "user": "aa30mom",
+            "uid": 13840929,
             "tags": {
                 "addr:postcode": "20149",
                 "addr:street": "Via Grosotto",
@@ -9227,7 +9242,6 @@
                 "brand:wikipedia": "en:Calzedonia",
                 "clothes": "underwear",
                 "contact:phone": "+39 02 39273219",
-                "fixme": "Position estimated",
                 "name": "Calzedonia",
                 "operator": "B. Shop s.r.l.",
                 "ref:vatin": "IT07444870963",
@@ -9335,13 +9349,13 @@
         {
             "type": "node",
             "id": 5243134699,
-            "lat": 45.4901108,
-            "lon": 9.1464923,
-            "timestamp": "2025-10-13T11:10:30Z",
-            "version": 4,
-            "changeset": 173221807,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.4900799,
+            "lon": 9.1464469,
+            "timestamp": "2025-11-03T15:35:50Z",
+            "version": 5,
+            "changeset": 174153671,
+            "user": "aa30mom",
+            "uid": 13840929,
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "9",
@@ -9351,7 +9365,6 @@
                 "brand:wikidata": "Q28056374",
                 "brand:wikipedia": "ru:Tezenis",
                 "clothes": "underwear",
-                "fixme": "Position estimated",
                 "name": "Tezenis",
                 "shop": "clothes"
             }
@@ -10301,30 +10314,6 @@
                 "phone": "+39 02 9293 8666",
                 "shop": "department_store",
                 "website": "https://www.esselunga.it/it-it/negozi/negozio.le-eccellenze-di-esselunga-milano.spar.html"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5640123902,
-            "lat": 45.4525097,
-            "lon": 9.1448959,
-            "timestamp": "2025-10-29T19:29:34Z",
-            "version": 3,
-            "changeset": 173945398,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:housenumber": "35",
-                "addr:postcode": "20144",
-                "addr:street": "Corso Vercelli",
-                "brand": "Intimissimi",
-                "brand:wikidata": "Q305404",
-                "brand:wikipedia": "en:Intimissimi",
-                "clothes": "underwear",
-                "name": "Intimissimi",
-                "phone": "+39 02 4800 9463",
-                "shop": "clothes"
             }
         },
         {
@@ -23704,19 +23693,11 @@
         {
             "type": "way",
             "id": 345386806,
-<<<<<<< HEAD
             "timestamp": "2025-11-01T16:25:23Z",
             "version": 11,
             "changeset": 174070720,
             "user": "aa30mom",
             "uid": 13840929,
-=======
-            "timestamp": "2025-10-29T20:42:17Z",
-            "version": 10,
-            "changeset": 173948020,
-            "user": "btcitnet",
-            "uid": 22525435,
->>>>>>> origin/main
             "nodes": [
                 3520737160,
                 3520737166,
@@ -24328,39 +24309,6 @@
         },
         {
             "type": "way",
-<<<<<<< HEAD
-=======
-            "id": 525928324,
-            "timestamp": "2025-10-28T18:34:28Z",
-            "version": 5,
-            "changeset": 173897280,
-            "user": "Curculion",
-            "uid": 21796089,
-            "nodes": [
-                5115473856,
-                5115473857,
-                5115473858,
-                5115473859,
-                5115473860,
-                5115473861,
-                5115473856
-            ],
-            "tags": {
-                "addr:city": "Rodengo Saiano",
-                "addr:housenumber": "8",
-                "addr:postcode": "25050",
-                "addr:street": "Via Industriale",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "building": "yes",
-                "check_date": "2025-10-28",
-                "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
->>>>>>> origin/main
             "id": 528117910,
             "timestamp": "2025-05-23T16:06:00Z",
             "version": 7,
