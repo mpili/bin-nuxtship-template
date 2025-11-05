@@ -748,11 +748,6 @@
             "changeset": 173902231,
             "user": "btcitnet",
             "uid": 22525435,
-            "timestamp": "2025-10-28T20:58:49Z",
-            "version": 7,
-            "changeset": 173902231,
-            "user": "btcitnet",
-            "uid": 22525435,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "44",
@@ -5503,12 +5498,15 @@
             "id": 12504973951,
             "lat": 45.4613761,
             "lon": 10.3185931,
-            "timestamp": "2025-01-15T17:02:10Z",
-            "version": 1,
-            "changeset": 161388816,
-            "user": "Anonix35",
-            "uid": 2362150,
+            "timestamp": "2025-11-03T18:55:36Z",
+            "version": 2,
+            "changeset": 174162209,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Castenedolo",
+                "addr:postcode": "25014",
+                "addr:street": "Via Giacomo Matteotti",
                 "advertising": "totem",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793"
@@ -7345,36 +7343,6 @@
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "building": "retail",
-                "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
-            "id": 525928324,
-            "timestamp": "2025-10-28T18:34:28Z",
-            "version": 5,
-            "changeset": 173897280,
-            "user": "Curculion",
-            "uid": 21796089,
-            "nodes": [
-                5115473856,
-                5115473857,
-                5115473858,
-                5115473859,
-                5115473860,
-                5115473861,
-                5115473856
-            ],
-            "tags": {
-                "addr:city": "Rodengo Saiano",
-                "addr:housenumber": "8",
-                "addr:postcode": "25050",
-                "addr:street": "Via Industriale",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "building": "yes",
-                "check_date": "2025-10-28",
                 "name": "Conad",
                 "shop": "supermarket"
             }

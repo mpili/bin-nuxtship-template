@@ -7,7 +7,7 @@
     "idlocalita": "pordenone",
     "telegram_weburl": "https://web.telegram.org/a/#-1001742172532",
     "telegram_app": "https://t.me/bitcoinpordenone",
-    "telegram_members": 24.0,
+    "telegram_members": 25.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -5558,6 +5558,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 13267121902,
+            "lat": 45.7040901,
+            "lon": 12.2197943,
+            "timestamp": "2025-11-02T15:47:01Z",
+            "version": 3,
+            "changeset": 174109331,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Ponzano Veneto",
+                "addr:housenumber": "1/A",
+                "addr:postcode": "31050",
+                "addr:street": "Via Piave",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "fee": "yes",
+                "leisure": "fitness_centre",
+                "name": "Postura",
+                "opening_hours": "Mo-Fr 08:30-20:00",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 34 7689 7473",
+                "sport": "ginnastica_posturale",
+                "survey:date": "2025-11-01"
+            }
+        },
+        {
             "type": "way",
             "id": 36053469,
             "timestamp": "2023-11-13T08:06:55Z",
@@ -6173,11 +6203,11 @@
         {
             "type": "way",
             "id": 246653151,
-            "timestamp": "2025-04-29T13:35:05Z",
-            "version": 5,
-            "changeset": 165593044,
-            "user": "user_8y978a",
-            "uid": 20552772,
+            "timestamp": "2025-11-03T19:01:52Z",
+            "version": 6,
+            "changeset": 174162438,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2536621442,
                 2536621437,
@@ -6188,6 +6218,9 @@
                 2536621442
             ],
             "tags": {
+                "addr:city": "Villotta Di Chions",
+                "addr:postcode": "33083",
+                "addr:street": "Via Primo Maggio",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",

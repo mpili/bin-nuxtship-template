@@ -5141,42 +5141,6 @@
         },
         {
             "type": "node",
-<<<<<<< HEAD
-=======
-            "id": 4577939990,
-            "lat": 46.004562,
-            "lon": 8.9502441,
-            "timestamp": "2025-10-27T08:49:13Z",
-            "version": 10,
-            "changeset": 173826715,
-            "user": "Comino",
-            "uid": 6794624,
-            "tags": {
-                "addr:city": "Lugano",
-                "addr:housenumber": "10",
-                "addr:postcode": "6900",
-                "addr:street": "Via Francesco Soave",
-                "amenity": "restaurant",
-                "check_date": "2025-07-14",
-                "check_date:currency:XBT": "2025-07-14",
-                "contact:facebook": "spaghettipomodoro",
-                "contact:instagram": "spaghetti_pomodoro_",
-                "cuisine": "italian",
-                "currency:XBT": "yes",
-                "diet:vegetarian": "yes",
-                "email": "lugano@spaghettipomodoro.ch",
-                "name": "Spaghetti Pomodoro",
-                "opening_hours": "Su-Th 09:00-23:30; Fr-Sa 09:00-00:00",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "no",
-                "phone": "+41 91 922 01 70",
-                "website": "https://spaghettipomodoro.ch/"
-            }
-        },
-        {
-            "type": "node",
->>>>>>> origin/main
             "id": 4679194724,
             "lat": 45.6434072,
             "lon": 9.2052792,
@@ -17210,11 +17174,11 @@
         {
             "type": "way",
             "id": 246337948,
-            "timestamp": "2019-08-19T09:24:46Z",
-            "version": 7,
-            "changeset": 73487021,
-            "user": "Francoerbi41",
-            "uid": 4982687,
+            "timestamp": "2025-11-03T19:00:27Z",
+            "version": 8,
+            "changeset": 174162387,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 2533851718,
                 3290567451,
@@ -17229,6 +17193,10 @@
                 2533851718
             ],
             "tags": {
+                "addr:city": "Borgo Ticino",
+                "addr:housenumber": "KM. 27+680",
+                "addr:postcode": "28040",
+                "addr:street": "Nuova strada ANAS 708 ex SS 32 Ticinese",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -18056,23 +18024,22 @@
         {
             "type": "way",
             "id": 332369770,
-            "timestamp": "2025-05-22T15:21:18Z",
-            "version": 8,
-            "changeset": 166618445,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2025-11-03T21:12:06Z",
+            "version": 10,
+            "changeset": 174167032,
+            "user": "talete1",
+            "uid": 1788682,
             "nodes": [
                 3394885509,
-                3394885506,
                 3394885389,
                 3394885503,
+                13278479279,
                 3394885507,
                 3394885383,
                 3394885378,
                 3394885501,
                 3394885384,
                 3394885493,
-                6814291008,
                 3394885509
             ],
             "tags": {

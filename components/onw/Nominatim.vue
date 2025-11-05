@@ -14,7 +14,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   <div v-else>
     <OnwPosizione v-if="data?.address" :address="data.address" :tags="tags" />
 
-    <!-- <OnwEdit :dataosm="dataosm" :lat="lat" :lon="lon" :datanomninatim="data" :tags="tags" /> -->
+    <OnwEdit :dataosm="dataosm" :lat="lat" :lon="lon" :datanomninatim="data" :tags="tags" />
 
     <!-- <div class="font-mono text-xs m-8">{{ url_api }}</div> -->
 
