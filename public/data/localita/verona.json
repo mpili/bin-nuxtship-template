@@ -764,23 +764,24 @@
             "id": 228274772,
             "lat": 45.162432,
             "lon": 10.829515,
-            "timestamp": "2025-10-02T18:27:42Z",
-            "version": 11,
-            "changeset": 172761487,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-05T12:56:59Z",
+            "version": 14,
+            "changeset": 174240230,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Mantova",
                 "addr:postcode": "46100",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
                 "compressed_air": "yes",
-                "fixme": "name",
                 "name": "Tamoil",
                 "opening_hours": "24/7",
                 "ref:mise": "12433",
                 "self_service": "yes",
+                "valves": "schrader",
                 "wheelchair": "yes"
             }
         },
@@ -3259,6 +3260,28 @@
         },
         {
             "type": "node",
+            "id": 4553696431,
+            "lat": 45.4403256,
+            "lon": 10.9944138,
+            "timestamp": "2025-06-28T16:26:35Z",
+            "version": 3,
+            "changeset": 168234130,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:country": "IT",
+                "addr:housenumber": "64",
+                "addr:postcode": "37121",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 4553697792,
             "lat": 45.4378688,
             "lon": 10.9958258,
@@ -3438,6 +3461,29 @@
                 "operator": "OVS",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5604131331,
+            "lat": 45.5424226,
+            "lon": 11.6002395,
+            "timestamp": "2022-07-20T07:14:07Z",
+            "version": 3,
+            "changeset": 123836206,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Vicenza",
+                "addr:housenumber": "282",
+                "addr:postcode": "36100",
+                "addr:street": "Strada di Ca' Balbi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "fixme": "Confusing opening_hours",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 08:00-18:00,08:30-12:30, Mo-Sa 15:30-19:30",
+                "shop": "optician"
             }
         },
         {
@@ -4470,6 +4516,24 @@
         },
         {
             "type": "node",
+            "id": 10032039178,
+            "lat": 45.4402757,
+            "lon": 10.9943302,
+            "timestamp": "2025-04-02T09:16:28Z",
+            "version": 4,
+            "changeset": 164409687,
+            "user": "VRN32",
+            "uid": 21907021,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-04-02",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 10032039197,
             "lat": 45.4408194,
             "lon": 10.9949386,
@@ -5258,6 +5322,25 @@
                 "name": "Calzedonia",
                 "opening_hours": "Mo-Su 09:00-20:30",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11928530052,
+            "lat": 45.1520362,
+            "lon": 10.7251499,
+            "timestamp": "2025-01-10T09:54:44Z",
+            "version": 4,
+            "changeset": 161198233,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -6742,6 +6825,38 @@
         },
         {
             "type": "way",
+            "id": 689738902,
+            "timestamp": "2025-01-10T09:43:57Z",
+            "version": 5,
+            "changeset": 161197931,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                6470820710,
+                6470820702,
+                6470820706,
+                6470820705,
+                6438759204,
+                6470820709,
+                6470820710
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "1",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "09:00-20:00",
+                "operator": "Luxottica",
+                "phone": "+39 0464 434187",
+                "room": "shop",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 690052003,
             "timestamp": "2025-05-22T13:29:16Z",
             "version": 9,
@@ -7268,6 +7383,33 @@
                 "level": "0",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1227411386,
+            "timestamp": "2023-11-28T18:04:45Z",
+            "version": 1,
+            "changeset": 144559341,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                11382083214,
+                11382083212,
+                11382083227,
+                11382083218,
+                11382083219,
+                11382083215,
+                11382083214
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:website": "https://www.salmoiraghievigano.it/",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

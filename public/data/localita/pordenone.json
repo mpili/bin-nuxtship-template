@@ -339,12 +339,15 @@
             "id": 274837136,
             "lat": 45.7035599,
             "lon": 12.6041489,
-            "timestamp": "2022-09-08T20:56:05Z",
-            "version": 10,
-            "changeset": 125957885,
-            "user": "Flight777",
-            "uid": 9925732,
+            "timestamp": "2025-11-04T20:52:23Z",
+            "version": 11,
+            "changeset": 174213010,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Cessalto",
+                "addr:postcode": "31040",
+                "addr:street": "Autostrada Serenissima",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -713,6 +716,28 @@
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1586852363,
+            "lat": 45.9452196,
+            "lon": 12.7249366,
+            "timestamp": "2025-06-04T15:23:10Z",
+            "version": 7,
+            "changeset": 167183575,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-06-04",
+                "contact:email": "pn302@luxottica.com",
+                "contact:phone": "+39 0434 959593",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -1260,6 +1285,29 @@
                 "payment:cash": "yes",
                 "payment:coins": "yes",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3314471341,
+            "lat": 45.953777,
+            "lon": 12.5021898,
+            "timestamp": "2023-10-13T17:46:54Z",
+            "version": 4,
+            "changeset": 142534124,
+            "user": "tiziodcaio",
+            "uid": 12266546,
+            "tags": {
+                "addr:city": "Sacile",
+                "addr:country": "IT",
+                "addr:housenumber": "25",
+                "addr:postcode": "33077",
+                "addr:street": "Piazza del Popolo",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
             }
         },
         {
@@ -1932,6 +1980,28 @@
         },
         {
             "type": "node",
+            "id": 4945713321,
+            "lat": 45.6313137,
+            "lon": 12.5661339,
+            "timestamp": "2025-01-10T10:14:02Z",
+            "version": 3,
+            "changeset": 161198890,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "San Don\u00e0 di Piave",
+                "addr:housenumber": "140",
+                "addr:postcode": "30027",
+                "addr:street": "Corso Silvio Trenitn",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4958779928,
             "lat": 45.6681763,
             "lon": 13.1069465,
@@ -2484,6 +2554,23 @@
                 "clothes": "underwear",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6143318789,
+            "lat": 46.0622049,
+            "lon": 13.233263,
+            "timestamp": "2025-01-10T10:13:50Z",
+            "version": 2,
+            "changeset": 161198878,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -3773,6 +3860,33 @@
         },
         {
             "type": "node",
+            "id": 9806926734,
+            "lat": 46.0228615,
+            "lon": 13.2738055,
+            "timestamp": "2025-08-17T09:53:38Z",
+            "version": 7,
+            "changeset": 170557343,
+            "user": "blckdrgn",
+            "uid": 650500,
+            "tags": {
+                "addr:city": "Pradamano",
+                "addr:postcode": "33040",
+                "addr:street": "Via Guglielmo Marconi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:email": "info@salmoiraghievigano.it",
+                "contact:fax": "+39 0432 671778",
+                "contact:phone": "+39 0432 671778",
+                "contact:website": "www.salmoiraghievigano.it",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "optician",
+                "survey:date": "2023-10-13",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9823311359,
             "lat": 45.6366081,
             "lon": 13.0615898,
@@ -3820,11 +3934,11 @@
         {
             "type": "node",
             "id": 9916760763,
-            "lat": 45.7762186,
-            "lon": 12.9962338,
-            "timestamp": "2023-10-07T19:08:00Z",
-            "version": 2,
-            "changeset": 142281256,
+            "lat": 45.7761962,
+            "lon": 12.9961864,
+            "timestamp": "2025-11-04T21:38:00Z",
+            "version": 3,
+            "changeset": 174214526,
             "user": "Latisana992",
             "uid": 4179361,
             "tags": {
@@ -4466,13 +4580,13 @@
         {
             "type": "node",
             "id": 11212214650,
-            "lat": 45.7757855,
-            "lon": 12.9953027,
-            "timestamp": "2025-10-25T20:46:46Z",
-            "version": 2,
-            "changeset": 173771996,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.7757618,
+            "lon": 12.9952526,
+            "timestamp": "2025-11-04T21:38:00Z",
+            "version": 3,
+            "changeset": 174214526,
+            "user": "Latisana992",
+            "uid": 4179361,
             "tags": {
                 "addr:city": "Latisana",
                 "addr:postcode": "33053",

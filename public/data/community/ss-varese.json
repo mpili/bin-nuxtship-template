@@ -7,7 +7,7 @@
     "idlocalita": "varese",
     "telegram_weburl": "https://web.telegram.org/a/#-1001656890617",
     "telegram_app": "https://t.me/satoshispritzVarese",
-    "telegram_members": 127.0,
+    "telegram_members": 128.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -464,31 +464,6 @@
                 "name": "Tamoil",
                 "operator": "T.D.M. S.R.L.",
                 "ref:mise": "24527"
-            }
-        },
-        {
-            "type": "node",
-            "id": 227519711,
-            "lat": 45.483717,
-            "lon": 9.142851,
-            "timestamp": "2025-10-05T08:24:08Z",
-            "version": 9,
-            "changeset": 172857695,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:postcode": "20148",
-                "addr:street": "Viale Renato Serra",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "11698"
             }
         },
         {
@@ -3396,12 +3371,16 @@
             "id": 845006558,
             "lat": 45.930623,
             "lon": 8.5691363,
-            "timestamp": "2020-04-27T09:00:04Z",
-            "version": 4,
-            "changeset": 84185320,
-            "user": "Francoerbi41",
-            "uid": 4982687,
+            "timestamp": "2025-11-04T21:01:36Z",
+            "version": 5,
+            "changeset": 174213359,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Verbania",
+                "addr:housenumber": "133",
+                "addr:postcode": "28922",
+                "addr:street": "Via Vittorio Veneto",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -3758,12 +3737,16 @@
             "id": 1235829957,
             "lat": 45.6616662,
             "lon": 9.1257737,
-            "timestamp": "2021-06-24T13:34:19Z",
-            "version": 4,
-            "changeset": 106903714,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-11-04T21:05:02Z",
+            "version": 5,
+            "changeset": 174213470,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Lentate sul Seveso",
+                "addr:housenumber": "8",
+                "addr:postcode": "20823",
+                "addr:street": "Via Nazionale dei Giovi",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -5053,6 +5036,26 @@
         },
         {
             "type": "node",
+            "id": 2092005302,
+            "lat": 45.4641319,
+            "lon": 9.1874344,
+            "timestamp": "2025-09-10T07:17:48Z",
+            "version": 4,
+            "changeset": 171719653,
+            "user": "paf_veglia",
+            "uid": 22858586,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "check_date": "2025-09-10",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 10:00-19:30; Su 10:30-19:00",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 2096701036,
             "lat": 45.4768082,
             "lon": 9.1843784,
@@ -5851,6 +5854,30 @@
         },
         {
             "type": "node",
+            "id": 2381746506,
+            "lat": 45.5853128,
+            "lon": 9.2753909,
+            "timestamp": "2025-01-10T10:18:51Z",
+            "version": 6,
+            "changeset": 161199056,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Monza",
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:postcode": "20900",
+                "addr:street": "Via Carlo Alberto",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2024-03-23",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo 15:00-19:30; Tu-Sa 09:00-12:30,15:00-19:30; Su 10:00-12:30,15:00-19:00",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 2383557276,
             "lat": 45.5807542,
             "lon": 9.2736772,
@@ -6058,13 +6085,15 @@
             "id": 2411123332,
             "lat": 45.4784453,
             "lon": 9.2088339,
-            "timestamp": "2022-11-23T20:11:03Z",
-            "version": 6,
-            "changeset": 129296249,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-11-05T19:13:53Z",
+            "version": 7,
+            "changeset": 174255716,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
                 "addr:housenumber": "23",
+                "addr:postcode": "20124",
                 "addr:street": "Corso Buenos Aires",
                 "brand": "Calzedonia",
                 "brand:wikidata": "Q1027874",
@@ -6105,12 +6134,16 @@
             "id": 2411123336,
             "lat": 45.4787533,
             "lon": 9.2091303,
-            "timestamp": "2025-07-21T09:19:56Z",
-            "version": 5,
-            "changeset": 169232277,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
+            "timestamp": "2025-11-05T19:17:14Z",
+            "version": 6,
+            "changeset": 174255825,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "25",
+                "addr:postcode": "20124",
+                "addr:street": "Corso Buenos Aires",
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
                 "brand:wikipedia": "en:Intimissimi",
@@ -6816,6 +6849,28 @@
         },
         {
             "type": "node",
+            "id": 2983263506,
+            "lat": 45.4657537,
+            "lon": 9.1860963,
+            "timestamp": "2025-07-08T12:47:27Z",
+            "version": 7,
+            "changeset": 168648572,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "2n05",
+                "addr:postcode": "20121",
+                "addr:street": "Via Dante",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 2983282400,
             "lat": 45.463069,
             "lon": 9.1876258,
@@ -6991,6 +7046,23 @@
         },
         {
             "type": "node",
+            "id": 3002463034,
+            "lat": 45.7522852,
+            "lon": 9.0141466,
+            "timestamp": "2025-01-10T09:49:51Z",
+            "version": 2,
+            "changeset": 161198094,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 3007409046,
             "lat": 45.4655,
             "lon": 9.1960684,
@@ -7116,13 +7188,15 @@
             "id": 3025610962,
             "lat": 45.4664852,
             "lon": 9.1623655,
-            "timestamp": "2025-07-15T09:42:28Z",
-            "version": 5,
-            "changeset": 168955107,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
+            "timestamp": "2025-11-05T19:18:45Z",
+            "version": 6,
+            "changeset": 174255885,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
                 "addr:housenumber": "14",
+                "addr:postcode": "20100",
                 "addr:street": "Corso Vercelli",
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
@@ -7134,6 +7208,26 @@
                 "ref:vatin": "IT07573870966",
                 "shop": "clothes",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3025658133,
+            "lat": 45.4627793,
+            "lon": 9.1872661,
+            "timestamp": "2025-09-17T06:55:26Z",
+            "version": 8,
+            "changeset": 172047297,
+            "user": "paf_veglia",
+            "uid": 22858586,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-09-17",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Fr 10:00-19:30; Su 10:30-19:30; Sa 10:00-19:30",
+                "shop": "optician",
+                "wheelchair": "no"
             }
         },
         {
@@ -9600,16 +9694,21 @@
             "id": 4343342095,
             "lat": 45.4897681,
             "lon": 9.2141033,
-            "timestamp": "2021-01-02T16:59:42Z",
-            "version": 4,
-            "changeset": 96816283,
-            "user": "pNyC6U3gmE4w",
-            "uid": 9082724,
+            "timestamp": "2025-11-05T19:21:14Z",
+            "version": 5,
+            "changeset": 174255981,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "37",
+                "addr:postcode": "20127",
+                "addr:street": "Via Giulio e Corrado Venini",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "opening_hours": "Mo-Su 08:00-20:00",
+                "phone": "+39 02 2689 0049",
                 "shop": "supermarket"
             }
         },
@@ -9664,12 +9763,13 @@
             "id": 4438018230,
             "lat": 45.465418,
             "lon": 9.1957811,
-            "timestamp": "2024-05-04T16:57:03Z",
-            "version": 11,
-            "changeset": 150889699,
-            "user": "Flynn_",
-            "uid": 21081459,
+            "timestamp": "2025-11-05T19:21:49Z",
+            "version": 12,
+            "changeset": 174255994,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
                 "addr:housenumber": "24",
                 "addr:postcode": "20121",
                 "addr:street": "Corso Vittorio Emanuele Secondo",
@@ -9871,6 +9971,28 @@
                 "name": "La Feltrinelli",
                 "opening_hours": "Mo-Fr 08:00-21:00; Sa 10:00-21:00; Su 10:00-21:00",
                 "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4559242165,
+            "lat": 45.449861,
+            "lon": 9.1797355,
+            "timestamp": "2025-11-05T20:41:28Z",
+            "version": 3,
+            "changeset": 174259058,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "22",
+                "addr:postcode": "20136",
+                "addr:street": "Corso San Gottardo",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -11591,17 +11713,22 @@
             "id": 5562885241,
             "lat": 45.5286129,
             "lon": 9.2175774,
-            "timestamp": "2021-02-23T18:16:11Z",
-            "version": 2,
-            "changeset": 99847240,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-11-05T19:26:24Z",
+            "version": 3,
+            "changeset": 174256163,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Sesto San Giovanni",
+                "addr:housenumber": "212",
+                "addr:postcode": "20099",
+                "addr:street": "Via Milanese",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "brand:wikipedia": "en:OVS (company)",
                 "level": "2",
                 "name": "OVS",
+                "phone": "+39 02 8397 9433",
                 "second_hand": "no",
                 "shop": "clothes"
             }
@@ -11864,6 +11991,24 @@
                 "name": "La Feltrinelli",
                 "phone": "+39 02 9194 7777",
                 "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5596403960,
+            "lat": 45.528979,
+            "lon": 9.2174906,
+            "timestamp": "2023-09-22T08:32:03Z",
+            "version": 2,
+            "changeset": 141593245,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "2",
+                "name": "Salmoiraghi e Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -13568,12 +13713,16 @@
             "id": 6800357794,
             "lat": 45.4758087,
             "lon": 9.2068812,
-            "timestamp": "2024-05-23T19:41:39Z",
-            "version": 4,
-            "changeset": 151740675,
-            "user": "nu99et",
-            "uid": 20905165,
+            "timestamp": "2025-11-05T19:30:21Z",
+            "version": 5,
+            "changeset": 174256295,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "8",
+                "addr:postcode": "20124",
+                "addr:street": "Corso Buenos Aires",
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "brand:wikipedia": "en:H&M",
@@ -13850,17 +13999,22 @@
             "id": 7090354527,
             "lat": 45.4664252,
             "lon": 9.1600214,
-            "timestamp": "2025-07-15T10:00:00Z",
-            "version": 3,
-            "changeset": 168956299,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
+            "timestamp": "2025-11-05T19:35:21Z",
+            "version": 4,
+            "changeset": 174256492,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "35",
+                "addr:postcode": "20144",
+                "addr:street": "Corso Vercelli",
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
                 "brand:wikipedia": "en:Intimissimi",
                 "clothes": "underwear",
                 "name": "Intimissimi",
+                "phone": "+39 02 4800 9463",
                 "shop": "clothes",
                 "wheelchair": "yes"
             }
@@ -14112,6 +14266,25 @@
                 "start_date": "2019-12-18",
                 "url": "https://coinatmradar.com/bitcoin_atm/10875/bitcoin-atm-shitcoins-club-milan-punto-atm-bitcoin/",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-milano-via-teodosio"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7214027734,
+            "lat": 45.4661289,
+            "lon": 9.1864023,
+            "timestamp": "2025-07-25T13:07:14Z",
+            "version": 3,
+            "changeset": 169453847,
+            "user": "paf_veglia",
+            "uid": 22858586,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 10:00-19:30; Su 10:30-19:00",
+                "shop": "optician"
             }
         },
         {
@@ -18064,6 +18237,31 @@
         },
         {
             "type": "node",
+            "id": 10678321661,
+            "lat": 45.4583334,
+            "lon": 9.1769346,
+            "timestamp": "2025-10-24T15:13:57Z",
+            "version": 7,
+            "changeset": 173723157,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "4an04",
+                "addr:postcode": "20123",
+                "addr:street": "Corso Genova",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-05-25",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 10:00-19:30",
+                "phone": "+39028360616",
+                "shop": "optician",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 10678340974,
             "lat": 45.4629866,
             "lon": 9.1871576,
@@ -18790,6 +18988,26 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10972086024,
+            "lat": 45.4461329,
+            "lon": 8.620061,
+            "timestamp": "2025-10-25T09:48:47Z",
+            "version": 3,
+            "changeset": 173748406,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "addr:housenumber": "12b",
+                "addr:street": "Via Fratelli Rosselli",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2023-06-13",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -20292,6 +20510,24 @@
                 "phone": "+41 91 970 13 23",
                 "shop": "bicycle",
                 "website": "https://z-bike.ch/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11313972734,
+            "lat": 45.4830216,
+            "lon": 9.213768,
+            "timestamp": "2023-12-21T10:24:30Z",
+            "version": 2,
+            "changeset": 145365014,
+            "user": "kauevestena",
+            "uid": 2052228,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "no"
             }
         },
         {
@@ -23021,6 +23257,24 @@
         },
         {
             "type": "node",
+            "id": 12064860612,
+            "lat": 45.5135694,
+            "lon": 9.0977114,
+            "timestamp": "2024-12-30T19:16:55Z",
+            "version": 2,
+            "changeset": 160805369,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "1",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 12064860617,
             "lat": 45.5136965,
             "lon": 9.0974472,
@@ -23059,6 +23313,30 @@
                 "second_hand": "yes",
                 "shop": "electronics",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12096871137,
+            "lat": 45.8179005,
+            "lon": 8.8264035,
+            "timestamp": "2025-01-19T09:43:50Z",
+            "version": 7,
+            "changeset": 161517335,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "description": "Accetta anche le assicurazioni come metodo di pagamento",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-13:00,15:00-19:00",
+                "payment:american_express": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:edenred_card": "yes",
+                "shop": "optician",
+                "wheelchair": "yes"
             }
         },
         {
@@ -23276,6 +23554,43 @@
                 "shop": "clothes",
                 "source": "survey",
                 "stroller": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12136141737,
+            "lat": 45.8084206,
+            "lon": 8.8615344,
+            "timestamp": "2024-09-03T21:28:29Z",
+            "version": 4,
+            "changeset": 156160594,
+            "user": "Paguro01",
+            "uid": 21809705,
+            "tags": {
+                "air_conditioning": "yes",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2024-08-25",
+                "currency:CHF": "yes",
+                "currency:EUR": "yes",
+                "currency:others": "no",
+                "internet_access": "no",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Th,Sa-Su 09:00-21:00; Fr 09:00-21:30",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:global_blue": "yes",
+                "payment:others": "no",
+                "payment:pagodil": "yes",
+                "second_hand": "no",
+                "shop": "optician",
+                "source": "survey",
+                "stroller": "yes",
+                "toilets": "no",
                 "wheelchair": "yes"
             }
         },
@@ -24153,6 +24468,24 @@
                 "operator": "Calzedonia Spa",
                 "ref:vatin": "IT02253210237",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12766054738,
+            "lat": 45.786378,
+            "lon": 9.0477588,
+            "timestamp": "2025-04-24T13:06:17Z",
+            "version": 3,
+            "changeset": 165378685,
+            "user": "mingo23",
+            "uid": 1902578,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f3",
+                "shop": "optician"
             }
         },
         {
@@ -31646,6 +31979,33 @@
         },
         {
             "type": "way",
+            "id": 570444873,
+            "timestamp": "2022-07-31T19:19:02Z",
+            "version": 2,
+            "changeset": 124315865,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "nodes": [
+                5484276835,
+                5484276838,
+                5484276834,
+                5484276833,
+                5484276835
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:fax": "+39 039 6882089",
+                "contact:phone": "+39 039 6882089",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "ref": "21",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "way",
             "id": 575566974,
             "timestamp": "2021-03-26T00:16:51Z",
             "version": 4,
@@ -32963,6 +33323,35 @@
                 "level_name": "Piano Terra",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1223349475,
+            "timestamp": "2024-12-09T10:41:55Z",
+            "version": 3,
+            "changeset": 160086747,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                11347548254,
+                11347548253,
+                11347548252,
+                11347548251,
+                11347548250,
+                11347548249,
+                11347548248,
+                11347548247,
+                11347548254
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "level_name": "Piano Terra",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

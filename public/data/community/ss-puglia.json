@@ -7,7 +7,7 @@
     "idlocalita": "puglia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001876214322",
     "telegram_app": "https://t.me/SatoshiSpritzPuglia",
-    "telegram_members": 26.0,
+    "telegram_members": 32.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -988,6 +988,29 @@
         },
         {
             "type": "node",
+            "id": 9885729065,
+            "lat": 41.2464665,
+            "lon": 16.2964339,
+            "timestamp": "2024-07-03T18:32:08Z",
+            "version": 6,
+            "changeset": 153514821,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "email": "info@salmoiraghievigano.it",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "phone": "+39 0883 592918",
+                "shop": "optician",
+                "survey:date": "2023-11-21",
+                "website": "https://www.salmoiraghievigano.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9885729072,
             "lat": 41.247236,
             "lon": 16.2977442,
@@ -1476,6 +1499,26 @@
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "phone": "+39 3351952351",
                 "shop": "cosmetics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11369418400,
+            "lat": 41.0974021,
+            "lon": 16.8284495,
+            "timestamp": "2025-01-10T09:43:40Z",
+            "version": 6,
+            "changeset": 161197916,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },

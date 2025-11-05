@@ -630,6 +630,25 @@
         },
         {
             "type": "node",
+            "id": 5397116320,
+            "lat": 44.3856928,
+            "lon": 7.544201,
+            "timestamp": "2023-08-21T09:20:30Z",
+            "version": 3,
+            "changeset": 140170765,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "27",
+                "addr:street": "Corso Nizza",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 5851832205,
             "lat": 44.6507957,
             "lon": 7.8676663,
@@ -660,14 +679,14 @@
             "id": 5851841872,
             "lat": 44.749043,
             "lon": 7.8034299,
-            "timestamp": "2025-10-04T17:59:27Z",
-            "version": 6,
-            "changeset": 172841124,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-05T13:38:27Z",
+            "version": 7,
+            "changeset": 174241846,
+            "user": "Andrea Musuruane",
+            "uid": 90379,
             "tags": {
-                "addr:city": "Ospitaletto",
-                "addr:postcode": "25035",
+                "addr:city": "Sanfr\u00e8",
+                "addr:postcode": "12040",
                 "addr:street": "Via Circonvallazione",
                 "amenity": "fuel",
                 "brand": "Q8",
@@ -1107,6 +1126,23 @@
                 "name": "Kasanova",
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:00-20:00",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6541876003,
+            "lat": 44.393461,
+            "lon": 7.5823527,
+            "timestamp": "2023-11-01T18:38:23Z",
+            "version": 3,
+            "changeset": 143490610,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

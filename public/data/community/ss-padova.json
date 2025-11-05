@@ -3179,6 +3179,29 @@
         },
         {
             "type": "node",
+            "id": 4426950098,
+            "lat": 45.7760358,
+            "lon": 12.0465428,
+            "timestamp": "2025-01-10T10:12:25Z",
+            "version": 4,
+            "changeset": 161198820,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Montebelluna",
+                "addr:housenumber": "8",
+                "addr:postcode": "31044",
+                "addr:street": "Via Cavour",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "Survey",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 4475979558,
             "lat": 45.4075651,
             "lon": 11.8762281,
@@ -3985,6 +4008,29 @@
                 "operator": "OVS",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5604131331,
+            "lat": 45.5424226,
+            "lon": 11.6002395,
+            "timestamp": "2022-07-20T07:14:07Z",
+            "version": 3,
+            "changeset": 123836206,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Vicenza",
+                "addr:housenumber": "282",
+                "addr:postcode": "36100",
+                "addr:street": "Strada di Ca' Balbi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "fixme": "Confusing opening_hours",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 08:00-18:00,08:30-12:30, Mo-Sa 15:30-19:30",
+                "shop": "optician"
             }
         },
         {
@@ -7026,6 +7072,23 @@
                 "phone": "042563340",
                 "shop": "electronics",
                 "website": "https://expert.it/it/it/exp/storelocator/navigateaspickuppoint/EC00000001850?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_LENDINARA_EC00000001850"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12369645644,
+            "lat": 45.4344394,
+            "lon": 12.336415,
+            "timestamp": "2025-01-10T09:44:03Z",
+            "version": 2,
+            "changeset": 161197935,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

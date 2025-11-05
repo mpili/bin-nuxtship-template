@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 179.0,
+    "telegram_members": 177.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1210,6 +1210,33 @@
         },
         {
             "type": "node",
+            "id": 4690626026,
+            "lat": 44.8010021,
+            "lon": 10.3298181,
+            "timestamp": "2025-06-28T11:03:18Z",
+            "version": 5,
+            "changeset": 168222232,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "11/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-06-28",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
             "id": 4690627105,
             "lat": 44.7998215,
             "lon": 10.3276122,
@@ -1704,6 +1731,31 @@
                 "name": "Foot Locker",
                 "shop": "shoes",
                 "source": "dati.emilia-romagna.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4712517953,
+            "lat": 44.6456408,
+            "lon": 10.9278233,
+            "timestamp": "2025-01-10T09:50:27Z",
+            "version": 7,
+            "changeset": 161198116,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Modena",
+                "addr:country": "IT",
+                "addr:housenumber": "137",
+                "addr:postcode": "41121",
+                "addr:street": "Via Emilia Centro",
+                "addr:suburb": "Centro Storico",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "dati.emilia-romagna.it",
+                "wheelchair": "yes"
             }
         },
         {
@@ -3557,6 +3609,23 @@
                 "brand:wikidata": "Q85355",
                 "name": "Mondadori",
                 "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11546992139,
+            "lat": 44.6992191,
+            "lon": 10.6289388,
+            "timestamp": "2024-01-25T20:07:41Z",
+            "version": 2,
+            "changeset": 146686730,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -6298,6 +6367,34 @@
                 "name": "Bottega Verde",
                 "name:it": "Bottega Verde",
                 "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 571467433,
+            "timestamp": "2023-01-04T10:57:42Z",
+            "version": 4,
+            "changeset": 130861400,
+            "user": "airon90",
+            "uid": 89897,
+            "nodes": [
+                5492169750,
+                5492169738,
+                5492169739,
+                5492169749,
+                5492169748,
+                5492169744,
+                5492169746,
+                5492169751,
+                5492169750
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

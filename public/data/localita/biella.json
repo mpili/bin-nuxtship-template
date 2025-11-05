@@ -3558,6 +3558,26 @@
         },
         {
             "type": "node",
+            "id": 10972086024,
+            "lat": 45.4461329,
+            "lon": 8.620061,
+            "timestamp": "2025-10-25T09:48:47Z",
+            "version": 3,
+            "changeset": 173748406,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "addr:housenumber": "12b",
+                "addr:street": "Via Fratelli Rosselli",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2023-06-13",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 11012762989,
             "lat": 45.3242551,
             "lon": 8.4209078,

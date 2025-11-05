@@ -2034,6 +2034,27 @@
         },
         {
             "type": "node",
+            "id": 4751583614,
+            "lat": 44.2855423,
+            "lon": 11.8828955,
+            "timestamp": "2025-01-10T10:08:56Z",
+            "version": 3,
+            "changeset": 161198703,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "31b",
+                "addr:street": "Piazza del Popolo",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:phone": "+39 0546 21112",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:30-13:00, 15:30-19:30",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 4751588835,
             "lat": 44.2904897,
             "lon": 11.8751158,
@@ -2755,6 +2776,23 @@
                 "name": "United Colors of Benetton",
                 "shop": "clothes",
                 "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5173144522,
+            "lat": 44.3962334,
+            "lon": 12.1801348,
+            "timestamp": "2023-02-13T19:49:02Z",
+            "version": 2,
+            "changeset": 132506574,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f5",
+                "shop": "optician"
             }
         },
         {
@@ -4984,6 +5022,26 @@
         },
         {
             "type": "node",
+            "id": 11635030726,
+            "lat": 44.4188991,
+            "lon": 12.1973763,
+            "timestamp": "2024-02-17T16:52:44Z",
+            "version": 1,
+            "changeset": 147579724,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:housenumber": "40",
+                "addr:street": "Via Camillo Cavour",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2024-02-17",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 11665770786,
             "lat": 44.3361454,
             "lon": 11.4042206,
@@ -5029,6 +5087,26 @@
                 "service:vehicle:transmission": "yes",
                 "service:vehicle:tyres": "yes",
                 "shop": "car_repair"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11733947744,
+            "lat": 44.1384562,
+            "lon": 12.2457181,
+            "timestamp": "2024-03-15T12:19:30Z",
+            "version": 1,
+            "changeset": 148685607,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:housenumber": "38",
+                "addr:street": "Corso Gastone Sozzi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2024-03-15",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

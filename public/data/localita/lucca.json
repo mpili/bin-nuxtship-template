@@ -940,12 +940,15 @@
             "id": 228052999,
             "lat": 43.8913064,
             "lon": 10.8243124,
-            "timestamp": "2021-02-23T11:13:55Z",
-            "version": 11,
-            "changeset": 99808069,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
+            "timestamp": "2025-11-04T19:50:13Z",
+            "version": 12,
+            "changeset": 174210764,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Serravalle Pistoiese",
+                "addr:postcode": "51034",
+                "addr:street": "Autostrada Firenze-Mare",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -965,12 +968,15 @@
             "id": 228054012,
             "lat": 43.8956679,
             "lon": 11.087678,
-            "timestamp": "2021-08-17T22:44:56Z",
-            "version": 7,
-            "changeset": 109837114,
-            "user": "SimoGine",
-            "uid": 11449631,
+            "timestamp": "2025-11-04T19:51:57Z",
+            "version": 8,
+            "changeset": 174210814,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Prato",
+                "addr:postcode": "59100",
+                "addr:street": "Via Liliana Rossi",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -1345,12 +1351,16 @@
             "id": 287864085,
             "lat": 43.8870098,
             "lon": 11.0033316,
-            "timestamp": "2023-06-08T15:37:28Z",
-            "version": 4,
-            "changeset": 137102454,
-            "user": "giuliobranchetti",
-            "uid": 11329839,
+            "timestamp": "2025-11-04T20:54:29Z",
+            "version": 5,
+            "changeset": 174213086,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Agliana",
+                "addr:housenumber": "78",
+                "addr:postcode": "51031",
+                "addr:street": "Via Carl Marx",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -1994,6 +2004,26 @@
         },
         {
             "type": "node",
+            "id": 1459746111,
+            "lat": 43.726623,
+            "lon": 10.4207946,
+            "timestamp": "2025-02-21T19:25:43Z",
+            "version": 5,
+            "changeset": 162793878,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Ghezzano",
+                "addr:housenumber": "60",
+                "addr:street": "Via Giosu\u00e8 Carducci",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 1463859737,
             "lat": 43.8426235,
             "lon": 10.5038242,
@@ -2296,6 +2326,29 @@
                 "phone": "+39 0586 402158",
                 "ref:vatin": "IT01615930490",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1723221528,
+            "lat": 43.5502697,
+            "lon": 10.3399776,
+            "timestamp": "2025-11-05T20:30:36Z",
+            "version": 6,
+            "changeset": 174258656,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Livorno",
+                "addr:postcode": "57121",
+                "addr:street": "Via Gino Graziani",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "level": "1",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Fr,Su 09:00-20:00; Sa 09:00-21:00",
+                "shop": "optician"
             }
         },
         {
@@ -4053,6 +4106,27 @@
                 "clothes": "children",
                 "name": "Chicco",
                 "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3979609899,
+            "lat": 43.9322416,
+            "lon": 10.9172372,
+            "timestamp": "2025-11-05T20:38:18Z",
+            "version": 4,
+            "changeset": 174258939,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Pistoia",
+                "addr:housenumber": "4a",
+                "addr:postcode": "51100",
+                "addr:street": "Via Camillo Benso di Cavour",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -6277,6 +6351,24 @@
         },
         {
             "type": "node",
+            "id": 10772051744,
+            "lat": 43.7147542,
+            "lon": 10.4012461,
+            "timestamp": "2025-09-04T14:20:18Z",
+            "version": 2,
+            "changeset": 171455688,
+            "user": "mappingForFun213",
+            "uid": 21963141,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:30-19:30; Su 15:30-19:30",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 10804654725,
             "lat": 43.8306946,
             "lon": 10.4981884,
@@ -6745,6 +6837,33 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "website": "https://linktr.ee/lanarchico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11601748334,
+            "lat": 43.9381579,
+            "lon": 10.9390408,
+            "timestamp": "2025-02-19T14:09:57Z",
+            "version": 2,
+            "changeset": 162702939,
+            "user": "Emabarto",
+            "uid": 10142223,
+            "tags": {
+                "addr:city": "Pistoia",
+                "addr:housenumber": "95",
+                "addr:postcode": "51100",
+                "addr:street": "Via Bure Vecchia Nord",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:notes": "yes",
+                "shop": "optician",
+                "wheelchair": "yes"
             }
         },
         {

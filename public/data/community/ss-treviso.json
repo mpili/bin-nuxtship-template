@@ -933,12 +933,15 @@
             "id": 274837136,
             "lat": 45.7035599,
             "lon": 12.6041489,
-            "timestamp": "2022-09-08T20:56:05Z",
-            "version": 10,
-            "changeset": 125957885,
-            "user": "Flight777",
-            "uid": 9925732,
+            "timestamp": "2025-11-04T20:52:23Z",
+            "version": 11,
+            "changeset": 174213010,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Cessalto",
+                "addr:postcode": "31040",
+                "addr:street": "Autostrada Serenissima",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -1706,6 +1709,28 @@
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1586852363,
+            "lat": 45.9452196,
+            "lon": 12.7249366,
+            "timestamp": "2025-06-04T15:23:10Z",
+            "version": 7,
+            "changeset": 167183575,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-06-04",
+                "contact:email": "pn302@luxottica.com",
+                "contact:phone": "+39 0434 959593",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -2758,6 +2783,29 @@
         },
         {
             "type": "node",
+            "id": 3314471341,
+            "lat": 45.953777,
+            "lon": 12.5021898,
+            "timestamp": "2023-10-13T17:46:54Z",
+            "version": 4,
+            "changeset": 142534124,
+            "user": "tiziodcaio",
+            "uid": 12266546,
+            "tags": {
+                "addr:city": "Sacile",
+                "addr:country": "IT",
+                "addr:housenumber": "25",
+                "addr:postcode": "33077",
+                "addr:street": "Piazza del Popolo",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3314477286,
             "lat": 45.96014,
             "lon": 12.51388,
@@ -3438,6 +3486,29 @@
         },
         {
             "type": "node",
+            "id": 4426950098,
+            "lat": 45.7760358,
+            "lon": 12.0465428,
+            "timestamp": "2025-01-10T10:12:25Z",
+            "version": 4,
+            "changeset": 161198820,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Montebelluna",
+                "addr:housenumber": "8",
+                "addr:postcode": "31044",
+                "addr:street": "Via Cavour",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "Survey",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 4475979558,
             "lat": 45.4075651,
             "lon": 11.8762281,
@@ -3744,6 +3815,28 @@
                 "shop": "clothes",
                 "wheelchair": "yes",
                 "wheelchair:description": "un gradino da 15 cm"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4945713321,
+            "lat": 45.6313137,
+            "lon": 12.5661339,
+            "timestamp": "2025-01-10T10:14:02Z",
+            "version": 3,
+            "changeset": 161198890,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "San Don\u00e0 di Piave",
+                "addr:housenumber": "140",
+                "addr:postcode": "30027",
+                "addr:street": "Corso Silvio Trenitn",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "yes"
             }
         },
         {
@@ -7748,6 +7841,23 @@
                 "payment:lightning": "no",
                 "phone": "+39 340 389 3512",
                 "website": "https://www.suhaci.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12369645644,
+            "lat": 45.4344394,
+            "lon": 12.336415,
+            "timestamp": "2025-01-10T09:44:03Z",
+            "version": 2,
+            "changeset": 161197935,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

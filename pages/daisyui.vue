@@ -1,4 +1,6 @@
 <script setup>
+const isDev = process.dev
+
 useHead({
   title: "Bitcoin Italia Network - pagina di test",
 });
@@ -20,7 +22,9 @@ const firstDayOfMonth = computed(() => {
 });
 
 const monthName = computed(() => {
-  return new Intl.DateTimeFormat('en-US', { month: 'long' }).format(currentDate.value);
+  return new Intl.DateTimeFormat("en-US", { month: "long" }).format(
+    currentDate.value
+  );
 });
 
 const calendarDays = computed(() => {
@@ -35,10 +39,13 @@ const calendarDays = computed(() => {
   }
   return days;
 });
+
+const weekDays = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 </script>
 
 <template>
   <LandingContainer>
+    <p>isDev: {{isDev}}</p>
     <div class="divide-y divide-gray-300/50">
       <!-- Calendar Section -->
       <div class="mb-8">
@@ -47,15 +54,14 @@ const calendarDays = computed(() => {
             <div class="card-body">
               <h2 class="card-title">{{ monthName }} {{ currentYear }}</h2>
               <div class="grid grid-cols-7 text-center gap-2 my-4">
-                <div class="font-bold">Sun</div>
-                <div class="font-bold">Mon</div>
-                <div class="font-bold">Tue</div>
-                <div class="font-bold">Wed</div>
-                <div class="font-bold">Thu</div>
-                <div class="font-bold">Fri</div>
-                <div class="font-bold">Sat</div>
+                <template v-for="(d, i) in weekDays" :key="i">
+                  <div class="font-bold">{{ d }}</div>
+                </template>
                 <template v-for="(day, index) in calendarDays" :key="index">
-                  <div v-if="day" class="p-2 hover:bg-base-200 rounded-lg cursor-pointer">
+                  <div
+                    v-if="day"
+                    class="p-2 hover:bg-base-200 rounded-lg cursor-pointer"
+                  >
                     <div class="border p-2">{{ day }}</div>
                   </div>
                   <div v-else class="p-2"></div>

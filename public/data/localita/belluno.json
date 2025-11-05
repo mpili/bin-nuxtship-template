@@ -569,6 +569,28 @@
         },
         {
             "type": "node",
+            "id": 1586852363,
+            "lat": 45.9452196,
+            "lon": 12.7249366,
+            "timestamp": "2025-06-04T15:23:10Z",
+            "version": 7,
+            "changeset": 167183575,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-06-04",
+                "contact:email": "pn302@luxottica.com",
+                "contact:phone": "+39 0434 959593",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 1586852381,
             "lat": 45.9448673,
             "lon": 12.7261813,
@@ -801,6 +823,29 @@
                 "payment:cash": "yes",
                 "payment:coins": "yes",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3314471341,
+            "lat": 45.953777,
+            "lon": 12.5021898,
+            "timestamp": "2023-10-13T17:46:54Z",
+            "version": 4,
+            "changeset": 142534124,
+            "user": "tiziodcaio",
+            "uid": 12266546,
+            "tags": {
+                "addr:city": "Sacile",
+                "addr:country": "IT",
+                "addr:housenumber": "25",
+                "addr:postcode": "33077",
+                "addr:street": "Piazza del Popolo",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
             }
         },
         {
@@ -1101,6 +1146,29 @@
                 "name": "H&M",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4426950098,
+            "lat": 45.7760358,
+            "lon": 12.0465428,
+            "timestamp": "2025-01-10T10:12:25Z",
+            "version": 4,
+            "changeset": 161198820,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Montebelluna",
+                "addr:housenumber": "8",
+                "addr:postcode": "31044",
+                "addr:street": "Via Cavour",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "Survey",
+                "website": "https://www.salmoiraghievigano.it/"
             }
         },
         {

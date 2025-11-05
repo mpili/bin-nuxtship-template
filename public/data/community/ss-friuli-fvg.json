@@ -4615,6 +4615,47 @@
         },
         {
             "type": "relation",
+            "id": 8766302,
+            "timestamp": "2025-01-10T10:12:53Z",
+            "version": 2,
+            "changeset": 161198839,
+            "user": "DnaX",
+            "uid": 69259,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940433,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940486,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940428,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940487,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "ref": "24/25",
+                "shop": "optician",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
             "id": 8766313,
             "timestamp": "2024-01-02T12:43:43Z",
             "version": 2,

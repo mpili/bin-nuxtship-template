@@ -3213,6 +3213,24 @@
         },
         {
             "type": "node",
+            "id": 4512091635,
+            "lat": 45.8884606,
+            "lon": 9.9440452,
+            "timestamp": "2025-01-10T09:49:57Z",
+            "version": 2,
+            "changeset": 161198100,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:street": "Viale Gusmini",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 4642385882,
             "lat": 45.5348171,
             "lon": 10.1660782,
@@ -7813,6 +7831,24 @@
                 "check_date": "2025-10-28",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13281440645,
+            "lat": 45.5886393,
+            "lon": 9.7595069,
+            "timestamp": "2025-11-04T20:31:19Z",
+            "version": 2,
+            "changeset": 174212299,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "check_date": "2025-11-04",
+                "name": "OVS",
+                "shop": "clothes"
             }
         },
         {

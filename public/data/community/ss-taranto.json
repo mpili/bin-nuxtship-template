@@ -7,7 +7,7 @@
     "idlocalita": "taranto",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzTaranto",
     "telegram_app": "https://t.me/SatoshiSpritzTaranto",
-    "telegram_members": 19.0,
+    "telegram_members": 22.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1478,6 +1478,24 @@
                 "check_date": "2023-11-05",
                 "name": "Kasanova",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11375613860,
+            "lat": 40.4717191,
+            "lon": 17.2410372,
+            "timestamp": "2025-01-10T09:43:53Z",
+            "version": 2,
+            "changeset": 161197924,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2023-11-25",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

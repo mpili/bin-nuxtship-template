@@ -539,6 +539,29 @@
         },
         {
             "type": "node",
+            "id": 4635058712,
+            "lat": 40.3552459,
+            "lon": 18.1818126,
+            "timestamp": "2025-01-10T10:23:00Z",
+            "version": 4,
+            "changeset": 161199195,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "121",
+                "addr:postcode": "73100",
+                "addr:street": "Via Giuseppe Zanardelli",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "entrance": "yes",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 5122227627,
             "lat": 40.1508987,
             "lon": 18.4835704,
@@ -578,6 +601,25 @@
                 "name": "Foot Locker",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "shoes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5300559247,
+            "lat": 40.3762619,
+            "lon": 18.1438313,
+            "timestamp": "2023-11-27T18:05:21Z",
+            "version": 5,
+            "changeset": 144516763,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -1877,6 +1919,25 @@
                 "name": "OVS",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11381305679,
+            "lat": 40.2932489,
+            "lon": 18.1974889,
+            "timestamp": "2024-04-04T22:06:09Z",
+            "version": 5,
+            "changeset": 149589372,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },

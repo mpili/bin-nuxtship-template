@@ -2583,6 +2583,27 @@
         },
         {
             "type": "node",
+            "id": 6847818279,
+            "lat": 45.3130419,
+            "lon": 9.5037659,
+            "timestamp": "2025-01-10T10:11:18Z",
+            "version": 3,
+            "changeset": 161198781,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Lodi",
+                "addr:housenumber": "39",
+                "addr:postcode": "26900",
+                "addr:street": "Corso Roma",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 6847965175,
             "lat": 45.3126487,
             "lon": 9.5039679,
@@ -3263,6 +3284,24 @@
         },
         {
             "type": "node",
+            "id": 10178757637,
+            "lat": 44.9988602,
+            "lon": 9.0745892,
+            "timestamp": "2024-04-04T21:51:06Z",
+            "version": 3,
+            "changeset": 149588930,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10178757645,
             "lat": 44.9988763,
             "lon": 9.0743076,
@@ -3472,6 +3511,28 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10694611380,
+            "lat": 45.1857865,
+            "lon": 9.1530578,
+            "timestamp": "2023-04-23T07:47:26Z",
+            "version": 2,
+            "changeset": 135251654,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:city": "Pavia",
+                "contact:housenumber": "12b",
+                "contact:postcode": "27100",
+                "contact:street": "Corso Cavour",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 14:00-19:00",
+                "shop": "optician"
             }
         },
         {

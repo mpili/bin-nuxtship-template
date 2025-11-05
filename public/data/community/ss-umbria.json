@@ -7,7 +7,7 @@
     "idlocalita": "umbria",
     "telegram_weburl": "https://web.telegram.org/a/#-1001984558936",
     "telegram_app": "https://t.me/satoshispritzumbria",
-    "telegram_members": 77.0,
+    "telegram_members": 78.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -2344,6 +2344,32 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12279710712,
+            "lat": 43.1099571,
+            "lon": 12.3881713,
+            "timestamp": "2025-01-10T09:43:23Z",
+            "version": 2,
+            "changeset": 161197910,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Perugia",
+                "addr:country": "IT",
+                "addr:housenumber": "85",
+                "addr:postcode": "06121",
+                "addr:street": "Corso Vannucci",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 10:00-19:30;Su 10:00-13:00,16:00-19:30;PH off",
+                "phone": "+39 075 573 5085",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/",
+                "wheelchair": "yes"
             }
         },
         {
