@@ -2059,6 +2059,33 @@
         },
         {
             "type": "node",
+            "id": 4690626026,
+            "lat": 44.8010021,
+            "lon": 10.3298181,
+            "timestamp": "2025-06-28T11:03:18Z",
+            "version": 5,
+            "changeset": 168222232,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "11/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-06-28",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
             "id": 4690627105,
             "lat": 44.7998215,
             "lon": 10.3276122,
@@ -3433,6 +3460,27 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "phone": "+39 0524 202364"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6847818279,
+            "lat": 45.3130419,
+            "lon": 9.5037659,
+            "timestamp": "2025-01-10T10:11:18Z",
+            "version": 3,
+            "changeset": 161198781,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Lodi",
+                "addr:housenumber": "39",
+                "addr:postcode": "26900",
+                "addr:street": "Corso Roma",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

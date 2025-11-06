@@ -2060,6 +2060,23 @@
         },
         {
             "type": "node",
+            "id": 6143318789,
+            "lat": 46.0622049,
+            "lon": 13.233263,
+            "timestamp": "2025-01-10T10:13:50Z",
+            "version": 2,
+            "changeset": 161198878,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 6149774432,
             "lat": 46.0619273,
             "lon": 13.2308742,
@@ -3162,6 +3179,33 @@
         },
         {
             "type": "node",
+            "id": 9806926734,
+            "lat": 46.0228615,
+            "lon": 13.2738055,
+            "timestamp": "2025-08-17T09:53:38Z",
+            "version": 7,
+            "changeset": 170557343,
+            "user": "blckdrgn",
+            "uid": 650500,
+            "tags": {
+                "addr:city": "Pradamano",
+                "addr:postcode": "33040",
+                "addr:street": "Via Guglielmo Marconi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:email": "info@salmoiraghievigano.it",
+                "contact:fax": "+39 0432 671778",
+                "contact:phone": "+39 0432 671778",
+                "contact:website": "www.salmoiraghievigano.it",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "optician",
+                "survey:date": "2023-10-13",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9823311359,
             "lat": 45.6366081,
             "lon": 13.0615898,
@@ -3211,11 +3255,11 @@
         {
             "type": "node",
             "id": 9916760763,
-            "lat": 45.7762186,
-            "lon": 12.9962338,
-            "timestamp": "2023-10-07T19:08:00Z",
-            "version": 2,
-            "changeset": 142281256,
+            "lat": 45.7761962,
+            "lon": 12.9961864,
+            "timestamp": "2025-11-04T21:38:00Z",
+            "version": 3,
+            "changeset": 174214526,
             "user": "Latisana992",
             "uid": 4179361,
             "tags": {
@@ -3557,13 +3601,13 @@
         {
             "type": "node",
             "id": 11212214650,
-            "lat": 45.7757855,
-            "lon": 12.9953027,
-            "timestamp": "2025-10-25T20:46:46Z",
-            "version": 2,
-            "changeset": 173771996,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.7757618,
+            "lon": 12.9952526,
+            "timestamp": "2025-11-04T21:38:00Z",
+            "version": 3,
+            "changeset": 174214526,
+            "user": "Latisana992",
+            "uid": 4179361,
             "tags": {
                 "addr:city": "Latisana",
                 "addr:postcode": "33053",
@@ -6211,6 +6255,47 @@
                 "level": "0",
                 "name": "Calzedonia",
                 "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8766302,
+            "timestamp": "2025-01-10T10:12:53Z",
+            "version": 2,
+            "changeset": 161198839,
+            "user": "DnaX",
+            "uid": 69259,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 629940433,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940486,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940428,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 629940487,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "ref": "24/25",
+                "shop": "optician",
                 "type": "multipolygon"
             }
         },

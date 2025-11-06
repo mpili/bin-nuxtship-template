@@ -179,6 +179,28 @@
         },
         {
             "type": "node",
+            "id": 5624721277,
+            "lat": 37.0633888,
+            "lon": 15.2928012,
+            "timestamp": "2025-11-05T20:49:25Z",
+            "version": 8,
+            "changeset": 174259366,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Siracusa",
+                "addr:housenumber": "84",
+                "addr:postcode": "96100",
+                "addr:street": "Corso Giacomo Matteotti",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 5851837674,
             "lat": 36.9167604,
             "lon": 14.8207685,
@@ -450,6 +472,23 @@
         },
         {
             "type": "node",
+            "id": 6283162333,
+            "lat": 37.0866053,
+            "lon": 15.2879588,
+            "timestamp": "2024-03-28T22:47:22Z",
+            "version": 2,
+            "changeset": 149290130,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 6304756493,
             "lat": 37.0705939,
             "lon": 15.2847654,
@@ -524,6 +563,25 @@
                 "name": "Calzedonia",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6546231369,
+            "lat": 37.0693955,
+            "lon": 15.2626316,
+            "timestamp": "2023-12-26T11:42:07Z",
+            "version": 6,
+            "changeset": 145530122,
+            "user": "fayor",
+            "uid": 743479,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "optician"
             }
         },
         {

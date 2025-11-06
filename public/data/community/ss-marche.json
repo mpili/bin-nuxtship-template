@@ -1489,6 +1489,29 @@
         },
         {
             "type": "node",
+            "id": 3673123960,
+            "lat": 43.8005616,
+            "lon": 13.0128392,
+            "timestamp": "2021-12-23T10:00:09Z",
+            "version": 3,
+            "changeset": 115290198,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:postcode": "61032",
+                "addr:street": "Via Luigi Einaudi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 0721 855438",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3809621232,
             "lat": 43.6858584,
             "lon": 12.9627643,
@@ -2214,6 +2237,31 @@
                 "name": "PittaRosso",
                 "ref:vatin": "IT03846980286",
                 "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8332361822,
+            "lat": 43.6178872,
+            "lon": 13.5125746,
+            "timestamp": "2025-04-22T10:16:17Z",
+            "version": 6,
+            "changeset": 165277028,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "80",
+                "addr:postcode": "60121",
+                "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "check_date:opening_hours": "2025-04-22",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:30-14:00,15:00-19:30; Su 16:00-20:00",
+                "shop": "optician",
+                "wheelchair": "yes"
             }
         },
         {

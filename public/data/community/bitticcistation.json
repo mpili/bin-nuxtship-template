@@ -2422,6 +2422,28 @@
         },
         {
             "type": "node",
+            "id": 11182456133,
+            "lat": 42.8541971,
+            "lon": 13.5754279,
+            "timestamp": "2025-04-21T07:31:35Z",
+            "version": 3,
+            "changeset": 165223580,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "25",
+                "addr:postcode": "63100",
+                "addr:street": "Piazza del Popolo",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-04-20",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 11206224462,
             "lat": 43.2797885,
             "lon": 13.5020234,
@@ -3457,6 +3479,27 @@
                 "name": "Calzedonia",
                 "phone": "+39 0736 895074",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12529582965,
+            "lat": 42.8576337,
+            "lon": 13.7098135,
+            "timestamp": "2025-03-12T11:18:20Z",
+            "version": 4,
+            "changeset": 163522937,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-03-12",
+                "level": "0",
+                "local_ref": "24",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 0736 812633",
+                "shop": "optician"
             }
         },
         {
@@ -4835,6 +4878,35 @@
                 "opening_hours": "Mo-Su 09:00-21:00",
                 "phone": "+39 348 3654472",
                 "shop": "clothes",
+                "temporary": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1096729215,
+            "timestamp": "2023-01-15T02:24:13Z",
+            "version": 3,
+            "changeset": 131284609,
+            "user": "totera",
+            "uid": 123412,
+            "nodes": [
+                10042880889,
+                10035114006,
+                10035114005,
+                10042860901,
+                10042880892,
+                10042880890,
+                10042880889
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "phone": "+39 0861 714576",
+                "shop": "optician",
                 "temporary": "yes"
             }
         },

@@ -3082,6 +3082,29 @@
         },
         {
             "type": "node",
+            "id": 4426950098,
+            "lat": 45.7760358,
+            "lon": 12.0465428,
+            "timestamp": "2025-01-10T10:12:25Z",
+            "version": 4,
+            "changeset": 161198820,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Montebelluna",
+                "addr:housenumber": "8",
+                "addr:postcode": "31044",
+                "addr:street": "Via Cavour",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "Survey",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 4475979558,
             "lat": 45.4075651,
             "lon": 11.8762281,
@@ -3185,6 +3208,28 @@
                 "phone": "+39 0445 651181",
                 "shop": "water_filter",
                 "website": "https://www.acquatecnicasrl.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4553696431,
+            "lat": 45.4403256,
+            "lon": 10.9944138,
+            "timestamp": "2025-06-28T16:26:35Z",
+            "version": 3,
+            "changeset": 168234130,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Verona",
+                "addr:country": "IT",
+                "addr:housenumber": "64",
+                "addr:postcode": "37121",
+                "addr:street": "Via Giuseppe Mazzini",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -3581,6 +3626,29 @@
                 "operator": "OVS",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5604131331,
+            "lat": 45.5424226,
+            "lon": 11.6002395,
+            "timestamp": "2022-07-20T07:14:07Z",
+            "version": 3,
+            "changeset": 123836206,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "addr:city": "Vicenza",
+                "addr:housenumber": "282",
+                "addr:postcode": "36100",
+                "addr:street": "Strada di Ca' Balbi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "fixme": "Confusing opening_hours",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 08:00-18:00,08:30-12:30, Mo-Sa 15:30-19:30",
+                "shop": "optician"
             }
         },
         {
@@ -4740,6 +4808,24 @@
                 "operator": "OVS",
                 "phone": "+39 041481976",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10032039178,
+            "lat": 45.4402757,
+            "lon": 10.9943302,
+            "timestamp": "2025-04-02T09:16:28Z",
+            "version": 4,
+            "changeset": 164409687,
+            "user": "VRN32",
+            "uid": 21907021,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-04-02",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -7959,6 +8045,33 @@
                 "level": "0",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1227411386,
+            "timestamp": "2023-11-28T18:04:45Z",
+            "version": 1,
+            "changeset": 144559341,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                11382083214,
+                11382083212,
+                11382083227,
+                11382083218,
+                11382083219,
+                11382083215,
+                11382083214
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "contact:website": "https://www.salmoiraghievigano.it/",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

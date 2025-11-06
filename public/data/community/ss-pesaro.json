@@ -1546,6 +1546,29 @@
         },
         {
             "type": "node",
+            "id": 3673123960,
+            "lat": 43.8005616,
+            "lon": 13.0128392,
+            "timestamp": "2021-12-23T10:00:09Z",
+            "version": 3,
+            "changeset": 115290198,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Fano",
+                "addr:postcode": "61032",
+                "addr:street": "Via Luigi Einaudi",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 0721 855438",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
+            }
+        },
+        {
+            "type": "node",
             "id": 3741801230,
             "lat": 44.0917252,
             "lon": 12.3753688,

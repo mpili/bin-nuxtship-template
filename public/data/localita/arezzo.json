@@ -594,6 +594,31 @@
         },
         {
             "type": "node",
+            "id": 1962273542,
+            "lat": 43.4621168,
+            "lon": 11.8796106,
+            "timestamp": "2023-09-11T13:02:48Z",
+            "version": 5,
+            "changeset": 141112212,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Arezzo",
+                "addr:country": "IT",
+                "addr:housenumber": "183",
+                "addr:postcode": "52100",
+                "addr:street": "Corso Italia",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "entrance": "yes",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "survey",
+                "survey:date": "2012-10-11"
+            }
+        },
+        {
+            "type": "node",
             "id": 1962273549,
             "lat": 43.4618,
             "lon": 11.8792607,
@@ -1339,6 +1364,27 @@
                 "brand:wikidata": "Q894870",
                 "name": "Bottega Verde",
                 "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8255967518,
+            "lat": 43.3204178,
+            "lon": 11.3309431,
+            "timestamp": "2024-04-29T17:16:25Z",
+            "version": 5,
+            "changeset": 150673573,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "53",
+                "addr:postcode": "53100",
+                "addr:street": "Banchi di Sopra",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -2098,6 +2144,29 @@
                 "phone": "+39 0577 52771",
                 "shop": "electronics",
                 "website": "https://elettromercato.domex.it/homepage/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12048108646,
+            "lat": 43.33077,
+            "lon": 11.3223235,
+            "timestamp": "2025-01-10T10:06:49Z",
+            "version": 2,
+            "changeset": 161198626,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:place": "Piazzale Carlo Rosselli",
+                "addr:postcode": "53100",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "email": "info@salmoiraghievigano.it",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 0577 226889",
+                "shop": "optician",
+                "website": "https://www.salmoiraghievigano.it/"
             }
         },
         {

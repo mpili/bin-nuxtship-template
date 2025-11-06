@@ -1853,12 +1853,16 @@
             "id": 845006558,
             "lat": 45.930623,
             "lon": 8.5691363,
-            "timestamp": "2020-04-27T09:00:04Z",
-            "version": 4,
-            "changeset": 84185320,
-            "user": "Francoerbi41",
-            "uid": 4982687,
+            "timestamp": "2025-11-04T21:01:36Z",
+            "version": 5,
+            "changeset": 174213359,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Verbania",
+                "addr:housenumber": "133",
+                "addr:postcode": "28922",
+                "addr:street": "Via Vittorio Veneto",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -2140,12 +2144,16 @@
             "id": 1235829957,
             "lat": 45.6616662,
             "lon": 9.1257737,
-            "timestamp": "2021-06-24T13:34:19Z",
-            "version": 4,
-            "changeset": 106903714,
-            "user": "airon90",
-            "uid": 89897,
+            "timestamp": "2025-11-04T21:05:02Z",
+            "version": 5,
+            "changeset": 174213470,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Lentate sul Seveso",
+                "addr:housenumber": "8",
+                "addr:postcode": "20823",
+                "addr:street": "Via Nazionale dei Giovi",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -3246,6 +3254,23 @@
                 "opening_hours": "Mo-Su 9:00-19:30",
                 "operator": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3002463034,
+            "lat": 45.7522852,
+            "lon": 9.0141466,
+            "timestamp": "2025-01-10T09:49:51Z",
+            "version": 2,
+            "changeset": 161198094,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {
@@ -13906,6 +13931,30 @@
         },
         {
             "type": "node",
+            "id": 12096871137,
+            "lat": 45.8179005,
+            "lon": 8.8264035,
+            "timestamp": "2025-01-19T09:43:50Z",
+            "version": 7,
+            "changeset": 161517335,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "description": "Accetta anche le assicurazioni come metodo di pagamento",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-13:00,15:00-19:00",
+                "payment:american_express": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:edenred_card": "yes",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12096871502,
             "lat": 45.8174439,
             "lon": 8.8273479,
@@ -14119,6 +14168,43 @@
                 "shop": "clothes",
                 "source": "survey",
                 "stroller": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12136141737,
+            "lat": 45.8084206,
+            "lon": 8.8615344,
+            "timestamp": "2024-09-03T21:28:29Z",
+            "version": 4,
+            "changeset": 156160594,
+            "user": "Paguro01",
+            "uid": 21809705,
+            "tags": {
+                "air_conditioning": "yes",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2024-08-25",
+                "currency:CHF": "yes",
+                "currency:EUR": "yes",
+                "currency:others": "no",
+                "internet_access": "no",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Th,Sa-Su 09:00-21:00; Fr 09:00-21:30",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:global_blue": "yes",
+                "payment:others": "no",
+                "payment:pagodil": "yes",
+                "second_hand": "no",
+                "shop": "optician",
+                "source": "survey",
+                "stroller": "yes",
+                "toilets": "no",
                 "wheelchair": "yes"
             }
         },
@@ -14806,6 +14892,24 @@
                 "operator": "Calzedonia Spa",
                 "ref:vatin": "IT02253210237",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12766054738,
+            "lat": 45.786378,
+            "lon": 9.0477588,
+            "timestamp": "2025-04-24T13:06:17Z",
+            "version": 3,
+            "changeset": 165378685,
+            "user": "mingo23",
+            "uid": 1902578,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f3",
+                "shop": "optician"
             }
         },
         {
@@ -19149,6 +19253,35 @@
                 "level_name": "Piano Terra",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1223349475,
+            "timestamp": "2024-12-09T10:41:55Z",
+            "version": 3,
+            "changeset": 160086747,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                11347548254,
+                11347548253,
+                11347548252,
+                11347548251,
+                11347548250,
+                11347548249,
+                11347548248,
+                11347548247,
+                11347548254
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "level_name": "Piano Terra",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

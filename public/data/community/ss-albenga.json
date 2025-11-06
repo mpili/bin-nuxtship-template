@@ -7,7 +7,7 @@
     "idlocalita": "albenga",
     "telegram_weburl": "https://web.telegram.org/a/#-1001936842828",
     "telegram_app": "https://t.me/SatoshiSpritzAlbenga",
-    "telegram_members": 58.0,
+    "telegram_members": 44.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -757,6 +757,24 @@
         },
         {
             "type": "node",
+            "id": 3431855683,
+            "lat": 44.3090221,
+            "lon": 8.4809024,
+            "timestamp": "2025-01-10T10:15:47Z",
+            "version": 3,
+            "changeset": 161198964,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 3472684803,
             "lat": 44.3439635,
             "lon": 8.5441201,
@@ -921,6 +939,26 @@
                 "ref:vatin": "IT03269110965",
                 "shop": "clothes",
                 "website": "https://www.hm.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4227738905,
+            "lat": 44.312708,
+            "lon": 8.4722731,
+            "timestamp": "2025-01-10T10:16:43Z",
+            "version": 4,
+            "changeset": 161198990,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 019 819078",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -2007,6 +2045,23 @@
         },
         {
             "type": "node",
+            "id": 11544106661,
+            "lat": 43.8894966,
+            "lon": 8.039944,
+            "timestamp": "2025-01-10T10:15:42Z",
+            "version": 2,
+            "changeset": 161198953,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 11561421743,
             "lat": 43.9509527,
             "lon": 8.1481815,
@@ -2166,6 +2221,24 @@
                 "phone": "+39 0182 1902807",
                 "shop": "sports",
                 "website": "https://www.decathlon.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12318712029,
+            "lat": 44.0547409,
+            "lon": 8.1961974,
+            "timestamp": "2024-11-06T20:49:29Z",
+            "version": 3,
+            "changeset": 158833104,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },

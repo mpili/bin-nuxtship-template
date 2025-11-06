@@ -1200,6 +1200,33 @@
         },
         {
             "type": "node",
+            "id": 4690626026,
+            "lat": 44.8010021,
+            "lon": 10.3298181,
+            "timestamp": "2025-06-28T11:03:18Z",
+            "version": 5,
+            "changeset": 168222232,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:city": "Parma",
+                "addr:country": "IT",
+                "addr:housenumber": "11/a",
+                "addr:postcode": "43121",
+                "addr:street": "Strada della Repubblica",
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-06-28",
+                "entrance": "main",
+                "level": "0",
+                "loc_ref": "0817",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
             "id": 4690627105,
             "lat": 44.7998215,
             "lon": 10.3276122,
@@ -3235,6 +3262,23 @@
         },
         {
             "type": "node",
+            "id": 11546992139,
+            "lat": 44.6992191,
+            "lon": 10.6289388,
+            "timestamp": "2024-01-25T20:07:41Z",
+            "version": 2,
+            "changeset": 146686730,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
             "id": 11547020030,
             "lat": 44.6994578,
             "lon": 10.6285035,
@@ -3816,6 +3860,25 @@
                 "name": "Calzedonia",
                 "opening_hours": "Mo-Su 09:00-20:30",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11928530052,
+            "lat": 45.1520362,
+            "lon": 10.7251499,
+            "timestamp": "2025-01-10T09:54:44Z",
+            "version": 4,
+            "changeset": 161198233,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -5685,6 +5748,34 @@
                 "name": "Bottega Verde",
                 "name:it": "Bottega Verde",
                 "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 571467433,
+            "timestamp": "2023-01-04T10:57:42Z",
+            "version": 4,
+            "changeset": 130861400,
+            "user": "airon90",
+            "uid": 89897,
+            "nodes": [
+                5492169750,
+                5492169738,
+                5492169739,
+                5492169749,
+                5492169748,
+                5492169744,
+                5492169746,
+                5492169751,
+                5492169750
+            ],
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "indoor": "room",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
             }
         },
         {

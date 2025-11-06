@@ -7,7 +7,7 @@
     "idlocalita": "genova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001731437379",
     "telegram_app": "https://t.me/BitcoinGenova",
-    "telegram_members": 87.0,
+    "telegram_members": 86.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -454,12 +454,16 @@
             "id": 227953705,
             "lat": 44.3527539,
             "lon": 9.2177269,
-            "timestamp": "2023-01-27T23:41:57Z",
-            "version": 11,
-            "changeset": 131792325,
-            "user": "EBSerKartler",
-            "uid": 13231221,
+            "timestamp": "2025-11-04T19:45:42Z",
+            "version": 12,
+            "changeset": 174210601,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Rapallo",
+                "addr:housenumber": "364",
+                "addr:postcode": "16035",
+                "addr:street": "Piazza Cesare Battisti",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -613,12 +617,16 @@
             "id": 229104377,
             "lat": 44.4268693,
             "lon": 8.8569475,
-            "timestamp": "2021-08-23T02:17:08Z",
-            "version": 7,
-            "changeset": 110084036,
-            "user": "camminatoreseriale",
-            "uid": 8546710,
+            "timestamp": "2025-11-04T20:47:01Z",
+            "version": 8,
+            "changeset": 174212833,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Genova",
+                "addr:housenumber": "16",
+                "addr:postcode": "16153",
+                "addr:street": "Via Borzoli",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -957,12 +965,16 @@
             "id": 765612921,
             "lat": 44.3534237,
             "lon": 9.2132794,
-            "timestamp": "2023-01-27T23:41:57Z",
-            "version": 5,
-            "changeset": 131792325,
-            "user": "EBSerKartler",
-            "uid": 13231221,
+            "timestamp": "2025-11-04T21:00:47Z",
+            "version": 6,
+            "changeset": 174213330,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Rapallo",
+                "addr:housenumber": "27",
+                "addr:postcode": "16035",
+                "addr:street": "Via Sant'Anna",
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
@@ -1131,6 +1143,26 @@
                 "phone": "+39 010 6001195",
                 "shop": "sports",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1171073591,
+            "lat": 44.4055121,
+            "lon": 8.9406067,
+            "timestamp": "2025-03-29T07:48:36Z",
+            "version": 6,
+            "changeset": 164237493,
+            "user": "LucioGE",
+            "uid": 326642,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "check_date": "2025-03-29",
+                "check_date:opening_hours": "2025-03-29",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 15:00-19:00",
+                "shop": "optician"
             }
         },
         {
@@ -1757,6 +1789,24 @@
         },
         {
             "type": "node",
+            "id": 3431855683,
+            "lat": 44.3090221,
+            "lon": 8.4809024,
+            "timestamp": "2025-01-10T10:15:47Z",
+            "version": 3,
+            "changeset": 161198964,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 3472684803,
             "lat": 44.3439635,
             "lon": 8.5441201,
@@ -2007,6 +2057,26 @@
         },
         {
             "type": "node",
+            "id": 3862971201,
+            "lat": 44.4105911,
+            "lon": 8.9090563,
+            "timestamp": "2021-10-07T04:42:20Z",
+            "version": 4,
+            "changeset": 112195417,
+            "user": "camminatoreseriale",
+            "uid": 8546710,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "operator": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 3867211141,
             "lat": 44.3073436,
             "lon": 8.4869257,
@@ -2051,6 +2121,26 @@
                 "ref:vatin": "IT03269110965",
                 "shop": "clothes",
                 "website": "https://www.hm.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4227738905,
+            "lat": 44.312708,
+            "lon": 8.4722731,
+            "timestamp": "2025-01-10T10:16:43Z",
+            "version": 4,
+            "changeset": 161198990,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 019 819078",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -2334,6 +2424,28 @@
                 "name": "Kasanova",
                 "opening_hours": "Mo-Su 08:30-21:00",
                 "shop": "houseware",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5086201067,
+            "lat": 44.4728535,
+            "lon": 8.9001315,
+            "timestamp": "2022-02-17T08:27:56Z",
+            "version": 16,
+            "changeset": 117508182,
+            "user": "EneaSuper",
+            "uid": 2885860,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "brand:wikipedia": "it:Salmoiraghi & Vigan\u00f2",
+                "indoor": "yes",
+                "level": "0",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "opening_hours": "Mo-Su 08:30-21:00",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
