@@ -17,7 +17,7 @@ const breadcrumb = computed(() => [
     <div v-for="item in data.items">
       <LandingSectionhead>
         <template v-slot:title>{{ item.titolo }}</template>
-        <template v-slot:desc>Sisitema di pagamento bitcoin</template>
+        <template v-slot:desc>Sistema di pagamento bitcoin</template>
       </LandingSectionhead>
 
       <LandingBreadcrumb :voci="breadcrumb" />
