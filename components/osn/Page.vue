@@ -1,5 +1,5 @@
 <script setup>
-const props = defineProps(["data"]);
+const props = defineProps(["data","dbpending", "dbdata", "dberror"]);
 
 useHead({
   title: useTagsname(props?.data?.tags) + " | Bitcoin Italia Network",
@@ -26,15 +26,15 @@ useHead({
   ],
 });
 
-const url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
-const {
-  pending,
-  data: dbdata,
-  error,
-} = await useLazyFetch(url_api, {
-  lazy: true,
-  server: false,
-});
+// const db_url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
+// const {
+//   pending: dbpending,
+//   data: dbdata,
+//   error: dberror,
+// } = await useLazyFetch(db_url_api, {
+//   lazy: true,
+//   server: false,
+// });
 </script>
 
 <template>
@@ -45,7 +45,7 @@ const {
         <template v-slot:desc><OsnTipovenue :tags="data?.tags" /></template>
       </LandingSectionhead>
 
-      <OnwImmagine :pending="pending" :dbdata="dbdata" />
+      <OnwImmagine :pending="dbpending" :dbdata="dbdata" />
       <OnwTagimage :tags="data?.tags" />
       <!-- <WikidataLogo :data="data" /> -->
 
@@ -58,18 +58,18 @@ const {
         <OnwTagsgroupone :data="data" />
       </div>
 
-      <OnwDescrizione :pending="pending" :dbdata="dbdata" />
+      <OnwDescrizione :pending="dbpending" :dbdata="dbdata" />
 
       <div v-if="data?.tags">
         <OsnTagwebsites :tags="data?.tags" />
         <OsnTagemails :tags="data?.tags" />
-        <OsnSocials :tags="data.tags" :dbdata="dbdata" :pending="pending" />
+        <OsnSocials :tags="data.tags" :dbdata="dbdata" :pending="dbpending" />
       </div>
 
       <OsnXtagsx :idnodosm="data?.id" />
 
       <OsnMap :data="data" />
-      <OsnXmaps :data="data" :pending="pending" :dbdata="dbdata" />
+      <OsnXmaps :data="data" :pending="dbpending" :dbdata="dbdata" />
 
       <OsnOsmbtcmap :data="data" />
 

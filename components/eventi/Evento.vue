@@ -43,9 +43,7 @@ useHead({
     :event="{
       date: evento?.data,
       title: evento?.titolo,
-      image: evento.img ? 
-      'https://bin-dev.pockethost.io/api/files/eventi/' + evento.id +'/' +evento.img
-      : '',
+      image: useEventoImg(evento),
       description: evento?.descrizionex,
       location: evento?.location,
       city: evento?.city
