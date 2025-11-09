@@ -45,9 +45,10 @@ const props = defineProps([
       </svg>
     </button>
 
-    <OnwFabosm :id="id" />
-    <OnwFabg :dbpending="dbpending" :dbdata="dbdata" :dberror="dberror" />
-    <OnwFabbing :dbpending="dbpending" :dbdata="dbdata" :dberror="dberror" />
-    <OnwFabwebsite :oppending="oppending" :opdata="opdata" :operror="operror" />
+    <OnwFabosm :id="id" :type="type" />
+    <OnwFabg       :dbpending="dbpending" :dbdata="dbdata" />
+    <OnwFabbing    :dbpending="dbpending" :dbdata="dbdata" />
+    <OnwFabwebsite :oppending="oppending" :opdata="opdata" />
+    <OnwFabsocial  :oppending="oppending" :opdata="opdata" />
   </div>
 </template>

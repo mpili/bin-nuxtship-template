@@ -1,5 +1,5 @@
 <script setup>
-const props = defineProps(["data"]);
+const props = defineProps(["data","dbpending", "dbdata", "dberror"]);
 
 useHead({
   title: useTagsname(props?.data?.tags) + " | Bitcoin Italia Network",
@@ -26,15 +26,15 @@ useHead({
   ],
 });
 
-const url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
-const {
-  pending,
-  data: dbdata,
-  error,
-} = await useLazyFetch(url_api, {
-  lazy: true,
-  server: false,
-});
+// const url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${props?.data?.id}')`;
+// const {
+//   pending,
+//   data: dbdata,
+//   error,
+// } = await useLazyFetch(url_api, {
+//   lazy: true,
+//   server: false,
+// });
 </script>
 
 <template>
