@@ -1,14 +1,24 @@
 <script setup>
-const props = defineProps(["id"]);
+import { computed } from 'vue';
+
+const props = defineProps({
+  id: [String, Number],
+  type: String
+});
+
+const segment = computed(() => {
+  if (props.type === 'w') return 'way';
+  if (props.type === 'r') return 'relation';
+  return 'node';
+});
+
+const href = computed(() => `https://www.openstreetmap.org/${segment.value}/${props.id}`);
 </script>
+
 <template>
-  <button class="btn btn-lg btn-circle">
-    <a :href="'https://www.openstreetmap.org/node/' + id" target="_blank">
-    <div class="tooltip tooltip-left" data-tip="openstreetmap">
-      <button class="btn btn-lg btn-circle">
-		<Icon name="openmoji:openstreetmap" size="24" />
-	  </button>
-    </div>
-    </a>
-  </button>
+  <OnwFabutton
+    :url="href"
+    icon="openmoji:openstreetmap"
+    tooltip="openstreetmap"
+  />
 </template>

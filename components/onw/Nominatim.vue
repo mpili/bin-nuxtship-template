@@ -15,14 +15,14 @@ const isDev = process.dev
   <div v-else>
     <OnwPosizione v-if="data?.address" :address="data.address" :tags="tags" />
 
-    <!-- <OnwEdit
+    <OnwEdit
       v-if="isDev"
       :dataosm="dataosm"
       :lat="lat"
       :lon="lon"
       :datanomninatim="data"
       :tags="tags"
-    /> -->
+    />
 
     <!-- <div class="font-mono text-xs m-8">{{ url_api }}</div> -->
 

@@ -1,17 +1,11 @@
 <script setup>
-const props = defineProps(["oppending", "opdata", "operror"]);
+const props = defineProps(["oppending", "opdata"]);
 </script>
 <template>
-  <a
+  <OnwFabutton
     v-if="!oppending && useTagswebsite(opdata.elements[0].tags)"
-    :href="useTagswebsite(opdata.elements[0].tags)"
-    target="_blank"
-    rel="noopener"
-  >
-    <div class="tooltip tooltip-left" data-tip="sito web">
-      <button class="btn btn-lg btn-circle">
-        <Icon name="streamline-freehand-color:worldwide-web-network-www" size="24" />
-      </button>
-    </div>
-  </a>
+    :url="opdata.elements[0].tags['website']"
+    icon="streamline-freehand-color:worldwide-web-network-www"
+    tooltip="sito web"
+  />
 </template>

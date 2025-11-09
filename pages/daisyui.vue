@@ -65,6 +65,7 @@ const weekDays = ["Lun", "Mar", "Mer", "Gio", "Ven", "Sab", "Dom"];
       <button class="btn btn-lg btn-circle">B</button>
       <button class="btn btn-lg btn-circle">C</button>
       <button class="btn btn-lg btn-circle">D</button>
+      <button class="btn btn-lg btn-circle">E</button>
     </div>
 
     <p>isDev: {{ isDev }}</p>

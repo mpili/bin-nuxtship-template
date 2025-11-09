@@ -1,15 +1,11 @@
 <script setup>
-const props = defineProps(["dbpending", "dbdata", "dberror"]);
+const props = defineProps(["dbpending", "dbdata"]);
 </script>
 <template>
-  <a
+  <OnwFabutton
     v-if="!dbpending && dbdata?.items[0]?.gmap"
-    :href="dbdata?.items[0]?.gmap"
-    target="_blank"
-    rel="noopener"
-  >
-    <div class="tooltip tooltip-left" data-tip="google maps">
-      <button class="btn btn-lg btn-circle"><Icon name="logos:google-maps" size="24" /></button>
-    </div>
-  </a>
+    :url="dbdata?.items[0]?.gmap"
+    icon="logos:google-maps"
+    tooltip="google maps"
+  />
 </template>
