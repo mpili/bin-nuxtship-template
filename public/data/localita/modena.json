@@ -95,11 +95,11 @@
             "id": 227566316,
             "lat": 45.4437145,
             "lon": 10.9696302,
-            "timestamp": "2022-01-15T08:45:55Z",
-            "version": 10,
-            "changeset": 116174492,
-            "user": "Tresho",
-            "uid": 6178157,
+            "timestamp": "2025-11-08T10:47:38Z",
+            "version": 11,
+            "changeset": 174368907,
+            "user": "Jacopo",
+            "uid": 21822,
             "tags": {
                 "addr:city": "Verona",
                 "addr:country": "IT",
@@ -110,6 +110,7 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "yes",
                 "fuel:diesel": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
@@ -3273,6 +3274,24 @@
                 "office": "coworking",
                 "phone": "+39 3356674607",
                 "website": "https://www.modenacoworking.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6509103520,
+            "lat": 45.2143608,
+            "lon": 10.4186955,
+            "timestamp": "2025-11-08T14:11:54Z",
+            "version": 2,
+            "changeset": 174378183,
+            "user": "pfez",
+            "uid": 6520581,
+            "tags": {
+                "branch": "\"SEA\"",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "shop": "electronics"
             }
         },
         {

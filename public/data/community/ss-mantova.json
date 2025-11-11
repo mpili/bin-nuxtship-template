@@ -179,11 +179,11 @@
             "id": 227566316,
             "lat": 45.4437145,
             "lon": 10.9696302,
-            "timestamp": "2022-01-15T08:45:55Z",
-            "version": 10,
-            "changeset": 116174492,
-            "user": "Tresho",
-            "uid": 6178157,
+            "timestamp": "2025-11-08T10:47:38Z",
+            "version": 11,
+            "changeset": 174368907,
+            "user": "Jacopo",
+            "uid": 21822,
             "tags": {
                 "addr:city": "Verona",
                 "addr:country": "IT",
@@ -194,6 +194,7 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "brand:wikipedia": "en:Tamoil",
+                "compressed_air": "yes",
                 "fuel:diesel": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
@@ -2977,6 +2978,24 @@
         },
         {
             "type": "node",
+            "id": 6509103520,
+            "lat": 45.2143608,
+            "lon": 10.4186955,
+            "timestamp": "2025-11-08T14:11:54Z",
+            "version": 2,
+            "changeset": 174378183,
+            "user": "pfez",
+            "uid": 6520581,
+            "tags": {
+                "branch": "\"SEA\"",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6716423564,
             "lat": 44.7727216,
             "lon": 11.0912702,
@@ -4914,6 +4933,28 @@
                 "brand:wikidata": "Q4004687",
                 "name": "Unieuro",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13287011165,
+            "lat": 45.0892009,
+            "lon": 10.245296,
+            "timestamp": "2025-11-07T10:59:47Z",
+            "version": 7,
+            "changeset": 174328192,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "opening_hours": "24/7",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {

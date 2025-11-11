@@ -19,7 +19,7 @@ export default {
 	/> -->
   <UiLogoLink
     :url="'/xt/psp/'+value"
-    :img="'/img/psp/'+value+'.png'"
+    :img="'/img/psp/'+value+'.svg'"
   />
   </div>
 </template>

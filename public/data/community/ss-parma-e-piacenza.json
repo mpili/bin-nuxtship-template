@@ -551,6 +551,32 @@
         },
         {
             "type": "node",
+            "id": 229102754,
+            "lat": 45.11774,
+            "lon": 10.115538,
+            "timestamp": "2025-11-07T11:32:19Z",
+            "version": 14,
+            "changeset": 174329552,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "ref:mise": "32862",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 229119930,
             "lat": 45.4811921,
             "lon": 9.7918505,
@@ -3292,15 +3318,20 @@
             "id": 10178757637,
             "lat": 44.9988602,
             "lon": 9.0745892,
-            "timestamp": "2024-04-04T21:51:06Z",
-            "version": 3,
-            "changeset": 149588930,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-09T16:00:00Z",
+            "version": 4,
+            "changeset": 174424100,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Montebello della Battaglia",
+                "addr:housenumber": "50",
+                "addr:postcode": "27054",
+                "addr:street": "Via Ingegnere Adolfo Mazza",
                 "brand": "Salmoiraghi & Vigan\u00f2",
                 "brand:wikidata": "Q21272314",
                 "name": "Salmoiraghi & Vigan\u00f2",
+                "phone": "+39 0383890391",
                 "shop": "optician",
                 "wheelchair": "yes"
             }
@@ -4214,6 +4245,28 @@
                 "brand:wikidata": "Q894870",
                 "name": "Bottega Verde",
                 "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13287011165,
+            "lat": 45.0892009,
+            "lon": 10.245296,
+            "timestamp": "2025-11-07T10:59:47Z",
+            "version": 7,
+            "changeset": 174328192,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "opening_hours": "24/7",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -5600,11 +5653,11 @@
         {
             "type": "way",
             "id": 1330916212,
-            "timestamp": "2025-03-15T16:46:49Z",
-            "version": 2,
-            "changeset": 163659179,
-            "user": "GiovanniC83",
-            "uid": 9622178,
+            "timestamp": "2025-11-07T12:02:15Z",
+            "version": 4,
+            "changeset": 174330800,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 12314407161,
                 12314407162,
@@ -5627,11 +5680,13 @@
                 "contact:tiktok": "https://www.tiktok.com/@desparnord",
                 "contact:whatsapp": "https://www.whatsapp.com/channel/0029VaKSecf1HspwcdF1y82f",
                 "contact:youtube": "https://www.youtube.com/user/DesparNordest",
+                "diet:gluten_free": "yes",
                 "fixme": "approximate shape",
                 "name": "Eurospar",
                 "opening_hours": "Mo-Sa 08:00-20:00 Su-Su 08:00-19:00",
                 "phone": "+39037237415",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {

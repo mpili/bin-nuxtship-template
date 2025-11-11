@@ -1,5 +1,5 @@
 <script setup>
-const props = defineProps(["data"]);
+const props = defineProps(["tag", "value", "data"]);
 
 const breadcrumb = computed(() => [
   {
@@ -10,7 +10,6 @@ const breadcrumb = computed(() => [
     label: props.data.items[0].titolo,
   },
 ]);
-
 </script>
 <template>
   <div v-if="data.items">
@@ -21,6 +20,13 @@ const breadcrumb = computed(() => [
       </LandingSectionhead>
 
       <LandingBreadcrumb :voci="breadcrumb" />
+
+      <NuxtImg
+        v-if="(tag = 'psp')"
+        :src="'/img/psp/' + value + '.svg'"
+        class="my-8 rounded-lg shadow-lg m-4 p-4"
+
+      />
 
       <div v-if="item.descrizione" class="mt-8" v-html="item.descrizione"></div>
 
