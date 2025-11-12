@@ -7,7 +7,7 @@
     "idlocalita": "modena",
     "telegram_weburl": "https://web.telegram.org/a/#-1001339469755",
     "telegram_app": "https://t.me/CryptoModena",
-    "telegram_members": 147.0,
+    "telegram_members": 144.0,
     "poi": [
         {
             "type": "node",
@@ -4295,6 +4295,28 @@
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "11720",
                 "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5595728112,
+            "lat": 44.5073057,
+            "lon": 11.3037169,
+            "timestamp": "2025-11-06T21:31:56Z",
+            "version": 4,
+            "changeset": 174308200,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "90",
+                "addr:postcode": "40133",
+                "addr:street": "Via Emilia Ponente",
+                "check_date": "2024-11-23",
+                "currency:XBT": "yes",
+                "name": "Libreria del Ponte",
+                "phone": "+39 051 389394",
+                "shop": "books"
             }
         },
         {

@@ -36,7 +36,7 @@ definePageMeta({
     <div v-if="pending_xtag">
     </div>
     <div v-else>
-      <XtTestata :data="dbdata_xtag" />
+      <XtTestata :tag="tag" :value="value" :data="dbdata_xtag" />
     </div>
 
     <div v-if="pending">

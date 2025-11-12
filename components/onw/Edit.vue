@@ -3,8 +3,6 @@ const props = defineProps(["dataosm", "lat", "lon", "datanomninatim", "tags"]);
 const address = props.datanomninatim?.address;
 </script>
 <template>
-  <!-- <Icon name="material-symbols:edit-square" /> -->
-
   <div tabindex="0" class="collapse bg-base-100 border-base-300 border my-4">
     <div class="collapse-title"><Icon name="material-symbols:edit-square" /></div>
     <div class="collapse-content text-sm">

@@ -846,11 +846,11 @@
             "id": 992576917,
             "lat": 41.7035899,
             "lon": 12.6872414,
-            "timestamp": "2022-05-20T11:31:01Z",
-            "version": 5,
-            "changeset": 121239090,
-            "user": "Genio2003",
-            "uid": 15172358,
+            "timestamp": "2025-11-09T17:09:57Z",
+            "version": 6,
+            "changeset": 174427326,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Genzano di Roma",
                 "addr:housenumber": "2-4",
@@ -863,7 +863,7 @@
                 "name:en": "Supermercato Carrefour Market",
                 "name:it": "Supermercato Carrefour Market",
                 "opening_hours": "Mo-Su 08:00-20:30",
-                "phone": "06 936 3385",
+                "phone": "+39 06 936 3385",
                 "shop": "supermarket",
                 "website": "https://carrefour.it"
             }
@@ -2759,11 +2759,11 @@
             "id": 4099376403,
             "lat": 41.735485,
             "lon": 12.2780596,
-            "timestamp": "2025-10-09T21:32:07Z",
-            "version": 5,
-            "changeset": 173069206,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-09T17:09:57Z",
+            "version": 6,
+            "changeset": 174427326,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "68",
@@ -2773,7 +2773,7 @@
                 "clothes": "underwear",
                 "name": "Jacked",
                 "opening_hours": "Mo-Su 09:30-13:30; Mo-Su 15:45-19:45",
-                "phone": "0681170722",
+                "phone": "+39 06 8117 0722",
                 "shop": "clothes",
                 "wheelchair": "yes"
             }
@@ -2935,11 +2935,11 @@
             "id": 4230222473,
             "lat": 41.9082017,
             "lon": 12.4672086,
-            "timestamp": "2024-12-30T19:07:47Z",
-            "version": 5,
-            "changeset": 160805079,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-09T17:09:57Z",
+            "version": 6,
+            "changeset": 174427326,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "96",
@@ -2953,7 +2953,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0694365624",
+                "phone": "+39 06 9436 5624",
                 "shop": "clothes",
                 "wheelchair": "no"
             }
@@ -3821,11 +3821,11 @@
             "id": 4847967975,
             "lat": 41.8843865,
             "lon": 12.5113075,
-            "timestamp": "2025-07-30T17:03:52Z",
-            "version": 3,
-            "changeset": 169731505,
-            "user": "divanettoooo",
-            "uid": 22482620,
+            "timestamp": "2025-11-09T17:09:57Z",
+            "version": 4,
+            "changeset": 174427326,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "51",
@@ -3839,7 +3839,7 @@
                 "operator": "Mondadori Retail S.p.A.",
                 "payment:cash": "yes",
                 "payment:contactless": "yes",
-                "phone": "067003690",
+                "phone": "+39 06 700 3690",
                 "shop": "books",
                 "website": "https://www.mondadoristore.it/negozi/libreria/mondadori-bookstore-roma-appia-nuova/MXV928"
             }
@@ -4476,11 +4476,11 @@
             "id": 5816078954,
             "lat": 41.8743736,
             "lon": 12.5230783,
-            "timestamp": "2025-01-09T09:44:32Z",
-            "version": 5,
-            "changeset": 161162504,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-09T17:09:57Z",
+            "version": 6,
+            "changeset": 174427326,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "150",
@@ -4495,7 +4495,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "067811840",
+                "phone": "+39 06 781 1840",
                 "shop": "clothes"
             }
         },
@@ -5105,11 +5105,11 @@
             "id": 6498339845,
             "lat": 41.885081,
             "lon": 12.5098042,
-            "timestamp": "2024-12-30T19:07:22Z",
-            "version": 4,
-            "changeset": 160805067,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-09T17:09:57Z",
+            "version": 5,
+            "changeset": 174427326,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "6",
@@ -5124,7 +5124,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0655271763",
+                "phone": "+39 06 5527 1763",
                 "shop": "clothes"
             }
         },
@@ -10946,6 +10946,27 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "survey:date": "2025-10-02"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13298375196,
+            "lat": 41.9211883,
+            "lon": 12.4575169,
+            "timestamp": "2025-11-11T21:33:08Z",
+            "version": 1,
+            "changeset": 174531931,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "167",
+                "addr:postcode": "00195",
+                "addr:street": "Circonvallazione Clodia",
+                "amenity": "marketplace",
+                "currency:XBT": "yes",
+                "name": "TaoMark",
+                "website": "https://www.taomark.com/"
             }
         },
         {

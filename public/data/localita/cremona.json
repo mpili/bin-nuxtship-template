@@ -219,6 +219,32 @@
         },
         {
             "type": "node",
+            "id": 229102754,
+            "lat": 45.11774,
+            "lon": 10.115538,
+            "timestamp": "2025-11-07T11:32:19Z",
+            "version": 14,
+            "changeset": 174329552,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "ref:mise": "32862",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 229117532,
             "lat": 45.5175423,
             "lon": 9.8724306,
@@ -427,6 +453,39 @@
                 "operator": "I Girasoli di Calersi Pietro e C. S.N.C.",
                 "ref:mise": "24476",
                 "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 725821956,
+            "lat": 45.5345723,
+            "lon": 10.149963,
+            "timestamp": "2025-11-07T11:03:53Z",
+            "version": 7,
+            "changeset": 174326986,
+            "user": "pfez",
+            "uid": 6520581,
+            "tags": {
+                "addr:city": "Roncadelle",
+                "addr:housenumber": "37;39",
+                "addr:postcode": "25030",
+                "addr:street": "Via Enrico Mattei",
+                "brand": "Spazio Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "it:Conad",
+                "contact:email": "conad.roncadelle@conadcentronord.it",
+                "contact:phone": "+39 030 27891",
+                "contact:website": "https://www.conad.it/ricerca-negozi/negozio.010079.html",
+                "level": "0",
+                "name": "Spazio Conad",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 09:00-20:00",
+                "operator": "Forty s.r.l.",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "ref:vatin": "IT03576960987",
+                "shop": "supermarket",
+                "start_date": "2020-09-23"
             }
         },
         {
@@ -3406,6 +3465,24 @@
         },
         {
             "type": "node",
+            "id": 6509103520,
+            "lat": 45.2143608,
+            "lon": 10.4186955,
+            "timestamp": "2025-11-08T14:11:54Z",
+            "version": 2,
+            "changeset": 174378183,
+            "user": "pfez",
+            "uid": 6520581,
+            "tags": {
+                "branch": "\"SEA\"",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6577053126,
             "lat": 45.4838985,
             "lon": 9.780915,
@@ -5845,6 +5922,28 @@
             }
         },
         {
+            "type": "node",
+            "id": 13287011165,
+            "lat": 45.0892009,
+            "lon": 10.245296,
+            "timestamp": "2025-11-07T10:59:47Z",
+            "version": 7,
+            "changeset": 174328192,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "opening_hours": "24/7",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
+            }
+        },
+        {
             "type": "way",
             "id": 27549342,
             "timestamp": "2025-05-23T16:12:37Z",
@@ -6060,11 +6159,11 @@
         {
             "type": "way",
             "id": 82668446,
-            "timestamp": "2025-05-14T05:07:54Z",
-            "version": 8,
-            "changeset": 166234864,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2025-11-11T12:48:35Z",
+            "version": 9,
+            "changeset": 174509399,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "nodes": [
                 962120856,
                 962120827,
@@ -6081,7 +6180,7 @@
                 "building": "retail",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
-                "phone": "030 2305775",
+                "phone": "+39 030 230 5775",
                 "shop": "supermarket",
                 "website": "https://conad.it/"
             }
@@ -7641,11 +7740,11 @@
         {
             "type": "way",
             "id": 1330916212,
-            "timestamp": "2025-03-15T16:46:49Z",
-            "version": 2,
-            "changeset": 163659179,
-            "user": "GiovanniC83",
-            "uid": 9622178,
+            "timestamp": "2025-11-07T12:02:15Z",
+            "version": 4,
+            "changeset": 174330800,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 12314407161,
                 12314407162,
@@ -7668,11 +7767,13 @@
                 "contact:tiktok": "https://www.tiktok.com/@desparnord",
                 "contact:whatsapp": "https://www.whatsapp.com/channel/0029VaKSecf1HspwcdF1y82f",
                 "contact:youtube": "https://www.youtube.com/user/DesparNordest",
+                "diet:gluten_free": "yes",
                 "fixme": "approximate shape",
                 "name": "Eurospar",
                 "opening_hours": "Mo-Sa 08:00-20:00 Su-Su 08:00-19:00",
                 "phone": "+39037237415",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {

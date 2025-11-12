@@ -817,11 +817,11 @@
             "id": 287864085,
             "lat": 43.8870098,
             "lon": 11.0033316,
-            "timestamp": "2025-11-04T20:54:29Z",
-            "version": 5,
-            "changeset": 174213086,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-10T10:22:45Z",
+            "version": 6,
+            "changeset": 174455346,
+            "user": "Emabarto",
+            "uid": 10142223,
             "tags": {
                 "addr:city": "Agliana",
                 "addr:housenumber": "78",
@@ -830,9 +830,10 @@
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
-                "name": "Q8",
+                "name": "IP",
                 "operator": "Ala Carburanti S.R.L.",
-                "ref:mise": "41267"
+                "ref:mise": "41267",
+                "self_service": "yes"
             }
         },
         {
@@ -4057,32 +4058,6 @@
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "shop": "clothes",
                 "wheelchair": "limited"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8365269756,
-            "lat": 43.618808,
-            "lon": 11.1876905,
-            "timestamp": "2025-10-17T21:48:14Z",
-            "version": 5,
-            "changeset": 173429467,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "San Casciano in Val di Pesa",
-                "addr:postcode": "50026",
-                "addr:street": "Raccordo Autostradale 3 Siena-Firenze",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:cng": "yes",
-                "fuel:diesel": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "self_service": "yes"
             }
         },
         {

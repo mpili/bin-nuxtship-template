@@ -7,7 +7,7 @@
     "idlocalita": "valdisusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002445101954",
     "telegram_app": "https://t.me/SatoshiSpritzValSusa",
-    "telegram_members": 28.0,
+    "telegram_members": 27.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -4347,11 +4347,11 @@
             "id": 6804656410,
             "lat": 45.0700072,
             "lon": 7.6836035,
-            "timestamp": "2024-12-30T18:57:02Z",
-            "version": 6,
-            "changeset": 160804726,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-11T17:06:28Z",
+            "version": 7,
+            "changeset": 174521396,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "5",
@@ -4365,7 +4365,7 @@
                 "email": "torino.viotti@doppelganger.it",
                 "name": "Doppelg\u00e4nger",
                 "opening_hours": "Mo-Su 10:00-20:00",
-                "phone": "011535799",
+                "phone": "+39 011 535799",
                 "ref:vatin": "IT10471441005",
                 "shop": "clothes",
                 "website": "https://www.doppelganger.it"
@@ -5755,11 +5755,11 @@
             "id": 10788402216,
             "lat": 44.9821768,
             "lon": 7.6209179,
-            "timestamp": "2023-10-18T10:16:53Z",
-            "version": 4,
-            "changeset": 142755331,
-            "user": "lukasbrunner",
-            "uid": 348712,
+            "timestamp": "2025-11-11T17:06:28Z",
+            "version": 5,
+            "changeset": 174521396,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Nichelino",
                 "addr:postcode": "10042",
@@ -5768,7 +5768,7 @@
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Nuvolari c.c. Mondojuve",
-                "phone": "01118930118",
+                "phone": "+39 011 1893 0118",
                 "shop": "clothes"
             }
         },
@@ -7276,6 +7276,45 @@
                 "name": "Primark",
                 "phone": "+39 011 071 2810",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13288764944,
+            "lat": 45.0663138,
+            "lon": 7.6509837,
+            "timestamp": "2025-11-08T09:45:15Z",
+            "version": 1,
+            "changeset": 174365213,
+            "user": "madbob",
+            "uid": 734100,
+            "tags": {
+                "brand": "OVS Kids",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "name": "OVS Kids",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13298262986,
+            "lat": 45.0183988,
+            "lon": 7.6599416,
+            "timestamp": "2025-11-11T20:47:15Z",
+            "version": 1,
+            "changeset": 174530267,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "124g",
+                "addr:postcode": "10127",
+                "addr:street": "Via Canelli",
+                "currency:XBT": "yes",
+                "name": "Laboratorio Orafo Maurizio Marottoli",
+                "phone": "+39 011 605 4335",
+                "shop": "jewelry"
             }
         },
         {

@@ -4006,6 +4006,28 @@
         },
         {
             "type": "node",
+            "id": 5595728112,
+            "lat": 44.5073057,
+            "lon": 11.3037169,
+            "timestamp": "2025-11-06T21:31:56Z",
+            "version": 4,
+            "changeset": 174308200,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "90",
+                "addr:postcode": "40133",
+                "addr:street": "Via Emilia Ponente",
+                "check_date": "2024-11-23",
+                "currency:XBT": "yes",
+                "name": "Libreria del Ponte",
+                "phone": "+39 051 389394",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 5628224822,
             "lat": 44.7176038,
             "lon": 10.5859345,

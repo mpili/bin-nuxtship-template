@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001588009167_1",
     "telegram_app": "https://t.me/BitcoinParma",
-    "telegram_members": 34.0,
+    "telegram_members": 33.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -161,6 +161,32 @@
                 "operator": "Pietri Giorgio e C. S.N.C.",
                 "ref:mise": "12366",
                 "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 229102754,
+            "lat": 45.11774,
+            "lon": 10.115538,
+            "timestamp": "2025-11-07T11:32:19Z",
+            "version": 14,
+            "changeset": 174329552,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_98": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "ref:mise": "32862",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2399,6 +2425,24 @@
         },
         {
             "type": "node",
+            "id": 6509103520,
+            "lat": 45.2143608,
+            "lon": 10.4186955,
+            "timestamp": "2025-11-08T14:11:54Z",
+            "version": 2,
+            "changeset": 174378183,
+            "user": "pfez",
+            "uid": 6520581,
+            "tags": {
+                "branch": "\"SEA\"",
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "name": "Trony",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
             "id": 6758886855,
             "lat": 44.8432632,
             "lon": 10.0157361,
@@ -4330,6 +4374,28 @@
                 "brand:wikidata": "Q894870",
                 "name": "Bottega Verde",
                 "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13287011165,
+            "lat": 45.0892009,
+            "lon": 10.245296,
+            "timestamp": "2025-11-07T10:59:47Z",
+            "version": 7,
+            "changeset": 174328192,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
+                "opening_hours": "24/7",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6748,11 +6814,11 @@
         {
             "type": "way",
             "id": 1330916212,
-            "timestamp": "2025-03-15T16:46:49Z",
-            "version": 2,
-            "changeset": 163659179,
-            "user": "GiovanniC83",
-            "uid": 9622178,
+            "timestamp": "2025-11-07T12:02:15Z",
+            "version": 4,
+            "changeset": 174330800,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 12314407161,
                 12314407162,
@@ -6775,11 +6841,13 @@
                 "contact:tiktok": "https://www.tiktok.com/@desparnord",
                 "contact:whatsapp": "https://www.whatsapp.com/channel/0029VaKSecf1HspwcdF1y82f",
                 "contact:youtube": "https://www.youtube.com/user/DesparNordest",
+                "diet:gluten_free": "yes",
                 "fixme": "approximate shape",
                 "name": "Eurospar",
                 "opening_hours": "Mo-Sa 08:00-20:00 Su-Su 08:00-19:00",
                 "phone": "+39037237415",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
