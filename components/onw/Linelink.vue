@@ -8,7 +8,8 @@ const tags = props.poi.tags;
     <NuxtLink :to="usePoiLink(poi)">
       <OnwXbtindicator :tags="tags">
         <div class="flex flex-wrap p-2 border-1 my-2 rounded shadow">
-          <div v-if="useDismesso(tags)" class="text-neutral-content pr-2">
+          <Icon :name="useIconavenue(tags)" size="24" class="mr-2" />
+          <div v-if="useDismesso(tags)" class="text-neutral-content p-2">
             {{ useTagsname(tags) }}
           </div>
           <div v-else class="text-primary font-bold pr-2">

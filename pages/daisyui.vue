@@ -9,91 +9,169 @@ useHead({
 definePageMeta({
   layout: "main",
 });
-
-const currentDate = ref(new Date());
-const currentMonth = computed(() => currentDate.value.getMonth());
-const currentYear = computed(() => currentDate.value.getFullYear());
-
-const daysInMonth = computed(() => {
-  return new Date(currentYear.value, currentMonth.value + 1, 0).getDate();
-});
-
-const firstDayOfMonth = computed(() => {
-  // Date.getDay(): 0 = Domenica, 1 = Lunedì, ...
-  // shift so che Lunedì sia indice 0
-  const d = new Date(currentYear.value, currentMonth.value, 1).getDay();
-  return (d + 6) % 7;
-});
-
-const monthName = computed(() => {
-  return new Intl.DateTimeFormat("it-IT", { month: "long" }).format(
-    currentDate.value
-  );
-});
-
-const calendarDays = computed(() => {
-  const days = [];
-  // Add empty cells for days before the first day of the month
-  for (let i = 0; i < firstDayOfMonth.value; i++) {
-    days.push(null);
-  }
-  // Add the days of the month
-  for (let i = 1; i <= daysInMonth.value; i++) {
-    days.push(i);
-  }
-  return days;
-});
-
-const weekDays = ["Lun", "Mar", "Mer", "Gio", "Ven", "Sab", "Dom"];
 </script>
 
 <template>
   <LandingContainer>
-    
-    
-    <div class="fab fab-flower">
-      <!-- a focusable div with tabindex is necessary to work on all browsers. role="button" is necessary for accessibility -->
-      <div tabindex="0" role="button" class="btn btn-lg btn-circle btn-success">
-        F
-      </div>
-
-      <!-- Main Action button replaces the original button when FAB is open -->
-      <button class="fab-main-action btn btn-circle btn-lg">M</button>
-
-      <!-- buttons that show up when FAB is open -->
-      <button class="btn btn-lg btn-circle">A</button>
-      <button class="btn btn-lg btn-circle">B</button>
-      <button class="btn btn-lg btn-circle">C</button>
-      <button class="btn btn-lg btn-circle">D</button>
-      <button class="btn btn-lg btn-circle">E</button>
-    </div>
-
     <p>isDev: {{ isDev }}</p>
-    <div class="divide-y divide-gray-300/50">
-      <!-- Calendar Section -->
-      <div class="mb-8">
-        <div class="flex justify-center">
-          <div class="card bg-base-100 shadow-xl">
-            <div class="card-body">
-              <h2 class="card-title">{{ monthName }} {{ currentYear }}</h2>
-              <div class="grid grid-cols-7 text-center gap-2 my-4">
-                <template v-for="(d, i) in weekDays" :key="i">
-                  <div class="font-bold">{{ d }}</div>
-                </template>
-                <template v-for="(day, index) in calendarDays" :key="index">
-                  <div
-                    v-if="day"
-                    class="p-2 hover:bg-base-200 rounded-lg cursor-pointer"
-                  >
-                    <div class="border p-2">{{ day }}</div>
-                  </div>
-                  <div v-else class="p-2"></div>
-                </template>
-              </div>
-            </div>
+
+    <ul class="list bg-base-100 rounded-box shadow-md">
+      <li class="p-4 pb-2 text-xs opacity-60 tracking-wide">
+        Most played songs this week
+      </li>
+
+      <li class="list-row">
+        <div>
+          <img
+            class="size-10 rounded-box"
+            src="https://img.daisyui.com/images/profile/demo/1@94.webp"
+          />
+        </div>
+        <div>
+          <div>Dio Lupa</div>
+          <div class="text-xs uppercase font-semibold opacity-60">
+            Remaining Reason
           </div>
         </div>
-      </div>
-    </div>
+        <button class="btn btn-square btn-ghost">
+          <svg
+            class="size-[1.2em]"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g
+              stroke-linejoin="round"
+              stroke-linecap="round"
+              stroke-width="2"
+              fill="none"
+              stroke="currentColor"
+            >
+              <path d="M6 3L20 12 6 21 6 3z"></path>
+            </g>
+          </svg>
+        </button>
+        <button class="btn btn-square btn-ghost">
+          <svg
+            class="size-[1.2em]"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g
+              stroke-linejoin="round"
+              stroke-linecap="round"
+              stroke-width="2"
+              fill="none"
+              stroke="currentColor"
+            >
+              <path
+                d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"
+              ></path>
+            </g>
+          </svg>
+        </button>
+      </li>
+
+      <li class="list-row">
+        <div>
+          <img
+            class="size-10 rounded-box"
+            src="https://img.daisyui.com/images/profile/demo/4@94.webp"
+          />
+        </div>
+        <div>
+          <div>Ellie Beilish</div>
+          <div class="text-xs uppercase font-semibold opacity-60">
+            Bears of a fever
+          </div>
+        </div>
+        <button class="btn btn-square btn-ghost">
+          <svg
+            class="size-[1.2em]"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g
+              stroke-linejoin="round"
+              stroke-linecap="round"
+              stroke-width="2"
+              fill="none"
+              stroke="currentColor"
+            >
+              <path d="M6 3L20 12 6 21 6 3z"></path>
+            </g>
+          </svg>
+        </button>
+        <button class="btn btn-square btn-ghost">
+          <svg
+            class="size-[1.2em]"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g
+              stroke-linejoin="round"
+              stroke-linecap="round"
+              stroke-width="2"
+              fill="none"
+              stroke="currentColor"
+            >
+              <path
+                d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"
+              ></path>
+            </g>
+          </svg>
+        </button>
+      </li>
+
+      <li class="list-row">
+        <div>
+          <img
+            class="size-10 rounded-box"
+            src="https://img.daisyui.com/images/profile/demo/3@94.webp"
+          />
+        </div>
+        <div>
+          <div>Sabrino Gardener</div>
+          <div class="text-xs uppercase font-semibold opacity-60">
+            Cappuccino
+          </div>
+        </div>
+        <button class="btn btn-square btn-ghost">
+          <svg
+            class="size-[1.2em]"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g
+              stroke-linejoin="round"
+              stroke-linecap="round"
+              stroke-width="2"
+              fill="none"
+              stroke="currentColor"
+            >
+              <path d="M6 3L20 12 6 21 6 3z"></path>
+            </g>
+          </svg>
+        </button>
+        <button class="btn btn-square btn-ghost">
+          <svg
+            class="size-[1.2em]"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g
+              stroke-linejoin="round"
+              stroke-linecap="round"
+              stroke-width="2"
+              fill="none"
+              stroke="currentColor"
+            >
+              <path
+                d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"
+              ></path>
+            </g>
+          </svg>
+        </button>
+      </li>
+    </ul>
   </LandingContainer>
 </template>

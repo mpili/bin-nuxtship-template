@@ -1,15 +1,7 @@
 <template>
   <div class="hero">
     <div class="hero-content flex-col lg:flex-row-reverse">
-      <img
-        class="rounded-full transition-transform transform hover:scale-125"
-        src="~/assets/img/a06-w.png"
-        alt="Starship starts the engine"
-        loading="eager"
-        format="avif"
-        width="512"
-        height="512"
-      />
+      <MainHeroimg />
       <div>
         <h1 class="text-5xl font-bold">Bitcoin Italia Network</h1>
         <p class="py-6">
