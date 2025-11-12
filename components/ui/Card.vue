@@ -22,7 +22,7 @@ export default {
 </script>
 <template>
   <div class="card bg-base-100 w-80 shadow-xl">
-    <figure class="px-10 pt-10">
+    <figure class="px-4 pt-10">
       <img :src="imageSrc" :alt="imageAlt" class="rounded-xl" />
       <!-- <NuxtImg :src="imageSrc" :alt="imageAlt" class="rounded-xl" /> -->
     </figure>

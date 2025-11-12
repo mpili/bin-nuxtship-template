@@ -8,7 +8,7 @@ const listaAccordion = ref(false)
 	<div class="tabs tabs-box mt-4">
 		<input type="radio" name="my_tabs_6" class="tab" aria-label="Lista" checked="checked" />
 		<div class="tab-content bg-base-100 border-base-300 p-6">
-			<OnwPoislista :datapois="datapois" />
+			<OnwPoislistad :datapois="datapois" />
 		</div>
 
 		<input type="radio" name="my_tabs_6" class="tab" aria-label="Categorie" />
@@ -25,5 +25,11 @@ const listaAccordion = ref(false)
 		<div class="tab-content bg-base-100 border-base-300 p-6">
 			<OnwPoiscitta :datapois="datapois" />
 		</div>
+		
+		<input type="radio" name="my_tabs_6" class="tab" aria-label="Elenco" />
+		<div class="tab-content bg-base-100 border-base-300 p-6">
+			<OnwPoiselenco :datapois="datapois" />
+		</div>
+		
 	</div>
 </template>

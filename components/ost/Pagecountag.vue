@@ -22,6 +22,7 @@ export default {
             tag.count
           }}</span>
           <button class="btn">
+            <Icon :name="useIconatagkey(tipo, tag[tipo])" size="28" />
             <OsnTraducitag :tag="tipo" :value="tag[tipo]" />
           </button>
         </div>
