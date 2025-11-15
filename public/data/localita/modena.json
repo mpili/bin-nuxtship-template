@@ -2447,11 +2447,11 @@
             "id": 4712517944,
             "lat": 44.6469689,
             "lon": 10.925682,
-            "timestamp": "2025-01-09T09:45:44Z",
-            "version": 9,
-            "changeset": 161162555,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 10,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Modena",
                 "addr:country": "IT",
@@ -2465,7 +2465,7 @@
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
-                "phone": "0598301476",
+                "phone": "+39 059 830 1476",
                 "shop": "clothes"
             }
         },
@@ -8182,11 +8182,11 @@
         {
             "type": "way",
             "id": 847226069,
-            "timestamp": "2023-11-16T17:21:40Z",
-            "version": 3,
-            "changeset": 144105433,
-            "user": "ivanbranco",
-            "uid": 11220113,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 4,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "nodes": [
                 7905662078,
                 7905662077,
@@ -8206,7 +8206,7 @@
                 "contact:street": "Via Celestino Goldoni",
                 "name": "Conad",
                 "opening_hours": "Mo-Su 08:00-20:00",
-                "phone": "0522054660",
+                "phone": "+39 0522 054660",
                 "shop": "supermarket",
                 "website": "https://conad.it/"
             }
@@ -9035,11 +9035,11 @@
         {
             "type": "relation",
             "id": 2223354,
-            "timestamp": "2024-12-27T18:16:06Z",
-            "version": 3,
-            "changeset": 160687506,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 4,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "members": [
                 {
                     "type": "way",
@@ -9063,7 +9063,7 @@
                 "layer": "1",
                 "name": "Natural Mystic",
                 "payment:lightning": "yes",
-                "phone": "059654312",
+                "phone": "+39 059 654312",
                 "shop": "cannabis",
                 "type": "multipolygon",
                 "website": "https://www.naturalmystic.it/"
@@ -9072,11 +9072,11 @@
         {
             "type": "relation",
             "id": 2223361,
-            "timestamp": "2024-10-25T08:27:33Z",
-            "version": 2,
-            "changeset": 158326173,
-            "user": "parrotoshi",
-            "uid": 22107124,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 3,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "members": [
                 {
                     "type": "way",
@@ -9102,7 +9102,7 @@
                 "payment:debit_cards": "yes",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
-                "phone": "059 686868",
+                "phone": "+39 059 686868",
                 "shop": "jewelry",
                 "type": "multipolygon"
             }

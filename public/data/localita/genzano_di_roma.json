@@ -2091,11 +2091,11 @@
             "id": 2302343814,
             "lat": 41.9046844,
             "lon": 12.4773805,
-            "timestamp": "2025-06-07T17:54:10Z",
-            "version": 9,
-            "changeset": 167321669,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2025-11-14T10:05:47Z",
+            "version": 10,
+            "changeset": 174640982,
+            "user": "Jacob Rosendal Kristensen",
+            "uid": 730016,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "25",
@@ -2105,7 +2105,7 @@
                 "brand": "Esselunga",
                 "brand:wikidata": "Q1059636",
                 "check_date": "2025-06-07",
-                "name": "La Esse",
+                "name": "Esselunga",
                 "opening_hours": "Mo-Su 08:00-21:00",
                 "operator": "Esselunga S.p.A.",
                 "phone": "+39 06 6813 9887",
@@ -5401,6 +5401,24 @@
         },
         {
             "type": "node",
+            "id": 6990218685,
+            "lat": 41.912393,
+            "lon": 12.4742629,
+            "timestamp": "2025-11-14T10:05:47Z",
+            "version": 2,
+            "changeset": 174640982,
+            "user": "Jacob Rosendal Kristensen",
+            "uid": 730016,
+            "tags": {
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "name": "Carrefour",
+                "name:nl": "Carrefour",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 7018252151,
             "lat": 41.8055921,
             "lon": 12.5979552,
@@ -6105,6 +6123,26 @@
                 "phone": "+39 06 6994 2356",
                 "shop": "clothes",
                 "website": "https://www.doppelganger.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8167060052,
+            "lat": 41.9054366,
+            "lon": 12.4786486,
+            "timestamp": "2025-11-14T10:05:47Z",
+            "version": 6,
+            "changeset": 174640982,
+            "user": "Jacob Rosendal Kristensen",
+            "uid": 730016,
+            "tags": {
+                "addr:housenumber": "119",
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "old_name": "Guess",
+                "proposed:shop": "clothes",
+                "shop": "clothes"
             }
         },
         {
@@ -7650,11 +7688,11 @@
             "id": 9779572708,
             "lat": 41.9085904,
             "lon": 12.4577725,
-            "timestamp": "2024-12-30T19:08:01Z",
-            "version": 4,
-            "changeset": 160805086,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-14T11:48:58Z",
+            "version": 5,
+            "changeset": 174644675,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "85",
@@ -7668,7 +7706,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0639730809",
+                "phone": "+39 06 3973 0809",
                 "shop": "clothes"
             }
         },
@@ -12781,11 +12819,11 @@
         {
             "type": "way",
             "id": 460814397,
-            "timestamp": "2025-06-25T08:36:40Z",
-            "version": 2,
-            "changeset": 168083135,
-            "user": "Astalavista56",
-            "uid": 21862251,
+            "timestamp": "2025-11-14T11:48:58Z",
+            "version": 3,
+            "changeset": 174644675,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "nodes": [
                 4564169913,
                 4564169914,
@@ -12804,7 +12842,7 @@
                 "name": "Carrefour",
                 "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-20:00",
                 "operator": "Carrefour",
-                "phone": "0620760146",
+                "phone": "+39 06 2076 0146",
                 "shop": "supermarket",
                 "website": "https://www.carrefour.it/punti-vendita/carrefour-market-roma-via-prataporci-62-3614.html"
             }

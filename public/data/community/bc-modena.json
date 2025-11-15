@@ -1601,13 +1601,13 @@
         {
             "type": "node",
             "id": 4053203984,
-            "lat": 44.5015723,
-            "lon": 11.3419399,
-            "timestamp": "2023-04-15T19:37:21Z",
-            "version": 2,
-            "changeset": 134953362,
-            "user": "Robot8A",
-            "uid": 393359,
+            "lat": 44.5016305,
+            "lon": 11.3416626,
+            "timestamp": "2025-11-12T17:12:06Z",
+            "version": 3,
+            "changeset": 174569657,
+            "user": "Cybermanx",
+            "uid": 22604600,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "18",
@@ -2470,11 +2470,11 @@
             "id": 4513679325,
             "lat": 44.6953631,
             "lon": 10.4970745,
-            "timestamp": "2024-09-27T13:04:48Z",
-            "version": 5,
-            "changeset": 157170443,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 6,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Barco",
                 "addr:housenumber": "34a",
@@ -2486,7 +2486,7 @@
                 "email": "info@senso-unico.net",
                 "name": "Senso Unico snc grafica & Design",
                 "office": "graphic_design",
-                "phone": "0522372351",
+                "phone": "+39 0522 372351",
                 "website": "https://www.senso-unico.net"
             }
         },
@@ -3678,11 +3678,11 @@
             "id": 4712517944,
             "lat": 44.6469689,
             "lon": 10.925682,
-            "timestamp": "2025-01-09T09:45:44Z",
-            "version": 9,
-            "changeset": 161162555,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 10,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Modena",
                 "addr:country": "IT",
@@ -3696,7 +3696,7 @@
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
-                "phone": "0598301476",
+                "phone": "+39 059 830 1476",
                 "shop": "clothes"
             }
         },
@@ -3808,11 +3808,11 @@
             "id": 4762538120,
             "lat": 44.4883207,
             "lon": 11.2490912,
-            "timestamp": "2025-01-10T09:57:48Z",
-            "version": 5,
-            "changeset": 161198340,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 6,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Casalecchio di Reno",
                 "addr:housenumber": "2/30",
@@ -3825,7 +3825,7 @@
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Nuvolari",
-                "phone": "0514985032",
+                "phone": "+39 051 498 5032",
                 "shop": "clothes"
             }
         },
@@ -5616,11 +5616,11 @@
             "id": 10840421518,
             "lat": 44.6299722,
             "lon": 10.6131363,
-            "timestamp": "2025-10-10T12:53:29Z",
-            "version": 4,
-            "changeset": 173093637,
-            "user": "Susymala",
-            "uid": 14777719,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 5,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Albinea",
                 "addr:housenumber": "5",
@@ -5632,7 +5632,7 @@
                 "description": "Negozio di strumenti armonici: Campane tibetane, diapason, gong, tamburi...",
                 "email": "info@tibetstrumentiarmonici.com",
                 "name": "Armonie Sonore",
-                "phone": "0522598264",
+                "phone": "+39 0522 598264",
                 "ref:vatin": "IT02540600356",
                 "shop": "musical_instrument",
                 "website": "https://www.tibetstrumentiarmonici.com/"
@@ -7239,13 +7239,13 @@
         {
             "type": "node",
             "id": 12551005918,
-            "lat": 44.5016238,
-            "lon": 11.3416565,
-            "timestamp": "2025-10-16T19:59:41Z",
-            "version": 2,
-            "changeset": 173382810,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.5015726,
+            "lon": 11.3419388,
+            "timestamp": "2025-11-12T17:35:56Z",
+            "version": 4,
+            "changeset": 174570631,
+            "user": "Cybermanx",
+            "uid": 22604600,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "18",
@@ -7253,9 +7253,16 @@
                 "addr:street": "Via dei Mille",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
-                "check_date": "2025-02-01",
+                "check_date": "2025-11-12",
                 "name": "OVS",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:30",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39 051 422 2223",
+                "shop": "clothes",
+                "website": "https://ovs.it/it/it/stores/italia/emilia-romagna/bologna/ovs-bologna-martiri",
+                "wheelchair": "yes"
             }
         },
         {
@@ -7382,6 +7389,34 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13305395174,
+            "lat": 44.5316543,
+            "lon": 11.2693683,
+            "timestamp": "2025-11-15T10:24:26Z",
+            "version": 4,
+            "changeset": 174680642,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "7",
+                "addr:postcode": "40132",
+                "addr:street": "Via Torquato Secci",
+                "check_date": "2025-11-14",
+                "check_date:currency:XBT": "2025-11-14",
+                "currency:XBT": "yes",
+                "name": "Ahrcos",
+                "office": "company",
+                "opening_hours": "Mo-Fr 06:30-19:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 051 725 763",
+                "website": "https://www.ahrcos.it/"
             }
         },
         {
@@ -10177,11 +10212,11 @@
         {
             "type": "way",
             "id": 847226069,
-            "timestamp": "2023-11-16T17:21:40Z",
-            "version": 3,
-            "changeset": 144105433,
-            "user": "ivanbranco",
-            "uid": 11220113,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 4,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "nodes": [
                 7905662078,
                 7905662077,
@@ -10201,7 +10236,7 @@
                 "contact:street": "Via Celestino Goldoni",
                 "name": "Conad",
                 "opening_hours": "Mo-Su 08:00-20:00",
-                "phone": "0522054660",
+                "phone": "+39 0522 054660",
                 "shop": "supermarket",
                 "website": "https://conad.it/"
             }
@@ -10691,11 +10726,11 @@
         {
             "type": "relation",
             "id": 2223354,
-            "timestamp": "2024-12-27T18:16:06Z",
-            "version": 3,
-            "changeset": 160687506,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 4,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "members": [
                 {
                     "type": "way",
@@ -10719,7 +10754,7 @@
                 "layer": "1",
                 "name": "Natural Mystic",
                 "payment:lightning": "yes",
-                "phone": "059654312",
+                "phone": "+39 059 654312",
                 "shop": "cannabis",
                 "type": "multipolygon",
                 "website": "https://www.naturalmystic.it/"
@@ -10728,11 +10763,11 @@
         {
             "type": "relation",
             "id": 2223361,
-            "timestamp": "2024-10-25T08:27:33Z",
-            "version": 2,
-            "changeset": 158326173,
-            "user": "parrotoshi",
-            "uid": 22107124,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 3,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "members": [
                 {
                     "type": "way",
@@ -10758,7 +10793,7 @@
                 "payment:debit_cards": "yes",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
-                "phone": "059 686868",
+                "phone": "+39 059 686868",
                 "shop": "jewelry",
                 "type": "multipolygon"
             }

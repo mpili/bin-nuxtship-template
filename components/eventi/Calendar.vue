@@ -46,23 +46,6 @@ const months = Array.from({ length: 12 }, (_, i) => i);
 
 <template>
   <LandingContainer>
-    <div class="fab fab-flower">
-      <!-- a focusable div with tabindex is necessary to work on all browsers. role="button" is necessary for accessibility -->
-      <div tabindex="0" role="button" class="btn btn-lg btn-circle btn-success">
-        F
-      </div>
-
-      <!-- Main Action button replaces the original button when FAB is open -->
-      <button class="fab-main-action btn btn-circle btn-lg">M</button>
-
-      <!-- buttons that show up when FAB is open -->
-      <button class="btn btn-lg btn-circle">A</button>
-      <button class="btn btn-lg btn-circle">B</button>
-      <button class="btn btn-lg btn-circle">C</button>
-      <button class="btn btn-lg btn-circle">D</button>
-      <button class="btn btn-lg btn-circle">E</button>
-    </div>
-
     <div class="divide-y divide-gray-300/50">
       <!-- Calendar Section -->
       <div class="mb-8">
