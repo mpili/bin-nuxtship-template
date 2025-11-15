@@ -1745,13 +1745,13 @@
         {
             "type": "node",
             "id": 4053203984,
-            "lat": 44.5015723,
-            "lon": 11.3419399,
-            "timestamp": "2023-04-15T19:37:21Z",
-            "version": 2,
-            "changeset": 134953362,
-            "user": "Robot8A",
-            "uid": 393359,
+            "lat": 44.5016305,
+            "lon": 11.3416626,
+            "timestamp": "2025-11-12T17:12:06Z",
+            "version": 3,
+            "changeset": 174569657,
+            "user": "Cybermanx",
+            "uid": 22604600,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "18",
@@ -3245,11 +3245,11 @@
             "id": 4762538120,
             "lat": 44.4883207,
             "lon": 11.2490912,
-            "timestamp": "2025-01-10T09:57:48Z",
-            "version": 5,
-            "changeset": 161198340,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 6,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Casalecchio di Reno",
                 "addr:housenumber": "2/30",
@@ -3262,7 +3262,7 @@
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Nuvolari",
-                "phone": "0514985032",
+                "phone": "+39 051 498 5032",
                 "shop": "clothes"
             }
         },
@@ -3449,11 +3449,11 @@
             "id": 5301076558,
             "lat": 44.4913946,
             "lon": 11.5579672,
-            "timestamp": "2025-08-27T20:44:36Z",
-            "version": 5,
-            "changeset": 171104013,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-11-12T03:43:40Z",
+            "version": 6,
+            "changeset": 174538690,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Medicina",
                 "addr:housenumber": "611",
@@ -3464,7 +3464,7 @@
                 "email": "commerciale@cnika.it",
                 "name": "Cnika",
                 "office": "engineer",
-                "phone": "051853172",
+                "phone": "+39 051 853172",
                 "website": "https://www.cnika.it/"
             }
         },
@@ -5629,13 +5629,13 @@
         {
             "type": "node",
             "id": 12551005918,
-            "lat": 44.5016238,
-            "lon": 11.3416565,
-            "timestamp": "2025-10-16T19:59:41Z",
-            "version": 2,
-            "changeset": 173382810,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.5015726,
+            "lon": 11.3419388,
+            "timestamp": "2025-11-12T17:35:56Z",
+            "version": 4,
+            "changeset": 174570631,
+            "user": "Cybermanx",
+            "uid": 22604600,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "18",
@@ -5643,9 +5643,16 @@
                 "addr:street": "Via dei Mille",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
-                "check_date": "2025-02-01",
+                "check_date": "2025-11-12",
                 "name": "OVS",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:30",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+39 051 422 2223",
+                "shop": "clothes",
+                "website": "https://ovs.it/it/it/stores/italia/emilia-romagna/bologna/ovs-bologna-martiri",
+                "wheelchair": "yes"
             }
         },
         {
@@ -5779,6 +5786,34 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13305395174,
+            "lat": 44.5316543,
+            "lon": 11.2693683,
+            "timestamp": "2025-11-15T10:24:26Z",
+            "version": 4,
+            "changeset": 174680642,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "7",
+                "addr:postcode": "40132",
+                "addr:street": "Via Torquato Secci",
+                "check_date": "2025-11-14",
+                "check_date:currency:XBT": "2025-11-14",
+                "currency:XBT": "yes",
+                "name": "Ahrcos",
+                "office": "company",
+                "opening_hours": "Mo-Fr 06:30-19:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 051 725 763",
+                "website": "https://www.ahrcos.it/"
             }
         },
         {

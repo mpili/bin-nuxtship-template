@@ -2155,6 +2155,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 13298704729,
+            "lat": 45.3264014,
+            "lon": 14.4493412,
+            "timestamp": "2025-11-12T02:45:24Z",
+            "version": 1,
+            "changeset": 174537800,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:street": "Milana Smokvine Tvrdog",
+                "amenity": "bureau_de_change",
+                "check_date": "2025-11-12",
+                "currency:EUR": "yes",
+                "currency:XBT": "yes",
+                "image": "https://static.bitstore.net/stores/rijeka_3.jpg",
+                "level": "0",
+                "name": "Bitcoin Store",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+                "operator": "Digital Assets d.o.o.",
+                "payment:cash": "yes",
+                "payment:onchain": "yes",
+                "phone": "+385 91 972 7089",
+                "url": "https://coinatmradar.com/bitcoin_teller/82490/bitcoin-teller-rijeka-bitcoin-store-rijeka/",
+                "website": "https://www.bitstore.net/hr/poslovnice/#rijeka",
+                "wheelchair": "no"
+            }
+        },
+        {
             "type": "way",
             "id": 36398333,
             "timestamp": "2022-06-29T21:40:17Z",

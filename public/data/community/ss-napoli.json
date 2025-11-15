@@ -1910,11 +1910,11 @@
             "id": 5257721032,
             "lat": 40.8387556,
             "lon": 14.2482341,
-            "timestamp": "2024-11-26T19:29:53Z",
-            "version": 3,
-            "changeset": 159631575,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-11-13T17:14:59Z",
+            "version": 4,
+            "changeset": 174615145,
+            "user": "clorofolle",
+            "uid": 23413670,
             "tags": {
                 "addr:city": "Napoli",
                 "addr:housenumber": "259;260",
@@ -1922,7 +1922,7 @@
                 "addr:street": "Via Toledo",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
-                "check_date": "2024-11-26",
+                "check_date": "2025-11-13",
                 "clothes": "underwear",
                 "name": "Tezenis",
                 "opening_hours": "Mo-Su 10:00-20:00",
@@ -2510,11 +2510,11 @@
         {
             "type": "node",
             "id": 5851836002,
-            "lat": 40.6628799,
-            "lon": 14.4295425,
-            "timestamp": "2025-11-11T16:28:03Z",
-            "version": 7,
-            "changeset": 174519671,
+            "lat": 40.6628555,
+            "lon": 14.4295036,
+            "timestamp": "2025-11-12T11:53:49Z",
+            "version": 8,
+            "changeset": 174555847,
             "user": "baprischka",
             "uid": 974272,
             "tags": {
@@ -9617,11 +9617,11 @@
         {
             "type": "node",
             "id": 13267606427,
-            "lat": 40.8527328,
-            "lon": 14.3754162,
-            "timestamp": "2025-10-29T18:41:41Z",
-            "version": 1,
-            "changeset": 173943797,
+            "lat": 40.8525111,
+            "lon": 14.3754828,
+            "timestamp": "2025-11-13T16:03:11Z",
+            "version": 2,
+            "changeset": 174612473,
             "user": "Pavol33",
             "uid": 15262530,
             "tags": {
@@ -9632,6 +9632,26 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13304647305,
+            "lat": 40.8360502,
+            "lon": 14.3053363,
+            "timestamp": "2025-11-14T13:28:43Z",
+            "version": 1,
+            "changeset": 174648360,
+            "user": "Pavol33",
+            "uid": 15262530,
+            "tags": {
+                "addr:city": "Napoli",
+                "branch": "San Giovanni a Teduccio",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "shop": "electronics",
                 "source": "survey"
             }
         },
@@ -11314,6 +11334,38 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "name": "Tamoil"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 8640854,
+            "timestamp": "2025-11-12T07:05:44Z",
+            "version": 2,
+            "changeset": 174543482,
+            "user": "c674a",
+            "uid": 13697350,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 522771182,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 79306133,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "operator": "Tamoil",
+                "source": "yahoo",
+                "type": "multipolygon"
             }
         },
         {

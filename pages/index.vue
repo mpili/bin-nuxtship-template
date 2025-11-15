@@ -1,4 +1,6 @@
 <script setup>
+const isDev = process.dev;
+
 useHead({
   title: "Bitcoin Italia Network",
 });
@@ -11,6 +13,7 @@ definePageMeta({
 <template>
   <LandingContainer>
     <MainHero></MainHero>
+    <MainAdbanner v-if="isDev" />
     <LandingHeventi></LandingHeventi>
     <LandingSlide></LandingSlide>
     <LandingSlogan></LandingSlogan>

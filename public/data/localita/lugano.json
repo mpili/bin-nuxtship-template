@@ -8156,6 +8156,27 @@
         },
         {
             "type": "node",
+            "id": 9979931913,
+            "lat": 46.0106624,
+            "lon": 8.8563261,
+            "timestamp": "2025-11-14T21:12:33Z",
+            "version": 3,
+            "changeset": 174665692,
+            "user": "Stemby",
+            "uid": 28559,
+            "tags": {
+                "addr:housenumber": "9",
+                "addr:street": "Piazza Francesco Ferrer",
+                "currency:XBT": "yes",
+                "name": "Malcant\u00f2n",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "shop": "convenience",
+                "website": "https://malcanton.ch"
+            }
+        },
+        {
+            "type": "node",
             "id": 10004226017,
             "lat": 45.9998844,
             "lon": 8.9498159,
@@ -15641,6 +15662,27 @@
             }
         },
         {
+            "type": "node",
+            "id": 13305345993,
+            "lat": 46.0106742,
+            "lon": 8.8563069,
+            "timestamp": "2025-11-14T21:12:33Z",
+            "version": 1,
+            "changeset": 174665692,
+            "user": "Stemby",
+            "uid": 28559,
+            "tags": {
+                "addr:housenumber": "9",
+                "addr:street": "Piazza Francesco Ferrer",
+                "contact:website": "https://greenwebsolutions.ch",
+                "currency:XBT": "yes",
+                "name": "Green Web Solutions",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "shop": "computer"
+            }
+        },
+        {
             "type": "way",
             "id": 26293953,
             "timestamp": "2025-07-09T13:34:31Z",
@@ -18069,30 +18111,29 @@
         {
             "type": "way",
             "id": 323493173,
-            "timestamp": "2025-07-29T05:27:56Z",
-            "version": 7,
-            "changeset": 169649590,
+            "timestamp": "2025-11-13T15:21:55Z",
+            "version": 8,
+            "changeset": 174611006,
             "user": "wies1",
             "uid": 11002689,
             "nodes": [
-                13033252218,
-                3302995857,
                 13033252217,
                 3302999264,
+                13033252210,
                 3302999263,
-                3302999262,
                 3302999261,
                 3302995860,
                 13033252202,
                 13033252216,
-                3302995858,
+                13301860973,
+                13301860975,
+                13301860974,
                 13033252215,
-                13033252214,
-                13033252213,
                 13033252212,
-                13033252211,
-                13033252210,
-                13033252218
+                3302999262,
+                13033252218,
+                3302995857,
+                13033252217
             ],
             "tags": {
                 "addr:city": "Lugano",
