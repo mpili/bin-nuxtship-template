@@ -5272,6 +5272,24 @@
         },
         {
             "type": "node",
+            "id": 9081649618,
+            "lat": 45.4169371,
+            "lon": 11.8239725,
+            "timestamp": "2024-12-06T11:46:00Z",
+            "version": 3,
+            "changeset": 159990826,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "1",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 9090132422,
             "lat": 45.4162036,
             "lon": 11.8248939,
@@ -6595,6 +6613,24 @@
         },
         {
             "type": "node",
+            "id": 11728150282,
+            "lat": 45.441328,
+            "lon": 12.3341228,
+            "timestamp": "2024-03-13T17:57:15Z",
+            "version": 1,
+            "changeset": 148606483,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-03-13",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 11730993675,
             "lat": 45.4413229,
             "lon": 12.3210229,
@@ -7764,6 +7800,29 @@
                 "level": "0",
                 "name": "Bottega Verde",
                 "shop": "cosmetics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13090619529,
+            "lat": 45.4585158,
+            "lon": 12.2133057,
+            "timestamp": "2025-08-22T20:19:56Z",
+            "version": 1,
+            "changeset": 170851135,
+            "user": "McCio",
+            "uid": 16146608,
+            "tags": {
+                "addr:city": "Marghera",
+                "addr:floor": "0",
+                "addr:housenumber": "20",
+                "addr:postcode": "30175",
+                "addr:street": "Via Pietro Arduino",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

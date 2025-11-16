@@ -3307,6 +3307,23 @@
         },
         {
             "type": "node",
+            "id": 9465612948,
+            "lat": 45.0876222,
+            "lon": 10.8585699,
+            "timestamp": "2023-03-31T22:53:11Z",
+            "version": 2,
+            "changeset": 134364292,
+            "user": "Tresho",
+            "uid": 6178157,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 9465612981,
             "lat": 45.0872119,
             "lon": 10.8585919,
@@ -3419,6 +3436,24 @@
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "45464",
                 "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9545723228,
+            "lat": 45.4412432,
+            "lon": 10.9988373,
+            "timestamp": "2024-09-09T11:40:51Z",
+            "version": 7,
+            "changeset": 156389992,
+            "user": "giubar",
+            "uid": 416478,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-09-09",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -3712,12 +3747,13 @@
             "id": 10766227160,
             "lat": 45.1577683,
             "lon": 10.7918184,
-            "timestamp": "2025-06-11T18:12:07Z",
-            "version": 5,
-            "changeset": 167503565,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-11-16T12:51:31Z",
+            "version": 6,
+            "changeset": 174725449,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Mantova",
                 "addr:housenumber": "45",
                 "addr:postcode": "46100",
                 "addr:street": "Corso Umberto I\u00b0",
@@ -6706,6 +6742,30 @@
                 "level": "0",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1227411366,
+            "timestamp": "2023-12-03T10:03:43Z",
+            "version": 3,
+            "changeset": 144715585,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                11382083162,
+                11382083160,
+                11382083159,
+                11382083158,
+                11382083162
+            ],
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "indoor": "room",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

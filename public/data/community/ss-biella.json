@@ -3419,6 +3419,27 @@
         },
         {
             "type": "node",
+            "id": 10081935647,
+            "lat": 45.4694485,
+            "lon": 8.4582272,
+            "timestamp": "2024-08-19T19:05:50Z",
+            "version": 8,
+            "changeset": 155476914,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-08-19",
+                "level": "0",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Su 10:00-20:00; Jan 01 off; easter off; Dec 25 off",
+                "shop": "herbalist",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 10296743668,
             "lat": 45.4491522,
             "lon": 8.6219662,
@@ -3955,6 +3976,25 @@
         },
         {
             "type": "node",
+            "id": 11341164055,
+            "lat": 45.5483707,
+            "lon": 8.0775176,
+            "timestamp": "2025-08-08T16:49:44Z",
+            "version": 3,
+            "changeset": 170166056,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11341164058,
             "lat": 45.5477796,
             "lon": 8.0761382,
@@ -4121,6 +4161,28 @@
         },
         {
             "type": "node",
+            "id": 11937464279,
+            "lat": 45.4463913,
+            "lon": 8.6006336,
+            "timestamp": "2025-06-23T16:18:12Z",
+            "version": 6,
+            "changeset": 168011302,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2025-06-23",
+                "level": "0",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo 10:00-20:00; Tu-Su 09:00-20:00",
+                "ref": "8",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11937464289,
             "lat": 45.4460651,
             "lon": 8.6001789,
@@ -4221,6 +4283,28 @@
                 "shop": "houseware",
                 "website": "https://www.kasanova.com/it/stores/kasanova-novara-cavour-piazza-cavour-3",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12142878360,
+            "lat": 45.4468531,
+            "lon": 8.6207962,
+            "timestamp": "2025-10-25T09:29:37Z",
+            "version": 4,
+            "changeset": 173747724,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "addr:housenumber": "12c",
+                "addr:street": "Corso Italia",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-08-28",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
+                "wheelchair": "no"
             }
         },
         {

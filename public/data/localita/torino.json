@@ -4071,6 +4071,28 @@
         },
         {
             "type": "node",
+            "id": 4954937745,
+            "lat": 44.9152683,
+            "lon": 8.2253226,
+            "timestamp": "2025-10-22T15:49:41Z",
+            "version": 4,
+            "changeset": 173634880,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "email": "shop2116@erbolario.com",
+                "floor": "0",
+                "name": "L'Erbolario",
+                "phone": "+39 0141 273 929",
+                "shop": "herbalist",
+                "website": "https://www.erbolario.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4954937775,
             "lat": 44.9151118,
             "lon": 8.2265719,
@@ -8671,6 +8693,23 @@
                 "ref:vatin": "IT01166010056",
                 "shop": "department_store",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13265539795,
+            "lat": 45.0646557,
+            "lon": 7.6819476,
+            "timestamp": "2025-10-28T18:55:48Z",
+            "version": 1,
+            "changeset": 173898018,
+            "user": "megaloman-it",
+            "uid": 11928236,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

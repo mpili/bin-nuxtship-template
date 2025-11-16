@@ -1807,6 +1807,23 @@
         },
         {
             "type": "node",
+            "id": 4558786889,
+            "lat": 44.8153654,
+            "lon": 11.6072635,
+            "timestamp": "2023-11-01T18:31:09Z",
+            "version": 5,
+            "changeset": 143490258,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 4558786890,
             "lat": 44.8154931,
             "lon": 11.607655,
@@ -2798,6 +2815,24 @@
                 "level": "1",
                 "name": "H&M",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9081649618,
+            "lat": 45.4169371,
+            "lon": 11.8239725,
+            "timestamp": "2024-12-06T11:46:00Z",
+            "version": 3,
+            "changeset": 159990826,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "1",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

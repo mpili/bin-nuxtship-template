@@ -5378,6 +5378,35 @@
         },
         {
             "type": "way",
+            "id": 461916938,
+            "timestamp": "2024-10-14T10:27:05Z",
+            "version": 6,
+            "changeset": 157869413,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "nodes": [
+                4573515605,
+                4573515604,
+                4573515603,
+                4573515602,
+                4573515605
+            ],
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date:opening_hours": "2024-10-14",
+                "indoor": "room",
+                "layer": "1",
+                "level": "1",
+                "name": "L'Erbolario",
+                "opening_hours:signed": "no",
+                "ref": "80",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 461916956,
             "timestamp": "2025-10-28T14:09:41Z",
             "version": 7,

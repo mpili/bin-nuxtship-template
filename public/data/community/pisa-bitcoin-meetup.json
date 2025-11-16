@@ -5024,6 +5024,27 @@
         },
         {
             "type": "node",
+            "id": 8987873625,
+            "lat": 43.7200494,
+            "lon": 10.9464887,
+            "timestamp": "2023-02-13T22:20:03Z",
+            "version": 2,
+            "changeset": 132511569,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Empoli",
+                "addr:housenumber": "83",
+                "addr:postcode": "50053",
+                "addr:street": "Via del Giglio",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 8987873626,
             "lat": 43.7200602,
             "lon": 10.9465674,
@@ -5458,6 +5479,25 @@
                 "level": "0",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10128904435,
+            "lat": 43.7146284,
+            "lon": 10.4010139,
+            "timestamp": "2023-01-23T08:56:50Z",
+            "version": 2,
+            "changeset": 131597114,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "19",
+                "addr:street": "Corso Italia",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -6306,6 +6346,23 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12433827115,
+            "lat": 43.8431124,
+            "lon": 10.5040367,
+            "timestamp": "2024-12-19T16:01:21Z",
+            "version": 1,
+            "changeset": 160400900,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

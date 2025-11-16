@@ -1642,6 +1642,31 @@
         },
         {
             "type": "node",
+            "id": 1111843235,
+            "lat": 46.0677375,
+            "lon": 11.2230139,
+            "timestamp": "2024-01-07T15:29:39Z",
+            "version": 4,
+            "changeset": 145995876,
+            "user": "notHexadecimal",
+            "uid": 20069783,
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "1",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "organic": "yes",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 1112898184,
             "lat": 46.0904608,
             "lon": 11.1175668,
