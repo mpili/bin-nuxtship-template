@@ -3,7 +3,7 @@ import { ref, computed } from "vue";
 const isDev = process.dev;
 
 useHead({
-  title: "Bitcoin Italia Network - pagina di test",
+  title: "Bitcoin Italia Network - Calendario",
 });
 
 definePageMeta({

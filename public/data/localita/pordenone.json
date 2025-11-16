@@ -4411,6 +4411,24 @@
         },
         {
             "type": "node",
+            "id": 10544354942,
+            "lat": 45.879274,
+            "lon": 12.3157361,
+            "timestamp": "2025-01-13T17:46:21Z",
+            "version": 4,
+            "changeset": 161319314,
+            "user": "ezio_m",
+            "uid": 2795300,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10560564124,
             "lat": 45.88557,
             "lon": 12.2985328,
@@ -4675,6 +4693,24 @@
                 "shop": "cosmetics",
                 "survey:date": "2023-10-13",
                 "website": "https://www.bottegaverde.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11263359089,
+            "lat": 45.9448796,
+            "lon": 12.7252273,
+            "timestamp": "2025-06-04T15:15:59Z",
+            "version": 5,
+            "changeset": 167184287,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
                 "wheelchair": "yes"
             }
         },

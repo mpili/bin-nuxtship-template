@@ -5302,6 +5302,29 @@
         },
         {
             "type": "node",
+            "id": 2375349336,
+            "lat": 45.584232,
+            "lon": 9.2761509,
+            "timestamp": "2023-11-17T22:16:26Z",
+            "version": 9,
+            "changeset": 144156837,
+            "user": "toponomastica_comune_arenzano",
+            "uid": 14257573,
+            "tags": {
+                "addr:city": "Monza",
+                "addr:country": "IT",
+                "addr:housenumber": "4c",
+                "addr:postcode": "20900",
+                "addr:street": "Via Vittorio Emanuele Secondo",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo 15:30-19:30; Tu-Sa 09:00-13:00,15:30-19:30; Th 09:30-19:30",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 2375413565,
             "lat": 45.5842427,
             "lon": 9.2770234,
@@ -7444,6 +7467,30 @@
         },
         {
             "type": "node",
+            "id": 3799689455,
+            "lat": 45.476192,
+            "lon": 9.1858599,
+            "timestamp": "2024-05-04T16:57:03Z",
+            "version": 2,
+            "changeset": 150889699,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:postcode": "20121",
+                "addr:street": "Via Statuto",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "email": "shop2064@erbolario.com",
+                "name": "L'Erbolario",
+                "phone": "+39 02 29014599",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 3847353257,
             "lat": 45.6384805,
             "lon": 9.1792944,
@@ -8078,6 +8125,31 @@
         },
         {
             "type": "node",
+            "id": 4242988140,
+            "lat": 45.6969823,
+            "lon": 9.6736878,
+            "timestamp": "2024-10-27T07:43:28Z",
+            "version": 6,
+            "changeset": 158400976,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "addr:city": "Bergamo",
+                "addr:housenumber": "69",
+                "addr:postcode": "24121",
+                "addr:street": "Via Torquato Tasso",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2023-11-17",
+                "loc_ref": "76607",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
+                "source": "survey",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
             "id": 4242988184,
             "lat": 45.6929681,
             "lon": 9.667741,
@@ -8697,6 +8769,35 @@
                 "ref:vatin": "IT02147260174",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4537486783,
+            "lat": 45.4658694,
+            "lon": 9.1761469,
+            "timestamp": "2024-12-22T23:02:23Z",
+            "version": 5,
+            "changeset": 160518181,
+            "user": "fick89",
+            "uid": 1781586,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:country": "IT",
+                "addr:housenumber": "31",
+                "addr:postcode": "20123",
+                "addr:street": "Corso Magenta",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2023-04-16",
+                "email": "shop1025@erbolario.com",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
+                "operator": "L'Erbolario Franchising SB S.R.L.",
+                "phone": "+3902877731",
+                "ref:vatin": "IT10846700150",
+                "shop": "herbalist",
+                "website": "https://www.erbolario.com/it/puntivendita/dettagli/R06128884010"
             }
         },
         {
@@ -10016,6 +10117,23 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5438281325,
+            "lat": 45.5113965,
+            "lon": 9.3019235,
+            "timestamp": "2024-10-16T15:40:59Z",
+            "version": 3,
+            "changeset": 157971151,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -13701,6 +13819,25 @@
         },
         {
             "type": "node",
+            "id": 9668564862,
+            "lat": 45.460833,
+            "lon": 9.1843845,
+            "timestamp": "2024-06-02T11:05:04Z",
+            "version": 5,
+            "changeset": 152154562,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-05-25",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 9672057886,
             "lat": 45.756982,
             "lon": 9.7953021,
@@ -14156,6 +14293,33 @@
                 "phone": "+390236584172",
                 "shop": "beauty",
                 "website": "https://setabeauty.com/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10137956228,
+            "lat": 45.664907,
+            "lon": 9.6932154,
+            "timestamp": "2024-01-14T16:59:15Z",
+            "version": 3,
+            "changeset": 146252227,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "addr:housenumber": "71",
+                "addr:street": "Via Portico",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-01-14",
+                "currency:EUR": "yes",
+                "internet_access": "no",
+                "level": "1",
+                "name": "L'Erbolario",
+                "opening_hours": "09:00-22:00",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "shop": "herbalist",
                 "wheelchair": "limited"
             }
         },
@@ -14816,13 +14980,15 @@
             "id": 10282308742,
             "lat": 45.6639437,
             "lon": 9.6934501,
-            "timestamp": "2024-08-18T19:57:19Z",
-            "version": 5,
-            "changeset": 155432425,
-            "user": "Mannivu",
-            "uid": 1950277,
+            "timestamp": "2025-11-15T20:16:12Z",
+            "version": 6,
+            "changeset": 174702679,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Orio al Serio",
                 "addr:housenumber": "71",
+                "addr:postcode": "24050",
                 "addr:street": "Via Portico",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
@@ -14832,6 +14998,7 @@
                 "opening_hours": "PH,Mo-Su 09:00-20:00",
                 "payment:mastercard": "yes",
                 "payment:visa": "yes",
+                "phone": "+39 035 330652",
                 "shop": "clothes",
                 "wheelchair": "limited"
             }
@@ -14866,13 +15033,13 @@
         {
             "type": "node",
             "id": 10314552832,
-            "lat": 45.5326582,
-            "lon": 10.1637257,
-            "timestamp": "2025-08-23T10:54:16Z",
-            "version": 7,
-            "changeset": 170874041,
-            "user": "trucbidule",
-            "uid": 1214300,
+            "lat": 45.5327263,
+            "lon": 10.1634452,
+            "timestamp": "2025-11-16T13:21:40Z",
+            "version": 8,
+            "changeset": 174726863,
+            "user": "Mannivu",
+            "uid": 1950277,
             "tags": {
                 "addr:housenumber": "9",
                 "addr:postcode": "25030",
@@ -14881,7 +15048,7 @@
                 "brand": "Primark",
                 "brand:wikidata": "Q137023",
                 "changing_table": "no",
-                "check_date": "2025-08-23",
+                "check_date": "2025-11-16",
                 "contact:website": "https://www.primark.com/it-it/stores/brescia/centro-commerciale-elnos-shopping",
                 "currency:EUR": "yes",
                 "level": "1",
@@ -15097,6 +15264,27 @@
         },
         {
             "type": "node",
+            "id": 10690432340,
+            "lat": 45.1860261,
+            "lon": 9.1525035,
+            "timestamp": "2023-02-24T10:52:46Z",
+            "version": 1,
+            "changeset": 132962001,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "contact:city": "Pavia",
+                "contact:housenumber": "15b",
+                "contact:postcode": "27100",
+                "contact:street": "Corso Cavour",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 10691696858,
             "lat": 45.1862026,
             "lon": 9.1503676,
@@ -15272,6 +15460,23 @@
                 "payment:visa": "yes",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10717439600,
+            "lat": 45.4348094,
+            "lon": 9.0883199,
+            "timestamp": "2023-03-06T18:58:06Z",
+            "version": 1,
+            "changeset": 133375961,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -17050,6 +17255,36 @@
         },
         {
             "type": "node",
+            "id": 11917618225,
+            "lat": 45.4857556,
+            "lon": 9.2301203,
+            "timestamp": "2024-05-19T11:38:37Z",
+            "version": 1,
+            "changeset": 151530342,
+            "user": "fick89",
+            "uid": 1781586,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "46",
+                "addr:postcode": "20131",
+                "addr:street": "Via Teodosio",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "contact:email": "erboristeria@abbracciabosco.com",
+                "contact:facebook": "https://www.facebook.com/ErbolarioMilanoviaTeodosio",
+                "contact:instagram": "https://www.instagram.com/erbolariomilano_teodosio/",
+                "mobile": "+393286808840",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Sa 09:00-13:30, 15:30-19:30; Su off",
+                "operator": "Abbracciabosco di D. Alberici S.A.S.",
+                "phone": "+39022362453",
+                "ref:vatin": "IT06712330965",
+                "shop": "herbalist",
+                "website": "https://www.abbracciabosco.com/"
+            }
+        },
+        {
+            "type": "node",
             "id": 11922079633,
             "lat": 45.4459838,
             "lon": 9.0748748,
@@ -17418,6 +17653,24 @@
         },
         {
             "type": "node",
+            "id": 12055851246,
+            "lat": 45.5132326,
+            "lon": 9.0997755,
+            "timestamp": "2024-10-16T15:46:56Z",
+            "version": 2,
+            "changeset": 157971453,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 12055858185,
             "lat": 45.5131314,
             "lon": 9.0988016,
@@ -17773,6 +18026,24 @@
                 "contact:website": "www.upim.it",
                 "name": "Upim",
                 "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12305217352,
+            "lat": 45.1535928,
+            "lon": 10.0988927,
+            "timestamp": "2024-12-09T10:24:12Z",
+            "version": 3,
+            "changeset": 160086067,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
                 "wheelchair": "yes"
             }
         },
@@ -18827,6 +19098,27 @@
         },
         {
             "type": "node",
+            "id": 13246131912,
+            "lat": 45.4690782,
+            "lon": 9.1860045,
+            "timestamp": "2025-10-23T14:30:55Z",
+            "version": 2,
+            "changeset": 173677806,
+            "user": "aa30mom",
+            "uid": 13840929,
+            "tags": {
+                "addr:city": "Milano",
+                "addr:housenumber": "18",
+                "addr:postcode": "20121",
+                "addr:street": "Via dell'Orso",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 13269605494,
             "lat": 45.579773,
             "lon": 10.1182834,
@@ -19193,9 +19485,9 @@
         {
             "type": "way",
             "id": 27627074,
-            "timestamp": "2025-10-10T22:47:07Z",
-            "version": 19,
-            "changeset": 173115572,
+            "timestamp": "2025-11-15T23:17:59Z",
+            "version": 20,
+            "changeset": 174707538,
             "user": "c674a",
             "uid": 13697350,
             "nodes": [
@@ -19227,6 +19519,7 @@
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
                 "payment:food_voucher": "yes",
+                "payment:satispay": "yes",
                 "shop": "supermarket",
                 "toilets": "yes"
             }

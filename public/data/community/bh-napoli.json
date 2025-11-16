@@ -1344,6 +1344,29 @@
         },
         {
             "type": "node",
+            "id": 4043404358,
+            "lat": 40.7411204,
+            "lon": 14.5033406,
+            "timestamp": "2023-03-16T10:22:44Z",
+            "version": 2,
+            "changeset": 133742491,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Pompei",
+                "addr:housenumber": "22",
+                "addr:postcode": "80045",
+                "addr:street": "Via Macello",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "09:30-21:30",
+                "phone": "+39 081 850 5087",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 4043587666,
             "lat": 40.7412141,
             "lon": 14.5027836,
@@ -1621,6 +1644,24 @@
                 "name": "OVS",
                 "operator": "OVS",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4397304990,
+            "lat": 40.8357158,
+            "lon": 14.2437031,
+            "timestamp": "2023-03-28T10:11:10Z",
+            "version": 2,
+            "changeset": 134213260,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "name:it": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -4898,6 +4939,25 @@
         },
         {
             "type": "node",
+            "id": 8538618003,
+            "lat": 40.9491941,
+            "lon": 14.4888802,
+            "timestamp": "2023-07-31T14:57:38Z",
+            "version": 2,
+            "changeset": 139258573,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Nola",
+                "addr:street": "Centro Commerciale Vulcano Buono",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 8538618005,
             "lat": 40.9488706,
             "lon": 14.489266,
@@ -5133,6 +5193,25 @@
         },
         {
             "type": "node",
+            "id": 8821997876,
+            "lat": 40.9680966,
+            "lon": 14.1716674,
+            "timestamp": "2025-05-06T18:41:03Z",
+            "version": 3,
+            "changeset": 165906912,
+            "user": "pippo6",
+            "uid": 11052147,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "0",
+                "name": "L'Erbolario",
+                "phone": "+39 081 503 6535",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 8844659012,
             "lat": 40.9284594,
             "lon": 14.1849498,
@@ -5281,6 +5360,25 @@
                 "brand:wikipedia": "en:SPAR (retailer)",
                 "name": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9024785931,
+            "lat": 41.003986,
+            "lon": 14.3276766,
+            "timestamp": "2023-03-07T11:09:05Z",
+            "version": 4,
+            "changeset": 133398628,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "0",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Su 10:00-22:00",
+                "shop": "herbalist"
             }
         },
         {
@@ -6131,6 +6229,40 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9155701304,
+            "lat": 40.8533738,
+            "lon": 14.2722988,
+            "timestamp": "2025-09-26T20:00:04Z",
+            "version": 5,
+            "changeset": 172501453,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:postcode": "80143",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2025-09-26",
+                "name": "L'Erbolario",
+                "operator": "L'Erbolario Franchising SB S.r.l.",
+                "payment:american_express": "yes",
+                "payment:apple_pay": "yes",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:google_pay": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "payment:visa_electron": "yes",
+                "phone": "+39 081 1816 7159",
+                "ref:vatin": "IT10846700150",
+                "shop": "herbalist"
             }
         },
         {
@@ -8889,6 +9021,25 @@
                 "brand:wikidata": "Q27897515",
                 "name": "Chicco",
                 "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11762088507,
+            "lat": 40.6355363,
+            "lon": 14.9072231,
+            "timestamp": "2024-05-23T12:10:55Z",
+            "version": 4,
+            "changeset": 151720366,
+            "user": "Italian Technology",
+            "uid": 10622815,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
+                "shop": "herbalist",
+                "wheelchair": "yes"
             }
         },
         {

@@ -3169,6 +3169,23 @@
         },
         {
             "type": "node",
+            "id": 9465612948,
+            "lat": 45.0876222,
+            "lon": 10.8585699,
+            "timestamp": "2023-03-31T22:53:11Z",
+            "version": 2,
+            "changeset": 134364292,
+            "user": "Tresho",
+            "uid": 6178157,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 9465612981,
             "lat": 45.0872119,
             "lon": 10.8585919,
@@ -6023,6 +6040,39 @@
                 "name": "Intimissimi",
                 "phone": "+39 059 270969",
                 "shop": "clothes",
+                "source": "dati.emilia-romagna.it"
+            }
+        },
+        {
+            "type": "way",
+            "id": 474693532,
+            "timestamp": "2023-02-14T08:09:31Z",
+            "version": 7,
+            "changeset": 132523767,
+            "user": "Tatti Barletta",
+            "uid": 6693292,
+            "nodes": [
+                4685925883,
+                4685925882,
+                4685925881,
+                4685925880,
+                1785197351,
+                4685925883
+            ],
+            "tags": {
+                "addr:city": "Modena",
+                "addr:housenumber": "50/p",
+                "addr:postcode": "41122",
+                "addr:street": "Viale Dello Sport",
+                "addr:suburb": "Buon Pastore-Sant\u2019Agnese-San Damaso",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2022-11-06",
+                "indoor": "room",
+                "level": "0",
+                "name": "L'Erbolario",
+                "phone": "+39 059 364935",
+                "shop": "herbalist",
                 "source": "dati.emilia-romagna.it"
             }
         },

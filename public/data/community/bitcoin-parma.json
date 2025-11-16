@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001588009167_1",
     "telegram_app": "https://t.me/BitcoinParma",
-    "telegram_members": 33.0,
+    "telegram_members": 22.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -4080,6 +4080,24 @@
                 "contact:website": "www.upim.it",
                 "name": "Upim",
                 "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12305217352,
+            "lat": 45.1535928,
+            "lon": 10.0988927,
+            "timestamp": "2024-12-09T10:24:12Z",
+            "version": 3,
+            "changeset": 160086067,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
                 "wheelchair": "yes"
             }
         },

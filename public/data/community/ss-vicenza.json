@@ -4554,6 +4554,24 @@
         },
         {
             "type": "node",
+            "id": 9081649618,
+            "lat": 45.4169371,
+            "lon": 11.8239725,
+            "timestamp": "2024-12-06T11:46:00Z",
+            "version": 3,
+            "changeset": 159990826,
+            "user": "damianeue",
+            "uid": 10124288,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "1",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 9090132422,
             "lat": 45.4162036,
             "lon": 11.8248939,
@@ -4723,6 +4741,24 @@
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "45464",
                 "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9545723228,
+            "lat": 45.4412432,
+            "lon": 10.9988373,
+            "timestamp": "2024-09-09T11:40:51Z",
+            "version": 7,
+            "changeset": 156389992,
+            "user": "giubar",
+            "uid": 416478,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-09-09",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -7994,6 +8030,30 @@
                 "level": "0",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1227411366,
+            "timestamp": "2023-12-03T10:03:43Z",
+            "version": 3,
+            "changeset": 144715585,
+            "user": "Tresho",
+            "uid": 6178157,
+            "nodes": [
+                11382083162,
+                11382083160,
+                11382083159,
+                11382083158,
+                11382083162
+            ],
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "indoor": "room",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

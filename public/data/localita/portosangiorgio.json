@@ -2809,6 +2809,36 @@
         },
         {
             "type": "node",
+            "id": 11843242874,
+            "lat": 43.5529379,
+            "lon": 13.5145593,
+            "timestamp": "2024-12-03T23:27:50Z",
+            "version": 2,
+            "changeset": 159900104,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "6",
+                "addr:postcode": "60131",
+                "addr:street": "Via Franco Scataglini",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-04-24",
+                "email": "shop1051@erbolario.com",
+                "local_ref": "n25",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "operator": "L'Erbolario Franchising SB S.r.l.",
+                "phone": "+39 071 9732832",
+                "ref": "1051",
+                "ref:vatin": "IT10846700150",
+                "shop": "herbalist",
+                "website": "https://www.erbolario.com/it/puntivendita/dettagli/R80328884010"
+            }
+        },
+        {
+            "type": "node",
             "id": 11874406150,
             "lat": 43.4896528,
             "lon": 13.4958801,
@@ -3350,6 +3380,29 @@
                 "phone": "+39 071 7202046",
                 "ref:vatin": "IT02106250398",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12468465724,
+            "lat": 42.8454545,
+            "lon": 13.6242686,
+            "timestamp": "2025-01-06T00:18:38Z",
+            "version": 2,
+            "changeset": 161040656,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ascoli Piceno",
+                "addr:housenumber": "52",
+                "addr:postcode": "63100",
+                "addr:street": "Viale del Commercio",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2025-01-02",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "shop": "herbalist"
             }
         },
         {
@@ -5019,6 +5072,31 @@
                 "level": "0",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1207229722,
+            "timestamp": "2023-09-14T10:19:08Z",
+            "version": 4,
+            "changeset": 141250123,
+            "user": "Map47",
+            "uid": 11976,
+            "nodes": [
+                11186258039,
+                11186257777,
+                11186257643,
+                11186258064,
+                9882962391,
+                11186258039
+            ],
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "indoor": "room",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

@@ -4430,13 +4430,13 @@
         {
             "type": "node",
             "id": 10314552832,
-            "lat": 45.5326582,
-            "lon": 10.1637257,
-            "timestamp": "2025-08-23T10:54:16Z",
-            "version": 7,
-            "changeset": 170874041,
-            "user": "trucbidule",
-            "uid": 1214300,
+            "lat": 45.5327263,
+            "lon": 10.1634452,
+            "timestamp": "2025-11-16T13:21:40Z",
+            "version": 8,
+            "changeset": 174726863,
+            "user": "Mannivu",
+            "uid": 1950277,
             "tags": {
                 "addr:housenumber": "9",
                 "addr:postcode": "25030",
@@ -4445,7 +4445,7 @@
                 "brand": "Primark",
                 "brand:wikidata": "Q137023",
                 "changing_table": "no",
-                "check_date": "2025-08-23",
+                "check_date": "2025-11-16",
                 "contact:website": "https://www.primark.com/it-it/stores/brescia/centro-commerciale-elnos-shopping",
                 "currency:EUR": "yes",
                 "level": "1",
@@ -5491,6 +5491,24 @@
                 "contact:website": "www.upim.it",
                 "name": "Upim",
                 "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12305217352,
+            "lat": 45.1535928,
+            "lon": 10.0988927,
+            "timestamp": "2024-12-09T10:24:12Z",
+            "version": 3,
+            "changeset": 160086067,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
                 "wheelchair": "yes"
             }
         },

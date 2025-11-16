@@ -13,7 +13,7 @@ const address = props.datanomninatim?.address;
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button class="btn">OsnMap</button>
+          <button class="btn">OSM edit</button>
         </NuxtLink>
         <OsnXmaps :data="dataosm" :pending="pending" :dbdata="dbdata" />
         <OnwNominatmancanti v-if="address" :address="address" :tags="tags" />

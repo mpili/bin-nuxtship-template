@@ -848,12 +848,14 @@
             "id": 228763354,
             "lat": 45.748008,
             "lon": 9.27399,
-            "timestamp": "2021-06-08T16:08:08Z",
-            "version": 5,
-            "changeset": 106046095,
-            "user": "Asdrubaleblu89",
-            "uid": 10246424,
+            "timestamp": "2025-11-16T15:02:53Z",
+            "version": 6,
+            "changeset": 174731413,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Nibionno",
+                "addr:postcode": "23895",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
@@ -6552,6 +6554,32 @@
         },
         {
             "type": "node",
+            "id": 5972809536,
+            "lat": 45.8198528,
+            "lon": 8.8264485,
+            "timestamp": "2025-06-01T14:42:54Z",
+            "version": 7,
+            "changeset": 167053905,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "66",
+                "addr:street": "Corso Giacomo Matteotti",
+                "air_conditioning": "yes",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo 15:30-19:30; Tu-Sa 09:30-19:30; Su 15:00-19:00; PH off",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:satispay": "yes",
+                "second_hand": "no",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5975263712,
             "lat": 46.0028849,
             "lon": 8.9500536,
@@ -6692,6 +6720,23 @@
                 "brand:wikidata": "Q105644278",
                 "name": "GrandVision",
                 "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6167150115,
+            "lat": 45.804706,
+            "lon": 9.2208538,
+            "timestamp": "2024-01-15T16:19:27Z",
+            "version": 2,
+            "changeset": 146289225,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -10216,6 +10261,24 @@
                 "operator": "Lario Gestioni S.A.S Di Nicola Varalli & C.",
                 "self_service": "yes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10734914335,
+            "lat": 45.6589977,
+            "lon": 8.7922447,
+            "timestamp": "2023-06-13T09:11:06Z",
+            "version": 3,
+            "changeset": 137276802,
+            "user": "airon90",
+            "uid": 89897,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "Tu-Su 09:30-12:30,15:30-19:30",
+                "shop": "herbalist"
             }
         },
         {
@@ -14107,6 +14170,34 @@
                 "source": "survey",
                 "stroller": "yes",
                 "toilets": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12136141719,
+            "lat": 45.8073902,
+            "lon": 8.8620742,
+            "timestamp": "2024-09-27T11:07:59Z",
+            "version": 5,
+            "changeset": 157165587,
+            "user": "Paguro01",
+            "uid": 21809705,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-08-25",
+                "currency:others": "no",
+                "internet_access": "no",
+                "level": "0",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:meal_voucher": "yes",
+                "payment:others": "no",
+                "payment:satispay": "yes",
+                "shop": "herbalist",
+                "source": "survey",
                 "wheelchair": "yes"
             }
         },
@@ -19277,6 +19368,36 @@
                 "level_name": "Piano Terra",
                 "name": "Carrefour",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1223349442,
+            "timestamp": "2024-12-09T10:41:55Z",
+            "version": 3,
+            "changeset": 160086747,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                11347548055,
+                11347548054,
+                11347548053,
+                11347548134,
+                11347548135,
+                11347548136,
+                11347548052,
+                11347548051,
+                11347548050,
+                11347548055
+            ],
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "indoor": "room",
+                "level": "0",
+                "level_name": "Piano Terra",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

@@ -1307,6 +1307,27 @@
         },
         {
             "type": "node",
+            "id": 8255892429,
+            "lat": 43.3193173,
+            "lon": 11.3313672,
+            "timestamp": "2024-07-05T15:55:25Z",
+            "version": 5,
+            "changeset": 153594853,
+            "user": "DabMK",
+            "uid": 17965418,
+            "tags": {
+                "addr:city": "Siena",
+                "addr:housenumber": "8",
+                "addr:postcode": "53100",
+                "addr:street": "Banchi di Sopra",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 8255892433,
             "lat": 43.3194644,
             "lon": 11.3314273,

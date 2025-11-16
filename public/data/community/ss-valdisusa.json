@@ -7,7 +7,7 @@
     "idlocalita": "valdisusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002445101954",
     "telegram_app": "https://t.me/SatoshiSpritzValSusa",
-    "telegram_members": 27.0,
+    "telegram_members": 19.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -7277,6 +7277,23 @@
                 "name": "Primark",
                 "phone": "+39 011 071 2810",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13265539795,
+            "lat": 45.0646557,
+            "lon": 7.6819476,
+            "timestamp": "2025-10-28T18:55:48Z",
+            "version": 1,
+            "changeset": 173898018,
+            "user": "megaloman-it",
+            "uid": 11928236,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

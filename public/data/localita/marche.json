@@ -591,6 +591,36 @@
         },
         {
             "type": "node",
+            "id": 762937596,
+            "lat": 43.618008,
+            "lon": 13.5120833,
+            "timestamp": "2025-03-15T21:21:59Z",
+            "version": 6,
+            "changeset": 163668028,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "60",
+                "addr:postcode": "60121",
+                "addr:street": "Corso Giuseppe Garibaldi",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2025-03-15",
+                "name": "L'Erbolario",
+                "old_name": "Roberta",
+                "old_shop": "clothes",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-13:00,16:30-20:00",
+                "operator": "Amaranto S.r.l.",
+                "phone": "+39 071 2070791",
+                "ref": "2244",
+                "ref:vatin": "IT03531540403",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 762937608,
             "lat": 43.6181317,
             "lon": 13.5119221,
@@ -2827,6 +2857,36 @@
         },
         {
             "type": "node",
+            "id": 11843242874,
+            "lat": 43.5529379,
+            "lon": 13.5145593,
+            "timestamp": "2024-12-03T23:27:50Z",
+            "version": 2,
+            "changeset": 159900104,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Ancona",
+                "addr:housenumber": "6",
+                "addr:postcode": "60131",
+                "addr:street": "Via Franco Scataglini",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-04-24",
+                "email": "shop1051@erbolario.com",
+                "local_ref": "n25",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Su 09:00-20:30",
+                "operator": "L'Erbolario Franchising SB S.r.l.",
+                "phone": "+39 071 9732832",
+                "ref": "1051",
+                "ref:vatin": "IT10846700150",
+                "shop": "herbalist",
+                "website": "https://www.erbolario.com/it/puntivendita/dettagli/R80328884010"
+            }
+        },
+        {
+            "type": "node",
             "id": 11874406150,
             "lat": 43.4896528,
             "lon": 13.4958801,
@@ -4181,6 +4241,31 @@
                 "level": "0",
                 "name": "Intimissimi",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1207229722,
+            "timestamp": "2023-09-14T10:19:08Z",
+            "version": 4,
+            "changeset": 141250123,
+            "user": "Map47",
+            "uid": 11976,
+            "nodes": [
+                11186258039,
+                11186257777,
+                11186257643,
+                11186258064,
+                9882962391,
+                11186258039
+            ],
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "indoor": "room",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

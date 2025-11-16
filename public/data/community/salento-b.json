@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 284.0,
+    "telegram_members": 286.0,
     "poi": [
         {
             "type": "node",
@@ -1999,6 +1999,25 @@
                 "name": "Calzedonia",
                 "opening_hours": "Mo-Su 09:00-21:00",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11378022886,
+            "lat": 40.618523,
+            "lon": 17.9017164,
+            "timestamp": "2024-10-28T18:35:03Z",
+            "version": 4,
+            "changeset": 158468713,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "herbalist",
                 "wheelchair": "yes"
             }
         },

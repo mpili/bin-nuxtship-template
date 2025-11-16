@@ -3429,21 +3429,23 @@
             "id": 5851844906,
             "lat": 43.9402128,
             "lon": 11.2155899,
-            "timestamp": "2025-10-16T14:41:32Z",
-            "version": 4,
-            "changeset": 173369827,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-16T17:54:19Z",
+            "version": 5,
+            "changeset": 174738482,
+            "user": "Emabarto",
+            "uid": 10142223,
             "tags": {
                 "addr:city": "Calenzano",
                 "addr:postcode": "50041",
+                "addr:street": "Strada Militare di Barberino di Mugello",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "fuel:lpg": "yes",
-                "name": "Tamoil",
+                "name": "4 Petroli",
                 "operator": "Seganti Paolo",
-                "ref:mise": "14395"
+                "ref:mise": "14395",
+                "self_service": "yes"
             }
         },
         {
@@ -3531,6 +3533,25 @@
                 "opening_hours:signed": "no",
                 "shop": "clothes",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6332021306,
+            "lat": 43.7842087,
+            "lon": 11.2667078,
+            "timestamp": "2024-08-21T14:42:55Z",
+            "version": 4,
+            "changeset": 155562250,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date:opening_hours": "2024-02-27",
+                "name": "L'Erbolario",
+                "opening_hours:signed": "no",
+                "shop": "herbalist"
             }
         },
         {
@@ -4050,6 +4071,27 @@
                 "brand:wikidata": "Q116214505",
                 "name": "Kasanova",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8987873625,
+            "lat": 43.7200494,
+            "lon": 10.9464887,
+            "timestamp": "2023-02-13T22:20:03Z",
+            "version": 2,
+            "changeset": 132511569,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:city": "Empoli",
+                "addr:housenumber": "83",
+                "addr:postcode": "50053",
+                "addr:street": "Via del Giglio",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -5294,6 +5336,23 @@
         },
         {
             "type": "node",
+            "id": 12473308075,
+            "lat": 43.7763371,
+            "lon": 11.2489292,
+            "timestamp": "2025-04-04T14:03:18Z",
+            "version": 3,
+            "changeset": 164510528,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 12473315755,
             "lat": 43.7761193,
             "lon": 11.2486758,
@@ -5429,6 +5488,24 @@
                 "level": "0",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12649758219,
+            "lat": 43.791004,
+            "lon": 11.2281307,
+            "timestamp": "2025-04-04T16:44:42Z",
+            "version": 3,
+            "changeset": 164519290,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "0",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {

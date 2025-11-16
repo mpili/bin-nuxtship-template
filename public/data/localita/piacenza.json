@@ -3177,6 +3177,24 @@
         },
         {
             "type": "node",
+            "id": 10178682400,
+            "lat": 44.999251,
+            "lon": 9.07289,
+            "timestamp": "2023-03-07T11:35:13Z",
+            "version": 3,
+            "changeset": 133399416,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10178685919,
             "lat": 44.9991167,
             "lon": 9.0756244,
@@ -3499,6 +3517,27 @@
                 "operator": "Decathlon",
                 "shop": "sports",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10690432340,
+            "lat": 45.1860261,
+            "lon": 9.1525035,
+            "timestamp": "2023-02-24T10:52:46Z",
+            "version": 1,
+            "changeset": 132962001,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "contact:city": "Pavia",
+                "contact:housenumber": "15b",
+                "contact:postcode": "27100",
+                "contact:street": "Corso Cavour",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -4079,6 +4118,24 @@
                 "contact:website": "www.upim.it",
                 "name": "Upim",
                 "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12305217352,
+            "lat": 45.1535928,
+            "lon": 10.0988927,
+            "timestamp": "2024-12-09T10:24:12Z",
+            "version": 3,
+            "changeset": 160086067,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist",
                 "wheelchair": "yes"
             }
         },

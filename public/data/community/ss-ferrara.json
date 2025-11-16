@@ -7,7 +7,7 @@
     "idlocalita": "ferrara",
     "telegram_weburl": "https://web.telegram.org/a/#-1001822010158",
     "telegram_app": "https://t.me/SatoshiSpritzFerrara",
-    "telegram_members": 59.0,
+    "telegram_members": 58.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3052,6 +3052,23 @@
         },
         {
             "type": "node",
+            "id": 4558786889,
+            "lat": 44.8153654,
+            "lon": 11.6072635,
+            "timestamp": "2023-11-01T18:31:09Z",
+            "version": 5,
+            "changeset": 143490258,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 4558786890,
             "lat": 44.8154931,
             "lon": 11.607655,
@@ -3201,6 +3218,23 @@
                 "name": "Grandvision by Avanzi",
                 "name:it": "Grandvision by Avanzi",
                 "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4733027554,
+            "lat": 44.7279995,
+            "lon": 11.2909239,
+            "timestamp": "2024-06-08T08:07:48Z",
+            "version": 2,
+            "changeset": 152402915,
+            "user": "Flynn_",
+            "uid": 21081459,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -4571,6 +4605,27 @@
         },
         {
             "type": "node",
+            "id": 10705883367,
+            "lat": 44.4972343,
+            "lon": 11.3431413,
+            "timestamp": "2024-02-12T10:18:22Z",
+            "version": 4,
+            "changeset": 147360025,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:housenumber": "20f",
+                "addr:street": "Via Indipendenza",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2024-02-12",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 10:30-19:00",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 10766444254,
             "lat": 44.4787868,
             "lon": 11.3815956,
@@ -5134,6 +5189,26 @@
         },
         {
             "type": "node",
+            "id": 11876181366,
+            "lat": 44.4954316,
+            "lon": 11.3384057,
+            "timestamp": "2025-11-11T15:10:42Z",
+            "version": 3,
+            "changeset": 174516164,
+            "user": "torqua",
+            "uid": 8935624,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2025-11-11",
+                "check_date:opening_hours": "2025-11-11",
+                "name": "L'Erbolario",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su 11:30-13:30,14:00-19:00",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
             "id": 11878645728,
             "lat": 44.9343333,
             "lon": 11.239141,
@@ -5629,6 +5704,24 @@
                 "check_date": "2025-01-19",
                 "name": "Calzedonia",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12514915955,
+            "lat": 44.4328838,
+            "lon": 11.6065897,
+            "timestamp": "2025-01-19T16:48:10Z",
+            "version": 1,
+            "changeset": 161532066,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "check_date": "2025-01-19",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
