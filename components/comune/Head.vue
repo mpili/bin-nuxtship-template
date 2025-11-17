@@ -12,6 +12,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     <UiSkeletonlines />
   </div>
   <div v-else>
+    <ComuneTitle :data="data" />
     <ComuneBreadcrumb :comune="data" />
     <LandingSectionhead>
       <template v-slot:title>{{ data["name"] }}</template>

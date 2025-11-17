@@ -2,6 +2,7 @@
 const props = defineProps(["data"]);
 </script>
 <template>
+	<ProvinciaTitle :data="data" />
 	<ProvinciaBreadcrumb :data="data" />
 	<LandingSectionhead>
 		<template v-slot:title>{{data.name}}</template>

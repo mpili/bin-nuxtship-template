@@ -31,7 +31,7 @@ definePageMeta({
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>{{ id }}</template>
+      <template v-slot:title><span class="capitalize">{{ id }}</span></template>
     </LandingSectionhead>
 
     <LandingBreadcrumb :voci="breadcrumb" />

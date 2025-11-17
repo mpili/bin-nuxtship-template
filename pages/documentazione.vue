@@ -3,8 +3,8 @@ useHead({
   title: "Documentazione | Bitcoin Italian Network",
   link: [
     {
-      rel: 'canonical',
-      href: 'https://bitcoinitalianetwork.com/documentazione',
+      rel: "canonical",
+      href: "https://bitcoinitalianetwork.com/documentazione",
     },
   ],
 });
@@ -15,47 +15,77 @@ definePageMeta({
 const risorseDocumentazione = [
   {
     nome: "Glossario Bitcoin",
+    descrizione:
+      "La definizione di 700 termini, il glossario italiano bitcoin più completo",
     url: "https://glossario.bitcoinitalianetwork.com",
+    imgurl: "https://images2.imgbox.com/7e/de/XnHeFiQu_o.jpeg",
   },
   {
-    nome: "Raccolta documentazioni Mir Liponi",
-    url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
-  },
-  {
-    nome: "Bitcoin in italiano di italiansatoshi",
+    nome: "Bitcoin in italiano",
+    descrizione:
+      "Creato da italiansatoshi, articoli su temi correlati a bitcoin tradotti in italiano scritti dai protagonisti del settore.",
     url: "https://btcita.substack.com/",
+    imgurl: "https://images2.imgbox.com/71/0c/xvs5EgGX_o.png",
   },
   {
-    nome: "Guide di Atlas 21",
+    nome: "Risorse bitcoin by Mir Liponi",
+    descrizione: "Mir, conosciuta come godmother della comunità Bitcoin italiana, propone la sua lista di risorse su Bitcoin in italiano",
+    url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
+    imgurl: "https://images2.imgbox.com/a2/2f/udnbgDwD_o.jpg",
+  },
+  {
+    nome: "Learn by Atlas 21",
+    descrizione:
+      "La pagina “Learn” di Atlas21 raccoglie articoli divulgativi e guide pratiche sul mondo Bitcoin e delle criptovalute, focalizzandosi su temi tecnici e operativi.",
     url: "https://atlas21.com/it/learn-it/",
+    imgurl: "https://images2.imgbox.com/c9/0f/NmixDwDP_o.png",
   },
   {
     nome: "Tutorial PlanB Network",
+    descrizione:
+      "Tutorial sull'ecosistema Bitcoin. Una raccolta di guide approfondite suddivise in categorie tematiche.",
     url: "https://planb.network/it/tutorials",
+    imgurl: "https://images2.imgbox.com/31/a3/T1VwtCGA_o.png",
   },
   {
     nome: "Imparare Bitcoin dalla riga di comando",
+    descrizione:
+      "Un corso completo per imparare a usare e programmare Bitcoin (e Lightning) direttamente dalla riga di comando",
     url: "https://github.com/lutxoitalico/Imparare-Bitcoin-dalla-Riga-di-Comando/blob/master/Leggimi.md",
+    imgurl: "https://images2.imgbox.com/fd/fb/2eC3aOIC_o.png",
   },
   {
     nome: "Guide di Bitcoin24ore",
+    descrizione:
+      "Una raccolta di articoli su Bitcoin, sia per principianti che per i più esperti",
     url: "https://bitcoin24ore.com/category/guide/",
+    imgurl: "https://images2.imgbox.com/8c/e5/n6UAwVYT_o.png",
   },
   {
-    nome: "Raccolta di contenuti (principalmente video) di Pindol",
+    nome: "Raccolta di Pindol",
+    descrizione:
+      "Una raccolta di risorse prevalentemente in italiano, video, articoli, podcast e playlist curata da Pindol",
     url: "https://pindol.medium.com/premessa-1e5254a52475",
+    imgurl: "https://images2.imgbox.com/e1/0c/n93WKLeL_o.jpeg",
   },
-  {
-    nome: "Risorse Bitcoin in italiano by Tuma",
-    url: "https://tumabitcoiner.github.io/risorse.html",
-  },
+  // {
+  //   nome: "Risorse Bitcoin in italiano by Tuma",
+  //   descrizione: "descrizione bla bla bla",
+  //   url: "https://tumabitcoiner.github.io/risorse.html",
+  //   imgurl: "/img/features/documentazione.jpg"
+  // },
   {
     nome: "Corsi PlanB Network",
+    descrizione:
+      "Plan ₿ Academy presenta un catalogo di corsi online dedicati all’educazione su Bitcoin e tematiche correlate",
     url: "https://planb.network/it/courses",
+    imgurl: "https://images2.imgbox.com/00/b8/bj9YMx71_o.png",
   },
   {
-    nome: "simple privacy tips di Giovanni Birindelli",
+    nome: "Simple Privacy Tips di Giovanni Birindelli",
+    descrizione: "Guide pratiche sulla privacy e la sicurezza digitale",
     url: "https://www.simpleprivacytips.com/",
+    imgurl: "https://images2.imgbox.com/15/2e/iC0SNT6R_o.png",
   },
 ];
 </script>
@@ -69,36 +99,17 @@ const risorseDocumentazione = [
 
     <LandingMainimg urlimg="/img/features/documentazione.jpg" />
 
-    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
-      <div class="mx-auto max-w-md">
-        <ul class="space-y-4">
-          <li
-            v-for="documento of risorseDocumentazione"
-            class="flex items-center"
-          >
-            <svg
-              class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <circle cx="12" cy="12" r="11" />
-              <path
-                d="m8 13 2.165 2.165a1 1 0 0 0 1.521-.126L16 9"
-                fill="none"
-              />
-            </svg>
-            <p class="ml-4">
-              <a
-                :href="documento.url"
-                class="flex lg:px-3 py-2"
-                target="_blank"
-              >
-                {{ documento.nome }}
-              </a>
-            </p>
-          </li>
-        </ul>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto gap-4">
+      <div v-for="documento of risorseDocumentazione">
+        <NuxtLink :to="documento.url">
+          <UiCard
+            :title="documento.nome"
+            :description="documento.descrizione"
+            :imageSrc="documento.imgurl"
+          ></UiCard>
+        </NuxtLink>
       </div>
     </div>
+
   </LandingContainer>
 </template>

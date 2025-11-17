@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-  title: 'Harware wallet | Bitcoin Italia Network',
+  title: 'Hardware wallet | Bitcoin Italia Network',
   meta: [
 	{
 	  name: "description",

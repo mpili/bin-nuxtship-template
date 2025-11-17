@@ -2,6 +2,7 @@
 const props = defineProps(["data"]);
 </script>
 <template>
+  <RegioneTitle :data="data" />
   <RegioneBreadcrumb :data="data" />
 
   <LandingSectionhead>
