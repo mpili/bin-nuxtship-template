@@ -43,9 +43,9 @@ const features = [
   },
   {
     title: "Business",
-    url: "/contattaci",
+    url: "/psp",
     description:
-      "Nuove iniziative per supportare la diffusione di Bitcoin in Italia. Partecipa ora al programma pilota e metti in vetrina la tua azienda.",
+      "PSP Payment service provider. Gli operatori italiani che offrono servizi alle aziende che vogliono adottare bitcoin come mezzo di pagamento.",
     icon: "bx:bxs-user",
     img: "/img/features/business.jpg",
   },
