@@ -12979,6 +12979,37 @@
         },
         {
             "type": "way",
+            "id": 479004137,
+            "timestamp": "2025-11-16T19:34:27Z",
+            "version": 9,
+            "changeset": 174742306,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "nodes": [
+                4721717671,
+                4721717672,
+                4721717673,
+                4721717674,
+                4721717671
+            ],
+            "tags": {
+                "addr:city": "Colleferro",
+                "addr:country": "IT",
+                "addr:housenumber": "259",
+                "addr:postcode": "00034",
+                "addr:street": "Via Consolare Latina",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 08:30-13:00",
+                "phone": "+39 06 84102371",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-consolare-latina-259-00034-colleferro--010676"
+            }
+        },
+        {
+            "type": "way",
             "id": 479603144,
             "timestamp": "2023-11-04T13:07:00Z",
             "version": 5,

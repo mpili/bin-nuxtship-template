@@ -7,7 +7,7 @@
     "idlocalita": "bergamo",
     "telegram_weburl": "https://web.telegram.org/a/#-1001370434480",
     "telegram_app": "https://t.me/BitcoinBergamo",
-    "telegram_members": 15.0,
+    "telegram_members": 16.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -19287,6 +19287,33 @@
                 "phone": "+39 347 981 8206",
                 "shop": "tools",
                 "website": "https://www.industrialbuyer.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13314367577,
+            "lat": 45.8647694,
+            "lon": 9.3945334,
+            "timestamp": "2025-11-18T19:57:57Z",
+            "version": 2,
+            "changeset": 174830734,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Lecco",
+                "addr:housenumber": "5",
+                "addr:postcode": "23900",
+                "addr:street": "Via Gorizia",
+                "amenity": "restaurant",
+                "contact:facebook": "https://www.facebook.com/ShabuLecco",
+                "contact:instagram": "https://www.instagram.com/shabulecco/",
+                "contact:tiktok": "https://www.tiktok.com/@shabulecco",
+                "cuisine": "sushi",
+                "currency:XBT": "yes",
+                "name": "Shabu Lecco",
+                "payment:lightning": "yes",
+                "phone": "+39 034 1081031",
+                "website": "https://shabulecco.com/"
             }
         },
         {

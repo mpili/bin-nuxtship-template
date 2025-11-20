@@ -1,20 +1,24 @@
 <script setup>
 const props = defineProps(["data"]);
+const title = `provincia di ${props?.data?.name} | Bitcoin Italia Network`;
+const description = `La pagina della provincia di ${props?.data?.name} con l'elenco dei suoi comuni.`;
 
 useHead({
-  title: props?.data?.name + " | Bitcoin Italia Network",
   link: [
     {
       rel: "canonical",
       href: `https://bitcoinitalianetwork.com/provincia/${props?.data?.slug}`,
     },
   ],
-  // meta: [
-  //   {
-  //     property: "og:image",
-  //     content:
-  //       "https://bitcoinitalianetwork.com/img/regione/" + props.data.id + ".png",
-  //   },
-  // ],
+});
+
+useSeoMeta({
+  title: title,
+  ogTitle: title,
+  description: description,
+  ogDescription: description,
+  // ogImage: "https://bitcoinitalianetwork.com/img/regione/" + props.data.id + ".png",
+  // twitterCard: 'summary_large_image',
 });
 </script>
+

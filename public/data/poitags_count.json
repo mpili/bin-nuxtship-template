@@ -4,19 +4,19 @@
             "Unnamed: 0": 0,
             "amenity": "fuel",
             "count": 1884,
-            "max_timestamp": "2025-11-16T17:54:19Z"
+            "max_timestamp": "2025-11-18T19:14:44Z"
         },
         {
             "Unnamed: 0": 1,
             "amenity": "restaurant",
-            "count": 105,
-            "max_timestamp": "2025-11-12T03:43:40Z"
+            "count": 106,
+            "max_timestamp": "2025-11-18T19:57:57Z"
         },
         {
             "Unnamed: 0": 2,
             "amenity": "atm",
             "count": 63,
-            "max_timestamp": "2025-11-06T16:37:55Z"
+            "max_timestamp": "2025-11-18T19:39:36Z"
         },
         {
             "Unnamed: 0": 3,
@@ -28,7 +28,7 @@
             "Unnamed: 0": 4,
             "amenity": "fast_food",
             "count": 37,
-            "max_timestamp": "2025-11-06T14:47:40Z"
+            "max_timestamp": "2025-11-17T05:38:31Z"
         },
         {
             "Unnamed: 0": 5,
@@ -245,20 +245,20 @@
         {
             "Unnamed: 0": 0,
             "shop": "supermarket",
-            "count": 2425,
-            "max_timestamp": "2025-11-16T11:16:14Z"
+            "count": 2426,
+            "max_timestamp": "2025-11-18T18:20:34Z"
         },
         {
             "Unnamed: 0": 1,
             "shop": "clothes",
             "count": 1831,
-            "max_timestamp": "2025-11-16T13:21:40Z"
+            "max_timestamp": "2025-11-18T10:43:17Z"
         },
         {
             "Unnamed: 0": 2,
             "shop": "electronics",
             "count": 630,
-            "max_timestamp": "2025-11-14T13:28:43Z"
+            "max_timestamp": "2025-11-18T10:40:17Z"
         },
         {
             "Unnamed: 0": 3,
@@ -270,7 +270,7 @@
             "Unnamed: 0": 4,
             "shop": "optician",
             "count": 227,
-            "max_timestamp": "2025-11-13T20:37:07Z"
+            "max_timestamp": "2025-11-18T01:03:46Z"
         },
         {
             "Unnamed: 0": 5,
@@ -281,7 +281,7 @@
         {
             "Unnamed: 0": 6,
             "shop": "shoes",
-            "count": 213,
+            "count": 212,
             "max_timestamp": "2025-11-12T17:12:06Z"
         },
         {
@@ -902,7 +902,7 @@
             "Unnamed: 0": 7,
             "cuisine": "piadina",
             "count": 4,
-            "max_timestamp": "2025-11-12T03:43:40Z"
+            "max_timestamp": "2025-11-17T05:38:31Z"
         },
         {
             "Unnamed: 0": 8,
@@ -954,9 +954,9 @@
         },
         {
             "Unnamed: 0": 16,
-            "cuisine": "mediterranean",
+            "cuisine": "sushi",
             "count": 2,
-            "max_timestamp": "2025-07-18T22:13:33Z"
+            "max_timestamp": "2025-11-18T19:57:57Z"
         },
         {
             "Unnamed: 0": 17,
@@ -966,105 +966,105 @@
         },
         {
             "Unnamed: 0": 18,
+            "cuisine": "mediterranean",
+            "count": 2,
+            "max_timestamp": "2025-07-18T22:13:33Z"
+        },
+        {
+            "Unnamed: 0": 19,
             "cuisine": "bistro",
             "count": 1,
             "max_timestamp": "2023-12-17T14:53:36Z"
         },
         {
-            "Unnamed: 0": 19,
-            "cuisine": "noodle",
-            "count": 1,
-            "max_timestamp": "2025-10-11T17:32:05Z"
-        },
-        {
             "Unnamed: 0": 20,
-            "cuisine": "focaccia",
-            "count": 1,
-            "max_timestamp": "2025-06-05T10:11:12Z"
-        },
-        {
-            "Unnamed: 0": 21,
-            "cuisine": "farinata",
-            "count": 1,
-            "max_timestamp": "2025-06-05T10:11:12Z"
-        },
-        {
-            "Unnamed: 0": 22,
-            "cuisine": "grill",
-            "count": 1,
-            "max_timestamp": "2025-10-02T15:09:15Z"
-        },
-        {
-            "Unnamed: 0": 23,
-            "cuisine": "pinsa",
-            "count": 1,
-            "max_timestamp": "2024-10-30T19:11:53Z"
-        },
-        {
-            "Unnamed: 0": 24,
-            "cuisine": "fastfood",
-            "count": 1,
-            "max_timestamp": "2023-08-26T10:18:50Z"
-        },
-        {
-            "Unnamed: 0": 25,
-            "cuisine": "streetfood",
-            "count": 1,
-            "max_timestamp": "2024-12-19T10:02:33Z"
-        },
-        {
-            "Unnamed: 0": 26,
             "cuisine": "hamburger",
             "count": 1,
             "max_timestamp": "2024-12-19T10:02:33Z"
         },
         {
+            "Unnamed: 0": 21,
+            "cuisine": "noodle",
+            "count": 1,
+            "max_timestamp": "2025-10-11T17:32:05Z"
+        },
+        {
+            "Unnamed: 0": 22,
+            "cuisine": "focaccia",
+            "count": 1,
+            "max_timestamp": "2025-06-05T10:11:12Z"
+        },
+        {
+            "Unnamed: 0": 23,
+            "cuisine": "farinata",
+            "count": 1,
+            "max_timestamp": "2025-06-05T10:11:12Z"
+        },
+        {
+            "Unnamed: 0": 24,
+            "cuisine": "grill",
+            "count": 1,
+            "max_timestamp": "2025-10-02T15:09:15Z"
+        },
+        {
+            "Unnamed: 0": 25,
+            "cuisine": "pinsa",
+            "count": 1,
+            "max_timestamp": "2024-10-30T19:11:53Z"
+        },
+        {
+            "Unnamed: 0": 26,
+            "cuisine": "fastfood",
+            "count": 1,
+            "max_timestamp": "2023-08-26T10:18:50Z"
+        },
+        {
             "Unnamed: 0": 27,
+            "cuisine": "streetfood",
+            "count": 1,
+            "max_timestamp": "2024-12-19T10:02:33Z"
+        },
+        {
+            "Unnamed: 0": 28,
             "cuisine": "frozen_yogurt",
             "count": 1,
             "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
-            "Unnamed: 0": 28,
+            "Unnamed: 0": 29,
             "cuisine": "barbecue",
             "count": 1,
             "max_timestamp": "2023-04-27T10:06:38Z"
         },
         {
-            "Unnamed: 0": 29,
+            "Unnamed: 0": 30,
             "cuisine": "breakfast",
             "count": 1,
             "max_timestamp": "2025-05-19T14:35:07Z"
         },
         {
-            "Unnamed: 0": 30,
+            "Unnamed: 0": 31,
             "cuisine": "international",
             "count": 1,
             "max_timestamp": "2024-09-23T17:25:27Z"
         },
         {
-            "Unnamed: 0": 31,
+            "Unnamed: 0": 32,
             "cuisine": "local",
             "count": 1,
             "max_timestamp": "2025-10-16T11:01:11Z"
         },
         {
-            "Unnamed: 0": 32,
+            "Unnamed: 0": 33,
             "cuisine": "chicken",
             "count": 1,
             "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
-            "Unnamed: 0": 33,
+            "Unnamed: 0": 34,
             "cuisine": "bar_and_grill",
             "count": 1,
             "max_timestamp": "2025-10-05T18:35:00Z"
-        },
-        {
-            "Unnamed: 0": 34,
-            "cuisine": "sushi",
-            "count": 1,
-            "max_timestamp": "2024-11-10T15:57:46Z"
         },
         {
             "Unnamed: 0": 35,
@@ -1314,7 +1314,7 @@
             "Unnamed: 0": 5,
             "tourism": "camp_site",
             "count": 1,
-            "max_timestamp": "2025-10-06T11:58:01Z"
+            "max_timestamp": "2025-11-18T16:36:55Z"
         },
         {
             "Unnamed: 0": 6,
@@ -1330,21 +1330,21 @@
         },
         {
             "Unnamed: 0": 8,
-            "tourism": "caravan_site",
-            "count": 1,
-            "max_timestamp": "2025-08-12T16:03:07Z"
-        },
-        {
-            "Unnamed: 0": 9,
             "tourism": "theme_park",
             "count": 1,
             "max_timestamp": "2025-10-25T08:23:48Z"
         },
         {
-            "Unnamed: 0": 10,
+            "Unnamed: 0": 9,
             "tourism": "motel",
             "count": 1,
             "max_timestamp": "2025-05-29T18:13:01Z"
+        },
+        {
+            "Unnamed: 0": 10,
+            "tourism": "caravan_site",
+            "count": 1,
+            "max_timestamp": "2025-11-18T11:17:59Z"
         }
     ],
     "craft": [

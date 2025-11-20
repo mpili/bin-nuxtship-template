@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 286.0,
+    "telegram_members": 288.0,
     "poi": [
         {
             "type": "node",
@@ -3720,11 +3720,11 @@
         {
             "type": "way",
             "id": 425642183,
-            "timestamp": "2025-03-17T13:13:17Z",
-            "version": 4,
-            "changeset": 163731690,
-            "user": "evillz",
-            "uid": 22552063,
+            "timestamp": "2025-11-18T18:20:34Z",
+            "version": 5,
+            "changeset": 174826851,
+            "user": "angdev",
+            "uid": 23366657,
             "nodes": [
                 4249323234,
                 4249323236,
@@ -3733,6 +3733,10 @@
                 4249323234
             ],
             "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "snc",
+                "addr:postcode": "73100",
+                "addr:street": "Via Salvatore Leone De Castris",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "building": "yes",
@@ -3921,11 +3925,11 @@
         {
             "type": "way",
             "id": 1282641672,
-            "timestamp": "2024-05-13T22:56:28Z",
-            "version": 2,
-            "changeset": 151288388,
-            "user": "Piersoft",
-            "uid": 1362028,
+            "timestamp": "2025-11-18T18:16:36Z",
+            "version": 4,
+            "changeset": 174826674,
+            "user": "angdev",
+            "uid": 23366657,
             "nodes": [
                 11902406286,
                 11902406287,
@@ -3938,10 +3942,14 @@
                 11902406286
             ],
             "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "123",
+                "addr:postcode": "73100",
+                "addr:street": "Via Lequile",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "building": "yes",
-                "name": "Despar",
+                "name": "Interspar",
                 "shop": "supermarket"
             }
         },
