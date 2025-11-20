@@ -21,7 +21,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
       <h3 class="text-lg font-bold">
         <NuxtLink to="/eventi"> Eventi </NuxtLink>
       </h3>
-      <EventiLista :eventi="data?.items" />
+      <EventiListacarousel :eventi="data?.items" />
     </div>
   </div>
   <RegioneEventipassati :regione="regione" />
