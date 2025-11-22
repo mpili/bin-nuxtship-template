@@ -1762,7 +1762,7 @@
             "timestamp": "2025-04-20T17:35:22Z",
             "version": 6,
             "changeset": 165205720,
-            "user": "Simone Gliori",
+            "user": "SimonTheGolds",
             "uid": 1467637,
             "tags": {
                 "addr:city": "Rimini",
@@ -6097,7 +6097,7 @@
             "timestamp": "2025-07-28T11:52:18Z",
             "version": 2,
             "changeset": 169609421,
-            "user": "Simone Gliori",
+            "user": "SimonTheGolds",
             "uid": 1467637,
             "nodes": [
                 2326919541,
@@ -6131,7 +6131,7 @@
             "timestamp": "2023-08-13T13:27:00Z",
             "version": 6,
             "changeset": 139824093,
-            "user": "Simone Gliori",
+            "user": "SimonTheGolds",
             "uid": 1467637,
             "nodes": [
                 4256734460,
@@ -6402,7 +6402,7 @@
             "timestamp": "2023-07-24T10:15:33Z",
             "version": 1,
             "changeset": 138931727,
-            "user": "Simone Gliori",
+            "user": "SimonTheGolds",
             "uid": 1467637,
             "nodes": [
                 11064566389,
@@ -6435,7 +6435,7 @@
             "timestamp": "2024-02-02T11:00:35Z",
             "version": 1,
             "changeset": 146980193,
-            "user": "Simone Gliori",
+            "user": "SimonTheGolds",
             "uid": 1467637,
             "nodes": [
                 11578645374,
@@ -6517,6 +6517,33 @@
                 "building": "yes",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1361482095,
+            "timestamp": "2025-11-21T15:20:31Z",
+            "version": 4,
+            "changeset": 174953575,
+            "user": "Fraus",
+            "uid": 9008783,
+            "nodes": [
+                12604313992,
+                13322150015,
+                12604313998,
+                12604313993,
+                12604313994,
+                12604313995,
+                13321879629,
+                12604313992
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "building:levels:underground": "1",
+                "name": "Despar",
                 "shop": "supermarket"
             }
         },

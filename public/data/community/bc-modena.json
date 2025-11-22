@@ -753,11 +753,11 @@
             "id": 1704256675,
             "lat": 44.4977004,
             "lon": 11.3481769,
-            "timestamp": "2025-10-26T10:07:21Z",
-            "version": 18,
-            "changeset": 173786637,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-11-20T00:26:05Z",
+            "version": 20,
+            "changeset": 174885378,
+            "user": "K-hunter72",
+            "uid": 22868464,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:country": "IT",
@@ -777,11 +777,13 @@
                 "email": "booking@lemoline.it",
                 "name": "Le Moline",
                 "opening_hours": "Mo-Su 12:00-23:30",
+                "outdoor_seating": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 051 316 9389",
-                "website": "https://www.lemoline.it/"
+                "website": "https://www.lemoline.it/",
+                "website:menu": "https://szbvdatpaoifzvnk2qy8wi0qel4mtacn.menu.pienissimo.pro/menu"
             }
         },
         {
@@ -6149,23 +6151,6 @@
                 "clothes": "underwear;swimwear",
                 "name": "Tezenis",
                 "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11543731789,
-            "lat": 44.6975643,
-            "lon": 10.6341746,
-            "timestamp": "2024-01-23T17:48:49Z",
-            "version": 1,
-            "changeset": 146602523,
-            "user": "PaoloRE1981",
-            "uid": 821025,
-            "tags": {
-                "brand": "Mondadori",
-                "brand:wikidata": "Q85355",
-                "name": "Mondadori",
-                "shop": "books"
             }
         },
         {

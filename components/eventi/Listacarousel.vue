@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template>
-  <div class="carousel carousel-center bg-neutral rounded-box w-full space-x-4 p-2">
+  <div class="carousel carousel-center rounded-box w-full space-x-4 p-2  bg-base-300">
     <div class="carousel-item" v-for="evento of eventi">
       <EventiCard :evento="evento" />
     </div>

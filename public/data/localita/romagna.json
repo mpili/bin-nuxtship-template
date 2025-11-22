@@ -6670,6 +6670,33 @@
         },
         {
             "type": "way",
+            "id": 1361482095,
+            "timestamp": "2025-11-21T15:20:31Z",
+            "version": 4,
+            "changeset": 174953575,
+            "user": "Fraus",
+            "uid": 9008783,
+            "nodes": [
+                12604313992,
+                13322150015,
+                12604313998,
+                12604313993,
+                12604313994,
+                12604313995,
+                13321879629,
+                12604313992
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "building:levels:underground": "1",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
             "id": 1414850249,
             "timestamp": "2025-07-15T09:55:22Z",
             "version": 1,

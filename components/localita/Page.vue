@@ -1,6 +1,5 @@
 <script setup>
-const props = defineProps(["data"]);
-
+const props = defineProps(["id","data"]);
 </script>
 
 <template>
@@ -13,5 +12,4 @@ const props = defineProps(["data"]);
   <LocalitaMap :data="data" />
   
   <OnwListapoi :datapois="data.poi" />
-  <LandingDisclaimer />
 </template>

@@ -10312,6 +10312,30 @@
             }
         },
         {
+            "type": "node",
+            "id": 13317030243,
+            "lat": 41.0708829,
+            "lon": 14.3284782,
+            "timestamp": "2025-11-19T17:53:17Z",
+            "version": 1,
+            "changeset": 174871361,
+            "user": "BernardoRusso",
+            "uid": 23524939,
+            "tags": {
+                "addr:city": "Caserta",
+                "addr:postcode": "81100",
+                "amenity": "language_school",
+                "currency:XBT": "yes",
+                "education": "language_school",
+                "email": "bernardorusso@pm.me",
+                "language:en": "yes",
+                "name": "English for Sats",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "survey:date": "2025-11-19"
+            }
+        },
+        {
             "type": "way",
             "id": 103190545,
             "timestamp": "2025-10-23T10:25:27Z",
