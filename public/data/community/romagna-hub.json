@@ -7,6 +7,7 @@
     "idlocalita": "romagna",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBitcoinRomagnaHub",
     "telegram_app": "https://t.me/BitcoinRomagnaHub",
+    "telegram_members": 15.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -6670,6 +6671,33 @@
                 "building": "yes",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1361482095,
+            "timestamp": "2025-11-21T15:20:31Z",
+            "version": 4,
+            "changeset": 174953575,
+            "user": "Fraus",
+            "uid": 9008783,
+            "nodes": [
+                12604313992,
+                13322150015,
+                12604313998,
+                12604313993,
+                12604313994,
+                12604313995,
+                13321879629,
+                12604313992
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "building:levels:underground": "1",
+                "name": "Despar",
                 "shop": "supermarket"
             }
         },

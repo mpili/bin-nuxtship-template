@@ -3289,23 +3289,6 @@
         },
         {
             "type": "node",
-            "id": 11543731789,
-            "lat": 44.6975643,
-            "lon": 10.6341746,
-            "timestamp": "2024-01-23T17:48:49Z",
-            "version": 1,
-            "changeset": 146602523,
-            "user": "PaoloRE1981",
-            "uid": 821025,
-            "tags": {
-                "brand": "Mondadori",
-                "brand:wikidata": "Q85355",
-                "name": "Mondadori",
-                "shop": "books"
-            }
-        },
-        {
-            "type": "node",
             "id": 11546992139,
             "lat": 44.6992191,
             "lon": 10.6289388,
@@ -6832,11 +6815,11 @@
         {
             "type": "way",
             "id": 1330916212,
-            "timestamp": "2025-11-07T12:02:15Z",
-            "version": 4,
-            "changeset": 174330800,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-11-20T10:06:27Z",
+            "version": 5,
+            "changeset": 174898944,
+            "user": "ivanbranco",
+            "uid": 11220113,
             "nodes": [
                 12314407161,
                 12314407162,
@@ -6863,7 +6846,7 @@
                 "fixme": "approximate shape",
                 "name": "Eurospar",
                 "opening_hours": "Mo-Sa 08:00-20:00 Su-Su 08:00-19:00",
-                "phone": "+39037237415",
+                "phone": "+39 037237415",
                 "shop": "supermarket",
                 "wheelchair": "yes"
             }

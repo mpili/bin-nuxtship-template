@@ -7,7 +7,7 @@
     "idlocalita": "torino",
     "telegram_weburl": "https://web.telegram.org/a/#-1001385365071",
     "telegram_app": "https://t.me/SatoshiSpritzTorino",
-    "telegram_members": 867.0,
+    "telegram_members": 871.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -8754,6 +8754,23 @@
                 "name": "Laboratorio Orafo Maurizio Marottoli",
                 "phone": "+39 011 605 4335",
                 "shop": "jewelry"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13321742325,
+            "lat": 45.3039216,
+            "lon": 8.117146,
+            "timestamp": "2025-11-21T10:34:00Z",
+            "version": 1,
+            "changeset": 174942641,
+            "user": "Francoerbi41",
+            "uid": 4982687,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar Express",
+                "shop": "convenience"
             }
         },
         {

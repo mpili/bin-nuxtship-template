@@ -7,7 +7,7 @@
     "idlocalita": "genzano_di_roma",
     "telegram_weburl": "https://web.telegram.org/a/#-1002002948863",
     "telegram_app": "https://t.me/bitcoinbeergenzanodiroma",
-    "telegram_members": 47.0,
+    "telegram_members": 48.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -11351,15 +11351,18 @@
         {
             "type": "way",
             "id": 82212934,
-            "timestamp": "2023-02-14T14:23:02Z",
-            "version": 4,
-            "changeset": 132539849,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-11-20T09:17:39Z",
+            "version": 5,
+            "changeset": 174897099,
+            "user": "Antanicus",
+            "uid": 8799619,
             "nodes": [
                 957154514,
                 957154905,
                 957155177,
+                13318876555,
+                13318876554,
+                13318876553,
                 957155259,
                 957154514
             ],
@@ -11370,10 +11373,13 @@
                 "addr:street": "Via di Settebagni",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
-                "building": "yes",
+                "building": "retail",
                 "name": "Unieuro",
-                "opening_hours": "Mo-Su 10:00-20:00",
+                "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 10:00-20:00; ",
                 "operator": "Unieuro SpA",
+                "payment:cash": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
                 "phone": "+39068888299",
                 "shop": "electronics",
                 "website": "https://www.unieuro.it/online/negozi/Unieuro-Roma---via-Settebagni"
