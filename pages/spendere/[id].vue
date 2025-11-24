@@ -13,7 +13,7 @@ useHead({
 
 const breadcrumb = computed(() => [
   {
-    label: "spendere",
+    label: "negozi e servizi",
     path: "/spendere/spendere",
   },
   {
@@ -32,6 +32,7 @@ definePageMeta({
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title><span class="capitalize">{{ id }}</span></template>
+      <template v-slot:subtitle>Le attività che accettano pagamenti in Bitcoin in Italia.</template>
     </LandingSectionhead>
 
     <LandingBreadcrumb :voci="breadcrumb" />

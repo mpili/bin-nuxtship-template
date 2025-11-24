@@ -19,13 +19,15 @@ const zoom = ref(6);
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>Comunità Bitcoin in Italia</template>
+      <template v-slot:title>Comunità Bitcoin locali</template>
       <template v-slot:desc
-        >Le comunità di Bitcoiner sul territorio italiano.</template
+        >Connettiti con appassionati e professionisti.</template
       >
     </LandingSectionhead>
 
-    <LandingMainimg urlimg="/img/features/comunita.jpg" />
+    <div class="pt-4">
+      <LandingMainimg urlimg="/img/features/comunita.jpg" />
+    </div>
 
     <LMap
       style="height: 400px"

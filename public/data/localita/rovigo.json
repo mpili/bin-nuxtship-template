@@ -4094,6 +4094,24 @@
             }
         },
         {
+            "type": "node",
+            "id": 13326363471,
+            "lat": 45.2965964,
+            "lon": 12.0352142,
+            "timestamp": "2025-11-23T15:54:58Z",
+            "version": 1,
+            "changeset": 175031796,
+            "user": "McCio",
+            "uid": 16146608,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-10-23T10:23:41Z",
@@ -4303,6 +4321,33 @@
                 "name": "Tamoil",
                 "opening_hours": "24/7",
                 "operator": "Tamoil"
+            }
+        },
+        {
+            "type": "way",
+            "id": 167028435,
+            "timestamp": "2025-11-24T10:34:45Z",
+            "version": 8,
+            "changeset": 175060210,
+            "user": "filmor",
+            "uid": 12145776,
+            "nodes": [
+                1784319173,
+                1784319248,
+                1784319235,
+                1784319274,
+                1784319194,
+                1784318940,
+                1784319173
+            ],
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "building": "yes",
+                "name": "MediaWorld",
+                "operator": "Mediamarket S.p.A.",
+                "shop": "electronics",
+                "source": "Regione Emilia Romagna"
             }
         },
         {

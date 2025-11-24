@@ -13,7 +13,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     <span class="loading loading-spinner loading-xs"></span>
   </div>
   <div v-else>
-    <div class="border-1 my-2 rounded shadow p-4 font-bold">
+    <div class="border-1 my-2 rounded shadow font-bold">
       <div class="grid gap-2 grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         <div v-for="item of data.localita" class="py-2">
           <NuxtLink :to="`/l/${item.id}`">
@@ -22,10 +22,10 @@ const { pending, data, error } = await useLazyFetch(url_api, {
               <div class="mx-auto">
                 <!-- Centering wrapper -->
                 <div
-                  class="relative flex flex-col shadow-md bg-clip-border rounded-xl w-36"
+                  class="relative flex flex-col shadow-md bg-clip-border rounded-xl w-40"
                 >
                   <div
-                    class="relative mx-2 mt-4 overflow-hidden bg-clip-border rounded-xl h-28"
+                    class="relative overflow-hidden bg-clip-border rounded-xl h-32"
                   >
                     <NuxtImg
                       :src="`/img/l/${item.id}.jpg`"

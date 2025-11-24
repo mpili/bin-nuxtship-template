@@ -7,7 +7,7 @@
     "idlocalita": "monza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001787972363",
     "telegram_app": "https://t.me/SatoshiSpritzMonza",
-    "telegram_members": 76.0,
+    "telegram_members": 77.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -696,33 +696,6 @@
                 "name": "Q8",
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "11702"
-            }
-        },
-        {
-            "type": "node",
-            "id": 227529004,
-            "lat": 45.4445033,
-            "lon": 9.1179765,
-            "timestamp": "2025-11-06T12:59:57Z",
-            "version": 10,
-            "changeset": 174287180,
-            "user": "aa30mom",
-            "uid": 13840929,
-            "tags": {
-                "addr:city": "Milano",
-                "addr:housenumber": "268",
-                "addr:postcode": "20147",
-                "addr:street": "Via Lorenteggio",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "11672",
-                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -16648,18 +16621,20 @@
             "id": 9693529392,
             "lat": 45.4667852,
             "lon": 9.1578431,
-            "timestamp": "2025-01-03T14:23:13Z",
-            "version": 2,
-            "changeset": 160951516,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-11-23T18:52:43Z",
+            "version": 3,
+            "changeset": 175038033,
+            "user": "c674a",
+            "uid": 13697350,
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "42/52",
                 "addr:postcode": "20144",
                 "addr:street": "Corso Vercelli",
+                "air_conditioning": "yes",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
+                "building:levels": "2",
                 "name": "OVS",
                 "operator": "OVS",
                 "shop": "clothes"
@@ -22673,6 +22648,28 @@
             }
         },
         {
+            "type": "node",
+            "id": 13322714188,
+            "lat": 45.4908171,
+            "lon": 9.1469806,
+            "timestamp": "2025-11-21T19:51:08Z",
+            "version": 1,
+            "changeset": 174963467,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "branch": "Milano Portello",
+                "brand": "Decathlon",
+                "brand:wikidata": "Q509349",
+                "brand:wikipedia": "en:Decathlon (retailer)",
+                "clothes": "sports",
+                "name": "Decathlon",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "phone": "+390235981043",
+                "shop": "sports"
+            }
+        },
+        {
             "type": "way",
             "id": 24037476,
             "timestamp": "2025-11-09T16:24:53Z",
@@ -25827,14 +25824,24 @@
         {
             "type": "way",
             "id": 182402877,
-            "timestamp": "2025-05-25T09:58:27Z",
-            "version": 6,
-            "changeset": 166727277,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2025-11-24T19:15:48Z",
+            "version": 7,
+            "changeset": 175081558,
+            "user": "matteobott",
+            "uid": 22919632,
             "nodes": [
                 1927555462,
+                13328855141,
+                13328855144,
                 1927555376,
+                13328855135,
+                13328855147,
+                13328855145,
+                13328855136,
+                13328855137,
+                13328855138,
+                13328855139,
+                13328855140,
                 1927555325,
                 1927555488,
                 1927555462
@@ -30455,33 +30462,6 @@
         },
         {
             "type": "way",
-            "id": 855641437,
-            "timestamp": "2021-11-06T23:36:37Z",
-            "version": 2,
-            "changeset": 113464337,
-            "user": "davidoskky",
-            "uid": 11645399,
-            "nodes": [
-                7978872635,
-                7978872636,
-                7978872637,
-                7978872638,
-                7978872635
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "building": "roof",
-                "layer": "1",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "11704"
-            }
-        },
-        {
-            "type": "way",
             "id": 885047484,
             "timestamp": "2025-10-25T16:56:54Z",
             "version": 7,
@@ -30989,33 +30969,6 @@
                 "name": "Q8",
                 "operator": "Seven Point di Rizza Roberto",
                 "ref:mise": "34603"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1031842491,
-            "timestamp": "2024-02-22T11:26:11Z",
-            "version": 5,
-            "changeset": 147768749,
-            "user": "aa30mom",
-            "uid": 13840929,
-            "nodes": [
-                1944382795,
-                9509167493,
-                9509167492,
-                1944363274,
-                1944382795
-            ],
-            "tags": {
-                "branch": "Milano Portello",
-                "brand": "Decathlon",
-                "brand:wikidata": "Q509349",
-                "brand:wikipedia": "en:Decathlon (retailer)",
-                "clothes": "sports",
-                "name": "Decathlon",
-                "opening_hours": "Mo-Su 09:00-21:00",
-                "phone": "+390235981043",
-                "shop": "sports"
             }
         },
         {

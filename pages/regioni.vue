@@ -1,5 +1,4 @@
 <script setup>
-
 // Cerca tutte le relazioni con i tag specificati all'interno dell'area definita
 // const areaItalia ='area["ISO3166-1"="IT"]->.searchArea'
 
@@ -17,7 +16,8 @@ useHead({
   meta: [
     {
       name: "description",
-      content: "Le regioni italiane per trovare dove acuistare pagando in Bitcoin",
+      content:
+        "Le regioni italiane per trovare dove acuistare pagando in Bitcoin",
     },
   ],
   link: [
@@ -40,13 +40,18 @@ definePageMeta({
 </script>
 
 <template>
-	<LandingContainer>
-		<LandingBreadcrumb :voci="breadcrumb" />
+  <LandingContainer>
+    <LandingBreadcrumb :voci="breadcrumb" />
 
-		<LandingSectionhead>
-		<template v-slot:title>Regioni</template>
-		</LandingSectionhead>
+    <LandingSectionhead>
+      <template v-slot:title>Tutta l'italia è connessa</template>
+      <template v-slot:desc>
+        Il network più completo e curato
+        per l'adozione di Bitcoin
+        in ogni regione d'Italia
+      </template>
+    </LandingSectionhead>
 
-		<RegioniPage :data="data" />
-	</LandingContainer>
+    <RegioniPage :data="data" />
+  </LandingContainer>
 </template>
