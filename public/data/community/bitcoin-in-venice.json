@@ -7,7 +7,7 @@
     "idlocalita": "venezia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001365579606",
     "telegram_app": "https://t.me/bitcoininvenice",
-    "telegram_members": 133.0,
+    "telegram_members": 134.0,
     "poi": [
         {
             "type": "node",
@@ -7311,6 +7311,24 @@
                 "payment:onchain": "yes",
                 "phone": "+39 380 107 3726",
                 "shop": "bakery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13326363471,
+            "lat": 45.2965964,
+            "lon": 12.0352142,
+            "timestamp": "2025-11-23T15:54:58Z",
+            "version": 1,
+            "changeset": 175031796,
+            "user": "McCio",
+            "uid": 16146608,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
             }
         },
         {

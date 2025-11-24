@@ -7,7 +7,7 @@
     "idlocalita": "bologna",
     "telegram_weburl": "https://web.telegram.org/a/#-1001884823223",
     "telegram_app": "https://t.me/SatoshiSpritzBologna",
-    "telegram_members": 520.0,
+    "telegram_members": 521.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -8368,6 +8368,33 @@
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:00-19:30; Su 08:30-13:00",
                 "shop": "supermarket",
+                "source": "Regione Emilia Romagna"
+            }
+        },
+        {
+            "type": "way",
+            "id": 167028435,
+            "timestamp": "2025-11-24T10:34:45Z",
+            "version": 8,
+            "changeset": 175060210,
+            "user": "filmor",
+            "uid": 12145776,
+            "nodes": [
+                1784319173,
+                1784319248,
+                1784319235,
+                1784319274,
+                1784319194,
+                1784318940,
+                1784319173
+            ],
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "building": "yes",
+                "name": "MediaWorld",
+                "operator": "Mediamarket S.p.A.",
+                "shop": "electronics",
                 "source": "Regione Emilia Romagna"
             }
         },

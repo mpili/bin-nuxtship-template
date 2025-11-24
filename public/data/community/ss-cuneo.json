@@ -1694,6 +1694,36 @@
             }
         },
         {
+            "type": "node",
+            "id": 13326549665,
+            "lat": 44.4829552,
+            "lon": 7.1795056,
+            "timestamp": "2025-11-23T16:53:35Z",
+            "version": 1,
+            "changeset": 175034073,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Celle di Macra",
+                "addr:housenumber": "8",
+                "addr:postcode": "12020",
+                "addr:street": "Borgata Chiesa",
+                "amenity": "restaurant",
+                "check_date": "2025-11-23",
+                "check_date:currency:XBT": "2025-11-23",
+                "contact:facebook": "https://www.facebook.com/RifugioLaC%C3%BCsino",
+                "cuisine": "italian",
+                "currency:XBT": "yes",
+                "email": "lacusino@gmail.com",
+                "name": "La Cusino",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 338 683 4448",
+                "website": "https://lacusino.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 318607510,
             "timestamp": "2025-06-15T20:43:28Z",

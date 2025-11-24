@@ -25,8 +25,8 @@ const breadcrumb = computed(() => [
 </script>
 <template>
   <LandingSectionhead>
-    <template v-slot:title>Eventi</template>
-    <template v-slot:desc>Il calendario degli incontri dei Bitcoiner.</template>
+    <template v-slot:title>Eventi delle community</template>
+    <template v-slot:desc>Trova i prossimi incontri vicino a te</template>
   </LandingSectionhead>
 
   <LandingMainimg urlimg="/img/features/eventi.jpg" />
