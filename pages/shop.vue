@@ -14,25 +14,17 @@ definePageMeta({
 });
 
 const stores = [
-
   {
-    nome: "LeosWatches",
-    titololink: "leoswatches.com",
-    url: "https://leoswatches.com/",
-    img: "/img/store/leoswatches1000x420.png",
+    nome: "Cryptorefills",
+    titololink: "cryptorefills",
+    url: "https://www.cryptorefills.com/it",
+    img: "/img/store/cryptorefills1000x420.png",
   },
-
   {
     nome: "TheBitcoinCompany",
     titololink: "thebitcoincompany.com",
     url: "https://app.thebitcoincompany.com/giftcard",
     img: "/img/store/thebitcoincompany1000x420.png",
-  },
-  {
-    nome: "Bitrefill",
-    titololink: "bitrefill.com",
-    url: "https://www.bitrefill.com/it/it/",
-    img: "/img/store/bitrefill1000x420.png",
   },
   {
     nome: "Coinsbee",
@@ -45,6 +37,18 @@ const stores = [
     titololink: "beebit.store",
     url: "https://beebit.store/",
     img: "/img/store/beebit1000x420.png",
+  },
+  {
+    nome: "Coincards",
+    titololink: "coincards.com",
+    url: "https://coincards.com/eu/product-attribute/country-availability/italy/",
+    img: "/img/store/coincards1000x420.png",
+  },
+  {
+    nome: "Bitrefill",
+    titololink: "bitrefill.com",
+    url: "https://www.bitrefill.com/it/it/",
+    img: "/img/store/bitrefill1000x420.png",
   },
   {
     nome: "Bitcoin Travel",
@@ -60,10 +64,10 @@ const stores = [
   },
 
   {
-    nome: "Coincards",
-    titololink: "coincards.com",
-    url: "https://coincards.com/eu/product-attribute/country-availability/italy/",
-    img: "/img/store/coincards1000x420.png",
+    nome: "LeosWatches",
+    titololink: "leoswatches.com",
+    url: "https://leoswatches.com/",
+    img: "/img/store/leoswatches1000x420.png",
   },
 ];
 </script>
