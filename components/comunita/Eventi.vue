@@ -24,6 +24,6 @@ const { pending, data, error } = await useLazyFetch(url_api, {
       </h3>
       <EventiListacarousel :eventi="data?.items" />
     </div>
+    <ComunitaEventipassati :idcomunita="props.idcomunita" />
   </div>
-  <ComunitaEventipassati :idcomunita="props.idcomunita" />
 </template>

@@ -42,6 +42,21 @@ const calendarDays = computed(() => {
 
 const weekDays = ["lu", "ma", "me", "gi", "ve", "sa", "do"];
 const months = Array.from({ length: 12 }, (_, i) => i);
+
+// GIORNO CORRENTE
+const today = ref(new Date());
+const todayDate = computed(() => today.value.getDate());
+const todayMonth = computed(() => today.value.getMonth());
+const todayYear = computed(() => today.value.getFullYear());
+
+function isToday(day) {
+  return (
+    day &&
+    currentYear.value === todayYear.value &&
+    currentMonth.value === todayMonth.value &&
+    day === todayDate.value
+  );
+}
 </script>
 
 <template>
@@ -69,7 +84,11 @@ const months = Array.from({ length: 12 }, (_, i) => i);
                 <template v-for="(day, index) in calendarDays" :key="index">
                   <div
                     v-if="day"
-                    class="p-2 hover:bg-base-200 rounded-lg cursor-pointer"
+                    :class="[
+                      'p-2 rounded-lg cursor-pointer',
+                      isToday(day) ? 'bg-primary text-white' : 'hover:bg-base-200'
+                    ]"
+                    :aria-current="isToday(day) ? 'date' : null"
                   >
                     <div class="border p-2">{{ day }}</div>
                   </div>
