@@ -7,7 +7,7 @@
     "idlocalita": "mantova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001795422137",
     "telegram_app": "https://t.me/SatoshiSpritzMantova",
-    "telegram_members": 98.0,
+    "telegram_members": 101.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -4834,6 +4834,24 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
                 "phone": "+39 34 618 67826"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12811884225,
+            "lat": 44.7714483,
+            "lon": 10.7801918,
+            "timestamp": "2025-11-29T21:33:51Z",
+            "version": 2,
+            "changeset": 175291858,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {

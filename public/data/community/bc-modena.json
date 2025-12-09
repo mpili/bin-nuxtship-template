@@ -5914,11 +5914,11 @@
             "id": 11255281367,
             "lat": 44.2036469,
             "lon": 11.0591517,
-            "timestamp": "2025-11-04T22:56:59Z",
-            "version": 31,
-            "changeset": 174216519,
-            "user": "Michele Cati",
-            "uid": 20445873,
+            "timestamp": "2025-11-27T10:26:15Z",
+            "version": 32,
+            "changeset": 175191427,
+            "user": "Susymala",
+            "uid": 14777719,
             "tags": {
                 "addr:city": "Camugnano",
                 "addr:housenumber": "54B",
@@ -5946,7 +5946,7 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 34 8728 1656",
-                "ref:vatin": "03667231207",
+                "ref:vatin": "IT03667231207",
                 "website": "https://www.mieleinformatica.com"
             }
         },
@@ -7340,6 +7340,24 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "40013",
                 "addr:street": "Via Pio La Torre",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12811884225,
+            "lat": 44.7714483,
+            "lon": 10.7801918,
+            "timestamp": "2025-11-29T21:33:51Z",
+            "version": 2,
+            "changeset": 175291858,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
                 "brand": "United Colors of Benetton",
                 "brand:wikidata": "Q817139",
                 "name": "United Colors of Benetton",

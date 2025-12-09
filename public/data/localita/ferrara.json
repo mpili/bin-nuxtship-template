@@ -1063,13 +1063,13 @@
         {
             "type": "node",
             "id": 2313205089,
-            "lat": 44.8356752,
-            "lon": 11.618635,
-            "timestamp": "2025-10-07T20:48:32Z",
-            "version": 4,
-            "changeset": 172977425,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.8356849,
+            "lon": 11.6186258,
+            "timestamp": "2025-12-04T10:28:15Z",
+            "version": 5,
+            "changeset": 175483346,
+            "user": "filmor",
+            "uid": 12145776,
             "tags": {
                 "addr:city": "Ferrara",
                 "addr:housenumber": "19",
@@ -1289,13 +1289,13 @@
         {
             "type": "node",
             "id": 3041389631,
-            "lat": 44.8388171,
-            "lon": 11.6187961,
-            "timestamp": "2025-10-26T14:57:59Z",
-            "version": 4,
-            "changeset": 173798587,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.8387738,
+            "lon": 11.6187847,
+            "timestamp": "2025-12-08T10:44:05Z",
+            "version": 5,
+            "changeset": 175659832,
+            "user": "filmor",
+            "uid": 12145776,
             "tags": {
                 "addr:city": "Ferrara",
                 "addr:housenumber": "14",
@@ -2240,44 +2240,6 @@
         },
         {
             "type": "node",
-            "id": 4518662305,
-            "lat": 44.8363148,
-            "lon": 11.6197071,
-            "timestamp": "2025-01-10T09:46:14Z",
-            "version": 2,
-            "changeset": 161197996,
-            "user": "DnaX",
-            "uid": 69259,
-            "tags": {
-                "brand": "Salmoiraghi & Vigan\u00f2",
-                "brand:wikidata": "Q21272314",
-                "name": "Salmoiraghi & Vigan\u00f2",
-                "shop": "optician"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4518662306,
-            "lat": 44.8346961,
-            "lon": 11.6209758,
-            "timestamp": "2025-10-06T15:39:50Z",
-            "version": 3,
-            "changeset": 172921373,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Ferrara",
-                "addr:housenumber": "60",
-                "addr:postcode": "44121",
-                "addr:street": "Piazza Trento e Trieste",
-                "brand": "Kasanova",
-                "brand:wikidata": "Q116214505",
-                "name": "Kasanova+",
-                "shop": "houseware"
-            }
-        },
-        {
-            "type": "node",
             "id": 4523221001,
             "lat": 44.5144125,
             "lon": 11.3996652,
@@ -3215,11 +3177,11 @@
         {
             "type": "node",
             "id": 4761843804,
-            "lat": 44.8450357,
-            "lon": 11.6189307,
-            "timestamp": "2025-08-17T18:51:16Z",
-            "version": 2,
-            "changeset": 170582361,
+            "lat": 44.8450316,
+            "lon": 11.6189388,
+            "timestamp": "2025-11-25T10:13:42Z",
+            "version": 4,
+            "changeset": 175102396,
             "user": "filmor",
             "uid": 12145776,
             "tags": {
@@ -3230,17 +3192,18 @@
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
+                "opening_hours": "Mo-Sa 08:30-20:00, Su 09:00-13:00",
                 "shop": "supermarket"
             }
         },
         {
             "type": "node",
             "id": 4761937413,
-            "lat": 44.8353423,
-            "lon": 11.6192914,
-            "timestamp": "2025-08-18T12:51:06Z",
-            "version": 3,
-            "changeset": 170615453,
+            "lat": 44.835329,
+            "lon": 11.6192978,
+            "timestamp": "2025-11-28T08:43:05Z",
+            "version": 5,
+            "changeset": 175228582,
             "user": "filmor",
             "uid": 12145776,
             "tags": {
@@ -3252,6 +3215,50 @@
                 "brand:wikidata": "Q116214505",
                 "name": "Kasanova",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4761938604,
+            "lat": 44.8347513,
+            "lon": 11.6209194,
+            "timestamp": "2025-11-27T19:54:42Z",
+            "version": 3,
+            "changeset": 175213229,
+            "user": "filmor",
+            "uid": 12145776,
+            "tags": {
+                "addr:city": "Ferrara",
+                "addr:housenumber": "64",
+                "addr:postcode": "44121",
+                "addr:street": "Piazza Trento e Trieste",
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4761940713,
+            "lat": 44.8371346,
+            "lon": 11.6201687,
+            "timestamp": "2025-12-02T13:58:54Z",
+            "version": 2,
+            "changeset": 175404127,
+            "user": "filmor",
+            "uid": 12145776,
+            "tags": {
+                "addr:city": "Ferrara",
+                "addr:housenumber": "35",
+                "addr:postcode": "44121",
+                "addr:street": "Corso Martiri della Libert\u00e0",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "check_date": "2025-02-09",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -5730,27 +5737,6 @@
         },
         {
             "type": "node",
-            "id": 12571489908,
-            "lat": 44.8371431,
-            "lon": 11.6201563,
-            "timestamp": "2025-02-09T17:25:42Z",
-            "version": 1,
-            "changeset": 162322816,
-            "user": "Danysan95",
-            "uid": 4425563,
-            "tags": {
-                "addr:housenumber": "35",
-                "addr:street": "Corso Martiri della Libert\u00e0",
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "check_date": "2025-02-09",
-                "name": "United Colors of Benetton",
-                "shop": "clothes",
-                "short_name": "Benetton"
-            }
-        },
-        {
-            "type": "node",
             "id": 12585787315,
             "lat": 45.2369059,
             "lon": 11.8610066,
@@ -5887,6 +5873,36 @@
                 "payment:onchain": "yes",
                 "phone": "+39 051 725 763",
                 "website": "https://www.ahrcos.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13360467547,
+            "lat": 44.9320261,
+            "lon": 11.4153346,
+            "timestamp": "2025-12-07T23:52:57Z",
+            "version": 1,
+            "changeset": 175643850,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Malcantone",
+                "addr:housenumber": "521",
+                "addr:postcode": "44012",
+                "addr:street": "Via Comunale",
+                "check_date": "2025-12-08",
+                "check_date:currency:XBT": "2025-12-08",
+                "contact:facebook": "https://www.facebook.com/p/CORTE-STELLATA-100063562151261/",
+                "contact:instagram": "cortestellata",
+                "currency:XBT": "yes",
+                "email": "info@cortestellata.it",
+                "name": "Corte Stellata Holiday Apartments",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 347 648 0977",
+                "tourism": "chalet",
+                "website": "https://www.cortestellata.it/"
             }
         },
         {

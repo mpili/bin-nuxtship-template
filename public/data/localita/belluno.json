@@ -2897,6 +2897,30 @@
         },
         {
             "type": "way",
+            "id": 134468677,
+            "timestamp": "2025-12-07T12:55:00Z",
+            "version": 3,
+            "changeset": 175622014,
+            "user": "user_8y978a",
+            "uid": 20552772,
+            "nodes": [
+                1478314755,
+                1478314746,
+                1478314722,
+                1478314736,
+                1478314755
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "da:Eurospar",
+                "building": "yes",
+                "name": "Eurospar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
             "id": 144788543,
             "timestamp": "2025-06-04T19:56:46Z",
             "version": 7,

@@ -3368,28 +3368,6 @@
         },
         {
             "type": "node",
-            "id": 9847686244,
-            "lat": 45.8774764,
-            "lon": 8.408459,
-            "timestamp": "2025-04-19T09:02:15Z",
-            "version": 2,
-            "changeset": 165143745,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Omegna",
-                "addr:housenumber": "4",
-                "addr:postcode": "28887",
-                "addr:street": "Via Tito Speri",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
-                "operator": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 10066873085,
             "lat": 45.3243689,
             "lon": 8.4214559,
@@ -3875,11 +3853,11 @@
             "id": 11341089683,
             "lat": 45.5483038,
             "lon": 8.0770214,
-            "timestamp": "2025-10-12T18:35:03Z",
-            "version": 5,
-            "changeset": 173194898,
-            "user": "Andrea Musuruane",
-            "uid": 90379,
+            "timestamp": "2025-12-06T21:33:31Z",
+            "version": 6,
+            "changeset": 175602107,
+            "user": "mikki65",
+            "uid": 295439,
             "tags": {
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
@@ -3889,7 +3867,7 @@
                 "contact:postcode": "13900",
                 "contact:street": "Via Santa Barbara",
                 "level": "0",
-                "name": "IUMAN",
+                "name": "Intimissimi",
                 "shop": "clothes"
             }
         },
@@ -4451,6 +4429,24 @@
                 "brand:wikidata": "Q610492",
                 "name": "Despar Express",
                 "shop": "convenience"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13358256900,
+            "lat": 45.5488316,
+            "lon": 8.0784035,
+            "timestamp": "2025-12-06T21:33:31Z",
+            "version": 1,
+            "changeset": 175602107,
+            "user": "mikki65",
+            "uid": 295439,
+            "tags": {
+                "brand": "Primark",
+                "brand:wikidata": "Q137023",
+                "clothes": "underwear;men;children;women",
+                "name": "Primark",
+                "shop": "clothes"
             }
         },
         {
@@ -5829,6 +5825,29 @@
                 "shop": "sports",
                 "website": "https://www.decathlon.it/store-view/negozio-sport-novara-0070202502025",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 548890208,
+            "timestamp": "2025-12-09T11:36:51Z",
+            "version": 2,
+            "changeset": 175709031,
+            "user": "Andrea Musuruane",
+            "uid": 90379,
+            "nodes": [
+                5302382904,
+                5302381118,
+                5302394486,
+                5302384758,
+                5302382904
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
             }
         },
         {

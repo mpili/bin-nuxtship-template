@@ -943,11 +943,11 @@
             "id": 1166766333,
             "lat": 41.8932667,
             "lon": 12.5020251,
-            "timestamp": "2023-10-25T08:40:54Z",
-            "version": 10,
-            "changeset": 143102369,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2025-11-25T05:55:25Z",
+            "version": 11,
+            "changeset": 175094571,
+            "user": "debeli75",
+            "uid": 730886,
             "tags": {
                 "addr:city": "Roma",
                 "addr:country": "IT",
@@ -957,7 +957,8 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
-                "check_date": "2023-05-07",
+                "check_date": "2025-11-25",
+                "check_date:opening_hours": "2025-11-25",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:30",
                 "shop": "supermarket"
@@ -1781,6 +1782,23 @@
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1967249053,
+            "lat": 42.055519,
+            "lon": 12.6165254,
+            "timestamp": "2025-11-28T06:13:41Z",
+            "version": 5,
+            "changeset": 175224614,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
                 "shop": "supermarket"
             }
         },
@@ -3627,6 +3645,27 @@
                 "phone": "+39 06 30810201",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4791368702,
+            "lat": 41.9069162,
+            "lon": 12.4180472,
+            "timestamp": "2025-11-28T09:31:39Z",
+            "version": 3,
+            "changeset": 175230221,
+            "user": "GiovanniPen",
+            "uid": 21378857,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "3",
+                "addr:street": "Via Cardinale Massimi",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "phone": "+39 06 66012092",
+                "shop": "supermarket"
             }
         },
         {
@@ -7367,20 +7406,29 @@
             "id": 9162462789,
             "lat": 41.5942054,
             "lon": 12.6467148,
-            "timestamp": "2025-10-22T10:43:27Z",
-            "version": 3,
-            "changeset": 173621106,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-11-29T10:05:35Z",
+            "version": 7,
+            "changeset": 175268758,
+            "user": "notmyproblem1",
+            "uid": 22242779,
             "tags": {
                 "addr:city": "Aprilia",
+                "addr:country": "IT",
+                "addr:full": "VIA DEI MILLE 34, 04011 APRILIA",
                 "addr:housenumber": "34",
                 "addr:postcode": "04011",
+                "addr:province": "LT",
+                "addr:state": "LT",
                 "addr:street": "Via dei Mille",
+                "addr:street_address": "VIA DEI MILLE 34",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
-                "shop": "supermarket"
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 09:00-13:00,16:30-20:00",
+                "phone": "+39 06 9201 0016",
+                "ref": "148977",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-dei-mille-34-04011-aprilia--008916"
             }
         },
         {
@@ -7424,37 +7472,6 @@
                 "name": "Conad",
                 "phone": "+39 06 92855579",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9162519617,
-            "lat": 41.6035362,
-            "lon": 12.652683,
-            "timestamp": "2025-10-22T10:42:48Z",
-            "version": 10,
-            "changeset": 173621077,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Aprilia",
-                "addr:housenumber": "2",
-                "addr:postcode": "04011",
-                "addr:street": "Via Fiume",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "dog": "leashed",
-                "internet_access": "no",
-                "name": "Conad",
-                "organic": "yes",
-                "payment:cards": "yes",
-                "payment:cash": "yes",
-                "payment:qr_code": "yes",
-                "self_checkout": "no",
-                "shop": "supermarket",
-                "toilets": "no",
-                "website": "https://www.conad.it/ricerca-negozi/conad-superstore-via-fiume-2-04011-aprilia--009661"
             }
         },
         {
@@ -7647,11 +7664,11 @@
             "id": 9757114390,
             "lat": 41.702917,
             "lon": 12.6865959,
-            "timestamp": "2023-11-09T04:54:30Z",
-            "version": 2,
-            "changeset": 143805902,
-            "user": "b-jazz-bot",
-            "uid": 9451067,
+            "timestamp": "2025-12-07T22:06:02Z",
+            "version": 3,
+            "changeset": 175641826,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Genzano di Roma",
                 "addr:housenumber": "1",
@@ -7661,7 +7678,7 @@
                 "brand:wikidata": "Q680990",
                 "name": "Expert",
                 "operator": "Expert ELNAG",
-                "phone": "06 9364461",
+                "phone": "+39 06 936 4461",
                 "shop": "electronics",
                 "website": "https://elnag.domex.it/"
             }
@@ -11002,6 +11019,52 @@
             }
         },
         {
+            "type": "node",
+            "id": 13338165110,
+            "lat": 41.5967612,
+            "lon": 12.6505116,
+            "timestamp": "2025-11-29T10:05:35Z",
+            "version": 4,
+            "changeset": 175268758,
+            "user": "notmyproblem1",
+            "uid": 22242779,
+            "tags": {
+                "addr:city": "Aprilia",
+                "addr:country": "IT",
+                "addr:housenumber": "122",
+                "addr:postcode": "04011",
+                "addr:province": "LT",
+                "addr:state": "Latina",
+                "addr:street": "Via dei Lauri",
+                "addr:street_address": "Via dei Lauri, 122",
+                "branch": "BluKids",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "phone": "+39 06 9270 4887",
+                "ref": "1422",
+                "shop": "department_store",
+                "website": "https://stores.upim.com/it/italia/lazio/latina/aprilia-via-dei-lauri"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13342224015,
+            "lat": 41.9233541,
+            "lon": 12.4789751,
+            "timestamp": "2025-11-30T10:33:18Z",
+            "version": 1,
+            "changeset": 175306682,
+            "user": "laxandrea",
+            "uid": 381486,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "way",
             "id": 24242559,
             "timestamp": "2025-01-06T14:39:06Z",
@@ -12917,37 +12980,6 @@
                 "name": "Q8",
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "39114"
-            }
-        },
-        {
-            "type": "way",
-            "id": 465950254,
-            "timestamp": "2025-10-29T12:21:42Z",
-            "version": 3,
-            "changeset": 173926977,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                227943791,
-                4608484181,
-                4608484182,
-                4608484183,
-                227943791
-            ],
-            "tags": {
-                "addr:city": "Roma",
-                "addr:housenumber": "323",
-                "addr:postcode": "00167",
-                "addr:street": "Via di Boccea",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "building": "roof",
-                "layer": "1",
-                "name": "Q8",
-                "operator": "Gagliardini Stefano",
-                "phone": "+39 388 125 0860",
-                "ref:mise": "14362"
             }
         },
         {
@@ -15898,31 +15930,6 @@
         },
         {
             "type": "way",
-            "id": 1228668729,
-            "timestamp": "2023-12-04T16:09:53Z",
-            "version": 1,
-            "changeset": 144761270,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
-            "nodes": [
-                5851842806,
-                11394385059,
-                11394385060,
-                11394385061,
-                5851842806
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "building": "roof",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "22463"
-            }
-        },
-        {
-            "type": "way",
             "id": 1240294096,
             "timestamp": "2024-01-16T21:23:36Z",
             "version": 1,
@@ -16074,6 +16081,30 @@
                 "phone": "+39 06 97303217",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.003216.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1456531206,
+            "timestamp": "2025-12-06T18:16:10Z",
+            "version": 1,
+            "changeset": 175596315,
+            "user": "Totally Mario",
+            "uid": 12370760,
+            "nodes": [
+                13357922760,
+                13357922761,
+                13357922762,
+                13357922763,
+                13357922760
+            ],
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "building": "yes",
+                "name": "Conad City",
+                "operator": "Conad",
+                "shop": "supermarket"
             }
         },
         {

@@ -1826,11 +1826,11 @@
             "id": 842984450,
             "lat": 45.8189362,
             "lon": 8.8331882,
-            "timestamp": "2023-08-21T18:39:14Z",
-            "version": 4,
-            "changeset": 140195858,
-            "user": "Mateusz Konieczny - bot account",
-            "uid": 3199858,
+            "timestamp": "2025-11-29T10:51:53Z",
+            "version": 5,
+            "changeset": 175270179,
+            "user": "paulbrunner",
+            "uid": 15541433,
             "tags": {
                 "addr:city": "Varese",
                 "addr:housenumber": "4/1",
@@ -1840,13 +1840,15 @@
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
                 "brand:wikipedia": "fr:Carrefour (enseigne)",
+                "check_date": "2025-11-28",
                 "contact:phone": "+39 0332 286235",
                 "contact:website": "https://www.carrefour.it/punti-vendita/carrefour-market-varese-ple-trento-n-41-0005.html",
                 "name": "Carrefour",
-                "opening_hours": "Mo-Su 07:00-24:00",
+                "opening_hours": "07:00-23:00",
                 "operator": "GS SPA",
                 "ref:vatin": "IT12683790153",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -3213,11 +3215,11 @@
             "id": 2996188933,
             "lat": 45.8092415,
             "lon": 9.0875566,
-            "timestamp": "2025-01-30T14:06:31Z",
-            "version": 5,
-            "changeset": 161939005,
-            "user": "mingo23",
-            "uid": 1902578,
+            "timestamp": "2025-12-08T13:54:16Z",
+            "version": 6,
+            "changeset": 175668816,
+            "user": "aquilavariopinta",
+            "uid": 8722718,
             "tags": {
                 "addr:city": "Como",
                 "addr:housenumber": "77",
@@ -3227,6 +3229,7 @@
                 "brand:wikidata": "Q4004687",
                 "brand:wikipedia": "en:Unieuro",
                 "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-12:45, 14:15-19:30; Su 10:00-12:30, 14:30-19:00",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics",
                 "wheelchair": "yes"
@@ -7996,28 +7999,6 @@
         },
         {
             "type": "node",
-            "id": 9847686244,
-            "lat": 45.8774764,
-            "lon": 8.408459,
-            "timestamp": "2025-04-19T09:02:15Z",
-            "version": 2,
-            "changeset": 165143745,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Omegna",
-                "addr:housenumber": "4",
-                "addr:postcode": "28887",
-                "addr:street": "Via Tito Speri",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
-                "operator": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 9900326706,
             "lat": 46.3201676,
             "lon": 9.4010194,
@@ -12664,13 +12645,13 @@
         {
             "type": "node",
             "id": 11524498294,
-            "lat": 46.1922411,
-            "lon": 9.0242778,
-            "timestamp": "2025-06-21T04:54:31Z",
-            "version": 4,
-            "changeset": 167897926,
-            "user": "pjw1965",
-            "uid": 17872,
+            "lat": 46.1922262,
+            "lon": 9.0242514,
+            "timestamp": "2025-12-06T16:57:03Z",
+            "version": 8,
+            "changeset": 175593675,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Bellinzona",
                 "addr:housenumber": "6",
@@ -12681,6 +12662,7 @@
                 "currency:XBT": "yes",
                 "healthcare": "doctor",
                 "healthcare:speciality": "plastic_surgery",
+                "level": "3",
                 "name": "Linea Sana",
                 "opening_hours": "Mo-Fr 09:00-19:00 \"si riceve su appuntamento\"; PH off",
                 "payment:lightning": "yes",
@@ -15746,6 +15728,63 @@
                 "payment:lightning": "yes",
                 "phone": "+39 034 1081031",
                 "website": "https://shabulecco.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13357827211,
+            "lat": 46.1922536,
+            "lon": 9.0242728,
+            "timestamp": "2025-12-06T16:56:30Z",
+            "version": 2,
+            "changeset": 175593617,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13357831793,
+            "lat": 46.1923326,
+            "lon": 9.0243759,
+            "timestamp": "2025-12-06T16:57:25Z",
+            "version": 2,
+            "changeset": 175593617,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13357856379,
+            "lat": 46.1928067,
+            "lon": 9.0250696,
+            "timestamp": "2025-12-06T17:09:49Z",
+            "version": 2,
+            "changeset": 175593617,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton",
+                "wheelchair": "no"
             }
         },
         {
@@ -18902,11 +18941,11 @@
         {
             "type": "way",
             "id": 645614809,
-            "timestamp": "2024-06-27T16:16:34Z",
-            "version": 6,
-            "changeset": 153255125,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2025-12-08T21:00:08Z",
+            "version": 7,
+            "changeset": 175686917,
+            "user": "Aiman",
+            "uid": 67550,
             "nodes": [
                 6068438079,
                 6068438078,
@@ -18937,7 +18976,8 @@
                 "ref:vatin": "IT03595660121",
                 "smoking": "outside",
                 "tourism": "hotel",
-                "website": "https://www.hotelalborducan.com"
+                "website": "https://www.hotelalborducan.com",
+                "wheelchair": "limited"
             }
         },
         {
