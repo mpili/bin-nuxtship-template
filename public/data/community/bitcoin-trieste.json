@@ -3091,6 +3091,32 @@
             }
         },
         {
+            "type": "node",
+            "id": 13335551222,
+            "lat": 45.8074249,
+            "lon": 13.534488,
+            "timestamp": "2025-11-27T08:49:17Z",
+            "version": 2,
+            "changeset": 175187505,
+            "user": "BitcoinMonfalcone",
+            "uid": 20605179,
+            "tags": {
+                "addr:city": "Monfalcone",
+                "addr:housenumber": "63",
+                "addr:postcode": "34074",
+                "addr:street": "Via Fratelli Rosselli",
+                "currency:XBT": "yes",
+                "name": "La Magia Verde",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Sabrina",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0481 43091",
+                "shop": "herbalist",
+                "survey:date": "2025-11-26"
+            }
+        },
+        {
             "type": "way",
             "id": 36363657,
             "timestamp": "2024-10-01T10:07:58Z",
@@ -4451,6 +4477,46 @@
                 "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:00-14:00; Su off",
                 "operator": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1453421593,
+            "timestamp": "2025-11-24T21:13:53Z",
+            "version": 1,
+            "changeset": 175085393,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "nodes": [
+                227529033,
+                13329092500,
+                13329092501,
+                13329092502,
+                13329092503,
+                13329092504,
+                13329092505,
+                13329092506,
+                13329092507,
+                13329092508,
+                13329092509,
+                13329092510,
+                13329092511,
+                13329092512,
+                13329092513,
+                13329092514,
+                227529033
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fixme": "This object might have been dismantled, please check",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Autoservice 2000 di Cara Stefano & C. S.N.C.",
+                "ref:mise": "26366"
             }
         },
         {

@@ -7,7 +7,7 @@
     "idlocalita": "vicenza",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DSatoshiSpritzVicenza",
     "telegram_app": "https://t.me/SatoshiSpritzVicenza",
-    "telegram_members": 139.0,
+    "telegram_members": 138.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -2960,6 +2960,33 @@
                 "name": "Trony",
                 "operator": "Trony",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3802698808,
+            "lat": 45.713811,
+            "lon": 11.3572603,
+            "timestamp": "2025-11-29T10:16:36Z",
+            "version": 5,
+            "changeset": 175269097,
+            "user": "Nicola Smaniotto",
+            "uid": 6528402,
+            "tags": {
+                "addr:city": "Schio",
+                "addr:housenumber": "2",
+                "addr:postcode": "36015",
+                "addr:street": "Via Fratelli Pasini",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "phone": "+39 0445 525034",
+                "shop": "clothes",
+                "website": "https://it.intimissimi.com/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6421,6 +6448,25 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13356279296,
+            "lat": 45.2957716,
+            "lon": 12.037353,
+            "timestamp": "2025-12-05T19:02:25Z",
+            "version": 1,
+            "changeset": 175560859,
+            "user": "htwan",
+            "uid": 20161667,
+            "tags": {
+                "addr:housenumber": "62",
+                "addr:street": "Via Roma",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "name": "Expert",
+                "shop": "electronics"
             }
         },
         {

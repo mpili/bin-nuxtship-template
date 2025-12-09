@@ -2123,6 +2123,23 @@
         },
         {
             "type": "node",
+            "id": 5260693946,
+            "lat": 44.7044502,
+            "lon": 10.2385234,
+            "timestamp": "2025-11-28T17:21:19Z",
+            "version": 2,
+            "changeset": 175247729,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 5339702120,
             "lat": 44.8443428,
             "lon": 10.7274077,
@@ -4467,6 +4484,24 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12811884225,
+            "lat": 44.7714483,
+            "lon": 10.7801918,
+            "timestamp": "2025-11-29T21:33:51Z",
+            "version": 2,
+            "changeset": 175291858,
+            "user": "Martin Ligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {

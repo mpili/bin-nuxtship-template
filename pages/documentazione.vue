@@ -28,15 +28,23 @@ const risorseDocumentazione = [
     imgurl: "https://images2.imgbox.com/71/0c/xvs5EgGX_o.png",
   },
   {
-    nome: "Risorse bitcoin by Mir Liponi",
-    descrizione: "Mir, conosciuta come godmother della comunità Bitcoin italiana, propone la sua lista di risorse su Bitcoin in italiano",
+    nome: "Checkpoint Bitcoin",
+    descrizione:
+      "Progetto divulgativo con oltre cento articoli su acquisto, custodia e funzionamento di Bitcoin curato da Fabio Arcieri",
+    url: "https://checkpointbitcoin.it/",
+    imgurl: "https://images2.imgbox.com/78/a6/4Q9ygz9Y_o.jpg",
+  },
+  {
+    nome: "Risorse Bitcoin by Mir Liponi",
+    descrizione:
+      "Mir, conosciuta come godmother della comunità Bitcoin italiana, propone la sua lista di risorse su Bitcoin in italiano",
     url: "https://github.com/mirserena/risorsebitcoin/blob/main/README.md",
     imgurl: "https://images2.imgbox.com/a2/2f/udnbgDwD_o.jpg",
   },
   {
     nome: "Learn by Atlas 21",
     descrizione:
-      "La pagina “Learn” di Atlas21 raccoglie articoli divulgativi e guide pratiche sul mondo Bitcoin e delle criptovalute, focalizzandosi su temi tecnici e operativi.",
+      "Raccoglie articoli divulgativi e guide pratiche sul mondo Bitcoin e delle criptovalute, focalizzandosi su temi tecnici e operativi.",
     url: "https://atlas21.com/it/learn-it/",
     imgurl: "https://images2.imgbox.com/c9/0f/NmixDwDP_o.png",
   },
@@ -110,6 +118,5 @@ const risorseDocumentazione = [
         </NuxtLink>
       </div>
     </div>
-
   </LandingContainer>
 </template>

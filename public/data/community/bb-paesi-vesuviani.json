@@ -1007,19 +1007,21 @@
             "id": 3250009976,
             "lat": 40.6780117,
             "lon": 14.7632,
-            "timestamp": "2024-10-14T18:15:34Z",
-            "version": 3,
-            "changeset": 157890746,
-            "user": "paulbrunner",
-            "uid": 15541433,
+            "timestamp": "2025-12-03T10:15:55Z",
+            "version": 4,
+            "changeset": 175439209,
+            "user": "PasZnn",
+            "uid": 23483330,
             "tags": {
                 "addr:city": "Salerno",
                 "addr:housenumber": "230",
                 "addr:street": "Corso Vittorio Emanuele",
                 "brand": "La Feltrinelli",
                 "brand:wikidata": "Q96311190",
-                "check_date": "2024-10-14",
+                "check_date": "2025-12-03",
+                "check_date:opening_hours": "2025-12-03",
                 "name": "La Feltrinelli",
+                "opening_hours": "Mo-Fr 09:30-20:30; Sa 09:30-21:00; Su,PH 10:00-13:30+",
                 "shop": "books",
                 "wheelchair": "no"
             }
@@ -1943,6 +1945,24 @@
                 "name:en": "Mondadori Bookstore",
                 "shop": "books",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5180441921,
+            "lat": 40.6777781,
+            "lon": 14.7639181,
+            "timestamp": "2025-12-03T10:12:31Z",
+            "version": 5,
+            "changeset": 175438197,
+            "user": "PasZnn",
+            "uid": 23483330,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -3752,24 +3772,6 @@
         },
         {
             "type": "node",
-            "id": 6429052916,
-            "lat": 40.6759245,
-            "lon": 14.7693533,
-            "timestamp": "2022-12-04T13:40:24Z",
-            "version": 2,
-            "changeset": 129705078,
-            "user": "Italian Technology",
-            "uid": 10622815,
-            "tags": {
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "name": "United Colors of Benetton",
-                "shop": "clothes",
-                "short_name": "Benetton"
-            }
-        },
-        {
-            "type": "node",
             "id": 6561554808,
             "lat": 40.9170045,
             "lon": 14.2079362,
@@ -3902,6 +3904,23 @@
                 "phone": "+39 081 575 0760",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.003763.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7078521585,
+            "lat": 40.8449327,
+            "lon": 14.2509981,
+            "timestamp": "2025-11-29T08:32:02Z",
+            "version": 2,
+            "changeset": 175266415,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "name": "Expert",
+                "shop": "electronics"
             }
         },
         {
@@ -7833,27 +7852,6 @@
         },
         {
             "type": "node",
-            "id": 10237862193,
-            "lat": 40.6778286,
-            "lon": 14.7636403,
-            "timestamp": "2023-12-28T22:51:34Z",
-            "version": 3,
-            "changeset": 145639941,
-            "user": "salernomapping",
-            "uid": 20778157,
-            "tags": {
-                "addr:city": "Salerno",
-                "addr:postcode": "84122",
-                "addr:street": "Corso Vittorio Emanuele",
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "name": "United Colors of Benetton",
-                "shop": "clothes",
-                "short_name": "Benetton"
-            }
-        },
-        {
-            "type": "node",
             "id": 10264494829,
             "lat": 41.0053888,
             "lon": 14.3281387,
@@ -10329,6 +10327,23 @@
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "survey:date": "2025-11-19"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13338487416,
+            "lat": 40.6769763,
+            "lon": 14.7662398,
+            "timestamp": "2025-11-28T14:00:54Z",
+            "version": 1,
+            "changeset": 175240091,
+            "user": "PasZnn",
+            "uid": 23483330,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {

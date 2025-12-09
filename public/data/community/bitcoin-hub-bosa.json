@@ -158,13 +158,13 @@
         {
             "type": "node",
             "id": 2063363742,
-            "lat": 40.7195952,
-            "lon": 8.5781659,
-            "timestamp": "2020-05-10T18:32:58Z",
-            "version": 5,
-            "changeset": 84982542,
-            "user": "mascalzone67",
-            "uid": 1861652,
+            "lat": 40.7195794,
+            "lon": 8.578241,
+            "timestamp": "2025-11-25T14:50:29Z",
+            "version": 6,
+            "changeset": 175114405,
+            "user": "aboc",
+            "uid": 21696131,
             "tags": {
                 "addr:city": "Sassari",
                 "addr:housenumber": "1",
@@ -299,32 +299,6 @@
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2422699726,
-            "lat": 40.7155919,
-            "lon": 8.5835674,
-            "timestamp": "2024-07-20T20:35:17Z",
-            "version": 9,
-            "changeset": 154195138,
-            "user": "mauropili",
-            "uid": 1496865,
-            "tags": {
-                "addr:city": "Sassari",
-                "addr:housenumber": "2",
-                "addr:postcode": "07100",
-                "addr:street": "Via Nenni",
-                "check_date": "2024-03-12",
-                "contact:facebook": "https://www.facebook.com/hotelmarini",
-                "currency:XBT": "yes",
-                "description": "Hote, ristorante, centro congressi, parcheggio.",
-                "email": "info@hotelmarini.com",
-                "name": "Hotel Marini",
-                "phone": "+39 079 277282",
-                "tourism": "hotel",
-                "website": "http://www.hotelmarini.com"
             }
         },
         {
@@ -1456,6 +1430,45 @@
                 "name": "Tamoil",
                 "operator": "Centro Tamoil di Zidda Alessandro",
                 "ref:mise": "17491"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1453594670,
+            "timestamp": "2025-11-25T14:50:29Z",
+            "version": 1,
+            "changeset": 175114405,
+            "user": "aboc",
+            "uid": 21696131,
+            "nodes": [
+                4476196799,
+                13330568443,
+                13330568445,
+                13330568446,
+                13330568444,
+                2275098930,
+                2422700660,
+                2275098933,
+                2275098935,
+                2275098928,
+                2422385688,
+                13330568527,
+                4476196799
+            ],
+            "tags": {
+                "addr:city": "Sassari",
+                "addr:housenumber": "2",
+                "addr:postcode": "07100",
+                "addr:street": "Via Nenni",
+                "check_date": "2024-03-12",
+                "contact:facebook": "https://www.facebook.com/hotelmarini",
+                "currency:XBT": "yes",
+                "description": "Hote, ristorante, centro congressi, parcheggio.",
+                "email": "info@hotelmarini.com",
+                "name": "Hotel Marini",
+                "phone": "+39 079 277282",
+                "tourism": "hotel",
+                "website": "http://www.hotelmarini.com"
             }
         },
         {
