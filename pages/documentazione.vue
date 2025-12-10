@@ -32,7 +32,7 @@ const risorseDocumentazione = [
     descrizione:
       "Progetto divulgativo con oltre cento articoli su acquisto, custodia e funzionamento di Bitcoin curato da Fabio Arcieri",
     url: "https://checkpointbitcoin.it/",
-    imgurl: "https://images2.imgbox.com/78/a6/4Q9ygz9Y_o.jpg",
+    imgurl: "https://images2.imgbox.com/df/0e/1hGwZeiV_o.png",
   },
   {
     nome: "Risorse Bitcoin by Mir Liponi",
