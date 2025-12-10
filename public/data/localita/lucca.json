@@ -4432,6 +4432,26 @@
         },
         {
             "type": "node",
+            "id": 4346545013,
+            "lat": 43.5501078,
+            "lon": 10.3069495,
+            "timestamp": "2025-12-09T22:47:50Z",
+            "version": 4,
+            "changeset": 175736233,
+            "user": "MarcoR",
+            "uid": 175882,
+            "tags": {
+                "addr:housenumber": "152,154,156,158",
+                "addr:street": "Via Grande",
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "old_name": "Stradivarius",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
             "id": 4346545014,
             "lat": 43.5499642,
             "lon": 10.3072559,
@@ -5683,9 +5703,9 @@
             "id": 8857741108,
             "lat": 43.5498661,
             "lon": 10.3069754,
-            "timestamp": "2024-08-22T12:29:54Z",
-            "version": 5,
-            "changeset": 155603490,
+            "timestamp": "2025-12-10T10:14:57Z",
+            "version": 6,
+            "changeset": 175751264,
             "user": "MarcoR",
             "uid": 175882,
             "tags": {
@@ -5693,8 +5713,12 @@
                 "addr:street": "Via Grande",
                 "brand": "Mondadori",
                 "brand:wikidata": "Q85355",
-                "name": "Mondadori store",
+                "contact:whatsapp": "+39 0586 082324",
+                "name": "Mondadori bookstore",
                 "old_name": "Exc\u00e9lsa",
+                "owner": "Rosini Matteo",
+                "phone": "+39 0586 082324",
+                "ref:vatin": "IT01728500495",
                 "shop": "books"
             }
         },
