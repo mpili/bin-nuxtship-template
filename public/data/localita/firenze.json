@@ -814,30 +814,6 @@
         },
         {
             "type": "node",
-            "id": 287864085,
-            "lat": 43.8870098,
-            "lon": 11.0033316,
-            "timestamp": "2025-11-10T10:22:45Z",
-            "version": 6,
-            "changeset": 174455346,
-            "user": "Emabarto",
-            "uid": 10142223,
-            "tags": {
-                "addr:city": "Agliana",
-                "addr:housenumber": "78",
-                "addr:postcode": "51031",
-                "addr:street": "Via Carl Marx",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "IP",
-                "operator": "Ala Carburanti S.R.L.",
-                "ref:mise": "41267",
-                "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 370890914,
             "lat": 43.8965081,
             "lon": 11.1056968,
@@ -1286,9 +1262,9 @@
             "id": 1427522804,
             "lat": 43.9012347,
             "lon": 11.0082334,
-            "timestamp": "2025-04-18T12:07:29Z",
-            "version": 4,
-            "changeset": 165109201,
+            "timestamp": "2025-12-17T12:59:53Z",
+            "version": 5,
+            "changeset": 176049715,
             "user": "Emabarto",
             "uid": 10142223,
             "tags": {
@@ -1307,7 +1283,6 @@
                 "payment:apple_pay": "yes",
                 "payment:bancomat": "yes",
                 "payment:cards": "yes",
-                "payment:cash": "yes",
                 "payment:coins": "yes",
                 "payment:contactless": "yes",
                 "payment:credit_cards": "yes",
@@ -3621,6 +3596,25 @@
                 "operator": "Seganti Paolo",
                 "ref:mise": "14395",
                 "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851845228,
+            "lat": 43.7417682,
+            "lon": 10.9012954,
+            "timestamp": "2025-12-14T16:44:13Z",
+            "version": 2,
+            "changeset": 175926559,
+            "user": "vignaccia",
+            "uid": 208336,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Morzetta Arturo Marco",
+                "ref:mise": "13570"
             }
         },
         {

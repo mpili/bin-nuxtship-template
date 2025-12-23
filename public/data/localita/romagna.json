@@ -1350,18 +1350,18 @@
             "id": 3350394207,
             "lat": 44.4312678,
             "lon": 11.608186,
-            "timestamp": "2025-01-19T15:06:45Z",
-            "version": 2,
-            "changeset": 161528145,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2025-12-20T19:40:57Z",
+            "version": 3,
+            "changeset": 176194146,
+            "user": "Klenje",
+            "uid": 129060,
             "tags": {
                 "addr:city": "Castel San Pietro Terme",
                 "addr:postcode": "40023",
                 "addr:street": "Via del Commercio",
                 "brand": "PittaRosso",
                 "brand:wikidata": "Q105643314",
-                "check_date": "2025-01-19",
+                "check_date": "2025-12-20",
                 "name": "PittaRosso",
                 "shop": "shoes"
             }
@@ -5592,6 +5592,31 @@
                 "brand:wikidata": "Q116214505",
                 "name": "Kasanova",
                 "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13369980715,
+            "lat": 44.4980049,
+            "lon": 11.3926282,
+            "timestamp": "2025-12-11T16:59:58Z",
+            "version": 1,
+            "changeset": 175812161,
+            "user": "Ryccardo",
+            "uid": 2884921,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "fuel:cng": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Conad",
+                "opening_hours": "24/7",
+                "phone": "+39 051 4684554",
+                "self_service": "yes",
+                "self_service:cng": "yes",
+                "website": "https://www.conad.it/ricerca-negozi/conad-self-24h-via-artura-gazzoni-4-2-40138-bologna--050862"
             }
         },
         {

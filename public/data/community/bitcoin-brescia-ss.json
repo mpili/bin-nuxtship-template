@@ -1076,7 +1076,7 @@
             "timestamp": "2025-12-03T13:42:53Z",
             "version": 6,
             "changeset": 175447651,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "tags": {
                 "addr:city": "Borgosatollo",
@@ -1436,7 +1436,7 @@
             "timestamp": "2025-12-01T18:59:20Z",
             "version": 7,
             "changeset": 175372321,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "tags": {
                 "addr:city": "Bovezzo",
@@ -2059,7 +2059,7 @@
             "timestamp": "2025-11-30T14:35:41Z",
             "version": 21,
             "changeset": 175316019,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
@@ -5533,25 +5533,28 @@
             "id": 10165750730,
             "lat": 45.356339,
             "lon": 9.6515674,
-            "timestamp": "2022-11-07T08:18:54Z",
-            "version": 1,
-            "changeset": 128585463,
-            "user": "BSN21M",
-            "uid": 17441326,
+            "timestamp": "2025-12-19T09:33:43Z",
+            "version": 2,
+            "changeset": 176131533,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Crema",
                 "addr:postcode": "26013",
                 "addr:street": "Via Pandino",
                 "amenity": "restaurant",
+                "check_date": "2025-12-19",
+                "check_date:currency:XBT": "2025-12-19",
+                "contact:facebook": "dalbarbarossaOBV",
+                "contact:instagram": "dalbarbarossa",
                 "currency:XBT": "yes",
                 "email": "scorse_89@hotmail.it",
                 "name": "Dal Barbarossa",
-                "payment:lightning": "no",
+                "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "+393491745630",
-                "survey:date": "2022-11-07",
-                "website": "https://it-it.facebook.com/dalbarbarossaOBV/"
+                "phone": "+39 392 237 3254",
+                "survey:date": "2022-11-07"
             }
         },
         {
@@ -5585,16 +5588,17 @@
         {
             "type": "node",
             "id": 10228582932,
-            "lat": 45.5445077,
-            "lon": 10.2198795,
-            "timestamp": "2025-09-26T09:17:21Z",
-            "version": 8,
-            "changeset": 172475157,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.5445021,
+            "lon": 10.2198708,
+            "timestamp": "2025-12-14T14:58:39Z",
+            "version": 9,
+            "changeset": 175922434,
+            "user": "LupeGimoozaabi",
+            "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "93",
+                "addr:postcode": "25100",
                 "addr:street": "Via San Faustino",
                 "amenity": "cafe",
                 "check_date": "2022-12-10",
@@ -6727,7 +6731,7 @@
             "timestamp": "2025-05-02T09:59:36Z",
             "version": 3,
             "changeset": 165711288,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
@@ -7779,7 +7783,7 @@
             "timestamp": "2025-12-03T22:48:17Z",
             "version": 6,
             "changeset": 175466613,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "tags": {
                 "addr:city": "Borgosatollo",
@@ -8135,7 +8139,7 @@
             "timestamp": "2025-12-06T23:38:23Z",
             "version": 1,
             "changeset": 175605255,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
@@ -9119,7 +9123,7 @@
             "timestamp": "2025-11-30T14:41:49Z",
             "version": 6,
             "changeset": 175316311,
-            "user": "Giorovv",
+            "user": "LupeGimoozaabi",
             "uid": 22842500,
             "nodes": [
                 2624078092,
@@ -9393,6 +9397,31 @@
                 "payment:bancomat": "yes",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 496705878,
+            "timestamp": "2025-12-10T20:34:56Z",
+            "version": 4,
+            "changeset": 175776118,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                4883765811,
+                4883765810,
+                4883765809,
+                4883765805,
+                4883765808,
+                4883765811
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "brand:wikipedia": "en:Simply Market",
+                "building": "retail",
+                "name": "Conad",
                 "shop": "supermarket"
             }
         },

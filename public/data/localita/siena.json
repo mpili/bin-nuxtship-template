@@ -948,11 +948,11 @@
             "id": 5869712189,
             "lat": 43.2107575,
             "lon": 10.8999824,
-            "timestamp": "2025-10-01T15:04:32Z",
-            "version": 3,
-            "changeset": 172711099,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-11T21:00:09Z",
+            "version": 4,
+            "changeset": 175820252,
+            "user": "MarcoR",
+            "uid": 175882,
             "tags": {
                 "addr:city": "Castelnuovo di Val di Cecina",
                 "addr:housenumber": "1",
@@ -963,7 +963,8 @@
                 "brand:wikidata": "Q1634762",
                 "brand:wikipedia": "en:Kuwait Petroleum Corporation",
                 "name": "Q8",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "ref:mise": "55855"
             }
         },
         {
@@ -2514,11 +2515,11 @@
         {
             "type": "way",
             "id": 362820249,
-            "timestamp": "2024-03-26T13:05:04Z",
-            "version": 6,
-            "changeset": 149176959,
-            "user": "Matteo Gheza",
-            "uid": 8971573,
+            "timestamp": "2025-12-11T20:57:44Z",
+            "version": 7,
+            "changeset": 175820177,
+            "user": "MarcoR",
+            "uid": 175882,
             "nodes": [
                 3670702169,
                 3670702170,
@@ -2538,8 +2539,7 @@
                 "compressed_air": "yes",
                 "name": "Q8",
                 "operator": "Ceppatelli Giovanni",
-                "ref:mise": "19817",
-                "source:date": "2018-04-16"
+                "ref:mise": "61844"
             }
         },
         {

@@ -2416,13 +2416,13 @@
         {
             "type": "node",
             "id": 5086201058,
-            "lat": 44.4726343,
-            "lon": 8.9003326,
-            "timestamp": "2025-10-23T08:12:44Z",
-            "version": 24,
-            "changeset": 173660807,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.4726379,
+            "lon": 8.9003295,
+            "timestamp": "2025-12-20T16:06:32Z",
+            "version": 25,
+            "changeset": 176186965,
+            "user": "EneaSuper",
+            "uid": 2885860,
             "tags": {
                 "addr:city": "Genova",
                 "addr:housenumber": "10",
@@ -3355,6 +3355,28 @@
         },
         {
             "type": "node",
+            "id": 8639957301,
+            "lat": 44.3878504,
+            "lon": 8.6427361,
+            "timestamp": "2025-12-16T18:22:00Z",
+            "version": 4,
+            "changeset": 176018504,
+            "user": "GhhJ",
+            "uid": 13071474,
+            "tags": {
+                "addr:city": "Cogoleto",
+                "addr:housenumber": "122",
+                "addr:postcode": "16016",
+                "addr:street": "Via Cristoforo Colombo",
+                "branch": "bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 9757907692,
             "lat": 44.4090541,
             "lon": 8.9557045,
@@ -3997,9 +4019,9 @@
             "id": 11416863815,
             "lat": 44.4720348,
             "lon": 8.8999506,
-            "timestamp": "2025-06-28T16:53:05Z",
-            "version": 3,
-            "changeset": 168235132,
+            "timestamp": "2025-12-20T16:06:32Z",
+            "version": 4,
+            "changeset": 176186965,
             "user": "EneaSuper",
             "uid": 2885860,
             "tags": {
@@ -4010,7 +4032,6 @@
                 "level": "0",
                 "name": "Expert",
                 "opening_hours": "Mo-Su 08:00-21:00",
-                "operator": "Centro commerciale l'Aquilone",
                 "shop": "electronics",
                 "wheelchair": "yes"
             }

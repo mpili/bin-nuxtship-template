@@ -4071,29 +4071,6 @@
         },
         {
             "type": "node",
-            "id": 5627452635,
-            "lat": 45.3793076,
-            "lon": 11.5528564,
-            "timestamp": "2025-10-16T18:06:45Z",
-            "version": 4,
-            "changeset": 173378733,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Villaga",
-                "addr:housenumber": "19",
-                "addr:postcode": "36021",
-                "addr:street": "Via Berico Euganea",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Gaspari Adriano",
-                "ref:mise": "16034"
-            }
-        },
-        {
-            "type": "node",
             "id": 5628859788,
             "lat": 45.1691729,
             "lon": 11.6642962,
@@ -9188,11 +9165,11 @@
         {
             "type": "way",
             "id": 1221927780,
-            "timestamp": "2024-10-08T13:44:30Z",
-            "version": 2,
-            "changeset": 157627805,
-            "user": "Flight777",
-            "uid": 9925732,
+            "timestamp": "2025-12-20T13:35:50Z",
+            "version": 3,
+            "changeset": 176181041,
+            "user": "Tartarosm80",
+            "uid": 11814199,
             "nodes": [
                 1964943148,
                 1964942565,
@@ -9218,10 +9195,11 @@
                 "brand:wikidata": "Q639075",
                 "building": "yes",
                 "fax": "+39 041 554 0402",
-                "name": "Conad",
+                "name": "Conad spesa facile",
                 "opening_hours": "Mo-Sa 07:00-21:00; Su 07:30-21:00",
                 "phone": "+39 041 554 4313",
                 "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/spesa-facile-via-padre-emilio-venturini-53-30015-chioggia--009098/",
                 "wheelchair": "yes"
             }
         },

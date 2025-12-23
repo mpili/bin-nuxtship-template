@@ -5795,6 +5795,33 @@
             }
         },
         {
+            "type": "node",
+            "id": 13372503738,
+            "lat": 45.8694893,
+            "lon": 13.0870159,
+            "timestamp": "2025-12-12T18:40:31Z",
+            "version": 2,
+            "changeset": 175858761,
+            "user": "BitcoinMonfalcone",
+            "uid": 20605179,
+            "tags": {
+                "addr:city": "Ariis",
+                "addr:housenumber": "4",
+                "addr:postcode": "33061",
+                "addr:street": "Via Pocenia",
+                "currency:XBT": "yes",
+                "name": "MelaBio",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Monica",
+                "organic": "only",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 0432 775135",
+                "shop": "supermarket",
+                "survey:date": "2025-12-12"
+            }
+        },
+        {
             "type": "way",
             "id": 36053469,
             "timestamp": "2023-11-13T08:06:55Z",
@@ -5903,6 +5930,40 @@
                 "phone": "0432 492111",
                 "shop": "electronics",
                 "website": "https://www.mediaworld.it/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36124979,
+            "timestamp": "2025-12-14T23:35:20Z",
+            "version": 11,
+            "changeset": 175938537,
+            "user": "Gabriele Dri",
+            "uid": 3821761,
+            "nodes": [
+                421875233,
+                6401477451,
+                421875235,
+                9436650962,
+                5359308050,
+                421875237,
+                6401477452,
+                421875239,
+                421875233
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "da:Eurospar",
+                "building": "commercial",
+                "building:levels": "2",
+                "height": "10 m",
+                "it:fvg:ctrn:code": "4AED",
+                "it:fvg:ctrn:revision": "1AM",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-20:00",
+                "operator": "Aspiag",
+                "shop": "supermarket"
             }
         },
         {

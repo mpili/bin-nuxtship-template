@@ -1249,7 +1249,7 @@
             "timestamp": "2025-04-20T19:10:11Z",
             "version": 6,
             "changeset": 165209154,
-            "user": "skizz98",
+            "user": "ottanium",
             "uid": 13920670,
             "tags": {
                 "amenity": "fuel",
@@ -2230,13 +2230,13 @@
         {
             "type": "node",
             "id": 5086201058,
-            "lat": 44.4726343,
-            "lon": 8.9003326,
-            "timestamp": "2025-10-23T08:12:44Z",
-            "version": 24,
-            "changeset": 173660807,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.4726379,
+            "lon": 8.9003295,
+            "timestamp": "2025-12-20T16:06:32Z",
+            "version": 25,
+            "changeset": 176186965,
+            "user": "EneaSuper",
+            "uid": 2885860,
             "tags": {
                 "addr:city": "Genova",
                 "addr:housenumber": "10",
@@ -2870,11 +2870,11 @@
             "id": 7117886609,
             "lat": 43.9520297,
             "lon": 8.1491054,
-            "timestamp": "2025-10-08T13:59:55Z",
-            "version": 5,
-            "changeset": 173006525,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-21T11:21:58Z",
+            "version": 7,
+            "changeset": 176213005,
+            "user": "Seandebasti",
+            "uid": 550560,
             "tags": {
                 "addr:city": "Andora",
                 "addr:housenumber": "27",
@@ -3033,6 +3033,28 @@
                 "office": "advertising_agency",
                 "phone": "+39 010 8480295",
                 "website": "https://managerads.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8639957301,
+            "lat": 44.3878504,
+            "lon": 8.6427361,
+            "timestamp": "2025-12-16T18:22:00Z",
+            "version": 4,
+            "changeset": 176018504,
+            "user": "GhhJ",
+            "uid": 13071474,
+            "tags": {
+                "addr:city": "Cogoleto",
+                "addr:housenumber": "122",
+                "addr:postcode": "16016",
+                "addr:street": "Via Cristoforo Colombo",
+                "branch": "bookstore",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {
@@ -3650,9 +3672,9 @@
             "id": 11416863815,
             "lat": 44.4720348,
             "lon": 8.8999506,
-            "timestamp": "2025-06-28T16:53:05Z",
-            "version": 3,
-            "changeset": 168235132,
+            "timestamp": "2025-12-20T16:06:32Z",
+            "version": 4,
+            "changeset": 176186965,
             "user": "EneaSuper",
             "uid": 2885860,
             "tags": {
@@ -3663,7 +3685,6 @@
                 "level": "0",
                 "name": "Expert",
                 "opening_hours": "Mo-Su 08:00-21:00",
-                "operator": "Centro commerciale l'Aquilone",
                 "shop": "electronics",
                 "wheelchair": "yes"
             }

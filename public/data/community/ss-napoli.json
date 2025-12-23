@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/a/#-1001823139796",
     "telegram_app": "https://t.me/SatoshiSpritzNapoli",
-    "telegram_members": 78.0,
+    "telegram_members": 80.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -268,26 +268,6 @@
         },
         {
             "type": "node",
-            "id": 228769404,
-            "lat": 40.8596804,
-            "lon": 14.2620682,
-            "timestamp": "2024-11-14T08:25:05Z",
-            "version": 7,
-            "changeset": 159120004,
-            "user": "baprischka",
-            "uid": 974272,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "check_date": "2024-11-14",
-                "name": "Q8",
-                "operator": "Vilardi Enrico",
-                "ref:mise": "16975"
-            }
-        },
-        {
-            "type": "node",
             "id": 245568828,
             "lat": 40.9614979,
             "lon": 14.263048,
@@ -348,6 +328,25 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 499484968,
+            "lat": 40.8351845,
+            "lon": 14.2377925,
+            "timestamp": "2025-12-22T23:02:18Z",
+            "version": 5,
+            "changeset": 176285582,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "name": "Carrefour",
+                "opening_hours": "Mo-Su 07:00-22:00",
+                "shop": "supermarket",
+                "wheelchair": "no"
             }
         },
         {
@@ -1479,6 +1478,24 @@
         },
         {
             "type": "node",
+            "id": 4133206442,
+            "lat": 40.8422995,
+            "lon": 14.2204429,
+            "timestamp": "2025-12-21T20:19:56Z",
+            "version": 3,
+            "changeset": 176233713,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "branch": "GM3",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4157990490,
             "lat": 40.8677991,
             "lon": 14.2120197,
@@ -1925,13 +1942,13 @@
         {
             "type": "node",
             "id": 5182054021,
-            "lat": 40.6755779,
-            "lon": 14.7697343,
-            "timestamp": "2025-10-17T19:42:57Z",
-            "version": 3,
-            "changeset": 173426023,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 40.6755405,
+            "lon": 14.7698786,
+            "timestamp": "2025-12-19T14:09:20Z",
+            "version": 5,
+            "changeset": 176141171,
+            "user": "PasZnn",
+            "uid": 23483330,
             "tags": {
                 "addr:city": "Salerno",
                 "addr:housenumber": "57",
@@ -1940,6 +1957,7 @@
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
+                "opening_hours": "Mo-Su 09:30-21:00",
                 "shop": "clothes"
             }
         },
@@ -3346,6 +3364,25 @@
                 "name": "Q8",
                 "operator": "Carrara Pietro",
                 "ref:mise": "17155"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851844351,
+            "lat": 40.8412814,
+            "lon": 14.2285893,
+            "timestamp": "2025-12-22T23:02:18Z",
+            "version": 2,
+            "changeset": 176285582,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Ditta De Luca Pasquale",
+                "ref:mise": "15856"
             }
         },
         {
@@ -7412,22 +7449,24 @@
         {
             "type": "node",
             "id": 10237862171,
-            "lat": 40.676091,
-            "lon": 14.7682535,
-            "timestamp": "2025-11-10T15:20:28Z",
-            "version": 4,
-            "changeset": 174468710,
-            "user": "randommapping",
-            "uid": 20995761,
+            "lat": 40.6761163,
+            "lon": 14.7681478,
+            "timestamp": "2025-12-16T14:48:28Z",
+            "version": 6,
+            "changeset": 176009283,
+            "user": "PasZnn",
+            "uid": 23483330,
             "tags": {
                 "addr:city": "Salerno",
                 "addr:postcode": "84123",
                 "addr:street": "Corso Vittorio Emanuele",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
-                "check_date": "2024-10-14",
+                "check_date": "2025-12-16",
+                "check_date:opening_hours": "2025-12-16",
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 10:30-13:30,17:00-20:30",
                 "phone": "+390892880945",
                 "shop": "clothes",
                 "website": "https://www.tezenis.com/it/negozi/campania/salerno/salerno_corso_vittorio_emanuele_121/TB16.html",
@@ -8701,20 +8740,19 @@
             "id": 11819638430,
             "lat": 40.7369189,
             "lon": 13.8599201,
-            "timestamp": "2025-10-01T11:12:22Z",
-            "version": 6,
-            "changeset": 172701194,
-            "user": "Gioielleria Esposito Ischia",
-            "uid": 23350084,
+            "timestamp": "2025-12-14T10:09:54Z",
+            "version": 10,
+            "changeset": 175912600,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Forio",
                 "addr:housenumber": "12",
                 "addr:postcode": "80075",
                 "addr:street": "Via Erasmo Di Lustro",
-                "check_date": "2025-03-07",
-                "check_date:currency:XBT": "2025-03-07",
                 "contact:email": "gioielleriaespositoischia@gmail.com",
                 "currency:XBT": "yes",
+                "currency:XMR": "yes",
                 "name": "Gioielleria Esposito Ischia",
                 "payment:coinos": "yes",
                 "payment:lightning": "yes",
@@ -9709,6 +9747,23 @@
         },
         {
             "type": "node",
+            "id": 13259575254,
+            "lat": 40.8436189,
+            "lon": 14.2297091,
+            "timestamp": "2025-12-21T20:19:56Z",
+            "version": 2,
+            "changeset": 176233713,
+            "user": "c674a",
+            "uid": 13697350,
+            "tags": {
+                "brand": "Foot Locker",
+                "brand:wikidata": "Q63335",
+                "name": "Foot Locker",
+                "shop": "shoes"
+            }
+        },
+        {
+            "type": "node",
             "id": 13261764824,
             "lat": 41.0743387,
             "lon": 14.2977797,
@@ -9820,6 +9875,55 @@
                 "brand:wikidata": "Q1027874",
                 "name": "Calzedonia",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13381375758,
+            "lat": 40.6761171,
+            "lon": 14.7681972,
+            "timestamp": "2025-12-16T14:47:17Z",
+            "version": 2,
+            "changeset": 176009283,
+            "user": "PasZnn",
+            "uid": 23483330,
+            "tags": {
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "opening_hours": "Mo-Sa 09:00-20:30; Su 10:30-13:30+,17:00-20:30",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13387404343,
+            "lat": 41.0552015,
+            "lon": 14.6195471,
+            "timestamp": "2025-12-19T10:19:48Z",
+            "version": 3,
+            "changeset": 176133442,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Montesarchio",
+                "addr:housenumber": "153",
+                "addr:postcode": "82016",
+                "addr:street": "Via Napoli",
+                "check_date": "2025-12-18",
+                "check_date:currency:XBT": "2025-12-18",
+                "contact:facebook": "Gipainformatica",
+                "currency:XBT": "yes",
+                "email": "info@gipainformatica.com",
+                "name": "Gi.Pa. Informatica",
+                "opening_hours": "Mo,Tu 08:30-13:00, 16:00-20:00; We-Sa 08:30-13:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 0824 149 0618",
+                "shop": "computer",
+                "website": "https://gipainformatica.com/"
             }
         },
         {
