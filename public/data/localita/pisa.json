@@ -1015,11 +1015,11 @@
             "id": 228191467,
             "lat": 43.6327371,
             "lon": 10.5957703,
-            "timestamp": "2025-10-30T19:50:04Z",
-            "version": 11,
-            "changeset": 173993095,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-11T20:40:38Z",
+            "version": 12,
+            "changeset": 175819683,
+            "user": "MarcoR",
+            "uid": 175882,
             "tags": {
                 "addr:city": "Pontedera",
                 "addr:postcode": "56025",
@@ -1035,7 +1035,7 @@
                 "name": "Q8",
                 "opening_hours": "24/7",
                 "operator": "Siris di Masini Silvia & C. S.A.S.",
-                "ref:mise": "7751",
+                "ref:mise": "55332",
                 "source": "MISE - Ministero Sviluppo Economico"
             }
         },
@@ -3408,14 +3408,15 @@
             "id": 3820808224,
             "lat": 43.529822,
             "lon": 10.3279974,
-            "timestamp": "2025-01-15T16:03:50Z",
-            "version": 4,
-            "changeset": 161386857,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-12-21T10:43:43Z",
+            "version": 5,
+            "changeset": 176211630,
+            "user": "MarcoR",
+            "uid": 175882,
             "tags": {
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
+                "level": "0",
                 "name": "H&M",
                 "shop": "clothes"
             }
@@ -3439,6 +3440,27 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3932965923,
+            "lat": 43.5504792,
+            "lon": 10.3403998,
+            "timestamp": "2025-12-19T14:09:32Z",
+            "version": 8,
+            "changeset": 176142315,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "addr:housenumber": "6",
+                "addr:postcode": "57128",
+                "addr:street": "Via Gino Graziani",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "1",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -4439,11 +4461,11 @@
             "id": 5851835188,
             "lat": 43.6521533,
             "lon": 10.6125677,
-            "timestamp": "2023-09-21T09:14:29Z",
-            "version": 4,
-            "changeset": 141548893,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-12-11T20:40:38Z",
+            "version": 5,
+            "changeset": 175819683,
+            "user": "MarcoR",
+            "uid": 175882,
             "tags": {
                 "amenity": "fuel",
                 "brand": "Q8",
@@ -4454,8 +4476,27 @@
                 "fuel:octane_95": "yes",
                 "name": "Q8",
                 "operator": "Valdera Gestioni S.R.L.",
-                "ref:mise": "36674",
+                "ref:mise": "60851",
                 "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851845228,
+            "lat": 43.7417682,
+            "lon": 10.9012954,
+            "timestamp": "2025-12-14T16:44:13Z",
+            "version": 2,
+            "changeset": 175926559,
+            "user": "vignaccia",
+            "uid": 208336,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Morzetta Arturo Marco",
+                "ref:mise": "13570"
             }
         },
         {
@@ -4549,14 +4590,15 @@
             "id": 6329787255,
             "lat": 43.5298106,
             "lon": 10.3278109,
-            "timestamp": "2025-01-15T16:03:50Z",
-            "version": 3,
-            "changeset": 161386857,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-12-21T10:43:43Z",
+            "version": 4,
+            "changeset": 176211630,
+            "user": "MarcoR",
+            "uid": 175882,
             "tags": {
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
+                "level": "0",
                 "name": "OVS",
                 "shop": "clothes"
             }
@@ -5169,11 +5211,11 @@
             "id": 9144885967,
             "lat": 43.3299899,
             "lon": 10.524335,
-            "timestamp": "2025-09-29T08:51:04Z",
-            "version": 6,
-            "changeset": 172600951,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-11T20:54:32Z",
+            "version": 7,
+            "changeset": 175820081,
+            "user": "MarcoR",
+            "uid": 175882,
             "tags": {
                 "addr:city": "Cecina",
                 "addr:postcode": "57010",
@@ -5188,6 +5230,7 @@
                 "name": "Conad",
                 "opening_hours": "24/7",
                 "operator": "Conad",
+                "ref:mise": "52895",
                 "self_service": "yes",
                 "wheelchair": "yes"
             }
@@ -6731,6 +6774,24 @@
             }
         },
         {
+            "type": "node",
+            "id": 13395997669,
+            "lat": 43.959306,
+            "lon": 10.1684071,
+            "timestamp": "2025-12-22T20:43:20Z",
+            "version": 1,
+            "changeset": 176281607,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
             "type": "way",
             "id": 77097381,
             "timestamp": "2023-12-24T13:56:27Z",
@@ -6879,11 +6940,11 @@
         {
             "type": "way",
             "id": 124127654,
-            "timestamp": "2025-10-08T14:00:51Z",
-            "version": 10,
-            "changeset": 173006582,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-12-19T18:16:43Z",
+            "version": 12,
+            "changeset": 176152149,
+            "user": "mau59",
+            "uid": 257767,
             "nodes": [
                 1382347440,
                 1382347334,
@@ -6927,9 +6988,9 @@
                 "addr:street": "Via Fabbricone Pontecorvo",
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
-                "building": "yes",
+                "building": "commercial",
                 "check_date": "2025-10-08",
-                "contact:phone": "+39 050 800 311",
+                "contact:phone": "+39 050 800311",
                 "contact:website": "https://www.carrefour.it",
                 "name": "Carrefour",
                 "opening_hours": "Mo-Su 07:30-23:59; PH unknown \"call or check the website\"",
@@ -8021,11 +8082,11 @@
         {
             "type": "way",
             "id": 473422553,
-            "timestamp": "2024-04-11T13:18:47Z",
-            "version": 9,
-            "changeset": 149864723,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2025-12-11T20:48:52Z",
+            "version": 10,
+            "changeset": 175819913,
+            "user": "MarcoR",
+            "uid": 175882,
             "nodes": [
                 4675408060,
                 4675408076,
@@ -8043,9 +8104,8 @@
                 "name": "Aquila",
                 "opening_hours": "24/7",
                 "operator": "Bientinesi Massimiliano",
-                "ref:mise": "5143",
+                "ref:mise": "59812",
                 "self_service": "yes",
-                "source:date": "2018-04-16",
                 "survey:date": "2024-04-11",
                 "wheelchair": "yes"
             }

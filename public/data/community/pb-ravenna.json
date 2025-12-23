@@ -7,7 +7,7 @@
     "idlocalita": "ravenna",
     "telegram_weburl": "https://web.telegram.org/a/#-1001933240725",
     "telegram_app": "https://t.me/piadabitcoin",
-    "telegram_members": 106.0,
+    "telegram_members": 105.0,
     "poi": [
         {
             "type": "node",
@@ -1664,18 +1664,18 @@
             "id": 3350394207,
             "lat": 44.4312678,
             "lon": 11.608186,
-            "timestamp": "2025-01-19T15:06:45Z",
-            "version": 2,
-            "changeset": 161528145,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2025-12-20T19:40:57Z",
+            "version": 3,
+            "changeset": 176194146,
+            "user": "Klenje",
+            "uid": 129060,
             "tags": {
                 "addr:city": "Castel San Pietro Terme",
                 "addr:postcode": "40023",
                 "addr:street": "Via del Commercio",
                 "brand": "PittaRosso",
                 "brand:wikidata": "Q105643314",
-                "check_date": "2025-01-19",
+                "check_date": "2025-12-20",
                 "name": "PittaRosso",
                 "shop": "shoes"
             }
@@ -4669,23 +4669,6 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0541 347999",
                 "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10836586601,
-            "lat": 44.0661532,
-            "lon": 12.5718973,
-            "timestamp": "2023-04-24T08:58:39Z",
-            "version": 1,
-            "changeset": 135291934,
-            "user": "Valerio_Bozzolan",
-            "uid": 1875845,
-            "tags": {
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "name": "Carrefour",
-                "shop": "supermarket"
             }
         },
         {

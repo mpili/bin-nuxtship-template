@@ -3382,6 +3382,46 @@
             }
         },
         {
+            "type": "node",
+            "id": 13381092060,
+            "lat": 43.7146006,
+            "lon": 13.2187235,
+            "timestamp": "2025-12-16T12:15:38Z",
+            "version": 1,
+            "changeset": 176002968,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:housenumber": "61",
+                "addr:street": "Corso Due Giugno",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2025-12-16",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13392434368,
+            "lat": 43.7137868,
+            "lon": 13.2191075,
+            "timestamp": "2025-12-21T09:57:42Z",
+            "version": 1,
+            "changeset": 176210027,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:housenumber": "92",
+                "addr:street": "Corso Due Giugno",
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "check_date": "2025-12-20",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
             "type": "way",
             "id": 41974501,
             "timestamp": "2025-10-25T16:41:33Z",

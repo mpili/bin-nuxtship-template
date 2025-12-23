@@ -7,7 +7,7 @@
     "idlocalita": "trieste",
     "telegram_weburl": "https://web.telegram.org/a/#-1001054825457",
     "telegram_app": "https://t.me/bitcointrieste",
-    "telegram_members": 104.0,
+    "telegram_members": 105.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -3092,6 +3092,40 @@
         },
         {
             "type": "node",
+            "id": 13295299067,
+            "lat": 45.2266252,
+            "lon": 13.5959457,
+            "timestamp": "2025-12-16T00:14:21Z",
+            "version": 3,
+            "changeset": 175983305,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Pore\u010d",
+                "addr:housenumber": "4",
+                "addr:postcode": "52440",
+                "addr:street": "Ulica Bo\u017ee Milanovi\u0107a",
+                "check_date": "2025-12-15",
+                "check_date:currency:XBT": "2025-12-15",
+                "contact:facebook": "Marleytattoo1",
+                "contact:instagram": "marleytattooporecin",
+                "currency:XBT": "yes",
+                "description": "Imaginative artists, a relaxing atmosphere, a clean and safe environment are the most important features.",
+                "level": "0",
+                "name": "Marley",
+                "opening_hours": "Mo-Fr 10:00-18:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+385 97 764 8077",
+                "piercing": "yes",
+                "shop": "tattoo",
+                "survey:date": "2025-11-10",
+                "website": "https://marley-tattoo.com/"
+            }
+        },
+        {
+            "type": "node",
             "id": 13335551222,
             "lat": 45.8074249,
             "lon": 13.534488,
@@ -4422,11 +4456,11 @@
         {
             "type": "way",
             "id": 1343780968,
-            "timestamp": "2024-12-19T14:02:00Z",
-            "version": 1,
-            "changeset": 160396436,
-            "user": "Pipi Ferry 99",
-            "uid": 20953706,
+            "timestamp": "2025-12-19T17:45:19Z",
+            "version": 2,
+            "changeset": 176150990,
+            "user": "Jaka Kranjc",
+            "uid": 2442070,
             "nodes": [
                 12433554931,
                 12433554932,
@@ -4439,6 +4473,7 @@
                 "brand:wikidata": "Q610492",
                 "building": "yes",
                 "name": "Spar",
+                "opening_hours": "Mo-Sa 08:00-20:00",
                 "shop": "supermarket"
             }
         },

@@ -27,7 +27,7 @@
 		<LPopup><NuxtLink to="/c/bb-bologna">Bitcoin Beer Bologna</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[44.4943668, 11.3417208]">
-		<LPopup><NuxtLink to="/c/bitcoin-bologna-ss">Bitcoin Bologna & Satoshi Spritz</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bitcoin-bologna-ss">Bitcoin Bologna</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[40.29486, 8.48318]">
 		<LPopup><NuxtLink to="/c/b-is-for-bosa">₿ is for BOSA</NuxtLink></LPopup>
