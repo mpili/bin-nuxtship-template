@@ -1615,25 +1615,6 @@
         },
         {
             "type": "node",
-            "id": 1769510048,
-            "lat": 41.8533014,
-            "lon": 12.571598,
-            "timestamp": "2025-10-09T21:26:09Z",
-            "version": 4,
-            "changeset": 173069056,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Roma",
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "brand:wikipedia": "fr:Carrefour (enseigne)",
-                "name": "Carrefour",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 1800052935,
             "lat": 41.8738648,
             "lon": 12.524406,
@@ -5514,11 +5495,11 @@
             "id": 7106868783,
             "lat": 41.880812,
             "lon": 12.5021693,
-            "timestamp": "2020-01-19T10:39:07Z",
-            "version": 2,
-            "changeset": 79751099,
-            "user": "Creando",
-            "uid": 132740,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 3,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "37",
@@ -5529,7 +5510,7 @@
                 "brand:wikipedia": "fr:Carrefour (enseigne)",
                 "name": "Carrefour",
                 "opening_hours": "24/7",
-                "phone": "+39  6 70495473",
+                "phone": "+39 06 7049 5473",
                 "shop": "supermarket"
             }
         },
@@ -6105,11 +6086,11 @@
             "id": 8164794789,
             "lat": 41.9029506,
             "lon": 12.4794967,
-            "timestamp": "2025-10-29T07:48:00Z",
-            "version": 3,
-            "changeset": 173915299,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-05T01:09:31Z",
+            "version": 4,
+            "changeset": 176841670,
+            "user": "Marion_Moseby",
+            "uid": 5379200,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "403",
@@ -6120,7 +6101,8 @@
                 "brand:wikipedia": "en:Intimissimi",
                 "clothes": "underwear",
                 "name": "Intimissimi",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "no"
             }
         },
         {
@@ -8031,11 +8013,11 @@
             "id": 10248418330,
             "lat": 41.8969889,
             "lon": 12.474344,
-            "timestamp": "2025-04-09T19:29:44Z",
-            "version": 4,
-            "changeset": 164739971,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 5,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "6",
@@ -8052,7 +8034,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "+39 668803698",
+                "phone": "+39 06 6880 3698",
                 "shop": "hairdresser",
                 "website": "https://www.operaparrucchieriroma.com/"
             }
@@ -8266,11 +8248,11 @@
             "id": 10788335322,
             "lat": 41.8693941,
             "lon": 12.4680789,
-            "timestamp": "2025-01-09T09:44:41Z",
-            "version": 3,
-            "changeset": 161162510,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 4,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "16",
@@ -8285,7 +8267,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "065583975",
+                "phone": "+39 06 558 3975",
                 "shop": "clothes"
             }
         },
@@ -8294,11 +8276,11 @@
             "id": 10788514140,
             "lat": 41.9706418,
             "lon": 12.5395634,
-            "timestamp": "2023-08-04T10:34:22Z",
-            "version": 3,
-            "changeset": 139434937,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2025-12-31T09:24:27Z",
+            "version": 4,
+            "changeset": 176663083,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "201",
@@ -8311,7 +8293,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0687070571",
+                "phone": "+39 06 8707 0571",
                 "shop": "clothes",
                 "website": "https://porta-di-roma.klepierre.it/negozi-ristoranti/nuvolari"
             }
@@ -8321,11 +8303,11 @@
             "id": 10788533053,
             "lat": 41.9578954,
             "lon": 12.5492675,
-            "timestamp": "2023-08-04T10:37:30Z",
-            "version": 3,
-            "changeset": 139435071,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2025-12-31T09:24:27Z",
+            "version": 4,
+            "changeset": 176663083,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "99",
@@ -8338,7 +8320,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0687562458",
+                "phone": "+39 06 8756 2458",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/stores/roma-bufalotta-c-c-dima-shopping"
             }
@@ -8348,11 +8330,11 @@
             "id": 10788548244,
             "lat": 41.9022135,
             "lon": 12.4380874,
-            "timestamp": "2023-08-04T10:39:17Z",
-            "version": 3,
-            "changeset": 139435154,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2025-12-31T09:24:27Z",
+            "version": 4,
+            "changeset": 176663083,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "30",
@@ -8365,7 +8347,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0688976520",
+                "phone": "+39 06 8897 6520",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/stores/roma-aurelia"
             }
@@ -8375,11 +8357,11 @@
             "id": 10788554735,
             "lat": 41.8508082,
             "lon": 12.5988331,
-            "timestamp": "2023-08-04T07:16:34Z",
-            "version": 3,
-            "changeset": 139426521,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2025-12-31T09:24:27Z",
+            "version": 4,
+            "changeset": 176663083,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "8",
@@ -8392,7 +8374,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "067233530",
+                "phone": "+39 06 723 3530",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/"
             }
@@ -8402,11 +8384,11 @@
             "id": 10788561661,
             "lat": 41.8743954,
             "lon": 12.5230558,
-            "timestamp": "2023-08-04T07:18:05Z",
-            "version": 3,
-            "changeset": 139426572,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2025-12-31T09:24:27Z",
+            "version": 4,
+            "changeset": 176663083,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "450",
@@ -8418,7 +8400,7 @@
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "0687768218",
+                "phone": "+39 06 8776 8218",
                 "shop": "clothes",
                 "website": "https://www.nuvolari.biz/"
             }
@@ -8724,24 +8706,28 @@
             "id": 11358052148,
             "lat": 41.8406085,
             "lon": 12.6222508,
-            "timestamp": "2024-02-19T04:21:15Z",
-            "version": 2,
-            "changeset": 147632651,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2026-01-02T11:24:55Z",
+            "version": 3,
+            "changeset": 176738316,
+            "user": "AlCeRoma",
+            "uid": 12770453,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "426",
                 "addr:postcode": "00173",
                 "addr:street": "Viale Luigi Schiavonetti",
                 "amenity": "fast_food",
+                "branch": "CC Tor Vergata",
+                "brand": "Kebhouze",
+                "brand:wikidata": "Q130465663",
                 "check_date": "2023-11-17",
                 "cuisine": "kebab",
                 "currency:XBT": "yes",
-                "name": "kebhouze - CC Tor Vergata",
+                "name": "Kebhouze",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
+                "takeaway": "yes",
                 "website": "https://kebhouze.com/"
             }
         },
@@ -8773,11 +8759,11 @@
             "id": 11472852130,
             "lat": 41.9135148,
             "lon": 12.660354,
-            "timestamp": "2024-10-18T18:08:31Z",
-            "version": 3,
-            "changeset": 158062765,
-            "user": "WolfMc",
-            "uid": 22049805,
+            "timestamp": "2025-12-31T09:24:27Z",
+            "version": 4,
+            "changeset": 176663083,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "858",
@@ -8793,7 +8779,7 @@
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
-                "phone": "0680307620",
+                "phone": "+39 06 8030 7620",
                 "shop": "clothes",
                 "website": "https://www.primark.com/it-it/stores/roma/centro-commerciale-romaest"
             }
@@ -10303,11 +10289,11 @@
             "id": 11962299411,
             "lat": 41.7364457,
             "lon": 12.2786686,
-            "timestamp": "2025-10-16T08:35:14Z",
-            "version": 5,
-            "changeset": 173353728,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 6,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "94/b",
@@ -10319,7 +10305,7 @@
                 "opening_hours": "Mo-Su 09:30-19:30",
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
-                "phone": "065613642",
+                "phone": "+39 06 561 3642",
                 "shop": "cosmetics",
                 "wheelchair": "yes"
             }
@@ -10354,11 +10340,11 @@
             "id": 11962362380,
             "lat": 41.7364767,
             "lon": 12.2784008,
-            "timestamp": "2025-10-16T08:57:39Z",
-            "version": 5,
-            "changeset": 173354602,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 6,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "83",
@@ -10370,7 +10356,7 @@
                 "opening_hours": "Mo-Su 09:30-19:30",
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
-                "phone": "065693304",
+                "phone": "+39 06 569 3304",
                 "shop": "clothes",
                 "wheelchair": "no"
             }
@@ -10380,11 +10366,11 @@
             "id": 11990459758,
             "lat": 41.7374574,
             "lon": 12.2789589,
-            "timestamp": "2025-10-22T19:54:50Z",
-            "version": 5,
-            "changeset": 173645212,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 6,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Lido di Ostia",
                 "addr:housenumber": "119",
@@ -10396,7 +10382,7 @@
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
-                "phone": "065612361",
+                "phone": "+39 06 561 2361",
                 "shop": "houseware",
                 "wheelchair": "yes"
             }
@@ -11009,11 +10995,11 @@
             "id": 13338165110,
             "lat": 41.5967612,
             "lon": 12.6505116,
-            "timestamp": "2025-11-29T10:05:35Z",
-            "version": 4,
-            "changeset": 175268758,
-            "user": "notmyproblem1",
-            "uid": 22242779,
+            "timestamp": "2025-12-24T06:33:37Z",
+            "version": 6,
+            "changeset": 176338794,
+            "user": "ALEX128ita",
+            "uid": 23634370,
             "tags": {
                 "addr:city": "Aprilia",
                 "addr:country": "IT",
@@ -11026,7 +11012,8 @@
                 "branch": "BluKids",
                 "brand": "Upim",
                 "brand:wikidata": "Q1414836",
-                "name": "Upim",
+                "level": "0",
+                "name": "Blukids",
                 "phone": "+39 06 9270 4887",
                 "ref": "1422",
                 "shop": "department_store",
@@ -11048,6 +11035,30 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13426445133,
+            "lat": 41.8423565,
+            "lon": 12.6208626,
+            "timestamp": "2026-01-02T11:24:55Z",
+            "version": 1,
+            "changeset": 176738316,
+            "user": "AlCeRoma",
+            "uid": 12770453,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "30",
+                "addr:postcode": "00173",
+                "addr:street": "Via Mary Pandolfi de Rinaldis",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Su 09:30-20:00",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
@@ -11794,30 +11805,6 @@
                 "name": "Tamoil",
                 "operator": "Fgs Gas S.A.S. di Civitella Giorgio",
                 "ref:mise": "23630"
-            }
-        },
-        {
-            "type": "way",
-            "id": 178159784,
-            "timestamp": "2023-07-08T14:33:39Z",
-            "version": 3,
-            "changeset": 138266145,
-            "user": "procuste",
-            "uid": 1211315,
-            "nodes": [
-                1885328955,
-                1885328956,
-                1885328958,
-                1885328957,
-                1885328955
-            ],
-            "tags": {
-                "branch": "Carabetta",
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "building": "yes",
-                "name": "Carrefour",
-                "shop": "supermarket"
             }
         },
         {
@@ -14016,11 +14003,11 @@
         {
             "type": "way",
             "id": 693832649,
-            "timestamp": "2021-07-08T09:35:19Z",
-            "version": 2,
-            "changeset": 107621735,
-            "user": "Silverium",
-            "uid": 13566882,
+            "timestamp": "2025-12-24T08:52:16Z",
+            "version": 3,
+            "changeset": 176343236,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "nodes": [
                 1154166834,
                 6514231441,
@@ -14041,7 +14028,6 @@
                 "brand:wikipedia": "it:Conad",
                 "building": "retail",
                 "building:levels": "1",
-                "contact:phone": "+39  06 64017763",
                 "contact:website": "https://www.conad.it",
                 "currency:EUR": "yes",
                 "level": "0",
@@ -14049,7 +14035,7 @@
                 "opening_hours": "Mo-Fr 09:00-13:30,15:00-20:00; Sa 09:00-20:00; Su off",
                 "payment:cash": "yes",
                 "payment:maestro": "yes",
-                "phone": "+39  06 64017763",
+                "phone": "+39 06 6401 7763",
                 "shop": "pet",
                 "website": "https://www.conad.it"
             }

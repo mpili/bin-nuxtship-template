@@ -50,7 +50,7 @@ useHead({
     }"
     />
   </div>
-
+  <EventiNostr v-if="evento?.nostr_id" :nostr_id="evento?.nostr_id" />
   <MeetupBadge v-if="evento?.id_comunita" :idcomunita="evento?.id_comunita" />
 
   <EventiVenue v-if="evento?.id_nod_osm" :idnodosm="evento?.id_nod_osm" />

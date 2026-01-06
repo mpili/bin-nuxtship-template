@@ -2002,11 +2002,11 @@
             "id": 4501068299,
             "lat": 45.5542201,
             "lon": 10.2299839,
-            "timestamp": "2025-01-02T16:46:35Z",
-            "version": 11,
-            "changeset": 160916701,
-            "user": "demon_box",
-            "uid": 350864,
+            "timestamp": "2025-12-25T18:04:20Z",
+            "version": 12,
+            "changeset": 176404740,
+            "user": "LupeGimoozaabi",
+            "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "81",
@@ -2019,8 +2019,10 @@
                 "name": "Trony",
                 "opening_hours": "Mo-Sa 09:00-12:30+,15:00-19:30",
                 "operator": "Trony",
+                "phone": "+39 030 338 5495",
                 "ref:vatin": "IT02147260174",
                 "shop": "electronics",
+                "website": "https://www.trony.it/brescia-TRO464/",
                 "wheelchair": "yes"
             }
         },
@@ -6034,6 +6036,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13418472937,
+            "lat": 44.8092461,
+            "lon": 10.3181423,
+            "timestamp": "2025-12-30T16:27:51Z",
+            "version": 1,
+            "changeset": 176636846,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "way",
             "id": 27549342,
             "timestamp": "2025-05-23T16:12:37Z",
@@ -6507,42 +6526,6 @@
                 "name": "Conad",
                 "shop": "supermarket",
                 "source": "Regione Emilia Romagna"
-            }
-        },
-        {
-            "type": "way",
-            "id": 182144856,
-            "timestamp": "2024-02-27T15:46:11Z",
-            "version": 5,
-            "changeset": 147978692,
-            "user": "Emanuele Lorenzo Corti",
-            "uid": 10893865,
-            "nodes": [
-                1924920322,
-                1924920450,
-                1924920538,
-                1924920545,
-                11669370525,
-                11669370524,
-                1924920600,
-                1924920623,
-                1924920342,
-                1924920213,
-                1924919761,
-                1924919747,
-                1924920322
-            ],
-            "tags": {
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "building": "yes",
-                "name": "Conad",
-                "opening_hours": "Mo-Sa 08:30-20:30; Su 09:00-13:00",
-                "operator": "Conad",
-                "shop": "supermarket",
-                "source": "Regione Emilia Romagna",
-                "wheelchair": "yes"
             }
         },
         {
@@ -7918,6 +7901,40 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1462651412,
+            "timestamp": "2025-12-29T19:14:57Z",
+            "version": 1,
+            "changeset": 176594490,
+            "user": "Mirko Ventafridda",
+            "uid": 23657162,
+            "nodes": [
+                13416445558,
+                13416445559,
+                13416445560,
+                13416445561,
+                13416445562,
+                13416445563,
+                13416445564,
+                13416445565,
+                13416445566,
+                13416445567,
+                13416445568,
+                13416445569,
+                13416445570,
+                13416445571,
+                13416445572,
+                13416445573,
+                13416445558
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil"
             }
         }
     ],
