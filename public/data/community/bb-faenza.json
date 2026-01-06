@@ -7,7 +7,7 @@
     "idlocalita": "faenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001836800144",
     "telegram_app": "https://t.me/bitcoinbeerfaenza",
-    "telegram_members": 269.0,
+    "telegram_members": 270.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -6626,6 +6626,29 @@
             }
         },
         {
+            "type": "node",
+            "id": 13423690555,
+            "lat": 44.5302245,
+            "lon": 11.3507531,
+            "timestamp": "2026-01-01T14:36:47Z",
+            "version": 1,
+            "changeset": 176705790,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "7",
+                "addr:postcode": "40128",
+                "addr:street": "Via Giuseppe Giusti",
+                "currency:XBT": "yes",
+                "description": "Fisiokinesiterapia, massoterapia, R.P.G. (rieducazione posturale globale), terapia manuale, terapia strumentale (tecar), fisioterapia post chirurgica/trauma.",
+                "email": "mairdrop84@gmail.com",
+                "name": "Studio di fisioterapia",
+                "office": "therapist",
+                "phone": "+39 3299699161"
+            }
+        },
+        {
             "type": "way",
             "id": 149870837,
             "timestamp": "2025-03-25T14:46:06Z",
@@ -7804,6 +7827,29 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "name": "Tamoil"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1462300939,
+            "timestamp": "2025-12-28T13:36:32Z",
+            "version": 1,
+            "changeset": 176528875,
+            "user": "Chrichetto",
+            "uid": 15373834,
+            "nodes": [
+                13413222076,
+                13413222077,
+                13413222078,
+                13413222079,
+                13413222076
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "self_service": "no"
             }
         }
     ],

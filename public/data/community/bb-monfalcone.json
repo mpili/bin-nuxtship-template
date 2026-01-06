@@ -1494,11 +1494,11 @@
             "id": 3860871235,
             "lat": 46.0660769,
             "lon": 13.2439147,
-            "timestamp": "2025-10-26T14:27:14Z",
-            "version": 4,
-            "changeset": 173797170,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-23T10:18:48Z",
+            "version": 5,
+            "changeset": 176300362,
+            "user": "rikmede",
+            "uid": 2360444,
             "tags": {
                 "addr:city": "Udine",
                 "addr:postcode": "33100",
@@ -1506,8 +1506,8 @@
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "en:Spar (retailer)",
-                "name": "Despar",
-                "shop": "supermarket"
+                "disused:shop": "supermarket",
+                "name": "Despar"
             }
         },
         {
@@ -3728,27 +3728,28 @@
             "id": 11467342354,
             "lat": 45.9018373,
             "lon": 13.2483191,
-            "timestamp": "2024-10-16T17:33:59Z",
-            "version": 2,
-            "changeset": 157976401,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-12-24T10:28:59Z",
+            "version": 3,
+            "changeset": 176350674,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Gonars",
-                "addr:housenumber": "111",
+                "addr:housenumber": "111a",
                 "addr:postcode": "33050",
                 "addr:street": "Via Gorizia",
-                "addr:unit": "A",
-                "check_date": "2024-10-16",
-                "check_date:currency:XBT": "2024-10-16",
-                "contact:email": "cottage.lenone@gmail.com",
+                "check_date": "2025-12-24",
+                "check_date:currency:XBT": "2025-12-24",
+                "contact:facebook": "cottage.lenone",
+                "contact:instagram": "cottage.le.none",
                 "currency:XBT": "yes",
+                "email": "cottage.lenone@gmail.com",
                 "guest_house": "guest_house",
                 "name": "Cottage \"Le None\"",
-                "payment:lightning": "no",
-                "payment:lightning_contactless": "no",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
-                "phone": "+39 38 8861 2544",
+                "phone": "+39 388 861 2544",
                 "tourism": "guest_house"
             }
         },
@@ -4406,11 +4407,11 @@
         {
             "type": "way",
             "id": 36102709,
-            "timestamp": "2025-01-06T14:14:05Z",
-            "version": 7,
-            "changeset": 161059820,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2025-12-24T07:45:01Z",
+            "version": 8,
+            "changeset": 176340841,
+            "user": "fabiotofy",
+            "uid": 684800,
             "nodes": [
                 421677287,
                 421677289,
@@ -4433,9 +4434,6 @@
                 421677287
             ],
             "tags": {
-                "addr:housenumber": "161",
-                "addr:postcode": "33010",
-                "addr:street": "Via Nazionale",
                 "brand": "MediaWorld",
                 "brand:wikidata": "Q2381223",
                 "building": "yes",
@@ -5930,35 +5928,6 @@
         },
         {
             "type": "way",
-            "id": 1000040546,
-            "timestamp": "2022-05-16T09:59:53Z",
-            "version": 2,
-            "changeset": 121044500,
-            "user": "Cascafico",
-            "uid": 361003,
-            "nodes": [
-                8406489011,
-                9231088787,
-                9231088786,
-                9231088785,
-                3501686995,
-                8406489011
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_100": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "11914"
-            }
-        },
-        {
-            "type": "way",
             "id": 1001446218,
             "timestamp": "2025-04-10T12:50:49Z",
             "version": 10,
@@ -6293,6 +6262,48 @@
                 "level": "0",
                 "name": "OVS",
                 "shop": "clothes",
+                "type": "multipolygon"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 7395435,
+            "timestamp": "2025-12-27T15:57:59Z",
+            "version": 3,
+            "changeset": 176489885,
+            "user": "Bojan\ud83d\udcf7",
+            "uid": 792910,
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 251256521,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676215,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676267,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 507676217,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "indoor": "room",
+                "level": "0",
+                "name": "Interspar",
+                "opening_hours": "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 09:00-15:00",
+                "ref:vatin": "SI32156782",
+                "shop": "supermarket",
                 "type": "multipolygon"
             }
         },
