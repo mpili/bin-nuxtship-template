@@ -13,7 +13,8 @@ definePageMeta({
 <template>
   <LandingContainer>
     <MainHero></MainHero>
-    <MainAdbanner v-if="isDev" />
+    <MainAdbanner />
+    <!-- <MainAdbanner v-if="isDev" /> -->
     <LandingHeventi></LandingHeventi>
     <LandingSlide></LandingSlide>
     <LandingSlogan></LandingSlogan>
