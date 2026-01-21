@@ -48,7 +48,7 @@
 		<LPopup><NuxtLink to="/c/ss-carpi">Satoshi Spritz Carpi</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[38.9075, 16.5962]">
-		<LPopup><NuxtLink to="/c/bitcoin-beer-catanzaro">₿itcoin Beer Catanzaro</NuxtLink></LPopup>
+		<LPopup><NuxtLink to="/c/bitcoin-beer-catanzaro">BitcoinCalabria</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[46.365271, 11.033176]">
 		<LPopup><NuxtLink to="/c/ss-cles">Satoshi Spritz Cles</NuxtLink></LPopup>

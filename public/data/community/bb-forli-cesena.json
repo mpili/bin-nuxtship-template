@@ -655,21 +655,21 @@
         {
             "type": "node",
             "id": 1188833219,
-            "lat": 44.0478447,
-            "lon": 12.5903258,
-            "timestamp": "2025-10-03T16:13:39Z",
-            "version": 5,
-            "changeset": 172799940,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.0477518,
+            "lon": 12.5903181,
+            "timestamp": "2026-01-13T07:18:02Z",
+            "version": 6,
+            "changeset": 177166119,
+            "user": "Aluminum0173",
+            "uid": 16035231,
             "tags": {
                 "addr:city": "Rimini",
-                "addr:housenumber": "7/A",
+                "addr:housenumber": "7a",
                 "addr:postcode": "47924",
                 "addr:street": "Via Giaime Pintor",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
                 "shop": "supermarket",
                 "wheelchair:description": "yes"
             }
@@ -4453,7 +4453,7 @@
             "timestamp": "2024-01-17T00:26:52Z",
             "version": 3,
             "changeset": 146342972,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Castel San Pietro Terme",
@@ -5603,6 +5603,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13449627388,
+            "lat": 43.8982329,
+            "lon": 12.2902256,
+            "timestamp": "2026-01-12T09:04:29Z",
+            "version": 1,
+            "changeset": 177127831,
+            "user": "Maurizio Melani (forwalk)",
+            "uid": 1669056,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "way",
             "id": 151286274,
             "timestamp": "2023-06-04T06:42:55Z",
@@ -6248,9 +6265,9 @@
         {
             "type": "way",
             "id": 510031131,
-            "timestamp": "2025-11-27T16:57:31Z",
-            "version": 7,
-            "changeset": 175206911,
+            "timestamp": "2026-01-09T07:12:13Z",
+            "version": 8,
+            "changeset": 177012359,
             "user": "mtb_93",
             "uid": 23272223,
             "nodes": [
@@ -6269,15 +6286,10 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "building": "commercial",
-                "description": "Temporaneamente chiuso per lavori di manutenzione/Temporarily closed for maintenance work",
-                "fuel:biodiesel": "yes",
-                "fuel:diesel": "yes",
-                "fuel:octane_98": "yes",
+                "description": "Temporaneamente chiuso per lavori di manutenzione/Temporarily closed for maintenance work;  Licenza open data Ministero delle Imprese e del Made in Italy IODL 2.0: https://www.dati.gov.it/iodl/2.0/",
                 "name": "G.B.petroli",
-                "note": "verificare il cartello lavori in cantiere, perch\u00e9 l'impianto non \u00e8 attualmente nell'elenco MISE degli impianti attivi/check the construction site work sign, because the plant is not currently in the MISE list of active plants",
+                "note": "verificare il cartello lavori in cantiere, perch\u00e9 l'impianto non \u00e8 attualmente nell'elenco MISE degli impianti attivi/check the construction site work sign, because the plant is not \ncurrently in the MISE list of active plants (ref:mise was 42148)",
                 "operator": "G.B. PETROLI SNC DI LONTANI ALEXIA & C.",
-                "ref:mise": "42148",
-                "self_service": "yes",
                 "workshop": "car"
             }
         },
@@ -6543,11 +6555,11 @@
         {
             "type": "way",
             "id": 1256473174,
-            "timestamp": "2025-03-11T20:07:41Z",
-            "version": 2,
-            "changeset": 163500769,
-            "user": "pippo6",
-            "uid": 11052147,
+            "timestamp": "2026-01-10T16:16:05Z",
+            "version": 3,
+            "changeset": 177067495,
+            "user": "Mannivu",
+            "uid": 1950277,
             "nodes": [
                 4752486016,
                 11680972885,
@@ -6564,7 +6576,6 @@
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "da:Eurospar",
-                "building": "yes",
                 "name": "Eurospar",
                 "operator": "Eurospar",
                 "shop": "supermarket",
