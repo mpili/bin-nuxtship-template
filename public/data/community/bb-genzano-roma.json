@@ -7,7 +7,7 @@
     "idlocalita": "genzano_di_roma",
     "telegram_weburl": "https://web.telegram.org/a/#-1002002948863",
     "telegram_app": "https://t.me/bitcoinbeergenzanodiroma",
-    "telegram_members": 49.0,
+    "telegram_members": 47.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -292,28 +292,6 @@
                 "ref:mise": "38958",
                 "self_service": "yes",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 229144520,
-            "lat": 41.879866,
-            "lon": 12.528802,
-            "timestamp": "2025-10-05T19:48:17Z",
-            "version": 6,
-            "changeset": 172883531,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:postcode": "00181",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia Srl",
-                "ref:mise": "6630"
             }
         },
         {
@@ -777,13 +755,13 @@
         {
             "type": "node",
             "id": 925227221,
-            "lat": 41.8998486,
-            "lon": 12.491674,
-            "timestamp": "2021-12-10T09:17:19Z",
-            "version": 7,
-            "changeset": 114776122,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "lat": 41.8998553,
+            "lon": 12.4916636,
+            "timestamp": "2026-01-16T10:40:59Z",
+            "version": 8,
+            "changeset": 177292561,
+            "user": "dieterdreist",
+            "uid": 26139,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "198",
@@ -1611,6 +1589,29 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1800052931,
+            "lat": 41.8740366,
+            "lon": 12.5241799,
+            "timestamp": "2026-01-11T09:12:04Z",
+            "version": 4,
+            "changeset": 177088222,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:country": "IT",
+                "addr:housenumber": "421b",
+                "addr:postcode": "00181",
+                "addr:street": "Via Appia Nuova",
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
             }
         },
         {
@@ -3755,27 +3756,6 @@
         },
         {
             "type": "node",
-            "id": 4815863321,
-            "lat": 41.9060005,
-            "lon": 12.4377106,
-            "timestamp": "2025-10-09T21:37:27Z",
-            "version": 5,
-            "changeset": 173069331,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:housenumber": "124",
-                "addr:street": "Via di Valle Aurelia",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
-                "phone": "+39 06 39754025",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 4820170721,
             "lat": 41.865209,
             "lon": 12.4687274,
@@ -5407,24 +5387,6 @@
         },
         {
             "type": "node",
-            "id": 6990218685,
-            "lat": 41.912393,
-            "lon": 12.4742629,
-            "timestamp": "2025-11-14T10:05:47Z",
-            "version": 2,
-            "changeset": 174640982,
-            "user": "Jacob Rosendal Kristensen",
-            "uid": 730016,
-            "tags": {
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "name": "Carrefour",
-                "name:nl": "Carrefour",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 7018252151,
             "lat": 41.8055921,
             "lon": 12.5979552,
@@ -5863,7 +5825,7 @@
             "timestamp": "2024-04-19T06:22:51Z",
             "version": 4,
             "changeset": 150205202,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -8330,20 +8292,23 @@
             "id": 10788548244,
             "lat": 41.9022135,
             "lon": 12.4380874,
-            "timestamp": "2025-12-31T09:24:27Z",
-            "version": 4,
-            "changeset": 176663083,
-            "user": "Robot8A",
-            "uid": 393359,
+            "timestamp": "2026-01-07T17:28:13Z",
+            "version": 5,
+            "changeset": 176953876,
+            "user": "AlCeRoma",
+            "uid": 12770453,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "30",
                 "addr:postcode": "00167",
                 "addr:street": "Viale di Valle Aurelia",
+                "branch": "c c Aura",
+                "brand": "Nuvolari",
+                "brand:wikidata": "Q130702590",
                 "check_date": "2023-04-05",
                 "clothes": "men",
                 "currency:XBT": "yes",
-                "name": "Nuvolari c.c Aura",
+                "name": "Nuvolari",
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
@@ -8683,7 +8648,7 @@
             "timestamp": "2024-02-19T04:20:25Z",
             "version": 2,
             "changeset": 147632637,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Roma",
@@ -10554,6 +10519,23 @@
         },
         {
             "type": "node",
+            "id": 12123791337,
+            "lat": 41.9074106,
+            "lon": 12.4485183,
+            "timestamp": "2026-01-07T18:11:50Z",
+            "version": 2,
+            "changeset": 176955485,
+            "user": "AlCeRoma",
+            "uid": 12770453,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
             "id": 12155201472,
             "lat": 41.8244088,
             "lon": 12.8701886,
@@ -11813,7 +11795,7 @@
             "timestamp": "2023-08-04T07:30:49Z",
             "version": 7,
             "changeset": 139427070,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "nodes": [
                 2016890640,
@@ -14216,31 +14198,6 @@
         },
         {
             "type": "way",
-            "id": 780128412,
-            "timestamp": "2023-08-18T16:06:51Z",
-            "version": 2,
-            "changeset": 140064767,
-            "user": "Italian Technology",
-            "uid": 10622815,
-            "nodes": [
-                715154676,
-                7284366342,
-                7284366343,
-                7284366344,
-                715154676
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "building": "roof",
-                "name": "Q8",
-                "operator": "Triola Arturo",
-                "ref:mise": "7830"
-            }
-        },
-        {
-            "type": "way",
             "id": 795565630,
             "timestamp": "2024-04-29T11:28:20Z",
             "version": 3,
@@ -15872,7 +15829,7 @@
             "timestamp": "2024-02-20T03:43:06Z",
             "version": 2,
             "changeset": 147674326,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "nodes": [
                 11166948539,

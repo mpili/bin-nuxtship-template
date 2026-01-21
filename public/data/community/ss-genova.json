@@ -1398,6 +1398,25 @@
         },
         {
             "type": "node",
+            "id": 1596490047,
+            "lat": 44.4391084,
+            "lon": 8.9643338,
+            "timestamp": "2026-01-08T10:51:21Z",
+            "version": 5,
+            "changeset": 176979053,
+            "user": "OSM_sta",
+            "uid": 19331204,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "level": "0",
+                "name": "Upim",
+                "phone": "+39 010 8353222",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
             "id": 2148245663,
             "lat": 44.3309419,
             "lon": 9.2126829,
@@ -3638,7 +3657,7 @@
             "timestamp": "2024-02-17T10:54:53Z",
             "version": 4,
             "changeset": 147565309,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Genova",

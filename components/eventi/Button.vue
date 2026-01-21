@@ -1,5 +1,7 @@
 <template>
-	<NuxtLink to="/eventi">
-		<button class="btn">Eventi</button>
-	</NuxtLink>
+	<div class="m-4">
+		<NuxtLink to="/eventi">
+			<button class="btn btn-lg">Eventi</button>
+		</NuxtLink>
+	</div>
 </template>

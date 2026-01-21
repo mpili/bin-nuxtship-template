@@ -1871,11 +1871,11 @@
             "id": 4222597599,
             "lat": 45.1531896,
             "lon": 10.6565069,
-            "timestamp": "2025-10-27T22:02:29Z",
-            "version": 5,
-            "changeset": 173858854,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-10T11:21:25Z",
+            "version": 6,
+            "changeset": 177057226,
+            "user": "PizzaTreeIsland",
+            "uid": 17308617,
             "tags": {
                 "addr:city": "Castellucchio",
                 "addr:postcode": "46014",
@@ -1886,7 +1886,7 @@
                 "name": "Conad City",
                 "phone": "+39 051 508111",
                 "shop": "supermarket",
-                "wheelchair": "yesaddr:postcode=46014"
+                "wheelchair": "yes"
             }
         },
         {
@@ -2234,11 +2234,11 @@
             "id": 4690641567,
             "lat": 44.8032137,
             "lon": 10.3291026,
-            "timestamp": "2024-12-17T16:51:23Z",
-            "version": 5,
-            "changeset": 160310400,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-01-17T22:34:41Z",
+            "version": 6,
+            "changeset": 177354645,
+            "user": "Danysan95",
+            "uid": 4425563,
             "tags": {
                 "addr:city": "Parma",
                 "addr:country": "IT",
@@ -2247,6 +2247,7 @@
                 "addr:street": "Strada Cavour",
                 "brand": "Bottega Verde",
                 "brand:wikidata": "Q894870",
+                "check_date": "2026-01-17",
                 "entrance": "main",
                 "level": "0",
                 "loc_ref": "0234",
@@ -2563,12 +2564,36 @@
         },
         {
             "type": "node",
+            "id": 4756788519,
+            "lat": 44.8662713,
+            "lon": 10.0616697,
+            "timestamp": "2026-01-18T22:46:26Z",
+            "version": 2,
+            "changeset": 177394840,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "9",
+                "addr:postcode": "43036",
+                "addr:street": "Via Agostino Berenini",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "ROssetti Marica s.r.l.",
+                "phone": "+39 0524 206311",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4756788528,
             "lat": 44.8661445,
             "lon": 10.0618031,
-            "timestamp": "2023-08-27T21:24:49Z",
-            "version": 2,
-            "changeset": 140468753,
+            "timestamp": "2026-01-18T22:46:26Z",
+            "version": 3,
+            "changeset": 177394840,
             "user": "Chiarant",
             "uid": 18452174,
             "tags": {
@@ -2580,6 +2605,7 @@
                 "brand:wikidata": "Q1027874",
                 "clothes": "swimwear;socks",
                 "name": "Calzedonia",
+                "phone": "+39 0524 526424",
                 "shop": "clothes"
             }
         },
@@ -6356,6 +6382,32 @@
                 "operator": "Margherita Distribuzione S.p.A.",
                 "shop": "supermarket",
                 "toilets": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 139616901,
+            "timestamp": "2026-01-17T22:34:43Z",
+            "version": 4,
+            "changeset": 177354647,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "nodes": [
+                1530360090,
+                1530360116,
+                1530359942,
+                1530359892,
+                1530360090
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "check_date": "2026-01-17",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "28201",
+                "source:date": "2018-04-16"
             }
         },
         {
