@@ -35,6 +35,28 @@
         },
         {
             "type": "node",
+            "id": 2152040922,
+            "lat": 40.7176288,
+            "lon": 9.0949977,
+            "timestamp": "2026-01-18T16:06:20Z",
+            "version": 5,
+            "changeset": 177380658,
+            "user": "dan980",
+            "uid": 1240942,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Carta Gabriella",
+                "ref:mise": "30103",
+                "source": "MISE - Ministero Sviluppo Economico"
+            }
+        },
+        {
+            "type": "node",
             "id": 2980798190,
             "lat": 40.4381179,
             "lon": 9.7661402,

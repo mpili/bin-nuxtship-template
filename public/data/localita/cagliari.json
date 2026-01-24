@@ -574,7 +574,7 @@
             "timestamp": "2024-04-11T04:46:55Z",
             "version": 4,
             "changeset": 149846844,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Cagliari",
@@ -676,7 +676,7 @@
             "timestamp": "2024-04-11T04:51:04Z",
             "version": 9,
             "changeset": 149846905,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Cagliari",
@@ -834,7 +834,7 @@
             "timestamp": "2024-04-11T04:49:34Z",
             "version": 4,
             "changeset": 149846881,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Cagliari",
@@ -884,7 +884,7 @@
             "timestamp": "2024-04-11T04:45:41Z",
             "version": 3,
             "changeset": 149846826,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Cagliari",
@@ -1974,7 +1974,7 @@
             "timestamp": "2023-02-22T00:54:12Z",
             "version": 4,
             "changeset": 132858337,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Serrenti",
@@ -2023,7 +2023,7 @@
             "timestamp": "2023-08-05T11:39:26Z",
             "version": 3,
             "changeset": 139475432,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Quartu Sant'Elena",
@@ -2866,11 +2866,11 @@
         {
             "type": "way",
             "id": 394887105,
-            "timestamp": "2025-04-20T08:52:34Z",
-            "version": 5,
-            "changeset": 165182843,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-29T18:14:24Z",
+            "version": 6,
+            "changeset": 176591117,
+            "user": "pagurus",
+            "uid": 14069904,
             "nodes": [
                 3977791495,
                 3977791488,
@@ -2887,6 +2887,7 @@
                 "brand:wikidata": "Q1634762",
                 "brand:wikipedia": "en:Kuwait Petroleum Corporation",
                 "building": "yes",
+                "compressed_air": "no",
                 "layer": "1",
                 "name": "Q8",
                 "operator": "Q8",

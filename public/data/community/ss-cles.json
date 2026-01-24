@@ -750,13 +750,13 @@
         {
             "type": "node",
             "id": 427524201,
-            "lat": 46.0357147,
-            "lon": 10.8733134,
-            "timestamp": "2025-10-02T15:04:54Z",
-            "version": 6,
-            "changeset": 172753729,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 46.0357359,
+            "lon": 10.8732675,
+            "timestamp": "2026-01-20T15:21:40Z",
+            "version": 7,
+            "changeset": 177481183,
+            "user": "CCCGGG",
+            "uid": 6098724,
             "tags": {
                 "addr:city": "Comano Terme",
                 "addr:housenumber": "35/a",
@@ -3269,6 +3269,33 @@
                 "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:30,15:30-19:00",
                 "shop": "clothes",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3128124434,
+            "lat": 46.0882964,
+            "lon": 11.1176424,
+            "timestamp": "2026-01-19T15:36:15Z",
+            "version": 5,
+            "changeset": 177435271,
+            "user": "mosis99",
+            "uid": 8522139,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "290",
+                "addr:postcode": "38121",
+                "addr:street": "Via del Brennero",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "contact:phone": "+39 0461 300111",
+                "contact:website": "http://www.mediaworld.it/",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Mediamarket S.p.A.",
+                "ref:vatin": "IT02630120166",
+                "shop": "electronics"
             }
         },
         {
@@ -5855,9 +5882,9 @@
         {
             "type": "way",
             "id": 257262811,
-            "timestamp": "2025-08-22T07:00:15Z",
-            "version": 8,
-            "changeset": 170813222,
+            "timestamp": "2026-01-21T06:50:52Z",
+            "version": 9,
+            "changeset": 177506862,
             "user": "marang\u00f3n",
             "uid": 20939356,
             "nodes": [
@@ -5886,11 +5913,16 @@
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "building": "commercial",
+                "check_date": "2026-01-21",
                 "name": "Conad City",
                 "opening_hours": "Mo-Sa 07:30-12:30, 15:30-19:15",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
                 "phone": "+390461766027",
                 "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-paradiso-9-38050-telve--006647"
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-paradiso-9-38050-telve--006647",
+                "wheelchair": "yes"
             }
         },
         {

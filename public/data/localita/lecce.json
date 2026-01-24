@@ -770,6 +770,29 @@
         },
         {
             "type": "node",
+            "id": 5373565121,
+            "lat": 40.0910665,
+            "lon": 18.4231586,
+            "timestamp": "2026-01-01T14:37:53Z",
+            "version": 6,
+            "changeset": 176705835,
+            "user": "quibitcoin",
+            "uid": 2201521,
+            "tags": {
+                "addr:city": "Minervino di Lecce",
+                "addr:housenumber": "12",
+                "addr:postcode": "73027",
+                "addr:street": "Piazza Umberto I",
+                "currency:XBT": "yes",
+                "description": "Commercialista, consulenza del lavoro.",
+                "email": "info@caroppo.com",
+                "name": "Dott. Claudio Caroppo",
+                "office": "accountant",
+                "website": "http://www.caroppo.com"
+            }
+        },
+        {
+            "type": "node",
             "id": 5494974860,
             "lat": 40.1200892,
             "lon": 18.2989229,
@@ -2034,11 +2057,11 @@
             "id": 11412516681,
             "lat": 40.4955897,
             "lon": 17.6461029,
-            "timestamp": "2025-07-09T09:22:30Z",
-            "version": 5,
-            "changeset": 168685306,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-12-26T11:48:59Z",
+            "version": 6,
+            "changeset": 176434869,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Oria",
                 "addr:housenumber": "78",
@@ -2056,7 +2079,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
-                "phone": "+39 831 845 550",
+                "phone": "+39 0831 845550",
                 "shop": "cheese",
                 "survey:date": "2025-02-14",
                 "website": "https://www.caseificiopipino.it/"
@@ -2449,11 +2472,11 @@
             "id": 12988078535,
             "lat": 40.4972991,
             "lon": 17.6435577,
-            "timestamp": "2025-07-09T08:22:00Z",
-            "version": 2,
-            "changeset": 168682670,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-12-26T11:48:59Z",
+            "version": 3,
+            "changeset": 176434869,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Oria",
                 "addr:housenumber": "26",
@@ -2471,7 +2494,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "phone": "+39 831 848429"
+                "phone": "+39 0831 848429"
             }
         },
         {
@@ -2708,6 +2731,36 @@
                 "opening_hours": "Mo-Sa 09:30-20:30 Su 10:00-20:30",
                 "phone": "+3908321565060",
                 "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13430812922,
+            "lat": 40.3523349,
+            "lon": 18.162629,
+            "timestamp": "2026-01-04T18:01:15Z",
+            "version": 1,
+            "changeset": 176830112,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "2a",
+                "addr:postcode": "73100",
+                "addr:street": "Via delle Anime",
+                "check_date": "2026-01-04",
+                "check_date:currency:XBT": "2026-01-04",
+                "contact:facebook": "leoswatchescom",
+                "contact:instagram": "_leoswatches.com_",
+                "currency:XBT": "yes",
+                "email": "info@leoswatches.it",
+                "name": "LeosWatches",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 379 170 7083",
+                "shop": "watches",
+                "website": "https://leoswatches.com/"
             }
         },
         {

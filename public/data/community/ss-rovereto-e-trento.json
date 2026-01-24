@@ -7,7 +7,7 @@
     "idlocalita": "rovereto",
     "telegram_weburl": "https://web.telegram.org/a/#-1001781332904",
     "telegram_app": "https://t.me/SatoshiSpritzRovereto",
-    "telegram_members": 182.0,
+    "telegram_members": 183.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -130,11 +130,11 @@
             "id": 227514815,
             "lat": 46.0467816,
             "lon": 11.1309109,
-            "timestamp": "2025-09-30T13:39:46Z",
-            "version": 14,
-            "changeset": 172661447,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-06T10:47:40Z",
+            "version": 15,
+            "changeset": 176896744,
+            "user": "mileslovesyou",
+            "uid": 23335174,
             "tags": {
                 "addr:city": "Trento",
                 "addr:housenumber": "196",
@@ -149,6 +149,7 @@
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
                 "ref:mise": "52071",
+                "self_service": "yes",
                 "source": "MISE - Ministero Sviluppo Economico"
             }
         },
@@ -1087,13 +1088,13 @@
         {
             "type": "node",
             "id": 427524201,
-            "lat": 46.0357147,
-            "lon": 10.8733134,
-            "timestamp": "2025-10-02T15:04:54Z",
-            "version": 6,
-            "changeset": 172753729,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 46.0357359,
+            "lon": 10.8732675,
+            "timestamp": "2026-01-20T15:21:40Z",
+            "version": 7,
+            "changeset": 177481183,
+            "user": "CCCGGG",
+            "uid": 6098724,
             "tags": {
                 "addr:city": "Comano Terme",
                 "addr:housenumber": "35/a",
@@ -1605,7 +1606,7 @@
             "timestamp": "2024-04-10T08:47:00Z",
             "version": 13,
             "changeset": 149808574,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Trento",
@@ -1710,11 +1711,11 @@
             "id": 1000099487,
             "lat": 46.068192,
             "lon": 11.1232277,
-            "timestamp": "2024-04-04T22:00:46Z",
-            "version": 10,
-            "changeset": 149589198,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-01-06T14:58:10Z",
+            "version": 11,
+            "changeset": 176906208,
+            "user": "DVDGC13",
+            "uid": 659653,
             "tags": {
                 "addr:city": "Trento",
                 "addr:country": "IT",
@@ -1726,7 +1727,7 @@
                 "contact:facebook": "https://www.facebook.com/Kasanova.it/",
                 "contact:website": "https://www.kasanova.it/",
                 "name": "Kasanova",
-                "opening_hours": "Mo-Sa 09:00-19:00; PH,Su 10:00-19:00",
+                "opening_hours": "Mo-Sa 09:00-19:00; Su,PH 10:00-19:30",
                 "ref:vatin": "IT00743020968",
                 "shop": "houseware"
             }
@@ -2189,7 +2190,7 @@
             "timestamp": "2024-01-20T03:20:03Z",
             "version": 15,
             "changeset": 146464250,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Trento",
@@ -2725,27 +2726,6 @@
                 "operator": "Decathlon",
                 "phone": "+39 0445370730",
                 "shop": "sports"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2099815594,
-            "lat": 45.470637,
-            "lon": 10.8505217,
-            "timestamp": "2025-10-02T18:42:51Z",
-            "version": 3,
-            "changeset": 172761913,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Bussolengo",
-                "addr:postcode": "37012",
-                "addr:street": "Piazzale Vittorio Veneto",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "name": "Conad",
-                "shop": "supermarket"
             }
         },
         {
@@ -3439,7 +3419,7 @@
             "timestamp": "2024-04-17T12:49:44Z",
             "version": 7,
             "changeset": 150128186,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Trento",
@@ -3537,6 +3517,33 @@
                 "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:30,15:30-19:00",
                 "shop": "clothes",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3128124434,
+            "lat": 46.0882964,
+            "lon": 11.1176424,
+            "timestamp": "2026-01-19T15:36:15Z",
+            "version": 5,
+            "changeset": 177435271,
+            "user": "mosis99",
+            "uid": 8522139,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "290",
+                "addr:postcode": "38121",
+                "addr:street": "Via del Brennero",
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "contact:phone": "+39 0461 300111",
+                "contact:website": "http://www.mediaworld.it/",
+                "name": "MediaWorld",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "operator": "Mediamarket S.p.A.",
+                "ref:vatin": "IT02630120166",
+                "shop": "electronics"
             }
         },
         {
@@ -3935,18 +3942,20 @@
             "id": 3849792228,
             "lat": 46.0682305,
             "lon": 11.1237551,
-            "timestamp": "2023-11-04T12:41:45Z",
-            "version": 4,
-            "changeset": 143611843,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2026-01-06T14:58:09Z",
+            "version": 5,
+            "changeset": 176906095,
+            "user": "DVDGC13",
+            "uid": 659653,
             "tags": {
                 "addr:country": "IT",
                 "brand": "United Colors of Benetton",
                 "brand:wikidata": "Q817139",
                 "brand:wikipedia": "en:Benetton Group",
-                "check_date": "2023-11-04",
+                "check_date": "2026-01-06",
+                "check_date:opening_hours": "2026-01-06",
                 "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Sa 09:30-19:30; Su,PH 11:00-12:00,15:00-19:00",
                 "shop": "clothes",
                 "short_name": "Benetton"
             }
@@ -5015,25 +5024,36 @@
             "id": 9069496632,
             "lat": 45.9604728,
             "lon": 10.9138168,
-            "timestamp": "2025-09-26T15:43:10Z",
-            "version": 4,
-            "changeset": 172492196,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-07T15:23:51Z",
+            "version": 5,
+            "changeset": 176949345,
+            "user": "Nicola Smaniotto",
+            "uid": 6528402,
             "tags": {
                 "addr:city": "Dro",
-                "addr:housenumber": "12",
+                "addr:housenumber": "7",
                 "addr:postcode": "38074",
-                "addr:street": "Via Giuseppe Mazzini",
+                "addr:street": "Strada Statale Gardesana Occidentale",
+                "addr:unit": "A",
                 "amenity": "restaurant",
-                "cuisine": "italian",
+                "cuisine": "italian;pizza",
                 "currency:XBT": "yes",
                 "currency:XBT:discount": "10%",
-                "name": "Bar-ristorante-pizzeria Alfio S.r.l.",
+                "email": "info@ristorantealfio.it",
+                "full_name": "Bar-ristorante-pizzeria Alfio S.r.l.",
+                "name": "Ristorante Alfio",
+                "opening_hours": "10:00-14:30,18:00-22:30",
+                "opening_hours:bar": "11:00-14:30,18:00-22:30",
+                "opening_hours:kitchen": "12:00-14:30,19:00-22:30",
                 "payment:lightning": "yes",
                 "payment:lightning:operator": "bitcoinpos.it",
                 "payment:onchain": "yes",
-                "phone": "+39 0464 543043"
+                "phone": "+39 0464 543043;+39 0464 504 208",
+                "ref:vatin": "IT01878420221",
+                "reservation": "yes",
+                "website": "https://www.ristorantealfio.it/",
+                "website:booking": "https://ristorantealfiopizzeriabar.plateform.app/",
+                "website:menu": "https://www.alfio-labrace.it/menu/"
             }
         },
         {
@@ -5255,6 +5275,28 @@
                 "name": "Expert",
                 "phone": "+39 0464 552380",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10009529547,
+            "lat": 45.4750336,
+            "lon": 10.8471103,
+            "timestamp": "2026-01-24T07:38:17Z",
+            "version": 2,
+            "changeset": 177636255,
+            "user": "mapperue",
+            "uid": 4887311,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:street": "Piazzale della Vittoria",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -5702,6 +5744,26 @@
                 "payment:onchain": "no",
                 "phone": "+390464412950",
                 "shop": "newsagent"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11694158784,
+            "lat": 45.6455164,
+            "lon": 11.2999694,
+            "timestamp": "2026-01-13T22:39:22Z",
+            "version": 2,
+            "changeset": 177198760,
+            "user": "Barbara Battilana",
+            "uid": 18096044,
+            "tags": {
+                "addr:housenumber": "37",
+                "addr:street": "Corso Italia",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "disused:shop": "yes",
+                "name": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -6237,13 +6299,13 @@
         {
             "type": "node",
             "id": 12851373137,
-            "lat": 46.0830109,
-            "lon": 11.1139397,
-            "timestamp": "2025-05-28T15:30:05Z",
-            "version": 2,
-            "changeset": 166881572,
-            "user": "aboc",
-            "uid": 21696131,
+            "lat": 46.0829783,
+            "lon": 11.1140349,
+            "timestamp": "2026-01-03T11:12:04Z",
+            "version": 3,
+            "changeset": 176776903,
+            "user": "paganella31",
+            "uid": 3277757,
             "tags": {
                 "addr:city": "Trento",
                 "addr:country": "IT",
@@ -6486,6 +6548,54 @@
             }
         },
         {
+            "type": "node",
+            "id": 13399585439,
+            "lat": 46.1698521,
+            "lon": 11.0711326,
+            "timestamp": "2025-12-24T09:49:37Z",
+            "version": 1,
+            "changeset": 176346788,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Fai della Paganella",
+                "addr:housenumber": "72",
+                "addr:postcode": "38010",
+                "addr:street": "Via dei \u00d3ri",
+                "check_date": "2025-12-24",
+                "check_date:currency:XBT": "2025-12-24",
+                "contact:facebook": "shakende.tattoo.studio",
+                "contact:instagram": "shakendetattoo",
+                "currency:XBT": "yes",
+                "email": "shakende.tattoostudio@gmail.com",
+                "name": "Shakende Tattoo Studio",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 334 537 4841",
+                "shop": "tattoo",
+                "website": "https://rkytattoo.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13454071905,
+            "lat": 45.6473967,
+            "lon": 11.3001537,
+            "timestamp": "2026-01-13T22:39:22Z",
+            "version": 1,
+            "changeset": 177198760,
+            "user": "Barbara Battilana",
+            "uid": 18096044,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
             "type": "way",
             "id": 28922356,
             "timestamp": "2025-06-26T14:59:02Z",
@@ -6633,18 +6743,20 @@
         {
             "type": "way",
             "id": 66985218,
-            "timestamp": "2025-10-29T10:59:24Z",
-            "version": 8,
-            "changeset": 173923243,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2025-12-25T00:38:30Z",
+            "version": 9,
+            "changeset": 176379858,
+            "user": "Alepoz",
+            "uid": 80863,
             "nodes": [
                 809575935,
                 809575956,
                 809575947,
                 809575950,
-                809575926,
-                809575931,
+                790715245,
+                13403272036,
+                13403272035,
+                790715140,
                 809575935
             ],
             "tags": {
@@ -7430,9 +7542,9 @@
         {
             "type": "way",
             "id": 257262811,
-            "timestamp": "2025-08-22T07:00:15Z",
-            "version": 8,
-            "changeset": 170813222,
+            "timestamp": "2026-01-21T06:50:52Z",
+            "version": 9,
+            "changeset": 177506862,
             "user": "marang\u00f3n",
             "uid": 20939356,
             "nodes": [
@@ -7461,11 +7573,16 @@
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "building": "commercial",
+                "check_date": "2026-01-21",
                 "name": "Conad City",
                 "opening_hours": "Mo-Sa 07:30-12:30, 15:30-19:15",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
                 "phone": "+390461766027",
                 "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-paradiso-9-38050-telve--006647"
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-paradiso-9-38050-telve--006647",
+                "wheelchair": "yes"
             }
         },
         {

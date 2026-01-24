@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001926008431",
     "telegram_app": "https://t.me/SatoshiSpritzParmaePiacenza",
-    "telegram_members": 140.0,
+    "telegram_members": 145.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1910,12 +1910,36 @@
         },
         {
             "type": "node",
+            "id": 4756788519,
+            "lat": 44.8662713,
+            "lon": 10.0616697,
+            "timestamp": "2026-01-18T22:46:26Z",
+            "version": 2,
+            "changeset": 177394840,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "9",
+                "addr:postcode": "43036",
+                "addr:street": "Via Agostino Berenini",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "ROssetti Marica s.r.l.",
+                "phone": "+39 0524 206311",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4756788528,
             "lat": 44.8661445,
             "lon": 10.0618031,
-            "timestamp": "2023-08-27T21:24:49Z",
-            "version": 2,
-            "changeset": 140468753,
+            "timestamp": "2026-01-18T22:46:26Z",
+            "version": 3,
+            "changeset": 177394840,
             "user": "Chiarant",
             "uid": 18452174,
             "tags": {
@@ -1927,6 +1951,7 @@
                 "brand:wikidata": "Q1027874",
                 "clothes": "swimwear;socks",
                 "name": "Calzedonia",
+                "phone": "+39 0524 526424",
                 "shop": "clothes"
             }
         },
@@ -3652,12 +3677,16 @@
             "id": 10698237255,
             "lat": 45.1862691,
             "lon": 9.1534646,
-            "timestamp": "2023-02-27T23:22:48Z",
-            "version": 1,
-            "changeset": 133107320,
-            "user": "ivanbranco",
-            "uid": 11220113,
+            "timestamp": "2026-01-11T23:06:55Z",
+            "version": 2,
+            "changeset": 177116453,
+            "user": "antropopoiesi",
+            "uid": 2991139,
             "tags": {
+                "addr:city": "Pavia",
+                "addr:housenumber": "21",
+                "addr:postcode": "27100",
+                "addr:street": "Via Venti Settembre",
                 "brand": "La Feltrinelli",
                 "brand:wikidata": "Q96311190",
                 "contact:city": "Pavia",
@@ -3665,6 +3694,7 @@
                 "contact:postcode": "27100",
                 "contact:street": "Via Venti Settembre",
                 "name": "La Feltrinelli",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00,15:30\u201319:30",
                 "shop": "books"
             }
         },
@@ -5810,6 +5840,40 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1462651412,
+            "timestamp": "2025-12-29T19:14:57Z",
+            "version": 1,
+            "changeset": 176594490,
+            "user": "Mirko Ventafridda",
+            "uid": 23657162,
+            "nodes": [
+                13416445558,
+                13416445559,
+                13416445560,
+                13416445561,
+                13416445562,
+                13416445563,
+                13416445564,
+                13416445565,
+                13416445566,
+                13416445567,
+                13416445568,
+                13416445569,
+                13416445570,
+                13416445571,
+                13416445572,
+                13416445573,
+                13416445558
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil"
             }
         }
     ],

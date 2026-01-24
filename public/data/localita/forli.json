@@ -650,21 +650,21 @@
         {
             "type": "node",
             "id": 1188833219,
-            "lat": 44.0478447,
-            "lon": 12.5903258,
-            "timestamp": "2025-10-03T16:13:39Z",
-            "version": 5,
-            "changeset": 172799940,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.0477518,
+            "lon": 12.5903181,
+            "timestamp": "2026-01-13T07:18:02Z",
+            "version": 6,
+            "changeset": 177166119,
+            "user": "Aluminum0173",
+            "uid": 16035231,
             "tags": {
                 "addr:city": "Rimini",
-                "addr:housenumber": "7/A",
+                "addr:housenumber": "7a",
                 "addr:postcode": "47924",
                 "addr:street": "Via Giaime Pintor",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
                 "shop": "supermarket",
                 "wheelchair:description": "yes"
             }
@@ -1381,13 +1381,13 @@
         {
             "type": "node",
             "id": 2718149226,
-            "lat": 44.0577998,
-            "lon": 12.5702829,
-            "timestamp": "2023-04-28T08:58:27Z",
-            "version": 3,
-            "changeset": 135458676,
-            "user": "Giuseppe Russo1123",
-            "uid": 19086315,
+            "lat": 44.0577885,
+            "lon": 12.5702931,
+            "timestamp": "2026-01-04T10:56:59Z",
+            "version": 6,
+            "changeset": 176813695,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:country": "IT",
@@ -1396,15 +1396,18 @@
                 "addr:street": "Corso d'Augusto",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
-                "name": "Kasanova",
+                "check_date": "2026-01-04",
+                "name": "Kasonova",
+                "note": "https://imgur.com/FqW4l7P",
                 "opening_hours": "Mo-Su 09:30-19:30",
                 "operator": "Kasanova",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
                 "payment:satispay": "yes",
-                "phone": "+39 05411524893",
+                "phone": "+39 0541 152 4893",
                 "shop": "houseware",
-                "wheelchair": "yes"
+                "source:wheelchair": "survey",
+                "wheelchair": "yes;no"
             }
         },
         {
@@ -1459,13 +1462,13 @@
         {
             "type": "node",
             "id": 2718175926,
-            "lat": 44.0589171,
-            "lon": 12.5687912,
-            "timestamp": "2022-06-30T14:18:48Z",
-            "version": 3,
-            "changeset": 123047679,
-            "user": "Flight777",
-            "uid": 9925732,
+            "lat": 44.0588658,
+            "lon": 12.5687323,
+            "timestamp": "2026-01-02T12:52:10Z",
+            "version": 6,
+            "changeset": 176741785,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:country": "IT",
@@ -1474,11 +1477,35 @@
                 "addr:street": "Piazza Tre Martiri",
                 "brand": "United Colors of Benetton",
                 "brand:wikidata": "Q817139",
+                "check_date": "2026-01-02",
                 "name": "United Colors of Benetton",
+                "ref:vatin": "IT00633850169",
                 "shop": "clothes",
                 "short_name": "Benetton",
                 "source:wheelchair": "survey",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2718176939,
+            "lat": 44.0587918,
+            "lon": 12.5618508,
+            "timestamp": "2025-12-29T07:16:37Z",
+            "version": 2,
+            "changeset": 176561731,
+            "user": "Aluminum0173",
+            "uid": 16035231,
+            "tags": {
+                "addr:city": "Rimini",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "47922",
+                "addr:street": "Via Dario Campana",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {
@@ -1786,13 +1813,13 @@
         {
             "type": "node",
             "id": 4358978095,
-            "lat": 44.0589697,
-            "lon": 12.5686679,
-            "timestamp": "2025-04-20T17:35:22Z",
-            "version": 6,
-            "changeset": 165205720,
-            "user": "SimonTheGolds",
-            "uid": 1467637,
+            "lat": 44.0589161,
+            "lon": 12.5686168,
+            "timestamp": "2026-01-02T10:33:09Z",
+            "version": 7,
+            "changeset": 176734480,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:housenumber": "6",
@@ -1809,13 +1836,13 @@
         {
             "type": "node",
             "id": 4358994390,
-            "lat": 44.0584595,
-            "lon": 12.5698346,
-            "timestamp": "2025-10-22T10:00:24Z",
-            "version": 6,
-            "changeset": 173619107,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.0584923,
+            "lon": 12.5698857,
+            "timestamp": "2026-01-04T11:36:20Z",
+            "version": 8,
+            "changeset": 176815031,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:housenumber": "12",
@@ -1823,6 +1850,7 @@
                 "addr:street": "Via Alessandro Serpieri",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
+                "level": "-1",
                 "name": "Conad",
                 "shop": "supermarket",
                 "wheelchair": "yes"
@@ -1877,13 +1905,13 @@
         {
             "type": "node",
             "id": 4467320792,
-            "lat": 44.0710037,
-            "lon": 12.573789,
-            "timestamp": "2025-10-22T09:59:21Z",
-            "version": 3,
-            "changeset": 173619063,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.0709739,
+            "lon": 12.5738067,
+            "timestamp": "2026-01-05T07:28:40Z",
+            "version": 4,
+            "changeset": 176848270,
+            "user": "Aluminum0173",
+            "uid": 16035231,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:housenumber": "23",
@@ -2645,9 +2673,9 @@
             "id": 4766304105,
             "lat": 44.2141402,
             "lon": 12.0453166,
-            "timestamp": "2024-04-03T16:19:47Z",
-            "version": 3,
-            "changeset": 149533288,
+            "timestamp": "2026-01-24T12:02:18Z",
+            "version": 4,
+            "changeset": 177643047,
             "user": "matteop3_",
             "uid": 13347588,
             "tags": {
@@ -2658,7 +2686,7 @@
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
-                "opening_hours": "Mo-Sa 07:00-20:30",
+                "opening_hours": "Mo-Sa 07:00-20:30; Su 08:30-13:00",
                 "shop": "supermarket"
             }
         },
@@ -3719,14 +3747,14 @@
         },
         {
             "type": "node",
-            "id": 5913871686,
-            "lat": 44.0705297,
-            "lon": 12.5648889,
-            "timestamp": "2025-10-01T15:13:53Z",
-            "version": 3,
-            "changeset": 172711548,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "id": 5872927686,
+            "lat": 44.0705023,
+            "lon": 12.5649194,
+            "timestamp": "2026-01-03T18:36:41Z",
+            "version": 5,
+            "changeset": 176793557,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:housenumber": "57",
@@ -3734,8 +3762,11 @@
                 "addr:street": "Via Ennio Coletti",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
+                "level": "0",
                 "name": "Conad",
-                "shop": "supermarket"
+                "ref:vatin": "IT00141190405",
+                "shop": "supermarket",
+                "wheelchair": "yes"
             }
         },
         {
@@ -4417,7 +4448,7 @@
             "timestamp": "2024-01-17T00:26:52Z",
             "version": 3,
             "changeset": 146342972,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Castel San Pietro Terme",
@@ -5567,6 +5598,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13449627388,
+            "lat": 43.8982329,
+            "lon": 12.2902256,
+            "timestamp": "2026-01-12T09:04:29Z",
+            "version": 1,
+            "changeset": 177127831,
+            "user": "Maurizio Melani (forwalk)",
+            "uid": 1669056,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "way",
             "id": 151286274,
             "timestamp": "2023-06-04T06:42:55Z",
@@ -6212,9 +6260,9 @@
         {
             "type": "way",
             "id": 510031131,
-            "timestamp": "2025-11-27T16:57:31Z",
-            "version": 7,
-            "changeset": 175206911,
+            "timestamp": "2026-01-09T07:12:13Z",
+            "version": 8,
+            "changeset": 177012359,
             "user": "mtb_93",
             "uid": 23272223,
             "nodes": [
@@ -6233,15 +6281,10 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "building": "commercial",
-                "description": "Temporaneamente chiuso per lavori di manutenzione/Temporarily closed for maintenance work",
-                "fuel:biodiesel": "yes",
-                "fuel:diesel": "yes",
-                "fuel:octane_98": "yes",
+                "description": "Temporaneamente chiuso per lavori di manutenzione/Temporarily closed for maintenance work;  Licenza open data Ministero delle Imprese e del Made in Italy IODL 2.0: https://www.dati.gov.it/iodl/2.0/",
                 "name": "G.B.petroli",
-                "note": "verificare il cartello lavori in cantiere, perch\u00e9 l'impianto non \u00e8 attualmente nell'elenco MISE degli impianti attivi/check the construction site work sign, because the plant is not currently in the MISE list of active plants",
+                "note": "verificare il cartello lavori in cantiere, perch\u00e9 l'impianto non \u00e8 attualmente nell'elenco MISE degli impianti attivi/check the construction site work sign, because the plant is not \ncurrently in the MISE list of active plants (ref:mise was 42148)",
                 "operator": "G.B. PETROLI SNC DI LONTANI ALEXIA & C.",
-                "ref:mise": "42148",
-                "self_service": "yes",
                 "workshop": "car"
             }
         },
@@ -6507,11 +6550,11 @@
         {
             "type": "way",
             "id": 1256473174,
-            "timestamp": "2025-03-11T20:07:41Z",
-            "version": 2,
-            "changeset": 163500769,
-            "user": "pippo6",
-            "uid": 11052147,
+            "timestamp": "2026-01-10T16:16:05Z",
+            "version": 3,
+            "changeset": 177067495,
+            "user": "Mannivu",
+            "uid": 1950277,
             "nodes": [
                 4752486016,
                 11680972885,
@@ -6528,7 +6571,6 @@
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "da:Eurospar",
-                "building": "yes",
                 "name": "Eurospar",
                 "operator": "Eurospar",
                 "shop": "supermarket",
@@ -6612,6 +6654,29 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "name": "Tamoil"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1462300939,
+            "timestamp": "2025-12-28T13:36:32Z",
+            "version": 1,
+            "changeset": 176528875,
+            "user": "Chrichetto",
+            "uid": 15373834,
+            "nodes": [
+                13413222076,
+                13413222077,
+                13413222078,
+                13413222079,
+                13413222076
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "self_service": "no"
             }
         }
     ],

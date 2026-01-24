@@ -7,7 +7,7 @@
     "idlocalita": "ferrara",
     "telegram_weburl": "https://web.telegram.org/a/#-1001822010158",
     "telegram_app": "https://t.me/SatoshiSpritzFerrara",
-    "telegram_members": 60.0,
+    "telegram_members": 61.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -6008,6 +6008,31 @@
                 "name": "Studio di fisioterapia",
                 "office": "therapist",
                 "phone": "+39 3299699161"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13481875989,
+            "lat": 44.4957804,
+            "lon": 11.3379902,
+            "timestamp": "2026-01-24T14:17:11Z",
+            "version": 1,
+            "changeset": 177647824,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "23",
+                "addr:postcode": "40121",
+                "addr:street": "Via Ugo Bassi",
+                "amenity": "marketplace",
+                "contact:facebook": "https://www.facebook.com/BorgoMameli/",
+                "contact:instagram": "https://www.instagram.com/borgomameli/",
+                "currency:XBT": "yes",
+                "email": "info@borgomameli.it",
+                "name": "Borgo Delle Erbe",
+                "phone": "+39 353 492 7217",
+                "website": "https://borgomameli.it/"
             }
         },
         {

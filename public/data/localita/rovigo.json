@@ -4506,6 +4506,43 @@
         },
         {
             "type": "way",
+            "id": 350901918,
+            "timestamp": "2025-12-30T02:13:57Z",
+            "version": 4,
+            "changeset": 176606275,
+            "user": "htwan",
+            "uid": 20161667,
+            "nodes": [
+                3566256671,
+                3566256678,
+                3566256643,
+                3566255329,
+                6896416454,
+                6896416453,
+                3566249676,
+                3566256644,
+                3566256654,
+                3566257249,
+                3566257260,
+                3566257753,
+                3566256671
+            ],
+            "tags": {
+                "addr:city": "Conselve",
+                "addr:housenumber": "4",
+                "addr:postcode": "35026",
+                "addr:street": "Via Gianfranco Malipiero",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/punto-vendita-eurospar/110/conselve/"
+            }
+        },
+        {
+            "type": "way",
             "id": 429302513,
             "timestamp": "2025-10-29T14:34:59Z",
             "version": 6,
@@ -4709,9 +4746,9 @@
         {
             "type": "way",
             "id": 1221927780,
-            "timestamp": "2025-12-20T13:35:50Z",
-            "version": 3,
-            "changeset": 176181041,
+            "timestamp": "2026-01-01T20:56:55Z",
+            "version": 4,
+            "changeset": 176718989,
             "user": "Tartarosm80",
             "uid": 11814199,
             "nodes": [
@@ -4743,7 +4780,7 @@
                 "opening_hours": "Mo-Sa 07:00-21:00; Su 07:30-21:00",
                 "phone": "+39 041 554 4313",
                 "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/spesa-facile-via-padre-emilio-venturini-53-30015-chioggia--009098/",
+                "website": "https://www.conad.it/ricerca-negozi/spesa-facile-via-padre-emilio-venturini-53-30015-chioggia--009098",
                 "wheelchair": "yes"
             }
         },

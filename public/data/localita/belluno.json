@@ -202,13 +202,13 @@
         {
             "type": "node",
             "id": 227832734,
-            "lat": 46.1498412,
-            "lon": 11.7351753,
-            "timestamp": "2025-10-01T06:32:49Z",
-            "version": 8,
-            "changeset": 172690115,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 46.149902,
+            "lon": 11.7352818,
+            "timestamp": "2026-01-20T15:41:30Z",
+            "version": 9,
+            "changeset": 177481935,
+            "user": "gion274",
+            "uid": 2815652,
             "tags": {
                 "addr:city": "Canal San Bovo",
                 "amenity": "fuel",
@@ -1401,7 +1401,7 @@
             "timestamp": "2024-04-17T10:38:51Z",
             "version": 4,
             "changeset": 150122040,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Mel",
@@ -2262,32 +2262,6 @@
         },
         {
             "type": "node",
-            "id": 11980916898,
-            "lat": 46.0301992,
-            "lon": 12.5164386,
-            "timestamp": "2024-06-14T14:15:47Z",
-            "version": 2,
-            "changeset": 152681319,
-            "user": "Maarmolada Art",
-            "uid": 21657162,
-            "tags": {
-                "addr:city": "Polcenigo",
-                "addr:housenumber": "17",
-                "addr:postcode": "33070",
-                "addr:street": "Via Pizzoch",
-                "currency:XBT": "yes",
-                "name": "Maarmolada Art",
-                "opening_hours": "Mo-Su 10:00-22:00",
-                "payment:contactless": "no",
-                "payment:lightning": "yes",
-                "payment:onchain": "no",
-                "survey:date": "2024-01-01",
-                "tourism": "gallery",
-                "website": "https://linktr.ee/Ma.armoladaArt?fbclid=PAZXh0bgNhZW0CMTEAAab21UrFK8GPO9qQpBG1sLHqZAghQhylICmYogHy_rvxFkkjjHose8qtG74_aem_ZmFrZWR1bW15MTZieXRlcw"
-            }
-        },
-        {
-            "type": "node",
             "id": 12112513857,
             "lat": 45.8807177,
             "lon": 12.7114436,
@@ -3082,6 +3056,37 @@
                 "phone": "+39 0436 209117",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-city-corso-italia-64-32046-san-vito-di-cadore--009782"
+            }
+        },
+        {
+            "type": "way",
+            "id": 211032578,
+            "timestamp": "2026-01-05T13:21:00Z",
+            "version": 2,
+            "changeset": 176861686,
+            "user": "user_8y978a",
+            "uid": 20552772,
+            "nodes": [
+                424701430,
+                424701431,
+                424701432,
+                424701433,
+                2210416231,
+                424701434,
+                424701435,
+                424701436,
+                424701430
+            ],
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "building": "industrial",
+                "height": "14 m",
+                "it:fvg:ctrn:code": "4AIN",
+                "it:fvg:ctrn:revision": "1A0",
+                "name": "Unieuro",
+                "opening_hours": "Mo 14:00-20:00; Tu-Su 10:00-20:00",
+                "shop": "electronics"
             }
         },
         {

@@ -1552,27 +1552,6 @@
         },
         {
             "type": "node",
-            "id": 2099815594,
-            "lat": 45.470637,
-            "lon": 10.8505217,
-            "timestamp": "2025-10-02T18:42:51Z",
-            "version": 3,
-            "changeset": 172761913,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Bussolengo",
-                "addr:postcode": "37012",
-                "addr:street": "Piazzale Vittorio Veneto",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 2101512210,
             "lat": 45.7061457,
             "lon": 10.7659117,
@@ -3205,11 +3184,11 @@
             "id": 4222597599,
             "lat": 45.1531896,
             "lon": 10.6565069,
-            "timestamp": "2025-10-27T22:02:29Z",
-            "version": 5,
-            "changeset": 173858854,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-10T11:21:25Z",
+            "version": 6,
+            "changeset": 177057226,
+            "user": "PizzaTreeIsland",
+            "uid": 17308617,
             "tags": {
                 "addr:city": "Castellucchio",
                 "addr:postcode": "46014",
@@ -3220,7 +3199,7 @@
                 "name": "Conad City",
                 "phone": "+39 051 508111",
                 "shop": "supermarket",
-                "wheelchair": "yesaddr:postcode=46014"
+                "wheelchair": "yes"
             }
         },
         {
@@ -4942,6 +4921,28 @@
         },
         {
             "type": "node",
+            "id": 10009529547,
+            "lat": 45.4750336,
+            "lon": 10.8471103,
+            "timestamp": "2026-01-24T07:38:17Z",
+            "version": 2,
+            "changeset": 177636255,
+            "user": "mapperue",
+            "uid": 4887311,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:street": "Piazzale della Vittoria",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 10012126586,
             "lat": 45.7292217,
             "lon": 10.9375307,
@@ -5560,6 +5561,26 @@
                 "payment:onchain": "no",
                 "phone": "+390464412950",
                 "shop": "newsagent"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11694158784,
+            "lat": 45.6455164,
+            "lon": 11.2999694,
+            "timestamp": "2026-01-13T22:39:22Z",
+            "version": 2,
+            "changeset": 177198760,
+            "user": "Barbara Battilana",
+            "uid": 18096044,
+            "tags": {
+                "addr:housenumber": "37",
+                "addr:street": "Corso Italia",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "disused:shop": "yes",
+                "name": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -6770,6 +6791,24 @@
                 "phone": "+39 0444 324 060",
                 "shop": "florist",
                 "website": "https://www.fiorame.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13454071905,
+            "lat": 45.6473967,
+            "lon": 11.3001537,
+            "timestamp": "2026-01-13T22:39:22Z",
+            "version": 1,
+            "changeset": 177198760,
+            "user": "Barbara Battilana",
+            "uid": 18096044,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes"
             }
         },
         {

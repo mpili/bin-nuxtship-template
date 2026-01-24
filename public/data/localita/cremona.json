@@ -1867,11 +1867,11 @@
             "id": 4222597599,
             "lat": 45.1531896,
             "lon": 10.6565069,
-            "timestamp": "2025-10-27T22:02:29Z",
-            "version": 5,
-            "changeset": 173858854,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-10T11:21:25Z",
+            "version": 6,
+            "changeset": 177057226,
+            "user": "PizzaTreeIsland",
+            "uid": 17308617,
             "tags": {
                 "addr:city": "Castellucchio",
                 "addr:postcode": "46014",
@@ -1882,7 +1882,7 @@
                 "name": "Conad City",
                 "phone": "+39 051 508111",
                 "shop": "supermarket",
-                "wheelchair": "yesaddr:postcode=46014"
+                "wheelchair": "yes"
             }
         },
         {
@@ -1998,11 +1998,11 @@
             "id": 4501068299,
             "lat": 45.5542201,
             "lon": 10.2299839,
-            "timestamp": "2025-01-02T16:46:35Z",
-            "version": 11,
-            "changeset": 160916701,
-            "user": "demon_box",
-            "uid": 350864,
+            "timestamp": "2025-12-25T18:04:20Z",
+            "version": 12,
+            "changeset": 176404740,
+            "user": "LupeGimoozaabi",
+            "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "81",
@@ -2015,8 +2015,10 @@
                 "name": "Trony",
                 "opening_hours": "Mo-Sa 09:00-12:30+,15:00-19:30",
                 "operator": "Trony",
+                "phone": "+39 030 338 5495",
                 "ref:vatin": "IT02147260174",
                 "shop": "electronics",
+                "website": "https://www.trony.it/brescia-TRO464/",
                 "wheelchair": "yes"
             }
         },
@@ -2228,11 +2230,11 @@
             "id": 4690641567,
             "lat": 44.8032137,
             "lon": 10.3291026,
-            "timestamp": "2024-12-17T16:51:23Z",
-            "version": 5,
-            "changeset": 160310400,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-01-17T22:34:41Z",
+            "version": 6,
+            "changeset": 177354645,
+            "user": "Danysan95",
+            "uid": 4425563,
             "tags": {
                 "addr:city": "Parma",
                 "addr:country": "IT",
@@ -2241,6 +2243,7 @@
                 "addr:street": "Strada Cavour",
                 "brand": "Bottega Verde",
                 "brand:wikidata": "Q894870",
+                "check_date": "2026-01-17",
                 "entrance": "main",
                 "level": "0",
                 "loc_ref": "0234",
@@ -2557,12 +2560,36 @@
         },
         {
             "type": "node",
+            "id": 4756788519,
+            "lat": 44.8662713,
+            "lon": 10.0616697,
+            "timestamp": "2026-01-18T22:46:26Z",
+            "version": 2,
+            "changeset": 177394840,
+            "user": "Chiarant",
+            "uid": 18452174,
+            "tags": {
+                "addr:city": "Fidenza",
+                "addr:housenumber": "9",
+                "addr:postcode": "43036",
+                "addr:street": "Via Agostino Berenini",
+                "brand": "Intimissimi",
+                "brand:wikidata": "Q305404",
+                "clothes": "underwear",
+                "name": "Intimissimi",
+                "operator": "ROssetti Marica s.r.l.",
+                "phone": "+39 0524 206311",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 4756788528,
             "lat": 44.8661445,
             "lon": 10.0618031,
-            "timestamp": "2023-08-27T21:24:49Z",
-            "version": 2,
-            "changeset": 140468753,
+            "timestamp": "2026-01-18T22:46:26Z",
+            "version": 3,
+            "changeset": 177394840,
             "user": "Chiarant",
             "uid": 18452174,
             "tags": {
@@ -2574,6 +2601,7 @@
                 "brand:wikidata": "Q1027874",
                 "clothes": "swimwear;socks",
                 "name": "Calzedonia",
+                "phone": "+39 0524 526424",
                 "shop": "clothes"
             }
         },
@@ -6030,6 +6058,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13418472937,
+            "lat": 44.8092461,
+            "lon": 10.3181423,
+            "timestamp": "2025-12-30T16:27:51Z",
+            "version": 1,
+            "changeset": 176636846,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "way",
             "id": 27549342,
             "timestamp": "2025-05-23T16:12:37Z",
@@ -6337,12 +6382,38 @@
         },
         {
             "type": "way",
-            "id": 157680867,
-            "timestamp": "2024-05-10T16:58:20Z",
+            "id": 139616901,
+            "timestamp": "2026-01-17T22:34:43Z",
             "version": 4,
-            "changeset": 151154596,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "changeset": 177354647,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "nodes": [
+                1530360090,
+                1530360116,
+                1530359942,
+                1530359892,
+                1530360090
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "check_date": "2026-01-17",
+                "name": "Tamoil",
+                "operator": "T.D.M. S.R.L.",
+                "ref:mise": "28201",
+                "source:date": "2018-04-16"
+            }
+        },
+        {
+            "type": "way",
+            "id": 157680867,
+            "timestamp": "2026-01-23T20:24:48Z",
+            "version": 5,
+            "changeset": 177624875,
+            "user": "hecktor",
+            "uid": 465052,
             "nodes": [
                 1699429136,
                 1699429134,
@@ -6355,6 +6426,7 @@
                 1699429113,
                 1699429114,
                 1699429111,
+                13480077585,
                 1699429116,
                 1699429136
             ],
@@ -6503,42 +6575,6 @@
                 "name": "Conad",
                 "shop": "supermarket",
                 "source": "Regione Emilia Romagna"
-            }
-        },
-        {
-            "type": "way",
-            "id": 182144856,
-            "timestamp": "2024-02-27T15:46:11Z",
-            "version": 5,
-            "changeset": 147978692,
-            "user": "Emanuele Lorenzo Corti",
-            "uid": 10893865,
-            "nodes": [
-                1924920322,
-                1924920450,
-                1924920538,
-                1924920545,
-                11669370525,
-                11669370524,
-                1924920600,
-                1924920623,
-                1924920342,
-                1924920213,
-                1924919761,
-                1924919747,
-                1924920322
-            ],
-            "tags": {
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "building": "yes",
-                "name": "Conad",
-                "opening_hours": "Mo-Sa 08:30-20:30; Su 09:00-13:00",
-                "operator": "Conad",
-                "shop": "supermarket",
-                "source": "Regione Emilia Romagna",
-                "wheelchair": "yes"
             }
         },
         {
@@ -7914,6 +7950,40 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1462651412,
+            "timestamp": "2025-12-29T19:14:57Z",
+            "version": 1,
+            "changeset": 176594490,
+            "user": "Mirko Ventafridda",
+            "uid": 23657162,
+            "nodes": [
+                13416445558,
+                13416445559,
+                13416445560,
+                13416445561,
+                13416445562,
+                13416445563,
+                13416445564,
+                13416445565,
+                13416445566,
+                13416445567,
+                13416445568,
+                13416445569,
+                13416445570,
+                13416445571,
+                13416445572,
+                13416445573,
+                13416445558
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil"
             }
         }
     ],

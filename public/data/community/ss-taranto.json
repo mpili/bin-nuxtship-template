@@ -7,7 +7,7 @@
     "idlocalita": "taranto",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzTaranto",
     "telegram_app": "https://t.me/SatoshiSpritzTaranto",
-    "telegram_members": 19.0,
+    "telegram_members": 18.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1528,11 +1528,11 @@
             "id": 11412516681,
             "lat": 40.4955897,
             "lon": 17.6461029,
-            "timestamp": "2025-07-09T09:22:30Z",
-            "version": 5,
-            "changeset": 168685306,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-12-26T11:48:59Z",
+            "version": 6,
+            "changeset": 176434869,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Oria",
                 "addr:housenumber": "78",
@@ -1550,7 +1550,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
-                "phone": "+39 831 845 550",
+                "phone": "+39 0831 845550",
                 "shop": "cheese",
                 "survey:date": "2025-02-14",
                 "website": "https://www.caseificiopipino.it/"
@@ -1891,11 +1891,11 @@
             "id": 12988078535,
             "lat": 40.4972991,
             "lon": 17.6435577,
-            "timestamp": "2025-07-09T08:22:00Z",
-            "version": 2,
-            "changeset": 168682670,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2025-12-26T11:48:59Z",
+            "version": 3,
+            "changeset": 176434869,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Oria",
                 "addr:housenumber": "26",
@@ -1913,7 +1913,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "phone": "+39 831 848429"
+                "phone": "+39 0831 848429"
             }
         },
         {
@@ -2025,6 +2025,42 @@
         },
         {
             "type": "node",
+            "id": 13050201282,
+            "lat": 40.5322793,
+            "lon": 17.4353203,
+            "timestamp": "2026-01-19T10:22:07Z",
+            "version": 2,
+            "changeset": 177418147,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13050214520,
+            "lat": 40.533616,
+            "lon": 17.4340337,
+            "timestamp": "2026-01-19T10:22:07Z",
+            "version": 2,
+            "changeset": 177418147,
+            "user": "OpenCode",
+            "uid": 1196207,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 13056531974,
             "lat": 40.5369996,
             "lon": 17.4323213,
@@ -2057,6 +2093,32 @@
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "name": "Eurospar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13397476881,
+            "lat": 40.587114,
+            "lon": 17.4765484,
+            "timestamp": "2025-12-23T11:54:22Z",
+            "version": 1,
+            "changeset": 176304176,
+            "user": "pierfrancescop",
+            "uid": 23246302,
+            "tags": {
+                "addr:city": "Villa Castelli",
+                "addr:housenumber": "9/11",
+                "addr:postcode": "74029",
+                "addr:street": "Strada Provinciale Martina Franca-Villa Castelli",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "opening_hours": "Mo-Sa 08:00-13:00, 17:00-20:30; Tu 08:00-13:00",
+                "operator": "DM Commerciale Srl",
+                "payment:bancomat": "yes",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
                 "shop": "supermarket"
             }
         },
