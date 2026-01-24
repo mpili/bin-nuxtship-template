@@ -3351,7 +3351,7 @@
             "timestamp": "2023-01-28T23:14:04Z",
             "version": 6,
             "changeset": 131825317,
-            "user": "MaxAttack",
+            "user": "thepriben",
             "uid": 878284,
             "tags": {
                 "addr:city": "Venezia",
@@ -4584,7 +4584,7 @@
             "timestamp": "2024-04-17T10:38:51Z",
             "version": 4,
             "changeset": 150122040,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Mel",
@@ -6905,7 +6905,7 @@
             "timestamp": "2024-01-24T10:46:46Z",
             "version": 2,
             "changeset": 146624011,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Venezia",
@@ -7136,42 +7136,6 @@
                 "phone": "+39 0498882698",
                 "survey:date": "2023-05-10",
                 "website": "https://www.ristorantimontenapoleone.com/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10945938353,
-            "lat": 45.6366088,
-            "lon": 11.7838331,
-            "timestamp": "2024-10-08T19:02:44Z",
-            "version": 7,
-            "changeset": 157642146,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Cittadella",
-                "addr:housenumber": "56",
-                "addr:postcode": "35013",
-                "addr:street": "Via Beltramina",
-                "addr:unit": "3",
-                "check_date": "2024-10-08",
-                "check_date:currency:XBT": "2024-10-08",
-                "contact:facebook": "https://www.facebook.com/profile.php?id=100083076879992",
-                "currency:XBT": "yes",
-                "email": "m.beltramello@proton.me",
-                "guest_house": "landlords_-_affittacamere",
-                "internet_access": "wlan",
-                "internet_access:fee": "customers",
-                "name": "B&B - Beltramina Bedroom - Affitta Camere",
-                "payment:cash": "yes",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "yes",
-                "payment:onchain": "yes",
-                "phone": "+393498444285",
-                "rooms": "3",
-                "survey:date": "2023-06-03",
-                "tourism": "guest_house",
-                "website": "https://airbnb.com/h/beltraminabedroom1"
             }
         },
         {
@@ -7728,32 +7692,6 @@
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+39 37 6176 3526"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11980916898,
-            "lat": 46.0301992,
-            "lon": 12.5164386,
-            "timestamp": "2024-06-14T14:15:47Z",
-            "version": 2,
-            "changeset": 152681319,
-            "user": "Maarmolada Art",
-            "uid": 21657162,
-            "tags": {
-                "addr:city": "Polcenigo",
-                "addr:housenumber": "17",
-                "addr:postcode": "33070",
-                "addr:street": "Via Pizzoch",
-                "currency:XBT": "yes",
-                "name": "Maarmolada Art",
-                "opening_hours": "Mo-Su 10:00-22:00",
-                "payment:contactless": "no",
-                "payment:lightning": "yes",
-                "payment:onchain": "no",
-                "survey:date": "2024-01-01",
-                "tourism": "gallery",
-                "website": "https://linktr.ee/Ma.armoladaArt?fbclid=PAZXh0bgNhZW0CMTEAAab21UrFK8GPO9qQpBG1sLHqZAghQhylICmYogHy_rvxFkkjjHose8qtG74_aem_ZmFrZWR1bW15MTZieXRlcw"
             }
         },
         {
@@ -8999,6 +8937,37 @@
             }
         },
         {
+            "type": "node",
+            "id": 13426961769,
+            "lat": 45.7365092,
+            "lon": 11.6894408,
+            "timestamp": "2026-01-02T20:34:54Z",
+            "version": 5,
+            "changeset": 176760161,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Bassano del Grappa",
+                "addr:housenumber": "89",
+                "addr:postcode": "36061",
+                "addr:street": "Via Rivarotta",
+                "check_date": "2026-01-02",
+                "check_date:currency:XBT": "2026-01-02",
+                "company": "engineering",
+                "contact:facebook": "area.eu",
+                "currency:XBT": "yes",
+                "description": "Manutenzione impianti di condizionamento.",
+                "email": "info@areasrl.it",
+                "name": "Area",
+                "office": "company",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+39 0424 227641",
+                "website": "https://www.areasrl.it"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-10-23T10:23:41Z",
@@ -9340,11 +9309,11 @@
         {
             "type": "way",
             "id": 138842970,
-            "timestamp": "2022-06-16T06:21:28Z",
-            "version": 13,
-            "changeset": 122445373,
-            "user": "Kallar_N",
-            "uid": 14728722,
+            "timestamp": "2026-01-21T14:59:41Z",
+            "version": 14,
+            "changeset": 177526868,
+            "user": "szydzio",
+            "uid": 2313574,
             "nodes": [
                 2486203442,
                 1522371045,
@@ -9362,6 +9331,7 @@
                 "brand:wikidata": "Q610492",
                 "building": "yes",
                 "building:levels": "2",
+                "loc_name": "ex Teatro Italia",
                 "name": "Despar",
                 "old_name": "Teatro Italia",
                 "opening_hours": "8:00-21:00",
@@ -9618,6 +9588,37 @@
                 "building": "retail",
                 "name": "Despar",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 211032578,
+            "timestamp": "2026-01-05T13:21:00Z",
+            "version": 2,
+            "changeset": 176861686,
+            "user": "user_8y978a",
+            "uid": 20552772,
+            "nodes": [
+                424701430,
+                424701431,
+                424701432,
+                424701433,
+                2210416231,
+                424701434,
+                424701435,
+                424701436,
+                424701430
+            ],
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "building": "industrial",
+                "height": "14 m",
+                "it:fvg:ctrn:code": "4AIN",
+                "it:fvg:ctrn:revision": "1A0",
+                "name": "Unieuro",
+                "opening_hours": "Mo 14:00-20:00; Tu-Su 10:00-20:00",
+                "shop": "electronics"
             }
         },
         {

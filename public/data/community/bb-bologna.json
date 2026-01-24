@@ -7787,6 +7787,31 @@
             }
         },
         {
+            "type": "node",
+            "id": 13481875989,
+            "lat": 44.4957804,
+            "lon": 11.3379902,
+            "timestamp": "2026-01-24T14:17:11Z",
+            "version": 1,
+            "changeset": 177647824,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "23",
+                "addr:postcode": "40121",
+                "addr:street": "Via Ugo Bassi",
+                "amenity": "marketplace",
+                "contact:facebook": "https://www.facebook.com/BorgoMameli/",
+                "contact:instagram": "https://www.instagram.com/borgomameli/",
+                "currency:XBT": "yes",
+                "email": "info@borgomameli.it",
+                "name": "Borgo Delle Erbe",
+                "phone": "+39 353 492 7217",
+                "website": "https://borgomameli.it/"
+            }
+        },
+        {
             "type": "way",
             "id": 75650925,
             "timestamp": "2020-03-14T18:04:28Z",

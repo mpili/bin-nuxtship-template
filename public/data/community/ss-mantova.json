@@ -1189,27 +1189,6 @@
         },
         {
             "type": "node",
-            "id": 2099815594,
-            "lat": 45.470637,
-            "lon": 10.8505217,
-            "timestamp": "2025-10-02T18:42:51Z",
-            "version": 3,
-            "changeset": 172761913,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Bussolengo",
-                "addr:postcode": "37012",
-                "addr:street": "Piazzale Vittorio Veneto",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 2134238450,
             "lat": 45.4157619,
             "lon": 11.1782754,
@@ -1999,11 +1978,11 @@
             "id": 4222597599,
             "lat": 45.1531896,
             "lon": 10.6565069,
-            "timestamp": "2025-10-27T22:02:29Z",
-            "version": 5,
-            "changeset": 173858854,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-10T11:21:25Z",
+            "version": 6,
+            "changeset": 177057226,
+            "user": "PizzaTreeIsland",
+            "uid": 17308617,
             "tags": {
                 "addr:city": "Castellucchio",
                 "addr:postcode": "46014",
@@ -2014,7 +1993,7 @@
                 "name": "Conad City",
                 "phone": "+39 051 508111",
                 "shop": "supermarket",
-                "wheelchair": "yesaddr:postcode=46014"
+                "wheelchair": "yes"
             }
         },
         {
@@ -3610,6 +3589,28 @@
                 "name": "Z. M. Zoccatelli Impianti",
                 "phone": "+39 3484447118",
                 "website": "https://www.impiantizoccatelli.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10009529547,
+            "lat": 45.4750336,
+            "lon": 10.8471103,
+            "timestamp": "2026-01-24T07:38:17Z",
+            "version": 2,
+            "changeset": 177636255,
+            "user": "mapperue",
+            "uid": 4887311,
+            "tags": {
+                "addr:city": "Bussolengo",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:street": "Piazzale della Vittoria",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "brand:wikipedia": "en:Calzedonia",
+                "name": "Calzedonia",
+                "shop": "clothes"
             }
         },
         {
@@ -5325,11 +5326,11 @@
         {
             "type": "way",
             "id": 157680867,
-            "timestamp": "2024-05-10T16:58:20Z",
-            "version": 4,
-            "changeset": 151154596,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
+            "timestamp": "2026-01-23T20:24:48Z",
+            "version": 5,
+            "changeset": 177624875,
+            "user": "hecktor",
+            "uid": 465052,
             "nodes": [
                 1699429136,
                 1699429134,
@@ -5342,6 +5343,7 @@
                 1699429113,
                 1699429114,
                 1699429111,
+                13480077585,
                 1699429116,
                 1699429136
             ],

@@ -7,7 +7,7 @@
     "idlocalita": "faenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001836800144",
     "telegram_app": "https://t.me/bitcoinbeerfaenza",
-    "telegram_members": 268.0,
+    "telegram_members": 270.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -3092,9 +3092,9 @@
             "id": 4766304105,
             "lat": 44.2141402,
             "lon": 12.0453166,
-            "timestamp": "2024-04-03T16:19:47Z",
-            "version": 3,
-            "changeset": 149533288,
+            "timestamp": "2026-01-24T12:02:18Z",
+            "version": 4,
+            "changeset": 177643047,
             "user": "matteop3_",
             "uid": 13347588,
             "tags": {
@@ -3105,7 +3105,7 @@
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
-                "opening_hours": "Mo-Sa 07:00-20:30",
+                "opening_hours": "Mo-Sa 07:00-20:30; Su 08:30-13:00",
                 "shop": "supermarket"
             }
         },
@@ -6644,6 +6644,31 @@
                 "name": "Studio di fisioterapia",
                 "office": "therapist",
                 "phone": "+39 3299699161"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13481875989,
+            "lat": 44.4957804,
+            "lon": 11.3379902,
+            "timestamp": "2026-01-24T14:17:11Z",
+            "version": 1,
+            "changeset": 177647824,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Bologna",
+                "addr:housenumber": "23",
+                "addr:postcode": "40121",
+                "addr:street": "Via Ugo Bassi",
+                "amenity": "marketplace",
+                "contact:facebook": "https://www.facebook.com/BorgoMameli/",
+                "contact:instagram": "https://www.instagram.com/borgomameli/",
+                "currency:XBT": "yes",
+                "email": "info@borgomameli.it",
+                "name": "Borgo Delle Erbe",
+                "phone": "+39 353 492 7217",
+                "website": "https://borgomameli.it/"
             }
         },
         {

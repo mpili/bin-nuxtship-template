@@ -1248,6 +1248,25 @@
         },
         {
             "type": "node",
+            "id": 1596490047,
+            "lat": 44.4391084,
+            "lon": 8.9643338,
+            "timestamp": "2026-01-08T10:51:21Z",
+            "version": 5,
+            "changeset": 176979053,
+            "user": "OSM_sta",
+            "uid": 19331204,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "level": "0",
+                "name": "Upim",
+                "phone": "+39 010 8353222",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
             "id": 1636821220,
             "lat": 44.598336,
             "lon": 8.3530519,
@@ -1688,18 +1707,18 @@
             "id": 3743001045,
             "lat": 43.9521925,
             "lon": 8.1414417,
-            "timestamp": "2025-10-06T15:30:47Z",
-            "version": 3,
-            "changeset": 172920905,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-01T18:41:43Z",
+            "version": 4,
+            "changeset": 176714760,
+            "user": "LucianoC63",
+            "uid": 20673751,
             "tags": {
                 "addr:city": "Andora",
                 "addr:housenumber": "48",
                 "addr:postcode": "17051",
                 "addr:street": "Via Cavour",
                 "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
+                "brand:wikidata": "Q639075",
                 "name": "Conad City",
                 "shop": "supermarket"
             }
@@ -3312,7 +3331,7 @@
             "timestamp": "2024-02-17T10:54:53Z",
             "version": 4,
             "changeset": 147565309,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Genova",
@@ -3437,7 +3456,7 @@
             "timestamp": "2023-08-01T11:53:55Z",
             "version": 4,
             "changeset": 139296647,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Andora",

@@ -481,6 +481,23 @@
         },
         {
             "type": "node",
+            "id": 2270402789,
+            "lat": 43.1100419,
+            "lon": 12.449312,
+            "timestamp": "2026-01-02T00:42:53Z",
+            "version": 2,
+            "changeset": 176724187,
+            "user": "Maurizio Melani (forwalk)",
+            "uid": 1669056,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 2272473695,
             "lat": 43.1144167,
             "lon": 12.4384989,
@@ -965,11 +982,11 @@
             "id": 4528337285,
             "lat": 43.110849,
             "lon": 12.3885932,
-            "timestamp": "2025-12-09T21:53:02Z",
-            "version": 5,
-            "changeset": 175734349,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2025-12-24T08:45:24Z",
+            "version": 6,
+            "changeset": 176342958,
+            "user": "confusedbuffalo",
+            "uid": 242345,
             "tags": {
                 "addr:city": "Perugia",
                 "addr:housenumber": "44",
@@ -979,7 +996,7 @@
                 "brand:wikidata": "Q28056374",
                 "check_date": "2024-05-05",
                 "name": "Tezenis",
-                "phone": "+39755730629",
+                "phone": "+39 075 573 0629",
                 "shop": "clothes",
                 "website": "https://it.tezenis.com/"
             }
@@ -2139,23 +2156,6 @@
         },
         {
             "type": "node",
-            "id": 11240586255,
-            "lat": 42.7395387,
-            "lon": 12.7371261,
-            "timestamp": "2023-10-05T07:29:44Z",
-            "version": 1,
-            "changeset": 142175519,
-            "user": "LorenzoPesci",
-            "uid": 5328797,
-            "tags": {
-                "brand": "Mondadori",
-                "brand:wikidata": "Q85355",
-                "name": "Mondadori",
-                "shop": "books"
-            }
-        },
-        {
-            "type": "node",
             "id": 11409790158,
             "lat": 42.9983969,
             "lon": 12.4269567,
@@ -2407,18 +2407,18 @@
             "id": 12686962517,
             "lat": 43.338679,
             "lon": 12.899483,
-            "timestamp": "2025-06-20T06:46:09Z",
-            "version": 2,
-            "changeset": 167854972,
-            "user": "totera",
-            "uid": 123412,
+            "timestamp": "2026-01-06T15:06:58Z",
+            "version": 3,
+            "changeset": 176907323,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Fabriano",
                 "addr:housenumber": "42l",
                 "addr:postcode": "60044",
                 "addr:street": "Viale Martiri della Libert\u00e0",
                 "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
+                "brand:wikidata": "Q639075",
                 "name": "Conad City",
                 "opening_hours": "Mo-Sa 07:30-20:00; Su 08:00-13:30",
                 "operator": "Pagema supermercati snc",

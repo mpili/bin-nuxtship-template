@@ -853,26 +853,6 @@
         },
         {
             "type": "node",
-            "id": 5139698539,
-            "lat": 38.0998831,
-            "lon": 13.3345198,
-            "timestamp": "2025-12-20T09:00:16Z",
-            "version": 4,
-            "changeset": 176171031,
-            "user": "Peppe Namir",
-            "uid": 23474961,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "compressed_air": "yes",
-                "name": "Q8",
-                "operator": "Asel Petroli S.R.L.",
-                "ref:mise": "33592"
-            }
-        },
-        {
-            "type": "node",
             "id": 5225350552,
             "lat": 38.0823514,
             "lon": 13.50427,
@@ -1374,29 +1354,6 @@
                 "ref:mise": "28269",
                 "self_service": "yes",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5851840945,
-            "lat": 38.1292373,
-            "lon": 13.354594,
-            "timestamp": "2025-10-22T18:46:17Z",
-            "version": 3,
-            "changeset": 173642942,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Palermo",
-                "addr:housenumber": "98",
-                "addr:postcode": "90139",
-                "addr:street": "Via Isidoro La Lumia",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Somma Vincenzo",
-                "ref:mise": "26371"
             }
         },
         {
@@ -2151,11 +2108,11 @@
             "id": 9711289960,
             "lat": 38.1212098,
             "lon": 13.3575068,
-            "timestamp": "2023-08-26T19:30:13Z",
-            "version": 2,
-            "changeset": 140426221,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-01-02T15:10:30Z",
+            "version": 3,
+            "changeset": 176747899,
+            "user": "Josh Just Josh",
+            "uid": 13571999,
             "tags": {
                 "addr:city": "Palermo",
                 "addr:housenumber": "62,65",
@@ -2163,6 +2120,7 @@
                 "addr:street": "Piazza Giuseppe Verdi",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
+                "check_date:opening_hours": "2026-01-02",
                 "contact:facebook": "Kasanova-Piazza-Verdi-Palermo-102180395080557",
                 "contact:instagram": "kasanova",
                 "contact:whatsapp": "+39 392 186 1457",
@@ -2867,7 +2825,7 @@
             "timestamp": "2024-02-25T11:57:44Z",
             "version": 2,
             "changeset": 147887582,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Carini",
@@ -3307,35 +3265,6 @@
                 "payment:notes": "yes",
                 "payment:visa": "yes",
                 "phone": "+39091403368",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
-            "id": 81411582,
-            "timestamp": "2023-06-12T21:36:27Z",
-            "version": 5,
-            "changeset": 137261278,
-            "user": "ilVichingo",
-            "uid": 6121696,
-            "nodes": [
-                948618591,
-                948617028,
-                948614013,
-                948616428,
-                948613466,
-                5140829082,
-                948618591
-            ],
-            "tags": {
-                "addr:city": "Palermo",
-                "addr:housenumber": "21",
-                "addr:postcode": "90131",
-                "addr:street": "Via Domenico Russo",
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "building": "yes",
-                "name": "Carrefour",
                 "shop": "supermarket"
             }
         },
@@ -4305,6 +4234,33 @@
                 13257253050,
                 13257253051,
                 13257253048
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1466177262,
+            "timestamp": "2026-01-11T10:30:46Z",
+            "version": 1,
+            "changeset": 177090384,
+            "user": "Alt7706",
+            "uid": 20964566,
+            "nodes": [
+                13447721542,
+                13447721543,
+                13447721544,
+                13447721545,
+                13447721546,
+                13447721547,
+                13447721548,
+                13447721549,
+                13447721542
             ],
             "tags": {
                 "brand": "Conad",

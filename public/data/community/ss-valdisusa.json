@@ -7,7 +7,7 @@
     "idlocalita": "valdisusa",
     "telegram_weburl": "https://web.telegram.org/a/#-1002445101954",
     "telegram_app": "https://t.me/SatoshiSpritzValSusa",
-    "telegram_members": 32.0,
+    "telegram_members": 33.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1740,13 +1740,13 @@
         {
             "type": "node",
             "id": 1114771195,
-            "lat": 45.0346753,
-            "lon": 7.6664757,
-            "timestamp": "2025-01-03T17:16:20Z",
-            "version": 11,
-            "changeset": 160958507,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 45.0347341,
+            "lon": 7.6659849,
+            "timestamp": "2026-01-05T00:28:36Z",
+            "version": 12,
+            "changeset": 176840759,
+            "user": "George Sears",
+            "uid": 19558353,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "262",
@@ -1755,7 +1755,7 @@
                 "air_conditioning": "yes",
                 "brand": "MediaWorld",
                 "brand:wikidata": "Q2381223",
-                "ele": "1",
+                "level": "1",
                 "name": "MediaWorld",
                 "opening_hours": "Mo-Th 10:00-21:00; Fr-Su 10:00-22:00",
                 "operator": "MediaMarket S.p.A.",
@@ -2740,6 +2740,24 @@
                 "office": "consulting",
                 "phone": "+39 011 305 2826",
                 "website": "http://www.studio-macri.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3816860934,
+            "lat": 45.0235994,
+            "lon": 7.592276,
+            "timestamp": "2026-01-23T09:30:19Z",
+            "version": 6,
+            "changeset": 177599345,
+            "user": "Andrea Musuruane",
+            "uid": 90379,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "operator": "MediaMarket S.p.A.",
+                "shop": "electronics"
             }
         },
         {
@@ -4396,6 +4414,23 @@
         },
         {
             "type": "node",
+            "id": 6620324748,
+            "lat": 45.0668771,
+            "lon": 7.6681906,
+            "timestamp": "2026-01-14T22:53:11Z",
+            "version": 5,
+            "changeset": 177239080,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 6804656410,
             "lat": 45.0700072,
             "lon": 7.6836035,
@@ -4627,34 +4662,6 @@
                 "phone": "+390114374322",
                 "shop": "electronics",
                 "website": "https://www.trony.it/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8109172382,
-            "lat": 45.0302594,
-            "lon": 7.6645651,
-            "timestamp": "2021-02-09T21:37:41Z",
-            "version": 3,
-            "changeset": 99001119,
-            "user": "Teresa_Q",
-            "uid": 12565417,
-            "tags": {
-                "addr:city": "Torino",
-                "addr:housenumber": "262",
-                "addr:postcode": "10126",
-                "addr:street": "Via Nizza",
-                "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
-                "name": "Conad City",
-                "opening_hours": "Mo-Sa 08:00-21:00, Su 09:00-21:00",
-                "operator": "Conad",
-                "payment:bancomat": "yes",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "shop": "supermarket",
-                "start_date": "2020-11-12",
-                "website": "https://www.conad.it/ricerca-negozi/negozio.010152.html"
             }
         },
         {
@@ -5099,11 +5106,11 @@
             "id": 9502512435,
             "lat": 45.0634837,
             "lon": 7.681062,
-            "timestamp": "2025-10-23T07:50:31Z",
-            "version": 5,
-            "changeset": 173659951,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-18T17:36:49Z",
+            "version": 6,
+            "changeset": 177384136,
+            "user": "Danysan95",
+            "uid": 4425563,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "45",
@@ -5112,6 +5119,7 @@
                 "branch": "Kasanova+ Torino - Lagrange",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
+                "check_date": "2026-01-18",
                 "name": "Kasanova+",
                 "opening_hours": "Mo-Su 10:00-19:30",
                 "payment:cash": "yes",
@@ -5623,7 +5631,7 @@
             "timestamp": "2023-08-01T11:51:25Z",
             "version": 3,
             "changeset": 139296510,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Torino",
@@ -5812,7 +5820,7 @@
             "timestamp": "2023-05-13T06:01:12Z",
             "version": 4,
             "changeset": 136041414,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "San Secondo di Pinerolo",
@@ -5879,7 +5887,7 @@
             "timestamp": "2024-01-28T04:21:36Z",
             "version": 2,
             "changeset": 146766284,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Moncalieri",
@@ -6188,7 +6196,7 @@
             "timestamp": "2024-02-18T08:38:36Z",
             "version": 2,
             "changeset": 147599052,
-            "user": "yhic4uw",
+            "user": "Igor Bubelov",
             "uid": 2104834,
             "tags": {
                 "addr:city": "Oulx",
@@ -6731,13 +6739,13 @@
         {
             "type": "node",
             "id": 12075894093,
-            "lat": 45.0301797,
-            "lon": 7.6645067,
-            "timestamp": "2025-01-03T14:30:22Z",
-            "version": 2,
-            "changeset": 160951814,
-            "user": "mpbin",
-            "uid": 21850090,
+            "lat": 45.0300717,
+            "lon": 7.6646113,
+            "timestamp": "2026-01-05T00:28:36Z",
+            "version": 3,
+            "changeset": 176840759,
+            "user": "George Sears",
+            "uid": 19558353,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "230",
@@ -7209,13 +7217,13 @@
         {
             "type": "node",
             "id": 12751912001,
-            "lat": 45.0325186,
-            "lon": 7.6652603,
-            "timestamp": "2025-10-01T16:56:47Z",
-            "version": 3,
-            "changeset": 172716191,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.0325015,
+            "lon": 7.665318,
+            "timestamp": "2026-01-05T00:28:36Z",
+            "version": 4,
+            "changeset": 176840759,
+            "user": "George Sears",
+            "uid": 19558353,
             "tags": {
                 "addr:city": "Torino",
                 "addr:housenumber": "262",
@@ -7370,6 +7378,97 @@
                 "name": "Laboratorio Orafo Maurizio Marottoli",
                 "phone": "+39 011 605 4335",
                 "shop": "jewelry"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431374955,
+            "lat": 45.0334628,
+            "lon": 7.6665393,
+            "timestamp": "2026-01-07T21:56:49Z",
+            "version": 2,
+            "changeset": 176962041,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "level": "1",
+                "name": "La Feltrinelli",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431374961,
+            "lat": 45.0335377,
+            "lon": 7.6659304,
+            "timestamp": "2026-01-05T00:28:36Z",
+            "version": 1,
+            "changeset": 176840759,
+            "user": "George Sears",
+            "uid": 19558353,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "level": "1",
+                "name": "Tezenis",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431374985,
+            "lat": 45.0318071,
+            "lon": 7.6649111,
+            "timestamp": "2026-01-07T21:56:49Z",
+            "version": 2,
+            "changeset": 176962041,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "level": "1",
+                "name": "Salmoiraghi & Vigan\u00f2",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431374993,
+            "lat": 45.0309977,
+            "lon": 7.6646899,
+            "timestamp": "2026-01-07T14:12:14Z",
+            "version": 2,
+            "changeset": 176946776,
+            "user": "nick1993",
+            "uid": 3335735,
+            "tags": {
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "level": "1",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431415603,
+            "lat": 45.0308811,
+            "lon": 7.6644404,
+            "timestamp": "2026-01-05T00:28:36Z",
+            "version": 1,
+            "changeset": 176840759,
+            "user": "George Sears",
+            "uid": 19558353,
+            "tags": {
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "level": "1",
+                "name": "IKEA",
+                "shop": "furniture"
             }
         },
         {
@@ -8694,13 +8793,37 @@
             }
         },
         {
+            "type": "way",
+            "id": 1467543717,
+            "timestamp": "2026-01-16T09:47:30Z",
+            "version": 1,
+            "changeset": 177290628,
+            "user": "EdoBoo",
+            "uid": 9522091,
+            "nodes": [
+                13459979570,
+                13459979574,
+                13459979575,
+                13459979576,
+                13459979577,
+                13459979570
+            ],
+            "tags": {
+                "brand": "Carrefour",
+                "brand:wikidata": "Q217599",
+                "building": "yes",
+                "name": "Carrefour",
+                "shop": "supermarket"
+            }
+        },
+        {
             "type": "relation",
             "id": 2591156,
-            "timestamp": "2025-11-30T16:12:15Z",
-            "version": 8,
-            "changeset": 175320755,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2026-01-18T17:36:49Z",
+            "version": 9,
+            "changeset": 177384136,
+            "user": "Danysan95",
+            "uid": 4425563,
             "members": [
                 {
                     "type": "way",
@@ -8723,6 +8846,7 @@
                 "brand:wikidata": "Q509349",
                 "brand:wikipedia": "Q509349",
                 "building": "commercial",
+                "check_date": "2026-01-18",
                 "name": "Decathlon",
                 "opening_hours": "Mo-Su 09:00-20:00",
                 "operator": "Decathlon",

@@ -2173,13 +2173,13 @@
         {
             "type": "node",
             "id": 2520790670,
-            "lat": 41.872196,
-            "lon": 12.5264202,
-            "timestamp": "2025-04-22T20:34:39Z",
-            "version": 6,
-            "changeset": 165303532,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 41.872202,
+            "lon": 12.5264302,
+            "timestamp": "2026-01-23T11:31:29Z",
+            "version": 7,
+            "changeset": 177604776,
+            "user": "mau59",
+            "uid": 257767,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "509",
@@ -3520,30 +3520,6 @@
                 "operator": "Trotta Emilio Daniel",
                 "ref:mise": "21227",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4721783990,
-            "lat": 41.9012189,
-            "lon": 12.4805615,
-            "timestamp": "2025-10-09T21:35:22Z",
-            "version": 4,
-            "changeset": 173069287,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:housenumber": "198",
-                "addr:street": "Via del Corso",
-                "brand": "La Rinascente",
-                "brand:wikidata": "Q1050061",
-                "brand:wikipedia": "it:Rinascente",
-                "name": "La Rinascente",
-                "name:en": "La Rinascente",
-                "name:it": "La Rinascente",
-                "shop": "department_store",
-                "wheelchair": "limited"
             }
         },
         {
@@ -12186,6 +12162,45 @@
                 "name": "Conad",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=4466"
+            }
+        },
+        {
+            "type": "way",
+            "id": 223254732,
+            "timestamp": "2026-01-23T18:05:21Z",
+            "version": 10,
+            "changeset": 177620360,
+            "user": "AlCeRoma",
+            "uid": 12770453,
+            "nodes": [
+                2321739129,
+                2321739130,
+                2321739131,
+                2321739132,
+                3646603438,
+                3646603439,
+                2321739133,
+                3646603433,
+                3646603431,
+                3646603417,
+                3646603416,
+                3646603399,
+                3646603400,
+                2321739134,
+                2321739129
+            ],
+            "tags": {
+                "brand": "La Rinascente",
+                "brand:wikidata": "Q1050061",
+                "building": "yes",
+                "name": "La Rinascente",
+                "opening_hours": "Mo-Fr, Su 10:00-21:00; Sa 10:00-21:30",
+                "phone": "+39 06 884 1231",
+                "shop": "department_store",
+                "website": "https://www.rinascente.it/",
+                "wheelchair": "yes",
+                "wikidata": "Q56258559",
+                "wikimedia_commons": "Category:Palazzo La Rinascente 1960 (Rome)"
             }
         },
         {
