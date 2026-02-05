@@ -15,7 +15,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div v-if="idcomunita">
-    <div v-if="pending"></div>
+    <div v-if="pending">
+      <UiSkeletonlines />
+    </div>
     <div v-else class="max-w-md">
       <NuxtLink :href="`/c/${data?.id}`" class="text-primary text-xl font-bold">
         <div class="flex items-center rounded-full border shadow gap-6 p-2">

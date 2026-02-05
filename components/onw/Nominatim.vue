@@ -10,7 +10,7 @@ const isDev = process.dev
 </script>
 <template>
   <div v-if="pending">
-    <span></span>
+    <UiSkeletonlines />
   </div>
   <div v-else>
     <OnwPosizione v-if="data?.address" :address="data.address" :tags="tags" />

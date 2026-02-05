@@ -4,10 +4,10 @@ const menuitems = [
     title: "Shop",
     path: "https://shop.bitcoinitalianetwork.com/en-eur/",
   },
-  {
-    title: "Glossario",
-    path: "https://glossario.bitcoinitalianetwork.com/",
-  },
+  // {
+  //   title: "Glossario",
+  //   path: "https://glossario.bitcoinitalianetwork.com/",
+  // },
   {
     title: "Impara",
     path: "/impara",

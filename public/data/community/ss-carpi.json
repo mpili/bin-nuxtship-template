@@ -3583,6 +3583,25 @@
         },
         {
             "type": "node",
+            "id": 4754952046,
+            "lat": 44.7969629,
+            "lon": 10.3018916,
+            "timestamp": "2026-02-04T15:12:26Z",
+            "version": 3,
+            "changeset": 178099444,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "addr:housenumber": "1a",
+                "addr:street": "Largo Luchino Visconti",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 4754959428,
             "lat": 44.8132547,
             "lon": 10.2725961,
@@ -5472,13 +5491,13 @@
         {
             "type": "node",
             "id": 10255532989,
-            "lat": 44.5279491,
-            "lon": 11.320108,
-            "timestamp": "2024-02-29T13:30:01Z",
-            "version": 2,
-            "changeset": 148052814,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "lat": 44.5279919,
+            "lon": 11.3201026,
+            "timestamp": "2026-01-29T01:13:45Z",
+            "version": 3,
+            "changeset": 177826789,
+            "user": "Plaintelive",
+            "uid": 11644547,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "50",

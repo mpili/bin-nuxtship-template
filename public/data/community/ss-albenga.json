@@ -461,19 +461,19 @@
             "id": 2325378585,
             "lat": 43.8989297,
             "lon": 8.0301339,
-            "timestamp": "2024-12-03T19:50:43Z",
-            "version": 5,
-            "changeset": 159894870,
+            "timestamp": "2026-02-01T21:29:50Z",
+            "version": 6,
+            "changeset": 177982100,
             "user": "LucianoC63",
             "uid": 20673751,
             "tags": {
-                "addr:city": "Imperia",
-                "addr:housenumber": "347",
-                "addr:postcode": "18100",
-                "addr:street": "Argine Destro Ferdinando Scajola",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
+                "contact:city": "Imperia",
+                "contact:housenumber": "347",
+                "contact:postcode": "18100",
+                "contact:street": "Argine Destro Ferdinando Scajola",
                 "email": "GestSDBArgineDestro_L492246B@DI-NET.IT",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-13:30",
@@ -543,9 +543,9 @@
             "id": 2842909721,
             "lat": 43.9035776,
             "lon": 7.9468955,
-            "timestamp": "2025-10-06T14:08:39Z",
-            "version": 13,
-            "changeset": 172916616,
+            "timestamp": "2026-01-25T08:54:40Z",
+            "version": 15,
+            "changeset": 177672862,
             "user": "Comino",
             "uid": 6794624,
             "tags": {
@@ -568,12 +568,13 @@
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
                 "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "payment:paypal": "yes",
                 "phone": "+39 0183 280 281",
                 "produce": "oil,oilve oil",
                 "shop": "farm",
-                "website": "http://www.olijfolie.it"
+                "website": "https://shop.olijfolie.it"
             }
         },
         {
@@ -2428,6 +2429,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13482099860,
+            "lat": 44.1253175,
+            "lon": 8.2577925,
+            "timestamp": "2026-01-24T16:54:39Z",
+            "version": 1,
+            "changeset": 177653806,
+            "user": "Paolitosss",
+            "uid": 20900475,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
             "type": "way",
             "id": 135435683,
             "timestamp": "2025-01-04T11:12:34Z",
@@ -2503,11 +2521,11 @@
         {
             "type": "way",
             "id": 202169317,
-            "timestamp": "2025-10-22T09:27:20Z",
-            "version": 7,
-            "changeset": 173617662,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-24T17:48:27Z",
+            "version": 8,
+            "changeset": 177655913,
+            "user": "Paolitosss",
+            "uid": 20900475,
             "nodes": [
                 2121464461,
                 10768242102,
@@ -2515,6 +2533,7 @@
                 10768316709,
                 10768316706,
                 2121464449,
+                13482227009,
                 2121464454,
                 2121464446,
                 2121464455,

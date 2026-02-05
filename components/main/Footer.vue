@@ -28,10 +28,6 @@ const vocimenu = [
   {
     titolo: "Cosa",
     voci: [
-      {
-        titolo: "Glossario",
-        path: "https://glossario.bitcoinitalianetwork.com/",
-      },
 
       {
         titolo: "Impara",
@@ -128,7 +124,7 @@ const vocimenu = [
           <Icon name="ic:baseline-tiktok" size="24" />
         </a>
         <a
-          href="https://njump.me/npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw"
+          href="https://nostr.com/npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw"
           target="_blank"
         >
           <span class="sr-only">Nostr</span>

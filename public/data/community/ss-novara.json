@@ -10601,29 +10601,6 @@
         },
         {
             "type": "node",
-            "id": 6041740780,
-            "lat": 45.4483008,
-            "lon": 9.1396825,
-            "timestamp": "2021-11-07T19:47:41Z",
-            "version": 3,
-            "changeset": 113494098,
-            "user": "davidoskky",
-            "uid": 11645399,
-            "tags": {
-                "branch": "Point",
-                "brand": "Mondadori",
-                "brand:wikidata": "Q85355",
-                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
-                "email": "biancospini@tiscali.it",
-                "name": "Mondadori",
-                "opening_hours": "Mo-Sa 06:00-19:30; Su 07:30-12:45",
-                "phone": "+39 02 8907 6646",
-                "shop": "books",
-                "website": "https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Point-Milano-Biancospini/1373/"
-            }
-        },
-        {
-            "type": "node",
             "id": 6048485021,
             "lat": 45.4457236,
             "lon": 8.6216778,
@@ -12098,11 +12075,11 @@
             "id": 7704745297,
             "lat": 45.4437636,
             "lon": 9.1783711,
-            "timestamp": "2025-05-23T16:16:12Z",
-            "version": 7,
-            "changeset": 166664163,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2026-02-03T19:04:28Z",
+            "version": 9,
+            "changeset": 178064223,
+            "user": "ChimpanBC",
+            "uid": 23724596,
             "tags": {
                 "addr:city": "Milano",
                 "addr:housenumber": "7",
@@ -12111,6 +12088,7 @@
                 "brand": "Esselunga",
                 "brand:wikidata": "Q1059636",
                 "brand:wikipedia": "en:Esselunga",
+                "check_date:opening_hours": "2026-02-03",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-20:00",
                 "operator": "Esselunga",
@@ -12119,7 +12097,8 @@
                 "payment:credit_cards": "yes",
                 "phone": "+39 02 8323918",
                 "shop": "supermarket",
-                "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.TID.html"
+                "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.TID.html",
+                "wheelchair": "yes"
             }
         },
         {
@@ -12833,23 +12812,29 @@
             "id": 9310350135,
             "lat": 45.5759546,
             "lon": 9.1175981,
-            "timestamp": "2021-12-04T11:42:19Z",
-            "version": 1,
-            "changeset": 114552004,
-            "user": "Martino Scaglione",
-            "uid": 10901495,
+            "timestamp": "2026-01-29T23:20:36Z",
+            "version": 2,
+            "changeset": 177869233,
+            "user": "fick89",
+            "uid": 1781586,
             "tags": {
                 "addr:city": "Senago",
                 "addr:housenumber": "12",
                 "addr:postcode": "20030",
                 "addr:street": "Via Don Ambrogio Rocca",
+                "branch": "Fratelli Fontana",
                 "brand": "Expert",
                 "brand:website": "http://www.expert.org",
                 "brand:wikidata": "Q680990",
                 "brand:wikipedia": "en:Expert (company)",
-                "name": "Expert Fratelli Fontana",
+                "contact:whatsapp": "https://api.whatsapp.com/send/?phone=3929988436",
+                "email": "info@expertsenago.com",
+                "name": "Expert",
+                "opening_hours": "Tu-Sa 09:30-12:30, 15:30-19:00; Su-Mo off",
+                "operator": "F.LLI FONTANA DI FONTANA PAOLO E ALESSIO S.N.C.",
                 "phone": "+39029988436",
-                "shop": "electronics"
+                "shop": "electronics",
+                "website": "https://www.expert.it/it/it/exp/storelocator/store/fontana-senago/EC00000002443"
             }
         },
         {
@@ -17786,6 +17771,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13484522995,
+            "lat": 45.5471364,
+            "lon": 9.2321259,
+            "timestamp": "2026-01-25T18:07:38Z",
+            "version": 1,
+            "changeset": 177692833,
+            "user": "ottanium",
+            "uid": 13920670,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
+            }
+        },
+        {
             "type": "way",
             "id": 24037476,
             "timestamp": "2026-01-14T10:03:44Z",
@@ -18858,11 +18860,11 @@
         {
             "type": "way",
             "id": 95931669,
-            "timestamp": "2025-05-22T16:45:57Z",
-            "version": 8,
-            "changeset": 166621785,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2026-01-31T17:35:59Z",
+            "version": 9,
+            "changeset": 177935255,
+            "user": "ChimpanBC",
+            "uid": 23724596,
             "nodes": [
                 1111496962,
                 1111497019,
@@ -18901,7 +18903,8 @@
                 "brand:wikidata": "Q1059636",
                 "brand:wikipedia": "en:Esselunga",
                 "building": "supermarket",
-                "check_date": "2025-04-22",
+                "check_date": "2026-01-31",
+                "check_date:opening_hours": "2026-01-31",
                 "currency:EUR": "yes",
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",

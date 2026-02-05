@@ -704,31 +704,6 @@
         },
         {
             "type": "node",
-            "id": 3589764218,
-            "lat": 45.5443347,
-            "lon": 13.7331598,
-            "timestamp": "2022-05-07T15:44:11Z",
-            "version": 6,
-            "changeset": 120673378,
-            "user": "streetcreds",
-            "uid": 6533699,
-            "tags": {
-                "addr:city": "Koper / Capodistria",
-                "addr:housenumber": "3",
-                "addr:postcode": "6000",
-                "addr:street": "Ferrarska ulica / Via Ferrara",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "brand:wikipedia": "en:Spar (retailer)",
-                "check_date:opening_hours": "2022-05-07",
-                "name": "Spar",
-                "opening_hours": "Mo-Sa 07:00-20:00",
-                "shop": "supermarket",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 3633903157,
             "lat": 45.6474287,
             "lon": 13.765979,
@@ -3552,6 +3527,43 @@
         },
         {
             "type": "way",
+            "id": 159555804,
+            "timestamp": "2026-01-31T08:53:41Z",
+            "version": 6,
+            "changeset": 177918013,
+            "user": "blckdrgn",
+            "uid": 650500,
+            "nodes": [
+                1716744076,
+                1716744010,
+                1716743999,
+                1716743973,
+                1716743830,
+                1716743993,
+                1716744076
+            ],
+            "tags": {
+                "addr:city": "Monfalcone",
+                "addr:housenumber": "1",
+                "addr:postcode": "34074",
+                "addr:street": "Via Gioachino Rossini",
+                "addr:unit": "B",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "da:Eurospar",
+                "building": "retail",
+                "fax": "+39 0481 721234",
+                "name": "Eurospar",
+                "opening_hours": "Mo-Sa 08:00-20:30; Su 08:30-20:00",
+                "opening_hours:url": "https://www.despar.it/it/punto-vendita-eurospar/166/monfalcone/",
+                "operator": "Aspiag",
+                "phone": "+39 0481 710176",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
             "id": 193292092,
             "timestamp": "2023-03-24T12:57:54Z",
             "version": 10,
@@ -3584,6 +3596,39 @@
                 "brand:wikipedia": "en:SPAR (retailer)",
                 "building": "supermarket",
                 "name": "Spar",
+                "shop": "supermarket",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 239206473,
+            "timestamp": "2026-02-03T22:34:34Z",
+            "version": 5,
+            "changeset": 178070548,
+            "user": "alessandrocarmeli",
+            "uid": 12294600,
+            "nodes": [
+                3589764218,
+                12183594745,
+                12183594746,
+                2039917957,
+                2039917968,
+                4102413610,
+                3589764218
+            ],
+            "tags": {
+                "addr:city": "Koper / Capodistria",
+                "addr:housenumber": "3",
+                "addr:postcode": "6000",
+                "addr:street": "Ferrarska ulica / Via Ferrara",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "retail",
+                "building:levels": "1",
+                "check_date:opening_hours": "2022-05-07",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 07:00-20:00",
                 "shop": "supermarket",
                 "wheelchair": "yes"
             }

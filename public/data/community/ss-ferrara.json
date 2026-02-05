@@ -7,7 +7,7 @@
     "idlocalita": "ferrara",
     "telegram_weburl": "https://web.telegram.org/a/#-1001822010158",
     "telegram_app": "https://t.me/SatoshiSpritzFerrara",
-    "telegram_members": 61.0,
+    "telegram_members": 60.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -4479,13 +4479,13 @@
         {
             "type": "node",
             "id": 10255532989,
-            "lat": 44.5279491,
-            "lon": 11.320108,
-            "timestamp": "2024-02-29T13:30:01Z",
-            "version": 2,
-            "changeset": 148052814,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "lat": 44.5279919,
+            "lon": 11.3201026,
+            "timestamp": "2026-01-29T01:13:45Z",
+            "version": 3,
+            "changeset": 177826789,
+            "user": "Plaintelive",
+            "uid": 11644547,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "50",
@@ -4814,13 +4814,13 @@
         {
             "type": "node",
             "id": 11227632443,
-            "lat": 45.2115643,
-            "lon": 11.8893595,
-            "timestamp": "2023-12-15T14:50:02Z",
-            "version": 3,
-            "changeset": 145154427,
-            "user": "Enrico Net",
-            "uid": 20251608,
+            "lat": 45.2114347,
+            "lon": 11.8894484,
+            "timestamp": "2026-01-28T23:51:57Z",
+            "version": 4,
+            "changeset": 177825622,
+            "user": "htwan",
+            "uid": 20161667,
             "tags": {
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
@@ -4859,13 +4859,13 @@
         {
             "type": "node",
             "id": 11420438864,
-            "lat": 45.2115148,
-            "lon": 11.8889507,
-            "timestamp": "2025-10-23T18:50:38Z",
-            "version": 4,
-            "changeset": 173688391,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.2115213,
+            "lon": 11.888878,
+            "timestamp": "2026-01-28T23:51:57Z",
+            "version": 5,
+            "changeset": 177825622,
+            "user": "htwan",
+            "uid": 20161667,
             "tags": {
                 "addr:city": "Conselve",
                 "addr:housenumber": "2",
@@ -5946,12 +5946,15 @@
             "id": 13369980715,
             "lat": 44.4980049,
             "lon": 11.3926282,
-            "timestamp": "2025-12-11T16:59:58Z",
-            "version": 1,
-            "changeset": 175812161,
+            "timestamp": "2026-01-27T16:01:42Z",
+            "version": 2,
+            "changeset": 177769311,
             "user": "Ryccardo",
             "uid": 2884921,
             "tags": {
+                "addr:housenumber": "4/2",
+                "addr:postcode": "40138",
+                "addr:street": "Via Arturo Gazzoni",
                 "amenity": "fuel",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
@@ -5960,7 +5963,10 @@
                 "fuel:octane_95": "yes",
                 "name": "Conad",
                 "opening_hours": "24/7",
+                "operator": "Pianeta srl",
                 "phone": "+39 051 4684554",
+                "ref:mise": "59289",
+                "ref:vatin": "IT03974111209",
                 "self_service": "yes",
                 "self_service:cng": "yes",
                 "website": "https://www.conad.it/ricerca-negozi/conad-self-24h-via-artura-gazzoni-4-2-40138-bologna--050862"
@@ -6033,6 +6039,27 @@
                 "name": "Borgo Delle Erbe",
                 "phone": "+39 353 492 7217",
                 "website": "https://borgomameli.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13524578986,
+            "lat": 45.2368241,
+            "lon": 11.8613395,
+            "timestamp": "2026-02-04T17:03:15Z",
+            "version": 1,
+            "changeset": 178103805,
+            "user": "htwan",
+            "uid": 20161667,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Sevarin Lucio",
+                "ref:mise": "36474"
             }
         },
         {
@@ -6879,30 +6906,6 @@
                 "name": "Tamoil",
                 "operator": "Lima Costa Larissa",
                 "ref:mise": "34907"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1213812591,
-            "timestamp": "2025-02-13T18:38:40Z",
-            "version": 2,
-            "changeset": 162477361,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                5851835221,
-                11245577489,
-                11245577490,
-                11245577491,
-                5851835221
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Sevarin Lucio",
-                "ref:mise": "36474"
             }
         },
         {

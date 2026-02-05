@@ -14,7 +14,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 
 <template>
   <div v-if="pending">
-    <span></span>
+    <UiSkeletonlines />
   </div>
   <div v-else>
     <div v-if="data?.items?.length > 0" >

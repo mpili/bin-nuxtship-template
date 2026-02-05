@@ -12,7 +12,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 </script>
 <template>
   <div>
-    <div v-if="pending"></div>
+    <div v-if="pending">
+      <UiSkeletonlines />
+    </div>
     <div v-else>
       <OsnFeatured v-if="data?.length" :data="data" />
     </div>

@@ -8,7 +8,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
   server: false,
 });
-const selectedValue = ref(20);
+const selectedValue = ref(10);
 </script>
 <template>
 	<div class="my-6">
