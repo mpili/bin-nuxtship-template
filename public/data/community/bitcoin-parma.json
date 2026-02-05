@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001588009167_1",
     "telegram_app": "https://t.me/BitcoinParma",
-    "telegram_members": 33.0,
+    "telegram_members": 22.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1673,6 +1673,25 @@
                 "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:30",
                 "shop": "cosmetics",
                 "website": "https://www.lasaponaria.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4754952046,
+            "lat": 44.7969629,
+            "lon": 10.3018916,
+            "timestamp": "2026-02-04T15:12:26Z",
+            "version": 3,
+            "changeset": 178099444,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "addr:housenumber": "1a",
+                "addr:street": "Largo Luchino Visconti",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {
@@ -5379,6 +5398,29 @@
                 "name": "Unieuro",
                 "phone": "+39 0376 348398",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "way",
+            "id": 235854318,
+            "timestamp": "2026-01-31T12:55:21Z",
+            "version": 3,
+            "changeset": 177924839,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                2439257313,
+                2439257222,
+                2439257175,
+                2439257287,
+                2439257313
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
+                "shop": "supermarket"
             }
         },
         {

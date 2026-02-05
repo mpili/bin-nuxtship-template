@@ -7,7 +7,7 @@
     "idlocalita": "genzano_di_roma",
     "telegram_weburl": "https://web.telegram.org/a/#-1002002948863",
     "telegram_app": "https://t.me/bitcoinbeergenzanodiroma",
-    "telegram_members": 47.0,
+    "telegram_members": 46.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1682,6 +1682,24 @@
         },
         {
             "type": "node",
+            "id": 1885324995,
+            "lat": 41.9564628,
+            "lon": 12.6971302,
+            "timestamp": "2026-01-24T20:18:16Z",
+            "version": 3,
+            "changeset": 177660309,
+            "user": "Simone Iannone",
+            "uid": 3104281,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "operator": "ipermercato",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 1915163981,
             "lat": 41.7905368,
             "lon": 12.6159399,
@@ -2966,7 +2984,7 @@
             "timestamp": "2025-01-16T19:00:40Z",
             "version": 4,
             "changeset": 161430427,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Frosinone",
@@ -7345,7 +7363,7 @@
             "timestamp": "2023-08-18T16:06:51Z",
             "version": 2,
             "changeset": 140064767,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Aprilia",
@@ -7951,11 +7969,11 @@
             "id": 10248418330,
             "lat": 41.8969889,
             "lon": 12.474344,
-            "timestamp": "2025-12-24T08:52:16Z",
-            "version": 5,
-            "changeset": 176343236,
-            "user": "confusedbuffalo",
-            "uid": 242345,
+            "timestamp": "2026-01-25T14:52:20Z",
+            "version": 6,
+            "changeset": 177685066,
+            "user": "Wheninrome",
+            "uid": 23113514,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "6",
@@ -7967,6 +7985,8 @@
                 "currency:XBT": "yes",
                 "description": "Beauty Salon",
                 "email": "maisondebeaute@fastwebnet.it",
+                "female": "yes",
+                "male": "yes",
                 "name": "Maison de Beaut\u00e9 Opera",
                 "opening_hours": "Tu-Sa 09:00-19:00",
                 "payment:lightning": "yes",
@@ -8091,11 +8111,11 @@
             "id": 10758272642,
             "lat": 41.7982037,
             "lon": 12.2978829,
-            "timestamp": "2025-01-06T14:36:31Z",
-            "version": 4,
-            "changeset": 161060852,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2026-01-26T19:31:21Z",
+            "version": 5,
+            "changeset": 177734357,
+            "user": "Mateusz Konieczny - bot account - ATP import",
+            "uid": 22544915,
             "tags": {
                 "addr:city": "Fiumicino",
                 "addr:postcode": "00054",
@@ -8112,6 +8132,7 @@
                 "source": "https://www.italiaoggi.it/news/ikea-apre-a-fiumicino-il-primo-xs-store-d-italia-2596686",
                 "start_date": "2023-03-23",
                 "survey:date": "2024-04-01",
+                "website": "https://www.ikea.com/it/it/stores/roma-fiumicino/",
                 "wheelchair": "yes"
             }
         },
@@ -9012,7 +9033,7 @@
             "timestamp": "2024-03-07T20:31:42Z",
             "version": 1,
             "changeset": 148359036,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Albano Laziale",
@@ -9032,7 +9053,7 @@
             "timestamp": "2024-03-07T20:31:42Z",
             "version": 1,
             "changeset": 148359036,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Albano Laziale",
@@ -9052,7 +9073,7 @@
             "timestamp": "2024-03-07T20:43:50Z",
             "version": 1,
             "changeset": 148359419,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Albano Laziale",
@@ -9089,7 +9110,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Genzano di Roma",
@@ -9109,7 +9130,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "United Colors of Benetton",
@@ -9127,7 +9148,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Mondadori",
@@ -9144,7 +9165,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Intimissimi",
@@ -10138,7 +10159,7 @@
             "timestamp": "2024-06-02T12:37:21Z",
             "version": 1,
             "changeset": 152157953,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Calzedonia",
@@ -10198,7 +10219,7 @@
             "timestamp": "2024-06-02T12:37:21Z",
             "version": 1,
             "changeset": 152157953,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Tezenis",
@@ -10216,7 +10237,7 @@
             "timestamp": "2024-06-02T12:37:21Z",
             "version": 1,
             "changeset": 152157953,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Upim",
@@ -10863,6 +10884,29 @@
         },
         {
             "type": "node",
+            "id": 13140775145,
+            "lat": 41.7349157,
+            "lon": 12.2785049,
+            "timestamp": "2026-01-27T11:27:36Z",
+            "version": 2,
+            "changeset": 177758702,
+            "user": "giorgio92",
+            "uid": 3731185,
+            "tags": {
+                "addr:housenumber": "26/36",
+                "addr:street": "Via delle Gondole",
+                "branch": "Librerie",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "description": "Libreria",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/punto-vendita/lido-di-ostia/lf-ostia/64"
+            }
+        },
+        {
+            "type": "node",
             "id": 13152790657,
             "lat": 41.465125,
             "lon": 12.9043592,
@@ -11017,6 +11061,27 @@
                 "operator": "MediaMarket S.p.A.",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13521568472,
+            "lat": 41.8203056,
+            "lon": 12.4735596,
+            "timestamp": "2026-02-03T14:20:07Z",
+            "version": 2,
+            "changeset": 178053303,
+            "user": "^SiMoNe^",
+            "uid": 23783613,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00144",
+                "addr:street": "Viale dell'Oceano Atlantico",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "self_service": "yes"
             }
         },
         {
@@ -13908,7 +13973,7 @@
             "timestamp": "2024-05-06T19:34:13Z",
             "version": 4,
             "changeset": 150980419,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "nodes": [
                 6253384740,
@@ -14527,7 +14592,7 @@
             "timestamp": "2023-08-18T15:40:07Z",
             "version": 2,
             "changeset": 140063703,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "nodes": [
                 4801802474,
@@ -14757,11 +14822,11 @@
         {
             "type": "way",
             "id": 1060419074,
-            "timestamp": "2022-05-16T05:57:14Z",
-            "version": 1,
-            "changeset": 121033676,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2026-01-30T09:34:21Z",
+            "version": 2,
+            "changeset": 177881289,
+            "user": "MDADS",
+            "uid": 20184279,
             "nodes": [
                 9742689438,
                 585150701,
@@ -14779,6 +14844,7 @@
                 "brand:wikidata": "Q217599",
                 "building": "yes",
                 "name": "Carrefour",
+                "opening_hours": "Mo-Su 08:00-20:30",
                 "shop": "supermarket"
             }
         },
@@ -15547,7 +15613,7 @@
             "timestamp": "2024-05-06T19:34:13Z",
             "version": 2,
             "changeset": 150980419,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "nodes": [
                 11061279836,

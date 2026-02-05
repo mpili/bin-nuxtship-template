@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 175.0,
+    "telegram_members": 179.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1782,6 +1782,25 @@
                 "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:30",
                 "shop": "cosmetics",
                 "website": "https://www.lasaponaria.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4754952046,
+            "lat": 44.7969629,
+            "lon": 10.3018916,
+            "timestamp": "2026-02-04T15:12:26Z",
+            "version": 3,
+            "changeset": 178099444,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "addr:housenumber": "1a",
+                "addr:street": "Largo Luchino Visconti",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {

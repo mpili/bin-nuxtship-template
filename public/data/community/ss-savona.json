@@ -4286,6 +4286,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13482099860,
+            "lat": 44.1253175,
+            "lon": 8.2577925,
+            "timestamp": "2026-01-24T16:54:39Z",
+            "version": 1,
+            "changeset": 177653806,
+            "user": "Paolitosss",
+            "uid": 20900475,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
             "type": "way",
             "id": 24025851,
             "timestamp": "2025-10-23T10:22:30Z",
@@ -4485,11 +4502,11 @@
         {
             "type": "way",
             "id": 202169317,
-            "timestamp": "2025-10-22T09:27:20Z",
-            "version": 7,
-            "changeset": 173617662,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-24T17:48:27Z",
+            "version": 8,
+            "changeset": 177655913,
+            "user": "Paolitosss",
+            "uid": 20900475,
             "nodes": [
                 2121464461,
                 10768242102,
@@ -4497,6 +4514,7 @@
                 10768316709,
                 10768316706,
                 2121464449,
+                13482227009,
                 2121464454,
                 2121464446,
                 2121464455,

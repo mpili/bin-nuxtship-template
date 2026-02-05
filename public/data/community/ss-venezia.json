@@ -7,7 +7,7 @@
     "idlocalita": "venezia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001736095627",
     "telegram_app": "https://t.me/SatoshiSpritzVenezia",
-    "telegram_members": 84.0,
+    "telegram_members": 83.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -5811,13 +5811,13 @@
         {
             "type": "node",
             "id": 11227632443,
-            "lat": 45.2115643,
-            "lon": 11.8893595,
-            "timestamp": "2023-12-15T14:50:02Z",
-            "version": 3,
-            "changeset": 145154427,
-            "user": "Enrico Net",
-            "uid": 20251608,
+            "lat": 45.2114347,
+            "lon": 11.8894484,
+            "timestamp": "2026-01-28T23:51:57Z",
+            "version": 4,
+            "changeset": 177825622,
+            "user": "htwan",
+            "uid": 20161667,
             "tags": {
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
@@ -6011,13 +6011,13 @@
         {
             "type": "node",
             "id": 11420438864,
-            "lat": 45.2115148,
-            "lon": 11.8889507,
-            "timestamp": "2025-10-23T18:50:38Z",
-            "version": 4,
-            "changeset": 173688391,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.2115213,
+            "lon": 11.888878,
+            "timestamp": "2026-01-28T23:51:57Z",
+            "version": 5,
+            "changeset": 177825622,
+            "user": "htwan",
+            "uid": 20161667,
             "tags": {
                 "addr:city": "Conselve",
                 "addr:housenumber": "2",
@@ -6056,17 +6056,18 @@
             "id": 11600298458,
             "lat": 45.7886513,
             "lon": 12.6778123,
-            "timestamp": "2024-02-09T00:49:18Z",
-            "version": 1,
-            "changeset": 147237744,
-            "user": "Carlofrc",
-            "uid": 588899,
+            "timestamp": "2026-01-29T01:26:22Z",
+            "version": 2,
+            "changeset": 177826958,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
             "tags": {
                 "addr:city": "Annone Veneto",
                 "addr:housenumber": "30/A",
                 "addr:postcode": "30020",
                 "addr:street": "Via Oltrefossa",
                 "check_date:currency:XBT": "2023-02-21",
+                "currency:LTC": "yes",
                 "currency:XBT": "yes",
                 "email": "netwir@netwir.com",
                 "fax": "+39 0422 868437",
@@ -6077,7 +6078,6 @@
                 "payment:cash": "yes",
                 "payment:coins": "yes",
                 "payment:debit_cards": "no",
-                "payment:litecoin": "yes",
                 "payment:maestro": "no",
                 "payment:mastercard": "yes",
                 "payment:visa": "yes",
@@ -7356,6 +7356,27 @@
             }
         },
         {
+            "type": "node",
+            "id": 13524578986,
+            "lat": 45.2368241,
+            "lon": 11.8613395,
+            "timestamp": "2026-02-04T17:03:15Z",
+            "version": 1,
+            "changeset": 178103805,
+            "user": "htwan",
+            "uid": 20161667,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Sevarin Lucio",
+                "ref:mise": "36474"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2025-10-23T10:23:41Z",
@@ -8058,30 +8079,6 @@
                 "shop": "supermarket",
                 "website": "https://www.despar.it/it/punto-vendita-eurospar/136/vigonovo/",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1213812591,
-            "timestamp": "2025-02-13T18:38:40Z",
-            "version": 2,
-            "changeset": 162477361,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                5851835221,
-                11245577489,
-                11245577490,
-                11245577491,
-                5851835221
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Sevarin Lucio",
-                "ref:mise": "36474"
             }
         },
         {
