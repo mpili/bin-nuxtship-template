@@ -12,6 +12,12 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  // Dice a Vue di non trattare i tag "nostr-*" come componenti Vue
+  vue: {
+    compilerOptions: {
+      isCustomElement: (tag) => tag.startsWith('nostr-')
+    }
+  },
   modules: ['nuxt-icon', '@nuxtjs/robots', "nuxt3-leaflet", "nuxt-gtag", "@nuxt/image", "@nuxtjs/sitemap"],
   robots: {
     configPath: 'config/robots.js',
