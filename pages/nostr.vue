@@ -17,7 +17,7 @@ const pubkey="83f6c8d35a3911e5d656a944dfaed914df9dbe119056a04cfbb4f3c1cdcacb5d";
 
 <template>
   <LandingContainer>
-    <h1>Benvenuto nella pagina di test dei componenti Nostr</h1>
+    <h1>Pagina di test dei componenti Nostr</h1>
     <ClientOnly>
       <hr />
 
