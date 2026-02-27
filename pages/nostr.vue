@@ -8,6 +8,11 @@ useHead({
 definePageMeta({
   layout: "main",
 });
+
+const relays="wss://relay.primal.net,wss://relay.damus.io,wss://relay.nostr.band,wss://nos.lol,wss://purplepag.es";
+const nip05="bin@bitcoinitalianetwork.com";
+const npub="npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw";
+const pubkey="83f6c8d35a3911e5d656a944dfaed914df9dbe119056a04cfbb4f3c1cdcacb5d";
 </script>
 
 <template>
@@ -15,25 +20,55 @@ definePageMeta({
     <h1>Benvenuto nella pagina di test dei componenti Nostr</h1>
     <ClientOnly>
       <hr />
-      <h2>Nostr zap button</h2>
+
+      <h2>Zap button</h2>
+      <!-- nip05="bin@bitcoinitalianetwork.com" -->
       <nostr-zap-button
-        nip05="bin@bitcoinitalianetwork.com"
+        :npub="npub"
         url="https://bitcoinitalianetwork.com/nostr"
-        relays="wss://relay.primal.net,wss://relay.damus.io,wss://relay.nostr.band,wss://nos.lol"
+        :relays="relays"
       ></nostr-zap-button>
+
       <hr />
-      <h2>Nostr like button</h2>
+
+      <h2>Like button</h2>
       <nostr-like-button
-        relays="wss://relay.primal.net,wss://relay.damus.io,wss://relay.nostr.band,wss://nos.lol"
+        :relays="relays"
       ></nostr-like-button>
       <hr />
 
+      <h2>Post</h2>
+
+      <nostr-post
+        eventId="nevent1qqswfvks5gwxamgqjdujp5f0u3jr0zyxjdjjq65avc6sl0uwcwhh7fgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgq3qs0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edwsenydjd"
+        :relays="relays"
+      ></nostr-post>
+
       <hr />
-      <h2>Nostr profile</h2>
+
+      <h2>Follow button</h2>
+      <nostr-follow-button
+        :npub="npub"
+        :relays="relays"
+      ></nostr-follow-button>
+
+      <hr />
+
+      <h2>Badge</h2>
+      <!-- pubkey="npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw" -->
+      <nostr-profile-badge
+        :npub="npub"
+        :relays="relays"
+      ></nostr-profile-badge>
+
+      <hr />
+
+      <h2>Profile</h2>
       <nostr-profile
-        npub="npub1s0mv35668yg7t4jk49zdltkezn0em0s3jpt2qn8mkneurnw2edws0uy9zw"
-        relays="wss://relay.primal.net,wss://relay.damus.io,wss://relay.nostr.band,wss://nos.lol"
+        :npub="npub"
+        :relays="relays"
       ></nostr-profile>
+
       <hr />
     </ClientOnly>
   </LandingContainer>
