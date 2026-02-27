@@ -1,7 +1,7 @@
 <script setup>
 const isDev = process.dev;
 
-const titolo = "Pagina test componenti Nostr - [a]"
+const titolo = "Pagina test componenti Nostr - [b]"
 
 useHead({
   title: titolo,

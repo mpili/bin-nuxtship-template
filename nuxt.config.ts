@@ -59,4 +59,17 @@ export default defineNuxtConfig({
       ]
     }
   },
+
+
+  // Configurazione per evitare la suddivisione in chunk durante la build con Vite
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: undefined
+        }
+      }
+    }
+  }
+
 });
