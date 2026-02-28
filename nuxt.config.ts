@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  compatibilityDate: '2026-02-27',
   site: {
     url: 'https://bitcoinitalianetwork.com/',
     name: 'Bitcoin Italia Network',
@@ -18,7 +19,7 @@ export default defineNuxtConfig({
       isCustomElement: (tag) => tag.startsWith('nostr-')
     }
   },
-  modules: ['nuxt-icon', '@nuxtjs/robots', "nuxt3-leaflet", "nuxt-gtag", "@nuxt/image", "@nuxtjs/sitemap"],
+  modules: ['nuxt-icon', '@nuxtjs/robots', "@nuxtjs/leaflet", "nuxt-gtag", "@nuxt/image", "@nuxtjs/sitemap"],
   robots: {
     configPath: 'config/robots.js',
   },
@@ -59,17 +60,4 @@ export default defineNuxtConfig({
       ]
     }
   },
-
-
-  // Configurazione per evitare la suddivisione in chunk durante la build con Vite
-  vite: {
-    build: {
-      rollupOptions: {
-        output: {
-          manualChunks: undefined
-        }
-      }
-    }
-  }
-
 });
