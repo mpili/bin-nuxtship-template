@@ -13,12 +13,17 @@ export default defineNuxtConfig({
       isCustomElement: (tag) => tag.startsWith('nostr-')
     }
   },
+  vite: {
+    optimizeDeps: {
+      exclude: ['nostr-components']
+    }
+  },
   modules: [
-	'nuxt-icon',
-	'@nuxtjs/robots',
-	"@nuxtjs/leaflet",
-	"nuxt-gtag",
-	"@nuxt/image",
-	"@nuxtjs/sitemap",
+    'nuxt-icon',
+    '@nuxtjs/robots',
+    "@nuxtjs/leaflet",
+    "nuxt-gtag",
+    "@nuxt/image",
+    "@nuxtjs/sitemap",
   ],
 })
