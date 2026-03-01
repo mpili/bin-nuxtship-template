@@ -1,7 +1,7 @@
 <script setup>
 const isDev = process.dev;
 
-const titolo = "Pagina test componenti Nostr - [b]"
+const titolo = "Pagina test componenti Nostr - [2026-03-01 a 3]"
 
 useHead({
   title: titolo,

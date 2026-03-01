@@ -21,6 +21,6 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     <span class="loading loading-spinner loading-xs"></span>
   </div>
   <div v-else>
-    <EventiCarousel :eventi="data.items" />
+    <EventiCarousel :eventi="data?.items ?? []" />
   </div>
 </template>
