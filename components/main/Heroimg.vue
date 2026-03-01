@@ -1,7 +1,7 @@
 <template>
-  <img
+  <NuxtImg
     class="rounded-full transition-transform transform hover:scale-125"
-    src="~/assets/img/a06-w.png"
+    src="/img/mainheroimg.png"
     alt="Starship starts the engine"
     loading="eager"
     format="avif"

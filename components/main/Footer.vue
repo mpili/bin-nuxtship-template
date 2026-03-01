@@ -101,7 +101,7 @@ const vocimenu = [
     class="footer bg-base-200 text-base-content border-base-300 border-t px-10 py-4"
   >
     <aside class="grid-flow-col items-center">
-      <img class="h-20" src="~/assets/img/a06-w.png" alt="BIN logo" />
+      <NuxtImg class="h-20" src="/img/mainheroimg.png" alt="BIN logo" />
       <p>
         Bitcoin Italia Network
         <br />
