@@ -16,6 +16,15 @@ export default defineNuxtConfig({
   vite: {
     optimizeDeps: {
       exclude: ['nostr-components']
+    },
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            'nostr': ['nostr-components']
+          }
+        }
+      }
     }
   },
   modules: [
