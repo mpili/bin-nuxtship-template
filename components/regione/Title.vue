@@ -8,7 +8,7 @@ useSeoMeta({
   ogTitle: title,
   description: description,
   ogDescription: description,
-  ogImage: "https://bitcoinitalianetwork.com/img/regione/" + props.data.id + ".png",
+  ogImage: "https://bitcoinitalianetwork.com/img/regione/" + props?.data?.id + ".png",
   twitterCard: 'summary_large_image',
 });
 </script>

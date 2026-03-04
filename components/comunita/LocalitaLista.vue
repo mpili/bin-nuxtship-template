@@ -15,7 +15,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   <div v-else>
     <div class="border-1 my-2 rounded shadow font-bold">
       <div class="grid gap-2 grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-        <div v-for="item of data.localita" class="py-2">
+        <div v-for="item of data?.localita" class="py-2">
           <NuxtLink :to="`/l/${item.id}`">
             <!-- component -->
             <div class="flex justify-center items-center">

@@ -7,10 +7,10 @@ const breadcrumb = computed(() => [
 		path: "/regioni",
 	},
 	{
-		label: props.data.regione.name,
-		path: "/regione/"+props.data.regione.slug,
+		label: props.data?.regione?.name,
+		path: "/regione/"+props.data?.regione?.slug,
 	},
-	{ label: "Provincia di "+props.data.name, },
+	{ label: "Provincia di "+props.data?.name, },
 ]);
 </script>
 

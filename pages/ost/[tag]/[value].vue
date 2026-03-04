@@ -70,11 +70,11 @@ definePageMeta({
     </div>
     <div v-else class="my-6">
     <!-- <div class="my-6"> -->
-      <OstMap :pois="data.elements" />
+      <OstMap :pois="data?.elements" />
 
-      <OnwListapoi :datapois="data.elements" />
+      <OnwListapoi :datapois="data?.elements" />
 
-      <!-- <div v-for="poi in data.elements">
+      <!-- <div v-for="poi in data?.elements">
         <OsnLinelink :poi="poi" />
       </div> -->
 

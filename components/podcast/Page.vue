@@ -7,17 +7,17 @@ const breadcrumb = computed(() => [
     path: "/podcast",
   },
   {
-    label: props.podc.nome,
+    label: props.podc?.nome,
   },
 ]);
 
 useHead({
-  title: props.podc.nome + " | Bitcoin Italia Network",
+  title: props.podc?.nome + " | Bitcoin Italia Network",
   meta: [
     {
       name: "description",
       content:
-        "Il podcast " + props.podc.nome + " che parla di Bitcoin in Italiano.",
+        "Il podcast " + props.podc?.nome + " che parla di Bitcoin in Italiano.",
     },
   ],
   link: [
@@ -33,7 +33,7 @@ useHead({
   <div>
     <LandingSectionhead>
       <template v-slot:title>
-        {{ podc.nome }}
+        {{ podc?.nome }}
       </template>
     </LandingSectionhead>
     <LandingBreadcrumb :voci="breadcrumb" />
@@ -42,23 +42,23 @@ useHead({
     >
       <div class="flex-none w-48 pb-4 relative">
         <NuxtImg
-          :src="podc.img"
+          :src="podc?.img"
           format="webp"
           class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
         />
       </div>
       
       <!-- Description section -->
-      <div v-if="podc.descrizione" class="mb-6">
-        <p class="text-gray-700">{{ podc.descrizione }}</p>
+      <div v-if="podc?.descrizione" class="mb-6">
+        <p class="text-gray-700">{{ podc?.descrizione }}</p>
       </div>
 
       <OsnTagwebsite
-        v-if="podc.sito"
-        :url="podc.sito"
+        v-if="podc?.sito"
+        :url="podc?.sito"
       />
 
-      <PodcastApps :podcapps="podc.apps" />
+      <PodcastApps :podcapps="podc?.apps" />
     </div>
   </div>
 </template>

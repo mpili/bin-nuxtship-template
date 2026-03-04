@@ -1,9 +1,9 @@
 <script setup>
 const props = defineProps(["daticomune", "center", "km"]);
-const d = props.daticomune.elements[0];
+const d = props.daticomune?.elements[0];
 const km = props.km;
-const lat = d.center.lat;
-const lon = d.center.lon;
+const lat = d?.center.lat;
+const lon = d?.center.lon;
 const around = "(around:"+km+"000,"+lat+","+lon+")";
 const osn_tipo =  "nwr";
 const q1 = `${osn_tipo}["currency:XBT"="yes"]`+around;
@@ -24,8 +24,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
 		<UiSkeleton />
     </div>
 	<div v-else class="my-6">
-		<OstMap :pois="data.elements" />
-		<OnwListapoi :datapois="data.elements" />
+		<OstMap :pois="data?.elements" />
+		<OnwListapoi :datapois="data?.elements" />
 	</div>
 	<MainRivelaerror :error="error" />
 </template>

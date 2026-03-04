@@ -43,7 +43,7 @@ useHead({
   <div class="grid place-items-center pt-4">
     <!--
     <NuxtImg
-      :src="`/img/l/${data.idlocalita}.jpg`"
+      :src="`/img/l/${data?.idlocalita}.jpg`"
       class="aspect-square max-h-96 rounded-xl z-10"
     />
     -->
@@ -89,7 +89,7 @@ useHead({
           </div>
           <div v-if="data?.facebook">
             <ComunitaButton
-              :href="data.facebook"
+              :href="data?.facebook"
               :icona="'mdi:facebook'"
               testo="facebook"
             />
@@ -109,10 +109,10 @@ useHead({
       :use-global-leaflet="false"
     >
       <MainLTileLayer />
-      <ComunitaPoimarker v-for="poi of data.poi" :poi="poi" />
+      <ComunitaPoimarker v-for="poi of data?.poi" :poi="poi" />
     </LMap>
   </div>
 
-  <OnwListapoi :datapois="data.poi" />
+  <OnwListapoi :datapois="data?.poi" />
   <LandingDisclaimer />
 </template>

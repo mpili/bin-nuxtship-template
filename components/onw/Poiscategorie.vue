@@ -33,7 +33,7 @@ const groupedPois = computed(() => {
 </script>
 
 <template>
-  <section v-if="datapois.length > 0" class="py-4 space-y-2">
+  <section v-if="datapois?.length > 0" class="py-4 space-y-2">
     <div
       v-for="(pois, categoria) in groupedPois"
       :key="categoria"
@@ -42,7 +42,7 @@ const groupedPois = computed(() => {
       <input type="radio" name="my-accordion-2" />
       <div class="collapse-title text-xl font-medium">
         <div class="indicator">
-          <span class="indicator-item badge badge-primary">{{pois.length}}</span>
+          <span class="indicator-item badge badge-primary">{{pois?.length}}</span>
           <button class="btn">{{ categoria }}</button>
         </div>
       </div>
