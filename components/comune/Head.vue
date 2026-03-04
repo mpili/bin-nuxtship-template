@@ -15,9 +15,9 @@ const { pending, data, error } = await useLazyFetch(url_api, {
     <ComuneTitle :data="data" />
     <ComuneBreadcrumb :comune="data" />
     <LandingSectionhead>
-      <template v-slot:title>{{ data["name"] }}</template>
+      <template v-slot:title>{{ data?.name }}</template>
       <template v-slot:desc
-        >Dove puoi comprare pagando in bitcoin a {{ data["name"] }}</template
+        >Dove puoi comprare pagando in bitcoin a {{ data?.name }}</template
       >
     </LandingSectionhead>
     <LocalitaEventi :city="data?.name" />

@@ -7,8 +7,8 @@ const props = defineProps(["data"]);
 	<!-- <div class="flex flex-wrap">
 		<RegioneScheda
 			class="m-2"
-			v-for="item in data.elements" :data="item"
+			v-for="item in data?.elements" :data="item"
 		/>
 	</div> -->
-	<RegioneSchede :items="data.elements" />
+	<RegioneSchede :items="data?.elements" />
 </template>

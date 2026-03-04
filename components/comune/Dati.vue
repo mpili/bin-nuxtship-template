@@ -19,7 +19,7 @@ const selectedValue = ref(10);
 		<div v-else>
 			<ComunePoisaround
 				:daticomune="data"
-				:center="data.elements[0].center"
+				:center="data?.elements[0]?.center"
 				:km="selectedValue"
 				:key="selectedValue"
 			/>

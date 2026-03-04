@@ -1,17 +1,19 @@
 <script setup>
 const props = defineProps(["data"]);
 
-const breadcrumb = computed(() => [
-	{
-		label: "Regioni",
-		path: "/regioni",
-	},
-	{
-		label: props.data['name'],
-	},
-]);
+if (props?.data) {
+  const breadcrumb = computed(() => [
+    {
+      label: "Regioni",
+      path: "/regioni",
+    },
+    {
+      label: props?.data["name"],
+    },
+  ]);
+}
 </script>
 
 <template>
-	<LandingBreadcrumb :voci="breadcrumb" />
+  <LandingBreadcrumb :voci="breadcrumb" />
 </template>
