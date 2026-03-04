@@ -1,35 +1,37 @@
 <script setup>
 const props = defineProps(["evento"]);
 
-const breadcrumb = computed(() => [
-  {
-    label: "Eventi",
-    path: "/eventi",
-  },
-  {
-    label: props.evento.titolo,
-  },
-]);
-
-const ogImage = props.evento.img
-  ? `https://bin-dev.pockethost.io/api/files/eventi/${props.evento.id}/${props.evento.img}`
-  : '';
-
-useHead({
-  title: props?.evento?.titolo + " | Bitcoin Italia Network",
-  link: [
+if (props.evento) {
+  const breadcrumb = computed(() => [
     {
-      rel: "canonical",
-      href: `https://bitcoinitalianetwork.com/evento/${props?.evento?.id}`,
+      label: "Eventi",
+      path: "/eventi",
     },
-  ],
-  meta: [
     {
-      property: 'og:image',
-      content: ogImage,
+      label: props.evento.titolo,
     },
-  ],
-});
+  ]);
+
+  const ogImage = props.evento.img
+    ? `https://bin-dev.pockethost.io/api/files/eventi/${props.evento.id}/${props.evento.img}`
+    : "";
+
+  useHead({
+    title: props?.evento?.titolo + " | Bitcoin Italia Network",
+    link: [
+      {
+        rel: "canonical",
+        href: `https://bitcoinitalianetwork.com/evento/${props?.evento?.id}`,
+      },
+    ],
+    meta: [
+      {
+        property: "og:image",
+        content: ogImage,
+      },
+    ],
+  });
+}
 </script>
 
 <template>
@@ -38,16 +40,16 @@ useHead({
   </LandingSectionhead>
   <LandingBreadcrumb :voci="breadcrumb" />
 
-  <div class="my-4">
+  <div v-if="evento" class="my-4">
     <UiEvent
-    :event="{
-      date: evento?.data,
-      title: evento?.titolo,
-      image: useEventoImg(evento),
-      description: evento?.descrizionex,
-      location: evento?.location,
-      city: evento?.city
-    }"
+      :event="{
+        date: evento?.data,
+        title: evento?.titolo,
+        image: useEventoImg(evento),
+        description: evento?.descrizionex,
+        location: evento?.location,
+        city: evento?.city,
+      }"
     />
   </div>
   <EventiNostr v-if="evento?.nostr_id" :nostr_id="evento?.nostr_id" />
