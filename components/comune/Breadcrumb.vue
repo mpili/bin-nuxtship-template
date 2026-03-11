@@ -4,29 +4,38 @@ import regioni from "~/assets/data/regioni_id.json";
 
 const props = defineProps(["comune"]);
 
-const provincia = province[props.comune?.idprovincia];
-if (provincia) {
-  const provinciaidregione = provincia["idregione"];
-  const provincianame = provincia["name"];
+const provincia = props.comune ? province[props.comune.idprovincia] : null;
+const provinciaidregione = provincia?.idregione;
+const provincianame = provincia?.name || "Provincia";
 
-  const regione = regioni[provinciaidregione];
+const regione = provinciaidregione ? regioni[provinciaidregione] : null;
 
-  const breadcrumb = computed(() => [
+const breadcrumb = computed(() => {
+  const items = [
     {
       label: "Regioni",
       path: "/regioni",
     },
-    {
-      label: regione["name"],
-      path: "/regione/" + regione["slug"],
-    },
-    {
+  ];
+
+  if (regione) {
+    items.push({
+      label: regione?.name || "Regione",
+      path: "/regione/" + (regione?.slug || ""),
+    });
+  }
+
+  if (provincia) {
+    items.push({
       label: "Provincia di " + provincianame,
       path: "/provincia/" + useSlugify(provincianame),
-    },
-    { label: props.comune?.name },
-  ]);
-}
+    });
+  }
+
+  items.push({ label: props.comune?.name || "Comune" });
+
+  return items;
+});
 </script>
 
 <template>

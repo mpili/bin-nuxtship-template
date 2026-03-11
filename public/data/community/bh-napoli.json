@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinapoli",
     "telegram_app": "https://t.me/bitcoinapoli",
-    "telegram_members": 23.0,
+    "telegram_members": 20.0,
     "poi": [
         {
             "type": "node",
@@ -2012,11 +2012,11 @@
             "id": 5257721032,
             "lat": 40.8387556,
             "lon": 14.2482341,
-            "timestamp": "2025-11-13T17:14:59Z",
-            "version": 4,
-            "changeset": 174615145,
-            "user": "clorofolle",
-            "uid": 23413670,
+            "timestamp": "2026-03-03T16:10:09Z",
+            "version": 5,
+            "changeset": 179308135,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Napoli",
                 "addr:housenumber": "259;260",
@@ -2031,7 +2031,29 @@
                 "phone": "+39 081 403286",
                 "shop": "clothes",
                 "source": "mapillary",
-                "website": "https://it.tezenis.com/store/NAPOLI-VIA-TOLEDO-259-260/6555.uts"
+                "website": "https://it.tezenis.com/store/NAPOLI-VIA-TOLEDO-259-260/6555.uts",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5257721043,
+            "lat": 40.8390575,
+            "lon": 14.2482801,
+            "timestamp": "2026-03-03T16:37:13Z",
+            "version": 2,
+            "changeset": 179308118,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:housenumber": "270",
+                "addr:postcode": "80132",
+                "addr:street": "Via Toledo",
+                "brand": "L'Erbolario",
+                "brand:wikidata": "Q116304294",
+                "name": "L'Erbolario",
+                "shop": "herbalist"
             }
         },
         {
@@ -2116,11 +2138,11 @@
             "id": 5292237482,
             "lat": 40.8422677,
             "lon": 14.2486761,
-            "timestamp": "2025-10-02T08:28:09Z",
-            "version": 3,
-            "changeset": 172737781,
-            "user": "baprischka",
-            "uid": 974272,
+            "timestamp": "2026-03-03T16:01:09Z",
+            "version": 4,
+            "changeset": 179308135,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Napoli",
                 "addr:housenumber": "331;332;333",
@@ -2133,7 +2155,8 @@
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 10:00-20:30",
                 "phone": "+39 081 2512143",
                 "shop": "houseware",
-                "website": "https://www.kasanova.it/"
+                "website": "https://www.kasanova.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2167,11 +2190,11 @@
             "id": 5347559118,
             "lat": 40.8429692,
             "lon": 14.2487328,
-            "timestamp": "2023-07-12T09:14:03Z",
-            "version": 3,
-            "changeset": 138413393,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-03T16:00:19Z",
+            "version": 4,
+            "changeset": 179308135,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Napoli",
                 "addr:housenumber": "343",
@@ -2184,7 +2207,8 @@
                 "phone": "+39 06 32832405",
                 "shop": "clothes",
                 "source": "mapillary",
-                "website": "https://www2.hm.com/it_it/"
+                "website": "https://www2.hm.com/it_it/",
+                "wheelchair": "limited"
             }
         },
         {
@@ -6051,25 +6075,6 @@
         },
         {
             "type": "node",
-            "id": 9105876038,
-            "lat": 40.9318557,
-            "lon": 14.5170839,
-            "timestamp": "2024-03-29T06:28:06Z",
-            "version": 4,
-            "changeset": 149297006,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "brand": "Upim",
-                "brand:wikidata": "Q1414836",
-                "brand:wikipedia": "en:UPIM",
-                "name": "Upim",
-                "shop": "department_store",
-                "website": "https://www.upim.com/"
-            }
-        },
-        {
-            "type": "node",
             "id": 9111889092,
             "lat": 40.9120102,
             "lon": 14.3905323,
@@ -6462,27 +6467,6 @@
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9250836604,
-            "lat": 41.0587011,
-            "lon": 14.6502054,
-            "timestamp": "2021-11-14T16:14:39Z",
-            "version": 1,
-            "changeset": 113769636,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Montesarchio",
-                "addr:street": "Via Benevento",
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "brand:wikipedia": "en:Benetton Group",
-                "name": "United Colors of Benetton",
-                "shop": "clothes",
-                "short_name": "Benetton"
             }
         },
         {
@@ -9051,26 +9035,6 @@
         },
         {
             "type": "node",
-            "id": 11757911914,
-            "lat": 40.6616406,
-            "lon": 14.7955709,
-            "timestamp": "2025-10-25T20:49:01Z",
-            "version": 2,
-            "changeset": 173772068,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Salerno",
-                "addr:postcode": "84129",
-                "addr:street": "Lungomare Cristoforo Colombo",
-                "brand": "Chicco",
-                "brand:wikidata": "Q27897515",
-                "name": "Chicco",
-                "shop": "baby_goods"
-            }
-        },
-        {
-            "type": "node",
             "id": 11762088507,
             "lat": 40.6355363,
             "lon": 14.9072231,
@@ -9365,100 +9329,46 @@
         },
         {
             "type": "node",
-            "id": 11938374731,
-            "lat": 40.9338464,
-            "lon": 14.3568569,
-            "timestamp": "2024-06-16T03:25:39Z",
-            "version": 2,
-            "changeset": 152743846,
-            "user": "Rockedf",
-            "uid": 7522075,
-            "tags": {
-                "addr:city": "Afragola",
-                "addr:housenumber": "1",
-                "addr:postcode": "80021",
-                "addr:street": "Via Santa Maria la Nova",
-                "amenity": "atm",
-                "cash_in": "yes",
-                "cash_out": "yes",
-                "cash_withdrawal": "yes",
-                "check_date": "2024-05-27",
-                "contact:email": "support@shitcoins.club",
-                "contact:facebook": "https://www.facebook.com/shitcoins.club",
-                "contact:instagram": "https://www.instagram.com/shitcoinsclub",
-                "contact:telegram": "https://t.me/shitcoinsclub",
-                "contact:twitter": "https://twitter.com/BitomatCom",
-                "currency:CHF": "yes",
-                "currency:DASH": "yes",
-                "currency:ETH": "yes",
-                "currency:EUR": "yes",
-                "currency:GBP": "yes",
-                "currency:HUF": "yes",
-                "currency:LTC": "yes",
-                "currency:RON": "yes",
-                "currency:USD": "yes",
-                "currency:USDC": "yes",
-                "currency:USDT": "yes",
-                "currency:XBT": "yes",
-                "indoor": "yes",
-                "name": "Bitcoin ATM - Shitcoins.club",
-                "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 19:00-21:00",
-                "operator": "Shitcoins.club",
-                "payment:cash": "yes",
-                "payment:lightning": "no",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "+39 34 8048 7308",
-                "website": "https://shitcoins.club/localizzazione-atm/bitcoin-bancomat-napoli-centro-commerciale-le-porte-di-napoli"
-            }
-        },
-        {
-            "type": "node",
             "id": 11954291648,
-            "lat": 40.8793936,
-            "lon": 14.1126243,
-            "timestamp": "2024-06-03T18:00:05Z",
-            "version": 1,
-            "changeset": 152211461,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "lat": 40.8790307,
+            "lon": 14.1117872,
+            "timestamp": "2026-02-19T01:11:39Z",
+            "version": 2,
+            "changeset": 178748707,
+            "user": "descubrebitcoin",
+            "uid": 17565129,
             "tags": {
-                "addr:city": "Napoli",
-                "addr:housenumber": "76",
-                "addr:postcode": "80010",
-                "addr:street": "Via Masullo",
                 "amenity": "atm",
                 "cash_in": "yes",
                 "cash_out": "yes",
-                "cash_withdrawal": "yes",
-                "check_date": "2024-06-03",
-                "contact:email": "support@shitcoins.club",
+                "check_date": "2026-02-18",
+                "contact:email": "support@bitomat.com",
                 "contact:facebook": "https://www.facebook.com/shitcoins.club",
                 "contact:instagram": "https://www.instagram.com/shitcoinsclub",
+                "contact:phone": "+39 34 8048 7308",
                 "contact:telegram": "https://t.me/shitcoinsclub",
                 "contact:twitter": "https://twitter.com/BitomatCom",
                 "currency:CHF": "yes",
-                "currency:DASH": "yes",
                 "currency:ETH": "yes",
                 "currency:EUR": "yes",
                 "currency:GBP": "yes",
-                "currency:HUF": "yes",
                 "currency:LTC": "yes",
                 "currency:RON": "yes",
                 "currency:USD": "yes",
                 "currency:USDC": "yes",
                 "currency:USDT": "yes",
                 "currency:XBT": "yes",
+                "image": "https://cdn.prod.website-files.com/634dbcb509aa9c6937307499/685bf5b5ed2f57a632879a01_6708ea8bc17d4ec68208ef39_atm-bitcoin-napoli%2520(2).jpeg",
                 "indoor": "yes",
-                "name": "Bitcoin ATM - Shitcoins.club",
+                "name": "Bitomat Bitcoin ATM",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
-                "operator": "Shitcoins.club",
+                "operator": "Bitomat",
                 "payment:cash": "yes",
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "+39 34 8048 7308",
-                "website": "https://shitcoins.club/localizzazione-atm/bitcoin-bancomat-napoli-centro-commerciale-quarto-nuovo-"
+                "url": "https://coinatmradar.com/bitcoin_atm/29525/bitcoin-atm-bitomat-naples-centro-commerciale-quarto-nuovo-napoli/",
+                "website": "https://www.bitomat.com/it/bancomat-bitcoin/bitcoin-bancomat-napoli-centro-commerciale-quarto-nuovo"
             }
         },
         {
@@ -10465,6 +10375,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13614950947,
+            "lat": 40.8383796,
+            "lon": 14.2485626,
+            "timestamp": "2026-03-03T16:32:23Z",
+            "version": 2,
+            "changeset": 179308135,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician",
+                "wheelchair": "limited"
+            }
+        },
+        {
             "type": "way",
             "id": 103190545,
             "timestamp": "2025-10-23T10:25:27Z",
@@ -11338,40 +11265,6 @@
         },
         {
             "type": "way",
-            "id": 520485954,
-            "timestamp": "2023-09-22T15:45:59Z",
-            "version": 5,
-            "changeset": 141610944,
-            "user": "napsav",
-            "uid": 10952513,
-            "nodes": [
-                5072901478,
-                5072901479,
-                5072901480,
-                5072901481,
-                6856102978,
-                6856102979,
-                6856102774,
-                5072901478
-            ],
-            "tags": {
-                "addr:city": "Nola",
-                "addr:country": "IT",
-                "addr:postcode": "80035",
-                "addr:street": "Via Variante 7 Bis",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:lpg": "yes",
-                "fuel:petrol": "yes",
-                "name": "Q8",
-                "operator": "Q8"
-            }
-        },
-        {
-            "type": "way",
             "id": 568385026,
             "timestamp": "2022-11-28T11:00:46Z",
             "version": 3,
@@ -11425,6 +11318,50 @@
                 "name": "Tamoil",
                 "operator": "T.D.M. S.R.L.",
                 "ref:mise": "33883"
+            }
+        },
+        {
+            "type": "way",
+            "id": 608690966,
+            "timestamp": "2026-02-17T19:56:49Z",
+            "version": 3,
+            "changeset": 178695870,
+            "user": "Comino",
+            "uid": 6794624,
+            "nodes": [
+                5766295462,
+                5766295463,
+                5766295464,
+                5766295465,
+                5766295466,
+                5766295462
+            ],
+            "tags": {
+                "addr:city": "Napoli",
+                "addr:housenumber": "84",
+                "addr:postcode": "80126",
+                "addr:street": "Via Risorgimento",
+                "building": "commercial",
+                "check_date": "2026-02-17",
+                "check_date:currency:XBT": "2026-02-17",
+                "contact:facebook": "https://www.facebook.com/387163491430184",
+                "contact:instagram": "salvaccarotattoo",
+                "currency:XBT": "yes",
+                "email": "info@salvaccarotattoo.it",
+                "name": "Sal Vaccaro Tattoo Studio",
+                "opening_hours": "Mo-Sa 11:00-20:00",
+                "operator": "Sal Vaccaro",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:mastercard": "yes",
+                "payment:onchain": "yes",
+                "payment:paypal": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 348 596 2613",
+                "shop": "tattoo",
+                "website": "https://www.salvaccarotattoo.it/"
             }
         },
         {

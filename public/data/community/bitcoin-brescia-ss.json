@@ -1739,11 +1739,11 @@
             "id": 2229050551,
             "lat": 45.6450668,
             "lon": 9.935887,
-            "timestamp": "2025-10-23T12:57:51Z",
-            "version": 3,
-            "changeset": 173673381,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-01T07:49:15Z",
+            "version": 5,
+            "changeset": 179197456,
+            "user": "AE16",
+            "uid": 22518789,
             "tags": {
                 "addr:city": "Capriolo",
                 "addr:housenumber": "35",
@@ -1753,6 +1753,12 @@
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:30, Su 07:30-20:00",
+                "payment:cards": "yes",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:satispay": "yes",
+                "phone": "+39 0522 489040",
                 "shop": "supermarket"
             }
         },
@@ -2536,11 +2542,11 @@
             "id": 3450199481,
             "lat": 45.682301,
             "lon": 9.7891972,
-            "timestamp": "2023-07-20T09:21:29Z",
-            "version": 7,
-            "changeset": 138753929,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2026-02-06T10:20:30Z",
+            "version": 8,
+            "changeset": 178179289,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "San Paolo d'Argon",
                 "addr:housenumber": "32",
@@ -2550,7 +2556,6 @@
                 "currency:XBT": "yes",
                 "healthcare": "physiotherapist",
                 "name": "Marco Capogrosso",
-                "note": "Consulente Benessere - Optionwinner",
                 "website": "http://holystica.net/esserebenessere/marco-capogrosso",
                 "website_1": "http://twimt.it/index.php?aid=13"
             }
@@ -3044,9 +3049,9 @@
             "id": 4243022470,
             "lat": 45.6886754,
             "lon": 9.6648271,
-            "timestamp": "2025-07-22T11:29:39Z",
-            "version": 18,
-            "changeset": 169288441,
+            "timestamp": "2026-02-26T14:09:01Z",
+            "version": 19,
+            "changeset": 179086639,
             "user": "morsi",
             "uid": 139580,
             "tags": {
@@ -3055,7 +3060,7 @@
                 "addr:postcode": "24122",
                 "addr:street": "Via Don Luigi Palazzolo",
                 "biergarten": "yes",
-                "check_date": "2025-07-22",
+                "check_date": "2026-02-26",
                 "contact:facebook": "https://www.facebook.com/superbarbergamo/",
                 "contact:instagram": "https://www.instagram.com/superbarbergamo/",
                 "currency:EUR": "yes",
@@ -3145,26 +3150,6 @@
                 "name": "Q8",
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "11716"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4388772593,
-            "lat": 45.4091337,
-            "lon": 9.9308693,
-            "timestamp": "2025-10-23T19:58:47Z",
-            "version": 5,
-            "changeset": 173690709,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Orzinuovi",
-                "addr:postcode": "25034",
-                "addr:street": "Viale Adua",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "name": "Trony",
-                "shop": "electronics"
             }
         },
         {
@@ -3439,23 +3424,6 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5107758072,
-            "lat": 45.751059,
-            "lon": 9.780915,
-            "timestamp": "2023-06-18T12:13:29Z",
-            "version": 2,
-            "changeset": 137476465,
-            "user": "bbgg",
-            "uid": 4126696,
-            "tags": {
-                "brand": "Upim",
-                "brand:wikidata": "Q1414836",
-                "name": "Upim",
-                "shop": "department_store"
             }
         },
         {
@@ -4539,11 +4507,11 @@
             "id": 6984219280,
             "lat": 45.5666398,
             "lon": 10.227673,
-            "timestamp": "2025-05-22T14:52:14Z",
-            "version": 7,
-            "changeset": 166617208,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2026-03-03T17:13:31Z",
+            "version": 8,
+            "changeset": 179313261,
+            "user": "AE16",
+            "uid": 22518789,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "43",
@@ -4559,7 +4527,9 @@
                 "name": "Esselunga",
                 "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-20:00",
                 "payment:cash": "yes",
+                "payment:contactless": "yes",
                 "payment:credit_cards": "yes",
+                "payment:satispay": "yes",
                 "shop": "supermarket",
                 "start_date": "2019-11-27"
             }
@@ -7832,13 +7802,13 @@
         {
             "type": "node",
             "id": 12823360346,
-            "lat": 45.5364398,
-            "lon": 10.2217121,
-            "timestamp": "2025-10-07T06:09:10Z",
-            "version": 3,
-            "changeset": 172942659,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.536405,
+            "lon": 10.2216801,
+            "timestamp": "2026-02-21T14:38:41Z",
+            "version": 4,
+            "changeset": 178862172,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "30C",
@@ -8192,6 +8162,93 @@
                 "level": "0",
                 "name": "L'Erbolario",
                 "shop": "herbalist"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13530347530,
+            "lat": 45.5379219,
+            "lon": 10.2219248,
+            "timestamp": "2026-02-06T23:30:20Z",
+            "version": 1,
+            "changeset": 178209558,
+            "user": "Arallus",
+            "uid": 22871453,
+            "tags": {
+                "amenity": "fast_food",
+                "brand": "La Piadineria",
+                "brand:wikidata": "Q108195414",
+                "contact:phone": "+39 030294127",
+                "contact:website": "https://www.lapiadineria.com/",
+                "cuisine": "piadina",
+                "currency:XBT": "yes",
+                "indoor_seating": "yes",
+                "name": "La Piadineria",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "takeaway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13587164996,
+            "lat": 45.536718,
+            "lon": 10.2211622,
+            "timestamp": "2026-02-21T14:38:42Z",
+            "version": 2,
+            "changeset": 178862173,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13587181536,
+            "lat": 45.5367085,
+            "lon": 10.2202804,
+            "timestamp": "2026-02-21T14:38:43Z",
+            "version": 1,
+            "changeset": 178862172,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13623700801,
+            "lat": 45.6955036,
+            "lon": 9.7574569,
+            "timestamp": "2026-03-06T18:53:16Z",
+            "version": 2,
+            "changeset": 179460290,
+            "user": "flimby",
+            "uid": 551105,
+            "tags": {
+                "addr:city": "Pedrengo",
+                "addr:housenumber": "8",
+                "addr:postcode": "24066",
+                "addr:street": "Via Giovanna d'Arco",
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "name": "PittaRosso",
+                "opening_hours": "Mo-Sa 09:30-20:00 Su 9:30-19:30",
+                "operator": "PittaRosso",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "0354528538",
+                "shop": "shoes"
             }
         },
         {

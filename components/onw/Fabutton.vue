@@ -7,6 +7,7 @@ const props = defineProps(["url", "icon", "tooltip"]);
     :href="url"
     target="_blank"
     rel="noopener"
+    class="fab-action"
   >
     <div class="tooltip tooltip-left" :data-tip="tooltip">
       <button class="btn btn-lg btn-circle">

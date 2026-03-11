@@ -5,7 +5,12 @@ const props = defineProps(["datapois"]);
 
 // Compute grouped POIs
 const groupedPois = computed(() => {
-  const grouped = props.datapois.reduce((acc, poi) => {
+  const pois = props.datapois;
+  if (!Array.isArray(pois)) {
+    return {};
+  }
+
+  const grouped = pois.reduce((acc, poi) => {
     // Get amenity tag or use 'other' as default category
     var categoria;
 

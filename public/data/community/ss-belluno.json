@@ -7,7 +7,7 @@
     "idlocalita": "belluno",
     "telegram_weburl": "https://web.telegram.org/a/#-1001620891134",
     "telegram_app": "https://t.me/SatoshiSpritzBelluno",
-    "telegram_members": 24.0,
+    "telegram_members": 21.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -547,11 +547,11 @@
             "id": 1586852268,
             "lat": 45.9444396,
             "lon": 12.7240486,
-            "timestamp": "2025-09-30T08:40:18Z",
-            "version": 7,
-            "changeset": 172649282,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-18T23:31:20Z",
+            "version": 8,
+            "changeset": 178747136,
+            "user": "ocramzir",
+            "uid": 3384914,
             "tags": {
                 "addr:city": "Fiume Veneto",
                 "addr:housenumber": "42",
@@ -563,7 +563,7 @@
                 "check_date": "2025-06-04",
                 "contact:email": "INFO.IT@hm.com",
                 "contact:facebook": "https://m.facebook.com/hm",
-                "contact:phone": "+39 800 599 155",
+                "contact:phone": "+39800599155",
                 "contact:website": "www.hm.com",
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
@@ -1154,6 +1154,24 @@
                 "name": "H&M",
                 "shop": "clothes",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4333624090,
+            "lat": 46.4972643,
+            "lon": 11.8749556,
+            "timestamp": "2026-02-09T12:43:22Z",
+            "version": 3,
+            "changeset": 178310781,
+            "user": "rjaksic",
+            "uid": 6774109,
+            "tags": {
+                "branch": "Dolomites",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "name": "Despar",
+                "shop": "convenience"
             }
         },
         {
@@ -2160,16 +2178,17 @@
             "id": 11175545278,
             "lat": 46.5842466,
             "lon": 12.2536726,
-            "timestamp": "2023-09-07T22:26:33Z",
-            "version": 1,
-            "changeset": 140960476,
-            "user": "Friendly_Ghost",
-            "uid": 10875409,
+            "timestamp": "2026-02-13T11:03:39Z",
+            "version": 2,
+            "changeset": 178498231,
+            "user": "CjMalone",
+            "uid": 6816132,
             "tags": {
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
-                "name": "Spar",
-                "shop": "supermarket"
+                "name": "Despar",
+                "shop": "supermarket",
+                "website": "https://www.despar.it/de/geschaeft-despar/290/auronzo-di-cadore/"
             }
         },
         {
@@ -2956,7 +2975,7 @@
             "timestamp": "2023-02-20T23:50:30Z",
             "version": 3,
             "changeset": 132812640,
-            "user": "itsAlisaa",
+            "user": "cat3t2",
             "uid": 17825286,
             "nodes": [
                 1858672510,

@@ -7,7 +7,7 @@
     "idlocalita": "bosa",
     "telegram_weburl": "https://web.telegram.org/a/#-1001519945934",
     "telegram_app": "https://t.me/bisforbosa",
-    "telegram_members": 36.0,
+    "telegram_members": 37.0,
     "poi": [
         {
             "type": "node",
@@ -125,33 +125,6 @@
                 "name": "Calzedonia",
                 "operator": "Calzedonia",
                 "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1837413635,
-            "lat": 39.9282068,
-            "lon": 8.5328903,
-            "timestamp": "2025-10-04T09:15:47Z",
-            "version": 6,
-            "changeset": 172822217,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Cabras",
-                "addr:housenumber": "21",
-                "addr:postcode": "09072",
-                "addr:street": "Corso Italia",
-                "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
-                "name": "Conad City",
-                "opening_hours": "Mo-Sa 08:30-13:30, 16:30-20:30; Su 09:00-13:00",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "payment:debit_cards": "yes",
-                "phone": "+39 0783 290234",
-                "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/conad-city-corso-italia-21-09072--cabras--008384"
             }
         },
         {
@@ -424,27 +397,6 @@
         },
         {
             "type": "node",
-            "id": 3275232497,
-            "lat": 39.9056098,
-            "lon": 8.5936906,
-            "timestamp": "2024-10-16T15:20:10Z",
-            "version": 3,
-            "changeset": 157970201,
-            "user": "DnaX",
-            "uid": 69259,
-            "tags": {
-                "addr:city": "Oristano",
-                "addr:housenumber": "45",
-                "addr:postcode": "09170",
-                "addr:street": "Via Giuseppe Mazzini",
-                "brand": "Kasanova",
-                "brand:wikidata": "Q116214505",
-                "name": "Kasanova",
-                "shop": "houseware"
-            }
-        },
-        {
-            "type": "node",
             "id": 3275248037,
             "lat": 39.9054515,
             "lon": 8.5914631,
@@ -628,6 +580,23 @@
         },
         {
             "type": "node",
+            "id": 5772639066,
+            "lat": 40.1212446,
+            "lon": 8.8462971,
+            "timestamp": "2026-02-27T16:51:35Z",
+            "version": 2,
+            "changeset": 179140381,
+            "user": "dan980",
+            "uid": 1240942,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 6327512622,
             "lat": 40.7388883,
             "lon": 8.5355649,
@@ -645,6 +614,24 @@
                 "level": "0",
                 "name": "H&M",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7227588109,
+            "lat": 40.1215317,
+            "lon": 8.8250333,
+            "timestamp": "2026-02-27T16:51:35Z",
+            "version": 3,
+            "changeset": 179140381,
+            "user": "dan980",
+            "uid": 1240942,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "operator": "Succu",
+                "shop": "electronics"
             }
         },
         {
@@ -743,11 +730,11 @@
             "id": 9073897017,
             "lat": 40.5566402,
             "lon": 8.3158056,
-            "timestamp": "2025-10-08T18:53:27Z",
-            "version": 3,
-            "changeset": 173019219,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-06T07:56:45Z",
+            "version": 4,
+            "changeset": 178173091,
+            "user": "thetornado76",
+            "uid": 1624486,
             "tags": {
                 "addr:city": "Alghero",
                 "addr:postcode": "07041",
@@ -755,6 +742,7 @@
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-13:30,17:00-20:00",
                 "shop": "clothes"
             }
         },
@@ -928,11 +916,11 @@
             "id": 13232816739,
             "lat": 40.5781202,
             "lon": 8.3212233,
-            "timestamp": "2025-10-21T07:36:48Z",
-            "version": 4,
-            "changeset": 173568128,
-            "user": "Heart of Sardinia",
-            "uid": 23396275,
+            "timestamp": "2026-02-20T07:44:43Z",
+            "version": 6,
+            "changeset": 178806453,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Alghero",
                 "addr:housenumber": "8",
@@ -948,6 +936,7 @@
                 "operator": "Antonio",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
                 "phone": "+44 7488911525",
                 "rooms": "2",
                 "tourism": "guest_house",
@@ -1039,6 +1028,23 @@
                 "brand:wikidata": "Q2042514",
                 "level": "0",
                 "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13528315182,
+            "lat": 40.5589445,
+            "lon": 8.3135591,
+            "timestamp": "2026-02-06T07:56:45Z",
+            "version": 1,
+            "changeset": 178173091,
+            "user": "thetornado76",
+            "uid": 1624486,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
                 "shop": "clothes"
             }
         },
@@ -1322,6 +1328,36 @@
                 "name": "Tamoil",
                 "operator": "Centro Tamoil di Zidda Alessandro",
                 "ref:mise": "30778"
+            }
+        },
+        {
+            "type": "way",
+            "id": 331105887,
+            "timestamp": "2026-02-23T09:02:34Z",
+            "version": 2,
+            "changeset": 178932798,
+            "user": "dan980",
+            "uid": 1240942,
+            "nodes": [
+                2834347411,
+                2834347013,
+                2834347044,
+                2834347541,
+                3381609716,
+                3381609717,
+                2834348160,
+                2834348086,
+                2834347834,
+                2834347732,
+                2834347702,
+                2834347411
+            ],
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "building": "retail",
+                "name": "Upim",
+                "shop": "department_store"
             }
         },
         {

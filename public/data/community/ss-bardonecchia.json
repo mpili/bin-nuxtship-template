@@ -7,7 +7,7 @@
     "idlocalita": "bardonecchia",
     "telegram_weburl": "https://web.telegram.org/a/#-1002144349888",
     "telegram_app": "https://t.me/SatoshiSpritzBardonecchia",
-    "telegram_members": 41.0,
+    "telegram_members": 42.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -223,11 +223,11 @@
             "id": 1165518200,
             "lat": 45.2979828,
             "lon": 6.5805588,
-            "timestamp": "2025-10-04T07:58:07Z",
-            "version": 13,
-            "changeset": 172819647,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-17T20:59:12Z",
+            "version": 14,
+            "changeset": 178698031,
+            "user": "Cdrik_69",
+            "uid": 467915,
             "tags": {
                 "addr:city": "Saint Martin De Belleville",
                 "addr:postcode": "73440",
@@ -239,7 +239,8 @@
                 "name": "Spar",
                 "opening_hours": "Mo-Su,PH 07:30-20:30",
                 "operator": "Spar",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "no"
             }
         },
         {
@@ -538,11 +539,11 @@
             "id": 2665535858,
             "lat": 45.4213039,
             "lon": 6.3633907,
-            "timestamp": "2025-10-04T08:45:30Z",
-            "version": 8,
-            "changeset": 172821225,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-17T22:46:05Z",
+            "version": 9,
+            "changeset": 178701340,
+            "user": "Lou Toussaint-Ianeva",
+            "uid": 21655897,
             "tags": {
                 "addr:city": "Saint-Fran\u00e7ois-Longchamp",
                 "addr:postcode": "73130",
@@ -551,7 +552,7 @@
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "en:SPAR (retailer)",
                 "name": "Spar",
-                "opening_hours": "Mo-Su 09:00-12:00, 16:00-19:00",
+                "opening_hours": "Su-Fr 08:00-19:00; Sa 09:00-12:3O, 15:30-19:00",
                 "shop": "supermarket",
                 "source": "knowledge",
                 "website": "https://magasins.spar.fr/fr/s/spar-saint-francois-longchamp"
@@ -918,11 +919,11 @@
             "id": 5851834960,
             "lat": 45.0817211,
             "lon": 6.7109707,
-            "timestamp": "2025-10-17T20:13:33Z",
-            "version": 6,
-            "changeset": 173427165,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-23T18:59:34Z",
+            "version": 8,
+            "changeset": 178957631,
+            "user": "NechiforCristian",
+            "uid": 19327883,
             "tags": {
                 "addr:city": "Bardonecchia",
                 "addr:postcode": "10052",
@@ -937,9 +938,11 @@
                 "fuel:octane_100": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "Frejus 83 di Luciano Franco & C. S.A.S.",
                 "payment:dkv": "yes",
                 "ref:mise": "3749",
+                "self_service": "yes",
                 "source": "MISE - Ministero Sviluppo Economico"
             }
         },
