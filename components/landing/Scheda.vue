@@ -1,39 +1,39 @@
-<script>
-export default {
-  props: {
-    url: {
-      type: String,
-    },
-    img: {
-      type: String,
-    },
-    description: {
-      type: String,
-    },
-    title: {
-      type: String,
-    },
-  },
+<script setup>
+const props = defineProps({
+  url: String,
+  img: String,
+  description: String,
+  title: String,
+});
+
+const fallbackImg = "/img/features/formazione.jpg";
+
+const handleImageError = (e) => {
+  e.target.src = fallbackImg;
 };
 </script>
+
 <template>
-  <NuxtLink :href="url" styleName="inverted">
-    <div class="border-2 border-[#D8DEE9] border-opacity-50 rounded-md p-4">
-      <div>
+  <NuxtLink :href="url" styleName="inverted" class="group h-full">
+    <div class="border-2 border-[#D8DEE9] border-opacity-50 rounded-md p-4 flex flex-col h-full">
+      <div class="aspect-video overflow-hidden rounded">
         <NuxtImg
-          :src="img"
+          :src="img || fallbackImg"
           format="webp"
-          alt="dove"
-          class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
+          :alt="title"
+          class="w-full h-full object-cover transition group-hover:scale-105"
+          @error="handleImageError"
         />
       </div>
       <p
         v-if="description"
-        class="text-slate-500 mt-2 leading-relaxed text-left"
+        class="text-slate-500 mt-4 leading-relaxed text-left flex-grow"
       >
         {{ description }}
       </p>
-      <button class="btn btn-block">{{ title }}</button>
+      <div class="mt-4">
+        <button class="btn btn-block">{{ title }}</button>
+      </div>
     </div>
   </NuxtLink>
 </template>
