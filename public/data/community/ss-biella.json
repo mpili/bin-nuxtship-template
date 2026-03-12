@@ -1273,28 +1273,6 @@
         },
         {
             "type": "node",
-            "id": 1984100955,
-            "lat": 45.3735633,
-            "lon": 8.0787496,
-            "timestamp": "2024-04-23T14:39:50Z",
-            "version": 9,
-            "changeset": 150399251,
-            "user": "Andrea Musuruane",
-            "uid": 90379,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "fuel:diesel": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Bida Rrapi",
-                "ref:mise": "53503"
-            }
-        },
-        {
-            "type": "node",
             "id": 1988137158,
             "lat": 45.3311103,
             "lon": 7.7229307,
@@ -4473,6 +4451,29 @@
             }
         },
         {
+            "type": "node",
+            "id": 13509949629,
+            "lat": 45.7412771,
+            "lon": 7.6550836,
+            "timestamp": "2026-02-05T11:41:36Z",
+            "version": 2,
+            "changeset": 178136286,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Saint-Vincent",
+                "addr:housenumber": "228",
+                "addr:postcode": "11027",
+                "addr:street": "Via Ponte Romano",
+                "currency:XBT": "yes",
+                "name": "EIVAVIE",
+                "opening_hours": "Mo-Fr 08:00-17:00",
+                "phone": "+39 0166 510137",
+                "shop": "water",
+                "website": "https://www.eivavie.com/"
+            }
+        },
+        {
             "type": "way",
             "id": 90685529,
             "timestamp": "2024-02-22T17:15:26Z",
@@ -6498,6 +6499,33 @@
                 "brand:wikidata": "Q1414836",
                 "name": "Upim",
                 "shop": "department_store"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1482840160,
+            "timestamp": "2026-02-25T10:31:15Z",
+            "version": 1,
+            "changeset": 179029398,
+            "user": "Francoerbi41",
+            "uid": 4982687,
+            "nodes": [
+                13597741124,
+                13597741125,
+                13597741126,
+                13597741127,
+                13597741128,
+                13597741129,
+                13597741130,
+                13597741131,
+                13597741124
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Despar Express",
+                "shop": "convenience"
             }
         }
     ],

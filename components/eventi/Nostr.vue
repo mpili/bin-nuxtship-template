@@ -8,11 +8,11 @@ export default {
 };
 </script>
 <template>
-	<div class="p-2 m-2">
+	<div class="">
 		<NuxtLink :to="`https://nostr.com/${nostr_id}`" target="_blank">
-			<button class="btn btn-primary p-6">
+			<button class="btn btn-primary pt-4 pb-10 flex items-center gap-3">
 				<Icon name="game-icons:ostrich" size="28" />
-				Chatta con altri utenti su questo evento tramite Nostr
+				<span>Chatta con altri utenti su questo evento tramite Nostr</span>
 			</button>
 		</NuxtLink>
 	</div>

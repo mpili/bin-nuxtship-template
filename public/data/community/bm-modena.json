@@ -7,7 +7,7 @@
     "idlocalita": "modena",
     "telegram_weburl": "https://web.telegram.org/a/#-1002445975649",
     "telegram_app": "https://t.me/meetupmodenabitcoin",
-    "telegram_members": 102.0,
+    "telegram_members": 108.0,
     "poi": [
         {
             "type": "node",
@@ -3726,11 +3726,11 @@
             "id": 5293931269,
             "lat": 45.4062408,
             "lon": 11.2465163,
-            "timestamp": "2023-07-18T21:56:41Z",
-            "version": 5,
-            "changeset": 138689341,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2026-02-06T10:21:03Z",
+            "version": 6,
+            "changeset": 178179310,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "San Bonifacio",
                 "addr:housenumber": "18",
@@ -3741,7 +3741,6 @@
                 "description": "I principali ambiti di intervento dello studio sono individuabili nell\u2019area delle materie aziendali, contrattuali, societarie e fiscali, con particolare specializzazione nella gestione ed amministrazione delle piccole e medie imprese.",
                 "email": "info@studiopacepartners.it",
                 "name": "Studio Pace & Partners",
-                "note": "Dottori Commercialisti, Consulenti del Lavoro, Legale e Tributario, Revisori Legali",
                 "office": "accountant",
                 "payment:ethereum": "yes",
                 "payment:litecoin": "yes",
@@ -5746,11 +5745,11 @@
             "id": 11876751567,
             "lat": 45.7178276,
             "lon": 11.3883769,
-            "timestamp": "2024-08-30T08:14:45Z",
-            "version": 5,
-            "changeset": 155961109,
-            "user": "Ferrigato Srlu",
-            "uid": 4774728,
+            "timestamp": "2026-02-06T23:55:08Z",
+            "version": 6,
+            "changeset": 178210012,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Schio (VI)",
                 "addr:country": "IT",
@@ -5759,7 +5758,6 @@
                 "currency:XBT": "yes",
                 "healthcare": "yes",
                 "name": "Ferrigato Srlu",
-                "note": "Health and Safety Consultants",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes",
                 "survey:date": "2024-08-30"
@@ -5815,9 +5813,9 @@
             "id": 11902287309,
             "lat": 45.6684186,
             "lon": 11.395146,
-            "timestamp": "2025-08-27T20:58:21Z",
-            "version": 7,
-            "changeset": 171104411,
+            "timestamp": "2026-02-06T23:56:29Z",
+            "version": 8,
+            "changeset": 178210040,
             "user": "Comino",
             "uid": 6794624,
             "tags": {
@@ -5826,12 +5824,11 @@
                 "addr:postcode": "36034",
                 "addr:street": "Via VIII Marzo",
                 "contact:email": "info@saloneniko.it",
-                "contact:facebook": "https://www.facebook.com/saloneniko.malo",
+                "contact:facebook": "saloneniko.malo",
                 "contact:instagram": "https://www.instagram.com/saloneniko/",
                 "currency:XBT": "yes",
                 "email": "info@saloneniko.it",
                 "name": "Salone Niko",
-                "note": "Taglio, Tecniche del colore, Permanente e stiratura, Asciugatura, Acconciatura, extension. E' gradito l'appuntamento",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
@@ -7519,30 +7516,6 @@
                 "name": "Unieuro",
                 "phone": "+39 0376 348398",
                 "shop": "electronics"
-            }
-        },
-        {
-            "type": "way",
-            "id": 240902458,
-            "timestamp": "2025-09-11T10:54:14Z",
-            "version": 3,
-            "changeset": 171778148,
-            "user": "wheelmap_visitor",
-            "uid": 290680,
-            "nodes": [
-                2485981266,
-                2485981271,
-                2485981269,
-                2485981260,
-                2485981266
-            ],
-            "tags": {
-                "brand": "Conad City",
-                "brand:wikidata": "Q57543102",
-                "building": "yes",
-                "name": "Conad City",
-                "shop": "supermarket",
-                "wheelchair": "limited"
             }
         },
         {

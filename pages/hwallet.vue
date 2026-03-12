@@ -49,8 +49,13 @@ definePageMeta({
       <UiSkeleton />
     </div>
     <div v-else>
-      <div v-for="hwallet of data.items">
-        <HwalletScheda :data="hwallet" />
+      <div v-if="Array.isArray(data?.items)">
+        <div v-for="hwallet of data.items" :key="hwallet.id || hwallet.name">
+          <HwalletScheda :data="hwallet" />
+        </div>
+      </div>
+      <div v-else class="text-sm text-warning">
+        Nessun dato disponibile. Riprova più tardi.
       </div>
     </div>
 

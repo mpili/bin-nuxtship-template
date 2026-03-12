@@ -35,4 +35,13 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/sitemap",
   ],
+  gtag: {
+    id: process.env.GA_MEASUREMENT_ID || process.env.GTAG_ID || '',
+    debug: process.env.NODE_ENV !== 'production',
+    config: {
+      anonymize_ip: true,
+      send_page_view: true,
+    },
+    disableAutoPageTrack: false,
+  },
 })

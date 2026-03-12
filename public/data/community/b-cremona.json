@@ -1627,13 +1627,13 @@
         {
             "type": "node",
             "id": 3725828744,
-            "lat": 44.7824403,
-            "lon": 10.3451302,
-            "timestamp": "2025-10-16T10:58:29Z",
-            "version": 8,
-            "changeset": 173359793,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.7823769,
+            "lon": 10.3455218,
+            "timestamp": "2026-02-10T13:38:48Z",
+            "version": 9,
+            "changeset": 178360626,
+            "user": "ziomio",
+            "uid": 21389832,
             "tags": {
                 "addr:city": "Parma",
                 "addr:housenumber": "14a",
@@ -1887,26 +1887,6 @@
                 "phone": "+39 051 508111",
                 "shop": "supermarket",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4388772593,
-            "lat": 45.4091337,
-            "lon": 9.9308693,
-            "timestamp": "2025-10-23T19:58:47Z",
-            "version": 5,
-            "changeset": 173690709,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Orzinuovi",
-                "addr:postcode": "25034",
-                "addr:street": "Viale Adua",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "name": "Trony",
-                "shop": "electronics"
             }
         },
         {
@@ -5192,11 +5172,11 @@
             "id": 11693941996,
             "lat": 44.7975504,
             "lon": 10.3312404,
-            "timestamp": "2025-10-25T19:53:06Z",
-            "version": 4,
-            "changeset": 173770444,
-            "user": "descubrebitcoin",
-            "uid": 17565129,
+            "timestamp": "2026-02-06T01:42:47Z",
+            "version": 5,
+            "changeset": 178163436,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Parma",
                 "addr:housenumber": "65",
@@ -5224,11 +5204,11 @@
                 "currency:USDC": "yes",
                 "currency:USDT": "yes",
                 "currency:XBT": "yes",
+                "description": "L'ATM Bitcoin a Parma si trova accanto all'enoteca Bottiglia Azzurra",
                 "image": "https://shitcoins.club/resources/img/atms/IT/atm-bitcoin-parma-borgo-felino-3.jpg",
                 "indoor": "yes",
                 "level": "0",
                 "name": "Bitcoin ATM - Shitcoins.club",
-                "note": "L'ATM Bitcoin a Parma si trova accanto all'enoteca Bottiglia Azzurra",
                 "opening_hours": "24/7",
                 "operator": "Shitcoins.club",
                 "payment:cash": "yes",
@@ -5871,13 +5851,13 @@
         {
             "type": "node",
             "id": 12823360346,
-            "lat": 45.5364398,
-            "lon": 10.2217121,
-            "timestamp": "2025-10-07T06:09:10Z",
-            "version": 3,
-            "changeset": 172942659,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.536405,
+            "lon": 10.2216801,
+            "timestamp": "2026-02-21T14:38:41Z",
+            "version": 4,
+            "changeset": 178862172,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "30C",
@@ -6126,6 +6106,67 @@
                 "phone": "+39 351 911 0305",
                 "tourism": "guest_house",
                 "website": "https://www.casadilucio.it/it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13530347530,
+            "lat": 45.5379219,
+            "lon": 10.2219248,
+            "timestamp": "2026-02-06T23:30:20Z",
+            "version": 1,
+            "changeset": 178209558,
+            "user": "Arallus",
+            "uid": 22871453,
+            "tags": {
+                "amenity": "fast_food",
+                "brand": "La Piadineria",
+                "brand:wikidata": "Q108195414",
+                "contact:phone": "+39 030294127",
+                "contact:website": "https://www.lapiadineria.com/",
+                "cuisine": "piadina",
+                "currency:XBT": "yes",
+                "indoor_seating": "yes",
+                "name": "La Piadineria",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "takeaway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13587164996,
+            "lat": 45.536718,
+            "lon": 10.2211622,
+            "timestamp": "2026-02-21T14:38:42Z",
+            "version": 2,
+            "changeset": 178862173,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13587181536,
+            "lat": 45.5367085,
+            "lon": 10.2202804,
+            "timestamp": "2026-02-21T14:38:43Z",
+            "version": 1,
+            "changeset": 178862172,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician"
             }
         },
         {
@@ -7851,11 +7892,11 @@
         {
             "type": "way",
             "id": 1173969464,
-            "timestamp": "2025-10-12T10:26:46Z",
-            "version": 2,
-            "changeset": 173172922,
-            "user": "GBAB",
-            "uid": 3335899,
+            "timestamp": "2026-02-10T12:27:08Z",
+            "version": 3,
+            "changeset": 178357559,
+            "user": "ziomio",
+            "uid": 21389832,
             "nodes": [
                 424254628,
                 10908307578,
@@ -7908,10 +7949,7 @@
             ],
             "tags": {
                 "amenity": "fuel",
-                "brand": "Q8",
                 "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "37762",
                 "source:date": "2018-04-16"
             }

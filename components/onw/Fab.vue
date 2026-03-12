@@ -1,4 +1,6 @@
 <script setup>
+import { ref } from 'vue';
+
 const props = defineProps([
   "id",
   "type",
@@ -9,12 +11,18 @@ const props = defineProps([
   "dbdata",
   "dberror",
 ]);
+
+const open = ref(false);
+
+function toggleFab() {
+  open.value = !open.value;
+}
 </script>
 
 <template>
-  <div class="fab fab-flower">
+  <div :class="['fab fab-flower', { 'fab-open': open }]">
     <!-- a focusable div with tabindex is necessary to work on all browsers. role="button" is necessary for accessibility -->
-    <div tabindex="0" role="button" class="btn btn-circle btn-lg">
+    <div tabindex="0" role="button" class="btn btn-circle btn-lg" @click="toggleFab">
       <svg
         aria-label="New"
         xmlns="http://www.w3.org/2000/svg"

@@ -7,7 +7,7 @@ const breadcrumb = computed(() => [
     path: "/comunita",
   },
   {
-    label: props.data.name,
+    label: props.data?.name || "Località",
   },
 ]);
 </script>
@@ -16,11 +16,11 @@ const breadcrumb = computed(() => [
 
   <LocalitaMetatag :data="data" />
   <LandingSectionhead>
-    <template v-slot:title>{{ data.name }}</template>
+    <template v-slot:title>{{ data?.name || 'Località' }}</template>
   </LandingSectionhead>
   <div class="grid place-items-center pt-4">
     <NuxtImg
-      :src="`/img/l/${data?.id}.jpg`"
+      :src="`/img/l/${data?.id || 'default'}.jpg`"
       format="webp"
       class="aspect-square max-h-96 rounded-md"
     />

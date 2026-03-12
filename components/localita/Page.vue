@@ -11,5 +11,5 @@ const props = defineProps(["id","data"]);
 
   <LocalitaMap :data="data" />
   
-  <OnwListapoi :datapois="data.poi" />
+  <OnwListapoi :datapois="data?.poi || []" />
 </template>
