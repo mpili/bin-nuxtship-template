@@ -98,7 +98,8 @@ function handleDayClick(day) {
 
   if (dayEvents.length > 1) {
     selectedDay.value = day;
-    selectedDayEvents.value = dayEvents;
+    // Sort events by date string (e.g. "2026-03-12 18:00:00")
+    selectedDayEvents.value = [...dayEvents].sort((a, b) => a.data.localeCompare(b.data));
     isModalOpen.value = true;
   } else if (dayEvents.length === 1) {
     navigateTo(`/evento/${dayEvents[0].id}`);
@@ -162,29 +163,50 @@ function closeModal() {
       </div>
 
       <!-- Modal for multiple events -->
-      <dialog :class="['modal', { 'modal-open': isModalOpen }]">
-        <div class="modal-box">
-          <h3 class="font-bold text-lg mb-4">Eventi del {{ selectedDay }} {{ monthName }} {{ currentYear }}</h3>
-          <div class="space-y-4">
-            <div v-for="event in selectedDayEvents" :key="event.id" class="p-4 border rounded-lg hover:bg-base-200 cursor-pointer">
-              <NuxtLink :to="`/evento/${event.id}`" class="block" @click="closeModal">
-                <div class="flex justify-between items-center">
-                  <div>
-                    <div class="font-bold text-lg">{{ event.titolo }}</div>
-                    <div class="text-sm opacity-70">{{ event.city }}</div>
+      <dialog :class="['modal modal-bottom sm:modal-middle', { 'modal-open': isModalOpen }]">
+        <div class="modal-box p-0 overflow-hidden border border-base-300">
+          <div class="bg-primary p-4 text-primary-content flex justify-between items-center">
+            <h3 class="font-bold text-lg flex items-center gap-2">
+              <Icon name="ph:calendar-bold" class="w-6 h-6" />
+              {{ selectedDay }} {{ monthName }} {{ currentYear }}
+            </h3>
+            <button class="btn btn-sm btn-circle btn-ghost" @click="closeModal">✕</button>
+          </div>
+          
+          <div class="p-4 sm:p-6 space-y-4 max-h-[60vh] overflow-y-auto">
+            <p class="text-sm opacity-60 font-medium uppercase tracking-wider">Eventi in programma</p>
+            
+            <div v-for="event in selectedDayEvents" :key="event.id" class="group">
+              <NuxtLink 
+                :to="`/evento/${event.id}`" 
+                class="block p-4 border rounded-xl hover:border-primary hover:bg-primary/5 transition-all duration-200 shadow-sm hover:shadow-md"
+                @click="closeModal"
+              >
+                <div class="flex flex-col gap-3">
+                  <div class="font-bold text-lg group-hover:text-primary transition-colors leading-tight">
+                    {{ event.titolo }}
                   </div>
-                  <div class="text-sm font-mono opacity-50">
-                    {{ new Date(event.data).toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' }) }}
+                  
+                  <div class="flex flex-wrap gap-x-4 gap-y-2 text-sm opacity-70">
+                    <div class="flex items-center gap-1.5">
+                      <Icon name="ph:clock" class="w-4 h-4 text-primary" />
+                      <span>{{ new Date(event.data).toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' }) }}</span>
+                    </div>
+                    <div class="flex items-center gap-1.5">
+                      <Icon name="ph:map-pin" class="w-4 h-4 text-primary" />
+                      <span>{{ event.city }}</span>
+                    </div>
                   </div>
                 </div>
               </NuxtLink>
             </div>
           </div>
-          <div class="modal-action">
-            <button class="btn" @click="closeModal">Chiudi</button>
+          
+          <div class="p-4 bg-base-200/50 flex justify-end">
+            <button class="btn btn-ghost btn-sm" @click="closeModal">Chiudi</button>
           </div>
         </div>
-        <form method="dialog" class="modal-backdrop" @submit.prevent="closeModal">
+        <form method="dialog" class="modal-backdrop bg-black/40 backdrop-blur-sm" @submit.prevent="closeModal">
           <button @click="closeModal">close</button>
         </form>
       </dialog>
