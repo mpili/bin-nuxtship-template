@@ -18,22 +18,32 @@ const corsi = [
   {
     nome: "Wallet",
     url: "/wallet",
+    desc: "Scegli e configura il tuo portafoglio Bitcoin in modo sicuro.",
+    img: "/img/features/dove.jpg"
   },
   {
     nome: "Hardware Wallet",
     url: "/hwallet",
+    desc: "Proteggi i tuoi fondi con i migliori dispositivi hardware sul mercato.",
+    img: "/img/features/formazione.jpg"
   },
   {
-    nome: "Libri Bitcoin in Italiano da acquistare su Amazon",
+    nome: "Libri Bitcoin",
     url: "/libriamazon",
+    desc: "Una selezione dei migliori libri in italiano per approfondire.",
+    img: "/img/features/documentazione.jpg"
   },
   {
-    nome: "Podcast Bitcoin in Italiano",
+    nome: "Podcast",
     url: "/podcast",
+    desc: "Ascolta i migliori podcast italiani dedicati al mondo Bitcoin.",
+    img: "/img/features/comunita.jpg"
   },
   {
     nome: "Documenti",
     url: "/documentazione",
+    desc: "Accedi a risorse tecniche e guide fondamentali.",
+    img: "/img/features/documentazione.jpg"
   },
 ];
 </script>
@@ -43,37 +53,19 @@ const corsi = [
     <LandingSectionhead>
       <template v-slot:title>Formazione</template>
       <template v-slot:desc
-        >Le nostre proposte per acquisire competenze.</template
+        >Percorsi e risorse selezionate per approfondire la tua conoscenza di Bitcoin.</template
       >
     </LandingSectionhead>
 
-    <LandingMainimg urlimg="/img/features/formazione.jpg" />
-
-    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
-      <div class="mx-auto max-w-md">
-        <ul class="space-y-4">
-          <li v-for="corso of corsi" class="flex items-center">
-            <svg
-              class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <circle cx="12" cy="12" r="11" />
-              <path
-                d="m8 13 2.165 2.165a1 1 0 0 0 1.521-.126L16 9"
-                fill="none"
-              />
-            </svg>
-            <p class="ml-4">
-              <a
-                :href="corso.url"
-                class="flex lg:px-3 py-2"
-              >
-                {{ corso.nome }}
-              </a>
-            </p>
-          </li>
-        </ul>
+    <div class="grid sm:grid-cols-2 md:grid-cols-3 mt-12 gap-8">
+      <div v-for="corso of corsi" :key="corso.url" class="flex">
+        <LandingScheda
+          :url="corso.url"
+          :img="corso.img"
+          :description="corso.desc"
+          :title="corso.nome"
+          class="w-full"
+        />
       </div>
     </div>
   </LandingContainer>

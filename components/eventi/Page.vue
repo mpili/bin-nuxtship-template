@@ -4,7 +4,7 @@ const isDev = process.dev;
 
 <template>
   <EventiHead />
-  <EventiCalendar v-if="isDev" />
+  <EventiCalendar />
   <EventiNextdays />
   <EventiAltrical />
 </template>

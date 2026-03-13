@@ -1,37 +1,42 @@
 <script setup>
 const props = defineProps(["evento"]);
 
-if (props.evento) {
-  const breadcrumb = computed(() => [
+const breadcrumb = computed(() => {
+  const items = [
     {
       label: "Eventi",
       path: "/eventi",
     },
-    {
+  ];
+  if (props.evento?.titolo) {
+    items.push({
       label: props.evento.titolo,
-    },
-  ]);
+    });
+  }
+  return items;
+});
 
-  const ogImage = props.evento.img
+const ogImage = computed(() =>
+  props.evento?.img
     ? `https://bin-dev.pockethost.io/api/files/eventi/${props.evento.id}/${props.evento.img}`
-    : "";
+    : ""
+);
 
-  useHead({
-    title: props?.evento?.titolo + " | Bitcoin Italia Network",
-    link: [
-      {
-        rel: "canonical",
-        href: `https://bitcoinitalianetwork.com/evento/${props?.evento?.id}`,
-      },
-    ],
-    meta: [
-      {
-        property: "og:image",
-        content: ogImage,
-      },
-    ],
-  });
-}
+useHead({
+  title: computed(() => (props?.evento?.titolo ? `${props.evento.titolo} | Bitcoin Italia Network` : "Evento | Bitcoin Italia Network")),
+  link: [
+    {
+      rel: "canonical",
+      href: computed(() => `https://bitcoinitalianetwork.com/evento/${props?.evento?.id || ""}`),
+    },
+  ],
+  meta: [
+    {
+      property: "og:image",
+      content: ogImage,
+    },
+  ],
+});
 </script>
 
 <template>
