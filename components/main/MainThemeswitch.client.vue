@@ -1,36 +1,26 @@
 <template>
   <div>
-    <select class="select select-xs" v-model="theme" @change="updateTheme">
-      <option v-for="tema of temi" :value="tema">{{ tema }}</option>
+    <select class="select select-xs" v-model="colorMode.preference">
+      <option v-for="tema in temi" :key="tema" :value="tema">{{ tema }}</option>
     </select>
   </div>
 </template>
 
-<script>
+<script setup>
+const colorMode = useColorMode();
+
 const temi = [
+  "system",
   "light",
   "dark",
+  "cyberpunk",
+  "retro",
+  "bumblebee",
+  "cupcake",
+  "aqua",
+  "pastel",
+  "wireframe",
+  "night",
+  "coffee",
 ];
-
-export default {
-  data() {
-    return {
-      theme: "light", // Default theme
-      temi: temi,
-    };
-  },
-  mounted() {
-    // Load saved theme from localStorage
-    const savedTheme = localStorage.getItem("theme") || "light";
-    this.theme = savedTheme;
-    document.documentElement.setAttribute("data-theme", this.theme);
-  },
-  methods: {
-    updateTheme() {
-      // Update theme and save to localStorage
-      document.documentElement.setAttribute("data-theme", this.theme);
-      localStorage.setItem("theme", this.theme);
-    },
-  },
-};
 </script>

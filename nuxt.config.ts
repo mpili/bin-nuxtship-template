@@ -2,12 +2,6 @@ export default defineNuxtConfig({
   compatibilityDate: '2026-02-27',
   devtools: { enabled: false },
   css: ["~/assets/css/main.css"],
-  postcss: {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
-    },
-  },
   vue: {
     compilerOptions: {
       isCustomElement: (tag) => tag.startsWith('nostr-')
@@ -34,6 +28,8 @@ export default defineNuxtConfig({
     "nuxt-gtag",
     "@nuxt/image",
     "@nuxtjs/sitemap",
+    "@nuxtjs/tailwindcss",
+    "@nuxtjs/color-mode",
   ],
   image: {
     format: ['avif', 'webp', 'png', 'jpg'],
@@ -47,5 +43,10 @@ export default defineNuxtConfig({
       send_page_view: true,
     },
     disableAutoPageTrack: false,
+  },
+  colorMode: {
+    preference: 'system',
+    dataValue: 'theme', // setup for daisyui
+    classSuffix: '',
   },
 })

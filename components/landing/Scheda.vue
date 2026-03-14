@@ -16,9 +16,9 @@ const handleImageError = (e) => {
 </script>
 
 <template>
-  <NuxtLink :href="url" styleName="inverted" class="group h-full">
-    <div class="border-2 border-[#D8DEE9] border-opacity-50 rounded-md p-4 flex flex-col h-full">
-      <div class="aspect-video overflow-hidden rounded">
+  <NuxtLink :href="url" class="group h-full">
+    <div class="bg-base-100 border-2 border-base-200 rounded-xl p-4 flex flex-col h-full shadow-sm hover:shadow-md hover:border-primary/50 transition-all duration-300">
+      <div class="aspect-video overflow-hidden rounded-lg">
         <NuxtImg
           :src="img || fallbackImg"
           format="webp"
@@ -29,12 +29,14 @@ const handleImageError = (e) => {
       </div>
       <p
         v-if="description"
-        class="text-slate-500 mt-4 leading-relaxed text-left flex-grow"
+        class="text-base-content/70 mt-4 leading-relaxed text-left flex-grow"
       >
         {{ description }}
       </p>
       <div class="mt-4">
-        <button class="btn btn-block">{{ title }}</button>
+        <button class="btn btn-block btn-outline group-hover:btn-primary transition-colors">
+          {{ title }}
+        </button>
       </div>
     </div>
   </NuxtLink>
