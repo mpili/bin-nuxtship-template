@@ -10,10 +10,12 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   lazy: true,
   server: false,
 });
+
+const isLoading = computed(() => pending.value);
 </script>
 
 <template>
-  <div v-if="pending">
+  <div v-if="isLoading">
     <UiSkeletonlines />
   </div>
   <div v-else>

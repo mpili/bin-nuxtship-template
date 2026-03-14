@@ -1,4 +1,5 @@
 <script setup>
+import { computed } from "vue";
 import NostrZapButton from "~/components/nostr/NostrZapButton.vue";
 import { useNostrConfig } from "~/composables/useNostrConfig";
 
@@ -12,13 +13,15 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 definePageMeta({
   layout: "main",
 });
 </script>
 <template>
   <LandingContainer>
-    <div v-if="pending">
+    <div v-if="isLoading">
       <UiSkeleton />
       <!-- Loading
       <Icon name="eos-icons:bubble-loading" size="48" color="gray" /> -->

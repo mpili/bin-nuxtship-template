@@ -35,6 +35,10 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/sitemap",
   ],
+  image: {
+    format: ['avif', 'webp', 'png', 'jpg'],
+    quality: 80,
+  },
   gtag: {
     id: process.env.GA_MEASUREMENT_ID || process.env.GTAG_ID || '',
     debug: process.env.NODE_ENV !== 'production',

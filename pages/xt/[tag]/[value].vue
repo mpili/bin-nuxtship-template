@@ -7,6 +7,7 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
 
 const url_api_xtag = `https://bin-dev.pockethost.io/api/collections/xtag/records?filter=(tag=%22${tag}%22 %26%26 value=%22${value}%22)`;
 const {
@@ -17,6 +18,8 @@ const {
   lazy: true,
   server: false,
 });
+
+const isLoadingXtag = computed(() => (process.server ? true : pending_xtag.value));
 
 const breadcrumb = computed(() => [
   {
@@ -33,13 +36,13 @@ definePageMeta({
   <LandingContainer>
 
 
-    <div v-if="pending_xtag">
+    <div v-if="isLoadingXtag">
     </div>
     <div v-else>
       <XtTestata :tag="tag" :value="value" :data="dbdata_xtag" />
     </div>
 
-    <div v-if="pending">
+    <div v-if="isLoading">
       Loading
       <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
     </div>

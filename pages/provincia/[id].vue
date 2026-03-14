@@ -8,6 +8,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 definePageMeta({
   layout: "main",
 });
@@ -15,7 +17,7 @@ definePageMeta({
 <template>
 	<LandingContainer>
 		<!-- <UiRivela title="api" :description="url_api" /> -->
-		<div v-if="pending">
+		<div v-if="isLoading">
 			<UiSkeletonlines />
 		</div>
 		<div v-else>

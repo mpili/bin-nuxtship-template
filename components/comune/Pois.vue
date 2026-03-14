@@ -21,6 +21,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => pending.value);
+
 </script>
 <template>
 	{{url_api}}

@@ -19,6 +19,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 // this call will be performed server side
 // const { data } = await useAsyncData("data", () => $fetch(url_api));
 
@@ -65,7 +67,7 @@ definePageMeta({
     <LandingBreadcrumb :voci="breadcrumb" />
     <OstFeatured :tagvalue="tag+'_'+value" />
 
-    <div v-if="pending">
+    <div v-if="isLoading">
       <UiSkeleton />
     </div>
     <div v-else class="my-6">

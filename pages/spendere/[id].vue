@@ -7,6 +7,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 useHead({
   title: "Bitcoin Italia Network - spendere",
 });
@@ -37,7 +39,7 @@ definePageMeta({
 
     <LandingBreadcrumb :voci="breadcrumb" />
 
-    <div v-if="pending">
+    <div v-if="isLoading">
       <span class="loading loading-spinner loading-lg"></span>
     </div>
     <div v-if="data">
