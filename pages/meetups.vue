@@ -17,6 +17,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 const breadcrumb = computed(() => [
   {
     label: "comunità",
@@ -41,7 +43,7 @@ definePageMeta({
 
     <LandingBreadcrumb :voci="breadcrumb" />
 
-    <div v-if="pending">
+    <div v-if="isLoading">
       Loading
       <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
     </div>

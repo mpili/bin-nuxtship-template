@@ -21,6 +21,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 definePageMeta({
   layout: "main",
 });
@@ -36,7 +38,7 @@ definePageMeta({
 		<LandingMainimg urlimg="/img/sections/books.jpg" />
 
 		<LibriAmazonbitcoin/>
-		<div v-if="pending">
+		<div v-if="isLoading">
 			Loading ...
 		</div>
 		<div v-else>

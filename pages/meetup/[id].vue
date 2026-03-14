@@ -11,6 +11,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isLoading = computed(() => (process.server ? true : pending.value));
+
 definePageMeta({
   layout: "main",
 });
@@ -19,7 +21,7 @@ definePageMeta({
 
 <template>
   <LandingContainer>
-    <div v-if="pending">
+    <div v-if="isLoading">
       <UiSkeleton />
     </div>
     <div v-else>

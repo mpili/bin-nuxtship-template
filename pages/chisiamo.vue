@@ -117,11 +117,11 @@ const team = [
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
       <div v-for="item of team" class="group">
         <div class="w-full aspect-square">
-          <img
+          <NuxtImg
             :src="item.avatar.src"
             :width="item.avatar.width"
             :height="item.avatar.height"
-            format="avif"
+            format="webp"
             alt="Team"
             class="w-full h-full object-cover rounded transition group-hover:-translate-y-1 group-hover:shadow-xl"
           />

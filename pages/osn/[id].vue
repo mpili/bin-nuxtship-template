@@ -8,6 +8,8 @@ const { pending, data, error } = await useLazyFetch(url_api, {
   server: false,
 });
 
+const isPending = computed(() => (process.server ? true : pending.value));
+
 const db_url_api = `https://bin-dev.pockethost.io/api/collections/attivita/records?filter=(id_nod_osm='${id}')`;
 const {
   pending: dbpending,
@@ -18,6 +20,8 @@ const {
   server: false,
 });
 
+const isDbPending = computed(() => (process.server ? true : dbpending.value));
+
 definePageMeta({
   layout: "main",
 });
@@ -25,14 +29,14 @@ definePageMeta({
 
 <template>
   <LandingContainer>
-    <div v-if="pending">
+    <div v-if="isPending">
       <OnwPending :id="id" />
     </div>
     <div v-else>
       <OsnPage
         v-if="data?.elements.length > 0"
         :data="data?.elements[0]"
-        :dbpending="dbpending"
+        :dbpending="isDbPending"
         :dbdata="dbdata"
         :dberror="dberror"
       />
@@ -41,10 +45,10 @@ definePageMeta({
     <OnwFab
       :id="id"
       type="n"
-      :oppending="pending"
+      :oppending="isPending"
       :opdata="data"
       :operror="error"
-      :dbpending="dbpending"
+      :dbpending="isDbPending"
       :dbdata="dbdata"
       :dberror="dberror"
     />

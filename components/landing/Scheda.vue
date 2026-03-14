@@ -9,7 +9,9 @@ const props = defineProps({
 const fallbackImg = "/img/features/formazione.jpg";
 
 const handleImageError = (e) => {
-  e.target.src = fallbackImg;
+  const img = e?.target || e?.currentTarget;
+  if (!img || img.src === fallbackImg) return;
+  img.src = fallbackImg;
 };
 </script>
 
