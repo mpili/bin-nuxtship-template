@@ -24,18 +24,15 @@ export default {
 };
 </script>
 <template>
-  <div class="card bg-base-100 w-80 shadow-xl">
-    <!-- <figure class="px-4 pt-10"> -->
+  <div class="card bg-base-100 w-80 shadow-xl border border-base-300 transition-colors duration-300">
     <figure>
-      <!-- <img :src="imageSrc" :alt="imageAlt" class="rounded-xl" /> -->
-      <img :src="imageSrc" :alt="imageAlt" />
-      <!-- <NuxtImg :src="imageSrc" :alt="imageAlt" class="rounded-xl" /> -->
+      <img :src="imageSrc" :alt="imageAlt" class="w-full object-cover" />
     </figure>
-    <div class="card-body">
-      <h2 class="card-title">{{ title }}</h2>
-      <h3 v-if="subtitle" class="font-semibold">{{ subtitle }}</h3>
-      <p>{{ description }}</p>
-      <div v-if="buttonText" class="card-actions justify-end">
+    <div class="card-body text-base-content">
+      <h2 class="card-title font-bold text-xl">{{ title }}</h2>
+      <h3 v-if="subtitle" class="font-semibold opacity-70">{{ subtitle }}</h3>
+      <p class="opacity-80">{{ description }}</p>
+      <div v-if="buttonText" class="card-actions justify-end mt-4">
         <button class="btn btn-primary">{{ buttonText }}</button>
       </div>
     </div>

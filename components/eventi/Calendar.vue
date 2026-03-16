@@ -6,8 +6,7 @@ const currentMonth = ref(new Date().getMonth());
 const currentYear = ref(new Date().getFullYear());
 
 // API call to fetch events
-const { pending, data: events, error, refresh } = await useLazyFetch(getApiUrl, {
-  lazy: true,
+const { pending, data: events, error, refresh } = await useFetch(getApiUrl, {
   server: false,
 });
 
@@ -20,7 +19,7 @@ function getApiUrl() {
   const lastDayStr = `${year}-${String(month).padStart(2, '0')}-${String(lastMonthDay).padStart(2, '0')}`;
   
   // Use exact encoding seen in Heventi.vue
-  return `https://bin-dev.pockethost.io/api/collections/eventi/records?filter=(data%3E=%22${firstDay}%22%20%26%26%20data%3C=%22${lastDayStr}%2023:59:59%22)`;
+  return `https://bin-dev.pockethost.io/api/collections/eventi/records?perPage=500&sort=data&filter=(data%3E=%22${firstDay}%22%20%26%26%20data%3C=%22${lastDayStr}%2023:59:59%22)`;
 }
 
 watch([currentMonth, currentYear], () => {
@@ -31,9 +30,10 @@ const eventsByDay = computed(() => {
   const grouped = {};
   if (events.value?.items) {
     for (const event of events.value.items) {
-      // event.data is like "2026-03-12 18:00:00"
-      // we take only the day part safely
-      const day = parseInt(event.data.split(' ')[0].split('-')[2]);
+      // event.data is like "2026-03-12 18:00:00" or ISO "2026-03-12T18:00:00"
+      // we take only the day part from the date string to avoid timezone issues
+      const datePart = event.data.split(/[ T]/)[0]; // split by space or T
+      const day = parseInt(datePart.split('-')[2]);
       if (!grouped[day]) {
         grouped[day] = [];
       }
@@ -142,9 +142,10 @@ function closeModal() {
                     :class="[
                       'p-1 sm:p-2 rounded-lg flex items-center justify-center min-h-[40px] sm:min-h-[50px] relative',
                       {
-                        'bg-primary text-white': isToday(day),
+                        'bg-primary text-primary-content': isToday(day),
                         'hover:bg-base-200': !isToday(day),
-                        'cursor-pointer ring-1 sm:ring-2 ring-primary bg-primary-content': eventsByDay[day],
+                        'cursor-pointer ring-1 sm:ring-2 ring-primary bg-primary-content text-primary': eventsByDay[day] && !isToday(day),
+                        'ring-1 sm:ring-2 ring-primary': eventsByDay[day] && isToday(day),
                       },
                     ]"
                     :aria-current="isToday(day) ? 'date' : null"
