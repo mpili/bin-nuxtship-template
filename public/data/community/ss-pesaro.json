@@ -146,35 +146,6 @@
         },
         {
             "type": "node",
-            "id": 228319921,
-            "lat": 43.9088191,
-            "lon": 12.8755897,
-            "timestamp": "2025-10-25T17:16:11Z",
-            "version": 17,
-            "changeset": 173765643,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:postcode": "61122",
-                "addr:street": "Via Yuri Gagarin",
-                "addr:suburb": "Villa San Martino",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "compressed_air": "yes",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "opening_hours": "24/7",
-                "ref:mise": "31117",
-                "self_service": "yes",
-                "source": "MISE - Ministero Sviluppo Economico",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 262617769,
             "lat": 43.5967759,
             "lon": 12.9304247,
@@ -471,31 +442,6 @@
                 "operator": "Pad Multienergy S.P.A",
                 "ref:mise": "52141",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1483790238,
-            "lat": 43.9125643,
-            "lon": 12.9039962,
-            "timestamp": "2025-10-06T10:38:51Z",
-            "version": 6,
-            "changeset": 172906765,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "41",
-                "addr:postcode": "61121",
-                "addr:street": "Via Canale",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "contact:fax": "+39 0721 23874",
-                "contact:phone": "+39 0721 403421",
-                "name": "Conad",
-                "ref:vatin": "IT02671460414",
-                "shop": "supermarket",
-                "wheelchair": "limited"
             }
         },
         {
@@ -880,7 +826,7 @@
             "timestamp": "2024-09-26T20:56:54Z",
             "version": 7,
             "changeset": 157145756,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Rimini",
@@ -2438,6 +2384,36 @@
         },
         {
             "type": "node",
+            "id": 5851831677,
+            "lat": 43.6208565,
+            "lon": 13.378849,
+            "timestamp": "2026-01-27T08:33:24Z",
+            "version": 7,
+            "changeset": 177752595,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Falconara Marittima",
+                "addr:housenumber": "63",
+                "addr:postcode": "60015",
+                "addr:street": "Via Guglielmo Marconi",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:biodiesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil 7915 Falconara",
+                "opening_hours": "24/7",
+                "operator": "T.D.M. S.r.l.",
+                "ref": "7915",
+                "ref:mise": "41070",
+                "self_service": "yes",
+                "website": "https://storelocator.tamoil.it/it/marche/provincia-di-ancona/falconara/tamoil-7915-falconara-922"
+            }
+        },
+        {
+            "type": "node",
             "id": 5851832921,
             "lat": 43.8927163,
             "lon": 12.8857907,
@@ -2541,34 +2517,6 @@
         },
         {
             "type": "node",
-            "id": 5851841787,
-            "lat": 43.8903271,
-            "lon": 12.8909754,
-            "timestamp": "2025-08-28T16:40:37Z",
-            "version": 7,
-            "changeset": 171144906,
-            "user": "Galessandroni",
-            "uid": 133076,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "2502",
-                "addr:postcode": "61122",
-                "addr:street": "Via Sandro Pertini",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "compressed_air": "yes",
-                "fuel:diesel": "yes",
-                "fuel:lng": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "operator": "Acema S.p.A.",
-                "ref:mise": "24944"
-            }
-        },
-        {
-            "type": "node",
             "id": 5851842486,
             "lat": 43.8537114,
             "lon": 12.8023822,
@@ -2591,6 +2539,35 @@
                 "operator": "Oil One Montelabbate",
                 "ref:mise": "24115",
                 "website": "https://www.oilone.eu/oilone/portfolio-articoli/stazione-di-servizio-montelabbatese-pu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851845193,
+            "lat": 43.5856119,
+            "lon": 13.3085981,
+            "timestamp": "2026-02-24T16:05:11Z",
+            "version": 8,
+            "changeset": 178996625,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:city": "Monte San Vito",
+                "addr:milestone": "71.28",
+                "addr:postcode": "60037",
+                "addr:street": "Strada Provinciale 76 della Val d'Esino",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:biodiesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil 7302 Monte San Vito",
+                "opening_hours": "24/7",
+                "operator": "T.D.M. S.r.l.",
+                "ref": "7302",
+                "ref:mise": "60199",
+                "self_service": "yes"
             }
         },
         {
@@ -2624,11 +2601,11 @@
             "id": 5851845219,
             "lat": 43.9058676,
             "lon": 12.8893156,
-            "timestamp": "2025-09-26T18:01:33Z",
-            "version": 6,
-            "changeset": 172497772,
-            "user": "Max Ciaone",
-            "uid": 3240268,
+            "timestamp": "2026-03-01T23:16:16Z",
+            "version": 8,
+            "changeset": 179230691,
+            "user": "Galessandroni",
+            "uid": 133076,
             "tags": {
                 "addr:city": "Pesaro",
                 "addr:housenumber": "6",
@@ -2641,8 +2618,10 @@
                 "fuel:diesel": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
+                "opening_hours": "Mo-Su 00:00-23:59",
                 "operator": "Tamoil - Pesaro Gagarin 6",
-                "ref:mise": "13635"
+                "ref:mise": "13635",
+                "self_service": "yes"
             }
         },
         {
@@ -2701,13 +2680,13 @@
         {
             "type": "node",
             "id": 5872927686,
-            "lat": 44.0705023,
-            "lon": 12.5649194,
-            "timestamp": "2026-01-03T18:36:41Z",
-            "version": 5,
-            "changeset": 176793557,
-            "user": "Valerio_Bozzolan",
-            "uid": 1875845,
+            "lat": 44.0704806,
+            "lon": 12.5648869,
+            "timestamp": "2026-03-08T07:36:16Z",
+            "version": 6,
+            "changeset": 179521111,
+            "user": "Aluminum0173",
+            "uid": 16035231,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:housenumber": "57",
@@ -2788,35 +2767,6 @@
                 "name": "Carrefour",
                 "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-13:00",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 6736050186,
-            "lat": 43.8910209,
-            "lon": 12.8912819,
-            "timestamp": "2023-07-21T15:28:54Z",
-            "version": 4,
-            "changeset": 138819337,
-            "user": "francesco vichi",
-            "uid": 4249125,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "2475",
-                "addr:postcode": "61122",
-                "addr:street": "Via Sandro Pertini",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "fuel:cng": "yes",
-                "fuel:diesel": "yes",
-                "fuel:lng": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_100": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "operator": "Forini S.p.A.",
-                "ref:mise": "43332"
             }
         },
         {
@@ -2931,32 +2881,6 @@
                 "phone": "+39 0541 769611",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006886.html"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7638765328,
-            "lat": 43.888802,
-            "lon": 12.9078948,
-            "timestamp": "2022-11-21T03:12:36Z",
-            "version": 4,
-            "changeset": 129176856,
-            "user": "totera",
-            "uid": 123412,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "86",
-                "addr:postcode": "61122",
-                "addr:street": "Via del Novecento",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "contact:fax": "+39 0721 391834",
-                "contact:phone": "+39 0721 391513",
-                "name": "Conad Superstore",
-                "opening_hours": "Mo-Sa 07:30-20:30; Su 08:00-20:00",
-                "ref:vatin": "IT00874230410",
-                "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/conad-superstore-via-del-novecento-86-61122--pesaro--009355"
             }
         },
         {
@@ -3789,7 +3713,7 @@
             "timestamp": "2024-10-20T22:34:19Z",
             "version": 2,
             "changeset": 158147886,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Rimini",
@@ -3855,11 +3779,11 @@
             "id": 12512352402,
             "lat": 43.9077569,
             "lon": 12.8669878,
-            "timestamp": "2025-12-22T10:07:23Z",
-            "version": 8,
-            "changeset": 176254810,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2026-03-02T10:23:00Z",
+            "version": 9,
+            "changeset": 179246836,
+            "user": "_basii",
+            "uid": 23832747,
             "tags": {
                 "addr:city": "Pesaro",
                 "addr:housenumber": "23",
@@ -3871,7 +3795,7 @@
                 "contact:instagram": "lorenzo.fratesi.menopancia",
                 "currency:XBT": "yes",
                 "leisure": "fitness_centre",
-                "name": "MenoPancia",
+                "name": "Big gym",
                 "payment:cash": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
@@ -4169,6 +4093,40 @@
                 "contact:phone": "+39 0721 897588",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 135069734,
+            "timestamp": "2026-03-14T16:50:46Z",
+            "version": 3,
+            "changeset": 179866337,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                1483790232,
+                1483790229,
+                1483790236,
+                1483790243,
+                1483790242,
+                1483790225,
+                1483790241,
+                1483790234,
+                1483790232
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "41",
+                "addr:postcode": "61121",
+                "addr:street": "Via Canale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "contact:fax": "+39 0721 23874",
+                "contact:phone": "+39 0721 403421",
+                "name": "Conad",
+                "ref:vatin": "IT02671460414",
+                "shop": "supermarket",
+                "wheelchair": "limited"
             }
         },
         {
@@ -4806,6 +4764,110 @@
         },
         {
             "type": "way",
+            "id": 783721418,
+            "timestamp": "2026-03-14T17:29:03Z",
+            "version": 2,
+            "changeset": 179868891,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                7320189154,
+                7320189153,
+                7320189148,
+                7320189147,
+                7320189154
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "2502",
+                "addr:postcode": "61122",
+                "addr:street": "Via Sandro Pertini",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lng": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Acema S.p.A.",
+                "ref:mise": "24944"
+            }
+        },
+        {
+            "type": "way",
+            "id": 783721419,
+            "timestamp": "2026-03-14T17:29:03Z",
+            "version": 2,
+            "changeset": 179868891,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                7320189155,
+                7320189158,
+                7320189157,
+                7320189156,
+                7320189155
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "2475",
+                "addr:postcode": "61122",
+                "addr:street": "Via Sandro Pertini",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "fuel:cng": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lng": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Forini S.p.A.",
+                "ref:mise": "43332"
+            }
+        },
+        {
+            "type": "way",
+            "id": 783721420,
+            "timestamp": "2026-03-14T17:29:03Z",
+            "version": 2,
+            "changeset": 179868891,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                7320189162,
+                7320189161,
+                7320189160,
+                7320189159,
+                7320189162
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "2475",
+                "addr:postcode": "61122",
+                "addr:street": "Via Sandro Pertini",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "fuel:cng": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lng": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Forini S.p.A.",
+                "ref:mise": "43332"
+            }
+        },
+        {
+            "type": "way",
             "id": 1002576029,
             "timestamp": "2022-07-26T12:07:14Z",
             "version": 3,
@@ -4838,6 +4900,44 @@
                 "operator": "Acema S.P.A.",
                 "ref:mise": "13644",
                 "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1151915267,
+            "timestamp": "2026-03-14T16:50:46Z",
+            "version": 2,
+            "changeset": 179866337,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                10715909005,
+                10715909006,
+                10715909007,
+                10715909008,
+                10715909009,
+                10715909010,
+                10715909005
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:postcode": "61122",
+                "addr:street": "Via Yuri Gagarin",
+                "addr:suburb": "Villa San Martino",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "ref:mise": "31117",
+                "self_service": "yes",
+                "source": "MISE - Ministero Sviluppo Economico",
+                "wheelchair": "yes"
             }
         },
         {

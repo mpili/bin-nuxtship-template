@@ -1934,6 +1934,34 @@
         },
         {
             "type": "way",
+            "id": 513186038,
+            "timestamp": "2026-03-09T16:16:33Z",
+            "version": 3,
+            "changeset": 179593195,
+            "user": "Emabarto",
+            "uid": 10142223,
+            "nodes": [
+                5017195305,
+                5017195304,
+                5017195303,
+                5017195302,
+                5017195301,
+                5017195300,
+                5017195299,
+                5017195305
+            ],
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "operator": "Am Carburanti Sas di Alfano Luigi e C.",
+                "ref:mise": "35288",
+                "source:date": "2018-04-16"
+            }
+        },
+        {
+            "type": "way",
             "id": 580221264,
             "timestamp": "2024-10-05T12:35:28Z",
             "version": 2,

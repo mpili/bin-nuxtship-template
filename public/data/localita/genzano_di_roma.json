@@ -262,34 +262,6 @@
         },
         {
             "type": "node",
-            "id": 228231625,
-            "lat": 41.8636937,
-            "lon": 12.5492672,
-            "timestamp": "2025-10-02T10:14:30Z",
-            "version": 13,
-            "changeset": 172742138,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:housenumber": "605",
-                "addr:postcode": "00174",
-                "addr:street": "Via Tuscolana",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "compressed_air": "yes",
-                "name": "Q8",
-                "opening_hours": "24/7",
-                "operator": "Bernardini Luca",
-                "ref:mise": "38958",
-                "self_service": "yes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 295226736,
             "lat": 41.9186091,
             "lon": 12.5223138,
@@ -337,28 +309,6 @@
                 "operator": "Termo Trading Petroli S.R.L.",
                 "ref:mise": "39497",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 382936481,
-            "lat": 41.784027,
-            "lon": 12.2516146,
-            "timestamp": "2025-10-02T10:18:40Z",
-            "version": 9,
-            "changeset": 172742298,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Fiumicino",
-                "addr:postcode": "00054",
-                "addr:street": "Piazza Umberto Nobile",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Brancato Luciano",
-                "ref:mise": "17306"
             }
         },
         {
@@ -1676,6 +1626,24 @@
         },
         {
             "type": "node",
+            "id": 1885324995,
+            "lat": 41.9564628,
+            "lon": 12.6971302,
+            "timestamp": "2026-01-24T20:18:16Z",
+            "version": 3,
+            "changeset": 177660309,
+            "user": "Simone Iannone",
+            "uid": 3104281,
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "operator": "ipermercato",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 1915163981,
             "lat": 41.7905368,
             "lon": 12.6159399,
@@ -1770,17 +1738,22 @@
         {
             "type": "node",
             "id": 1967249053,
-            "lat": 42.055519,
-            "lon": 12.6165254,
-            "timestamp": "2025-11-28T06:13:41Z",
-            "version": 5,
-            "changeset": 175224614,
+            "lat": 42.0557305,
+            "lon": 12.6167242,
+            "timestamp": "2026-02-23T06:17:03Z",
+            "version": 6,
+            "changeset": 178927602,
             "user": "Michele Aquilani",
             "uid": 3860151,
             "tags": {
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
+                "addr:city": "Monterotondo",
+                "addr:country": "IT",
+                "addr:housenumber": "59",
+                "addr:postcode": "00015",
+                "addr:street": "Via Edmondo Riva",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
                 "shop": "supermarket"
             }
         },
@@ -2499,11 +2472,11 @@
             "id": 3640661670,
             "lat": 41.9964602,
             "lon": 12.7239192,
-            "timestamp": "2025-10-22T10:35:00Z",
-            "version": 4,
-            "changeset": 173620774,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-12T10:18:54Z",
+            "version": 5,
+            "changeset": 178447443,
+            "user": "wheelmap_visitor",
+            "uid": 290680,
             "tags": {
                 "addr:city": "Guidonia Montecelio",
                 "addr:housenumber": "51",
@@ -2513,7 +2486,8 @@
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "wheelchair": "no"
             }
         },
         {
@@ -2960,7 +2934,7 @@
             "timestamp": "2025-01-16T19:00:40Z",
             "version": 4,
             "changeset": 161430427,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Frosinone",
@@ -7339,7 +7313,7 @@
             "timestamp": "2023-08-18T16:06:51Z",
             "version": 2,
             "changeset": 140064767,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Aprilia",
@@ -7945,11 +7919,11 @@
             "id": 10248418330,
             "lat": 41.8969889,
             "lon": 12.474344,
-            "timestamp": "2025-12-24T08:52:16Z",
-            "version": 5,
-            "changeset": 176343236,
-            "user": "confusedbuffalo",
-            "uid": 242345,
+            "timestamp": "2026-01-25T14:52:20Z",
+            "version": 6,
+            "changeset": 177685066,
+            "user": "Wheninrome",
+            "uid": 23113514,
             "tags": {
                 "addr:city": "Roma",
                 "addr:housenumber": "6",
@@ -7961,6 +7935,8 @@
                 "currency:XBT": "yes",
                 "description": "Beauty Salon",
                 "email": "maisondebeaute@fastwebnet.it",
+                "female": "yes",
+                "male": "yes",
                 "name": "Maison de Beaut\u00e9 Opera",
                 "opening_hours": "Tu-Sa 09:00-19:00",
                 "payment:lightning": "yes",
@@ -8085,11 +8061,11 @@
             "id": 10758272642,
             "lat": 41.7982037,
             "lon": 12.2978829,
-            "timestamp": "2025-01-06T14:36:31Z",
-            "version": 4,
-            "changeset": 161060852,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2026-01-26T19:31:21Z",
+            "version": 5,
+            "changeset": 177734357,
+            "user": "Mateusz Konieczny - bot account - ATP import",
+            "uid": 22544915,
             "tags": {
                 "addr:city": "Fiumicino",
                 "addr:postcode": "00054",
@@ -8106,6 +8082,7 @@
                 "source": "https://www.italiaoggi.it/news/ikea-apre-a-fiumicino-il-primo-xs-store-d-italia-2596686",
                 "start_date": "2023-03-23",
                 "survey:date": "2024-04-01",
+                "website": "https://www.ikea.com/it/it/stores/roma-fiumicino/",
                 "wheelchair": "yes"
             }
         },
@@ -9006,7 +8983,7 @@
             "timestamp": "2024-03-07T20:31:42Z",
             "version": 1,
             "changeset": 148359036,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Albano Laziale",
@@ -9026,7 +9003,7 @@
             "timestamp": "2024-03-07T20:31:42Z",
             "version": 1,
             "changeset": 148359036,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Albano Laziale",
@@ -9046,7 +9023,7 @@
             "timestamp": "2024-03-07T20:43:50Z",
             "version": 1,
             "changeset": 148359419,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Albano Laziale",
@@ -9083,7 +9060,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "addr:city": "Genzano di Roma",
@@ -9103,7 +9080,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "United Colors of Benetton",
@@ -9121,7 +9098,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Mondadori",
@@ -9138,7 +9115,7 @@
             "timestamp": "2024-03-08T14:46:39Z",
             "version": 1,
             "changeset": 148387523,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Intimissimi",
@@ -9180,11 +9157,11 @@
             "id": 11723361058,
             "lat": 41.7309085,
             "lon": 12.6587998,
-            "timestamp": "2024-05-02T13:11:05Z",
-            "version": 5,
-            "changeset": 150793763,
-            "user": "mnestico",
-            "uid": 20712493,
+            "timestamp": "2026-02-10T11:33:17Z",
+            "version": 6,
+            "changeset": 178354893,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:city": "Albano Laziale",
                 "addr:housenumber": "10",
@@ -9197,7 +9174,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "391 420 3984",
+                "phone": "+39 391 420 3984",
                 "shop": "hairdresser"
             }
         },
@@ -10132,7 +10109,7 @@
             "timestamp": "2024-06-02T12:37:21Z",
             "version": 1,
             "changeset": 152157953,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Calzedonia",
@@ -10192,7 +10169,7 @@
             "timestamp": "2024-06-02T12:37:21Z",
             "version": 1,
             "changeset": 152157953,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Tezenis",
@@ -10210,7 +10187,7 @@
             "timestamp": "2024-06-02T12:37:21Z",
             "version": 1,
             "changeset": 152157953,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Upim",
@@ -10250,11 +10227,11 @@
             "id": 11962328962,
             "lat": 41.736676,
             "lon": 12.2787997,
-            "timestamp": "2024-10-16T15:29:51Z",
-            "version": 4,
-            "changeset": 157970663,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-02-10T11:33:17Z",
+            "version": 5,
+            "changeset": 178354893,
+            "user": "Robot8A",
+            "uid": 393359,
             "tags": {
                 "addr:housenumber": "100",
                 "addr:street": "Via delle Baleniere",
@@ -10265,7 +10242,7 @@
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",
-                "phone": "0683525382",
+                "phone": "+39 06 8352 5382",
                 "shop": "clothes",
                 "wheelchair": "no"
             }
@@ -10299,15 +10276,16 @@
         {
             "type": "node",
             "id": 11990459758,
-            "lat": 41.7374574,
-            "lon": 12.2789589,
-            "timestamp": "2025-12-24T08:52:16Z",
-            "version": 6,
-            "changeset": 176343236,
-            "user": "confusedbuffalo",
-            "uid": 242345,
+            "lat": 41.7374669,
+            "lon": 12.2789475,
+            "timestamp": "2026-02-08T09:09:09Z",
+            "version": 7,
+            "changeset": 178257032,
+            "user": "Michele Aquilani",
+            "uid": 3860151,
             "tags": {
-                "addr:city": "Lido di Ostia",
+                "addr:city": "Roma",
+                "addr:country": "IT",
                 "addr:housenumber": "119",
                 "addr:postcode": "00121",
                 "addr:street": "Via delle Baleniere",
@@ -10857,6 +10835,29 @@
         },
         {
             "type": "node",
+            "id": 13140775145,
+            "lat": 41.7349157,
+            "lon": 12.2785049,
+            "timestamp": "2026-01-27T11:27:36Z",
+            "version": 2,
+            "changeset": 177758702,
+            "user": "giorgio92",
+            "uid": 3731185,
+            "tags": {
+                "addr:housenumber": "26/36",
+                "addr:street": "Via delle Gondole",
+                "branch": "Librerie",
+                "brand": "La Feltrinelli",
+                "brand:wikidata": "Q96311190",
+                "description": "Libreria",
+                "name": "La Feltrinelli",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/punto-vendita/lido-di-ostia/lf-ostia/64"
+            }
+        },
+        {
+            "type": "node",
             "id": 13152790657,
             "lat": 41.465125,
             "lon": 12.9043592,
@@ -11011,6 +11012,57 @@
                 "operator": "MediaMarket S.p.A.",
                 "shop": "electronics",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13521568472,
+            "lat": 41.8203056,
+            "lon": 12.4735596,
+            "timestamp": "2026-02-03T14:20:07Z",
+            "version": 2,
+            "changeset": 178053303,
+            "user": "^SiMoNe^",
+            "uid": 23783613,
+            "tags": {
+                "addr:city": "Roma",
+                "addr:postcode": "00144",
+                "addr:street": "Viale dell'Oceano Atlantico",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil",
+                "self_service": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13577896781,
+            "lat": 41.7158323,
+            "lon": 12.6907279,
+            "timestamp": "2026-02-18T20:11:49Z",
+            "version": 1,
+            "changeset": 178741738,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Nemi",
+                "addr:housenumber": "18",
+                "addr:postcode": "00040",
+                "addr:street": "Via Lega Latina",
+                "check_date": "2026-02-18",
+                "check_date:currency:XBT": "2026-02-18",
+                "contact:facebook": "relightstudio",
+                "contact:instagram": "relight_studio_",
+                "craft": "photographer",
+                "currency:XBT": "yes",
+                "email": "relightstudioroma@gmail.com",
+                "name": "Relight Studio",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 334 652 3052",
+                "website": "https://www.relightstudio.it/"
             }
         },
         {
@@ -12341,19 +12393,35 @@
         {
             "type": "way",
             "id": 316106948,
-            "timestamp": "2025-10-18T12:06:17Z",
-            "version": 3,
-            "changeset": 173447236,
-            "user": "toponomastica_comune_arenzano",
-            "uid": 14257573,
+            "timestamp": "2026-03-02T20:02:53Z",
+            "version": 4,
+            "changeset": 179272345,
+            "user": "R\u00d8SH\u00d8",
+            "uid": 20518511,
             "nodes": [
                 3222161185,
                 3222161190,
+                13612874009,
                 3222161186,
                 3222161187,
+                13612874008,
+                13612874028,
+                13612874030,
+                13612874027,
+                13612874026,
+                13612874029,
+                13612874045,
+                13612874044,
+                13612874046,
+                13612874042,
+                13612874041,
                 3222161185
             ],
             "tags": {
+                "addr:city": "Pomezia",
+                "addr:housenumber": "117",
+                "addr:postcode": "00071",
+                "addr:street": "Via del Mare",
                 "brand": "Carrefour",
                 "brand:wikidata": "Q217599",
                 "brand:wikipedia": "fr:Carrefour (enseigne)",
@@ -13902,7 +13970,7 @@
             "timestamp": "2024-05-06T19:34:13Z",
             "version": 4,
             "changeset": 150980419,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "nodes": [
                 6253384740,
@@ -14521,7 +14589,7 @@
             "timestamp": "2023-08-18T15:40:07Z",
             "version": 2,
             "changeset": 140063703,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "nodes": [
                 4801802474,
@@ -14751,11 +14819,11 @@
         {
             "type": "way",
             "id": 1060419074,
-            "timestamp": "2022-05-16T05:57:14Z",
-            "version": 1,
-            "changeset": 121033676,
-            "user": "Michele Aquilani",
-            "uid": 3860151,
+            "timestamp": "2026-01-30T09:34:21Z",
+            "version": 2,
+            "changeset": 177881289,
+            "user": "MDADS",
+            "uid": 20184279,
             "nodes": [
                 9742689438,
                 585150701,
@@ -14773,6 +14841,7 @@
                 "brand:wikidata": "Q217599",
                 "building": "yes",
                 "name": "Carrefour",
+                "opening_hours": "Mo-Su 08:00-20:30",
                 "shop": "supermarket"
             }
         },
@@ -15541,7 +15610,7 @@
             "timestamp": "2024-05-06T19:34:13Z",
             "version": 2,
             "changeset": 150980419,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "nodes": [
                 11061279836,
@@ -16043,6 +16112,70 @@
                 "name": "Conad City",
                 "operator": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1487270415,
+            "timestamp": "2026-03-10T16:56:25Z",
+            "version": 1,
+            "changeset": 179649428,
+            "user": "vecchiemaniere",
+            "uid": 115535,
+            "nodes": [
+                13634403312,
+                13634403311,
+                13634403310,
+                13634403309,
+                13634403312
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "131",
+                "addr:postcode": "00141",
+                "addr:street": "Viale Jonio",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "roof",
+                "full_id": "w381955325",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "osm_id": "381955325",
+                "osm_type": "way",
+                "ref:mise": "11812"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1489477727,
+            "timestamp": "2026-03-16T14:50:04Z",
+            "version": 1,
+            "changeset": 179955689,
+            "user": "vecchiemaniere",
+            "uid": 115535,
+            "nodes": [
+                13652539270,
+                13652539269,
+                13652539268,
+                13652539267,
+                13652539270
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "131",
+                "addr:postcode": "00141",
+                "addr:street": "Viale Jonio",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "roof",
+                "full_id": "w381955325",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "osm_id": "381955325",
+                "osm_type": "way",
+                "ref:mise": "11812"
             }
         },
         {

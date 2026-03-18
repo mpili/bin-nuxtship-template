@@ -7,7 +7,7 @@
     "idlocalita": "pordenone",
     "telegram_weburl": "https://web.telegram.org/a/#-1001742172532",
     "telegram_app": "https://t.me/bitcoinpordenone",
-    "telegram_members": 25.0,
+    "telegram_members": 22.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -699,11 +699,11 @@
             "id": 1586852268,
             "lat": 45.9444396,
             "lon": 12.7240486,
-            "timestamp": "2025-09-30T08:40:18Z",
-            "version": 7,
-            "changeset": 172649282,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-18T23:31:20Z",
+            "version": 8,
+            "changeset": 178747136,
+            "user": "ocramzir",
+            "uid": 3384914,
             "tags": {
                 "addr:city": "Fiume Veneto",
                 "addr:housenumber": "42",
@@ -715,7 +715,7 @@
                 "check_date": "2025-06-04",
                 "contact:email": "INFO.IT@hm.com",
                 "contact:facebook": "https://m.facebook.com/hm",
-                "contact:phone": "+39 800 599 155",
+                "contact:phone": "+39800599155",
                 "contact:website": "www.hm.com",
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
@@ -988,11 +988,11 @@
             "id": 2522211618,
             "lat": 45.6719646,
             "lon": 12.1757073,
-            "timestamp": "2025-10-26T14:03:56Z",
-            "version": 5,
-            "changeset": 173796138,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-13T10:55:03Z",
+            "version": 6,
+            "changeset": 178497881,
+            "user": "CjMalone",
+            "uid": 6816132,
             "tags": {
                 "addr:city": "Paese",
                 "addr:housenumber": "28/32",
@@ -1001,9 +1001,10 @@
                 "addr:suburb": "Sovernigo",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
-                "name": "Spar",
+                "name": "Interspar",
                 "ref:vatin": "IT00882800212",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/punto-vendita-interspar/181/paese/"
             }
         },
         {
@@ -2000,7 +2001,7 @@
             "timestamp": "2024-09-03T13:32:45Z",
             "version": 7,
             "changeset": 156143081,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "San Don\u00e0 di Piave",
@@ -3619,29 +3620,6 @@
         },
         {
             "type": "node",
-            "id": 9729788234,
-            "lat": 45.6399917,
-            "lon": 12.5931258,
-            "timestamp": "2025-08-08T12:44:17Z",
-            "version": 4,
-            "changeset": 170153870,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "addr:city": "San Don\u00e0 di Piave",
-                "addr:housenumber": "14",
-                "addr:postcode": "30027",
-                "addr:street": "Via Como",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Eurospar",
-                "phone": "+39 0421 482222",
-                "shop": "supermarket",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 9750016941,
             "lat": 45.792382,
             "lon": 12.8155281,
@@ -4887,11 +4865,11 @@
             "id": 11916049627,
             "lat": 45.9601521,
             "lon": 12.9767674,
-            "timestamp": "2025-10-16T20:08:32Z",
-            "version": 2,
-            "changeset": 173383089,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-06T14:35:54Z",
+            "version": 3,
+            "changeset": 178190828,
+            "user": "wildmaps",
+            "uid": 4365159,
             "tags": {
                 "addr:city": "Codroipo",
                 "addr:housenumber": "103",
@@ -4901,7 +4879,7 @@
                 "brand:wikidata": "Q2042514",
                 "clothes": "children",
                 "name": "OVS",
-                "phone": "04321572589",
+                "phone": "+39 0432 157 2589",
                 "shop": "clothes",
                 "website": "https://stores.ovs.it/it/italia/friuli-venezia-giulia/udine/codroipo-via-candotti-103?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Codroipo_4677"
             }
@@ -5615,6 +5593,40 @@
                 "payment:onchain": "yes",
                 "phone": "+39 351 742 2948",
                 "shop": "bakery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13204286588,
+            "lat": 45.6506688,
+            "lon": 12.308671,
+            "timestamp": "2026-03-15T09:05:55Z",
+            "version": 2,
+            "changeset": 179888191,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "name": "IKEA",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13204286763,
+            "lat": 45.6509233,
+            "lon": 12.3079906,
+            "timestamp": "2026-03-15T09:05:55Z",
+            "version": 2,
+            "changeset": 179888191,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
             }
         },
         {

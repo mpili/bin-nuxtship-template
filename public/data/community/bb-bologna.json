@@ -7,7 +7,7 @@
     "idlocalita": "bologna",
     "telegram_weburl": "https://web.telegram.org/a/#-1001072838404",
     "telegram_app": "https://t.me/bitcoinbeerbologna",
-    "telegram_members": 225.0,
+    "telegram_members": 223.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1392,11 +1392,11 @@
             "id": 2973090633,
             "lat": 44.4954802,
             "lon": 11.3426101,
-            "timestamp": "2024-02-12T10:18:22Z",
-            "version": 5,
-            "changeset": 147360025,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-13T17:23:33Z",
+            "version": 6,
+            "changeset": 179821543,
+            "user": "WinstonSmith",
+            "uid": 36030,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "4",
@@ -1405,7 +1405,7 @@
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "brand:wikipedia": "en:H&M",
-                "check_date": "2024-02-12",
+                "check_date": "2026-03-13",
                 "name": "H&M",
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "phone": "+39 051 7459159",
@@ -1875,11 +1875,11 @@
             "id": 3813830909,
             "lat": 44.4953243,
             "lon": 11.3425752,
-            "timestamp": "2024-02-12T10:18:22Z",
-            "version": 5,
-            "changeset": 147360025,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-13T17:25:32Z",
+            "version": 6,
+            "changeset": 179821543,
+            "user": "WinstonSmith",
+            "uid": 36030,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "2f",
@@ -1888,7 +1888,7 @@
                 "brand": "Calzedonia",
                 "brand:wikidata": "Q1027874",
                 "brand:wikipedia": "en:Calzedonia",
-                "check_date": "2024-02-12",
+                "check_date": "2026-03-13",
                 "name": "Calzedonia",
                 "shop": "clothes"
             }
@@ -7533,13 +7533,13 @@
         {
             "type": "node",
             "id": 12990277520,
-            "lat": 44.3672851,
-            "lon": 11.6802431,
-            "timestamp": "2025-07-09T19:01:52Z",
-            "version": 1,
-            "changeset": 168710697,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "lat": 44.3673072,
+            "lon": 11.6801573,
+            "timestamp": "2026-03-15T17:25:16Z",
+            "version": 2,
+            "changeset": 179910034,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "amenity": "parcel_locker",
                 "brand": "Conad",
@@ -7717,6 +7717,26 @@
                 "name": "Borgo Delle Erbe",
                 "phone": "+39 353 492 7217",
                 "website": "https://borgomameli.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13650962752,
+            "lat": 44.505881,
+            "lon": 11.3953548,
+            "timestamp": "2026-03-15T22:51:45Z",
+            "version": 1,
+            "changeset": 179920514,
+            "user": "Cybermanx",
+            "uid": 22604600,
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0516014258",
+                "shop": "electronics"
             }
         },
         {
@@ -9899,17 +9919,17 @@
         {
             "type": "way",
             "id": 793913119,
-            "timestamp": "2025-08-18T21:53:15Z",
-            "version": 8,
-            "changeset": 170641678,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-15T17:25:16Z",
+            "version": 9,
+            "changeset": 179910034,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "nodes": [
-                2739532412,
+                13650304138,
                 7426395117,
                 7426395120,
                 7426395118,
-                2739532412
+                13650304138
             ],
             "tags": {
                 "addr:city": "Imola",
@@ -9937,37 +9957,6 @@
                 "self_service": "yes",
                 "source": "GPS",
                 "website": "https://www.conad.it/ricerca-negozi/distributore.9788.html"
-            }
-        },
-        {
-            "type": "way",
-            "id": 813473387,
-            "timestamp": "2025-10-25T16:12:44Z",
-            "version": 4,
-            "changeset": 173763093,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                7598692490,
-                7598692491,
-                7598692492,
-                7598692493,
-                7598692490
-            ],
-            "tags": {
-                "addr:city": "Bologna",
-                "addr:housenumber": "14",
-                "addr:postcode": "40138",
-                "addr:street": "Via dell'Industria",
-                "addr:suburb": "Pilastro",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "brand:wikipedia": "it:Trony",
-                "building": "retail",
-                "name": "Trony",
-                "operator": "Trony",
-                "phone": "+39 0516014258",
-                "shop": "electronics"
             }
         },
         {

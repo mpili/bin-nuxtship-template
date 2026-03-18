@@ -792,13 +792,13 @@
         {
             "type": "node",
             "id": 227986885,
-            "lat": 43.8354001,
-            "lon": 10.6263365,
-            "timestamp": "2025-10-16T19:02:13Z",
-            "version": 7,
-            "changeset": 173380936,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 43.8354247,
+            "lon": 10.626338,
+            "timestamp": "2026-03-12T17:58:33Z",
+            "version": 8,
+            "changeset": 179770120,
+            "user": "DnaX",
+            "uid": 69259,
             "tags": {
                 "addr:city": "Porcari",
                 "addr:housenumber": "73",
@@ -5199,7 +5199,7 @@
             "timestamp": "2025-05-20T14:28:06Z",
             "version": 3,
             "changeset": 166528079,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "amenity": "fuel",
@@ -6255,13 +6255,13 @@
         {
             "type": "node",
             "id": 10202296781,
-            "lat": 43.7227816,
-            "lon": 10.9739028,
-            "timestamp": "2025-02-18T21:22:58Z",
-            "version": 2,
-            "changeset": 162677850,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 43.7223241,
+            "lon": 10.9737097,
+            "timestamp": "2026-03-13T16:53:46Z",
+            "version": 3,
+            "changeset": 179820474,
+            "user": "Prt_An",
+            "uid": 1248925,
             "tags": {
                 "addr:city": "Empoli",
                 "addr:housenumber": "41",
@@ -7887,6 +7887,24 @@
                 "phone": "+39 0583 295628",
                 "shop": "supermarket",
                 "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.ARI.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13641630592,
+            "lat": 43.8558799,
+            "lon": 10.5655854,
+            "timestamp": "2026-03-12T16:59:28Z",
+            "version": 1,
+            "changeset": 179767479,
+            "user": "DnaX",
+            "uid": 69259,
+            "tags": {
+                "brand": "OVS Kids",
+                "brand:wikidata": "Q2042514",
+                "clothes": "children",
+                "name": "OVS Kids",
+                "shop": "clothes"
             }
         },
         {

@@ -108,11 +108,11 @@
             "id": 227965422,
             "lat": 45.055276,
             "lon": 9.499236,
-            "timestamp": "2025-10-03T16:32:33Z",
-            "version": 6,
-            "changeset": 172800792,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-16T10:14:16Z",
+            "version": 12,
+            "changeset": 179941979,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Sarmato",
                 "addr:housenumber": "KM. 173+462",
@@ -121,9 +121,15 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "G.E. di Tassi Giovanni & Bisi Emanuela S.N.C.",
-                "ref:mise": "34920"
+                "ref:mise": "34920",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -388,13 +394,13 @@
         {
             "type": "node",
             "id": 613400888,
-            "lat": 45.0429967,
-            "lon": 9.7390816,
-            "timestamp": "2025-10-03T16:37:57Z",
-            "version": 8,
-            "changeset": 172801020,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.0429653,
+            "lon": 9.739016,
+            "timestamp": "2026-03-16T14:24:16Z",
+            "version": 15,
+            "changeset": 179953505,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Piacenza",
                 "addr:postcode": "29100",
@@ -402,9 +408,15 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "T.D.M. S.R.L.",
-                "ref:mise": "39406"
+                "ref:mise": "39406",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1596,9 +1608,9 @@
             "id": 3344567960,
             "lat": 45.481276,
             "lon": 9.7813136,
-            "timestamp": "2025-08-24T09:47:13Z",
-            "version": 13,
-            "changeset": 170914694,
+            "timestamp": "2026-01-25T11:03:24Z",
+            "version": 14,
+            "changeset": 177676715,
             "user": "Mannivu",
             "uid": 1950277,
             "tags": {
@@ -1609,7 +1621,7 @@
                 "brand": "Trony",
                 "brand:wikidata": "Q3999692",
                 "brand:wikipedia": "it:Trony",
-                "check_date": "2025-08-24",
+                "check_date": "2026-01-25",
                 "check_date:opening_hours": "2025-08-24",
                 "level": "1",
                 "name": "Trony",
@@ -1623,13 +1635,13 @@
         {
             "type": "node",
             "id": 3725828744,
-            "lat": 44.7824403,
-            "lon": 10.3451302,
-            "timestamp": "2025-10-16T10:58:29Z",
-            "version": 8,
-            "changeset": 173359793,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.7823769,
+            "lon": 10.3455218,
+            "timestamp": "2026-02-10T13:38:48Z",
+            "version": 9,
+            "changeset": 178360626,
+            "user": "ziomio",
+            "uid": 21389832,
             "tags": {
                 "addr:city": "Parma",
                 "addr:housenumber": "14a",
@@ -1650,7 +1662,7 @@
             "timestamp": "2025-03-20T13:33:54Z",
             "version": 4,
             "changeset": 163863583,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Montichiari",
@@ -1883,26 +1895,6 @@
                 "phone": "+39 051 508111",
                 "shop": "supermarket",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4388772593,
-            "lat": 45.4091337,
-            "lon": 9.9308693,
-            "timestamp": "2025-10-23T19:58:47Z",
-            "version": 5,
-            "changeset": 173690709,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Orzinuovi",
-                "addr:postcode": "25034",
-                "addr:street": "Viale Adua",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "name": "Trony",
-                "shop": "electronics"
             }
         },
         {
@@ -2479,6 +2471,25 @@
                 "shop": "supermarket",
                 "source": "survey",
                 "warehouse": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4754952046,
+            "lat": 44.7969629,
+            "lon": 10.3018916,
+            "timestamp": "2026-02-04T15:12:26Z",
+            "version": 3,
+            "changeset": 178099444,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "addr:housenumber": "1a",
+                "addr:street": "Largo Luchino Visconti",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
             }
         },
         {
@@ -3746,11 +3757,11 @@
             "id": 6960392596,
             "lat": 45.4816857,
             "lon": 9.7815888,
-            "timestamp": "2025-10-29T15:15:47Z",
-            "version": 9,
-            "changeset": 173935076,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-01-25T11:01:53Z",
+            "version": 10,
+            "changeset": 177676659,
+            "user": "Mannivu",
+            "uid": 1950277,
             "tags": {
                 "addr:city": "Antegnate",
                 "addr:housenumber": "3",
@@ -3759,7 +3770,7 @@
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "brand:wikipedia": "en:H&M",
-                "check_date": "2025-08-24",
+                "check_date": "2026-01-25",
                 "check_date:opening_hours": "2025-08-24",
                 "internet_access": "no",
                 "level": "1",
@@ -4107,9 +4118,9 @@
             "id": 9796784831,
             "lat": 45.4814653,
             "lon": 9.7827193,
-            "timestamp": "2025-01-05T14:28:13Z",
-            "version": 7,
-            "changeset": 161022459,
+            "timestamp": "2026-01-25T11:01:53Z",
+            "version": 8,
+            "changeset": 177676659,
             "user": "Mannivu",
             "uid": 1950277,
             "tags": {
@@ -4117,7 +4128,7 @@
                 "addr:street": "Via del commercio",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
-                "check_date": "2025-01-05",
+                "check_date": "2026-01-25",
                 "check_date:opening_hours": "2025-01-05",
                 "internet_access": "no",
                 "level": "1",
@@ -5169,11 +5180,11 @@
             "id": 11693941996,
             "lat": 44.7975504,
             "lon": 10.3312404,
-            "timestamp": "2025-10-25T19:53:06Z",
-            "version": 4,
-            "changeset": 173770444,
-            "user": "descubrebitcoin",
-            "uid": 17565129,
+            "timestamp": "2026-02-06T01:42:47Z",
+            "version": 5,
+            "changeset": 178163436,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Parma",
                 "addr:housenumber": "65",
@@ -5201,11 +5212,11 @@
                 "currency:USDC": "yes",
                 "currency:USDT": "yes",
                 "currency:XBT": "yes",
+                "description": "L'ATM Bitcoin a Parma si trova accanto all'enoteca Bottiglia Azzurra",
                 "image": "https://shitcoins.club/resources/img/atms/IT/atm-bitcoin-parma-borgo-felino-3.jpg",
                 "indoor": "yes",
                 "level": "0",
                 "name": "Bitcoin ATM - Shitcoins.club",
-                "note": "L'ATM Bitcoin a Parma si trova accanto all'enoteca Bottiglia Azzurra",
                 "opening_hours": "24/7",
                 "operator": "Shitcoins.club",
                 "payment:cash": "yes",
@@ -5234,6 +5245,23 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11894367428,
+            "lat": 44.9807109,
+            "lon": 10.4288825,
+            "timestamp": "2026-03-18T11:26:17Z",
+            "version": 4,
+            "changeset": 180054233,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -5425,9 +5453,9 @@
             "id": 12248218504,
             "lat": 45.4814696,
             "lon": 9.7829912,
-            "timestamp": "2024-10-13T13:11:24Z",
-            "version": 1,
-            "changeset": 157834513,
+            "timestamp": "2026-01-25T11:01:53Z",
+            "version": 2,
+            "changeset": 177676659,
             "user": "Mannivu",
             "uid": 1950277,
             "tags": {
@@ -5435,9 +5463,9 @@
                 "addr:street": "Via del commercio",
                 "brand": "Guess",
                 "brand:wikidata": "Q2470307",
-                "check_date": "2024-10-13",
+                "check_date": "2026-01-25",
                 "level": "1",
-                "name": "Guess",
+                "name": "Oltre",
                 "opening_hours": "Mo-Su,PH 09:00-20:00; Jan 1,Dec 25 off",
                 "payment:cash": "yes",
                 "payment:mastercard": "yes",
@@ -5848,13 +5876,13 @@
         {
             "type": "node",
             "id": 12823360346,
-            "lat": 45.5364398,
-            "lon": 10.2217121,
-            "timestamp": "2025-10-07T06:09:10Z",
-            "version": 3,
-            "changeset": 172942659,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.536405,
+            "lon": 10.2216801,
+            "timestamp": "2026-02-21T14:38:41Z",
+            "version": 4,
+            "changeset": 178862172,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "30C",
@@ -6072,6 +6100,98 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13524231424,
+            "lat": 45.3061388,
+            "lon": 9.4955607,
+            "timestamp": "2026-02-04T13:37:37Z",
+            "version": 1,
+            "changeset": 178095437,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Lodi",
+                "addr:housenumber": "8",
+                "addr:postcode": "26900",
+                "addr:street": "Via Francesco Agello",
+                "check_date": "2026-02-04",
+                "check_date:currency:XBT": "2026-02-04",
+                "contact:facebook": "foresteriacasadilucio",
+                "currency:XBT": "yes",
+                "email": "info@casadilucio.it",
+                "guest_house": "bed_and_breakfast",
+                "name": "Casa di Lucio",
+                "opening_hours": "Mo-Su 09:00 20:30",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "phone": "+39 351 911 0305",
+                "tourism": "guest_house",
+                "website": "https://www.casadilucio.it/it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13530347530,
+            "lat": 45.5379219,
+            "lon": 10.2219248,
+            "timestamp": "2026-02-06T23:30:20Z",
+            "version": 1,
+            "changeset": 178209558,
+            "user": "Arallus",
+            "uid": 22871453,
+            "tags": {
+                "amenity": "fast_food",
+                "brand": "La Piadineria",
+                "brand:wikidata": "Q108195414",
+                "contact:phone": "+39 030294127",
+                "contact:website": "https://www.lapiadineria.com/",
+                "cuisine": "piadina",
+                "currency:XBT": "yes",
+                "indoor_seating": "yes",
+                "name": "La Piadineria",
+                "outdoor_seating": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "yes",
+                "takeaway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13587164996,
+            "lat": 45.536718,
+            "lon": 10.2211622,
+            "timestamp": "2026-02-21T14:38:42Z",
+            "version": 2,
+            "changeset": 178862173,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Tezenis",
+                "brand:wikidata": "Q28056374",
+                "clothes": "women;underwear;swimwear;men;children",
+                "name": "Tezenis",
+                "shop": "clothes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13587181536,
+            "lat": 45.5367085,
+            "lon": 10.2202804,
+            "timestamp": "2026-02-21T14:38:43Z",
+            "version": 1,
+            "changeset": 178862172,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician"
             }
         },
         {
@@ -6319,11 +6439,11 @@
         {
             "type": "way",
             "id": 117671956,
-            "timestamp": "2025-10-30T19:44:56Z",
-            "version": 5,
-            "changeset": 173992931,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-16T14:21:57Z",
+            "version": 6,
+            "changeset": 179953438,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 1325159571,
                 1325159576,
@@ -6344,7 +6464,8 @@
                 "phone": "+39 0523 188 5252",
                 "ref:vatin": "IT11005760159",
                 "shop": "sports",
-                "website": "https://www.decathlon.it/"
+                "website": "https://www.decathlon.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6476,11 +6597,11 @@
         {
             "type": "way",
             "id": 168488037,
-            "timestamp": "2024-06-14T12:48:22Z",
-            "version": 6,
-            "changeset": 152676769,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2026-02-01T15:58:50Z",
+            "version": 7,
+            "changeset": 177970376,
+            "user": "Comino",
+            "uid": 6794624,
             "nodes": [
                 1797396430,
                 1797396188,
@@ -6499,10 +6620,11 @@
                 "addr:city": "Lodi",
                 "addr:housenumber": "6",
                 "addr:postcode": "26900",
-                "addr:street": "via Agello",
+                "addr:street": "Via Agello",
                 "building": "house",
-                "check_date": "2024-06-14",
-                "check_date:currency:XBT": "2024-06-14",
+                "check_date": "2026-02-01",
+                "check_date:currency:XBT": "2026-02-01",
+                "contact:facebook": "villalailabnb",
                 "currency:XBT": "yes",
                 "email": "info@villalaila.com",
                 "guest_house": "bed_and_breakfast",
@@ -6514,10 +6636,10 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
-                "phone": "+393519110305",
+                "phone": "+39 351 911 0305",
                 "rooms": "3",
                 "source": "Cartografia Provincia di Lodi",
-                "tourism": "hotel",
+                "tourism": "guest_house",
                 "website": "https://www.villalaila.com/"
             }
         },
@@ -6839,11 +6961,11 @@
         {
             "type": "way",
             "id": 184125522,
-            "timestamp": "2024-01-29T14:15:50Z",
-            "version": 4,
-            "changeset": 146823785,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-16T13:05:12Z",
+            "version": 7,
+            "changeset": 179950303,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 1945731905,
                 11564372854,
@@ -6865,7 +6987,8 @@
                 "building": "retail",
                 "name": "Unieuro",
                 "shop": "electronics",
-                "source": "Regione Emilia Romagna"
+                "source": "Regione Emilia Romagna",
+                "wheelchair": "yes"
             }
         },
         {
@@ -7092,6 +7215,29 @@
                 "building": "yes",
                 "name": "Conad",
                 "phone": "+39 377 435 507",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 235854318,
+            "timestamp": "2026-01-31T12:55:21Z",
+            "version": 3,
+            "changeset": 177924839,
+            "user": "DnaX",
+            "uid": 69259,
+            "nodes": [
+                2439257313,
+                2439257222,
+                2439257175,
+                2439257287,
+                2439257313
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
                 "shop": "supermarket"
             }
         },
@@ -7773,11 +7919,11 @@
         {
             "type": "way",
             "id": 1173969464,
-            "timestamp": "2025-10-12T10:26:46Z",
-            "version": 2,
-            "changeset": 173172922,
-            "user": "GBAB",
-            "uid": 3335899,
+            "timestamp": "2026-02-10T12:27:08Z",
+            "version": 3,
+            "changeset": 178357559,
+            "user": "ziomio",
+            "uid": 21389832,
             "nodes": [
                 424254628,
                 10908307578,
@@ -7830,10 +7976,7 @@
             ],
             "tags": {
                 "amenity": "fuel",
-                "brand": "Q8",
                 "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "37762",
                 "source:date": "2018-04-16"
             }

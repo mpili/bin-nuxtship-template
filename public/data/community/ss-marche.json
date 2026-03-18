@@ -1961,6 +1961,36 @@
         },
         {
             "type": "node",
+            "id": 5851836452,
+            "lat": 43.4963747,
+            "lon": 13.5486431,
+            "timestamp": "2026-03-14T14:22:12Z",
+            "version": 10,
+            "changeset": 179859719,
+            "user": "Emabarto",
+            "uid": 10142223,
+            "tags": {
+                "addr:city": "Osimo",
+                "addr:housenumber": "127",
+                "addr:milestone": "313.6",
+                "addr:postcode": "60027",
+                "addr:street": "Via Adriatica",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "operator": "Pad Multienergy S.P.A",
+                "ref:mise": "53691",
+                "self_service": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 5851837709,
             "lat": 43.1965439,
             "lon": 13.6691616,
@@ -3526,6 +3556,23 @@
                 "shoes": "sandal",
                 "shop": "shoes",
                 "website": "https://cristhalia.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13652384748,
+            "lat": 43.5119554,
+            "lon": 13.5272917,
+            "timestamp": "2026-03-16T13:30:40Z",
+            "version": 1,
+            "changeset": 179952150,
+            "user": "Emabarto",
+            "uid": 10142223,
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "name": "Chicco",
+                "shop": "baby_goods"
             }
         },
         {

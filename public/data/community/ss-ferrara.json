@@ -7,7 +7,7 @@
     "idlocalita": "ferrara",
     "telegram_weburl": "https://web.telegram.org/a/#-1001822010158",
     "telegram_app": "https://t.me/SatoshiSpritzFerrara",
-    "telegram_members": 59.0,
+    "telegram_members": 58.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -1261,11 +1261,11 @@
             "id": 2973090633,
             "lat": 44.4954802,
             "lon": 11.3426101,
-            "timestamp": "2024-02-12T10:18:22Z",
-            "version": 5,
-            "changeset": 147360025,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-13T17:23:33Z",
+            "version": 6,
+            "changeset": 179821543,
+            "user": "WinstonSmith",
+            "uid": 36030,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "4",
@@ -1274,7 +1274,7 @@
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "brand:wikipedia": "en:H&M",
-                "check_date": "2024-02-12",
+                "check_date": "2026-03-13",
                 "name": "H&M",
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "phone": "+39 051 7459159",
@@ -1721,11 +1721,11 @@
             "id": 3813830909,
             "lat": 44.4953243,
             "lon": 11.3425752,
-            "timestamp": "2024-02-12T10:18:22Z",
-            "version": 5,
-            "changeset": 147360025,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-13T17:25:32Z",
+            "version": 6,
+            "changeset": 179821543,
+            "user": "WinstonSmith",
+            "uid": 36030,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "2f",
@@ -1734,7 +1734,7 @@
                 "brand": "Calzedonia",
                 "brand:wikidata": "Q1027874",
                 "brand:wikipedia": "en:Calzedonia",
-                "check_date": "2024-02-12",
+                "check_date": "2026-03-13",
                 "name": "Calzedonia",
                 "shop": "clothes"
             }
@@ -5188,23 +5188,6 @@
         },
         {
             "type": "node",
-            "id": 11876109191,
-            "lat": 45.2432715,
-            "lon": 11.7447013,
-            "timestamp": "2024-05-03T09:37:19Z",
-            "version": 1,
-            "changeset": 150827576,
-            "user": "DnaX",
-            "uid": 69259,
-            "tags": {
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 11876181365,
             "lat": 44.4954877,
             "lon": 11.3379354,
@@ -6054,6 +6037,26 @@
             }
         },
         {
+            "type": "node",
+            "id": 13650962752,
+            "lat": 44.505881,
+            "lon": 11.3953548,
+            "timestamp": "2026-03-15T22:51:45Z",
+            "version": 1,
+            "changeset": 179920514,
+            "user": "Cybermanx",
+            "uid": 22604600,
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0516014258",
+                "shop": "electronics"
+            }
+        },
+        {
             "type": "way",
             "id": 75650925,
             "timestamp": "2020-03-14T18:04:28Z",
@@ -6593,43 +6596,6 @@
         },
         {
             "type": "way",
-            "id": 350901918,
-            "timestamp": "2025-12-30T02:13:57Z",
-            "version": 4,
-            "changeset": 176606275,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                3566256671,
-                3566256678,
-                3566256643,
-                3566255329,
-                6896416454,
-                6896416453,
-                3566249676,
-                3566256644,
-                3566256654,
-                3566257249,
-                3566257260,
-                3566257753,
-                3566256671
-            ],
-            "tags": {
-                "addr:city": "Conselve",
-                "addr:housenumber": "4",
-                "addr:postcode": "35026",
-                "addr:street": "Via Gianfranco Malipiero",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "building": "yes",
-                "name": "Eurospar",
-                "opening_hours": "Mo-Su 08:00-20:00",
-                "shop": "supermarket",
-                "website": "https://www.despar.it/it/punto-vendita-eurospar/110/conselve/"
-            }
-        },
-        {
-            "type": "way",
             "id": 427214465,
             "timestamp": "2024-05-16T09:57:01Z",
             "version": 6,
@@ -6841,37 +6807,6 @@
                 "operator": "T.D.M. S.R.L.",
                 "ref:mise": "38911",
                 "source": "MISE - Ministero Sviluppo Economico"
-            }
-        },
-        {
-            "type": "way",
-            "id": 813473387,
-            "timestamp": "2025-10-25T16:12:44Z",
-            "version": 4,
-            "changeset": 173763093,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                7598692490,
-                7598692491,
-                7598692492,
-                7598692493,
-                7598692490
-            ],
-            "tags": {
-                "addr:city": "Bologna",
-                "addr:housenumber": "14",
-                "addr:postcode": "40138",
-                "addr:street": "Via dell'Industria",
-                "addr:suburb": "Pilastro",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "brand:wikipedia": "it:Trony",
-                "building": "retail",
-                "name": "Trony",
-                "operator": "Trony",
-                "phone": "+39 0516014258",
-                "shop": "electronics"
             }
         },
         {

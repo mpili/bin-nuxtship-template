@@ -2592,7 +2592,7 @@
             "timestamp": "2025-03-20T13:33:54Z",
             "version": 4,
             "changeset": 163863583,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Montichiari",
@@ -4872,6 +4872,28 @@
                 "phone": "+39 035 459 6086",
                 "shop": "optician",
                 "website": "https://www.grandvision.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9012016617,
+            "lat": 45.7368885,
+            "lon": 9.7482507,
+            "timestamp": "2026-03-18T12:06:30Z",
+            "version": 2,
+            "changeset": 180056203,
+            "user": "Bruno3589",
+            "uid": 9629381,
+            "tags": {
+                "addr:city": "Nembro",
+                "addr:housenumber": "1/3",
+                "addr:postcode": "24027",
+                "addr:street": "Via Monsignor Aldo Nicoli",
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "phone": "+390356018385",
+                "shop": "electronics"
             }
         },
         {
@@ -8973,13 +8995,12 @@
         {
             "type": "way",
             "id": 181887067,
-            "timestamp": "2025-05-23T16:13:12Z",
-            "version": 6,
-            "changeset": 166664074,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2026-03-18T12:06:30Z",
+            "version": 7,
+            "changeset": 180056203,
+            "user": "Bruno3589",
+            "uid": 9629381,
             "nodes": [
-                1922385140,
                 1922385078,
                 1922385087,
                 1922385131,
@@ -8989,12 +9010,13 @@
                 1922385165,
                 1922385117,
                 1922385089,
+                13658627370,
+                13658627372,
                 1922385134,
                 1922385161,
                 1922385173,
                 1922385119,
-                1922385115,
-                1922385140
+                1922385078
             ],
             "tags": {
                 "addr:city": "Nembro",

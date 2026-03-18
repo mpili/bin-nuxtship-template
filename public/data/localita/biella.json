@@ -198,9 +198,9 @@
             "id": 227786819,
             "lat": 45.1906748,
             "lon": 7.8664378,
-            "timestamp": "2025-10-20T20:16:21Z",
-            "version": 7,
-            "changeset": 173554841,
+            "timestamp": "2026-01-25T17:51:36Z",
+            "version": 8,
+            "changeset": 177692276,
             "user": "nick1993",
             "uid": 3335735,
             "tags": {
@@ -211,6 +211,7 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "brand:wikipedia": "en:Tamoil",
+                "fuel:biodiesel": "yes",
                 "fuel:diesel": "yes",
                 "fuel:octane_100": "yes",
                 "fuel:octane_95": "yes",
@@ -1264,28 +1265,6 @@
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
                 "ref:mise": "58002"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1984100955,
-            "lat": 45.3735633,
-            "lon": 8.0787496,
-            "timestamp": "2024-04-23T14:39:50Z",
-            "version": 9,
-            "changeset": 150399251,
-            "user": "Andrea Musuruane",
-            "uid": 90379,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "fuel:diesel": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Bida Rrapi",
-                "ref:mise": "53503"
             }
         },
         {
@@ -3056,11 +3035,11 @@
             "id": 7410186708,
             "lat": 45.5462008,
             "lon": 7.8339549,
-            "timestamp": "2020-04-18T15:48:19Z",
-            "version": 2,
-            "changeset": 83747521,
-            "user": "LaniusCollurio",
-            "uid": 4213793,
+            "timestamp": "2026-01-25T11:30:07Z",
+            "version": 3,
+            "changeset": 177677671,
+            "user": "baprischka",
+            "uid": 974272,
             "tags": {
                 "addr:city": "Settimo Vittone",
                 "addr:housenumber": "5",
@@ -3068,6 +3047,7 @@
                 "addr:street": "Via Montiglie",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
+                "check_date": "2026-01-25",
                 "name": "Conad City",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.007768.html"
@@ -4464,6 +4444,29 @@
                 "shop": "clothes",
                 "website": "https://www.gliorsi.it/store/primark/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13509949629,
+            "lat": 45.7412771,
+            "lon": 7.6550836,
+            "timestamp": "2026-02-05T11:41:36Z",
+            "version": 2,
+            "changeset": 178136286,
+            "user": "mueschel",
+            "uid": 616774,
+            "tags": {
+                "addr:city": "Saint-Vincent",
+                "addr:housenumber": "228",
+                "addr:postcode": "11027",
+                "addr:street": "Via Ponte Romano",
+                "currency:XBT": "yes",
+                "name": "EIVAVIE",
+                "opening_hours": "Mo-Fr 08:00-17:00",
+                "phone": "+39 0166 510137",
+                "shop": "water",
+                "website": "https://www.eivavie.com/"
             }
         },
         {
@@ -6492,6 +6495,33 @@
                 "brand:wikidata": "Q1414836",
                 "name": "Upim",
                 "shop": "department_store"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1482840160,
+            "timestamp": "2026-02-25T10:31:15Z",
+            "version": 1,
+            "changeset": 179029398,
+            "user": "Francoerbi41",
+            "uid": 4982687,
+            "nodes": [
+                13597741124,
+                13597741125,
+                13597741126,
+                13597741127,
+                13597741128,
+                13597741129,
+                13597741130,
+                13597741131,
+                13597741124
+            ],
+            "tags": {
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "yes",
+                "name": "Despar Express",
+                "shop": "convenience"
             }
         }
     ],

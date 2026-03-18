@@ -255,14 +255,13 @@
             "id": 945268543,
             "lat": 39.4862808,
             "lon": 8.899938,
-            "timestamp": "2025-09-29T21:17:44Z",
-            "version": 5,
-            "changeset": 172632984,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-01T19:46:19Z",
+            "version": 6,
+            "changeset": 179224193,
+            "user": "KozaK69",
+            "uid": 12820340,
             "tags": {
                 "addr:city": "Samassi",
-                "addr:housenumber": "KM. 6+288 SNC",
                 "addr:postcode": "09030",
                 "addr:street": "Strada Statale 293 di Giba",
                 "amenity": "fuel",
@@ -2220,17 +2219,17 @@
             "id": 11971358829,
             "lat": 39.2413442,
             "lon": 9.202329,
-            "timestamp": "2025-10-11T16:33:12Z",
-            "version": 5,
-            "changeset": 173145898,
-            "user": "confusedbuffalo",
-            "uid": 242345,
+            "timestamp": "2026-03-07T09:05:59Z",
+            "version": 6,
+            "changeset": 179480170,
+            "user": "dan980",
+            "uid": 1240942,
             "tags": {
                 "addr:city": "Quartu Sant'Elena",
                 "addr:housenumber": "38",
                 "addr:postcode": "09045",
                 "addr:street": "Via Portogallo",
-                "amenity": "bar",
+                "amenity": "cafe",
                 "check_date:currency:XBT": "2024-06-10",
                 "currency:XBT": "yes",
                 "name": "Handy Capp Due",
@@ -2552,6 +2551,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13596108806,
+            "lat": 39.5581363,
+            "lon": 8.7975338,
+            "timestamp": "2026-02-24T17:17:19Z",
+            "version": 1,
+            "changeset": 178999891,
+            "user": "dan980",
+            "uid": 1240942,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
             "type": "way",
             "id": 227571364,
             "timestamp": "2020-10-16T10:15:51Z",
@@ -2713,6 +2729,35 @@
         },
         {
             "type": "way",
+            "id": 294443475,
+            "timestamp": "2026-02-19T19:10:39Z",
+            "version": 3,
+            "changeset": 178788462,
+            "user": "dan980",
+            "uid": 1240942,
+            "nodes": [
+                2980416219,
+                2980416170,
+                2980416009,
+                2980416074,
+                2980416101,
+                2980416116,
+                2980416100,
+                2980416118,
+                2980416214,
+                2980416207,
+                2980416219
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "yes",
+                "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
             "id": 295590855,
             "timestamp": "2025-10-08T18:40:08Z",
             "version": 5,
@@ -2865,38 +2910,6 @@
         },
         {
             "type": "way",
-            "id": 394887105,
-            "timestamp": "2025-12-29T18:14:24Z",
-            "version": 6,
-            "changeset": 176591117,
-            "user": "pagurus",
-            "uid": 14069904,
-            "nodes": [
-                3977791495,
-                3977791488,
-                3977791487,
-                3977791493,
-                3977791495
-            ],
-            "tags": {
-                "addr:city": "Cagliari",
-                "addr:postcode": "09131",
-                "addr:street": "Via dei Giudicati",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "building": "yes",
-                "compressed_air": "no",
-                "layer": "1",
-                "name": "Q8",
-                "operator": "Q8",
-                "ref:mise": "28271",
-                "source:date": "2018-04-16"
-            }
-        },
-        {
-            "type": "way",
             "id": 544817029,
             "timestamp": "2025-10-05T19:00:37Z",
             "version": 3,
@@ -2921,37 +2934,6 @@
                 "layer": "1",
                 "name": "Tamoil",
                 "ref:mise": "22658",
-                "source:date": "2018-04-16"
-            }
-        },
-        {
-            "type": "way",
-            "id": 556047127,
-            "timestamp": "2025-04-20T08:50:47Z",
-            "version": 8,
-            "changeset": 165182800,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                5364017448,
-                5364017449,
-                5364017450,
-                5364017451,
-                5364017448
-            ],
-            "tags": {
-                "addr:city": "Cagliari",
-                "addr:postcode": "09134",
-                "addr:street": "Via Diego Cadello",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "building": "yes",
-                "name": "Q8",
-                "operator": "Q8",
-                "ref:mise": "6691",
-                "self_service": "yes",
                 "source:date": "2018-04-16"
             }
         },

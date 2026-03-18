@@ -381,18 +381,23 @@
             "id": 4157128389,
             "lat": 40.3428996,
             "lon": 18.173077,
-            "timestamp": "2025-10-04T21:45:21Z",
-            "version": 6,
-            "changeset": 172847676,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-06T12:35:53Z",
+            "version": 7,
+            "changeset": 179444868,
+            "user": "angdev",
+            "uid": 23366657,
             "tags": {
                 "addr:city": "Lecce",
+                "addr:housenumber": "18",
                 "addr:postcode": "73100",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
+                "addr:street": "Viale Marche",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Cooperativa Conad Adriatico",
+                "phone": "+39 0832402665",
                 "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-viale-marche-18-73100-lecce--009849",
                 "wheelchair": "yes"
             }
         },
@@ -917,20 +922,20 @@
             "id": 5660407521,
             "lat": 40.2950741,
             "lon": 17.8548774,
-            "timestamp": "2025-09-29T09:24:41Z",
-            "version": 3,
-            "changeset": 172602406,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-07T16:44:36Z",
+            "version": 4,
+            "changeset": 179500987,
+            "user": "Mannivu",
+            "uid": 1950277,
             "tags": {
                 "addr:city": "Porto Cesareo",
-                "addr:housenumber": "SNC",
                 "addr:postcode": "73010",
                 "addr:street": "Via Giacomo Zanella",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
+                "nohousenumber": "yes",
                 "operator": "Conad",
                 "shop": "supermarket"
             }
@@ -1632,18 +1637,23 @@
             "id": 10879204658,
             "lat": 40.3525486,
             "lon": 18.1823121,
-            "timestamp": "2025-03-17T11:53:26Z",
-            "version": 2,
-            "changeset": 163728385,
-            "user": "evillz",
-            "uid": 22552063,
+            "timestamp": "2026-03-06T11:52:35Z",
+            "version": 3,
+            "changeset": 179442954,
+            "user": "angdev",
+            "uid": 23366657,
             "tags": {
+                "addr:city": "Lecce",
                 "addr:housenumber": "15",
+                "addr:postcode": "73100",
                 "addr:street": "Via Giuseppe Zanardelli",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
                 "name": "Conad City",
-                "shop": "supermarket"
+                "operator": "Cooperativa Conad Adriatico",
+                "phone": "+39 0832 345688",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-zanardelli-15-73100-lecce--007835"
             }
         },
         {
@@ -1651,11 +1661,11 @@
             "id": 10982416083,
             "lat": 40.3562655,
             "lon": 18.1847357,
-            "timestamp": "2025-10-26T18:20:02Z",
-            "version": 5,
-            "changeset": 173807372,
-            "user": "confusedbuffalo",
-            "uid": 242345,
+            "timestamp": "2026-03-06T11:32:17Z",
+            "version": 6,
+            "changeset": 179441605,
+            "user": "angdev",
+            "uid": 23366657,
             "tags": {
                 "addr:city": "Lecce",
                 "addr:housenumber": "3a",
@@ -1665,6 +1675,7 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:15-20:30",
+                "operator": "Cooperativa Conad Adriatico",
                 "phone": "+39 0832 396916",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-viale-japigia-3-a-73100-lecce--009564"
@@ -1894,7 +1905,7 @@
             "timestamp": "2023-12-28T14:36:31Z",
             "version": 4,
             "changeset": 145622950,
-            "user": "Italian Technology",
+            "user": "Umbyone",
             "uid": 10622815,
             "tags": {
                 "brand": "Upim",
@@ -2683,20 +2694,22 @@
             "id": 13197851253,
             "lat": 40.3577332,
             "lon": 18.1622606,
-            "timestamp": "2025-11-23T20:17:27Z",
-            "version": 2,
-            "changeset": 175040946,
-            "user": "Robot8A",
-            "uid": 393359,
+            "timestamp": "2026-03-06T13:58:17Z",
+            "version": 3,
+            "changeset": 179448379,
+            "user": "angdev",
+            "uid": 23366657,
             "tags": {
                 "addr:city": "Lecce",
                 "addr:postcode": "73100",
-                "addr:street": "Via Luigi Pappacoda angolo Via Salvemini",
+                "addr:street": "Via Luigi Pappacoda ang. Via Salvemini",
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
+                "operator": "Cooperativa Conad Adriatico",
                 "phone": "+39 0832 269965",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-pappacoda-snc-73100-lecce--009568"
             }
         },
         {
@@ -2704,9 +2717,9 @@
             "id": 13197886432,
             "lat": 40.3554051,
             "lon": 18.160567,
-            "timestamp": "2025-10-06T13:51:02Z",
-            "version": 1,
-            "changeset": 172915638,
+            "timestamp": "2026-03-06T12:43:27Z",
+            "version": 2,
+            "changeset": 179445170,
             "user": "angdev",
             "uid": 23366657,
             "tags": {
@@ -2717,8 +2730,10 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
+                "operator": "Cooperativa Conad Adriatico",
                 "phone": "+3908321561167",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-francesco-saverio-casavola-1-73100-lecce--007836"
             }
         },
         {
@@ -2726,9 +2741,9 @@
             "id": 13197910775,
             "lat": 40.3666352,
             "lon": 18.1700183,
-            "timestamp": "2025-10-06T13:59:04Z",
-            "version": 1,
-            "changeset": 172916047,
+            "timestamp": "2026-03-06T11:39:01Z",
+            "version": 2,
+            "changeset": 179442088,
             "user": "angdev",
             "uid": 23366657,
             "tags": {
@@ -2739,8 +2754,10 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
+                "operator": "Cooperativa Conad Adriatico",
                 "phone": "+393917474723",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-cuoco-7-73100-lecce--007839"
             }
         },
         {
@@ -2748,20 +2765,22 @@
             "id": 13197917141,
             "lat": 40.3502384,
             "lon": 18.1791999,
-            "timestamp": "2025-10-06T14:51:52Z",
-            "version": 1,
-            "changeset": 172918945,
+            "timestamp": "2026-03-06T12:23:30Z",
+            "version": 2,
+            "changeset": 179444439,
             "user": "angdev",
             "uid": 23366657,
             "tags": {
                 "addr:city": "Lecce",
-                "addr:housenumber": "3",
                 "addr:postcode": "73100",
                 "addr:street": "Via Salvatore Grande",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
-                "shop": "supermarket"
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Cooperativa Conad Adriatico",
+                "phone": "+39 0832 217300",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-salvatore-grande-snc-73100-lecce--008083"
             }
         },
         {
@@ -2769,9 +2788,9 @@
             "id": 13197938875,
             "lat": 40.3914409,
             "lon": 18.2968717,
-            "timestamp": "2025-10-07T10:05:01Z",
-            "version": 2,
-            "changeset": 172951316,
+            "timestamp": "2026-03-06T14:09:08Z",
+            "version": 3,
+            "changeset": 179448861,
             "user": "angdev",
             "uid": 23366657,
             "tags": {
@@ -2782,8 +2801,10 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
+                "operator": "Cooperativa Conad Adriatico",
                 "phone": "+390832650618",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/margherita-conad-via-pigafetta-139-73100-lecce--006989"
             }
         },
         {
@@ -2791,20 +2812,22 @@
             "id": 13198005162,
             "lat": 40.35735,
             "lon": 18.1813931,
-            "timestamp": "2025-10-06T15:27:17Z",
-            "version": 1,
-            "changeset": 172920707,
+            "timestamp": "2026-03-06T11:46:00Z",
+            "version": 2,
+            "changeset": 179442553,
             "user": "angdev",
             "uid": 23366657,
             "tags": {
                 "addr:city": "Lecce",
                 "addr:postcode": "73100",
                 "addr:street": "Via Don Luigi Sturzo",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Cooperativa Conad Adriatico",
                 "phone": "+390832312342",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-via-don-luigi-sturzo-snc-73100-lecce--009054"
             }
         },
         {
@@ -2888,6 +2911,86 @@
             }
         },
         {
+            "type": "node",
+            "id": 13591578186,
+            "lat": 40.3632034,
+            "lon": 18.1763199,
+            "timestamp": "2026-02-22T23:37:00Z",
+            "version": 2,
+            "changeset": 178920818,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "10",
+                "addr:postcode": "73100",
+                "addr:street": "Via Giammatteo",
+                "check_date": "2026-02-23",
+                "check_date:currency:XBT": "2026-02-23",
+                "contact:facebook": "corvagliabarbershoplecce",
+                "contact:instagram": "corvaglia_barbershop",
+                "currency:XBT": "yes",
+                "email": "corvagliabarbershop@gmail.com",
+                "hairdresser": "barber",
+                "name": "Corvaglia Barbershop",
+                "opening_hours": "Tu-Sa 08:30-13:00, 15:30-19:30",
+                "payment:lightning": "no",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 329 746 5012",
+                "shop": "hairdresser",
+                "website": "https://corvagliabarbershop.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13622480863,
+            "lat": 40.3487138,
+            "lon": 18.1588677,
+            "timestamp": "2026-03-06T11:13:46Z",
+            "version": 2,
+            "changeset": 179440523,
+            "user": "angdev",
+            "uid": 23366657,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "16c",
+                "addr:postcode": "73100",
+                "addr:street": "Piazzale Rudiae",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "operator": "Cooperativa Conad Adriatico",
+                "phone": "+39 0832409542",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-city-piazzale-rudaie-16c-73100-lecce--007473"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13625288603,
+            "lat": 40.3434383,
+            "lon": 18.1608781,
+            "timestamp": "2026-03-07T16:30:54Z",
+            "version": 1,
+            "changeset": 179500331,
+            "user": "Mannivu",
+            "uid": 1950277,
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:postcode": "73100",
+                "addr:street": "Via Salvatore Leone De Castris",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "nohousenumber": "yes",
+                "operator": "Cooperativa Conad Adriatico",
+                "phone": "+39 0832 664 715",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-via-s-leone-de-castris-snc-73100-lecce--010359"
+            }
+        },
+        {
             "type": "way",
             "id": 140856099,
             "timestamp": "2023-11-27T17:26:07Z",
@@ -2958,6 +3061,44 @@
                 "shop": "furniture",
                 "website": "https://www.mondoconv.it/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 299721189,
+            "timestamp": "2026-03-06T11:29:59Z",
+            "version": 5,
+            "changeset": 179441462,
+            "user": "angdev",
+            "uid": 23366657,
+            "nodes": [
+                3037540949,
+                3037539808,
+                3037541119,
+                3037541556,
+                3037540302,
+                3037541970,
+                3037541180,
+                3037540788,
+                3037541161,
+                3037540949
+            ],
+            "tags": {
+                "addr:city": "Lecce",
+                "addr:housenumber": "161",
+                "addr:postcode": "73100",
+                "addr:street": "Via della Libert\u00e0",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "building:levels": "1",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:15-20:30; Su 09:00-13:00",
+                "operator": "CDR Supermercati Srl",
+                "phone": "+39 0832 318134",
+                "ref:vatin": "IT05302810758",
+                "shop": "supermarket",
+                "website": "https://www.conad.it/ricerca-negozi/conad-viale-della-liberta-161-73100-lecce--009563"
             }
         },
         {
@@ -3292,34 +3433,6 @@
         },
         {
             "type": "way",
-            "id": 425642183,
-            "timestamp": "2025-11-18T18:20:34Z",
-            "version": 5,
-            "changeset": 174826851,
-            "user": "angdev",
-            "uid": 23366657,
-            "nodes": [
-                4249323234,
-                4249323236,
-                4249323235,
-                4249323233,
-                4249323234
-            ],
-            "tags": {
-                "addr:city": "Lecce",
-                "addr:housenumber": "snc",
-                "addr:postcode": "73100",
-                "addr:street": "Via Salvatore Leone De Castris",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "building": "yes",
-                "building:levels": "1",
-                "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
             "id": 489069732,
             "timestamp": "2023-07-14T17:07:50Z",
             "version": 4,
@@ -3440,37 +3553,6 @@
                 "phone": "+39 0831 607885",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-via-dalmazia-angolo-via-moro-46-72100-brindisi--009599"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1282641672,
-            "timestamp": "2025-11-18T18:16:36Z",
-            "version": 4,
-            "changeset": 174826674,
-            "user": "angdev",
-            "uid": 23366657,
-            "nodes": [
-                11902406286,
-                11902406287,
-                11902406288,
-                11902406289,
-                11902406290,
-                11902406291,
-                11902406292,
-                11902406293,
-                11902406286
-            ],
-            "tags": {
-                "addr:city": "Lecce",
-                "addr:housenumber": "123",
-                "addr:postcode": "73100",
-                "addr:street": "Via Lequile",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "building": "yes",
-                "name": "Interspar",
-                "shop": "supermarket"
             }
         },
         {

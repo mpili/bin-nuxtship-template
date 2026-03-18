@@ -2347,33 +2347,6 @@
         },
         {
             "type": "node",
-            "id": 4712458289,
-            "lat": 44.6357527,
-            "lon": 10.9000216,
-            "timestamp": "2022-12-20T13:26:31Z",
-            "version": 4,
-            "changeset": 130290756,
-            "user": "saunter",
-            "uid": 10396321,
-            "tags": {
-                "addr:city": "Modena",
-                "addr:country": "IT",
-                "addr:housenumber": "11",
-                "addr:postcode": "41126",
-                "addr:street": "Strada Scaglia Est",
-                "addr:suburb": "San Faustino- Madonnina- Quattro Ville",
-                "amenity": "restaurant",
-                "check_date": "2022-12-20",
-                "contact:facebook": "https://www.facebook.com/modenaduerestaurantbar/",
-                "currency:XBT": "yes",
-                "name": "Modena Due Restaurant & Lounge Bar",
-                "payment:onchain": "yes",
-                "phone": "+393534024359",
-                "source": "dati.emilia-romagna.it"
-            }
-        },
-        {
-            "type": "node",
             "id": 4712517936,
             "lat": 44.6459162,
             "lon": 10.9272444,
@@ -2599,11 +2572,11 @@
             "id": 5293931269,
             "lat": 45.4062408,
             "lon": 11.2465163,
-            "timestamp": "2023-07-18T21:56:41Z",
-            "version": 5,
-            "changeset": 138689341,
-            "user": "saunter",
-            "uid": 10396321,
+            "timestamp": "2026-02-06T10:21:03Z",
+            "version": 6,
+            "changeset": 178179310,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "San Bonifacio",
                 "addr:housenumber": "18",
@@ -2614,7 +2587,6 @@
                 "description": "I principali ambiti di intervento dello studio sono individuabili nell\u2019area delle materie aziendali, contrattuali, societarie e fiscali, con particolare specializzazione nella gestione ed amministrazione delle piccole e medie imprese.",
                 "email": "info@studiopacepartners.it",
                 "name": "Studio Pace & Partners",
-                "note": "Dottori Commercialisti, Consulenti del Lavoro, Legale e Tributario, Revisori Legali",
                 "office": "accountant",
                 "payment:ethereum": "yes",
                 "payment:litecoin": "yes",
@@ -3587,7 +3559,7 @@
             "timestamp": "2023-02-22T22:28:05Z",
             "version": 2,
             "changeset": 132902063,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Fossoli",
@@ -3611,7 +3583,7 @@
             "timestamp": "2024-01-25T20:07:41Z",
             "version": 4,
             "changeset": 146686730,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Reggio nell'Emilia",
@@ -4228,29 +4200,6 @@
         },
         {
             "type": "node",
-            "id": 11007296449,
-            "lat": 44.7709263,
-            "lon": 10.7815258,
-            "timestamp": "2025-10-29T14:16:04Z",
-            "version": 3,
-            "changeset": 173932474,
-            "user": "Martin Ligabue",
-            "uid": 8305310,
-            "tags": {
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "contact:city": "Correggio",
-                "contact:housenumber": "48a",
-                "contact:postcode": "42015",
-                "contact:street": "Corso Giuseppe Mazzini",
-                "name": "United Colors of Benetton",
-                "phone": "+39 0522 744720",
-                "shop": "clothes",
-                "short_name": "Benetton"
-            }
-        },
-        {
-            "type": "node",
             "id": 11125250762,
             "lat": 45.1834148,
             "lon": 11.2548832,
@@ -4650,6 +4599,23 @@
                 "brand:wikidata": "Q2042514",
                 "name": "OVS",
                 "shop": "clothes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11894367428,
+            "lat": 44.9807109,
+            "lon": 10.4288825,
+            "timestamp": "2026-03-18T11:26:17Z",
+            "version": 4,
+            "changeset": 180054233,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician",
                 "wheelchair": "yes"
             }
         },
@@ -5511,7 +5477,7 @@
             "timestamp": "2025-11-29T21:33:51Z",
             "version": 2,
             "changeset": 175291858,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "brand": "United Colors of Benetton",
@@ -5676,6 +5642,57 @@
                 "phone": "+39 347 648 0977",
                 "tourism": "chalet",
                 "website": "https://www.cortestellata.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13532410147,
+            "lat": 44.7715256,
+            "lon": 10.4488091,
+            "timestamp": "2026-02-07T17:05:53Z",
+            "version": 1,
+            "changeset": 178236918,
+            "user": "ziomio",
+            "uid": 21389832,
+            "tags": {
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13573991462,
+            "lat": 44.771116,
+            "lon": 10.7812701,
+            "timestamp": "2026-02-17T17:44:22Z",
+            "version": 1,
+            "changeset": 178690828,
+            "user": "Martinligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "Chicco",
+                "brand:wikidata": "Q27897515",
+                "name": "Chicco",
+                "shop": "baby_goods"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13574022797,
+            "lat": 44.7711685,
+            "lon": 10.7812003,
+            "timestamp": "2026-02-17T17:44:15Z",
+            "version": 1,
+            "changeset": 178690828,
+            "user": "Martinligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
             }
         },
         {
@@ -6162,11 +6179,11 @@
         {
             "type": "way",
             "id": 165835879,
-            "timestamp": "2025-10-25T16:45:18Z",
-            "version": 4,
-            "changeset": 173764515,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-06T14:32:16Z",
+            "version": 5,
+            "changeset": 178190669,
+            "user": "wildmaps",
+            "uid": 4365159,
             "nodes": [
                 1773618693,
                 1773618731,
@@ -6185,9 +6202,9 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "building": "commercial",
-                "contact:mobile": "+39 0535 99804",
                 "name": "Conad",
                 "opening_hours": "Mo-Sa 08:00-19:30; Su 08:30-13:00",
+                "phone": "+39 0535 99804",
                 "shop": "supermarket",
                 "source": "Regione Emilia Romagna"
             }
@@ -9171,7 +9188,7 @@
             "timestamp": "2025-10-21T12:34:31Z",
             "version": 1,
             "changeset": 173580166,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "nodes": [
                 13074072448,
