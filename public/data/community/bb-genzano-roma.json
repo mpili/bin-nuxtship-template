@@ -7,7 +7,7 @@
     "idlocalita": "genzano_di_roma",
     "telegram_weburl": "https://web.telegram.org/a/#-1002002948863",
     "telegram_app": "https://t.me/bitcoinbeergenzanodiroma",
-    "telegram_members": 47.0,
+    "telegram_members": 50.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -268,34 +268,6 @@
         },
         {
             "type": "node",
-            "id": 228231625,
-            "lat": 41.8636937,
-            "lon": 12.5492672,
-            "timestamp": "2025-10-02T10:14:30Z",
-            "version": 13,
-            "changeset": 172742138,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:housenumber": "605",
-                "addr:postcode": "00174",
-                "addr:street": "Via Tuscolana",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "compressed_air": "yes",
-                "name": "Q8",
-                "opening_hours": "24/7",
-                "operator": "Bernardini Luca",
-                "ref:mise": "38958",
-                "self_service": "yes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 295226736,
             "lat": 41.9186091,
             "lon": 12.5223138,
@@ -343,28 +315,6 @@
                 "operator": "Termo Trading Petroli S.R.L.",
                 "ref:mise": "39497",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 382936481,
-            "lat": 41.784027,
-            "lon": 12.2516146,
-            "timestamp": "2025-10-02T10:18:40Z",
-            "version": 9,
-            "changeset": 172742298,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Fiumicino",
-                "addr:postcode": "00054",
-                "addr:street": "Piazza Umberto Nobile",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Brancato Luciano",
-                "ref:mise": "17306"
             }
         },
         {
@@ -16184,6 +16134,38 @@
                 13634403310,
                 13634403309,
                 13634403312
+            ],
+            "tags": {
+                "addr:city": "Roma",
+                "addr:housenumber": "131",
+                "addr:postcode": "00141",
+                "addr:street": "Viale Jonio",
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "building": "roof",
+                "full_id": "w381955325",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "osm_id": "381955325",
+                "osm_type": "way",
+                "ref:mise": "11812"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1489477727,
+            "timestamp": "2026-03-16T14:50:04Z",
+            "version": 1,
+            "changeset": 179955689,
+            "user": "vecchiemaniere",
+            "uid": 115535,
+            "nodes": [
+                13652539270,
+                13652539269,
+                13652539268,
+                13652539267,
+                13652539270
             ],
             "tags": {
                 "addr:city": "Roma",

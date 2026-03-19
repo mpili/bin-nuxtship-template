@@ -7,7 +7,7 @@
     "idlocalita": "treviso",
     "telegram_weburl": "https://web.telegram.org/a/#-1001574094874",
     "telegram_app": "https://t.me/SatoshiSpritzTreviso",
-    "telegram_members": 114.0,
+    "telegram_members": 117.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -530,32 +530,6 @@
                 "self_service": "yes",
                 "valves": "schrader",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 227880971,
-            "lat": 45.370185,
-            "lon": 11.898086,
-            "timestamp": "2025-10-03T18:24:19Z",
-            "version": 7,
-            "changeset": 172804651,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:postcode": "35100",
-                "addr:street": "Corso Primo Maggio",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "19623",
-                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -1688,11 +1662,11 @@
             "id": 1586852268,
             "lat": 45.9444396,
             "lon": 12.7240486,
-            "timestamp": "2025-09-30T08:40:18Z",
-            "version": 7,
-            "changeset": 172649282,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-18T23:31:20Z",
+            "version": 8,
+            "changeset": 178747136,
+            "user": "ocramzir",
+            "uid": 3384914,
             "tags": {
                 "addr:city": "Fiume Veneto",
                 "addr:housenumber": "42",
@@ -1704,7 +1678,7 @@
                 "check_date": "2025-06-04",
                 "contact:email": "INFO.IT@hm.com",
                 "contact:facebook": "https://m.facebook.com/hm",
-                "contact:phone": "+39 800 599 155",
+                "contact:phone": "+39800599155",
                 "contact:website": "www.hm.com",
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-20:00",
@@ -2310,11 +2284,11 @@
             "id": 2522211618,
             "lat": 45.6719646,
             "lon": 12.1757073,
-            "timestamp": "2025-10-26T14:03:56Z",
-            "version": 5,
-            "changeset": 173796138,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-13T10:55:03Z",
+            "version": 6,
+            "changeset": 178497881,
+            "user": "CjMalone",
+            "uid": 6816132,
             "tags": {
                 "addr:city": "Paese",
                 "addr:housenumber": "28/32",
@@ -2323,9 +2297,10 @@
                 "addr:suburb": "Sovernigo",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
-                "name": "Spar",
+                "name": "Interspar",
                 "ref:vatin": "IT00882800212",
-                "shop": "supermarket"
+                "shop": "supermarket",
+                "website": "https://www.despar.it/it/punto-vendita-interspar/181/paese/"
             }
         },
         {
@@ -3183,7 +3158,7 @@
             "timestamp": "2024-08-21T17:38:21Z",
             "version": 5,
             "changeset": 155571086,
-            "user": "RaelZero",
+            "user": "OddZero",
             "uid": 2701091,
             "tags": {
                 "brand": "H&M",
@@ -3839,7 +3814,7 @@
             "timestamp": "2024-09-03T13:32:45Z",
             "version": 7,
             "changeset": 156143081,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "San Don\u00e0 di Piave",
@@ -4611,11 +4586,11 @@
             "id": 6503288231,
             "lat": 45.435037,
             "lon": 12.340914,
-            "timestamp": "2025-02-04T16:33:29Z",
-            "version": 14,
-            "changeset": 162133351,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "timestamp": "2026-02-06T23:57:59Z",
+            "version": 15,
+            "changeset": 178210062,
+            "user": "Comino",
+            "uid": 6794624,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "4318",
@@ -4628,8 +4603,7 @@
                 "description": "Negozio laboratorio di produzione gioielli in oro e pietre preziose: moretti ed altri gioielli esclusivi personalizzati realizzati a mano, teschi vanitas, corniole incise, gioielli con opali e molto altro.",
                 "email": "info@webjewels.it",
                 "name": "Oreficeria Gioielleria Dogale",
-                "note": "Domenica chiuso (luglio e agosto chiuso anche il sabato pomeriggio) Sunday closed (July and August also closed on Saturday afternoons)",
-                "opening_hours": "Mo-Sa 09:40-12:40,15:30-18:40",
+                "opening_hours": "Mo-Sa 09:40-12:40, 15:30-18:40",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
                 "payment:lightning": "yes",
@@ -5293,13 +5267,13 @@
         {
             "type": "node",
             "id": 8357875521,
-            "lat": 45.4167385,
-            "lon": 12.3701465,
-            "timestamp": "2025-10-17T19:22:25Z",
-            "version": 4,
-            "changeset": 173425332,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.4166905,
+            "lon": 12.3702243,
+            "timestamp": "2026-02-09T12:30:50Z",
+            "version": 5,
+            "changeset": 178310231,
+            "user": "szydzio-imports",
+            "uid": 10284193,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "39",
@@ -5945,29 +5919,6 @@
                 "brand:wikidata": "Q680990",
                 "name": "Expert",
                 "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9729788234,
-            "lat": 45.6399917,
-            "lon": 12.5931258,
-            "timestamp": "2025-08-08T12:44:17Z",
-            "version": 4,
-            "changeset": 170153870,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "addr:city": "San Don\u00e0 di Piave",
-                "addr:housenumber": "14",
-                "addr:postcode": "30027",
-                "addr:street": "Via Como",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Eurospar",
-                "phone": "+39 0421 482222",
-                "shop": "supermarket",
-                "wheelchair": "yes"
             }
         },
         {
@@ -8771,6 +8722,40 @@
         },
         {
             "type": "node",
+            "id": 13204286588,
+            "lat": 45.6506688,
+            "lon": 12.308671,
+            "timestamp": "2026-03-15T09:05:55Z",
+            "version": 2,
+            "changeset": 179888191,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "brand": "IKEA",
+                "brand:wikidata": "Q54078",
+                "name": "IKEA",
+                "shop": "furniture"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13204286763,
+            "lat": 45.6509233,
+            "lon": 12.3079906,
+            "timestamp": "2026-03-15T09:05:55Z",
+            "version": 2,
+            "changeset": 179888191,
+            "user": "kr\u00e4ckel",
+            "uid": 1092114,
+            "tags": {
+                "brand": "Kasanova",
+                "brand:wikidata": "Q116214505",
+                "name": "Kasanova",
+                "shop": "houseware"
+            }
+        },
+        {
+            "type": "node",
             "id": 13206934129,
             "lat": 45.7966968,
             "lon": 12.8230662,
@@ -8973,13 +8958,73 @@
             }
         },
         {
+            "type": "node",
+            "id": 13525039947,
+            "lat": 45.3120188,
+            "lon": 11.9084826,
+            "timestamp": "2026-02-04T20:58:39Z",
+            "version": 1,
+            "changeset": 178112123,
+            "user": "htwan",
+            "uid": 20161667,
+            "tags": {
+                "addr:housenumber": "50",
+                "addr:street": "Via Antonio Gramsci",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:biodiesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Contiero Ermanno",
+                "ref:mise": "40086"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13526614089,
+            "lat": 45.4175019,
+            "lon": 12.0476342,
+            "timestamp": "2026-02-05T15:13:57Z",
+            "version": 1,
+            "changeset": 178145177,
+            "user": "osm19",
+            "uid": 1717503,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13650651202,
+            "lat": 45.4946993,
+            "lon": 12.2400089,
+            "timestamp": "2026-03-17T00:10:30Z",
+            "version": 2,
+            "changeset": 179975811,
+            "user": "Grazing6603",
+            "uid": 16429077,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2026-03-15",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
-            "timestamp": "2025-10-23T10:23:41Z",
-            "version": 13,
-            "changeset": 173666238,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-28T11:43:09Z",
+            "version": 14,
+            "changeset": 179167140,
+            "user": "Cecchele",
+            "uid": 23757378,
             "nodes": [
                 2559658585,
                 1311764939,
@@ -9005,12 +9050,14 @@
                 "brand": "IKEA",
                 "brand:wikidata": "Q54078",
                 "building": "yes",
+                "building:levels": "3",
+                "check_date": "2026-02-28",
                 "layer": "1",
                 "name": "IKEA",
                 "opening_hours": "Mo-Su 09:30-20:30",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "shop": "furniture",
-                "website": "https://m.ikea.com/it/it/",
+                "website": "https://www.ikea.com/it/it/",
                 "wheelchair": "yes"
             }
         },
@@ -9545,7 +9592,7 @@
             "timestamp": "2023-02-20T23:50:30Z",
             "version": 3,
             "changeset": 132812640,
-            "user": "itsAlisaa",
+            "user": "cat3t2",
             "uid": 17825286,
             "nodes": [
                 1858672510,
@@ -10010,33 +10057,6 @@
                 "operator": "Repsol Italia S.p.A.",
                 "ref:mise": "7067",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1110250712,
-            "timestamp": "2023-10-23T12:47:07Z",
-            "version": 2,
-            "changeset": 143017052,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                5851832244,
-                10156715087,
-                10156715086,
-                10156715085,
-                10156715084,
-                10156715083,
-                10156715082,
-                5851832244
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Saical Petroli S.R.L",
-                "ref:mise": "40086"
             }
         },
         {

@@ -471,13 +471,13 @@
         {
             "type": "node",
             "id": 4343767908,
-            "lat": 44.6955203,
-            "lon": 7.8541428,
-            "timestamp": "2023-09-15T18:49:38Z",
-            "version": 4,
-            "changeset": 141315908,
-            "user": "baprischka",
-            "uid": 974272,
+            "lat": 44.6955585,
+            "lon": 7.8541492,
+            "timestamp": "2026-02-16T17:03:59Z",
+            "version": 5,
+            "changeset": 178639293,
+            "user": "Marco_Fix",
+            "uid": 3338651,
             "tags": {
                 "addr:city": "Bra",
                 "addr:housenumber": "262",
@@ -489,6 +489,7 @@
                 "check_date": "2023-09-15",
                 "clothes": "underwear",
                 "name": "Intimissimi",
+                "phone": "+39 0172 426563",
                 "shop": "clothes"
             }
         },
@@ -1153,13 +1154,13 @@
         {
             "type": "node",
             "id": 6541876003,
-            "lat": 44.393461,
-            "lon": 7.5823527,
-            "timestamp": "2025-11-05T20:52:00Z",
-            "version": 4,
-            "changeset": 174259458,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.3934477,
+            "lon": 7.5824874,
+            "timestamp": "2026-02-02T13:36:35Z",
+            "version": 5,
+            "changeset": 178007280,
+            "user": "Paolitosss",
+            "uid": 20900475,
             "tags": {
                 "addr:city": "Cuneo",
                 "addr:housenumber": "8",
@@ -1624,6 +1625,23 @@
         },
         {
             "type": "node",
+            "id": 12510992811,
+            "lat": 44.4222202,
+            "lon": 7.853907,
+            "timestamp": "2026-02-26T19:09:44Z",
+            "version": 2,
+            "changeset": 179100199,
+            "user": "Paolitosss",
+            "uid": 20900475,
+            "tags": {
+                "brand": "Guess",
+                "brand:wikidata": "Q2470307",
+                "name": "Guess",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 12641857048,
             "lat": 44.5995788,
             "lon": 7.660369,
@@ -1667,13 +1685,13 @@
         {
             "type": "node",
             "id": 12919635803,
-            "lat": 44.3930888,
-            "lon": 7.5824329,
-            "timestamp": "2025-10-05T18:28:06Z",
-            "version": 3,
-            "changeset": 172880847,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 44.3931705,
+            "lon": 7.5826083,
+            "timestamp": "2026-02-02T13:44:37Z",
+            "version": 5,
+            "changeset": 178007280,
+            "user": "Paolitosss",
+            "uid": 20900475,
             "tags": {
                 "addr:city": "Cuneo",
                 "addr:housenumber": "8",
@@ -1715,6 +1733,50 @@
                 "payment:onchain": "yes",
                 "phone": "+39 338 683 4448",
                 "website": "https://lacusino.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13570389091,
+            "lat": 44.69613,
+            "lon": 7.8537952,
+            "timestamp": "2026-02-16T17:03:59Z",
+            "version": 1,
+            "changeset": 178639293,
+            "user": "Marco_Fix",
+            "uid": 3338651,
+            "tags": {
+                "addr:city": "Bra",
+                "addr:housenumber": "236",
+                "addr:postcode": "12042",
+                "addr:street": "Via Vittorio Emanuele II",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "phone": "+39 0172 421325",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13570398203,
+            "lat": 44.6960297,
+            "lon": 7.8538519,
+            "timestamp": "2026-02-16T19:07:45Z",
+            "version": 2,
+            "changeset": 178644812,
+            "user": "Marco_Fix",
+            "uid": 3338651,
+            "tags": {
+                "addr:city": "Bra",
+                "addr:housenumber": "242",
+                "addr:postcode": "12042",
+                "addr:street": "Via Vittorio Emanuele II",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "name": "Bottega Verde",
+                "phone": "+39 0172 439371",
+                "shop": "cosmetics"
             }
         },
         {
@@ -1771,11 +1833,11 @@
         {
             "type": "way",
             "id": 338400683,
-            "timestamp": "2025-06-19T16:02:47Z",
-            "version": 8,
-            "changeset": 167833891,
-            "user": "damianeue",
-            "uid": 10124288,
+            "timestamp": "2026-03-03T11:45:18Z",
+            "version": 9,
+            "changeset": 179297766,
+            "user": "archiLuP",
+            "uid": 23579440,
             "nodes": [
                 3454782535,
                 3454782534,
@@ -1789,8 +1851,10 @@
                 "addr:postcode": "12023",
                 "addr:street": "Via Provinciale Busca",
                 "building": "retail",
+                "check_date:opening_hours": "2026-03-03",
                 "currency:XBT": "yes",
                 "name": "Rosatello-Ramonda",
+                "opening_hours:signed": "no",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
                 "payment:debit_cards": "yes",

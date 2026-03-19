@@ -112,11 +112,11 @@
             "id": 227965422,
             "lat": 45.055276,
             "lon": 9.499236,
-            "timestamp": "2025-10-03T16:32:33Z",
-            "version": 6,
-            "changeset": 172800792,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-16T10:14:16Z",
+            "version": 12,
+            "changeset": 179941979,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Sarmato",
                 "addr:housenumber": "KM. 173+462",
@@ -125,9 +125,15 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "G.E. di Tassi Giovanni & Bisi Emanuela S.N.C.",
-                "ref:mise": "34920"
+                "ref:mise": "34920",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -392,13 +398,13 @@
         {
             "type": "node",
             "id": 613400888,
-            "lat": 45.0429967,
-            "lon": 9.7390816,
-            "timestamp": "2025-10-03T16:37:57Z",
-            "version": 8,
-            "changeset": 172801020,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.0429653,
+            "lon": 9.739016,
+            "timestamp": "2026-03-16T14:24:16Z",
+            "version": 15,
+            "changeset": 179953505,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Piacenza",
                 "addr:postcode": "29100",
@@ -406,9 +412,15 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "T.D.M. S.R.L.",
-                "ref:mise": "39406"
+                "ref:mise": "39406",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1654,7 +1666,7 @@
             "timestamp": "2025-03-20T13:33:54Z",
             "version": 4,
             "changeset": 163863583,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Montichiari",
@@ -5242,6 +5254,23 @@
         },
         {
             "type": "node",
+            "id": 11894367428,
+            "lat": 44.9807109,
+            "lon": 10.4288825,
+            "timestamp": "2026-03-18T11:26:17Z",
+            "version": 4,
+            "changeset": 180054233,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Salmoiraghi & Vigan\u00f2",
+                "brand:wikidata": "Q21272314",
+                "shop": "optician",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11894368491,
             "lat": 44.9805577,
             "lon": 10.4290873,
@@ -6414,11 +6443,11 @@
         {
             "type": "way",
             "id": 117671956,
-            "timestamp": "2025-10-30T19:44:56Z",
-            "version": 5,
-            "changeset": 173992931,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-16T14:21:57Z",
+            "version": 6,
+            "changeset": 179953438,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 1325159571,
                 1325159576,
@@ -6439,7 +6468,8 @@
                 "phone": "+39 0523 188 5252",
                 "ref:vatin": "IT11005760159",
                 "shop": "sports",
-                "website": "https://www.decathlon.it/"
+                "website": "https://www.decathlon.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6935,11 +6965,11 @@
         {
             "type": "way",
             "id": 184125522,
-            "timestamp": "2024-01-29T14:15:50Z",
-            "version": 4,
-            "changeset": 146823785,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-16T13:05:12Z",
+            "version": 7,
+            "changeset": 179950303,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 1945731905,
                 11564372854,
@@ -6961,7 +6991,8 @@
                 "building": "retail",
                 "name": "Unieuro",
                 "shop": "electronics",
-                "source": "Regione Emilia Romagna"
+                "source": "Regione Emilia Romagna",
+                "wheelchair": "yes"
             }
         },
         {

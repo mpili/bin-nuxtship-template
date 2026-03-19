@@ -7,7 +7,7 @@
     "idlocalita": "faenza",
     "telegram_weburl": "https://web.telegram.org/a/#-1001836800144",
     "telegram_app": "https://t.me/bitcoinbeerfaenza",
-    "telegram_members": 267.0,
+    "telegram_members": 266.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1356,11 +1356,11 @@
             "id": 2973090633,
             "lat": 44.4954802,
             "lon": 11.3426101,
-            "timestamp": "2024-02-12T10:18:22Z",
-            "version": 5,
-            "changeset": 147360025,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-13T17:23:33Z",
+            "version": 6,
+            "changeset": 179821543,
+            "user": "WinstonSmith",
+            "uid": 36030,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "4",
@@ -1369,7 +1369,7 @@
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "brand:wikipedia": "en:H&M",
-                "check_date": "2024-02-12",
+                "check_date": "2026-03-13",
                 "name": "H&M",
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "phone": "+39 051 7459159",
@@ -1897,11 +1897,11 @@
             "id": 3813830909,
             "lat": 44.4953243,
             "lon": 11.3425752,
-            "timestamp": "2024-02-12T10:18:22Z",
-            "version": 5,
-            "changeset": 147360025,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-13T17:25:32Z",
+            "version": 6,
+            "changeset": 179821543,
+            "user": "WinstonSmith",
+            "uid": 36030,
             "tags": {
                 "addr:city": "Bologna",
                 "addr:housenumber": "2f",
@@ -1910,7 +1910,7 @@
                 "brand": "Calzedonia",
                 "brand:wikidata": "Q1027874",
                 "brand:wikipedia": "en:Calzedonia",
-                "check_date": "2024-02-12",
+                "check_date": "2026-03-13",
                 "name": "Calzedonia",
                 "shop": "clothes"
             }
@@ -2732,11 +2732,11 @@
             "id": 4752694126,
             "lat": 44.3960161,
             "lon": 12.179645,
-            "timestamp": "2025-01-09T09:30:44Z",
-            "version": 5,
-            "changeset": 161162069,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 6,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "74",
@@ -2745,13 +2745,16 @@
                 "brand": "Doppelg\u00e4nger",
                 "brand:wikidata": "Q117451227",
                 "check_date": "2023-03-27",
+                "check_date:opening_hours": "2026-03-11",
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "shop": "clothes"
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3433,17 +3436,20 @@
             "id": 5173127125,
             "lat": 44.3964258,
             "lon": 12.1802407,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 3,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 4,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "United Colors of Benetton",
                 "brand:wikidata": "Q817139",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "clothes",
-                "short_name": "Benetton"
+                "short_name": "Benetton",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3451,11 +3457,11 @@
             "id": 5173144522,
             "lat": 44.3962334,
             "lon": 12.1801348,
-            "timestamp": "2025-11-09T15:54:53Z",
-            "version": 3,
-            "changeset": 174423905,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 4,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "56",
@@ -3463,9 +3469,12 @@
                 "addr:street": "Via Marco Bussato",
                 "brand": "Salmoiraghi & Vigan\u00f2",
                 "brand:wikidata": "Q21272314",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "Salmoiraghi & Vigan\u00f5",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "phone": "+39 0544 270351",
-                "shop": "optician"
+                "shop": "optician",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3473,16 +3482,19 @@
             "id": 5173217525,
             "lat": 44.3950504,
             "lon": 12.17819,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 2,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "H&M",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3490,11 +3502,11 @@
             "id": 5173226221,
             "lat": 44.39528,
             "lon": 12.1785234,
-            "timestamp": "2025-10-17T19:43:32Z",
-            "version": 3,
-            "changeset": 173426047,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 4,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "74",
@@ -3502,8 +3514,11 @@
                 "addr:street": "Via Marco Bussato",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "OVS",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3511,16 +3526,19 @@
             "id": 5247467923,
             "lat": 44.3953903,
             "lon": 12.1787525,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 2,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "Tezenis",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3528,16 +3546,19 @@
             "id": 5247559321,
             "lat": 44.3948073,
             "lon": 12.1783942,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 2,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "L'Erbolario",
                 "brand:wikidata": "Q116304294",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "L'Erbolario",
-                "shop": "herbalist"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "herbalist",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -5140,11 +5161,11 @@
             "id": 10738853174,
             "lat": 44.3953353,
             "lon": 12.1798846,
-            "timestamp": "2025-01-01T21:10:36Z",
-            "version": 2,
-            "changeset": 160885569,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "86",
@@ -5152,9 +5173,12 @@
                 "addr:street": "Via Marco Bussato",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "operator": "Unieuro S.p.A.",
-                "shop": "electronics"
+                "shop": "electronics",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -6414,13 +6438,13 @@
         {
             "type": "node",
             "id": 12990277520,
-            "lat": 44.3672851,
-            "lon": 11.6802431,
-            "timestamp": "2025-07-09T19:01:52Z",
-            "version": 1,
-            "changeset": 168710697,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "lat": 44.3673072,
+            "lon": 11.6801573,
+            "timestamp": "2026-03-15T17:25:16Z",
+            "version": 2,
+            "changeset": 179910034,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "amenity": "parcel_locker",
                 "brand": "Conad",
@@ -6562,6 +6586,26 @@
                 "name": "Borgo Delle Erbe",
                 "phone": "+39 353 492 7217",
                 "website": "https://borgomameli.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13650962752,
+            "lat": 44.505881,
+            "lon": 11.3953548,
+            "timestamp": "2026-03-15T22:51:45Z",
+            "version": 1,
+            "changeset": 179920514,
+            "user": "Cybermanx",
+            "uid": 22604600,
+            "tags": {
+                "brand": "Trony",
+                "brand:wikidata": "Q3999692",
+                "brand:wikipedia": "it:Trony",
+                "name": "Trony",
+                "operator": "Trony",
+                "phone": "+39 0516014258",
+                "shop": "electronics"
             }
         },
         {
@@ -7454,17 +7498,17 @@
         {
             "type": "way",
             "id": 793913119,
-            "timestamp": "2025-08-18T21:53:15Z",
-            "version": 8,
-            "changeset": 170641678,
-            "user": "Danysan95",
-            "uid": 4425563,
+            "timestamp": "2026-03-15T17:25:16Z",
+            "version": 9,
+            "changeset": 179910034,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "nodes": [
-                2739532412,
+                13650304138,
                 7426395117,
                 7426395120,
                 7426395118,
-                2739532412
+                13650304138
             ],
             "tags": {
                 "addr:city": "Imola",
@@ -7492,37 +7536,6 @@
                 "self_service": "yes",
                 "source": "GPS",
                 "website": "https://www.conad.it/ricerca-negozi/distributore.9788.html"
-            }
-        },
-        {
-            "type": "way",
-            "id": 813473387,
-            "timestamp": "2025-10-25T16:12:44Z",
-            "version": 4,
-            "changeset": 173763093,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                7598692490,
-                7598692491,
-                7598692492,
-                7598692493,
-                7598692490
-            ],
-            "tags": {
-                "addr:city": "Bologna",
-                "addr:housenumber": "14",
-                "addr:postcode": "40138",
-                "addr:street": "Via dell'Industria",
-                "addr:suburb": "Pilastro",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "brand:wikipedia": "it:Trony",
-                "building": "retail",
-                "name": "Trony",
-                "operator": "Trony",
-                "phone": "+39 0516014258",
-                "shop": "electronics"
             }
         },
         {

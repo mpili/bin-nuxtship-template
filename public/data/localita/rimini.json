@@ -285,35 +285,6 @@
         },
         {
             "type": "node",
-            "id": 228319921,
-            "lat": 43.9088191,
-            "lon": 12.8755897,
-            "timestamp": "2025-10-25T17:16:11Z",
-            "version": 17,
-            "changeset": 173765643,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:postcode": "61122",
-                "addr:street": "Via Yuri Gagarin",
-                "addr:suburb": "Villa San Martino",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "compressed_air": "yes",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "opening_hours": "24/7",
-                "ref:mise": "31117",
-                "self_service": "yes",
-                "source": "MISE - Ministero Sviluppo Economico",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 229126023,
             "lat": 44.230164,
             "lon": 12.020802,
@@ -788,31 +759,6 @@
         },
         {
             "type": "node",
-            "id": 1483790238,
-            "lat": 43.9125643,
-            "lon": 12.9039962,
-            "timestamp": "2025-10-06T10:38:51Z",
-            "version": 6,
-            "changeset": 172906765,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "41",
-                "addr:postcode": "61121",
-                "addr:street": "Via Canale",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "contact:fax": "+39 0721 23874",
-                "contact:phone": "+39 0721 403421",
-                "name": "Conad",
-                "ref:vatin": "IT02671460414",
-                "shop": "supermarket",
-                "wheelchair": "limited"
-            }
-        },
-        {
-            "type": "node",
             "id": 1496688273,
             "lat": 43.7514528,
             "lon": 12.919147,
@@ -1253,7 +1199,7 @@
             "timestamp": "2024-09-26T20:56:54Z",
             "version": 7,
             "changeset": 157145756,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Rimini",
@@ -2396,11 +2342,11 @@
             "id": 4752694126,
             "lat": 44.3960161,
             "lon": 12.179645,
-            "timestamp": "2025-01-09T09:30:44Z",
-            "version": 5,
-            "changeset": 161162069,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 6,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "74",
@@ -2409,13 +2355,16 @@
                 "brand": "Doppelg\u00e4nger",
                 "brand:wikidata": "Q117451227",
                 "check_date": "2023-03-27",
+                "check_date:opening_hours": "2026-03-11",
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "payment:lightning": "no",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "shop": "clothes"
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -2527,11 +2476,11 @@
             "id": 4766288526,
             "lat": 44.1983594,
             "lon": 12.0329415,
-            "timestamp": "2025-11-27T10:28:01Z",
-            "version": 11,
-            "changeset": 175191501,
-            "user": "Susymala",
-            "uid": 14777719,
+            "timestamp": "2026-02-06T14:32:16Z",
+            "version": 12,
+            "changeset": 178190669,
+            "user": "wildmaps",
+            "uid": 4365159,
             "tags": {
                 "addr:city": "Forl\u00ec",
                 "addr:housenumber": "277b",
@@ -2543,7 +2492,7 @@
                 "currency:XBT": "yes",
                 "description": "Agenzia di conto vendita per privati e aziende. Pubblichiamo sul nostro sito e sui principali marketplaces foto e descrizione dei vostri prodotti ponendoci come intermediari della vendita. Offriamo assistenza in transazioni online in vendita e in acquisto",
                 "email": "info@unmilione.net",
-                "fax": "+39 543 091 354",
+                "fax": "+39 0543 091354",
                 "image": "https://unmilione.net/img/servizio/logo-16521078511.jpg",
                 "name": "Unmilione",
                 "opening_hours": "Mo-Sa 09:00-12:30, 15:30-19:30; Th off; Su off",
@@ -2553,7 +2502,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
-                "phone": "+39 543 090 105",
+                "phone": "+39 0543 090105",
                 "phone:mobile": "+39 3332826865",
                 "ref:vatin": "IT02624250300",
                 "second_hand": "yes",
@@ -2894,17 +2843,20 @@
             "id": 5173127125,
             "lat": 44.3964258,
             "lon": 12.1802407,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 3,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 4,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "United Colors of Benetton",
                 "brand:wikidata": "Q817139",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "United Colors of Benetton",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "shop": "clothes",
-                "short_name": "Benetton"
+                "short_name": "Benetton",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -2912,11 +2864,11 @@
             "id": 5173144522,
             "lat": 44.3962334,
             "lon": 12.1801348,
-            "timestamp": "2025-11-09T15:54:53Z",
-            "version": 3,
-            "changeset": 174423905,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 4,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "56",
@@ -2924,9 +2876,12 @@
                 "addr:street": "Via Marco Bussato",
                 "brand": "Salmoiraghi & Vigan\u00f2",
                 "brand:wikidata": "Q21272314",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "Salmoiraghi & Vigan\u00f5",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "phone": "+39 0544 270351",
-                "shop": "optician"
+                "shop": "optician",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -2934,16 +2889,19 @@
             "id": 5173217525,
             "lat": 44.3950504,
             "lon": 12.17819,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 2,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "H&M",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -2951,11 +2909,11 @@
             "id": 5173226221,
             "lat": 44.39528,
             "lon": 12.1785234,
-            "timestamp": "2025-10-17T19:43:32Z",
-            "version": 3,
-            "changeset": 173426047,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 4,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "74",
@@ -2963,8 +2921,11 @@
                 "addr:street": "Via Marco Bussato",
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "OVS",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -2972,16 +2933,19 @@
             "id": 5247467923,
             "lat": 44.3953903,
             "lon": 12.1787525,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 2,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "Tezenis",
-                "shop": "clothes"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "clothes",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -2989,16 +2953,19 @@
             "id": 5247559321,
             "lat": 44.3948073,
             "lon": 12.1783942,
-            "timestamp": "2023-02-13T19:49:02Z",
-            "version": 2,
-            "changeset": 132506574,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "brand": "L'Erbolario",
                 "brand:wikidata": "Q116304294",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "L'Erbolario",
-                "shop": "herbalist"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+                "shop": "herbalist",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -3421,34 +3388,6 @@
         },
         {
             "type": "node",
-            "id": 5851841787,
-            "lat": 43.8903271,
-            "lon": 12.8909754,
-            "timestamp": "2025-08-28T16:40:37Z",
-            "version": 7,
-            "changeset": 171144906,
-            "user": "Galessandroni",
-            "uid": 133076,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "2502",
-                "addr:postcode": "61122",
-                "addr:street": "Via Sandro Pertini",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "compressed_air": "yes",
-                "fuel:diesel": "yes",
-                "fuel:lng": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "operator": "Acema S.p.A.",
-                "ref:mise": "24944"
-            }
-        },
-        {
-            "type": "node",
             "id": 5851842486,
             "lat": 43.8537114,
             "lon": 12.8023822,
@@ -3504,11 +3443,11 @@
             "id": 5851845219,
             "lat": 43.9058676,
             "lon": 12.8893156,
-            "timestamp": "2025-09-26T18:01:33Z",
-            "version": 6,
-            "changeset": 172497772,
-            "user": "Max Ciaone",
-            "uid": 3240268,
+            "timestamp": "2026-03-01T23:16:16Z",
+            "version": 8,
+            "changeset": 179230691,
+            "user": "Galessandroni",
+            "uid": 133076,
             "tags": {
                 "addr:city": "Pesaro",
                 "addr:housenumber": "6",
@@ -3521,8 +3460,10 @@
                 "fuel:diesel": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Tamoil",
+                "opening_hours": "Mo-Su 00:00-23:59",
                 "operator": "Tamoil - Pesaro Gagarin 6",
-                "ref:mise": "13635"
+                "ref:mise": "13635",
+                "self_service": "yes"
             }
         },
         {
@@ -3611,13 +3552,13 @@
         {
             "type": "node",
             "id": 5872927686,
-            "lat": 44.0705023,
-            "lon": 12.5649194,
-            "timestamp": "2026-01-03T18:36:41Z",
-            "version": 5,
-            "changeset": 176793557,
-            "user": "Valerio_Bozzolan",
-            "uid": 1875845,
+            "lat": 44.0704806,
+            "lon": 12.5648869,
+            "timestamp": "2026-03-08T07:36:16Z",
+            "version": 6,
+            "changeset": 179521111,
+            "user": "Aluminum0173",
+            "uid": 16035231,
             "tags": {
                 "addr:city": "Rimini",
                 "addr:housenumber": "57",
@@ -3799,35 +3740,6 @@
         },
         {
             "type": "node",
-            "id": 6736050186,
-            "lat": 43.8910209,
-            "lon": 12.8912819,
-            "timestamp": "2023-07-21T15:28:54Z",
-            "version": 4,
-            "changeset": 138819337,
-            "user": "francesco vichi",
-            "uid": 4249125,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "2475",
-                "addr:postcode": "61122",
-                "addr:street": "Via Sandro Pertini",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "fuel:cng": "yes",
-                "fuel:diesel": "yes",
-                "fuel:lng": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_100": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Tamoil",
-                "operator": "Forini S.p.A.",
-                "ref:mise": "43332"
-            }
-        },
-        {
-            "type": "node",
             "id": 7439804881,
             "lat": 43.9105688,
             "lon": 12.9134785,
@@ -3967,32 +3879,6 @@
                 "phone": "+39 0541 769611",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.006886.html"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7638765328,
-            "lat": 43.888802,
-            "lon": 12.9078948,
-            "timestamp": "2022-11-21T03:12:36Z",
-            "version": 4,
-            "changeset": 129176856,
-            "user": "totera",
-            "uid": 123412,
-            "tags": {
-                "addr:city": "Pesaro",
-                "addr:housenumber": "86",
-                "addr:postcode": "61122",
-                "addr:street": "Via del Novecento",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "contact:fax": "+39 0721 391834",
-                "contact:phone": "+39 0721 391513",
-                "name": "Conad Superstore",
-                "opening_hours": "Mo-Sa 07:30-20:30; Su 08:00-20:00",
-                "ref:vatin": "IT00874230410",
-                "shop": "supermarket",
-                "website": "https://www.conad.it/ricerca-negozi/conad-superstore-via-del-novecento-86-61122--pesaro--009355"
             }
         },
         {
@@ -4575,11 +4461,11 @@
             "id": 10738853174,
             "lat": 44.3953353,
             "lon": 12.1798846,
-            "timestamp": "2025-01-01T21:10:36Z",
-            "version": 2,
-            "changeset": 160885569,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2026-03-11T20:59:06Z",
+            "version": 3,
+            "changeset": 179722411,
+            "user": "Ryccardo",
+            "uid": 2884921,
             "tags": {
                 "addr:city": "Ravenna",
                 "addr:housenumber": "86",
@@ -4587,9 +4473,12 @@
                 "addr:street": "Via Marco Bussato",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
+                "check_date:opening_hours": "2026-03-11",
                 "name": "Unieuro",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
                 "operator": "Unieuro S.p.A.",
-                "shop": "electronics"
+                "shop": "electronics",
+                "source:opening_hours": "Ingresso Est"
             }
         },
         {
@@ -4759,29 +4648,6 @@
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11307826554,
-            "lat": 44.4232824,
-            "lon": 12.2301073,
-            "timestamp": "2025-10-08T20:28:49Z",
-            "version": 5,
-            "changeset": 173022479,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Ravenna",
-                "addr:housenumber": "18",
-                "addr:postcode": "48122",
-                "addr:street": "Via Manlio Travaglini",
-                "brand": "OVS",
-                "brand:wikidata": "Q2042514",
-                "name": "OVS",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
-                "shop": "clothes",
-                "wheelchair": "yes"
             }
         },
         {
@@ -5173,7 +5039,7 @@
             "timestamp": "2024-10-20T22:34:19Z",
             "version": 2,
             "changeset": 158147886,
-            "user": "Martin Ligabue",
+            "user": "Martinligabue",
             "uid": 8305310,
             "tags": {
                 "addr:city": "Rimini",
@@ -5263,11 +5129,11 @@
             "id": 12512352402,
             "lat": 43.9077569,
             "lon": 12.8669878,
-            "timestamp": "2025-12-22T10:07:23Z",
-            "version": 8,
-            "changeset": 176254810,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2026-03-02T10:23:00Z",
+            "version": 9,
+            "changeset": 179246836,
+            "user": "_basii",
+            "uid": 23832747,
             "tags": {
                 "addr:city": "Pesaro",
                 "addr:housenumber": "23",
@@ -5279,7 +5145,7 @@
                 "contact:instagram": "lorenzo.fratesi.menopancia",
                 "currency:XBT": "yes",
                 "leisure": "fitness_centre",
-                "name": "MenoPancia",
+                "name": "Big gym",
                 "payment:cash": "yes",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
@@ -5657,6 +5523,40 @@
                 "contact:phone": "+39 0721 897588",
                 "name": "Conad City",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 135069734,
+            "timestamp": "2026-03-14T16:50:46Z",
+            "version": 3,
+            "changeset": 179866337,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                1483790232,
+                1483790229,
+                1483790236,
+                1483790243,
+                1483790242,
+                1483790225,
+                1483790241,
+                1483790234,
+                1483790232
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "41",
+                "addr:postcode": "61121",
+                "addr:street": "Via Canale",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "contact:fax": "+39 0721 23874",
+                "contact:phone": "+39 0721 403421",
+                "name": "Conad",
+                "ref:vatin": "IT02671460414",
+                "shop": "supermarket",
+                "wheelchair": "limited"
             }
         },
         {
@@ -6350,6 +6250,110 @@
         },
         {
             "type": "way",
+            "id": 783721418,
+            "timestamp": "2026-03-14T17:29:03Z",
+            "version": 2,
+            "changeset": 179868891,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                7320189154,
+                7320189153,
+                7320189148,
+                7320189147,
+                7320189154
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "2502",
+                "addr:postcode": "61122",
+                "addr:street": "Via Sandro Pertini",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lng": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Acema S.p.A.",
+                "ref:mise": "24944"
+            }
+        },
+        {
+            "type": "way",
+            "id": 783721419,
+            "timestamp": "2026-03-14T17:29:03Z",
+            "version": 2,
+            "changeset": 179868891,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                7320189155,
+                7320189158,
+                7320189157,
+                7320189156,
+                7320189155
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "2475",
+                "addr:postcode": "61122",
+                "addr:street": "Via Sandro Pertini",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "fuel:cng": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lng": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Forini S.p.A.",
+                "ref:mise": "43332"
+            }
+        },
+        {
+            "type": "way",
+            "id": 783721420,
+            "timestamp": "2026-03-14T17:29:03Z",
+            "version": 2,
+            "changeset": 179868891,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                7320189162,
+                7320189161,
+                7320189160,
+                7320189159,
+                7320189162
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:housenumber": "2475",
+                "addr:postcode": "61122",
+                "addr:street": "Via Sandro Pertini",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "fuel:cng": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lng": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Forini S.p.A.",
+                "ref:mise": "43332"
+            }
+        },
+        {
+            "type": "way",
             "id": 863751574,
             "timestamp": "2020-10-26T10:27:21Z",
             "version": 1,
@@ -6430,6 +6434,44 @@
                 "operator": "Acema S.P.A.",
                 "ref:mise": "13644",
                 "self_service": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1151915267,
+            "timestamp": "2026-03-14T16:50:46Z",
+            "version": 2,
+            "changeset": 179866337,
+            "user": "Galessandroni",
+            "uid": 133076,
+            "nodes": [
+                10715909005,
+                10715909006,
+                10715909007,
+                10715909008,
+                10715909009,
+                10715909010,
+                10715909005
+            ],
+            "tags": {
+                "addr:city": "Pesaro",
+                "addr:postcode": "61122",
+                "addr:street": "Via Yuri Gagarin",
+                "addr:suburb": "Villa San Martino",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "building": "roof",
+                "compressed_air": "yes",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "layer": "1",
+                "name": "Tamoil",
+                "opening_hours": "24/7",
+                "ref:mise": "31117",
+                "self_service": "yes",
+                "source": "MISE - Ministero Sviluppo Economico",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6588,18 +6630,20 @@
         {
             "type": "way",
             "id": 1361482095,
-            "timestamp": "2025-11-21T15:20:31Z",
-            "version": 4,
-            "changeset": 174953575,
+            "timestamp": "2026-02-24T16:19:32Z",
+            "version": 5,
+            "changeset": 178997307,
             "user": "Fraus",
             "uid": 9008783,
             "nodes": [
                 12604313992,
                 13322150015,
+                13595989944,
                 12604313998,
                 12604313993,
                 12604313994,
                 12604313995,
+                13595989949,
                 13321879629,
                 12604313992
             ],

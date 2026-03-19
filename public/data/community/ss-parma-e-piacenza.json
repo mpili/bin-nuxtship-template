@@ -7,7 +7,7 @@
     "idlocalita": "parma",
     "telegram_weburl": "https://web.telegram.org/a/#-1001926008431",
     "telegram_app": "https://t.me/SatoshiSpritzParmaePiacenza",
-    "telegram_members": 145.0,
+    "telegram_members": 149.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -68,11 +68,11 @@
             "id": 227553268,
             "lat": 45.016499,
             "lon": 9.131184,
-            "timestamp": "2025-09-30T14:01:32Z",
-            "version": 11,
-            "changeset": 172662388,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-13T10:49:03Z",
+            "version": 14,
+            "changeset": 179799845,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Casteggio",
                 "addr:housenumber": "50",
@@ -81,13 +81,15 @@
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
-                "check_date": "2024-11-03",
+                "changing_table": "no",
+                "check_date": "2026-03-13",
                 "compressed_air": "yes",
                 "name": "Q8",
                 "opening_hours": "24/7",
                 "operator": "Farina Pierluigi",
                 "ref:mise": "8205",
                 "self_service": "yes",
+                "valves": "schrader",
                 "wheelchair": "yes"
             }
         },
@@ -291,11 +293,11 @@
             "id": 227965422,
             "lat": 45.055276,
             "lon": 9.499236,
-            "timestamp": "2025-10-03T16:32:33Z",
-            "version": 6,
-            "changeset": 172800792,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-16T10:14:16Z",
+            "version": 12,
+            "changeset": 179941979,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Sarmato",
                 "addr:housenumber": "KM. 173+462",
@@ -304,9 +306,15 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "G.E. di Tassi Giovanni & Bisi Emanuela S.N.C.",
-                "ref:mise": "34920"
+                "ref:mise": "34920",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -414,11 +422,11 @@
             "id": 228114325,
             "lat": 45.0674782,
             "lon": 9.329182,
-            "timestamp": "2025-10-16T18:58:12Z",
-            "version": 11,
-            "changeset": 173380795,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-13T15:06:47Z",
+            "version": 13,
+            "changeset": 179815519,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Stradella",
                 "addr:postcode": "27049",
@@ -426,12 +434,14 @@
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
                 "brand:wikipedia": "en:Tamoil",
+                "changing_table": "no",
                 "compressed_air": "yes",
                 "name": "Tamoil",
                 "opening_hours": "24/7",
                 "operator": "T.D.M. S.R.L.",
                 "ref:mise": "28396",
                 "self_service": "yes",
+                "valves": "schrader",
                 "wheelchair": "yes"
             }
         },
@@ -648,13 +658,13 @@
         {
             "type": "node",
             "id": 613400888,
-            "lat": 45.0429967,
-            "lon": 9.7390816,
-            "timestamp": "2025-10-03T16:37:57Z",
-            "version": 8,
-            "changeset": 172801020,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.0429653,
+            "lon": 9.739016,
+            "timestamp": "2026-03-16T14:24:16Z",
+            "version": 15,
+            "changeset": 179953505,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "tags": {
                 "addr:city": "Piacenza",
                 "addr:postcode": "29100",
@@ -662,9 +672,15 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "changing_table": "no",
+                "compressed_air": "yes",
                 "name": "Tamoil",
+                "opening_hours": "24/7",
                 "operator": "T.D.M. S.R.L.",
-                "ref:mise": "39406"
+                "ref:mise": "39406",
+                "self_service": "yes",
+                "valves": "schrader",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1766,26 +1782,6 @@
                 "brand:wikidata": "Q96311190",
                 "name": "La Feltrinelli",
                 "shop": "books"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4388772593,
-            "lat": 45.4091337,
-            "lon": 9.9308693,
-            "timestamp": "2025-10-23T19:58:47Z",
-            "version": 5,
-            "changeset": 173690709,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Orzinuovi",
-                "addr:postcode": "25034",
-                "addr:street": "Viale Adua",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "name": "Trony",
-                "shop": "electronics"
             }
         },
         {
@@ -4404,6 +4400,23 @@
             }
         },
         {
+            "type": "node",
+            "id": 13645372945,
+            "lat": 45.0760624,
+            "lon": 9.3002927,
+            "timestamp": "2026-03-13T14:25:42Z",
+            "version": 1,
+            "changeset": 179809675,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
+            }
+        },
+        {
             "type": "way",
             "id": 27549342,
             "timestamp": "2025-05-23T16:12:37Z",
@@ -4548,11 +4561,11 @@
         {
             "type": "way",
             "id": 117671956,
-            "timestamp": "2025-10-30T19:44:56Z",
-            "version": 5,
-            "changeset": 173992931,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-16T14:21:57Z",
+            "version": 6,
+            "changeset": 179953438,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 1325159571,
                 1325159576,
@@ -4573,7 +4586,8 @@
                 "phone": "+39 0523 188 5252",
                 "ref:vatin": "IT11005760159",
                 "shop": "sports",
-                "website": "https://www.decathlon.it/"
+                "website": "https://www.decathlon.it/",
+                "wheelchair": "yes"
             }
         },
         {
@@ -4865,11 +4879,11 @@
         {
             "type": "way",
             "id": 184125522,
-            "timestamp": "2024-01-29T14:15:50Z",
-            "version": 4,
-            "changeset": 146823785,
-            "user": "DnaX",
-            "uid": 69259,
+            "timestamp": "2026-03-16T13:05:12Z",
+            "version": 7,
+            "changeset": 179950303,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
             "nodes": [
                 1945731905,
                 11564372854,
@@ -4891,7 +4905,8 @@
                 "building": "retail",
                 "name": "Unieuro",
                 "shop": "electronics",
-                "source": "Regione Emilia Romagna"
+                "source": "Regione Emilia Romagna",
+                "wheelchair": "yes"
             }
         },
         {

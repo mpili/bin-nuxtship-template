@@ -24,6 +24,6 @@ definePageMeta({
       <LocalitaPage :id="id" :data="data" />
     </div>
     <LandingDisclaimer />
-    <MainRivelaerrori v-if="error" :error="error" />
+    <MainRivelaerror v-if="error" :error="error" />
   </LandingContainer>
 </template>

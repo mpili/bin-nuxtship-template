@@ -289,32 +289,6 @@
         },
         {
             "type": "node",
-            "id": 227880971,
-            "lat": 45.370185,
-            "lon": 11.898086,
-            "timestamp": "2025-10-03T18:24:19Z",
-            "version": 7,
-            "changeset": 172804651,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:postcode": "35100",
-                "addr:street": "Corso Primo Maggio",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "19623",
-                "source": "MISE - Ministero Sviluppo Economico"
-            }
-        },
-        {
-            "type": "node",
             "id": 227911427,
             "lat": 45.3620716,
             "lon": 12.0930658,
@@ -1160,6 +1134,26 @@
                 "operator": "Librerie Feltrinelli S.r.l.",
                 "ref:vatin": "IT04628790968",
                 "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2297489090,
+            "lat": 44.8332505,
+            "lon": 11.6171525,
+            "timestamp": "2026-02-28T20:35:33Z",
+            "version": 2,
+            "changeset": 179186461,
+            "user": "Danysan95",
+            "uid": 4425563,
+            "tags": {
+                "addr:housenumber": "113",
+                "addr:street": "Corso Porta Reno",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "check_date": "2026-02-28",
+                "name": "Despar",
+                "shop": "supermarket"
             }
         },
         {
@@ -3261,13 +3255,13 @@
         {
             "type": "node",
             "id": 11227632443,
-            "lat": 45.2115643,
-            "lon": 11.8893595,
-            "timestamp": "2023-12-15T14:50:02Z",
-            "version": 3,
-            "changeset": 145154427,
-            "user": "Enrico Net",
-            "uid": 20251608,
+            "lat": 45.2114347,
+            "lon": 11.8894484,
+            "timestamp": "2026-01-28T23:51:57Z",
+            "version": 4,
+            "changeset": 177825622,
+            "user": "htwan",
+            "uid": 20161667,
             "tags": {
                 "brand": "OVS",
                 "brand:wikidata": "Q2042514",
@@ -3371,13 +3365,13 @@
         {
             "type": "node",
             "id": 11420438864,
-            "lat": 45.2115148,
-            "lon": 11.8889507,
-            "timestamp": "2025-10-23T18:50:38Z",
-            "version": 4,
-            "changeset": 173688391,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 45.2115213,
+            "lon": 11.888878,
+            "timestamp": "2026-01-28T23:51:57Z",
+            "version": 5,
+            "changeset": 177825622,
+            "user": "htwan",
+            "uid": 20161667,
             "tags": {
                 "addr:city": "Conselve",
                 "addr:housenumber": "2",
@@ -3549,23 +3543,6 @@
                 "name": "Despar",
                 "shop": "supermarket",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11876109191,
-            "lat": 45.2432715,
-            "lon": 11.7447013,
-            "timestamp": "2024-05-03T09:37:19Z",
-            "version": 1,
-            "changeset": 150827576,
-            "user": "DnaX",
-            "uid": 69259,
-            "tags": {
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "shop": "supermarket"
             }
         },
         {
@@ -4129,13 +4106,95 @@
             }
         },
         {
+            "type": "node",
+            "id": 13524578986,
+            "lat": 45.2368347,
+            "lon": 11.861357,
+            "timestamp": "2026-02-17T22:08:54Z",
+            "version": 2,
+            "changeset": 178700442,
+            "user": "htwan",
+            "uid": 20161667,
+            "tags": {
+                "addr:housenumber": "49",
+                "addr:street": "Via Padova",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Sevarin Lucio",
+                "ref:mise": "36474"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13525039947,
+            "lat": 45.3120188,
+            "lon": 11.9084826,
+            "timestamp": "2026-02-04T20:58:39Z",
+            "version": 1,
+            "changeset": 178112123,
+            "user": "htwan",
+            "uid": 20161667,
+            "tags": {
+                "addr:housenumber": "50",
+                "addr:street": "Via Antonio Gramsci",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:biodiesel": "yes",
+                "fuel:diesel": "yes",
+                "fuel:lpg": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Contiero Ermanno",
+                "ref:mise": "40086"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13526614089,
+            "lat": 45.4175019,
+            "lon": 12.0476342,
+            "timestamp": "2026-02-05T15:13:57Z",
+            "version": 1,
+            "changeset": 178145177,
+            "user": "osm19",
+            "uid": 1717503,
+            "tags": {
+                "brand": "Unieuro",
+                "brand:wikidata": "Q4004687",
+                "name": "Unieuro",
+                "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13586938306,
+            "lat": 45.3524169,
+            "lon": 11.7808682,
+            "timestamp": "2026-02-21T12:30:08Z",
+            "version": 1,
+            "changeset": 178856816,
+            "user": "Valerio_Bozzolan",
+            "uid": 1875845,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
-            "timestamp": "2025-10-23T10:23:41Z",
-            "version": 13,
-            "changeset": 173666238,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-02-28T11:43:09Z",
+            "version": 14,
+            "changeset": 179167140,
+            "user": "Cecchele",
+            "uid": 23757378,
             "nodes": [
                 2559658585,
                 1311764939,
@@ -4161,12 +4220,14 @@
                 "brand": "IKEA",
                 "brand:wikidata": "Q54078",
                 "building": "yes",
+                "building:levels": "3",
+                "check_date": "2026-02-28",
                 "layer": "1",
                 "name": "IKEA",
                 "opening_hours": "Mo-Su 09:30-20:30",
                 "operator": "Ikea Italia Retail S.r.l.",
                 "shop": "furniture",
-                "website": "https://m.ikea.com/it/it/",
+                "website": "https://www.ikea.com/it/it/",
                 "wheelchair": "yes"
             }
         },
@@ -4511,43 +4572,6 @@
         },
         {
             "type": "way",
-            "id": 350901918,
-            "timestamp": "2025-12-30T02:13:57Z",
-            "version": 4,
-            "changeset": 176606275,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                3566256671,
-                3566256678,
-                3566256643,
-                3566255329,
-                6896416454,
-                6896416453,
-                3566249676,
-                3566256644,
-                3566256654,
-                3566257249,
-                3566257260,
-                3566257753,
-                3566256671
-            ],
-            "tags": {
-                "addr:city": "Conselve",
-                "addr:housenumber": "4",
-                "addr:postcode": "35026",
-                "addr:street": "Via Gianfranco Malipiero",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "building": "yes",
-                "name": "Eurospar",
-                "opening_hours": "Mo-Su 08:00-20:00",
-                "shop": "supermarket",
-                "website": "https://www.despar.it/it/punto-vendita-eurospar/110/conselve/"
-            }
-        },
-        {
-            "type": "way",
             "id": 429302513,
             "timestamp": "2025-10-29T14:34:59Z",
             "version": 6,
@@ -4665,33 +4689,6 @@
         },
         {
             "type": "way",
-            "id": 1110250712,
-            "timestamp": "2023-10-23T12:47:07Z",
-            "version": 2,
-            "changeset": 143017052,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                5851832244,
-                10156715087,
-                10156715086,
-                10156715085,
-                10156715084,
-                10156715083,
-                10156715082,
-                5851832244
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Saical Petroli S.R.L",
-                "ref:mise": "40086"
-            }
-        },
-        {
-            "type": "way",
             "id": 1201722709,
             "timestamp": "2025-04-22T22:16:38Z",
             "version": 4,
@@ -4722,30 +4719,6 @@
                 "shop": "supermarket",
                 "website": "https://www.despar.it/it/punto-vendita-eurospar/136/vigonovo/",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1213812591,
-            "timestamp": "2025-02-13T18:38:40Z",
-            "version": 2,
-            "changeset": 162477361,
-            "user": "htwan",
-            "uid": 20161667,
-            "nodes": [
-                5851835221,
-                11245577489,
-                11245577490,
-                11245577491,
-                5851835221
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Sevarin Lucio",
-                "ref:mise": "36474"
             }
         },
         {

@@ -7,7 +7,7 @@
     "idlocalita": "lecce",
     "telegram_weburl": "https://web.telegram.org/a/#-1002453649692",
     "telegram_app": "https://t.me/salentobitcoin",
-    "telegram_members": 340.0,
+    "telegram_members": 333.0,
     "poi": [
         {
             "type": "node",
@@ -4124,6 +4124,45 @@
                 "brand:wikidata": "Q57543102",
                 "building": "yes",
                 "name": "Conad City",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1150985092,
+            "timestamp": "2026-03-15T11:17:31Z",
+            "version": 2,
+            "changeset": 179892877,
+            "user": "Aluminum0173",
+            "uid": 16035231,
+            "nodes": [
+                10706988734,
+                13649519041,
+                13649519118,
+                10706988733,
+                13649519279,
+                13649519047,
+                10706988732,
+                13649519275,
+                13649519045,
+                13649519023,
+                13649519061,
+                13649519020,
+                13649519063,
+                13649519277,
+                13649519044,
+                13649519276,
+                10706988731,
+                13649519288,
+                13649519042,
+                13649519286,
+                10706988734
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "building": "retail",
+                "name": "Conad",
                 "shop": "supermarket"
             }
         },

@@ -1,6 +1,14 @@
 <script setup>
-defineProps(["poi"]);
+import { computed } from 'vue';
+
+const props = defineProps(["poi"]);
 // const url_node  = `/osn/${poi.id}`;
+
+const hasValidCoords = computed(() => {
+  const lat = usePoiLat(props.poi);
+  const lon = usePoiLon(props.poi);
+  return lat !== undefined && lat !== null && lon !== undefined && lon !== null;
+});
 </script>
 
 <template>
@@ -14,7 +22,7 @@ defineProps(["poi"]);
     :radius="10"
     :color="'orange'"
   /> -->
-  <LMarker :lat-lng="[usePoiLat(poi), usePoiLon(poi)]">
+  <LMarker v-if="hasValidCoords" :lat-lng="[usePoiLat(poi), usePoiLon(poi)]">
     <LIcon  v-if="poi?.tags['currency:XBT']=='yes'"
       icon-url="/img/poimarkerorange.png"
       :icon-size="[25, 41]"
