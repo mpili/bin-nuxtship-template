@@ -57,7 +57,7 @@ useHead({
   <LandingBreadcrumb :voci="breadcrumb" />
 
   <div class="py-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
-    <div class="divide-y divide-gray-300/50">
+    <div class="divide-y divide-neutral">
       <div class="flex">
         <div v-if="data?.telegram_app" class="flex flex-row align-items-center px-8 py-2">
           <Icon name="logos:telegram" size="24" class="mr-2" />
@@ -67,7 +67,7 @@ useHead({
           v-if="data?.telegram_members"
           class="flex flex-row align-items-center px-8 py-2"
         >
-          <span class="text-gray-400">members: </span
+          <span class="text-neutral">members: </span
           >{{ data?.telegram_members }}
         </div>
       </div>

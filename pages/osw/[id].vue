@@ -42,7 +42,7 @@ definePageMeta({
       />
     </div>
     <LandingDisclaimer />
-    <OnwFab
+    <!-- <OnwFab
       :id="id"
       type="w"
       :oppending="isPending"
@@ -51,7 +51,7 @@ definePageMeta({
       :dbpending="isDbPending"
       :dbdata="dbdata"
       :dberror="dberror"
-    />
+    /> -->
     <MainRivelaerror v-if="error" :error="error" />
     <MainRivelaerror v-if="dberror" :error="dberror" />
   </LandingContainer>

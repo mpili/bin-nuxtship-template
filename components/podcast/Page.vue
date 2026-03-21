@@ -38,7 +38,7 @@ useHead({
     </LandingSectionhead>
     <LandingBreadcrumb :voci="breadcrumb" />
     <div
-      class="flex flex-col w-full order-first lg:order-none border-2 border-[#D8DEE9] border-opacity-50 py-5 px-6 rounded-md"
+      class="flex flex-col w-full order-first lg:order-none border-2 border-base-200 border-opacity-50 py-5 px-6 rounded-md"
     >
       <div class="flex-none w-48 pb-4 relative">
         <NuxtImg
@@ -50,7 +50,7 @@ useHead({
       
       <!-- Description section -->
       <div v-if="podc?.descrizione" class="mb-6">
-        <p class="text-gray-700">{{ podc?.descrizione }}</p>
+        <p class="text-base-content">{{ podc?.descrizione }}</p>
       </div>
 
       <OsnTagwebsite

@@ -42,7 +42,6 @@ const features = [
       <template v-slot:title>Impara Bitcoin</template>
       <template v-slot:desc>Tutto ciò che può servirti è già qui</template>
     </LandingSectionhead>
-    <LandingImpara></LandingImpara>
     <p class="text-align-left mt-2">
       Questa sezione è pensata per metterti in condizioni di diventare un utente
       esperto e sicuro nel mondo Bitcoin.
