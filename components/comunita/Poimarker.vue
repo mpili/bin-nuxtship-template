@@ -35,13 +35,13 @@ const hasValidCoords = computed(() => {
       <div v-if="poi.tags.name">
         <!-- <NuxtLink :to="'/osn/' + poi.id"> -->
         <NuxtLink :to="usePoislug(poi)">
-          <span class="text-blue-700 font-semibold">
+          <span class="text-primary font-semibold">
             {{ poi.tags.name }}
           </span>
-          <div class="text-gray-400">
+          <div class="text-neutral">
             <OsnTipovenue :tags="poi.tags" />
           </div>
-          <div v-if="poi.tags['addr:street']"  class="text-gray-600">
+          <div v-if="poi.tags['addr:street']"  class="text-base-content">
             {{ poi.tags["addr:street"]
             }}<span v-if="poi.tags['addr:housenumber']"
               >, {{ poi.tags["addr:housenumber"] }}

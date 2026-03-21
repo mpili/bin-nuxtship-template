@@ -4,11 +4,11 @@
 
   <div class="ad-banner-wrapper mx-auto my-8 max-w-[800px]">
     <template v-if="!adBlocked">
-      <div class="ad-label text-xs uppercase text-gray-500 mb-2">
+      <div class="ad-label text-xs uppercase text-neutral mb-2">
         Advertisement
       </div>
 
-      <div class="ad-content border border-gray-200 rounded-lg bg-gray-50 p-4 flex flex-col items-center">
+      <div class="ad-content border border-base-200 rounded-lg bg-base-100 p-4 flex flex-col items-center">
         <template v-if="ad.image_url && (ad.id || ad.link)">
           <a
             :href="clickHref"
@@ -26,7 +26,7 @@
           </a>
         </template>
         <template v-else>
-          <div class="text-center py-8 text-gray-600">
+          <div class="text-center py-8 text-base-content">
             Banner pubblicitario
           </div>
         </template>

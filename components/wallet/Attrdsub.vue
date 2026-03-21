@@ -13,7 +13,7 @@ export default {
 		<Icon :name="att.icona" size="32" :color="att.colore" />
 	</div>
     <div>
-      <p class="text-gray-800">{{ att.titolo }}</p>
-      <p class="text-gray-500 text-sm">{{ att.descrizione }}</p>
+      <p class="text-base-content">{{ att.titolo }}</p>
+      <p class="text-neutral text-sm">{{ att.descrizione }}</p>
     </div>
 </template>

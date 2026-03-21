@@ -28,7 +28,10 @@ const vocimenu = [
   {
     titolo: "Cosa",
     voci: [
-
+      {
+        titolo: "Notizie",
+        path: "https://news.21milioni.com/",
+      },
       {
         titolo: "Impara",
         path: "/impara",

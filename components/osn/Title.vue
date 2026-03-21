@@ -13,3 +13,7 @@ useSeoMeta({
 });
 </script>
 
+<template>
+  <!-- Componente per SEO, non renderizza nulla -->
+</template>
+
