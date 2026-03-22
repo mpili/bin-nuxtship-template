@@ -2,6 +2,9 @@
 	<LMarker :lat-lng="[44.049114, 8.213017]">
 		<LPopup><NuxtLink to="/c/ss-albenga">Satoshi Spritz Albenga</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[43.5699, 13.4928]">
+		<LPopup><NuxtLink to="/c/b-ancona">Bitcoin Ancona</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[43.4632928, 11.8800925]">
 		<LPopup><NuxtLink to="/c/arezzo-bitcoin-meetup">Arezzo Bitcoin Meetup</NuxtLink></LPopup>
 	</LMarker>
