@@ -1,13 +1,14 @@
 {
-    "id": "bh-napoli",
-    "name": "Bitcoin Hub Napoli",
-    "lng": 40.7951762,
-    "lat": 14.3694801,
+    "id": "bb-napoli",
+    "name": "Bitcoin Beer Napoli",
+    "lng": 40.8517746,
+    "lat": 14.2681244,
     "localita": "Napoli",
     "idlocalita": "napoli",
-    "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinapoli",
+    "telegram_weburl": "https://web.telegram.org/a/#-1001868277959",
     "telegram_app": "https://t.me/bitcoinapoli",
     "telegram_members": 24.0,
+    "network": "bitcoinbeer",
     "poi": [
         {
             "type": "node",
@@ -660,6 +661,28 @@
         },
         {
             "type": "node",
+            "id": 1983277711,
+            "lat": 41.1127794,
+            "lon": 13.8835466,
+            "timestamp": "2021-11-18T14:40:46Z",
+            "version": 4,
+            "changeset": 113947686,
+            "user": "CreCrePL",
+            "uid": 2793520,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
+                "fuel:diesel": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia S.R.L.",
+                "ref:mise": "28080"
+            }
+        },
+        {
+            "type": "node",
             "id": 1984079721,
             "lat": 40.8465432,
             "lon": 14.2986955,
@@ -1154,30 +1177,6 @@
                 "operator": "G.I.S. Petroli S.A.S. di Vigliotti Nicoletta & C.",
                 "ref:mise": "31342",
                 "self_service": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 3924028241,
-            "lat": 41.1687114,
-            "lon": 14.6952433,
-            "timestamp": "2021-02-14T11:55:16Z",
-            "version": 3,
-            "changeset": 99246626,
-            "user": "wsti",
-            "uid": 3495515,
-            "tags": {
-                "addr:city": "Foglianise",
-                "addr:housenumber": "13",
-                "addr:postcode": "82030",
-                "addr:street": "Via Utile I Traversa",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "brand:wikipedia": "it:Conad",
-                "name": "Conad",
-                "operator": "FARC S.r.l.",
-                "phone": "+39 0824 876088",
-                "shop": "supermarket"
             }
         },
         {
@@ -1705,48 +1704,6 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4535477989,
-            "lat": 40.6352769,
-            "lon": 14.905898,
-            "timestamp": "2025-10-17T19:48:32Z",
-            "version": 7,
-            "changeset": 173426233,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pontecagnano",
-                "addr:postcode": "84098",
-                "addr:street": "Via Antonio Pacinotti",
-                "brand": "OVS",
-                "brand:wikidata": "Q2042514",
-                "name": "OVS",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "clothes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4535688689,
-            "lat": 40.6352643,
-            "lon": 14.9053776,
-            "timestamp": "2024-03-26T20:58:57Z",
-            "version": 7,
-            "changeset": 149195376,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "addr:city": "Pontecagnano",
-                "brand": "Kasanova",
-                "brand:wikidata": "Q116214505",
-                "name": "Kasanova",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "houseware",
-                "wheelchair": "yes"
             }
         },
         {
@@ -2356,66 +2313,6 @@
         },
         {
             "type": "node",
-            "id": 5851831426,
-            "lat": 40.6930876,
-            "lon": 14.894142,
-            "timestamp": "2025-10-17T20:36:19Z",
-            "version": 3,
-            "changeset": 173427913,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Giffoni Sei Casali",
-                "addr:postcode": "84090",
-                "addr:street": "Strada Provinciale 25 della Valle Giffoni",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Voto Silvio",
-                "ref:mise": "7079"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5851831460,
-            "lat": 40.6431956,
-            "lon": 14.8783929,
-            "timestamp": "2022-12-16T12:03:30Z",
-            "version": 2,
-            "changeset": 130153344,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia Srl",
-                "ref:mise": "6736"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5851831462,
-            "lat": 40.6814085,
-            "lon": 14.8717868,
-            "timestamp": "2023-12-02T15:02:27Z",
-            "version": 2,
-            "changeset": 144694613,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia Srl",
-                "ref:mise": "6734"
-            }
-        },
-        {
-            "type": "node",
             "id": 5851831473,
             "lat": 41.0328747,
             "lon": 14.2830662,
@@ -2432,6 +2329,25 @@
                 "name": "Q8",
                 "operator": "Servizi & Gestioni Italia Srl",
                 "ref:mise": "6720"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5851831474,
+            "lat": 41.2527936,
+            "lon": 14.0646151,
+            "timestamp": "2022-10-19T16:30:55Z",
+            "version": 2,
+            "changeset": 127793102,
+            "user": "Umbyone",
+            "uid": 10622815,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Q8",
+                "brand:wikidata": "Q1634762",
+                "name": "Q8",
+                "operator": "Servizi & Gestioni Italia Srl",
+                "ref:mise": "6717"
             }
         },
         {
@@ -2493,26 +2409,6 @@
                 "name": "Q8",
                 "operator": "Irpinia Idrocarburi S.A.S. di Matarazzo Eugenio & C.",
                 "ref:mise": "4148"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5851831648,
-            "lat": 40.8816018,
-            "lon": 14.9186853,
-            "timestamp": "2020-12-30T19:49:17Z",
-            "version": 2,
-            "changeset": 96688151,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "name": "Q8",
-                "operator": "Del Percio Roberto",
-                "ref:mise": "4124"
             }
         },
         {
@@ -2668,29 +2564,6 @@
                 "name": "Q8",
                 "operator": "Sirignano Nicola",
                 "ref:mise": "36115"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5851835996,
-            "lat": 40.9312792,
-            "lon": 14.9052554,
-            "timestamp": "2025-10-22T19:04:12Z",
-            "version": 3,
-            "changeset": 173643521,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Chiusano di San Domenico",
-                "addr:postcode": "83040",
-                "addr:street": "Strada Statale 400 di Castelvetere",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "name": "Q8",
-                "operator": "Tolino Mario",
-                "ref:mise": "35970"
             }
         },
         {
@@ -3651,27 +3524,6 @@
         },
         {
             "type": "node",
-            "id": 5851845626,
-            "lat": 40.6995216,
-            "lon": 14.8696169,
-            "timestamp": "2025-10-16T14:36:30Z",
-            "version": 3,
-            "changeset": 173369528,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "San Cipriano Picentino",
-                "addr:street": "Strada Provinciale 26 San Mango-San Cipriano",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil",
-                "operator": "Alfani Giuseppe",
-                "ref:mise": "11002"
-            }
-        },
-        {
-            "type": "node",
             "id": 5853343439,
             "lat": 40.8720859,
             "lon": 14.2819583,
@@ -4602,28 +4454,6 @@
         },
         {
             "type": "node",
-            "id": 8077523804,
-            "lat": 41.1194688,
-            "lon": 14.7582302,
-            "timestamp": "2025-01-03T09:50:11Z",
-            "version": 3,
-            "changeset": 160940408,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Benevento",
-                "addr:postcode": "82100",
-                "addr:street": "Contrada San Vito",
-                "brand": "Decathlon",
-                "brand:wikidata": "Q509349",
-                "brand:wikipedia": "en:Decathlon Group",
-                "name": "Decathlon",
-                "operator": "Decathlon",
-                "shop": "sports"
-            }
-        },
-        {
-            "type": "node",
             "id": 8252967620,
             "lat": 40.921411,
             "lon": 14.1610738,
@@ -5316,83 +5146,6 @@
         },
         {
             "type": "node",
-            "id": 8911889819,
-            "lat": 41.1180222,
-            "lon": 14.7555421,
-            "timestamp": "2025-10-31T13:21:10Z",
-            "version": 5,
-            "changeset": 174021013,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Benevento",
-                "addr:street": "Contrada San Vito",
-                "alt_name": "Mediaworld Benevento",
-                "brand": "MediaWorld",
-                "brand:wikidata": "Q2381223",
-                "name": "MediaWorld",
-                "operator": "MediaMarket S.p.A.",
-                "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8913233480,
-            "lat": 41.118251,
-            "lon": 14.7564161,
-            "timestamp": "2024-11-28T14:00:46Z",
-            "version": 3,
-            "changeset": 159703817,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "brand": "Tezenis",
-                "brand:wikidata": "Q28056374",
-                "clothes": "women;underwear;swimwear;men;children",
-                "name": "Tezenis",
-                "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8913233481,
-            "lat": 41.1182232,
-            "lon": 14.7563163,
-            "timestamp": "2023-07-26T15:16:55Z",
-            "version": 2,
-            "changeset": 139042953,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "brand": "Calzedonia",
-                "brand:wikidata": "Q1027874",
-                "brand:wikipedia": "en:Calzedonia",
-                "name": "Calzedonia",
-                "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8913233484,
-            "lat": 41.1183994,
-            "lon": 14.7571182,
-            "timestamp": "2021-07-12T09:01:55Z",
-            "version": 1,
-            "changeset": 107824804,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Benevento",
-                "addr:street": "Contrada San Vito",
-                "brand": "Mondadori",
-                "brand:wikidata": "Q85355",
-                "brand:wikipedia": "en:Arnoldo Mondadori Editore",
-                "name": "Mondadori",
-                "shop": "books"
-            }
-        },
-        {
-            "type": "node",
             "id": 8923266817,
             "lat": 40.8459185,
             "lon": 14.2623662,
@@ -5443,28 +5196,6 @@
                 "name": "L'Erbolario",
                 "opening_hours": "Mo-Su 10:00-22:00",
                 "shop": "herbalist"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9027226042,
-            "lat": 41.1180933,
-            "lon": 14.7563424,
-            "timestamp": "2021-08-22T23:14:38Z",
-            "version": 1,
-            "changeset": 110081754,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Benevento",
-                "addr:postcode": "82100",
-                "addr:street": "Contrada San Vito",
-                "branch": "Benevento",
-                "brand": "Foot Locker",
-                "brand:wikidata": "Q63335",
-                "brand:wikipedia": "en:Foot Locker",
-                "name": "Foot Locker",
-                "shop": "shoes"
             }
         },
         {
@@ -7581,129 +7312,6 @@
         },
         {
             "type": "node",
-            "id": 10138046378,
-            "lat": 40.6355767,
-            "lon": 14.905946,
-            "timestamp": "2024-07-06T06:45:55Z",
-            "version": 6,
-            "changeset": 153612126,
-            "user": "mauropili",
-            "uid": 1496865,
-            "tags": {
-                "addr:city": "Pontecagnano Faiano",
-                "addr:postcode": "84098",
-                "addr:street": "Via Antonio Pacinotti",
-                "brand": "Mondo Convenienza",
-                "brand:wikidata": "Q55830962",
-                "check_date:currency:XBT": "2023-07-31",
-                "currency:XBT": "yes",
-                "name": "Mondo Convenienza",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "furniture",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10138046381,
-            "lat": 40.6354163,
-            "lon": 14.905398,
-            "timestamp": "2024-03-27T06:59:14Z",
-            "version": 5,
-            "changeset": 149206573,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "brand": "Tezenis",
-                "brand:wikidata": "Q28056374",
-                "clothes": "underwear;swimwear",
-                "name": "Tezenis",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "clothes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10138046382,
-            "lat": 40.6355886,
-            "lon": 14.9055779,
-            "timestamp": "2024-03-26T20:53:42Z",
-            "version": 4,
-            "changeset": 149195376,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "brand": "Mondadori",
-                "brand:wikidata": "Q85355",
-                "name": "Mondadori",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "books",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10138046384,
-            "lat": 40.6351932,
-            "lon": 14.9056036,
-            "timestamp": "2025-10-25T14:19:14Z",
-            "version": 5,
-            "changeset": 173758144,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pontecagnano Faiano",
-                "addr:postcode": "84098",
-                "addr:street": "Via Antonio Pacinotti",
-                "brand": "Foot Locker",
-                "brand:wikidata": "Q63335",
-                "name": "Foot Locker",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "shoes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10138046391,
-            "lat": 40.6355062,
-            "lon": 14.905741,
-            "timestamp": "2024-03-26T21:05:17Z",
-            "version": 4,
-            "changeset": 149195376,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "brand": "Expert",
-                "brand:wikidata": "Q680990",
-                "name": "Expert",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "electronics",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10138046400,
-            "lat": 40.6357831,
-            "lon": 14.9057406,
-            "timestamp": "2024-03-27T12:41:12Z",
-            "version": 4,
-            "changeset": 149222942,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "tags": {
-                "brand": "Guess",
-                "brand:wikidata": "Q2470307",
-                "name": "Guess",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "clothes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 10185127397,
             "lat": 40.9796381,
             "lon": 14.2251315,
@@ -7890,29 +7498,6 @@
                 "stroller": "yes",
                 "website": "https://stores.primark.com/it_it/italia/marcianise/centro-commerciale-%E2%80%9Ccampania%E2%80%9D?y_source=1_NTk5MTI0MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10267359822,
-            "lat": 40.6504235,
-            "lon": 14.8198807,
-            "timestamp": "2024-12-30T16:46:23Z",
-            "version": 3,
-            "changeset": 160800313,
-            "user": "mpbin",
-            "uid": 21850090,
-            "tags": {
-                "addr:city": "Salerno",
-                "addr:housenumber": "52",
-                "addr:postcode": "84131",
-                "addr:street": "Via San Leonardo",
-                "addr:unit": "c",
-                "brand": "Trony",
-                "brand:wikidata": "Q3999692",
-                "name": "Trony",
-                "operator": "Trony",
-                "shop": "electronics"
             }
         },
         {
@@ -8262,6 +7847,33 @@
         },
         {
             "type": "node",
+            "id": 10957723799,
+            "lat": 41.1188286,
+            "lon": 13.8755677,
+            "timestamp": "2025-10-16T16:48:32Z",
+            "version": 5,
+            "changeset": 173375740,
+            "user": "Dom61",
+            "uid": 10368945,
+            "tags": {
+                "addr:city": "Mondragone",
+                "addr:housenumber": "618",
+                "addr:postcode": "81034",
+                "addr:street": "Via Domitiana",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "contact:housenumber": "618",
+                "contact:street": "Via Domitiana",
+                "level": "0",
+                "name": "Despar",
+                "operator": "Domitiamarket s.r.l.",
+                "phone": "+39 0823 979 402",
+                "ref:vatin": "IT04229970613",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
             "id": 10961326457,
             "lat": 40.8779357,
             "lon": 14.2815922,
@@ -8573,27 +8185,6 @@
         },
         {
             "type": "node",
-            "id": 11389925633,
-            "lat": 40.7125163,
-            "lon": 14.9381596,
-            "timestamp": "2025-10-08T20:09:13Z",
-            "version": 2,
-            "changeset": 173021798,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Giffoni Valle Piana",
-                "addr:housenumber": "99",
-                "addr:postcode": "84095",
-                "addr:street": "Via Francesco Spirito",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 11403271244,
             "lat": 40.9137968,
             "lon": 14.7865068,
@@ -8819,57 +8410,6 @@
         },
         {
             "type": "node",
-            "id": 11469185304,
-            "lat": 40.65033,
-            "lon": 14.8139231,
-            "timestamp": "2025-12-28T14:06:26Z",
-            "version": 6,
-            "changeset": 176530341,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Salerno",
-                "addr:postcode": "84131",
-                "addr:street": "Via Generale Clark",
-                "branch": "Salerno Porta del Mare",
-                "brand": "MediaWorld",
-                "brand:wikidata": "Q2381223",
-                "check_date": "2024-10-11",
-                "name": "MediaWorld",
-                "opening_hours": "Mo-Su 09:30-20:30",
-                "operator": "MediaMarket S.p.A.",
-                "shop": "electronics",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11469185306,
-            "lat": 40.6503914,
-            "lon": 14.81443,
-            "timestamp": "2024-10-11T09:28:54Z",
-            "version": 7,
-            "changeset": 157748293,
-            "user": "paulbrunner",
-            "uid": 15541433,
-            "tags": {
-                "addr:city": "Salerno",
-                "addr:postcode": "84131",
-                "addr:street": "Via Generale Clark",
-                "air_conditioning": "yes",
-                "brand": "Conad",
-                "brand:wikidata": "Q639075",
-                "check_date": "2024-10-11",
-                "name": "Conad",
-                "opening_hours": "Mo-Su 08:00-21:00",
-                "phone": "+39 089 917 0023",
-                "shop": "supermarket",
-                "toilets": "yes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 11556649279,
             "lat": 41.05411,
             "lon": 14.6621642,
@@ -9031,91 +8571,6 @@
                 "name": "OVS",
                 "operator": "OVS",
                 "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11762088507,
-            "lat": 40.6355363,
-            "lon": 14.9072231,
-            "timestamp": "2024-05-23T12:10:55Z",
-            "version": 4,
-            "changeset": 151720366,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "brand": "L'Erbolario",
-                "brand:wikidata": "Q116304294",
-                "name": "L'Erbolario",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "herbalist",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11762088512,
-            "lat": 40.6353937,
-            "lon": 14.9064749,
-            "timestamp": "2025-11-05T21:27:24Z",
-            "version": 5,
-            "changeset": 174260783,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pontecagnano Faiano",
-                "addr:postcode": "84098",
-                "addr:street": "Via Antonio Pacinotti",
-                "brand": "Salmoiraghi & Vigan\u00f2",
-                "brand:wikidata": "Q21272314",
-                "name": "Salmoiraghi & Vigan\u00f2",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "phone": "+39 089 214 6155",
-                "shop": "optician",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11762088529,
-            "lat": 40.6351076,
-            "lon": 14.9071047,
-            "timestamp": "2025-04-21T08:22:37Z",
-            "version": 5,
-            "changeset": 165225606,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Pontecagnano Faiano",
-                "addr:postcode": "84098",
-                "addr:street": "Ingresso Maximall",
-                "brand": "Intimissimi",
-                "brand:wikidata": "Q305404",
-                "clothes": "underwear",
-                "name": "Intimissimi",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "operator": "Intimissimi",
-                "shop": "clothes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11762088539,
-            "lat": 40.6359526,
-            "lon": 14.9076473,
-            "timestamp": "2024-05-23T12:10:55Z",
-            "version": 4,
-            "changeset": 151720366,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "brand": "Calzedonia",
-                "brand:wikidata": "Q1027874",
-                "name": "Calzedonia",
-                "opening_hours": "Mo-Fr 09:30-21:00; Sa,Su 09:30-21:30",
-                "shop": "clothes",
-                "wheelchair": "yes"
             }
         },
         {
@@ -9510,29 +8965,6 @@
         },
         {
             "type": "node",
-            "id": 12507516913,
-            "lat": 40.6352568,
-            "lon": 14.9076283,
-            "timestamp": "2025-01-16T18:22:39Z",
-            "version": 1,
-            "changeset": 161429315,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Pontecagnano Faiano",
-                "addr:postcode": "84098",
-                "addr:street": "Via Antonio Pacinotti",
-                "brand": "Primark",
-                "brand:wikidata": "Q137023",
-                "clothes": "women;men;underwear;children;sports",
-                "name": "Primark",
-                "payment:cash": "yes",
-                "payment:credit_cards": "yes",
-                "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
             "id": 12523271627,
             "lat": 40.8718269,
             "lon": 14.1354605,
@@ -9829,6 +9261,26 @@
         },
         {
             "type": "node",
+            "id": 12838477883,
+            "lat": 41.2665161,
+            "lon": 14.1640231,
+            "timestamp": "2025-10-01T17:10:10Z",
+            "version": 2,
+            "changeset": 172716853,
+            "user": "btcitnet",
+            "uid": 22525435,
+            "tags": {
+                "addr:city": "Riardo",
+                "addr:postcode": "81053",
+                "addr:street": "Via Croci di Riardo",
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store"
+            }
+        },
+        {
+            "type": "node",
             "id": 12848600284,
             "lat": 40.845897,
             "lon": 14.2373897,
@@ -10121,6 +9573,25 @@
         },
         {
             "type": "node",
+            "id": 13144598237,
+            "lat": 41.1998711,
+            "lon": 14.034298,
+            "timestamp": "2025-09-15T13:55:31Z",
+            "version": 1,
+            "changeset": 171967684,
+            "user": "Umbyone",
+            "uid": 10622815,
+            "tags": {
+                "addr:city": "Teano",
+                "addr:street": "Strada Provinciale 329 di Teano ex SS 608",
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "name": "OVS",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
             "id": 13200692224,
             "lat": 40.7832418,
             "lon": 14.7556997,
@@ -10243,26 +9714,6 @@
                 "name": "Conad",
                 "shop": "supermarket",
                 "source": "survey"
-            }
-        },
-        {
-            "type": "node",
-            "id": 13300604619,
-            "lat": 41.1187751,
-            "lon": 14.7556259,
-            "timestamp": "2025-11-12T23:56:26Z",
-            "version": 1,
-            "changeset": 174582009,
-            "user": "Umbyone",
-            "uid": 10622815,
-            "tags": {
-                "addr:city": "Benevento",
-                "addr:postcode": "82100",
-                "addr:street": "Contrada San Vito",
-                "brand": "OVS",
-                "brand:wikidata": "Q2042514",
-                "name": "OVS",
-                "shop": "clothes"
             }
         },
         {
@@ -10522,44 +9973,6 @@
                 "phone": "+39 081 584 2034",
                 "shop": "sports",
                 "sport": "soccer;basketball;tennis;swimming;running;volleyball;table_tennis;fitness"
-            }
-        },
-        {
-            "type": "way",
-            "id": 147100755,
-            "timestamp": "2024-03-27T12:18:42Z",
-            "version": 13,
-            "changeset": 149222574,
-            "user": "\u0110uro Ji\u0159\u00ed",
-            "uid": 14617702,
-            "nodes": [
-                1602954220,
-                1602954242,
-                1602954205,
-                1602954255,
-                1602954217,
-                1602954201,
-                1602954200,
-                1602954251,
-                1602954273,
-                1602954274,
-                1602954220
-            ],
-            "tags": {
-                "addr:city": "Montecorvino Pugliano",
-                "addr:postcode": "84090",
-                "brand": "Decathlon",
-                "brand:wikidata": "Q509349",
-                "brand:wikipedia": "en:Decathlon Group",
-                "building": "retail",
-                "building:levels": "1",
-                "name": "Decathlon",
-                "opening_hours": "Sa,Su 09:00-21:00; Mo-Fr 09:30-20:30",
-                "roof:levels": "0",
-                "roof:shape": "flat",
-                "shop": "sports",
-                "website": "https://www.decathlon.it/",
-                "wheelchair": "yes"
             }
         },
         {

@@ -134,6 +134,9 @@
 	<LMarker :lat-lng="[45.4859, 10.92615487]">
 		<LPopup><NuxtLink to="/c/ss-modena">Satoshi Spritz Modena</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[40.8517746, 14.2681244]">
+		<LPopup><NuxtLink to="/c/bb-napoli">Bitcoin Beer Napoli</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[45.8050923, 13.5329932]">
 		<LPopup><NuxtLink to="/c/bb-monfalcone">BitcoinMonfalcone.it</NuxtLink></LPopup>
 	</LMarker>
@@ -244,6 +247,9 @@
 	</LMarker>
 	<LMarker :lat-lng="[45.43490484, 12.33845214]">
 		<LPopup><NuxtLink to="/c/ss-venezia">Satoshi Spritz Venezia</NuxtLink></LPopup>
+	</LMarker>
+	<LMarker :lat-lng="[45.43839046, 10.99352685]">
+		<LPopup><NuxtLink to="/c/bb-verona">Bitcoin Beer Verona</NuxtLink></LPopup>
 	</LMarker>
 	<LMarker :lat-lng="[45.43839046, 10.99352685]">
 		<LPopup><NuxtLink to="/c/ss-verona">Satoshi Spritz Verona</NuxtLink></LPopup>
