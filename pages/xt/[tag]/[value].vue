@@ -47,7 +47,7 @@ definePageMeta({
       <Icon name="eos-icons:bubble-loading" size="48" color="gray" />
     </div>
     <div v-else>
-      <XtLista :pois="data?.items || []" />
+      <XtLista v-if="data?.items?.length" :pois="data.items" />
     </div>
   </LandingContainer>
 </template>
