@@ -19,6 +19,7 @@ const psp = [
   { nome: "Bitcoin People", url: "/xt/psp/bitcoinpeople", img: "/img/psp/bitcoinpeople.svg", },
   { nome: "inbitcoin", url: "/xt/psp/inbitcoin", img: "/img/psp/inbitcoin.svg", },
   { nome: "🇨🇭 Swiss Bitcoin Pay", url: "/xt/psp/swissbitcoinpay", img: "/img/psp/swissbitcoinpay.svg", },
+  { nome: "DataSapiens", url: "/xt/psp/datasapiens", img: "/img/psp/datasapiens.svg", },
 ];
 
 const breadcrumb = computed(() => [
